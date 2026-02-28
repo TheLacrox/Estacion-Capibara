@@ -35,6 +35,9 @@ enabled = true
 hostname = "Hispania Station 14 [ES]"
 desc = "Servidor de Space Station 14 en español"
 
+[loc]
+culture_name = "es-ES"
+
 [console]
 # If this is true, people connecting from this machine (loopback)
 # will automatically be elevated to full admin privileges.

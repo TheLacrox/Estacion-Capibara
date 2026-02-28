@@ -13,6 +13,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
+[loc]
+culture_name = "es-ES"
+
 [game]
 # Straight in-game baby
 lobbyenabled = false
