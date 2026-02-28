@@ -13,8 +13,8 @@ jobs:
       pull-requests: write 
 
     env:
-      REMOTE_URL: 'https://github.com/space-wizards/space-station-14.git'
-      REMOTE_BRANCH: 'stable'
+      REMOTE_URL: 'https://github.com/Goob-Station/Goob-Station.git'
+      REMOTE_BRANCH: 'master'
       TARGET_BRANCH: 'rebase'
       SYNC_BRANCH: 'automated-upstream-branch'
 
