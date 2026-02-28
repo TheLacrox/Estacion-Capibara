@@ -1,0 +1,6 @@
+- type: latheRecipePack
+  id: NuclearBoards
+  recipes:
+  - NuclearFabricatorMachineCircuitboard
+  - NuclearCentrifugeMachineCircuitboard
+  - NuclearReactorMonitorComputerCircuitboard

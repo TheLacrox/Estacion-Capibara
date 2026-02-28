@@ -602,6 +602,8 @@
     # Goobstation Packs
     - SharedBoards
     - ShuttleBoardsGoob
+    # FarHorizons - Nuclear Reactor
+    - NuclearBoards
   - type: MaterialStorage
     whitelist:
       tags:
