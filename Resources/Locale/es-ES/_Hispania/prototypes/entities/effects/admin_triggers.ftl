@@ -1,0 +1,1 @@
+ent-AdminInstantEffectBase = efecto instantáneo

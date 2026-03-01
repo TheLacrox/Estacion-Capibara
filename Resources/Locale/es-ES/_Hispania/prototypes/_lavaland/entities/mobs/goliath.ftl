@@ -1,0 +1,1 @@
+ent-MobLavalandGoliathAncient = goliath antiguo

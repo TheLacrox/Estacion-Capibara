@@ -1,0 +1,1 @@
+ent-ActionMappingEraser = Borrar Entidad

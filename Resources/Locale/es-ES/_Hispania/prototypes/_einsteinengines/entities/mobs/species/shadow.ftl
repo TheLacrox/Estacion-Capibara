@@ -1,0 +1,1 @@
+ent-BaseMobShadow = Urist McShadow

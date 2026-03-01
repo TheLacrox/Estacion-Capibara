@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python extract_missing_entities.py:*)"
+    ]
+  }
+}

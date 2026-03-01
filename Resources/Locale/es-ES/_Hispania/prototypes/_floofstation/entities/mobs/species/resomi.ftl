@@ -1,0 +1,1 @@
+ent-BaseMobResomi = Urist McRaptor

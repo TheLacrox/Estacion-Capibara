@@ -1,0 +1,1 @@
+ent-BaseMobArachnid = Urist McTelarañas

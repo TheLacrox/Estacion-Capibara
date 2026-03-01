@@ -1,0 +1,2 @@
+ent-NukeOpsDeclarationOfWar = declarador de guerra
+    .desc = Úsalo para enviar una declaración de hostilidades al objetivo, retrasando la partida de tu lanzadera mientras se preparan para tu asalto. Un movimiento tan audaz atraerá la atención de poderosos benefactores del Syndicate, quienes suministrarán a tu equipo una enorme cantidad de telecristales adicionales. Debe usarse al inicio de la misión o tus benefactores perderán el interés.

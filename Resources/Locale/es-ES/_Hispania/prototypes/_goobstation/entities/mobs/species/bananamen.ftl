@@ -1,0 +1,1 @@
+ent-BaseMobBananaMen = Urist McPotassium

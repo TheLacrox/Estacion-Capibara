@@ -1,0 +1,1 @@
+ent-BaseMobSkeletonPerson = Urist McEsqueleto

@@ -1,0 +1,1 @@
+ent-FloorTileItemBingle = suelo bingle

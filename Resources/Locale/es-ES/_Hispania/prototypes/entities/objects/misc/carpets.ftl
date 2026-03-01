@@ -1,0 +1,1 @@
+ent-FloorCarpetItemRed = alfombra
