@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-transformable-container-component-glass = {$reagent} glass
+transformable-container-component-glass = vaso de {$reagent}

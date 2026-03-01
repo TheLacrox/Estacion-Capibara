@@ -1,4 +1,4 @@
-﻿cmd-deletecomponent-desc = Deletes all instances of the specified component.
-cmd-deletecomponent-help = Usage: deletecomponent <name>"
-cmd-deletecomponent-no-component-exists = No component exists with name {$name}.
-cmd-deletecomponent-success = Removed {$count} components with name {$name}.
+cmd-deletecomponent-desc = Elimina todas las instancias del componente especificado.
+cmd-deletecomponent-help = Uso: deletecomponent <nombre>"
+cmd-deletecomponent-no-component-exists = No existe ningún componente con el nombre {$name}.
+cmd-deletecomponent-success = Se eliminaron {$count} componentes con el nombre {$name}.

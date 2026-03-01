@@ -1,27 +1,27 @@
-slaughter-round-end-agent-name = slaughter demon
-laughter-round-end-agent-name = laughter demon
-lesser-slaughter-round-end-agent-name = lesser slaughter demon
+slaughter-round-end-agent-name = demonio de la masacre
+laughter-round-end-agent-name = demonio de la risa
+lesser-slaughter-round-end-agent-name = demonio menor de la masacre
 
-objective-issuer-slaughter-satan = [color=#FF0000]Satan[/color]
+objective-issuer-slaughter-satan = [color=#FF0000]Satanás[/color]
 objective-issuer-slaughter-bubblegum = [color=#9F2B68]Bubblegum[/color]
-objective-issuer-slaughter-devil = [color=#FFC0CB]Devil[/color]
+objective-issuer-slaughter-devil = [color=#FFC0CB]Diablo[/color]
 
 slaughter-role-greeting =
-    You are the Slaughter Demon, a terrible creature from another existence. You have a single desire: to kill.
-    You may use the blood crawl icon when on blood pools to travel through them, appearing and disappearing from the station at will.
-    Pulling a dead or critical mob while you enter a pool will pull them in with you, allowing you to feast.
-    You move quickly upon leaving a pool of blood, but the material world will soon sap your strength and leave you sluggish.
+    Eres el Demonio de la Masacre, una terrible criatura de otra existencia. Tienes un único deseo: matar.
+    Puedes usar el ícono de arrastre de sangre cuando estés sobre charcos de sangre para desplazarte por ellos, apareciendo y desapareciendo de la estación a voluntad.
+    Arrastrar un mob muerto o en estado crítico mientras entras en un charco lo arrastrará contigo, permitiéndote festejarte.
+    Te mueves rápido al salir de un charco de sangre, pero el mundo material pronto agotará tus fuerzas y te dejará lento.
 
 laughter-role-greeting =
-    You are the Laughter Demon, an adorable creature from another existence. You have a single desire: to hug and tickle.
-    You may use the blood crawl icon when on blood pools to travel through them, appearing and disappearing from the station at will.
-    Pulling a dead or critical mob while you enter a pool will pull them in with you, allowing you to hug them.
-    You move quickly upon leaving a pool of blood, but the material world will soon sap your strength and leave you sluggish.
+    Eres el Demonio de la Risa, una adorable criatura de otra existencia. Tienes un único deseo: abrazar y hacer cosquillas.
+    Puedes usar el ícono de arrastre de sangre cuando estés sobre charcos de sangre para desplazarte por ellos, apareciendo y desapareciendo de la estación a voluntad.
+    Arrastrar un mob muerto o en estado crítico mientras entras en un charco lo arrastrará contigo, permitiéndote abrazarlo.
+    Te mueves rápido al salir de un charco de sangre, pero el mundo material pronto agotará tus fuerzas y te dejará lento.
 
 # actions
-demonic-whisper-title = Demonic Whisper
-demonic-whisper-popup = Suddenly a strange, demonic voice resonates in your head...
-demonic-whisper-whisper = You whisper to {$name}: {$message}
+demonic-whisper-title = Susurro Demoníaco
+demonic-whisper-popup = De repente una extraña voz demoníaca resuena en tu cabeza...
+demonic-whisper-whisper = Le susurras a {$name}: {$message}
 
 # metadata
-name-format-slaughter = {$part1}, the {$part0}
+name-format-slaughter = {$part1}, el {$part0}

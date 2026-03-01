@@ -7,11 +7,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-condition-machine-container-empty = Remove the parts from the frame using a [color=cyan]Crowbar[/color].
+construction-condition-machine-container-empty = Retira las piezas del chasis usando una [color=cyan]palanca[/color].
 
 # MachineFrameComplete
-construction-condition-machine-frame-requirement-label = Requires:
-construction-condition-machine-frame-insert-circuit-board-message = Insert [color=cyan]any machine circuit board[/color].
+construction-condition-machine-frame-requirement-label = Requiere:
+construction-condition-machine-frame-insert-circuit-board-message = Inserta [color=cyan]cualquier placa de circuito de máquina[/color].
 construction-condition-machine-frame-required-element-entry = [color=yellow]{$amount}x[/color] [color=green]{$elementName}[/color]
-construction-step-condition-machine-frame-board = You will need to insert a machine board.
-construction-step-condition-machine-frame-parts = Afterwards, insert all required parts.
+construction-step-condition-machine-frame-board = Necesitarás insertar una placa de máquina.
+construction-step-condition-machine-frame-parts = Luego, inserta todas las piezas requeridas.

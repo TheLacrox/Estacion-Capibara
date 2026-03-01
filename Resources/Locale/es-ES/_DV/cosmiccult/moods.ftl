@@ -1,41 +1,41 @@
-thaven-mood-cosmic-nihilism-name = Astral Nihilism
-thaven-mood-cosmic-nihilism-desc = Life doesn't mean anything to you anymore. Nothing does. Nothing brings you joy, and nothing matters.
+thaven-mood-cosmic-nihilism-name = Nihilismo Astral
+thaven-mood-cosmic-nihilism-desc = La vida ya no significa nada para ti. Nada significa nada. Nada te trae alegría, y nada importa.
 
-thaven-mood-cosmic-insignificance-name = Astral insignificance
-thaven-mood-cosmic-insignificance-desc = You are at all times painfully aware of your insignificance within the great scope of the universe.
+thaven-mood-cosmic-insignificance-name = Insignificancia Astral
+thaven-mood-cosmic-insignificance-desc = En todo momento eres dolorosamente consciente de tu insignificancia dentro del gran alcance del universo.
 
-thaven-mood-cosmic-unfamiliarity-name = Vacuous Unfamiliarity
-thaven-mood-cosmic-unfamiliarity-desc = The world around you is strange and unfamiliar, and everyone you meet is unrecognizable to you. You can't bring yourself to trust anything they say.
+thaven-mood-cosmic-unfamiliarity-name = Extrañeza Vacía
+thaven-mood-cosmic-unfamiliarity-desc = El mundo que te rodea es extraño y desconocido, y todos los que conoces te resultan irreconocibles. No puedes llegar a confiar en nada de lo que dicen.
 
-thaven-mood-cosmic-fakemonument-name = Malign Monument
-thaven-mood-cosmic-fakemonument-desc = A great shadow fills your minds' eye, the silhouette of a looming structure. A Monument. You must find it or make one yourself, at all costs.
+thaven-mood-cosmic-fakemonument-name = Monumento Maligno
+thaven-mood-cosmic-fakemonument-desc = Una gran sombra llena el ojo de tu mente, la silueta de una estructura amenazante. Un Monumento. Debes encontrarlo o construir uno tú mismo, a cualquier precio.
 
-thaven-mood-cosmic-wakingdream-name = Cosmic Dream
-thaven-mood-cosmic-wakingdream-desc = This reality is an illusion, a great dream that you share from beyond the veil of nothing, for all things have long since ended. Rejoice!
+thaven-mood-cosmic-wakingdream-name = Sueño Cósmico
+thaven-mood-cosmic-wakingdream-desc = Esta realidad es una ilusión, un gran sueño que compartes desde más allá del velo de la nada, pues todo terminó hace mucho. ¡Alégrate!
 
-thaven-mood-cosmic-livingnightmare-name = Entropic Nightmare
-thaven-mood-cosmic-livingnightmare-desc = This isn't reality, it's a waking nightmare that you and everyone around you is trapped in. You need to survive this nightmare at all costs.
+thaven-mood-cosmic-livingnightmare-name = Pesadilla Entrópica
+thaven-mood-cosmic-livingnightmare-desc = Esto no es la realidad, es una pesadilla en vigilia en la que tú y todos los que te rodean estáis atrapados. Necesitas sobrevivir a esta pesadilla a cualquier precio.
 
-thaven-mood-cosmic-grotesqueworld-name = Grotesquerie
-thaven-mood-cosmic-grotesqueworld-desc = The world around you is disgusting and vile. The sights of the station nauseate you, and your coworkers have been replaced with grotesque monsters.
+thaven-mood-cosmic-grotesqueworld-name = Grotesquería
+thaven-mood-cosmic-grotesqueworld-desc = El mundo que te rodea es asqueroso y vil. Las visiones de la estación te dan náuseas, y tus compañeros han sido reemplazados por monstruos grotescos.
 
-thaven-mood-cosmic-voiceoftheend-name = Cosmic Harbinger
-thaven-mood-cosmic-voiceoftheend-desc = The end of all things is coming! You must spread the word and ensure as many people as possible are prepared for the end.
+thaven-mood-cosmic-voiceoftheend-name = Heraldo Cósmico
+thaven-mood-cosmic-voiceoftheend-desc = ¡El fin de todas las cosas se acerca! Debes difundir la palabra y asegurarte de que tantas personas como sea posible estén preparadas para el final.
 
-thaven-mood-cosmic-worshipoftheend-name = Cosmic Faith
-thaven-mood-cosmic-worshipoftheend-desc = You are infatuated with the notion of the end of all things. It ought to be worshipped! By you, and as many as you can convince to join you.
+thaven-mood-cosmic-worshipoftheend-name = Fe Cósmica
+thaven-mood-cosmic-worshipoftheend-desc = Estás fascinado con la noción del fin de todas las cosas. ¡Debería ser adorado! Por ti, y por tantos como puedas convencer de unirse a ti.
 
-thaven-mood-cosmic-disregardoftheliving-name = Disregard Of The Living
-thaven-mood-cosmic-disregardoftheliving-desc = You have no care for the needs of the living around you, no matter how dire. They're all going to die anyway.
+thaven-mood-cosmic-disregardoftheliving-name = Indiferencia Hacia los Vivos
+thaven-mood-cosmic-disregardoftheliving-desc = No te importan las necesidades de los vivos a tu alrededor, sin importar cuán urgentes sean. De todos modos van a morir todos.
 
-thaven-mood-cosmic-disregardoftheself-name = Disregard Of The Self
-thaven-mood-cosmic-disregardoftheself-desc = You have no care for your own needs, no matter how dire. You're going to die, anyway.
+thaven-mood-cosmic-disregardoftheself-name = Indiferencia Hacia Uno Mismo
+thaven-mood-cosmic-disregardoftheself-desc = No te importan tus propias necesidades, sin importar cuán urgentes sean. De todos modos vas a morir.
 
-thaven-mood-cosmic-fearofbeingforgotten-name = Lethophobia
-thaven-mood-cosmic-fearofbeingforgotten-desc = You have an intense and irrational fear of forgetting: Being forgotten, forgetting something, and forgetting someone. You must do everything you can to be remembered.
+thaven-mood-cosmic-fearofbeingforgotten-name = Letofobia
+thaven-mood-cosmic-fearofbeingforgotten-desc = Tienes un miedo intenso e irracional al olvido: ser olvidado, olvidar algo y olvidar a alguien. Debes hacer todo lo posible para ser recordado.
 
-thaven-mood-cosmic-fearofendings-name = Apeirophobia
-thaven-mood-cosmic-fearofendings-desc = You have an intense and irrational fear of eternities: Afterlives, oblivion, and infinity.
+thaven-mood-cosmic-fearofendings-name = Apeirofobia
+thaven-mood-cosmic-fearofendings-desc = Tienes un miedo intenso e irracional a las eternidades: el más allá, la nada y el infinito.
 
-thaven-mood-cosmic-painlessendings-name = Euthanasia
-thaven-mood-cosmic-painlessendings-desc = You have seen the imminent end, and it is far worse than you could ever imagine. It would be a kindness to keep creatures of lesser intelligence from living to see it. You don't want animals to suffer; keep your methods as painless as you can.
+thaven-mood-cosmic-painlessendings-name = Eutanasia
+thaven-mood-cosmic-painlessendings-desc = Has visto el fin inminente, y es mucho peor de lo que podrías imaginar. Sería una bondad evitar que los seres de menor inteligencia vivan para verlo. No quieres que los animales sufran; mantén tus métodos lo más indoloros posible.

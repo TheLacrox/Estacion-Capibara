@@ -4,17 +4,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-OniHornSingleCurved = Single Curved
-marking-OniHornSingleCurved-single_curved = Single Curved
-marking-OniHornSingleLeftCurved = Single Left Curved
-marking-OniHornSingleLeftCurved-single_left_curved = Single Left Curved
-marking-OniHornSingleRightCurved = Single Right Curved
-marking-OniHornSingleRightCurved-single_right_curved = Single Right Curved
-marking-OniHornDoubleCurvedOutwards = Double Curved Outwards
-marking-OniHornDoubleCurvedOutwards-double_curved_outwards = Double Curved Outwards
-marking-OniHornDoubleCurved = Double Curved
-marking-OniHornDoubleCurved-double_curved = Double Curved
-marking-OniHornDoubleLeftBrokeCurved = Double Left Broke Curved
-marking-OniHornDoubleLeftBrokeCurved-double_left_broke_curved = Double Left Broke Curved
-marking-OniHornDoubleRightBrokeCurved =  Double Right Broke Curved
-marking-OniHornDoubleRightBrokeCurved-double_right_broke_curved = Double Right Broke Curved
+marking-OniHornSingleCurved = Cuerno único curvo
+marking-OniHornSingleCurved-single_curved = Cuerno único curvo
+marking-OniHornSingleLeftCurved = Cuerno único curvo izquierdo
+marking-OniHornSingleLeftCurved-single_left_curved = Cuerno único curvo izquierdo
+marking-OniHornSingleRightCurved = Cuerno único curvo derecho
+marking-OniHornSingleRightCurved-single_right_curved = Cuerno único curvo derecho
+marking-OniHornDoubleCurvedOutwards = Cuernos dobles curvados hacia afuera
+marking-OniHornDoubleCurvedOutwards-double_curved_outwards = Cuernos dobles curvados hacia afuera
+marking-OniHornDoubleCurved = Cuernos dobles curvos
+marking-OniHornDoubleCurved-double_curved = Cuernos dobles curvos
+marking-OniHornDoubleLeftBrokeCurved = Cuernos dobles curvos rotos izquierdos
+marking-OniHornDoubleLeftBrokeCurved-double_left_broke_curved = Cuernos dobles curvos rotos izquierdos
+marking-OniHornDoubleRightBrokeCurved =  Cuernos dobles curvos rotos derechos
+marking-OniHornDoubleRightBrokeCurved-double_right_broke_curved = Cuernos dobles curvos rotos derechos

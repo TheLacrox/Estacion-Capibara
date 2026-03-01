@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ghostrole-spawner-select = Selected: {$mode}
+ghostrole-spawner-select = Seleccionado: {$mode}

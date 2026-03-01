@@ -1,4 +1,4 @@
 # Localization for copyoutfit command
-cmd-copyoutfit-desc = Copies inventory from one entity to another.
-cmd-copyoutfit-help = Usage: copyoutfit <source> <target> <delete>
-cmd-copyoutfit-delete-hint = Delete removed items (true/false)
+cmd-copyoutfit-desc = Copia el inventario de una entidad a otra.
+cmd-copyoutfit-help = Uso: copyoutfit <origen> <destino> <eliminar>
+cmd-copyoutfit-delete-hint = Eliminar objetos removidos (true/false)

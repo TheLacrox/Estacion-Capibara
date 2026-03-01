@@ -1,2 +1,2 @@
-﻿cmd-npc-desc = Opens the debug window for NPCs.
-cmd-npc-help = Usage: npc
+cmd-npc-desc = Abre la ventana de depuración para NPCs.
+cmd-npc-help = Uso: npc

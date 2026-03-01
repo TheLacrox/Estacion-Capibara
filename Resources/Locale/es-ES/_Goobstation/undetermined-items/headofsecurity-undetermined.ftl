@@ -1,19 +1,19 @@
 selectable-set-hos-smg-name = X-6 "Threadripper"
 selectable-set-hos-smg-description =
-    An elaborately designed SMG, firing shots of pure phoron.
-    Amazing for laying down suppressive fire.
+    Una SMG de diseño elaborado que dispara proyectiles de phorón puro.
+    Ideal para mantener fuego de supresión.
 
 selectable-set-hos-shotgun-name = X-12 "Flamberge"
 selectable-set-hos-shotgun-description =
-    An elaborately designed shotgun, firing shots of pure phoron.
-    Built to break down defenses, and it does that job well.
+    Una escopeta de diseño elaborado que dispara proyectiles de phorón puro.
+    Diseñada para romper defensas, y lo hace muy bien.
 
 selectable-set-hos-sniper-name = X-18 "Ranought"
 selectable-set-hos-sniper-description =
-    An elaborately designed sniper rifle, firing shots of pure phoron.
-    You won't want to get hit by this.
+    Un rifle de francotirador de diseño elaborado que dispara proyectiles de phorón puro.
+    No querrás que te alcance.
 
 selectable-set-hos-rifle-name = X-8 "Station Sweeper"
 selectable-set-hos-rifle-description =
-    An elaborately designed rifle, firing shots of pure phoron.
-    Low fire rate, high damage.
+    Un rifle de diseño elaborado que dispara proyectiles de phorón puro.
+    Cadencia de fuego baja, daño alto.

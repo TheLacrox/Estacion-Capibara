@@ -9,14 +9,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-zombie-transform = {CAPITALIZE(THE($target))} turned into a zombie!
-zombie-infection-greeting = You have become a zombie. Your goal is to seek out the living and to try to infect them.  Work together with the other zombies and remaining initial infected to overtake the station.
+zombie-transform = ¡{CAPITALIZE(THE($target))} se convirtió en un zombi!
+zombie-infection-greeting = Te has convertido en un zombi. Tu objetivo es buscar a los vivos e intentar infectarlos. Trabaja junto a los demás zombis y los infectados iniciales restantes para tomar la estación.
 
-zombie-generic = zombie
-zombie-name-prefix = zombified {$baseName}
-zombie-role-desc =  A malevolent creature of the dead.
-zombie-role-rules = You are a [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Search out the living and bite them in order to infect them and turn them into zombies. Work together with the other zombies and remaining initial infected to overtake the station.
+zombie-generic = zombi
+zombie-name-prefix = {$baseName} zombificado
+zombie-role-desc =  Una criatura malévola de entre los muertos.
+zombie-role-rules = Eres un [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Busca a los vivos y muérdelos para infectarlos y convertirlos en zombis. Trabaja junto a los demás zombis y los infectados iniciales restantes para tomar la estación.
 
-zombie-permadeath = This time, you're dead for real.
+zombie-permadeath = Esta vez, estás muerto de verdad.
 
-zombification-resistance-coefficient-value = - [color=violet]Infection[/color] chance reduced by [color=lightblue]{$value}%[/color].
+zombification-resistance-coefficient-value = - Probabilidad de [color=violet]Infección[/color] reducida en [color=lightblue]{$value}%[/color].

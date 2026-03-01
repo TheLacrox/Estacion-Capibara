@@ -1,20 +1,20 @@
-﻿# For Sol Alliance Navy Deserters
-ghost-role-information-deserter-name = Solarian Navy Deserter
-ghost-role-information-deserter-description = "I've fucking had it with the quartermaster not giving me my damn paycheck! Let's take one of the dropships for a joyride and go looting to pay ourselves."
+# For Sol Alliance Navy Deserters
+ghost-role-information-deserter-name = Desertor de la Armada Soliaria
+ghost-role-information-deserter-description = "¡Estoy harto de que el jefe de suministros no me pague! Vamos a llevarnos uno de los dropships de juerga y a saquear para pagarnos."
 ghost-role-information-deserter-rules =
-    You are not a terrorist, but you're not exactly a great person either. Do whatever it takes to "Get back what the navy owed us".
-    Taking hostages and making unreasonable demands is highly encouraged. Live out your space pirate fantasy here.
-    Don't go out of your way to cause mass destruction, since turning the station to slag will also deny you your payday.
-roles-antag-sol-alliance-navy-deserter = Solarian Navy Deserter
-roles-antag-sol-alliance-navy-deserter-objective = Fill your dropship with as much valuable loot as possible, while living to brag about it at the next freeport.
+    No eres un terrorista, pero tampoco eres exactamente una buena persona. Haz lo que sea necesario para "recuperar lo que la armada nos debía".
+    Tomar rehenes y hacer demandas irrazonables está muy recomendado. Vive aquí tu fantasía de pirata espacial.
+    No te esfuerces en causar destrucción masiva, ya que convertir la estación en escoria también te negaría tu paga.
+roles-antag-sol-alliance-navy-deserter = Desertor de la Armada Soliaria
+roles-antag-sol-alliance-navy-deserter-objective = Llena tu dropship con el botín más valioso posible, y vive para presumir de ello en el próximo puerto libre.
 id-card-access-level-sol-alliance-navy = SAN
-role-type-SAN-antagonist-name = Deserter
+role-type-SAN-antagonist-name = Desertor
 
 # Shadowling
 roles-antag-shadowling-name = Shadowling
-roles-antag-shadowling-description = Enthrall the crew, ascend and become akin to a God.
-roles-antag-shadowling-objective = Ascend.
+roles-antag-shadowling-description = Somete a la tripulación, asciende y conviértete en algo parecido a un Dios.
+roles-antag-shadowling-objective = Ascender.
 
 roles-antag-thrall-name = Thrall
-roles-antag-thrall-description = Work with your Shadowling to ensure their ascension.
-roles-antag-thrall-objective = Help your shadowling ascend.
+roles-antag-thrall-description = Trabaja con tu Shadowling para asegurar su ascensión.
+roles-antag-thrall-objective = Ayuda a tu shadowling a ascender.

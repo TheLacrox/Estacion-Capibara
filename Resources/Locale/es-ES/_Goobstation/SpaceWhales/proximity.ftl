@@ -1,4 +1,4 @@
-station-proximity-far-from-station = You feel that something is coming, you should head back to the station.
+station-proximity-far-from-station = Sientes que algo se acerca, deberías volver a la estación.
 
-petting-success-leviathan = Against any common sense, you pet the space leviathan. Somehow.
-petting-failure-leviathan = What.
+petting-success-leviathan = Contra todo sentido común, acaricias al leviatán espacial. De alguna manera.
+petting-failure-leviathan = Qué.

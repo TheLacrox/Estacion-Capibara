@@ -12,46 +12,46 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-astrotame = Astrotame
-reagent-desc-astrotame = The sweetness of a thousand sugars but none of the calories.
+reagent-desc-astrotame = La dulzura de mil azúcares pero sin ninguna de las calorías.
 
-reagent-name-bbq-sauce = BBQ sauce
-reagent-desc-bbq-sauce = Hand wipes not included.
+reagent-name-bbq-sauce = salsa BBQ
+reagent-desc-bbq-sauce = Toallitas no incluidas.
 
-reagent-name-cornoil = corn oil
-reagent-desc-cornoil = Corn oil, A delicious oil used in cooking. Made from corn.
+reagent-name-cornoil = aceite de maíz
+reagent-desc-cornoil = Aceite de maíz, un delicioso aceite para cocinar. Hecho de maíz.
 
-reagent-name-coldsauce = coldsauce
-reagent-desc-coldsauce = Leaves the tongue numb in its passage.
+reagent-name-coldsauce = salsa fría
+reagent-desc-coldsauce = Deja la lengua entumecida a su paso.
 
-reagent-name-horseradish-sauce = horseradish sauce
-reagent-desc-horseradish-sauce = Smelly horseradish sauce.
+reagent-name-horseradish-sauce = salsa de rábano picante
+reagent-desc-horseradish-sauce = Salsa de rábano picante maloliente.
 
-reagent-name-hotsauce = hotsauce
-reagent-desc-hotsauce = Burns so good.
+reagent-name-hotsauce = salsa picante
+reagent-desc-hotsauce = Arde de manera deliciosa.
 
-reagent-name-ketchup = ketchup
-reagent-desc-ketchup = Made from pureed tomatoes and flavored with spices.
+reagent-name-ketchup = kétchup
+reagent-desc-ketchup = Elaborado con tomates triturados y aromatizado con especias.
 
 reagent-name-ketchunaise = ketchunaise
-reagent-desc-ketchunaise = So-called Russian dressing, popular among Space Americans.
+reagent-desc-ketchunaise = El llamado aderezo ruso, popular entre los americanos del espacio.
 
-reagent-name-laughin-syrup = laughin' syrup
-reagent-desc-laughin-syrup = The product of juicing Laughin' Peas. Fizzy, and seems to change flavour based on what it's used with!
+reagent-name-laughin-syrup = jarabe risueño
+reagent-desc-laughin-syrup = El producto de exprimir Guisantes Risueños. ¡Efervescente, y parece cambiar de sabor según con qué se use!
 
-reagent-name-mayo = mayonnaise
-reagent-desc-mayo = Creamy sauce, made from oil, egg, and some (edible) acid.
+reagent-name-mayo = mayonesa
+reagent-desc-mayo = Salsa cremosa elaborada con aceite, huevo y un ácido (comestible).
 
-reagent-name-mustard = mustard
-reagent-desc-mustard = Basic yellow mustard, made from the seeds of the mustard plant.
+reagent-name-mustard = mostaza
+reagent-desc-mustard = Mostaza amarilla básica, elaborada con las semillas de la planta de la mostaza.
 
-reagent-name-vinaigrette = vinaigrette
-reagent-desc-vinaigrette = A basic salad dressing made with oil, vinegar and seasoning.
+reagent-name-vinaigrette = vinagreta
+reagent-desc-vinaigrette = Un aderezo básico de ensalada elaborado con aceite, vinagre y condimentos.
 
-reagent-name-soysauce = soy sauce
-reagent-desc-soysauce = A salty soy-based flavoring.
+reagent-name-soysauce = salsa de soja
+reagent-desc-soysauce = Un condimento salado a base de soja.
 
-reagent-name-table-salt = table salt
-reagent-desc-table-salt = Commonly known as salt, Sodium Chloride is often used to season food or kill borers instantly.
+reagent-name-table-salt = sal de mesa
+reagent-desc-table-salt = Comúnmente conocida como sal, el cloruro de sodio se usa a menudo para sazonar comida o matar barrenadores al instante.
 
-reagent-name-syrup = syrup
-reagent-desc-syrup = Delicious syrup made from tree sap, somehow stickier than glue.
+reagent-name-syrup = sirope
+reagent-desc-syrup = Delicioso sirope hecho de savia de árbol, de algún modo más pegajoso que el pegamento.

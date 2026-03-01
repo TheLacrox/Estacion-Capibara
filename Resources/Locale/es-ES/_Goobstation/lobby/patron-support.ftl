@@ -1,32 +1,32 @@
-patron-support-window-title = Support Goob Station
-patron-support-window-header = Thank you for playing on Goob Station!
-patron-support-window-description1 = If you're enjoying your time here, please consider supporting us on Patreon!
-patron-support-window-description2 = Your support helps us keep the servers running, fund development, and continue improving the game. We're currently working on opening a US-East server in Virginia and doing a major rebase to clean up our codebase.
+patron-support-window-title = Apoya Goob Station
+patron-support-window-header = ¡Gracias por jugar en Goob Station!
+patron-support-window-description1 = Si estás disfrutando tu tiempo aquí, ¡por favor considera apoyarnos en Patreon!
+patron-support-window-description2 = Tu apoyo nos ayuda a mantener los servidores funcionando, financiar el desarrollo y seguir mejorando el juego. Actualmente estamos trabajando en abrir un servidor en US-East en Virginia y haciendo un rebase importante para limpiar nuestro código base.
 
-patron-support-window-tiers-header = Patron Tiers and Rewards
+patron-support-window-tiers-header = Niveles de Patrón y Recompensas
 
-patron-support-window-tier1-name = Assistant ($5/month)
-patron-support-window-tier1-perk1 = • 2x Goob Coin earnings
-patron-support-window-tier1-perk2 = • Priority role queue access
-patron-support-window-tier1-perk3 = • Purple OOC name color
-patron-support-window-tier1-perk4 = • Thanks in the credits in-game
-patron-support-window-tier1-perk5 = • Special Discord role
-patron-support-window-tier1-perk6 = • Access to members-only Discord channel
+patron-support-window-tier1-name = Asistente ($5/mes)
+patron-support-window-tier1-perk1 = • 2x ganancias de Monedas Goob
+patron-support-window-tier1-perk2 = • Acceso prioritario a la cola de roles
+patron-support-window-tier1-perk3 = • Color de nombre OOC morado
+patron-support-window-tier1-perk4 = • Agradecimiento en los créditos del juego
+patron-support-window-tier1-perk5 = • Rol especial en Discord
+patron-support-window-tier1-perk6 = • Acceso al canal exclusivo de Discord para miembros
 
-patron-support-window-tier2-name = Janitor ($10/month)
-patron-support-window-tier2-perk1 = • Custom ghost color
-patron-support-window-tier2-perk2 = • All previous tier benefits
+patron-support-window-tier2-name = Conserje ($10/mes)
+patron-support-window-tier2-perk1 = • Color de fantasma personalizado
+patron-support-window-tier2-perk2 = • Todos los beneficios del nivel anterior
 
-patron-support-window-tier3-name = Station AI ($20/month)
-patron-support-window-tier3-perk1 = • Custom lobby message
-patron-support-window-tier3-perk2 = • All previous tier benefits
+patron-support-window-tier3-name = IA de Estación ($20/mes)
+patron-support-window-tier3-perk1 = • Mensaje de lobby personalizado
+patron-support-window-tier3-perk2 = • Todos los beneficios del nivel anterior
 
-patron-support-window-tier4-name = Captain ($50/month)
-patron-support-window-tier4-perk1 = • Round-end shoutout
-patron-support-window-tier4-perk2 = • All previous tier benefits
+patron-support-window-tier4-name = Capitán ($50/mes)
+patron-support-window-tier4-perk1 = • Mención al final de ronda
+patron-support-window-tier4-perk2 = • Todos los beneficios del nivel anterior
 
-patron-support-window-tier5-name = Central Command ($100/month)
-patron-support-window-tier5-perk1 = • Our undying love
-patron-support-window-tier5-perk2 = • All previous tier benefits
+patron-support-window-tier5-name = Mando Central ($100/mes)
+patron-support-window-tier5-perk1 = • Nuestro amor eterno
+patron-support-window-tier5-perk2 = • Todos los beneficios del nivel anterior
 
-patron-support-window-button = Visit our Patreon
+patron-support-window-button = Visita nuestro Patreon

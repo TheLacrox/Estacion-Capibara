@@ -1,5 +1,5 @@
 chat-emote-name-yip = Yip
-chat-emote-name-coo = Coo
+chat-emote-name-coo = Arrullo
 
-chat-emote-msg-yip = yips!
-chat-emote-msg-coo = coos!
+chat-emote-msg-yip = ¡yelpa!
+chat-emote-msg-coo = ¡arrulla!

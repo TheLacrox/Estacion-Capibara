@@ -4,22 +4,22 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-robotics-console-window-title = Robotics Console
-robotics-console-no-cyborgs = No Cyborgs!
+robotics-console-window-title = Consola de robótica
+robotics-console-no-cyborgs = ¡No hay cyborgs!
 
-robotics-console-select-cyborg = Select a cyborg above.
-robotics-console-model = [color=gray]Model:[/color] {$name}
+robotics-console-select-cyborg = Selecciona un cyborg arriba.
+robotics-console-model = [color=gray]Modelo:[/color] {$name}
 # name is not formatted to prevent players trolling
-robotics-console-designation = [color=gray]Designation:[/color]
-robotics-console-battery = [color=gray]Battery charge:[/color] [color={$color}]{$charge}[/color]%
-robotics-console-modules = [color=gray]Modules installed:[/color] {$count}
-robotics-console-brain = [color=gray]Brain installed:[/color] [color={$brain ->
-    [true] green]Yes
+robotics-console-designation = [color=gray]Designación:[/color]
+robotics-console-battery = [color=gray]Carga de batería:[/color] [color={$color}]{$charge}[/color]%
+robotics-console-modules = [color=gray]Módulos instalados:[/color] {$count}
+robotics-console-brain = [color=gray]Cerebro instalado:[/color] [color={$brain ->
+    [true] green]Sí
     *[false] red]No
 }[/color]
 
-robotics-console-locked-message = Controls locked, swipe ID.
-robotics-console-disable = Disable
-robotics-console-destroy = Destroy
+robotics-console-locked-message = Controles bloqueados, pasa el ID.
+robotics-console-disable = Desactivar
+robotics-console-destroy = Destruir
 
-robotics-console-cyborg-destroying = {$name} is being remotely detonated!
+robotics-console-cyborg-destroying = ¡{$name} está siendo detonado remotamente!

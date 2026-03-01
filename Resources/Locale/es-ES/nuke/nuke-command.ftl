@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-nukearm-desc = Toggle nuclear bomb timer. You can set timer directly. Uid is optional.
-cmd-nukearm-help = nukearm <timer> <uid>
-cmd-nukearm-not-found = Can't find any entity with a NukeComponent.
+cmd-nukearm-desc = Activa/desactiva el temporizador de la bomba nuclear. Puedes establecer el temporizador directamente. El Uid es opcional.
+cmd-nukearm-help = nukearm <temporizador> <uid>
+cmd-nukearm-not-found = No se puede encontrar ninguna entidad con un NukeComponent.
 
-cmd-nukearm-1-help = Time (in seconds)
+cmd-nukearm-1-help = Tiempo (en segundos)
 cmd-nukearm-2-help = Nuke

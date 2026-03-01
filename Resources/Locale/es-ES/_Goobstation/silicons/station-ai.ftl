@@ -1,5 +1,5 @@
-station-ai-hologram-scurret = Scurret appearance
-station-ai-hologram-cat = Cat appearance
-station-ai-hologram-dog = Corgi appearance
-station-ai-hologram-kobold = Kobold appearance
-station-ai-hologram-monkey = Monkey appearance
+station-ai-hologram-scurret = Apariencia de Scurret
+station-ai-hologram-cat = Apariencia de gato
+station-ai-hologram-dog = Apariencia de Corgi
+station-ai-hologram-kobold = Apariencia de Kobold
+station-ai-hologram-monkey = Apariencia de mono

@@ -6,16 +6,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-manager-self-de-admin-message = {$exAdminName} de-adminned themselves.
-admin-manager-self-re-admin-message = {$newAdminName} re-adminned themselves.
-admin-manager-became-normal-player-message = You are now a normal player.
-admin-manager-became-admin-message = You are now an admin.
-admin-manager-no-longer-admin-message = You are no longer an admin.
-admin-manager-admin-permissions-updated-message = Your admin permission have been updated.
-admin-manager-admin-logout-message = Admin logout: {$name}
-admin-manager-admin-login-message = Admin login: {$name}
-admin-manager-admin-data-host-title = Host
-admin-manager-stealthed-message = You are now a hidden admin.
-admin-manager-unstealthed-message = You are no longer hidden.
-admin-manager-self-enable-stealth = {$stealthAdminName} is now hidden.
-admin-manager-self-disable-stealth = {$exStealthAdminName} is no longer hidden.
+admin-manager-self-de-admin-message = {$exAdminName} se ha quitado los permisos de administrador.
+admin-manager-self-re-admin-message = {$newAdminName} se ha dado permisos de administrador.
+admin-manager-became-normal-player-message = Ahora eres un jugador normal.
+admin-manager-became-admin-message = Ahora eres un administrador.
+admin-manager-no-longer-admin-message = Ya no eres un administrador.
+admin-manager-admin-permissions-updated-message = Tus permisos de administrador han sido actualizados.
+admin-manager-admin-logout-message = Cierre de sesión de admin: {$name}
+admin-manager-admin-login-message = Inicio de sesión de admin: {$name}
+admin-manager-admin-data-host-title = Servidor
+admin-manager-stealthed-message = Ahora eres un administrador oculto.
+admin-manager-unstealthed-message = Ya no estás oculto.
+admin-manager-self-enable-stealth = {$stealthAdminName} ahora está oculto.
+admin-manager-self-disable-stealth = {$exStealthAdminName} ya no está oculto.

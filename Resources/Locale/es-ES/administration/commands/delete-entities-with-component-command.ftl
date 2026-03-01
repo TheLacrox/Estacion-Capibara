@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-delete-entities-with-component-command-description = Deletes entities with the specified components.
-delete-entities-with-component-command-help-text = Usage: deleteewc <componentName_1> <componentName_2> ... <componentName_n>
-                                                   Deletes any entities with the components specified.
-delete-entities-with-component-command-deleted-components = Deleted {$count} entities
+delete-entities-with-component-command-description = Elimina entidades con los componentes especificados.
+delete-entities-with-component-command-help-text = Uso: deleteewc <nombreComponente_1> <nombreComponente_2> ... <nombreComponente_n>
+                                                   Elimina cualquier entidad que tenga los componentes especificados.
+delete-entities-with-component-command-deleted-components = Se eliminaron {$count} entidades

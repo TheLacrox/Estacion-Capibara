@@ -1,5 +1,4 @@
-construction-graph-candle = a candle
+construction-graph-candle = una vela
 
-spirit-candle-caught-wraith = You made the evil spirit manifest!
-spirit-candle-fail = There are no evil spirits around you...
-
+spirit-candle-caught-wraith = ¡Has hecho que el espíritu maligno se manifieste!
+spirit-candle-fail = No hay espíritus malignos a tu alrededor...

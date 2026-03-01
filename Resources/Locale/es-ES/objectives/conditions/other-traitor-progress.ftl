@@ -1,1 +1,1 @@
-objective-condition-other-traitor-progress-title = Ensure fellow traitor {$targetName}, {CAPITALIZE($job)} completes their objectives.
+objective-condition-other-traitor-progress-title = Asegurarse de que el compañero traidor {$targetName}, {CAPITALIZE($job)} complete sus objetivos.

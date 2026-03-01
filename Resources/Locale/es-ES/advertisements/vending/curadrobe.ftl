@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-curadrobe-1 = Glasses for your eyes and literature for your soul, CuraDrobe has it all!
-advertisement-curadrobe-2 = Impress & enthrall your library guests with CuraDrobe's extended line of pens!
-advertisement-curadrobe-3 = Become the official owner of the library with this great selection of outfits!
+advertisement-curadrobe-1 = ¡Gafas para tus ojos y literatura para tu alma, CuraDrobe lo tiene todo!
+advertisement-curadrobe-2 = ¡Impresiona y cautiva a los visitantes de tu biblioteca con la amplia gama de bolígrafos de CuraDrobe!
+advertisement-curadrobe-3 = ¡Conviértete en el dueño oficial de la biblioteca con esta magnífica selección de atuendos!

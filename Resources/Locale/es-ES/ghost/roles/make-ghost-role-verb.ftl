@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-make-ghost-role-verb-get-data-text = Make Ghost Role
+make-ghost-role-verb-get-data-text = Crear rol de fantasma

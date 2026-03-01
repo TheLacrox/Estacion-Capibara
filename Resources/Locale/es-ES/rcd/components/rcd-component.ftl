@@ -13,53 +13,53 @@
 
 ### UI
 
-rcd-component-examine-mode-details = It's currently set to '{$mode}' mode.
-rcd-component-examine-build-details = It's currently set to build {MAKEPLURAL($name)}.
+rcd-component-examine-mode-details = Actualmente está en modo '{$mode}'.
+rcd-component-examine-build-details = Actualmente está configurado para construir {MAKEPLURAL($name)}.
 
 
 ### Interaction Messages
 
 # Mode change
-rcd-component-change-mode = The RCD is now set to '{$mode}' mode.
-rcd-component-change-build-mode = The RCD is now set to build {MAKEPLURAL($name)}.
+rcd-component-change-mode = El RCD ahora está en modo '{$mode}'.
+rcd-component-change-build-mode = El RCD ahora está configurado para construir {MAKEPLURAL($name)}.
 
 # Ammo count
-rcd-component-no-ammo-message = The RCD has run out of charges!
-rcd-component-insufficient-ammo-message = The RCD doesn't have enough charges left!
+rcd-component-no-ammo-message = ¡El RCD se ha quedado sin cargas!
+rcd-component-insufficient-ammo-message = ¡El RCD no tiene suficientes cargas!
 
 # Deconstruction
-rcd-component-tile-indestructible-message = That tile can't be destructed!
-rcd-component-deconstruct-target-not-on-whitelist-message = You can't deconstruct that!
-rcd-component-nothing-to-deconstruct-message = There's nothing to deconstruct!
-rcd-component-tile-obstructed-message = You can't deconstruct tiles when there's something on top of them!
-rcd-component-deconstruct-target-no-access = You don't have access to deconstruct that!
-rcd-component-deconstruct-target-is-bolted = Mechanism's bolts prevent deconstruction!
+rcd-component-tile-indestructible-message = ¡Esa baldosa no puede destruirse!
+rcd-component-deconstruct-target-not-on-whitelist-message = ¡No puedes deconstruir eso!
+rcd-component-nothing-to-deconstruct-message = ¡No hay nada para deconstruir!
+rcd-component-tile-obstructed-message = ¡No puedes deconstruir baldosas cuando hay algo encima!
+rcd-component-deconstruct-target-no-access = ¡No tienes acceso para deconstruir eso!
+rcd-component-deconstruct-target-is-bolted = ¡Los pernos del mecanismo impiden la deconstrucción!
 
 # Construction
-rcd-component-no-valid-grid = You're too far into open space to build here!
-rcd-component-must-build-on-empty-tile-message = A foundation already exists here!
-rcd-component-cannot-build-on-empty-tile-message = You can't build that without a foundation!
-rcd-component-must-build-on-subfloor-message = You can only build that on exposed subfloor!
-rcd-component-cannot-build-on-subfloor-message = You can't build that on exposed subfloor!
-rcd-component-cannot-build-on-occupied-tile-message = You can't build here, the space is already occupied!
-rcd-component-cannot-build-identical-tile = That tile already exists there!
+rcd-component-no-valid-grid = ¡Estás demasiado adentrado en el espacio abierto para construir aquí!
+rcd-component-must-build-on-empty-tile-message = ¡Ya existe una base aquí!
+rcd-component-cannot-build-on-empty-tile-message = ¡No puedes construir eso sin una base!
+rcd-component-must-build-on-subfloor-message = ¡Solo puedes construir eso en un suelo expuesto!
+rcd-component-cannot-build-on-subfloor-message = ¡No puedes construir eso en un suelo expuesto!
+rcd-component-cannot-build-on-occupied-tile-message = ¡No puedes construir aquí, el espacio ya está ocupado!
+rcd-component-cannot-build-identical-tile = ¡Esa baldosa ya existe ahí!
 
 
 ### Category names
 
-rcd-component-walls-and-flooring = Walls and flooring
-rcd-component-windows-and-grilles = Windows and grilles
-rcd-component-airlocks = Airlocks
-rcd-component-electrical = Electrical
-rcd-component-lighting = Lighting
-rcd-component-piping = Piping
-rcd-component-atmosphericutility = Atmospheric Utility
-rcd-component-pumps = Pumps & Valves
-rcd-component-vents = Vents
+rcd-component-walls-and-flooring = Paredes y suelos
+rcd-component-windows-and-grilles = Ventanas y rejillas
+rcd-component-airlocks = Esclusas de aire
+rcd-component-electrical = Eléctrico
+rcd-component-lighting = Iluminación
+rcd-component-piping = Tuberías
+rcd-component-atmosphericutility = Utilidades atmosféricas
+rcd-component-pumps = Bombas y válvulas
+rcd-component-vents = Ventilaciones
 
 
 ### Prototype names (note: constructable items will be puralized)
 
-rcd-component-deconstruct = deconstruct
-rcd-component-floor-steel = steel tile
-rcd-component-plating = hull plate
+rcd-component-deconstruct = deconstruir
+rcd-component-floor-steel = baldosa de acero
+rcd-component-plating = placa del casco

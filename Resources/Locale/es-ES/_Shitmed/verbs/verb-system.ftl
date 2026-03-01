@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-verb-categories-switch = Switch Mode
+verb-categories-switch = Cambiar Modo

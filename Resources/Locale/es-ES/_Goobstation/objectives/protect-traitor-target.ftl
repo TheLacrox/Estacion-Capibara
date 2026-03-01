@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-traitor-target-alive-title = Ensure {$targetName}, {CAPITALIZE($job)} stays safe from other agents.
+objective-condition-traitor-target-alive-title = Asegúrate de que {$targetName}, {CAPITALIZE($job)} esté a salvo de otros agentes.

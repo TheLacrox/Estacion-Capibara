@@ -6,6 +6,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-dice-component-on-examine-message-part-1 = A die with [color=lightgray]{$sidesAmount}[/color] sides.
-dice-component-on-examine-message-part-2 = It has landed on a [color=white]{$currentSide}[/color].
-dice-component-on-roll-land = { CAPITALIZE(THE($die)) } lands on a {$currentSide}.
+dice-component-on-examine-message-part-1 = Un dado con [color=lightgray]{$sidesAmount}[/color] caras.
+dice-component-on-examine-message-part-2 = Ha caído en un [color=white]{$currentSide}[/color].
+dice-component-on-roll-land = { CAPITALIZE(THE($die)) } cae en un {$currentSide}.

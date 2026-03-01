@@ -1,1 +1,1 @@
-rosary-mixing-success = The liquid glimmers with a soft light.
+rosary-mixing-success = El líquido brilla con una suave luz.

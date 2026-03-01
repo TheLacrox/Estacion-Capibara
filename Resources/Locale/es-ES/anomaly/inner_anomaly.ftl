@@ -4,21 +4,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-inner-anomaly-start-message-pyro = You can feel the insane flame inside of you. You became the host of a pyroclastic anomaly.
-inner-anomaly-start-message-shock = Lightning bolts quivering at your fingertips! You became the host of a electric anomaly.
-inner-anomaly-start-message-shadow = There's an impenetrable darkness oozing out of you... You became the host of a shadow anomaly.
-inner-anomaly-start-message-frost = The icy frost is binding your bones. You became the host of a ice anomaly.
-inner-anomaly-start-message-flora = Leaves and flowers sprout through your skin! You became the host of a floral anomaly.
-inner-anomaly-start-message-bluespace = Your thoughts are racing like mad! You became the host of a bluespace anomaly.
-inner-anomaly-start-message-flesh = Your body is growing frantically. You became the host of a flesh anomaly.
-inner-anomaly-start-message-grav = Everything becames unnaturally heavy and light at the same time... You became the host of a gravity anomaly.
-inner-anomaly-start-message-tech = Your head is buzzing with the amount of chaotic information! You became the host of a tech anomaly.
-inner-anomaly-start-message-rock = The crystals are growing through your bones! You became the host of a rock anomaly.
-inner-anomaly-start-message-santa = You're becoming obsessed with the Christmas spirit! You became the host of a Christmas anomaly.
+inner-anomaly-start-message-pyro = Puedes sentir la llama enloquecida dentro de ti. Te has convertido en el anfitrión de una anomalía piroclástica.
+inner-anomaly-start-message-shock = ¡Rayos retemblan en la punta de tus dedos! Te has convertido en el anfitrión de una anomalía eléctrica.
+inner-anomaly-start-message-shadow = Hay una oscuridad impenetrable que emana de ti... Te has convertido en el anfitrión de una anomalía de sombra.
+inner-anomaly-start-message-frost = El hielo glacial te congela los huesos. Te has convertido en el anfitrión de una anomalía de hielo.
+inner-anomaly-start-message-flora = ¡Hojas y flores brotan por tu piel! Te has convertido en el anfitrión de una anomalía floral.
+inner-anomaly-start-message-bluespace = ¡Tus pensamientos corren como locos! Te has convertido en el anfitrión de una anomalía de espacio azul.
+inner-anomaly-start-message-flesh = Tu cuerpo crece frenéticamente. Te has convertido en el anfitrión de una anomalía de carne.
+inner-anomaly-start-message-grav = Todo se vuelve de manera antinatural pesado y ligero al mismo tiempo... Te has convertido en el anfitrión de una anomalía de gravedad.
+inner-anomaly-start-message-tech = ¡Tu cabeza zumba con la cantidad de información caótica! Te has convertido en el anfitrión de una anomalía tecnológica.
+inner-anomaly-start-message-rock = ¡Los cristales crecen a través de tus huesos! Te has convertido en el anfitrión de una anomalía de roca.
+inner-anomaly-start-message-santa = ¡Te estás obsesionando con el espíritu navideño! Te has convertido en el anfitrión de una anomalía navideña.
 
-inner-anomaly-end-message = The abnormal activity within you disappears without a trace....
+inner-anomaly-end-message = La actividad anormal dentro de ti desaparece sin dejar rastro....
 
-inner-anomaly-severity-info-50 = You feel that the anomaly is taking over half your body.
-inner-anomaly-severity-info-75 = You feel that the anomaly is taking over a large part of your body.
-inner-anomaly-severity-info-90 = You feel that the anomaly has almost completely taken over your body.
-inner-anomaly-severity-info-100 = The anomaly inside you is growing uncontrollably, causing immense pain, and tearing you apart!
+inner-anomaly-severity-info-50 = Sientes que la anomalía está tomando la mitad de tu cuerpo.
+inner-anomaly-severity-info-75 = Sientes que la anomalía está tomando gran parte de tu cuerpo.
+inner-anomaly-severity-info-90 = Sientes que la anomalía casi ha tomado completamente tu cuerpo.
+inner-anomaly-severity-info-100 = ¡La anomalía dentro de ti crece de manera incontrolable, causando un dolor inmenso y desgarrándote!

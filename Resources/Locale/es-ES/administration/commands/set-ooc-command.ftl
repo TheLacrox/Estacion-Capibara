@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: MIT
 
-cmd-setooc-desc = Allows you to enable or disable OOC.
-cmd-setooc-help = Usage: setooc OR setooc [value]
-cmd-setooc-ooc-enabled = OOC chat has been enabled.
-cmd-setooc-ooc-disabled = OOC chat has been disabled.
+cmd-setooc-desc = Te permite activar o desactivar el OOC.
+cmd-setooc-help = Uso: setooc O setooc [valor]
+cmd-setooc-ooc-enabled = El chat OOC ha sido activado.
+cmd-setooc-ooc-disabled = El chat OOC ha sido desactivado.

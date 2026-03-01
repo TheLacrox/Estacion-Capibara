@@ -1,3 +1,3 @@
-pen-spin-ui-title = Pen Spin
-pen-spin-ui-reset = Reset
-pen-spin-ui-submit = Spin
+pen-spin-ui-title = Giro de bolígrafo
+pen-spin-ui-reset = Reiniciar
+pen-spin-ui-submit = Girar

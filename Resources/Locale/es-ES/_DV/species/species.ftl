@@ -11,7 +11,7 @@
 ## Species Names
 
 species-name-vulpkanin = Vulpkanin
-species-name-harpy = Harpy
-species-name-rodentia = Rodentia
-species-name-chitinid = Chitinid
+species-name-harpy = Harpia
+species-name-rodentia = Roedor
+species-name-chitinid = Chitínido
 species-name-feroxi = Feroxi

@@ -7,14 +7,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-announce-title = Make Announcement
-admin-announce-announcement-placeholder = Announcement text...
-admin-announce-announcer-placeholder = Announcer
-admin-announce-announcer-default = Central Command
-admin-announce-button = Announce
-admin-announce-type-station = Station
-admin-announce-type-server = Server
-admin-announce-keep-open = Keep open
+admin-announce-title = Hacer Anuncio
+admin-announce-announcement-placeholder = Texto del anuncio...
+admin-announce-announcer-placeholder = Locutor
+admin-announce-announcer-default = Mando Central
+admin-announce-button = Anunciar
+admin-announce-type-station = Estación
+admin-announce-type-server = Servidor
+admin-announce-keep-open = Mantener abierto
 
-cmd-announceui-desc = Opens the announcement UI.
-cmd-announceui-help = Usage: announceui
+cmd-announceui-desc = Abre la interfaz de anuncios.
+cmd-announceui-help = Uso: announceui
+

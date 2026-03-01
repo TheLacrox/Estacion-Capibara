@@ -28,22 +28,22 @@ chat-radio-message-wrap = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb
 chat-radio-message-wrap-bold = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb}, "[/color][color={$languageColor}][font="{$fontType}" size={$fontSize}][bold]{$message}[/bold][/font][/color][color={$color}]"[/color]
 # Einstein Engines - Languages end
 
-examine-headset-default-channel = Use {$prefix} for the default channel ([color={$color}]{$channel}[/color]).
+examine-headset-default-channel = Usa {$prefix} para el canal predeterminado ([color={$color}]{$channel}[/color]).
 
-chat-radio-common = Common
+chat-radio-common = Común
 chat-radio-centcom = CentComm
-chat-radio-command = Command
-chat-radio-engineering = Engineering
-chat-radio-medical = Medical
-chat-radio-science = Science
-chat-radio-security = Security
-chat-radio-service = Service
-chat-radio-supply = Supply
-chat-radio-syndicate = Syndicate
-chat-radio-freelance = Freelance
+chat-radio-command = Comando
+chat-radio-engineering = Ingeniería
+chat-radio-medical = Médico
+chat-radio-science = Ciencia
+chat-radio-security = Seguridad
+chat-radio-service = Servicio
+chat-radio-supply = Suministros
+chat-radio-syndicate = Sindicato
+chat-radio-freelance = Independiente
 
 # not headset but whatever
-chat-radio-handheld = Handheld
-chat-radio-binary = Binary
+chat-radio-handheld = Portátil
+chat-radio-binary = Binario
 chat-radio-xenoborg = Xenoborg
-chat-radio-mothership = Mothership
+chat-radio-mothership = Nave Nodriza

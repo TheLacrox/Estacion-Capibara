@@ -4,25 +4,25 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-dungen-desc = Generates a procedural dungeon with the specified preset, position, and seed. Will spawn in space if the MapId doesn't have MapGridComponent.
-cmd-dungen-help = dungen <MapId> <DungeonPreset> <PosX> <PosY> [seed]
-cmd-dungen-arg-count = Require 4 args.
-cmd-dungen-map-parse = Unable to parse MapId.
-cmd-dungen-mapgrid = Unable to find MapGrid.
-cmd-dungen-config = Unable to find dungeon config.
-cmd-dungen-pos = Unable to parse position.
-cmd-dungen-seed = Unable to parse seed.
-cmd-dungen-start = Generating dungeon with seed {$seed}
+cmd-dungen-desc = Genera una mazmorra procedural con el preset, posición y semilla especificados. Aparecerá en el espacio si el MapId no tiene MapGridComponent.
+cmd-dungen-help = dungen <MapId> <PresetMazmorra> <PosX> <PosY> [semilla]
+cmd-dungen-arg-count = Se requieren 4 argumentos.
+cmd-dungen-map-parse = No se puede analizar el MapId.
+cmd-dungen-mapgrid = No se puede encontrar el MapGrid.
+cmd-dungen-config = No se puede encontrar la configuración de mazmorra.
+cmd-dungen-pos = No se puede analizar la posición.
+cmd-dungen-seed = No se puede analizar la semilla.
+cmd-dungen-start = Generando mazmorra con semilla {$seed}
 
-cmd-dungen-hint-map = Map Id
-cmd-dungen-hint-config = Dungeon config
-cmd-dungen-hint-posx = Position X
-cmd-dungen-hint-posy = Position Y
-cmd-dungen-hint-seed = [Seed]
+cmd-dungen-hint-map = Id de mapa
+cmd-dungen-hint-config = Configuración de mazmorra
+cmd-dungen-hint-posx = Posición X
+cmd-dungen-hint-posy = Posición Y
+cmd-dungen-hint-seed = [Semilla]
 
-cmd-dungen_preset_vis-desc = Generates a tile-based preview of a dungeon preset.
+cmd-dungen_preset_vis-desc = Genera una vista previa basada en baldosas de un preset de mazmorra.
 cmd-dungen_preset_vis-help = dungen_preset_vis <mapid> <preset>
 
-cmd-dungen_pack_vis-success = Success
-cmd-dungen_pack_vis-desc = Generates a tile-based preview of a dungeon pack.
-cmd-dungen_pack_vis-help = dungen_pack_vis <mapid> <pack>
+cmd-dungen_pack_vis-success = Éxito
+cmd-dungen_pack_vis-desc = Genera una vista previa basada en baldosas de un paquete de mazmorra.
+cmd-dungen_pack_vis-help = dungen_pack_vis <mapid> <paquete>

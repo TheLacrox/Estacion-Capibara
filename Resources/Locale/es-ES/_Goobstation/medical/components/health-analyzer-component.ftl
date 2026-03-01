@@ -1,1 +1,1 @@
-health-analyzer-window-entity-damage-vital-text = Total Vital Damage:
+health-analyzer-window-entity-damage-vital-text = Daño vital total:

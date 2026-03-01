@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-uplink-syndicate-deck-name = Syndicate Deck Box
-uplink-syndicate-deck-desc = A deck box with the standard 53 playing cards with syndicate branding. Please gamble responsibly.
+uplink-syndicate-deck-name = Caja de mazo sindicalista
+uplink-syndicate-deck-desc = Una caja de mazo con las 53 cartas estándar con marca sindicalista. Por favor, juega con responsabilidad.

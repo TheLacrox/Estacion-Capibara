@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-conveyor-component-failed-link = The port shocks you as you try to connect to it!
+conveyor-component-failed-link = ¡El puerto te electrocuta cuando intentas conectarte a él!

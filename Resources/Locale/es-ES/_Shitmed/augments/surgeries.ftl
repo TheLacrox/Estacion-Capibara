@@ -1,3 +1,3 @@
-surgery-popup-step-SurgeryStepInsertAugmentPowerCellSlot = {$user} is inserting a power cell slot into {$target}'s {$part}.
-surgery-popup-step-SurgeryStepInsertAugmentPowerCellCharger = {$user} is inserting a power cell recharger into {$target}'s {$part}.
-surgery-popup-step-SurgeryStepInsertAugmentArm = {$user} is inserting an augment into {$target}'s {$part}.
+surgery-popup-step-SurgeryStepInsertAugmentPowerCellSlot = {$user} está insertando una ranura para celda de energía en {$part} de {$target}.
+surgery-popup-step-SurgeryStepInsertAugmentPowerCellCharger = {$user} está insertando un recargador de celda de energía en {$part} de {$target}.
+surgery-popup-step-SurgeryStepInsertAugmentArm = {$user} está insertando un implante en {$part} de {$target}.

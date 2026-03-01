@@ -4,12 +4,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-hail-0 = Stop breaking the law, asshole!!
-hail-1 = Stop or I will bash you!!
-hail-2 = Stop in the name of the law!!
-hail-3 = Compliance is in your best interest!!
-hail-4 = Don't move, creep!!
-hail-5 = I AM THE LAW!!
-hail-6 = Get down on the floor creep!!
-hail-7 = Freeze scumbag!!
-hail-8 = HALT! HALT! HALT!!
+hail-0 = ¡Para de infringir la ley, imbécil!!
+hail-1 = ¡Para o te voy a dar!!
+hail-2 = ¡Alto en el nombre de la ley!!
+hail-3 = ¡Cumplir es tu mejor opción!!
+hail-4 = ¡No te muevas, canalla!!
+hail-5 = ¡YO SOY LA LEY!!
+hail-6 = ¡Al suelo, criminal!!
+hail-7 = ¡Congélate, delincuente!!
+hail-8 = ¡ALTO! ¡ALTO! ¡ALTO!!

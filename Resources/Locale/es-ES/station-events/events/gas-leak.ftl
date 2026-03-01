@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-station-event-gas-leak-start-announcement = Attention crew, there is a gas leak on the station. We advise you to avoid the area and wear suit internals in the meantime.
-station-event-gas-leak-end-announcement = The source of the gas leak has been fixed. Please be cautious around areas with gas remaining.
+station-event-gas-leak-start-announcement = Atención tripulación, hay una fuga de gas en la estación. Le aconsejamos que evite la zona y use el suministro interno del traje mientras tanto.
+station-event-gas-leak-end-announcement = La fuente de la fuga de gas ha sido reparada. Por favor, tenga cuidado en las áreas donde aún quede gas.

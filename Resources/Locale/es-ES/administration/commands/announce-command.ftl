@@ -4,14 +4,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-announce-desc = Send an in-game announcement with custom color and sound.
-cmd-announce-help = {$command} <message> [sender] [color] [sound] - Send announcement. Sender defaults to CentCom, color to Gold, sound to announce.ogg. The color should be in a #RRGGBB format.
+cmd-announce-desc = Envía un anuncio en el juego con color y sonido personalizados.
+cmd-announce-help = {$command} <mensaje> [emisor] [color] [sonido] - Envía el anuncio. El emisor es CentCom por defecto, el color es Dorado y el sonido es announce.ogg. El color debe estar en formato #RRGGBB.
 
 # The default sender for the announcement
-cmd-announce-sender = Central Command
+cmd-announce-sender = Mando Central
 
 # Completion hints
-cmd-announce-arg-message = <message>
-cmd-announce-arg-sender = [sender]
+cmd-announce-arg-message = <mensaje>
+cmd-announce-arg-sender = [emisor]
 cmd-announce-arg-color = [color]
-cmd-announce-arg-sound = [sound]
+cmd-announce-arg-sound = [sonido]

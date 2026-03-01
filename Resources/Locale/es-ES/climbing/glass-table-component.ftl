@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-### Tables which take damage when a user is dragged onto them
+### Mesas que reciben daño cuando un usuario es arrastrado sobre ellas
 
-## Showed to users other than the climber
-glass-table-shattered-others = { CAPITALIZE(THE($table)) } cracks under the weight of { THE($climber) }!
+## Mostrado a usuarios distintos al trepador
+glass-table-shattered-others = ¡{ CAPITALIZE(THE($table)) } se agrieta bajo el peso de { THE($climber) }!

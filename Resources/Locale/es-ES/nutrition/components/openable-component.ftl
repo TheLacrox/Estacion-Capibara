@@ -3,8 +3,8 @@
 #
 # SPDX-License-Identifier: MIT
 
-openable-component-verb-open = Open
-openable-component-verb-close = Close
+openable-component-verb-open = Abrir
+openable-component-verb-close = Cerrar
 
-openable-component-on-examine-is-opened = [color=yellow]Opened[/color]
-openable-component-try-use-closed = Open {$owner} first!
+openable-component-on-examine-is-opened = [color=yellow]Abierto[/color]
+openable-component-try-use-closed = ¡Abre {$owner} primero!

@@ -1,47 +1,47 @@
-salvage-job-rank-title-0 = [color=gray]Scavenger[/color]
-salvage-job-rank-title-1 = [color=white]Scrapper[/color]
-salvage-job-rank-title-2 = [color=yellow]Specialist[/color]
-salvage-job-rank-title-MAX = [color=gold]Supreme Salvager[/color]
+salvage-job-rank-title-0 = [color=gray]Carroñero[/color]
+salvage-job-rank-title-1 = [color=white]Chatarrero[/color]
+salvage-job-rank-title-2 = [color=yellow]Especialista[/color]
+salvage-job-rank-title-MAX = [color=gold]Saqueador Supremo[/color]
 
-job-board-radio-announce = Salvager rank increased to [bold]{$rank}[/bold]! New orders can be purchased from Cargo.
+job-board-radio-announce = ¡Rango de salvamento aumentado a [bold]{$rank}[/bold]! Los nuevos pedidos se pueden comprar en Carga.
 
-job-board-ui-window-title = Job Board
-job-board-ui-label-rank = [bold]Rank:[/bold]
-job-board-ui-label-items = Target: [color=red]{$item}[/color]
+job-board-ui-window-title = Tablero de Trabajos
+job-board-ui-label-rank = [bold]Rango:[/bold]
+job-board-ui-label-items = Objetivo: [color=red]{$item}[/color]
 
-job-board-label-text = [head=2]Salvage Job Shipment[/head]
-    {"[italic]For use only on official off-station salvage shipments.[/italic]"}
+job-board-label-text = [head=2]Envío de Trabajo de Salvamento[/head]
+    {"[italic]Solo para uso en envíos oficiales de salvamento fuera de la estación.[/italic]"}
 
-    {"[bold]Target:[/bold]"} {$target}
-    {"[bold]Reward:[/bold]"} ${$reward}
+    {"[bold]Objetivo:[/bold]"} {$target}
+    {"[bold]Recompensa:[/bold]"} ${$reward}
 
 
-    {"[italic]Shipments are subject to inspection by the Donk corporation[/italic]"}
+    {"[italic]Los envíos están sujetos a inspección por la corporación Donk[/italic]"}
 
-salv-job-board-name-BountyTeethSpaceCarp = Space Carp
-salv-job-board-name-BountySalvageScrap = Deep-Space Debris
-salv-job-board-name-BountySalvageOreGold = Gold (Ore)
-salv-job-board-name-BountySalvageOreSilver = Silver (Ore)
+salv-job-board-name-BountyTeethSpaceCarp = Carpa Espacial
+salv-job-board-name-BountySalvageScrap = Chatarra del Espacio Profundo
+salv-job-board-name-BountySalvageOreGold = Oro (Mineral)
+salv-job-board-name-BountySalvageOreSilver = Plata (Mineral)
 
-salv-job-board-name-BountySalvageOreUranium = Uranium (Ore)
-salv-job-board-name-BountySalvageOrePlasma = Plasma (Ore)
-salv-job-board-name-BountySalvageOreBananium = Bananium (Ore)
-salv-job-board-name-BountyTeethSharkminnow = Sharkminnow
+salv-job-board-name-BountySalvageOreUranium = Uranio (Mineral)
+salv-job-board-name-BountySalvageOrePlasma = Plasma (Mineral)
+salv-job-board-name-BountySalvageOreBananium = Bananio (Mineral)
+salv-job-board-name-BountyTeethSharkminnow = Pez Tiburón
 
-salv-job-board-name-BountyGoliathPlates = Goliath
-salv-job-board-name-BountyHivelordRemains = Hivelord
-salv-job-board-name-BountySalvageDiamond = Diamond
+salv-job-board-name-BountyGoliathPlates = Gólem Goliat
+salv-job-board-name-BountyHivelordRemains = Señor de la Colmena
+salv-job-board-name-BountySalvageDiamond = Diamante
 
-bounty-description-tooth-space-carp = We need you to get a sample of some space carp teeth. You can find these guys on all kinds of salvage debris. Just be careful about their bite.
-bounty-description-salvage-scrap = We are researching the effects of deep space on station materials, and we need some samples. Find some old junk off of debris and bring it to us.
-bounty-description-salvage-ore-gold = We are engaging in an experimental new electronics manufacturing process. Deliver us a large sum of unrefined gold ore. It can come from any source.
-bounty-description-salvage-ore-silver = We are studying the material effects of silver based on the refining methods. Send us a large amount of unrefined silver ore. It can come from any source.
+bounty-description-tooth-space-carp = Necesitamos que consigas una muestra de dientes de carpa espacial. Puedes encontrar a estos tipos en toda clase de escombros de salvamento. Ten cuidado con su mordisco.
+bounty-description-salvage-scrap = Estamos investigando los efectos del espacio profundo en los materiales de la estación y necesitamos algunas muestras. Encuentra algo de chatarra vieja en los escombros y tráenosla.
+bounty-description-salvage-ore-gold = Estamos llevando a cabo un nuevo proceso experimental de fabricación de electrónica. Entréganos una gran cantidad de mineral de oro sin refinar. Puede provenir de cualquier fuente.
+bounty-description-salvage-ore-silver = Estamos estudiando los efectos materiales de la plata según los métodos de refinado. Envíanos una gran cantidad de mineral de plata sin refinar. Puede provenir de cualquier fuente.
 
-bounty-description-tooth-sharkminnow = We need you to get a sample of some Sharkminnow teeth. These guys are a fair bit nastier than the smaller carp you're familiar with. Take care to not let them bite you: they'll suck out your blood and heal.
-bounty-description-salvage-ore-plasma = We need a shipment of plasma ore to send over to the research station. Please provide us with some so that we can continue our testing. It can come from any source.
-bounty-description-salvage-ore-uranium = We need a sample of uranium ore for our ongoing experiments on nuclear devices. Be aware that while the uranium does glow slightly, it will probably not harm you. It can come from any source.
-bounty-description-salvage-ore-bananium = We have an ongoing project to decode the mystifying clown genomic sequence. We believe a sample of raw bananium will help us achieve this. Note that this only comes from the rarest of deep-space asteroids.
+bounty-description-tooth-sharkminnow = Necesitamos que consigas una muestra de dientes de Pez Tiburón. Estos tipos son bastante más peligrosos que la carpa pequeña a la que estás acostumbrado. Ten cuidado de no dejar que te muerdan: te chuparán la sangre y se curarán.
+bounty-description-salvage-ore-plasma = Necesitamos un envío de mineral de plasma para mandarlo a la estación de investigación. Por favor, proporciónanos algo para que podamos continuar nuestras pruebas. Puede provenir de cualquier fuente.
+bounty-description-salvage-ore-uranium = Necesitamos una muestra de mineral de uranio para nuestros experimentos en curso con dispositivos nucleares. Ten en cuenta que aunque el uranio brilla levemente, probablemente no te hará daño. Puede provenir de cualquier fuente.
+bounty-description-salvage-ore-bananium = Tenemos un proyecto en curso para descifrar la misteriosa secuencia genómica de los payasos. Creemos que una muestra de bananio en bruto nos ayudará a lograrlo. Ten en cuenta que esto solo se encuentra en los asteroides más raros del espacio profundo.
 
-bounty-description-remains = We need you to get a sample of a few Hivelord cores. Be aware that Hivelords can replicate infinitely if the core is not destroyed. Take care not to get overwhelmed.
-bounty-description-plates = We need you to get a couple sheets of Goliath hide. These guys are pretty slow, but be careful about the tentacles: they'll grab you and pull you to the ground. You don't want to know what happens next.
-bounty-description-diamond = We need you to acquire a few diamonds for some advanced fabrication. These can either be found in the mining asteroid nearby or cut out of the basilisk creature. Whichever way you want to do it, get us some.
+bounty-description-remains = Necesitamos que consigas una muestra de algunos núcleos de Señor de la Colmena. Ten en cuenta que los Señores de la Colmena pueden replicarse infinitamente si no se destruye el núcleo. Procura no verte superado.
+bounty-description-plates = Necesitamos que consigas un par de láminas de piel de Gólem Goliat. Estos tipos son bastante lentos, pero ten cuidado con los tentáculos: te agarrarán y te tirarán al suelo. No querrás saber lo que pasa después.
+bounty-description-diamond = Necesitamos que consigas algunos diamantes para fabricación avanzada. Pueden encontrarse en el asteroide minero cercano o extraerse de la criatura basílisco. Como prefieras hacerlo, consíguenos algunos.

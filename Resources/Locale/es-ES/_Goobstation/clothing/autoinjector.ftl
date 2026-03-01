@@ -1,4 +1,4 @@
-autoinjector-injection-hardsuit = You feel a slight prick as the suit tightens around you.
+autoinjector-injection-hardsuit = Sientes un ligero pinchazo mientras el traje se aprieta a tu alrededor.
 
-comp-autoinjector-examined-on = The auto-injector is primed and ready.
-comp-autoinjector-examined-off = The auto-injector is currently charging. Please wait {$time} seconds.
+comp-autoinjector-examined-on = El autoinyector está preparado y listo.
+comp-autoinjector-examined-off = El autoinyector está cargándose actualmente. Espera {$time} segundos.

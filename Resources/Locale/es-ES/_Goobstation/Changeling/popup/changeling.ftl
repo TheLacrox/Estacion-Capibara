@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-popup-changeling-biomass-deficit-low = Your skin itches.
-popup-changeling-biomass-deficit-medium = Must find a food source...
-popup-changeling-biomass-deficit-high = Must eat... NOW!!
+popup-changeling-biomass-deficit-low = La piel te pica.
+popup-changeling-biomass-deficit-medium = Hay que encontrar una fuente de alimento...
+popup-changeling-biomass-deficit-high = ¡¡Hay que comer... AHORA!!

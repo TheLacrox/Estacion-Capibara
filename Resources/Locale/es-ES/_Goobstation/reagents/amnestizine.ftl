@@ -3,12 +3,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-amnestizine-effect-forget = You feel as if you have forgotten something important...
-amnestizine-effect-hole = You feel a hole burning through your mind.
-amnestizine-effect-blank = Your mind feels blank.
-amnestizine-effect-distracted = Huh? Where are you? Who are you?
-amnestizine-effect-leave = You feel like you should get out of here.
-amnestizine-effect-peaceful = You feel an odd sense of peace...
-amnestizine-effect-soul = You feel like your soul is being stared at.
-amnestizine-effect-widen = You feel your vision widen almost instantly..
-amnestizine-effect-listen = You... should listen to your superiors.
+amnestizine-effect-forget = Sientes como si hubieras olvidado algo importante...
+amnestizine-effect-hole = Sientes un agujero ardiendo en tu mente.
+amnestizine-effect-blank = Tu mente se siente en blanco.
+amnestizine-effect-distracted = ¿Eh? ¿Dónde estás? ¿Quién eres?
+amnestizine-effect-leave = Sientes que deberías salir de aquí.
+amnestizine-effect-peaceful = Sientes una extraña sensación de paz...
+amnestizine-effect-soul = Sientes como si tu alma estuviera siendo observada.
+amnestizine-effect-widen = Sientes que tu visión se amplía casi de inmediato..
+amnestizine-effect-listen = Tú... deberías escuchar a tus superiores.

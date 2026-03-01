@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-clowncar-thank-no-driver = Thanks for the ride
-clowncar-thank-driver = Thank you {$driver}, you are a good driver
-clowncar-quiet-in-the-back = Quiet Back there!
-uplink-clowncar-name = Clown Car
-uplink-clowncar-desc = From Honk Co. the perfect hit and run tool. Insurance not included
+clowncar-thank-no-driver = Gracias por el viaje
+clowncar-thank-driver = Gracias {$driver}, eres un buen conductor
+clowncar-quiet-in-the-back = ¡Silencio ahí atrás!
+uplink-clowncar-name = Coche de payaso
+uplink-clowncar-desc = De Honk Co., la herramienta perfecta para atropellar y huir. Seguro no incluido

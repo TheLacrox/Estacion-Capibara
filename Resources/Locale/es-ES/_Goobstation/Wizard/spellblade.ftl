@@ -4,20 +4,20 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spellblade-examine-enchantment = It is imbued with {$name} enchantment.
-spellblade-already-enchanted-message = Already enchanted!
+spellblade-examine-enchantment = Está imbuido con el encantamiento de {$name}.
+spellblade-already-enchanted-message = ¡Ya está encantado!
 
-spellblade-enchantment-lightning-name = [color=lightblue]lightning[/color]
-spellblade-enchantment-lightning-desc = Lightning. This blade conducts arcane energy to arc between its victims. It also makes the user immune to shocks.
+spellblade-enchantment-lightning-name = [color=lightblue]rayo[/color]
+spellblade-enchantment-lightning-desc = Rayo. Esta hoja conduce energía arcana que se arquea entre sus víctimas. También hace al usuario inmune a las descargas eléctricas.
 
-spellblade-enchantment-fire-name = [color=orange]fire[/color]
-spellblade-enchantment-fire-desc = Fire. This blade ignites on striking a foe, releasing a ball of fire. It also makes the wielder immune to fire.
+spellblade-enchantment-fire-name = [color=orange]fuego[/color]
+spellblade-enchantment-fire-desc = Fuego. Esta hoja se enciende al golpear a un enemigo, liberando una bola de fuego. También hace al portador inmune al fuego.
 
 spellblade-enchantment-bluespace-name = [color=blue]bluespace[/color]
-spellblade-enchantment-bluespace-desc = Bluespace. This blade will cut through the fabric of space, transporting its wielder over long distances to strike foes.
+spellblade-enchantment-bluespace-desc = Bluespace. Esta hoja cortará el tejido del espacio, transportando a su portador a largas distancias para golpear a los enemigos.
 
-spellblade-enchantment-spacetime-name = [color=pink]spacetime[/color]
-spellblade-enchantment-spacetime-desc = Spacetime. This blade will slice faster but weaker, and will curse the target, slashing them a few seconds after they have not been swung at for each hit.
+spellblade-enchantment-spacetime-name = [color=pink]espaciotiempo[/color]
+spellblade-enchantment-spacetime-desc = Espaciotiempo. Esta hoja cortará más rápido pero con menos fuerza, y maldecirá al objetivo, lacerándolo unos segundos después de no haberlo atacado en cada golpe.
 
-spellblade-enchantment-forceshield-name = [color=cyan]forceshield[/color]
-spellblade-enchantment-forceshield-desc = Forceshield. This blade will partially shield you against attacks and stuns for a short duration after striking a foe.
+spellblade-enchantment-forceshield-name = [color=cyan]escudo de fuerza[/color]
+spellblade-enchantment-forceshield-desc = Escudo de fuerza. Esta hoja te protegerá parcialmente contra ataques y aturdimientos durante un breve período tras golpear a un enemigo.

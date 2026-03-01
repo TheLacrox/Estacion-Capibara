@@ -16,23 +16,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-verb-categories-antag = Antag ctrl
-admin-verb-make-traitor = Make the target into a traitor.
-admin-verb-make-initial-infected = Make the target into an Initial Infected.
-admin-verb-make-zombie = Zombifies the target immediately.
-admin-verb-make-nuclear-operative = Make target into a lone Nuclear Operative.
-admin-verb-make-pirate = Make the target into a pirate. Note this doesn't configure the game rule.
-admin-verb-make-head-rev = Make the target into a Head Revolutionary.
-admin-verb-make-thief = Make the target into a thief.
-admin-verb-make-paradox-clone = Create a Paradox Clone ghost role of the target.
+verb-categories-antag = Control antagonistas
+admin-verb-make-traitor = Convierte al objetivo en un traidor.
+admin-verb-make-initial-infected = Convierte al objetivo en un Infectado Inicial.
+admin-verb-make-zombie = Zombifica al objetivo inmediatamente.
+admin-verb-make-nuclear-operative = Convierte al objetivo en un Operativo Nuclear solitario.
+admin-verb-make-pirate = Convierte al objetivo en un pirata. Ten en cuenta que esto no configura la regla de juego.
+admin-verb-make-head-rev = Convierte al objetivo en un Jefe Revolucionario.
+admin-verb-make-thief = Convierte al objetivo en un ladrón.
+admin-verb-make-paradox-clone = Crea un rol fantasma de Clon Paradójico del objetivo.
 
-admin-verb-text-make-traitor = Make Traitor
-admin-verb-text-make-initial-infected = Make Initial Infected
-admin-verb-text-make-zombie = Make Zombie
-admin-verb-text-make-nuclear-operative = Make Nuclear Operative
-admin-verb-text-make-pirate = Make Pirate
-admin-verb-text-make-head-rev = Make Head Rev
-admin-verb-text-make-thief = Make Thief
-admin-verb-text-make-paradox-clone = Create Paradox Clone
+admin-verb-text-make-traitor = Hacer Traidor
+admin-verb-text-make-initial-infected = Hacer Infectado Inicial
+admin-verb-text-make-zombie = Hacer Zombi
+admin-verb-text-make-nuclear-operative = Hacer Operativo Nuclear
+admin-verb-text-make-pirate = Hacer Pirata
+admin-verb-text-make-head-rev = Hacer Jefe Rev
+admin-verb-text-make-thief = Hacer Ladrón
+admin-verb-text-make-paradox-clone = Crear Clon Paradójico
 
 admin-overlay-antag-classic = ANTAG

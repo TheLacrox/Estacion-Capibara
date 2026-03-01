@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cluwne-transform = {CAPITALIZE(THE($target))} turned into a cluwne!
-cluwne-name-prefix = cluwnified {$baseName}
+cluwne-transform = ¡{CAPITALIZE(THE($target))} se convirtió en un cluwne!
+cluwne-name-prefix = {$baseName} cluwnificado

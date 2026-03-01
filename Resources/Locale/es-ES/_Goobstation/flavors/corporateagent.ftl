@@ -1,13 +1,13 @@
 
-traitor-nanotrasen-intro = You are an elite agent.
-traitor-nanotrasen-goal = Nanotrasen has sent you down to do a task. Do it without getting caught or raising suspicion.
-traitor-nanotrasen-allies = Death to the Syndicate.
-traitor-nanotrasen-uplink = Nanotrasen has given you connections to the blackmarket. Your uplink is located in your PDA. Do not let anyone find out. If you get caught you're on your own.
-traitor-nanotrasen-roundend = [color=yellow]a corporate agent.[/color]
+traitor-nanotrasen-intro = Eres un agente de élite.
+traitor-nanotrasen-goal = Nanotrasen te ha enviado a completar una tarea. Hazlo sin ser capturado ni levantar sospechas.
+traitor-nanotrasen-allies = Muerte al Sindicato.
+traitor-nanotrasen-uplink = Nanotrasen te ha dado acceso al mercado negro. Tu enlace se encuentra en tu PDA. No dejes que nadie lo descubra. Si te atrapan, estás solo.
+traitor-nanotrasen-roundend = [color=yellow]un agente corporativo.[/color]
 
 
-traitor-centralcommand-intro = You are a Central Officer
-traitor-centralcommand-goal = Central Command has sent you down to do a task. Do it without getting caught or raising suspicion.
-traitor-centralcommand-allies = Death to the Syndicate.
-traitor-centralcommand-uplink = Central Command has given you connections to the blackmarket. Your uplink is located in your PDA. Do not let anyone find out. If you get caught you're on your own.
-traitor-centralcommand-roundend = [color=yellow]a corporate agent.[/color]
+traitor-centralcommand-intro = Eres un Oficial del Comando Central
+traitor-centralcommand-goal = El Comando Central te ha enviado a completar una tarea. Hazlo sin ser capturado ni levantar sospechas.
+traitor-centralcommand-allies = Muerte al Sindicato.
+traitor-centralcommand-uplink = El Comando Central te ha dado acceso al mercado negro. Tu enlace se encuentra en tu PDA. No dejes que nadie lo descubra. Si te atrapan, estás solo.
+traitor-centralcommand-roundend = [color=yellow]un agente corporativo.[/color]

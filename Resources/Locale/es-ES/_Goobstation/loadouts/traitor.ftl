@@ -1,21 +1,21 @@
 # Traitor Uplink Loadout Group
-loadout-group-traitor-uplink = Uplink
+loadout-group-traitor-uplink = Enlace
 
 # PDA Uplink Option
-loadout-traitor-uplink-pda-name = PDA Uplink
-loadout-traitor-uplink-pda-desc = Your uplink will be hidden in your PDA. Enter the code on your PDA's ringtone to access it.
+loadout-traitor-uplink-pda-name = Enlace del PDA
+loadout-traitor-uplink-pda-desc = Tu enlace estará oculto en tu PDA. Introduce el código en el tono de llamada de tu PDA para acceder a él.
 
 # Pen Uplink Option
-loadout-traitor-uplink-pen-name = Pen Uplink
-loadout-traitor-uplink-pen-desc = Your uplink will be hidden in a pen. Spin to your code to unlock. Auto-locks when closed.
+loadout-traitor-uplink-pen-name = Enlace del Bolígrafo
+loadout-traitor-uplink-pen-desc = Tu enlace estará oculto en un bolígrafo. Gira hasta tu código para desbloquearlo. Se bloquea automáticamente al cerrarse.
 
 # Implant Uplink Option
-loadout-traitor-uplink-implant-name = Subdermal Implant
-loadout-traitor-uplink-implant-desc = Your uplink will be implanted under your skin. Costs 10 TC. Activate it from your actions menu.
+loadout-traitor-uplink-implant-name = Implante Subdérmico
+loadout-traitor-uplink-implant-desc = Tu enlace será implantado bajo tu piel. Cuesta 10 TC. Actívalo desde tu menú de acciones.
 
-ent-LoadoutDummyTraitorPda = PDA Uplink
-    .desc = Your uplink will be hidden in your PDA. Enter the code on your PDA's ringtone to access it.
-ent-LoadoutDummyTraitorPen = Pen Uplink
-    .desc = Your uplink will be hidden in a pen. Spin to your code to unlock. Auto-locks when closed.
-ent-LoadoutDummyTraitorImplant = Subdermal Implant
-    .desc = Your uplink will be implanted under your skin. Costs 10 TC. Activate it from your actions menu.
+ent-LoadoutDummyTraitorPda = Enlace del PDA
+    .desc = Tu enlace estará oculto en tu PDA. Introduce el código en el tono de llamada de tu PDA para acceder a él.
+ent-LoadoutDummyTraitorPen = Enlace del Bolígrafo
+    .desc = Tu enlace estará oculto en un bolígrafo. Gira hasta tu código para desbloquearlo. Se bloquea automáticamente al cerrarse.
+ent-LoadoutDummyTraitorImplant = Implante Subdérmico
+    .desc = Tu enlace será implantado bajo tu piel. Cuesta 10 TC. Actívalo desde tu menú de acciones.

@@ -5,10 +5,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-FelinidFluffyTail-Felinid_fluffy_tail_full = Fluffy Tail
-marking-FelinidFluffyTailRings-Felinid_fluffy_tail_full = Fluffy tail
-marking-FelinidFluffyTailRings-felinid_fluffy_tail_rings = Fluffy Tail Rings
-marking-FelinidFluffyTail = Fluffy Tail
-marking-FelinidFluffyTailRings = Fluffy Tail with rings
-marking-FelinidAlternativeTail = Alternative Wagging Tail
-marking-FelinidAlternativeTail-m_waggingtail_cat_FRONT = Alternative Wagging Tail
+marking-FelinidFluffyTail-Felinid_fluffy_tail_full = Cola esponjosa
+marking-FelinidFluffyTailRings-Felinid_fluffy_tail_full = Cola esponjosa
+marking-FelinidFluffyTailRings-felinid_fluffy_tail_rings = Anillos de cola esponjosa
+marking-FelinidFluffyTail = Cola esponjosa
+marking-FelinidFluffyTailRings = Cola esponjosa con anillos
+marking-FelinidAlternativeTail = Cola meneante alternativa
+marking-FelinidAlternativeTail-m_waggingtail_cat_FRONT = Cola meneante alternativa

@@ -1,4 +1,4 @@
-ui-options-enable-overlay-user-name = Show Username
-ui-options-enable-overlay-character-name = Show Character name
-ui-options-enable-overlay-antag = Show Antag Status
-ui-options-enable-overlay-role-type = Show Roletype
+ui-options-enable-overlay-user-name = Mostrar nombre de usuario
+ui-options-enable-overlay-character-name = Mostrar nombre del personaje
+ui-options-enable-overlay-antag = Mostrar estado de antagonista
+ui-options-enable-overlay-role-type = Mostrar tipo de rol

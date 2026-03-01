@@ -20,52 +20,52 @@
 
 ## General
 
-shell-command-success = Command successful
-shell-invalid-command = Invalid command.
-shell-invalid-command-specific = Invalid {$commandName} command.
-shell-cannot-run-command-from-server = You cannot run this command from the server.
-shell-only-players-can-run-this-command = Only players can run this command.
-shell-must-be-attached-to-entity = You must be attached to an entity to run this command.
-shell-must-have-body = You must have a body to run this command.
+shell-command-success = Comando ejecutado con éxito
+shell-invalid-command = Comando inválido.
+shell-invalid-command-specific = Comando {$commandName} inválido.
+shell-cannot-run-command-from-server = No puedes ejecutar este comando desde el servidor.
+shell-only-players-can-run-this-command = Solo los jugadores pueden ejecutar este comando.
+shell-must-be-attached-to-entity = Debes estar vinculado a una entidad para ejecutar este comando.
+shell-must-have-body = Debes tener un cuerpo para ejecutar este comando.
 
 ## Arguments
 
-shell-need-exactly-one-argument = Need exactly one argument.
-shell-wrong-arguments-number-need-specific = Need {$properAmount} arguments, there were {$currentAmount}.
-shell-argument-must-be-number = Argument must be a number.
-shell-argument-must-be-boolean = Argument must be a boolean.
-shell-wrong-arguments-number = Wrong number of arguments.
-shell-need-between-arguments = Need {$lower} to {$upper} arguments!
-shell-need-minimum-arguments = Need at least {$minimum} arguments!
-shell-need-minimum-one-argument = Need at least one argument!
-shell-need-exactly-zero-arguments = This command takes zero arguments.
+shell-need-exactly-one-argument = Se necesita exactamente un argumento.
+shell-wrong-arguments-number-need-specific = Se necesitan {$properAmount} argumentos, se recibieron {$currentAmount}.
+shell-argument-must-be-number = El argumento debe ser un número.
+shell-argument-must-be-boolean = El argumento debe ser un booleano.
+shell-wrong-arguments-number = Número incorrecto de argumentos.
+shell-need-between-arguments = ¡Se necesitan entre {$lower} y {$upper} argumentos!
+shell-need-minimum-arguments = ¡Se necesitan al menos {$minimum} argumentos!
+shell-need-minimum-one-argument = ¡Se necesita al menos un argumento!
+shell-need-exactly-zero-arguments = Este comando no toma argumentos.
 
 shell-argument-uid = EntityUid
 
 ## Guards
 
-shell-missing-required-permission = You need {$perm} for this command!
-shell-entity-is-not-mob = Target entity is not a mob!
-shell-invalid-entity-id = Invalid entity ID.
-shell-invalid-grid-id = Invalid grid ID.
-shell-invalid-map-id = Invalid map ID.
-shell-invalid-entity-uid = {$uid} is not a valid entity uid
-shell-invalid-bool = Invalid boolean.
-shell-entity-uid-must-be-number = EntityUid must be a number.
-shell-could-not-find-entity = Could not find entity {$entity}
-shell-could-not-find-entity-with-uid = Could not find entity with uid {$uid}
-shell-entity-with-uid-lacks-component = Entity with uid {$uid} doesn't have {INDEFINITE($componentName)} {$componentName} component
-shell-entity-target-lacks-component = Target entity doesn't have {INDEFINITE($componentName)} {$componentName} component
-shell-invalid-color-hex = Invalid color hex!
-shell-target-player-does-not-exist = Target player does not exist!
-shell-target-entity-does-not-have-message = Target entity does not have {INDEFINITE($missing)} {$missing}!
-shell-timespan-minutes-must-be-correct = {$span} is not a valid minutes timespan.
-shell-argument-must-be-prototype = Argument {$index} must be a {LOC($prototypeName)}!
-shell-argument-number-must-be-between = Argument {$index} must be a number between {$lower} and {$upper}!
-shell-argument-station-id-invalid = Argument {$index} must be a valid station id!
-shell-argument-map-id-invalid = Argument {$index} must be a valid map id!
-shell-argument-number-invalid = Argument {$index} must be a valid number!
+shell-missing-required-permission = ¡Necesitas {$perm} para este comando!
+shell-entity-is-not-mob = ¡La entidad objetivo no es un personaje!
+shell-invalid-entity-id = ID de entidad inválido.
+shell-invalid-grid-id = ID de cuadrícula inválido.
+shell-invalid-map-id = ID de mapa inválido.
+shell-invalid-entity-uid = {$uid} no es un uid de entidad válido
+shell-invalid-bool = Booleano inválido.
+shell-entity-uid-must-be-number = El EntityUid debe ser un número.
+shell-could-not-find-entity = No se pudo encontrar la entidad {$entity}
+shell-could-not-find-entity-with-uid = No se pudo encontrar la entidad con uid {$uid}
+shell-entity-with-uid-lacks-component = La entidad con uid {$uid} no tiene un componente {$componentName}
+shell-entity-target-lacks-component = La entidad objetivo no tiene un componente {$componentName}
+shell-invalid-color-hex = ¡Código de color hexadecimal inválido!
+shell-target-player-does-not-exist = ¡El jugador objetivo no existe!
+shell-target-entity-does-not-have-message = ¡La entidad objetivo no tiene {INDEFINITE($missing)} {$missing}!
+shell-timespan-minutes-must-be-correct = {$span} no es un tiempo en minutos válido.
+shell-argument-must-be-prototype = ¡El argumento {$index} debe ser un {LOC($prototypeName)}!
+shell-argument-number-must-be-between = ¡El argumento {$index} debe ser un número entre {$lower} y {$upper}!
+shell-argument-station-id-invalid = ¡El argumento {$index} debe ser un id de estación válido!
+shell-argument-map-id-invalid = ¡El argumento {$index} debe ser un id de mapa válido!
+shell-argument-number-invalid = ¡El argumento {$index} debe ser un número válido!
 
 # Hints
-shell-argument-username-hint = <username>
-shell-argument-username-optional-hint = [username]
+shell-argument-username-hint = <usuario>
+shell-argument-username-optional-hint = [usuario]

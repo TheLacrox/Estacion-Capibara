@@ -1,1 +1,1 @@
-self-revive-fail = Can't revive in this state!
+self-revive-fail = ¡No puedes revivir en este estado!

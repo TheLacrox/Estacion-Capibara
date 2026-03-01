@@ -12,12 +12,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-carp-rift-warning = A rift is causing an unnaturally large energy flux {$location}. Stop it at all costs!
-carp-rift-duplicate = Cannot have 2 charging rifts at the same time!
-carp-rift-examine = It is [color=yellow]{$percentage}%[/color] charged!
-carp-rift-max = You have reached your maximum amount of rifts
-carp-rift-anchor = Rifts require a stable surface to spawn.
-carp-rift-proximity = Too close to a nearby rift! Need to be at least {$proximity}m away.
-carp-rift-space-proximity = Too close to space! Need to be at least {$proximity}m away.
-carp-rift-weakened = You are unable to summon more rifts in your weakened state.
-carp-rift-destroyed = A rift has been destroyed! You are now weakened temporarily.
+carp-rift-warning = Una grieta está causando un flujo de energía anormalmente grande {$location}. ¡Detenla a toda costa!
+carp-rift-duplicate = ¡No puedes tener 2 grietas cargándose al mismo tiempo!
+carp-rift-examine = ¡Está [color=yellow]{$percentage}%[/color] cargada!
+carp-rift-max = Has alcanzado tu cantidad máxima de grietas
+carp-rift-anchor = Las grietas necesitan una superficie estable para aparecer.
+carp-rift-proximity = ¡Demasiado cerca de una grieta cercana! Necesitas estar al menos a {$proximity}m de distancia.
+carp-rift-space-proximity = ¡Demasiado cerca del espacio! Necesitas estar al menos a {$proximity}m de distancia.
+carp-rift-weakened = No puedes invocar más grietas en tu estado debilitado.
+carp-rift-destroyed = ¡Una grieta ha sido destruida! Ahora estás debilitado temporalmente.

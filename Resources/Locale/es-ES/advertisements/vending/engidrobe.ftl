@@ -6,8 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-engidrobe-1 = Guaranteed to protect your feet from industrial accidents!
-advertisement-engidrobe-2 = Afraid of radiation? Then wear yellow!
-advertisement-engidrobe-3 = We got hats that protect your noggin!
-advertisement-engidrobe-4 = Not enough people wear safety equipment nowadays!
-advertisement-engidrobe-5 = Get your safety equipment today!
+advertisement-engidrobe-1 = ¡Garantizado para proteger tus pies de los accidentes industriales!
+advertisement-engidrobe-2 = ¿Le tienes miedo a la radiación? ¡Entonces viste de amarillo!
+advertisement-engidrobe-3 = ¡Tenemos cascos que protegen tu cabeza!
+advertisement-engidrobe-4 = ¡Hoy en día no hay suficiente gente que use equipo de seguridad!
+advertisement-engidrobe-5 = ¡Consigue tu equipo de seguridad hoy!
+

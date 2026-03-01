@@ -1,6 +1,6 @@
-queue-title = Join Queue
-queue-quit = Disconnect
-queue-position = Position in queue:
-queue-total = Total in queue:
-queue-patreon = Thank you for supporting us on Patreon!
-    Your queue position has been elevated.
+queue-title = Cola de Espera
+queue-quit = Desconectar
+queue-position = Posición en la cola:
+queue-total = Total en la cola:
+queue-patreon = ¡Gracias por apoyarnos en Patreon!
+    Tu posición en la cola ha sido mejorada.

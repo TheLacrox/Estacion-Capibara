@@ -1,32 +1,32 @@
 # Headings
-turret-controls-window-title = Autonomous Defense Control System
-turret-controls-window-turret-status-label = Linked devices [{$count}]
-turret-controls-window-armament-controls-label = Armament setting
-turret-controls-window-targeting-controls-label = Authorized personnel
+turret-controls-window-title = Sistema de Control de Defensa Autónoma
+turret-controls-window-turret-status-label = Dispositivos vinculados [{$count}]
+turret-controls-window-armament-controls-label = Configuración de armamento
+turret-controls-window-targeting-controls-label = Personal autorizado
 
 # Status reports
-turret-controls-window-no-turrets = <! No linked devices !>
-turret-controls-window-turret-status = » {$device} - Status: {$status}
-turret-controls-window-turret-disabled = ***OFFLINE***
-turret-controls-window-turret-retracted = INACTIVE
-turret-controls-window-turret-retracting = DEACTIVATING
-turret-controls-window-turret-deployed = SEARCHING...
-turret-controls-window-turret-deploying = ACTIVATING
-turret-controls-window-turret-firing = ENGAGING TARGET
+turret-controls-window-no-turrets = <! Sin dispositivos vinculados !>
+turret-controls-window-turret-status = » {$device} - Estado: {$status}
+turret-controls-window-turret-disabled = ***FUERA DE LÍNEA***
+turret-controls-window-turret-retracted = INACTIVO
+turret-controls-window-turret-retracting = DESACTIVANDO
+turret-controls-window-turret-deployed = BUSCANDO...
+turret-controls-window-turret-deploying = ACTIVANDO
+turret-controls-window-turret-firing = ATACANDO OBJETIVO
 turret-controls-window-turret-error = ERROR [404]
 turret-controls-window-turret-broken = ***INOPERABLE***
 
 # Buttons
-turret-controls-window-safe = Inactive
-turret-controls-window-stun = Stun
-turret-controls-window-lethal = Lethal
-turret-controls-window-ignore = Ignore
-turret-controls-window-target = Target
+turret-controls-window-safe = Inactivo
+turret-controls-window-stun = Aturdir
+turret-controls-window-lethal = Letal
+turret-controls-window-ignore = Ignorar
+turret-controls-window-target = Atacar
 turret-controls-window-access-group-label = {$prefix} {$label}
-turret-controls-window-all-checkbox = All
+turret-controls-window-all-checkbox = Todos
 
 # Flavor
-turret-controls-window-footer = Unauthorized personnel should ensure defenses are inactive before proceeding
+turret-controls-window-footer = El personal no autorizado debe asegurarse de que las defensas estén inactivas antes de continuar
 
 # Warnings
-turret-controls-access-denied = Access denied
+turret-controls-access-denied = Acceso denegado

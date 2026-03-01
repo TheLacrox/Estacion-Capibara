@@ -6,4 +6,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-base-computer-ui-component-not-powered = {CAPITALIZE(THE($machine))} is not powered.
+base-computer-ui-component-not-powered = {CAPITALIZE(THE($machine))} no tiene energía.

@@ -13,33 +13,33 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-forensic-scanner-interface-title = Forensic scanner
-forensic-scanner-interface-fingerprints = Fingerprints
-forensic-scanner-interface-fibers = Fibers
-forensic-scanner-interface-dnas = DNAs
-forensic-scanner-interface-residues = Residues
-forensic-scanner-interface-no-data = No scan data available
-forensic-scanner-interface-print = Print
-forensic-scanner-interface-clear = Clear
-forensic-scanner-report-title = Forensics Report: {$entity}
-forensic-pad-unused = It hasn't been used.
-forensic-pad-sample = It has a sample: {$sample}
-forensic-pad-no-access-due = Can't access the fingerprint due to {THE($entity)}.
-forensic-pad-no-access = Can't access the fingerprint.
-forensic-pad-start-scan-target = {CAPITALIZE($user)} is trying to take a sample of your fingerprints.
-forensic-pad-start-scan-user = You start taking a sample of {CAPITALIZE($target)}'s fingerprints.
-forensic-pad-already-used = This pad has already been used.
-forensic-scanner-match-fiber = Match in fiber found!
-forensic-scanner-match-fingerprint = Match in fingerprint found!
-forensic-scanner-match-none = No matches found!
-forensic-scanner-printer-not-ready = Printer is not ready yet.
-forensic-scanner-verb-text = Scan
-forensic-scanner-verb-message = Perform a forensic scan
+forensic-scanner-interface-title = Escáner forense
+forensic-scanner-interface-fingerprints = Huellas dactilares
+forensic-scanner-interface-fibers = Fibras
+forensic-scanner-interface-dnas = ADNs
+forensic-scanner-interface-residues = Residuos
+forensic-scanner-interface-no-data = No hay datos de escaneo disponibles
+forensic-scanner-interface-print = Imprimir
+forensic-scanner-interface-clear = Limpiar
+forensic-scanner-report-title = Informe forense: {$entity}
+forensic-pad-unused = No ha sido usado.
+forensic-pad-sample = Tiene una muestra: {$sample}
+forensic-pad-no-access-due = No se puede acceder a la huella dactilar debido a {THE($entity)}.
+forensic-pad-no-access = No se puede acceder a la huella dactilar.
+forensic-pad-start-scan-target = {CAPITALIZE($user)} está intentando tomar una muestra de tus huellas dactilares.
+forensic-pad-start-scan-user = Empiezas a tomar una muestra de las huellas dactilares de {CAPITALIZE($target)}.
+forensic-pad-already-used = Esta almohadilla ya ha sido usada.
+forensic-scanner-match-fiber = ¡Se encontró una coincidencia en fibras!
+forensic-scanner-match-fingerprint = ¡Se encontró una coincidencia en huellas dactilares!
+forensic-scanner-match-none = ¡No se encontraron coincidencias!
+forensic-scanner-printer-not-ready = La impresora aún no está lista.
+forensic-scanner-verb-text = Escanear
+forensic-scanner-verb-message = Realizar un escaneo forense
 
-forensics-dna-unknown = unknown DNA
+forensics-dna-unknown = ADN desconocido
 
-forensics-verb-text = Remove evidence
-forensics-verb-message = Remove fingerprints and DNA residues from the object!
-forensics-cleaning = You begin cleaning the evidence off of {THE($target)}...
+forensics-verb-text = Eliminar evidencia
+forensics-verb-message = ¡Eliminar huellas dactilares y residuos de ADN del objeto!
+forensics-cleaning = Empiezas a limpiar la evidencia de {THE($target)}...
 
-forensics-cleaning-cannot-clean = There is nothing cleanable on {THE($target)}!
+forensics-cleaning-cannot-clean = ¡No hay nada limpiable en {THE($target)}!

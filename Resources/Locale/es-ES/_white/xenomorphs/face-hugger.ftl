@@ -1,11 +1,11 @@
-xenomorphs-face-hugger-equip = { $equipment } leaps at your face!
-xenomorphs-face-hugger-equip-other = { $equipment } leaps at { $target }'s face!
+xenomorphs-face-hugger-equip = ¡{ $equipment } salta hacia tu cara!
+xenomorphs-face-hugger-equip-other = ¡{ $equipment } salta hacia la cara de { $target }!
 
-xenomorphs-face-hugger-unequip = { $equipment } is latched on too tight!
+xenomorphs-face-hugger-unequip = ¡{ $equipment } está demasiado aferrado!
 
-xenomorphs-face-hugger-try-equip = { $equipment } smashes against your { $equipmentBlocker }
-xenomorphs-face-hugger-try-equip-other = { $equipment } smashes against { $target }'s { $equipmentBlocker }
+xenomorphs-face-hugger-try-equip = { $equipment } golpea tu { $equipmentBlocker }
+xenomorphs-face-hugger-try-equip-other = { $equipment } golpea { $equipmentBlocker } de { $target }
 
 ### Goob station
-xenomorphs-face-hugger-mask-blocked = Your { $mask } blocks the { $facehugger }!
-xenomorphs-face-hugger-mask-blocked-other = { $facehugger } is blocked by { $target }'s { $mask }!
+xenomorphs-face-hugger-mask-blocked = ¡Tu { $mask } bloquea al { $facehugger }!
+xenomorphs-face-hugger-mask-blocked-other = ¡{ $facehugger } es bloqueado por { $mask } de { $target }!

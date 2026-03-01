@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-hulk-unhulked = You feel much weaker.
+hulk-unhulked = Te sientes mucho más débil.
 
 hulk-roar-1 = RAAAAAAAARGH!
 hulk-roar-2 = HNNNNNNNNNGGGGGGH!

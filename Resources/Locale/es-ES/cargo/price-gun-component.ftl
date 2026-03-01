@@ -11,8 +11,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-price-gun-pricing-result = The device deems {THE($object)} to be worth {$price} spesos.
-price-gun-verb-text = Appraisal
-price-gun-verb-message = Appraise {THE($object)}.
-price-gun-bounty-complete = The device confirms that the bounty contained within is completed.
-price-gun-salvjob-complete = The device confirms that the salvage job contained within is completed.
+price-gun-pricing-result = El dispositivo estima que {THE($object)} vale {$price} spesos.
+price-gun-verb-text = Tasar
+price-gun-verb-message = Tasar {THE($object)}.
+price-gun-bounty-complete = El dispositivo confirma que la recompensa contenida en él está completada.
+price-gun-salvjob-complete = El dispositivo confirma que el trabajo de salvamento contenido en él está completado.

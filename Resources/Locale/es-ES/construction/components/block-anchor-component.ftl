@@ -1,1 +1,1 @@
-anchored-already-present = There's already something anchored here!
+anchored-already-present = ¡Ya hay algo anclado aquí!

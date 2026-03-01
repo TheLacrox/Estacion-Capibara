@@ -5,23 +5,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-jobwhitelist-job-does-not-exist = Job {$job} does not exist.
-cmd-jobwhitelist-player-not-found = Player {$player} not found.
-cmd-jobwhitelist-hint-player = [player]
-cmd-jobwhitelist-hint-job = [job]
+cmd-jobwhitelist-job-does-not-exist = El trabajo {$job} no existe.
+cmd-jobwhitelist-player-not-found = No se encontró al jugador {$player}.
+cmd-jobwhitelist-hint-player = [jugador]
+cmd-jobwhitelist-hint-job = [trabajo]
 
-cmd-jobwhitelistadd-desc = Lets a player play a whitelisted job.
-cmd-jobwhitelistadd-help = Usage: jobwhitelistadd <username> <job>
-cmd-jobwhitelistadd-already-whitelisted = {$player} is already whitelisted to play as {$jobId} .({$jobName}).
-cmd-jobwhitelistadd-added = Added {$player} to the {$jobId} ({$jobName}) whitelist.
+cmd-jobwhitelistadd-desc = Permite a un jugador jugar un trabajo en lista blanca.
+cmd-jobwhitelistadd-help = Uso: jobwhitelistadd <nombre de usuario> <trabajo>
+cmd-jobwhitelistadd-already-whitelisted = {$player} ya está en la lista blanca para jugar como {$jobId} ({$jobName}).
+cmd-jobwhitelistadd-added = Se añadió a {$player} a la lista blanca de {$jobId} ({$jobName}).
 
-cmd-jobwhitelistget-desc = Gets all the jobs that a player has been whitelisted for.
-cmd-jobwhitelistget-help = Usage: jobwhitelistget <username>
-cmd-jobwhitelistget-whitelisted-none = Player {$player} is not whitelisted for any jobs.
-cmd-jobwhitelistget-whitelisted-for = "Player {$player} is whitelisted for:
+cmd-jobwhitelistget-desc = Obtiene todos los trabajos para los que un jugador está en lista blanca.
+cmd-jobwhitelistget-help = Uso: jobwhitelistget <nombre de usuario>
+cmd-jobwhitelistget-whitelisted-none = El jugador {$player} no está en la lista blanca para ningún trabajo.
+cmd-jobwhitelistget-whitelisted-for = "El jugador {$player} está en la lista blanca para:
 {$jobs}"
 
-cmd-jobwhitelistremove-desc = Removes a player's ability to play a whitelisted job.
-cmd-jobwhitelistremove-help = Usage: jobwhitelistremove <username> <job>
-cmd-jobwhitelistremove-was-not-whitelisted = {$player} was not whitelisted to play as {$jobId} ({$jobName}).
-cmd-jobwhitelistremove-removed = Removed {$player} from the whitelist for {$jobId} ({$jobName}).
+cmd-jobwhitelistremove-desc = Elimina la capacidad de un jugador para jugar un trabajo en lista blanca.
+cmd-jobwhitelistremove-help = Uso: jobwhitelistremove <nombre de usuario> <trabajo>
+cmd-jobwhitelistremove-was-not-whitelisted = {$player} no estaba en la lista blanca para jugar como {$jobId} ({$jobName}).
+cmd-jobwhitelistremove-removed = Se eliminó a {$player} de la lista blanca para {$jobId} ({$jobName}).

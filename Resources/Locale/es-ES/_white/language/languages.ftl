@@ -1,2 +1,2 @@
-language-XenoHivemind-name = Hivemind
-language-XenoHivemind-description = This is not a language in the conventional sense, but a symphony of minds resonating with a psionic field through the hive node. It is a flow of sensations, images, emotions, and instincts, transmitted from one xenomorph to another, forming a unified collective consciousness.
+language-XenoHivemind-name = Mente Colmena
+language-XenoHivemind-description = No es un idioma en el sentido convencional, sino una sinfonía de mentes que resuena con un campo psiónico a través del nodo de la colmena. Es un flujo de sensaciones, imágenes, emociones e instintos, transmitido de un xenomorfo a otro, formando una conciencia colectiva unificada.

@@ -8,9 +8,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-glue-success = { CAPITALIZE(THE($target))} has been covered in glue!
-glued-name-prefix = glued {$baseName}
-glue-failure = Can't cover {THE($target)} in glue!
-glue-verb-text = Apply Glue
-glue-verb-message = Glue an object
-
+glue-success = ¡{ CAPITALIZE(THE($target))} ha sido cubierto de pegamento!
+glued-name-prefix = {$baseName} encolado
+glue-failure = ¡No puedes cubrir {THE($target)} de pegamento!
+glue-verb-text = Aplicar pegamento
+glue-verb-message = Pegar un objeto

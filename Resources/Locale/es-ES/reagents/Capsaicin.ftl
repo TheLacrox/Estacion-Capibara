@@ -5,5 +5,5 @@
 
 ### Messages that pop up when metabolizing Capsaicin Oil.
 
-capsaicin-effect-light-burn = You feel a slight tingle in your throat...
-capsaicin-effect-heavy-burn = You feel like hell threw up in your mouth!
+capsaicin-effect-light-burn = Sientes un ligero cosquilleo en la garganta...
+capsaicin-effect-heavy-burn = ¡Sientes que el infierno vomitó en tu boca!

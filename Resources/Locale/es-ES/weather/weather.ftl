@@ -8,11 +8,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-weather-desc = Sets the weather for the current map.
-cmd-weather-help = weather <mapId> <prototype / null>
-cmd-weather-hint = Weather prototype
-cmd-weather-null = Clears the weather
+cmd-weather-desc = Establece el clima del mapa actual.
+cmd-weather-help = weather <mapId> <prototipo / null>
+cmd-weather-hint = Prototipo de clima
+cmd-weather-null = Elimina el clima
 
-cmd-weather-error-no-arguments = Not enough arguments!
-cmd-weather-error-unknown-proto = Unknown Weather prototype!
-cmd-weather-error-wrong-time = Time is in the wrong format!
+cmd-weather-error-no-arguments = ¡Argumentos insuficientes!
+cmd-weather-error-unknown-proto = ¡Prototipo de clima desconocido!
+cmd-weather-error-wrong-time = ¡El tiempo está en un formato incorrecto!

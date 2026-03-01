@@ -11,51 +11,51 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-salvage-system-announcement-losing = The magnet is no longer able to hold the salvagable debris. Estimated time until loss: {$timeLeft} seconds.
-salvage-system-announcement-spawn-debris-disintegrated = Debris disintegrated during orbital transfer.
-salvage-system-announcement-spawn-no-debris-available = No debris could be recovered by the salvage magnet.
-salvage-system-announcement-arrived = A piece of salvagable debris has been pulled in. Estimated hold time: {$timeLeft} seconds.
-salvage-asteroid-name = Asteroid
+salvage-system-announcement-losing = El imán ya no puede retener los escombros de salvamento. Tiempo estimado hasta la pérdida: {$timeLeft} segundos.
+salvage-system-announcement-spawn-debris-disintegrated = Los escombros se desintegraron durante la transferencia orbital.
+salvage-system-announcement-spawn-no-debris-available = El imán de salvamento no pudo recuperar ningún escombro.
+salvage-system-announcement-arrived = Se ha atraído un fragmento de escombros de salvamento. Tiempo estimado de retención: {$timeLeft} segundos.
+salvage-asteroid-name = Asteroide
 
-salvage-magnet-window-title = Salvage magnet
-salvage-expedition-window-progression = Progression
+salvage-magnet-window-title = Imán de salvamento
+salvage-expedition-window-progression = Progresión
 
 salvage-magnet-resources = {$resource ->
-    [OreIron] Iron
-    [OreCoal] Coal
-    [OreQuartz] Quartz
-    [OreSalt] Salt
-    [OreGold] Gold
-    [OreDiamond] Diamond
-    [OreSilver] Silver
+    [OreIron] Hierro
+    [OreCoal] Carbón
+    [OreQuartz] Cuarzo
+    [OreSalt] Sal
+    [OreGold] Oro
+    [OreDiamond] Diamante
+    [OreSilver] Plata
     [OrePlasma] Plasma
-    [OreUranium] Uranium
-    [OreArtifactFragment] Artifact fragments
-    [OreBananium] Bananium
+    [OreUranium] Uranio
+    [OreArtifactFragment] Fragmentos de artefacto
+    [OreBananium] Bananio
     *[other] {$resource}
 }
 
 salvage-magnet-resources-count = {$count ->
-    [1] (Poor)
-    [2] (Moderate)
-    [3] (Moderate)
-    [4] (Rich)
-    [5] (Rich)
-    *[other] (Extraordinary)
+    [1] (Pobre)
+    [2] (Moderado)
+    [3] (Moderado)
+    [4] (Rico)
+    [5] (Rico)
+    *[other] (Extraordinario)
 }
 
 # Debris
-salvage-magnet-debris-ChunkDebris = Space debris
+salvage-magnet-debris-ChunkDebris = Escombros espaciales
 
 # Asteroids
-dungeon-config-proto-BlobAsteroid = Asteroid clump
-dungeon-config-proto-ClusterAsteroid = Asteroid cluster
-dungeon-config-proto-SpindlyAsteroid = Asteroid spiral
-dungeon-config-proto-SwissCheeseAsteroid = Asteroid fragments
+dungeon-config-proto-BlobAsteroid = Agrupación de asteroides
+dungeon-config-proto-ClusterAsteroid = Cúmulo de asteroides
+dungeon-config-proto-SpindlyAsteroid = Espiral de asteroides
+dungeon-config-proto-SwissCheeseAsteroid = Fragmentos de asteroides
 
 # Wrecks
-salvage-map-wreck = Salvage wreck
-salvage-map-wreck-desc-size = Size:
-salvage-map-wreck-size-small = [color=lime]Small[/color]
-salvage-map-wreck-size-medium = [color=cornflowerblue]Medium[/color]
-salvage-map-wreck-size-large = [color=orchid]Large[/color]
+salvage-map-wreck = Naufragio de salvamento
+salvage-map-wreck-desc-size = Tamaño:
+salvage-map-wreck-size-small = [color=lime]Pequeño[/color]
+salvage-map-wreck-size-medium = [color=cornflowerblue]Mediano[/color]
+salvage-map-wreck-size-large = [color=orchid]Grande[/color]

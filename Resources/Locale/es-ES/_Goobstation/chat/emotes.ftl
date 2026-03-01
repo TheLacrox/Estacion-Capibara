@@ -7,35 +7,35 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Names
-chat-emote-name-fart = Fart
-chat-emote-name-fart-inhale = Breathe in a fart
-chat-emote-name-fart-super = Super Fart
-chat-emote-name-flap = Flap
-chat-emote-name-trill = Trill
-chat-emote-name-warble = Warble
-chat-emote-name-wurble = Wurble
-chat-emote-name-mars = Mars
+chat-emote-name-fart = Pedo
+chat-emote-name-fart-inhale = Inhalar un pedo
+chat-emote-name-fart-super = Superpedo
+chat-emote-name-flap = Aleteo
+chat-emote-name-trill = Trino
+chat-emote-name-warble = Gorjeo
+chat-emote-name-wurble = Murmullo
+chat-emote-name-mars = Marte
 
 # Message
-chat-emote-msg-fart = farts.
-chat-emote-msg-fart-inhale = breathes in a big fart.
-chat-emote-msg-fart-super = super farts.
-chat-emote-msg-flap = flaps {POSS-ADJ($entity)} wings.
-chat-emote-msg-trill = trills!
-chat-emote-msg-warble = warbles!
-chat-emote-msg-wurble = wurbles!
-chat-emote-msg-mars = mars.
-chat-emote-msg-bagawk = bagawks!
+chat-emote-msg-fart = se tira un pedo.
+chat-emote-msg-fart-inhale = inhala un gran pedo.
+chat-emote-msg-fart-super = se tira un superpedo.
+chat-emote-msg-flap = agita {POSS-ADJ($entity)} alas.
+chat-emote-msg-trill = ¡trina!
+chat-emote-msg-warble = ¡gorjea!
+chat-emote-msg-wurble = ¡murmulla!
+chat-emote-msg-mars = da en el blanco.
+chat-emote-msg-bagawk = ¡cacarea!
 
 
 # Misc
-emote-fart-not-loaded = You don't have a super fart loaded!
-emote-fart-already-loaded = You already have a fart loaded!
-emote-fart-ass-off = You don't have a butt to fart with!
-emote-fart-out-of-farts = You're all out of farts!
-emote-fart-super-fart = You (literally) fart your ass off!
-emote-fart-inhale-notice = You breathe in, arming a super fart.
-emote-fart-inhale-disarm-notice = You disarm your super fart.
+emote-fart-not-loaded = ¡No tienes un superpedo cargado!
+emote-fart-already-loaded = ¡Ya tienes un pedo cargado!
+emote-fart-ass-off = ¡No tienes trasero para tirarte pedos!
+emote-fart-out-of-farts = ¡Se te han acabado los pedos!
+emote-fart-super-fart = ¡Te tiras un pedo tan grande que (literalmente) se te va el trasero!
+emote-fart-inhale-notice = Inhalas, armando un superpedo.
+emote-fart-inhale-disarm-notice = Desarmas tu superpedo.
 
 chat-emote-name-boop = Boop
-chat-emote-name-whirr = Whirr
+chat-emote-name-whirr = Zumbido

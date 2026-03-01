@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-smoking-pipe-slot-component-slot-name-bowl = Bowl
+smoking-pipe-slot-component-slot-name-bowl = Cazoleta

@@ -7,23 +7,23 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 thief-role-greeting-human =
-    You are criminal scum, a kleptomaniac
-    previously arrested and on parole for petty theft.
-    You need to add more to your collection.
-    You were forcibly given a pacifism implant after your last arrest,
-    but that can't stop you from getting your fix by any means necessary.
+    Eres escoria criminal, un cleptómano
+    previamente arrestado y en libertad condicional por hurto menor.
+    Necesitas añadir más cosas a tu colección.
+    Te pusieron a la fuerza un implante de pacifismo tras tu último arresto,
+    pero eso no puede impedirte obtener tu dosis por cualquier medio necesario.
 
 thief-role-greeting-animal =
-    You are a kleptomaniac animal.
-    Steal things that you like.
+    Eres un animal cleptómano.
+    Roba las cosas que te gusten.
 
 thief-role-greeting-equipment =
-    You have a satchel of thieves'
-    tools and possess the innate
-    ability to steal without notice.
-    Choose your starting equipment,
-    and do your work stealthily.
+    Tienes un maletín de herramientas
+    de ladrón y posees la habilidad innata
+    de robar sin ser notado.
+    Elige tu equipo inicial
+    y trabaja con sigilo.
 
 objective-issuer-thief = [color=#746694]Criminal[/color]
 
-thief-round-end-agent-name = thief
+thief-round-end-agent-name = ladrón

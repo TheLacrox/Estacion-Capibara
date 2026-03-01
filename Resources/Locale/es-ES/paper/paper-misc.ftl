@@ -1,87 +1,108 @@
-# SPDX-FileCopyrightText: 2021 20kdc <asdd2808@gmail.com>
-# SPDX-FileCopyrightText: 2021 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2022 CrudeWax <75271456+CrudeWax@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2022 Fishfish458 <47410468+Fishfish458@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Myctai <108953437+Myctai@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Veritius <veritiusgaming@gmail.com>
 # SPDX-FileCopyrightText: 2022 fishfish458 <fishfish458>
-# SPDX-FileCopyrightText: 2023 dontbetank <59025279+dontbetank@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Perry Fraser <perryprog@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2024 ArtisticRoomba <145879011+ArtisticRoomba@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 IlyaElDunaev <154531074+IlyaElDunaev@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Kira Bridgeton <161087999+Verbalase@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Mangohydra <156087924+Mangohydra@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
-# SPDX-FileCopyrightText: 2024 drakewill-CRL <46307022+drakewill-CRL@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 themias <89101928+themias@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 PoTeletubby <ajcraigaz@gmail.com>
+# SPDX-FileCopyrightText: 2024 cohanna <160202097+cohanna@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 strO0pwafel <153459934+strO0pwafel@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-book-text-plasma-trap = Heheheheh, no way in hell they're going to get at our stash NOW, is there?
-      I rigged the area where our stuff's at to be a toasty thousand K.
-      You know how to drain it when we need it out.
-       - J.
+book-text-demonomicon1 = Cómo invocar un demonio
+          - por J.G. Wizgerald
 
-book-text-holoparasite-info = Thanks for choosing our holoparasite package!
-      At cybersun, we pride ourselves on cutting-edge military and industrial technology, and greatly appreciate your contribution to our establishment!
-      Guardians are helpful and intelligent beings which nest within your body, completely immune to common hazards such as pressure, temperature and even bullets!
-      You have purchased the holoparasite package, which contains a holoparasite activator, an instruction booklet, and our softcap merchandise.
-      Instructions for use:
-      1. Activate the holoparasite injector (preferably in a secluded area).
-      2. Wait for the tingling and/or painful metaphysical sensation.
-      3. Check your holoparasite for the ability to communicate and cooperate, and capacity to understand your orders.
-      4. Use your recall-manifest ability to summon or recall the holoparasite back into your body.
-      5. Keep the holoparasite within a short distance from yourself, otherwise it will be recalled by force!
-      WARNING: Guardians are metaphysical beings, but draw from your HEALTH in order to exist. Direct damage done to guardians will be partially transferred to you!
-      Cybersun inc. is not responsible for complete annihilation following the misuse of Holoparasite technology.
+          1. pendiente de terminar la guía de invocación de demonios
 
-book-text-ame-scribbles = I don't know if you're trained already, so I hope this'll help.
-      AME controller needs LV power and an HV wire to output to. Check the area with a crowbar if you aren't sure.
-      There should be an empty room next to where you found this, that room's wired for the AME.
-      You can put an AME anywhere if you can get the wires to it, though.
-      3x3 grid of AME parts, multitool them to unpack. Be careful not to 'trap' anything.
-      AME controller adjacent horizontally or vertically (not diagonally) to any point.
-      With only 1 core (what a 3x3 grid will get you), don't turn it up above 2.
-      The golden rule is 2 injection for every 1 core. You can go lower to save fuel.
-      Higher will burn the engine out and eventually make it explode. Don't.
-      Don't forget to refuel it, it tends to stop at the worst possible time.
+book-text-demonomicon2 = Cómo invocar un limón
+          - por J.G. Wizgerald
 
-book-text-agrichemkit-manual = Thank you for choosing the safe-for-all-ages NanoTrasen Agri-Chem is Fun! chemistry kit, the best learning-adjacent toy of 2468! Be prepared to discover all about the biggest innovations in agriculture since people buried fish with their corn seeds.
+          1. pendiente de terminar la guía de invocación de limones
+          2. Espera. Errata. Maldita sea. Lo siento, chicos.
 
-      Contents:
-      5 handily labeled 30u bottles, 1 each of nitrogen, phosphorus, hydrogen, potassium, and ethanol
-      2 Safe-T-Fun(TM) sized 5u vials, 1 each of chlorine and radium
-      1 30u empty bottle, ready for your experiments.
+book-text-demonomicon3 = Nombres de demonios guays que encontré
+      - por la Srta. Mossrock
 
-      First Experiment: EZ Nutrient
-      To create EZ Nutrient, a fertilizer densely packed with nutrients required for healthy plants, mix equal parts nitrogen, phosphorus, and potassium. To make a full bottle, thats 10u of each.
-      A little bottle of EZ Nutrient replaces a big stack of produce you'd otherwise compost to keep your plants growing strong. And crops you compost are crops you didn't make a profit on, so keep that EZ Nutrient flowing.
+      Abraxas
+      Nephilim
+      Baal
+      Leviathan
+      Gary
+      Moloch
+      Scylla
+      Phenex
 
-      Second Experiment: Ammonia and Diethylamine
-      Mix 3 parts hydrogen to 1 part nitrogen to make ammonia. It's a healthy, nutritious treat for your crops that aren't at their best. 
-      But if you want to impress the judges at your local NanoTrasen-sponsored County Fair, you'll need to add an equal amount of ethanol to your ammonia.
-      This will mix into Diethylamine, a miracle fertilizer that can make plants grow faster AND live longer! Keep the crops you love with you longer thanks to Diethylamine.
+book-text-chemistry-insane = GUÍA DE QUÍMICA DE IGOR QUÍMICA
 
-      Third Experiment: Unstable Mutagen
-      When you're ready to show everyone you're the greatest botanist on the station, you'll need to mix up some unstable mutagen and hope for the best. Despite the scary name, unstable mutagen is entirely safe when applied to plants, but do not drink the appealingly green chemical yourself.
-      
-      Mix equal parts radium, phosphorus, and chlorine together to get a bright green batch of unstable mutagen, the safe and fun way to get the most of your farm. The 15u this kit lets you make could be your introduction to agrichemical stardom!
-      Unstable mutagen can have a wide variety of effects on plant life, including drastic changes to all sorts of growth parameters, produce full of helpful pharmaceuticals, plants that glow in the dark, or creating entirely new species.
-      
-      Each individual plant responds to unstable mutagen differently, so you may want to use small doses on multiple crops and try to crossbreed the best traits from each of those. Applying multiple doses to one plant can stack multiple changes and make it harder to single out desirable traits.
-      Unstable mutagen is entirely safe when used as a fertilizer, and NanoTrasen takes no responsibility for dead crops, excessive water bills, newly sentient plants asking existential questions, or flora-strangled farmhands that may coincidentally occur while using it.
-      Do not drink unstable mutagen. Wash your hands thoroughly after handling. Wash your eyes if you have looked at unstable mutagen for over 30 minutes in a 24 hour period. Store in a dark room between 293–295K. Do not use on corporate holidays. If you begin hearing voices telling you to drink unstable mutagen, please contact your doctor, head of personnel, or exorcist.
+      TÍTULO: GUÍA DE QUÍMICA
 
-book-text-combat-bakery-kit = Thank you for choosing our combat bakery kit!
-      Enclosed are two (2) CyberSun patented Throwing Croissants, and one (1) patent-pending Baguette Sword.
-      The included Donk Co. microwave board can construct a microwave capable of baking more weapons.
-      Just like the baked weapons, be sure to eat this note after use. Good luck, agent.
+      RESUMEN: GUÍA DE QUÍMICA
 
-      Baguette Sword Recipe:
-      Dough x 1
-      Salt 5u
-      Pepper 5u
-      Metal Rod x 1
-      Cook Time: 15 seconds
+      SECCIÓN: PALABRAS SABIAS DE IGOR QUÍMICA
 
-      Throwing Croissant Recipe:
-      Raw Croissant x 1
-      Butter Slice x 1
-      Glass Shard x 1
-      Cook Time: 5 seconds
+      MI CONSEJO NÚMERO UNO. ES QUE SIEMPRE HAY QUE DIVERTIRSE. NUNCA SABES CUÁNDO ACABARÁ TODO.
+      ¡ASÍ QUE SIGUE ADELANTE!!
+
+      MI CONSEJO NÚMERO DOS. SIMPLEMENTE NO PUEDO DEJAR DE MOLER MONOS. MIS "COLEGAS" (agentes) NO PARAN DE GRITARME
+      QUE PARE Y QUE 'saldrá de nuestros cheques' PERO EL MATERIAL ES TAN BUENO. SOY COMO UN GENIO DE LA DECORACIÓN DE INTERIORES.
+      LOS SAXOFONES Y LAS BATERÍAS ME LO SACAN DE LA CABEZA PERO SIEMPRE VUELVO A LOS MONOS. CARAMELO.
+
+      MI CONSEJO NÚMERO TRES. ¡GRACIAS POR LEER!! IGOR QUÍMICA
+
+      CONCLUSIÓN: IGOR QUÍMICA
+
+book-text-botanics = ** Aplicaciones de especímenes botánicos encontrados en territorios Nanotrasen **
+
+      Muchas plantas, cuando se muelen, producen sustancias químicas útiles. S. (spessmens) papaver y S. aloe vera
+      son conocidas por sus propiedades básicas de curación.
+
+      S. lucidum, o lingzhi, es conocida por su potente capacidad para salvar a quienes están al borde de la muerte por toxinas. Se sabe que comer demasiado
+      causa efectos adversos.
+
+      S. amanita, un espécimen extremadamente venenoso (Descanse en paz Sir Alacaster), y S. galactica, un
+      antitoxina aparentemente ordinaria, parecen tener algún tipo de relación entre sí.
+
+      Se están realizando algunas investigaciones sobre combinaciones de las plantas medicinales discutidas, y podrían resultar fructíferas.
+
+      ----
+
+      - escrito por James Alacaster y Golzuk Amaranth
+
+book-text-gnome = Viva nuestro Rey Gnomo
+
+      ¡Aquel que es el gran cartógrafo que colocó a los de nuestra clase en el mundo de la Isla!
+
+      ¡Aquel que ama a los de los sombreros más grandes!
+
+      ¡Derribado por los malvados que no pueden apreciar a los de nuestra clase!
+
+      ¡Nuestra venganza se hará cumplir en su totalidad! ¡Él resurgirá de nuevo! ¡hee Hoo!
+
+book-text-fishing = Cuando sea mayor, ¡quiero ser uno de los cosechadores del mar espacial!
+
+      Creo que antes de que mis días terminen quiero atrapar el legendario pez espacial.
+
+      ¡Soy como una pequeña rata surcando los mares de queso! ¡Los muy cabrones vienen a acabar conmigo, pero soy tan astuto como un gato y tan afortunado como se puede ser!
+
+      Pulsa <L BUMPER> y <R TRIGGER> para activar el minijuego de pesca.
+
+      - Sgto. John Baker Aclopoly
+
+book-text-detective = CAPÍTULO 1: PEQUEÑAS AVENTURAS EN UNA GRAN ESTACIÓN
+
+      Esta estación está llena de crimen y mugre...
+
+      Estaba lanzando canastas en Bagel cuando escuché un grito y un disparo de láser. Me metí debajo de la mesa cercana para esconderme, pero no hubo un segundo disparo.
+
+      Fuera, el jefe de ingeniería fue abatido por dos Syndies equipados con contrabando pesado. No quedaron suficientes restos de él para un funeral con ataúd abierto.
+
+      Las cosas siempre se descontrolan aquí... Nunca volveré a mirar a los payasos de la misma manera.
+
+      La pregunta es... ¿Quién lo hizo?

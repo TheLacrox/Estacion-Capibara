@@ -5,32 +5,32 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-explosion-eui-title = Spawn Explosions
+admin-explosion-eui-title = Generar Explosiones
 
-admin-explosion-eui-label-type = Explosion Type
-admin-explosion-eui-label-mapid = Map ID
-admin-explosion-eui-label-xmap = X (Map)
-admin-explosion-eui-label-ymap = Y (Map)
-admin-explosion-eui-label-current = Current Position
-admin-explosion-eui-label-preview = Preview
-admin-explosion-eui-label-total = Total Intensity
-admin-explosion-eui-label-slope = Intensity Slope
-admin-explosion-eui-label-max = Max Intensity
-admin-explosion-eui-label-directional = Directional
-admin-explosion-eui-label-angle = Angle
-admin-explosion-eui-label-spread = Spread
-admin-explosion-eui-label-distance = Distance
-admin-explosion-eui-label-spawn = Kabloom!
+admin-explosion-eui-label-type = Tipo de Explosión
+admin-explosion-eui-label-mapid = ID de Mapa
+admin-explosion-eui-label-xmap = X (Mapa)
+admin-explosion-eui-label-ymap = Y (Mapa)
+admin-explosion-eui-label-current = Posición Actual
+admin-explosion-eui-label-preview = Vista previa
+admin-explosion-eui-label-total = Intensidad Total
+admin-explosion-eui-label-slope = Pendiente de Intensidad
+admin-explosion-eui-label-max = Intensidad Máxima
+admin-explosion-eui-label-directional = Direccional
+admin-explosion-eui-label-angle = Ángulo
+admin-explosion-eui-label-spread = Dispersión
+admin-explosion-eui-label-distance = Distancia
+admin-explosion-eui-label-spawn = ¡Boom!
 
-cmd-explosionui-desc = Opens a window for easy access to station destruction.
-cmd-explosionui-help = Usage: explosionui
+cmd-explosionui-desc = Abre una ventana para destruir fácilmente la estación.
+cmd-explosionui-help = Uso: explosionui
 
-cmd-explosion-desc = Train go boom
-cmd-explosion-help = Usage: explosion [intensity] [slope] [maxIntensity] [x y] [mapId] [prototypeId]
-cmd-explosion-failed-to-parse-intensity = Failed to parse intensity: {$value}
-cmd-explosion-failed-to-parse-float = Failed to parse float: {$value}
-cmd-explosion-failed-to-parse-coords = Failed to parse coordinates: {$value1} {$value2}
-cmd-explosion-failed-to-parse-map-id = Failed to parse map ID: {$value}
-cmd-explosion-need-coords-explicit = Failed get default coordinates/map via player's transform. Need to specify explicitly.
-cmd-explosion-unknown-prototype = Unknown explosion prototype: {$value}
-cmd-explosion-no-prototypes = Prototype manager has no explosion prototypes?
+cmd-explosion-desc = El tren va boom
+cmd-explosion-help = Uso: explosion [intensidad] [pendiente] [intensidadMáx] [x y] [idMapa] [idPrototipo]
+cmd-explosion-failed-to-parse-intensity = Error al parsear la intensidad: {$value}
+cmd-explosion-failed-to-parse-float = Error al parsear el número decimal: {$value}
+cmd-explosion-failed-to-parse-coords = Error al parsear las coordenadas: {$value1} {$value2}
+cmd-explosion-failed-to-parse-map-id = Error al parsear el ID de mapa: {$value}
+cmd-explosion-need-coords-explicit = No se pudieron obtener las coordenadas/mapa predeterminados a través del transform del jugador. Es necesario especificarlos explícitamente.
+cmd-explosion-unknown-prototype = Prototipo de explosión desconocido: {$value}
+cmd-explosion-no-prototypes = ¿El gestor de prototipos no tiene prototipos de explosión?

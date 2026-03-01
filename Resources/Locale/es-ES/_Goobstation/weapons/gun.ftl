@@ -8,13 +8,13 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # EnergyGunComponent
-energygun-examine-fire-mode = Set to {$mode} bolt.
+energygun-examine-fire-mode = Configurado en modo {$mode}.
 
 # Hardlight Bow
-ammo-selector-examine-mode = Current mode: {$mode}
-mode-select-verb-text = Select firing mode
-mode-selected = Selected {$mode}
+ammo-selector-examine-mode = Modo actual: {$mode}
+mode-select-verb-text = Seleccionar modo de disparo
+mode-selected = Seleccionado {$mode}
 
 # RequiresDualWieldComponent
-dual-wield-component-requires = That doesn't feel cool enough, you need to dual wield.
-gun-requires-dual-wield-component-examine = This weapon needs to be dual wielded with another of its kind in order to be fired.
+dual-wield-component-requires = Eso no se siente suficientemente genial, necesitas empuñarlo con ambas manos.
+gun-requires-dual-wield-component-examine = Esta arma necesita empuñarse con dos manos junto a otra igual para poder disparar.

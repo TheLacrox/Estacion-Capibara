@@ -1,25 +1,25 @@
-miner-weapon-selector-pka-name = Proto-kinetic Accelerator
+miner-weapon-selector-pka-name = Acelerador Proto-cinético
 miner-weapon-selector-pka-description =
-    Classic short-ranged bolt accelerator that deals
-    constant damage with high accuracy.
-miner-weapon-selector-repeater-name = Proto-kinetic Repeater
+    Acelerador de proyectiles de corto alcance clásico que inflige
+    daño constante con alta precisión.
+miner-weapon-selector-repeater-name = Repetidor Proto-cinético
 miner-weapon-selector-repeater-description =
-    A middle-ranged burst weapon that shoots 3 bullets
-    in a row dealing high amounts of damage.
-miner-weapon-selector-pistols-name = Proto-kinetic Pistols
+    Arma de ráfaga de alcance medio que dispara 3 balas
+    seguidas causando grandes cantidades de daño.
+miner-weapon-selector-pistols-name = Pistolas Proto-cinéticas
 miner-weapon-selector-pistols-description =
-    2 pistols that you can dualwield to look like from middle-west.
-    Deals decent amount of damage in exchange for good range.
+    2 pistolas que puedes usar a la vez para parecer del lejano oeste.
+    Infligen una cantidad decente de daño a cambio de buen alcance.
 
-miner-weapon-selector-crusher-name = Crusher Axe
+miner-weapon-selector-crusher-name = Hacha Crusher
 miner-weapon-selector-crusher-description =
-    Classic melee weapon for slicing lavaland enemies.
-miner-weapon-selector-glaive-name = Crusher Glaive
+    Arma cuerpo a cuerpo clásica para cortar enemigos de Lavaland.
+miner-weapon-selector-glaive-name = Glaive Crusher
 miner-weapon-selector-glaive-description =
-    A piercing weapon that has high range and attack speed
-    in exchange for lower damage. Great if you want to
-    attack enemies from safety.
-miner-weapon-selector-hammer-name = Crusher Hammer
+    Arma perforadora con gran alcance y velocidad de ataque
+    a cambio de menos daño. Ideal si quieres
+    atacar enemigos desde una posición segura.
+miner-weapon-selector-hammer-name = Martillo Crusher
 miner-weapon-selector-hammer-description =
-    A heavy blunt weapon that deals a lot of damage
-    in slow powerful hits. Can mine through rock unefficiently.
+    Arma contundente pesada que inflige mucho daño
+    en golpes lentos y poderosos. Puede minar roca de forma ineficiente.

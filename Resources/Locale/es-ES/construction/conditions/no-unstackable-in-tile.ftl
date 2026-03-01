@@ -8,5 +8,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-step-condition-no-unstackable-in-tile = You cannot make a stack of similar devices.
-pipe-restrict-overlap-popup-blocked = { CAPITALIZE(THE($pipe))} doesn't fit over the other pipes!
+construction-step-condition-no-unstackable-in-tile = No puedes apilar dispositivos similares.
+pipe-restrict-overlap-popup-blocked = { CAPITALIZE(THE($pipe))} no cabe sobre las otras tuberías.

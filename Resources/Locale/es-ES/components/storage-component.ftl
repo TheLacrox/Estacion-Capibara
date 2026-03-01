@@ -13,14 +13,14 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 comp-storage-no-item-size = N/A
-comp-storage-cant-insert = Can't insert.
-comp-storage-too-big = Too big!
-comp-storage-insufficient-capacity = No room!
-comp-storage-invalid-container = This doesn't go in there!
-comp-storage-anchored-failure = Can't insert an anchored item.
-comp-storage-cant-drop = You can't let go of { THE($entity) }!
-comp-storage-window-title = Storage Item
-comp-storage-window-weight = { $weight }/{ $maxWeight }, Max Size: {$size}
-comp-storage-window-slots = Slots: { $itemCount }/{ $maxCount }, Max Size: {$size}
-comp-storage-verb-open-storage = Open Storage
-comp-storage-verb-close-storage = Close Storage
+comp-storage-cant-insert = No se puede insertar.
+comp-storage-too-big = ¡Demasiado grande!
+comp-storage-insufficient-capacity = ¡Sin espacio!
+comp-storage-invalid-container = ¡Esto no va ahí!
+comp-storage-anchored-failure = No se puede insertar un objeto anclado.
+comp-storage-cant-drop = ¡No puedes soltar { THE($entity) }!
+comp-storage-window-title = Objeto de almacenamiento
+comp-storage-window-weight = { $weight }/{ $maxWeight }, Tamaño máx: {$size}
+comp-storage-window-slots = Ranuras: { $itemCount }/{ $maxCount }, Tamaño máx: {$size}
+comp-storage-verb-open-storage = Abrir almacenamiento
+comp-storage-verb-close-storage = Cerrar almacenamiento

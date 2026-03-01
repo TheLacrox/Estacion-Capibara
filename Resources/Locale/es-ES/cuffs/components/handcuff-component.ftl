@@ -12,23 +12,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-handcuff-component-target-self = You start restraining yourself.
-handcuff-component-cuffs-broken-error = The restraints are broken!
-handcuff-component-target-has-no-hands-error = {$targetName} has no hands!
-handcuff-component-target-has-no-free-hands-error = {$targetName} has no free hands!
-handcuff-component-too-far-away-error = You are too far away to use the restraints!
-handcuff-component-start-cuffing-observer = {$user} starts restraining {$target}!
-handcuff-component-start-cuffing-self-observer = {$user} starts restraining {REFLEXIVE($target)}.
-handcuff-component-start-cuffing-target-message = You start restraining {$targetName}.
-handcuff-component-start-cuffing-by-other-message = {$otherName} starts restraining you!
-handcuff-component-cuff-observer-success-message = {$user} restrains {$target}.
-handcuff-component-cuff-self-observer-success-message = {$user} restrains {REFLEXIVE($target)}.
-handcuff-component-cuff-other-success-message = You successfully restrain {$otherName}.
-handcuff-component-cuff-by-other-success-message = You have been restrained by {$otherName}!
-handcuff-component-cuff-self-success-message = You restrain yourself.
-handcuff-component-cuff-interrupt-message = You were interrupted while restraining {$targetName}!
-handcuff-component-cuff-interrupt-other-message = You interrupt {$otherName} while { SUBJECT($otherEnt) } { CONJUGATE-BE($otherEnt) } restraining you!
-handcuff-component-cuff-interrupt-self-message = You were interrupted while restraining yourself.
-handcuff-component-cuff-interrupt-buckled-message = You can't buckle while restrained!
-handcuff-component-cuff-interrupt-unbuckled-message = You can't unbuckle while restrained!
-handcuff-component-cannot-drop-cuffs = You are unable to put the restraints on {$target}.
+handcuff-component-target-self = Empiezas a esposarte.
+handcuff-component-cuffs-broken-error = ¡Las restricciones están rotas!
+handcuff-component-target-has-no-hands-error = ¡{$targetName} no tiene manos!
+handcuff-component-target-has-no-free-hands-error = ¡{$targetName} no tiene manos libres!
+handcuff-component-too-far-away-error = ¡Estás demasiado lejos para usar las restricciones!
+handcuff-component-start-cuffing-observer = ¡{$user} empieza a esposar a {$target}!
+handcuff-component-start-cuffing-self-observer = {$user} empieza a esposarse {REFLEXIVE($target)}.
+handcuff-component-start-cuffing-target-message = Empiezas a esposar a {$targetName}.
+handcuff-component-start-cuffing-by-other-message = ¡{$otherName} empieza a esposarte!
+handcuff-component-cuff-observer-success-message = {$user} esposa a {$target}.
+handcuff-component-cuff-self-observer-success-message = {$user} se esposa {REFLEXIVE($target)}.
+handcuff-component-cuff-other-success-message = Esposas a {$otherName} con éxito.
+handcuff-component-cuff-by-other-success-message = ¡{$otherName} te ha esposado!
+handcuff-component-cuff-self-success-message = Te esposas a ti mismo.
+handcuff-component-cuff-interrupt-message = ¡Te interrumpieron mientras esposabas a {$targetName}!
+handcuff-component-cuff-interrupt-other-message = ¡Interrumpes a {$otherName} mientras { SUBJECT($otherEnt) } { CONJUGATE-BE($otherEnt) } esposándote!
+handcuff-component-cuff-interrupt-self-message = Te interrumpieron mientras te esposabas.
+handcuff-component-cuff-interrupt-buckled-message = ¡No puedes abrocharte mientras estás esposado!
+handcuff-component-cuff-interrupt-unbuckled-message = ¡No puedes desabrocharte mientras estás esposado!
+handcuff-component-cannot-drop-cuffs = No puedes ponerle las restricciones a {$target}.

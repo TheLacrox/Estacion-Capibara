@@ -5,5 +5,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 fibers-modular = modular
-fibers-classified = classified
-fibers-pitch-black = pitch-black
+fibers-classified = clasificado
+fibers-pitch-black = negro azabache

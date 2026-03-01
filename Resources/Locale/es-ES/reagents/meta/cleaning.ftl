@@ -8,17 +8,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-bleach = bleach
-reagent-desc-bleach = Heavy duty cleaner that can clean tiles the same as Space Cleaner and also decontaminate clothes. Extremely toxic when ingested.
+reagent-name-bleach = lejía
+reagent-desc-bleach = Limpiador de alto rendimiento que puede limpiar superficies igual que el Limpiador Espacial y también descontaminar ropa. Extremadamente tóxico al ingerirse.
 
-reagent-name-space-cleaner = space cleaner
-reagent-desc-space-cleaner = This is able to clean almost all surfaces of almost anything that may dirty them. The janitor is likely to appreciate refills.
+reagent-name-space-cleaner = limpiador espacial
+reagent-desc-space-cleaner = Es capaz de limpiar casi todas las superficies de casi cualquier cosa que las ensucie. El conserje probablemente agradecerá los recargas.
 
-reagent-name-soap = soap
-reagent-desc-soap = I wouldn't clean my mouth out with this if I were you.
+reagent-name-soap = jabón
+reagent-desc-soap = No me lavaría la boca con esto si fuera tú.
 
-reagent-name-space-lube = space lube
-reagent-desc-space-lube = Space Lube is a high performance lubricant intended for maintenance of extremely complex mechanical equipment (and certainly not used to make people slip).
+reagent-name-space-lube = lubricante espacial
+reagent-desc-space-lube = El lubricante espacial es un lubricante de alto rendimiento destinado al mantenimiento de equipos mecánicos extremadamente complejos (y sin duda no para hacer resbalar a la gente).
 
-reagent-name-space-glue = space glue
-reagent-desc-space-glue = Space Glue is a high performance glue intended for maintenance of extremely complex mechanical equipment (and certainly not used to make people stick to the floor).
+reagent-name-space-glue = pegamento espacial
+reagent-desc-space-glue = El pegamento espacial es un adhesivo de alto rendimiento destinado al mantenimiento de equipos mecánicos extremadamente complejos (y desde luego no para pegar a la gente al suelo).

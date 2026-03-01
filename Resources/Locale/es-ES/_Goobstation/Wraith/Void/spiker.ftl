@@ -1,4 +1,4 @@
-wraith-spiker-lash = { $user } lashes at { $target }!
+wraith-spiker-lash = ¡{ $user } azota a { $target }!
 
-wraith-spiker-shuffle = You are shuffled!
-wraith-spiker-shuffle-removed = You are no longer shuffled!
+wraith-spiker-shuffle = ¡Estás en barajado!
+wraith-spiker-shuffle-removed = ¡Ya no estás en barajado!

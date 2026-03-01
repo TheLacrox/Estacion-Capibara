@@ -2,14 +2,14 @@
 # SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
-ui-options-preferences = Preferences
+ui-options-preferences = Preferencias
 
-ui-options-function-resist-grab = Resist Grab
-ui-options-coalesce-identical-messages = Coalesce identical messages in chat
-ui-options-detailed-examine = Show detailed examine text
-ui-options-auto-focus-search-on-build-menu = Automatically focus the search input when the build menu is opened
+ui-options-function-resist-grab = Resistir agarre
+ui-options-coalesce-identical-messages = Agrupar mensajes idénticos en el chat
+ui-options-detailed-examine = Mostrar texto de examen detallado
+ui-options-auto-focus-search-on-build-menu = Enfocar automáticamente la búsqueda al abrir el menú de construcción
 
-ui-options-hud-theme-coscult = Cosmic Cult
+ui-options-hud-theme-coscult = Culto Cósmico
 
-ui-options-admin-notifications-title = Admin Notifications
-ui-options-admin-notifications-volume = Admin Notification Volume
+ui-options-admin-notifications-title = Notificaciones de Administrador
+ui-options-admin-notifications-volume = Volumen de notificaciones de administrador

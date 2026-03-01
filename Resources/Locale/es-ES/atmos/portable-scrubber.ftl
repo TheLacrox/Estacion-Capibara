@@ -6,4 +6,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-portable-scrubber-fill-level = It's at about [color=yellow]{$percent}%[/color] of its maximum internal pressure.
+portable-scrubber-fill-level = Está aproximadamente al [color=yellow]{$percent}%[/color] de su presión interna máxima.

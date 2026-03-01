@@ -1,10 +1,10 @@
-armor-coverage-value = - [color=yellow]This armor reduces incoming damage to your { $type }[/color]
-armor-coverage-type-arm = arms
-armor-coverage-type-hand = hands
-armor-coverage-type-foot = feet
-armor-coverage-type-leg = legs
-armor-coverage-type-chest = chest
-armor-coverage-type-groin = groin
-armor-coverage-type-head = head
-armor-coverage-type-tail = tail
-armor-coverage-type-other = other parts
+armor-coverage-value = - [color=yellow]Esta armadura reduce el daño entrante a tu { $type }[/color]
+armor-coverage-type-arm = brazos
+armor-coverage-type-hand = manos
+armor-coverage-type-foot = pies
+armor-coverage-type-leg = piernas
+armor-coverage-type-chest = pecho
+armor-coverage-type-groin = entrepierna
+armor-coverage-type-head = cabeza
+armor-coverage-type-tail = cola
+armor-coverage-type-other = otras partes

@@ -1,2 +1,2 @@
 uplink-hushpup-name = Hushpup
-uplink-hushpup-desc = An obscure modification of the Enforcer, fitted with a bulky suppressor. Comes with a coin and complementary syndicate bag. Loads 5 rounds of 12 Gauge.
+uplink-hushpup-desc = Una modificación poco conocida del Enforcer, equipada con un silenciador voluminoso. Viene con una moneda y una bolsa sindicato de cortesía. Carga 5 cartuchos de calibre 12.

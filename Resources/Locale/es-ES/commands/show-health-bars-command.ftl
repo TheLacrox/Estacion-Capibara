@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-showhealthbars-desc = Toggles health bars above mobs.
-cmd-showhealthbars-help = Usage: showhealthbars [<DamageContainerId>]
-cmd-showhealthbars-notify-enabled = Enabled health overlay for DamageContainers: {$args}.
-cmd-showhealthbars-notify-disabled = Disabled health overlay.
+cmd-showhealthbars-desc = Alterna las barras de vida sobre los personajes.
+cmd-showhealthbars-help = Uso: showhealthbars [<DamageContainerId>]
+cmd-showhealthbars-notify-enabled = Superposición de vida activada para DamageContainers: {$args}.
+cmd-showhealthbars-notify-disabled = Superposición de vida desactivada.

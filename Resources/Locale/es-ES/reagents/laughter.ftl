@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-laughter-effect-control-laughter = You can't contain your laughter!
+laughter-effect-control-laughter = ¡No puedes contener la risa!

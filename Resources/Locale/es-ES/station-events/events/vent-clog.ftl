@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-station-event-vent-clog-start-announcement = The scrubbers network is experiencing a backpressure surge. Some ejection of contents may occur.
+station-event-vent-clog-start-announcement = La red de depuradores está experimentando un aumento de contrapresión. Puede producirse la expulsión de algunos contenidos.

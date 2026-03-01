@@ -1,45 +1,45 @@
-shadowling-on-try-equip-clothes = This is fruitless to you...
+shadowling-on-try-equip-clothes = Esto no tiene sentido para ti...
 
-reagent-name-shadowling-toxin = shadowling toxin
-reagent-desc-shadowling-toxin = A mysterious chemical that makes heals any shadowling and their thralls, but blinds anyone else
+reagent-name-shadowling-toxin = toxina de sombrío
+reagent-desc-shadowling-toxin = Un químico misterioso que cura a cualquier sombrío y sus vasallos, pero ciega a cualquier otro
 
-alerts-shadowling-light-name = Light Identifier
-alerts-shadowling-light-desc = This is your light identifier. If it reaches 0, you start taking damage. Prioritize standing in the shadows.
+alerts-shadowling-light-name = Indicador de Luz
+alerts-shadowling-light-desc = Este es tu indicador de luz. Si llega a 0, empiezas a recibir daño. Prioriza estar en las sombras.
 
-chat-manager-shadowling-channel-name = Shadowmind
+chat-manager-shadowling-channel-name = Mente Sombría
 
-shadowling-dead = You strangely regain your mind.
+shadowling-dead = Extrañamente recuperas tu mente.
 
-shadowling-thrall-examined = This is your Thrall.
-shadowling-thrall-other-examined = {CAPITALIZE(POSS-ADJ($target))} eyes seem to gaze into another reality...
+shadowling-thrall-examined = Este es tu Vasallo.
+shadowling-thrall-other-examined = Los ojos de {CAPITALIZE(POSS-ADJ($target))} parecen mirar hacia otra realidad...
 
 guide-entry-shadowlings = Sombrío
 
 reagent-effect-guidebook-blind-non-sling =
     { $chance ->
-        [1] Blinds any
-        *[other] blind any
-    } non-shadowling
+        [1] Ciega a cualquier
+        *[other] ciega a cualquier
+    } no-sombrío
 
 reagent-effect-guidebook-heal-sling =
     { $chance ->
-        [1] Heals any
-        *[other] heal any
-    } shadowling and thrall
+        [1] Cura a cualquier
+        *[other] cura a cualquier
+    } sombrío y vasallo
 
-marking-LesserShadowlingEyes = Lesser Shadowling Eyes
-marking-AbominationHorns = Abomination Horns
-marking-AbominationTorso = Abomination Torso
+marking-LesserShadowlingEyes = Ojos de Sombrío Menor
+marking-AbominationHorns = Cuernos de Abominación
+marking-AbominationTorso = Torso de Abominación
 
-admin-verb-make-shadowling = Make the target into a shadowling.
-admin-verb-text-make-shadowling = Make Shadowling
+admin-verb-make-shadowling = Convertir al objetivo en un sombrío.
+admin-verb-text-make-shadowling = Crear Sombrío
 
-species-name-shadowling = Shadowling
-species-name-shadow = Shadow
+species-name-shadowling = Sombrío
+species-name-shadow = Sombra
 
 # Examine Texts
-shadowling-examine-self = [color=#D22B2B]You take {$damage} burn damage from light[/color]
+shadowling-examine-self = [color=#D22B2B]Recibes {$damage} de daño por quemadura de la luz[/color]
 
 # UI
-asc-broadcast-title = Ascendant Broadcast
-asc-broadcast-prompt = Message
+asc-broadcast-title = Transmisión del Ascendido
+asc-broadcast-prompt = Mensaje

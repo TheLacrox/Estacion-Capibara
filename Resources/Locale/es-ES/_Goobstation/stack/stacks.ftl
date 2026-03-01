@@ -1,24 +1,24 @@
 stack-bscrystal = {$amount ->
-    [1] bluespace crystal
-    *[other] bluespace crystals
+    [1] cristal de espacio azul
+    *[other] cristales de espacio azul
 }
 
 stack-bscrystal-unprocessed = {$amount ->
-    [1] unprocessed bluespace crystal
-    *[other] unprocessed bluespace crystals
+    [1] cristal de espacio azul sin procesar
+    *[other] cristales de espacio azul sin procesar
 }
 
 stack-bingle-tile = {$amount ->
-    [1] bingle tile
-    *[other] bingle tiles
+    [1] baldosa bingle
+    *[other] baldosas bingle
 }
 
-stack-hex-nut = hex {$amount ->
-    [1] nut
-    *[other] nuts
+stack-hex-nut = {$amount ->
+    [1] tuerca hexagonal
+    *[other] tuercas hexagonales
 }
 
 stack-screw = {$amount ->
-    [1] screw
-    *[other] screws
+    [1] tornillo
+    *[other] tornillos
 }

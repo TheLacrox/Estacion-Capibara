@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-war-ops-infiltrator-unavailable = ERROR: FTL Travel recalculation in progress. Estimated time: {$time} minutes.
-war-ops-shuttle-call-unavailable = Evacuation shuttle is currently unavailable. Please wait
+war-ops-infiltrator-unavailable = ERROR: Recálculo de viaje FTL en progreso. Tiempo estimado: {$time} minutos.
+war-ops-shuttle-call-unavailable = El transbordador de evacuación no está disponible actualmente. Por favor, espera

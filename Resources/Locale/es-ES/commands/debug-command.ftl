@@ -4,11 +4,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-showmarkers-desc = Toggles visibility of markers such as spawn points.
-cmd-showmarkers-help = Usage: {$command}
+cmd-showmarkers-desc = Alterna la visibilidad de marcadores como los puntos de aparición.
+cmd-showmarkers-help = Uso: {$command}
 
-cmd-showsubfloor-desc = Makes entities below the floor always visible.
-cmd-showsubfloor-help = Usage: {$command}
+cmd-showsubfloor-desc = Hace que las entidades bajo el suelo siempre sean visibles.
+cmd-showsubfloor-help = Uso: {$command}
 
-cmd-notify-desc = Send a notify client side.
-cmd-notify-help = Usage: {$command} <message>
+cmd-notify-desc = Envía una notificación en el lado del cliente.
+cmd-notify-help = Uso: {$command} <mensaje>

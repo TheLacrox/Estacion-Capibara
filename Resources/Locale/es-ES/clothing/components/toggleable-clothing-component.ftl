@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-toggle-clothing-verb-text = Toggle {CAPITALIZE($entity)}
+toggle-clothing-verb-text = Activar/desactivar {CAPITALIZE($entity)}
 
-toggleable-clothing-remove-first = You have to unequip {$entity} first.
-toggleable-clothing-remove-all-attached-first = You have to unequip all toggled clothing first.
-toggleable-clothing-attach-tooltip = Equip
-toggleable-clothing-unattach-tooltip = Unequip
+toggleable-clothing-remove-first = Primero debes quitarte {$entity}.
+toggleable-clothing-remove-all-attached-first = Primero debes quitarte toda la ropa activada.
+toggleable-clothing-attach-tooltip = Equipar
+toggleable-clothing-unattach-tooltip = Desequipar

@@ -11,77 +11,77 @@ server-currency-name-plural = Goob Coins
 ## Commands
 
 server-currency-gift-command = gift
-server-currency-gift-command-description = Gifts some of your balance to another player.
-server-currency-gift-command-help = Usage: gift <player> <value>
-server-currency-gift-command-error-1 = You can't gift yourself!
-server-currency-gift-command-error-2 = You can not afford to gift this! You have a balance of {$balance}.
-server-currency-gift-command-giver = You gave {$player} {$amount}.
-server-currency-gift-command-reciever = {$player} gave you {$amount}.
+server-currency-gift-command-description = Regala parte de tu saldo a otro jugador.
+server-currency-gift-command-help = Uso: gift <jugador> <cantidad>
+server-currency-gift-command-error-1 = ¡No puedes regalarte a ti mismo!
+server-currency-gift-command-error-2 = ¡No tienes suficiente saldo para este regalo! Tienes un saldo de {$balance}.
+server-currency-gift-command-giver = Le diste {$amount} a {$player}.
+server-currency-gift-command-reciever = {$player} te dio {$amount}.
 
 server-currency-balance-command = balance
-server-currency-balance-command-description = Returns your balance.
-server-currency-balance-command-help = Usage: balance
-server-currency-balance-command-return = You have {$balance}.
+server-currency-balance-command-description = Devuelve tu saldo.
+server-currency-balance-command-help = Uso: balance
+server-currency-balance-command-return = Tienes {$balance}.
 
 server-currency-add-command = balance:add
-server-currency-add-command-description = Adds currency to a player's balance.
-server-currency-add-command-help = Usage: balance:add <player> <value>
+server-currency-add-command-description = Añade moneda al saldo de un jugador.
+server-currency-add-command-help = Uso: balance:add <jugador> <cantidad>
 
 server-currency-remove-command = balance:rem
-server-currency-remove-command-description = Removes currency from a player's balance.
-server-currency-remove-command-help = Usage: balance:rem <player> <value>
+server-currency-remove-command-description = Elimina moneda del saldo de un jugador.
+server-currency-remove-command-help = Uso: balance:rem <jugador> <cantidad>
 
 server-currency-set-command = balance:set
-server-currency-set-command-description = Sets a player's balance.
-server-currency-set-command-help = Usage: balance:set <player> <value>
+server-currency-set-command-description = Establece el saldo de un jugador.
+server-currency-set-command-help = Uso: balance:set <jugador> <cantidad>
 
 server-currency-get-command = balance:get
-server-currency-get-command-description = Gets the balance of a player.
-server-currency-get-command-help = Usage: balance:get <player>
+server-currency-get-command-description = Obtiene el saldo de un jugador.
+server-currency-get-command-help = Uso: balance:get <jugador>
 
-server-currency-command-completion-1 = Username
-server-currency-command-completion-2 = Value
-server-currency-command-error-1 = Unable to find a player by that name.
-server-currency-command-error-2 = Value must be an integer.
-server-currency-command-return = {$player} has {$balance}.
+server-currency-command-completion-1 = Nombre de usuario
+server-currency-command-completion-2 = Cantidad
+server-currency-command-error-1 = No se puede encontrar un jugador con ese nombre.
+server-currency-command-error-2 = El valor debe ser un número entero.
+server-currency-command-return = {$player} tiene {$balance}.
 
 # 65% Update
 
-gs-balanceui-title = Store
-gs-balanceui-confirm = Confirm
+gs-balanceui-title = Tienda
+gs-balanceui-confirm = Confirmar
 
-gs-balanceui-gift-label = Transfer:
-gs-balanceui-gift-player = Player
-gs-balanceui-gift-player-tooltip = Insert the name of the player you want to send the money to
-gs-balanceui-gift-value = Value
-gs-balanceui-gift-value-tooltip = Amount of money to transfer
+gs-balanceui-gift-label = Transferir:
+gs-balanceui-gift-player = Jugador
+gs-balanceui-gift-player-tooltip = Ingresa el nombre del jugador al que quieres enviarle dinero
+gs-balanceui-gift-value = Cantidad
+gs-balanceui-gift-value-tooltip = Cantidad de dinero a transferir
 
-gs-balanceui-shop-label = Tokens Store
-gs-balanceui-shop-empty = Out of stock!
-gs-balanceui-shop-buy = Buy
-gs-balanceui-shop-footer = ⚠ Ahelp to use your token. Only 1 use per day.
+gs-balanceui-shop-label = Tienda de fichas
+gs-balanceui-shop-empty = ¡Sin existencias!
+gs-balanceui-shop-buy = Comprar
+gs-balanceui-shop-footer = ⚠ Ahelp para usar tu ficha. Solo 1 uso por día.
 
-gs-balanceui-shop-token-label = Tokens
-gs-balanceui-shop-tittle-label = Titles
+gs-balanceui-shop-token-label = Fichas
+gs-balanceui-shop-tittle-label = Títulos
 
-gs-balanceui-shop-buy-token-antag = Buy an Antag Token - {$price} Goob Coins
-gs-balanceui-shop-buy-token-admin-abuse = Buy an Admin Abuse Token - {$price} Goob Coins
-gs-balanceui-shop-buy-token-hat = Buy a Hat Token - {$price} Goob Coins
+gs-balanceui-shop-buy-token-antag = Comprar una Ficha de Antagonista - {$price} Goob Coins
+gs-balanceui-shop-buy-token-admin-abuse = Comprar una Ficha de Abuso de Admin - {$price} Goob Coins
+gs-balanceui-shop-buy-token-hat = Comprar una Ficha de Sombrero - {$price} Goob Coins
 
-gs-balanceui-shop-token-antag = High Tier Antag Token
-gs-balanceui-shop-token-admin-abuse = Admin Abuse Token
-gs-balanceui-shop-token-hat = Hat Token
+gs-balanceui-shop-token-antag = Ficha de Antagonista de Alto Nivel
+gs-balanceui-shop-token-admin-abuse = Ficha de Abuso de Admin
+gs-balanceui-shop-token-hat = Ficha de Sombrero
 
-gs-balanceui-shop-buy-token-antag-desc = Allows you become any antag. (Excluding Wizards)
-gs-balanceui-shop-buy-token-admin-abuse-desc = Allows you to request an admin to abuse their powers against you. Admins are encouraged to go wild.
-gs-balanceui-shop-buy-token-hat-desc = An admin will give you a random hat.
+gs-balanceui-shop-buy-token-antag-desc = Te permite convertirte en cualquier antagonista. (Excluyendo a los Magos)
+gs-balanceui-shop-buy-token-admin-abuse-desc = Te permite pedir a un admin que abuse de sus poderes contra ti. Se anima a los admins a desatar su imaginación.
+gs-balanceui-shop-buy-token-hat-desc = Un admin te dará un sombrero aleatorio.
 
-gs-balanceui-admin-add-label = Add (or subtract) money:
-gs-balanceui-admin-add-player = Player name
-gs-balanceui-admin-add-value = Value
+gs-balanceui-admin-add-label = Añadir (o restar) dinero:
+gs-balanceui-admin-add-player = Nombre del jugador
+gs-balanceui-admin-add-value = Cantidad
 
-gs-balanceui-remark-token-antag = Bought an antag token.
-gs-balanceui-remark-token-admin-abuse = Bought an admin abuse token.
-gs-balanceui-remark-token-hat = Bought a hat token.
-gs-balanceui-shop-click-confirm = Click again to confirm
-gs-balanceui-shop-purchased = Purchased {$item}
+gs-balanceui-remark-token-antag = Compró una ficha de antagonista.
+gs-balanceui-remark-token-admin-abuse = Compró una ficha de abuso de admin.
+gs-balanceui-remark-token-hat = Compró una ficha de sombrero.
+gs-balanceui-shop-click-confirm = Haz clic de nuevo para confirmar
+gs-balanceui-shop-purchased = Comprado {$item}

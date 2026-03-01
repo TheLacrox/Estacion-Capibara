@@ -1,2 +1,2 @@
-roles-antag-contractor-name = Contractor
-roles-antag-contractor-description = Aquire your targets, dead or alive.
+roles-antag-contractor-name = Contratista
+roles-antag-contractor-description = Captura tus objetivos, vivos o muertos.

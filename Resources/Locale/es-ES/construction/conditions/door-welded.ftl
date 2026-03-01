@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # DoorWelded
-construction-examine-condition-door-weld = First, weld the {$entityName}.
-construction-examine-condition-door-unweld = First, unweld the {$entityName}.
-construction-guide-condition-door-weld = Make sure it is welded.
-construction-guide-condition-door-unweld = Make sure it is not welded.
+construction-examine-condition-door-weld = Primero, suelda {$entityName}.
+construction-examine-condition-door-unweld = Primero, desuelda {$entityName}.
+construction-guide-condition-door-weld = Asegúrate de que esté soldado.
+construction-guide-condition-door-unweld = Asegúrate de que no esté soldado.

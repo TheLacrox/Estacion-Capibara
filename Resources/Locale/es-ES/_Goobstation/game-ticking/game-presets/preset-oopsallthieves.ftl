@@ -1,4 +1,4 @@
-﻿# OopsAllThieves
+# OopsAllThieves
 
-oops-all-thieves-title = Oops, all thieves!
-oops-all-thieves-description = The station is crawling with kleptomaniacs. Try to hold on to your stuff!
+oops-all-thieves-title = ¡Vaya, todos son ladrones!
+oops-all-thieves-description = La estación está llena de cleptómanos. ¡Intenta conservar tus cosas!

@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-kudzu-growth-start-announcement = Attention crew, we have detected a Type 2 Biological Invader on-station, that poses potentially serious threat to crew productivity. We advise you to exterminate it.
+station-event-kudzu-growth-start-announcement = Atención tripulación, hemos detectado un Invasor Biológico de Tipo 2 en la estación que representa una amenaza potencialmente grave para la productividad de la tripulación. Le aconsejamos que lo extermine.

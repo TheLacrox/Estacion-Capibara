@@ -9,17 +9,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-player-tab-player-count = Players: { $count }
-player-tab-username = Username
-player-tab-character = Character
-player-tab-job = Job
-player-tab-roletype = Role Type
-player-tab-playtime = Playtime
-player-tab-show-disconnected = Show Disconnected
-player-tab-overlay = Overlay
-player-tab-entry-tooltip = Playtime is displayed in days:hours:minutes.
-player-tab-filter-line-edit-placeholder = Filter
-player-tab-is-antag-yes = YES
+player-tab-player-count = Jugadores: { $count }
+player-tab-username = Nombre de usuario
+player-tab-character = Personaje
+player-tab-job = Trabajo
+player-tab-roletype = Tipo de Rol
+player-tab-playtime = Tiempo de juego
+player-tab-show-disconnected = Mostrar Desconectados
+player-tab-overlay = Superposición
+player-tab-entry-tooltip = El tiempo de juego se muestra en días:horas:minutos.
+player-tab-filter-line-edit-placeholder = Filtrar
+player-tab-is-antag-yes = SÍ
 player-tab-is-antag-no = NO
 
 player-tab-character-name-antag-symbol = {$symbol} {$name}

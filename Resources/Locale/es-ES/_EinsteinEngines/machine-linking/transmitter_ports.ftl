@@ -1,2 +1,2 @@
-signal-port-name-fillitems = Fillbot Items
-signal-port-description-fillitems = Items picked up by the Fillbot.
+signal-port-name-fillitems = Objetos del Fillbot
+signal-port-description-fillitems = Objetos recogidos por el Fillbot.

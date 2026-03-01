@@ -6,6 +6,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-melee-stamina = Not enough stamina
-slow-on-damage-modifier-examine = Slowness from injuries is reduced by [color=yellow]{$mod}%[/color]
-stamina-resistance-coefficient-value = - [color=lightyellow]Stamina[/color] damage reduced by [color=lightblue]{$value}%[/color].
+melee-stamina = Stamina insuficiente
+slow-on-damage-modifier-examine = La lentitud por heridas se reduce en un [color=yellow]{$mod}%[/color]
+stamina-resistance-coefficient-value = - Daño de [color=lightyellow]Stamina[/color] reducido en [color=lightblue]{$value}%[/color].

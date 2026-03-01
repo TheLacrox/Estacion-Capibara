@@ -1,1 +1,1 @@
-ghost-kick-on-trigger-default = Tripped over a kick mine, crashed through the fourth wall.
+ghost-kick-on-trigger-default = Tropezó con una mina antipersonal, atravesó la cuarta pared.

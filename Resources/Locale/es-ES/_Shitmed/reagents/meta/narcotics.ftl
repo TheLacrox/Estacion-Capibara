@@ -1,2 +1,2 @@
-reagent-name-nocturine-wonderprod = alien sedative
-reagent-desc-nocturine-wonderprod = An out of this world sedative used exclusively by abductors. Easier to recover from than its ancient precursor.
+reagent-name-nocturine-wonderprod = sedante alienígena
+reagent-desc-nocturine-wonderprod = Un sedante de otro mundo utilizado exclusivamente por abductores. Más fácil de recuperarse que su ancestro arcaico.

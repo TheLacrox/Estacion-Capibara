@@ -1,5 +1,5 @@
-﻿cmd-removeextracomponents-desc = Removes all components from all entities of the specified id if that component is not in its prototype.\nIf no id is specified, it matches all entities.
+cmd-removeextracomponents-desc = Elimina todos los componentes de todas las entidades del ID especificado si ese componente no está en su prototipo.\nSi no se especifica ningún ID, coincide con todas las entidades.
 cmd-removeextracomponents-help = removeextracomponents / removeextracomponents <entityId>
-cmd-removeextracomponents-invalid-prototype-id = Can't find entity prototype with id {$id}.
-cmd-removeextracomponents-success = Removed {$count} components from {$entities},
-cmd-removeextracomponents-success-with-id = Removed {$count} components from {$entities} with id {$id}.
+cmd-removeextracomponents-invalid-prototype-id = No se puede encontrar el prototipo de entidad con id {$id}.
+cmd-removeextracomponents-success = Se eliminaron {$count} componentes de {$entities},
+cmd-removeextracomponents-success-with-id = Se eliminaron {$count} componentes de {$entities} con id {$id}.

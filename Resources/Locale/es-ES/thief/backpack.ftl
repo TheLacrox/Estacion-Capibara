@@ -12,67 +12,67 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-thief-backpack-window-title = Thieving kit
+thief-backpack-window-title = Kit de ladrón
 
 thief-backpack-window-description =
-    Inside are your tools of the trade, which will dissolve when you're ready.
-    Choose {$maxCount} different {$maxCount ->
-        [1] set
-        *[other] sets
-    } from the list.
+    Dentro están tus herramientas del oficio, que se disolverán cuando estés listo.
+    Elige {$maxCount} {$maxCount ->
+        [1] conjunto diferente
+        *[other] conjuntos diferentes
+    } de la lista.
 
-thief-backpack-window-selected = Kits selected: ({$selectedCount}/{$maxCount})
+thief-backpack-window-selected = Kits seleccionados: ({$selectedCount}/{$maxCount})
 
-thief-backpack-window-approve-button = Approve
-thief-backpack-button-select = Select [  ]
-thief-backpack-button-deselect = Select [X]
+thief-backpack-window-approve-button = Aprobar
+thief-backpack-button-select = Seleccionar [  ]
+thief-backpack-button-deselect = Seleccionar [X]
 
 # Sets
 
-thief-backpack-category-chameleon-name = Chameleon Kit
+thief-backpack-category-chameleon-name = Kit camaleón
 thief-backpack-category-chameleon-description =
-    You are everyone and no one; you are a master of disguise.
-    Includes: A full set of chameleon clothing,
-    a chameleon projector, and an Agent ID.
-    Disguise as anyone and anything.
+    Eres todos y nadie; eres un maestro del disfraz.
+    Incluye: Un conjunto completo de ropa camaleón,
+    un proyector camaleón y un ID de agente.
+    Disfrazate de cualquier persona y cosa.
 
-thief-backpack-category-tools-name = Breacher Kit
+thief-backpack-category-tools-name = Kit de asalto
 thief-backpack-category-tools-description =
-    What's that sound? A lil' C4 knockin' at their door.
-    No obstacle can stop you!
-    Includes: Two C4, a multitool, remote signaller, jaws of life,
-    advanced welder, engineering goggles, and insulated gloves.
+    ¿Ese sonido? Es un poco de C4 llamando a su puerta.
+    ¡Ningún obstáculo puede detenerte!
+    Incluye: Dos C4, una multiherramienta, señalizador remoto, cizalla hidráulica,
+    soldador avanzado, gafas de ingeniería y guantes aislantes.
 
-thief-backpack-category-chemistry-name = Anatomy Kit
+thief-backpack-category-chemistry-name = Kit de anatomía
 thief-backpack-category-chemistry-description =
-    You've reached peak physical performance... with a little help.
-    Includes: Storage implanter, DNA scrambler implanter,
-    ephedrine bottle, syringe, empty shaker, and omega soap
+    Has alcanzado el máximo rendimiento físico... con un poco de ayuda.
+    Incluye: Implantador de almacenamiento, implantador de mezclador de ADN,
+    frasco de efedrina, jeringa, agitador vacío y jabón omega
 
-thief-backpack-category-syndie-name = Syndie Kit
+thief-backpack-category-syndie-name = Kit syndie
 thief-backpack-category-syndie-description =
-    Trinkets from a disavowed past, or stolen from a careless agent?
-    You've made some connections. Whiskey, echo...
-    Includes: An Emag, Access Breaker, Interdyne cigs, a Syndicate codeword,
-    a Radio Jammer, a lighter and some strange red crystals.
+    ¿Recuerdos de un pasado renegado, o robados a un agente descuidado?
+    Hiciste algunas conexiones. Whisky, echo...
+    Incluye: Un Emag, un rompedor de acceso, cigarrillos Interdyne, una contraseña syndicate,
+    un inhibidor de radio, un encendedor y unos extraños cristales rojos.
 
-thief-backpack-category-sleeper-name = Sleeper Kit
+thief-backpack-category-sleeper-name = Kit durmiente
 thief-backpack-category-sleeper-description =
-    Until we close our eyes for good, use your illegal prescriptions
-    to keep others asleep.
-    Includes: Sleepy nitrous oxide tank, two nocturine bottles,
-    and a hypopen.
+    Hasta que cerremos los ojos para siempre, usa tus recetas ilegales
+    para mantener a los demás dormidos.
+    Incluye: Tanque de óxido nitroso soporífero, dos frascos de nocturina,
+    y una hipopluma.
 
-thief-backpack-category-communicator-name = Communicator Kit
+thief-backpack-category-communicator-name = Kit comunicador
 thief-backpack-category-communicator-description =
-    Money is power, and secrets are money. Use your silver tongue
-    and wealth to subvert the station.
-    Includes: Master key for all station channels, a CyberSun pen,
-    voice chameleon mask, and 20k spesos inside a briefcase.
+    El dinero es poder, y los secretos son dinero. Usa tu labia
+    y riqueza para subvertir la estación.
+    Incluye: Llave maestra para todos los canales de la estación, un bolígrafo CyberSun,
+    máscara camaleón de voz y 20k spesos dentro de un maletín.
 
-thief-backpack-category-smuggler-name = Smuggler Kit
+thief-backpack-category-smuggler-name = Kit contrabandista
 thief-backpack-category-smuggler-description =
-    All thieves need somewhere to stash their goods in the dark.
-    Don't forget to link your fulton.
-    Includes: Fulton beacon, 10 fultons, 3 smoke grenades,
-    and an invisible crate to hide valuable loot.
+    Todo ladrón necesita un lugar donde esconder sus bienes en la oscuridad.
+    No olvides vincular tu fulton.
+    Incluye: Baliza fulton, 10 fultones, 3 granadas de humo,
+    y una caja invisible para ocultar el botín valioso.

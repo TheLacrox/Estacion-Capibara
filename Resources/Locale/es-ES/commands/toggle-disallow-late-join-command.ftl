@@ -1,4 +1,4 @@
-﻿cmd-toggledisallowlatejoin-desc = Allows or disallows latejoining during mid-game.
-cmd-toggledisallowlatejoin-help = Usage: toggledisallowlatejoin <disallow>
-cmd-toggledisallowlatejoin-disabled = Late joining has been disabled.
-cmd-toggledisallowlatejoin-enabled = Late joining has been enabled.
+cmd-toggledisallowlatejoin-desc = Permite o prohíbe unirse tarde durante la partida en curso.
+cmd-toggledisallowlatejoin-help = Uso: toggledisallowlatejoin <prohibir>
+cmd-toggledisallowlatejoin-disabled = Se ha desactivado la incorporación tardía.
+cmd-toggledisallowlatejoin-enabled = Se ha activado la incorporación tardía.

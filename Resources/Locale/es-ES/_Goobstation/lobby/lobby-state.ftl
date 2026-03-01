@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lobby-state-background-text = Background: [color=white]{$backgroundName}[/color] by [color=white]{$backgroundArtist}[/color]
-lobby-state-background-no-background-text = No background selected.
-lobby-state-background-unknown-title = [color=dimgray]Unknown lobby background[/color]
-lobby-state-background-unknown-artist = [color=dimgray]Unknown artist[/color]
+lobby-state-background-text = Fondo: [color=white]{$backgroundName}[/color] por [color=white]{$backgroundArtist}[/color]
+lobby-state-background-no-background-text = No hay fondo seleccionado.
+lobby-state-background-unknown-title = [color=dimgray]Fondo de lobby desconocido[/color]
+lobby-state-background-unknown-artist = [color=dimgray]Artista desconocido[/color]

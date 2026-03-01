@@ -1,4 +1,4 @@
-xenomorph-infection-stage-2 = Your chest hurts a little bit.
-xenomorph-infection-stage-3 = Your throat feels sore.
-xenomorph-infection-stage-4 = Your chest hurts badly.
-xenomorph-infection-stage-6 = You feel something crawling through your insides!
+xenomorph-infection-stage-2 = Te duele un poco el pecho.
+xenomorph-infection-stage-3 = Tienes la garganta irritada.
+xenomorph-infection-stage-4 = Te duele mucho el pecho.
+xenomorph-infection-stage-6 = ¡Sientes que algo se arrastra por tus entrañas!

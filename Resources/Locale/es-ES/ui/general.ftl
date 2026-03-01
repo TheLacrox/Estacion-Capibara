@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ### Loc for the various UI-related verbs
-ui-verb-toggle-open = Toggle UI
-verb-instrument-openui = Play Music
+ui-verb-toggle-open = Alternar interfaz
+verb-instrument-openui = Tocar música
 
-ui-needs-anchor = Anchor it first!
+ui-needs-anchor = ¡Primero ancla esto!

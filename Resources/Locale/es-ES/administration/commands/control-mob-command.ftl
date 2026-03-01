@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-control-mob-command-description = Transfers user mind to the specified entity.
-control-mob-command-help-text = Usage: controlmob <mobUid>.
+control-mob-command-description = Transfiere la mente del usuario a la entidad especificada.
+control-mob-command-help-text = Uso: controlmob <uidMob>.

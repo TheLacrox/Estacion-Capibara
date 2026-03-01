@@ -6,66 +6,66 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Traitor single items
-steal-target-groups-hypospray = hypospray
-steal-target-groups-clothing-hands-knuckledusters-qm = golden knuckledusters
-steal-target-groups-handheld-crew-monitor = handheld crew monitor
-steal-target-groups-clothing-outer-hardsuit-rd = experimental research hardsuit
-steal-target-groups-hand-teleporter = hand teleporter
-steal-target-groups-clothing-shoes-boots-mag-adv = advanced magboots
-steal-target-groups-weapon-launcher-singularity-buster = singularity buster
-steal-target-groups-box-folder-qm-clipboard = requisition digi-board
-steal-target-groups-food-meat-corgi = prime-cut corgi meat
-steal-target-groups-captain-id-card = captain ID card
-steal-target-groups-jetpack-captain-filled = captain's jetpack
-steal-target-groups-weapon-antique-laser = antique laser pistol
-steal-target-groups-nuke-disk = nuclear authentication disk
-steal-target-groups-weapon-energy-shot-gun = energy shotgun
+steal-target-groups-hypospray = hipoaspirador
+steal-target-groups-clothing-hands-knuckledusters-qm = manoplas doradas
+steal-target-groups-handheld-crew-monitor = monitor de tripulación portátil
+steal-target-groups-clothing-outer-hardsuit-rd = traje de investigación experimental
+steal-target-groups-hand-teleporter = teletransportador de mano
+steal-target-groups-clothing-shoes-boots-mag-adv = magbotas avanzadas
+steal-target-groups-weapon-launcher-singularity-buster = destructor de singularidad
+steal-target-groups-box-folder-qm-clipboard = tableta de requisiciones digital
+steal-target-groups-food-meat-corgi = carne de corgi de primera calidad
+steal-target-groups-captain-id-card = tarjeta de ID del capitán
+steal-target-groups-jetpack-captain-filled = mochila propulsora del capitán
+steal-target-groups-weapon-antique-laser = pistola láser antigua
+steal-target-groups-nuke-disk = disco de autenticación nuclear
+steal-target-groups-weapon-energy-shot-gun = escopeta de energía
 
 # Thief Collection
-steal-target-groups-figurines = figurine
-steal-target-groups-heads-cloaks = head's cloak
-steal-target-groups-heads-bedsheets = head's bedsheet
-steal-target-groups-stamps = stamp
-steal-target-groups-door-remotes = door remote
-steal-target-groups-encryption-keys = encryption key
-steal-target-groups-technology-disks = technology disk
-steal-target-groups-id-cards = ID Card
-steal-target-groups-lamps = LAMP
+steal-target-groups-figurines = figurita
+steal-target-groups-heads-cloaks = capa de jefe de departamento
+steal-target-groups-heads-bedsheets = sábana de jefe de departamento
+steal-target-groups-stamps = sello
+steal-target-groups-door-remotes = mando de puerta
+steal-target-groups-encryption-keys = clave de cifrado
+steal-target-groups-technology-disks = disco de tecnología
+steal-target-groups-id-cards = Tarjeta de ID
+steal-target-groups-lamps = LÁMPARA
 
 # Thief single item
-steal-target-groups-forensic-scanner = forensic scanner
-steal-target-groups-flippo-engraved-lighter = detective's Flippo engraved lighter
-steal-target-groups-ammo-tech-fab-circuitboard = ammo techfab circuit board
-steal-target-groups-clothing-head-hat-warden = warden's cap
-steal-target-groups-clothing-outer-hardsuit-void-paramed = paramedic voidsuit
-steal-target-groups-medical-tech-fab-circuitboard = medical techfab machine board
-steal-target-groups-clothing-headset-alt-medical = chief medical officer's over-ear headset
-steal-target-groups-research-and-development-server-machine-circuitboard = R&D server machine board
-steal-target-groups-fire-axe = fireaxe
-steal-target-groups-ame-part-flatpack =  AME flatpack
-steal-target-groups-salvage-expeditions-computer-circuitboard = salvage expeditions computer board
-steal-target-groups-cargo-shuttle-console-circuitboard = cargo shuttle console board
-steal-target-groups-clothing-eyes-hud-beer = beer goggles
-steal-target-groups-bible = bible
-steal-target-groups-clothing-neck-goldmedal = gold medal of crewmanship
-steal-target-groups-clothing-neck-clownmedal = clown medal
-steal-target-groups-wanted-list-cartridge = wanted list cartridge
+steal-target-groups-forensic-scanner = escáner forense
+steal-target-groups-flippo-engraved-lighter = mechero Flippo grabado del detective
+steal-target-groups-ammo-tech-fab-circuitboard = placa de circuito de tecno-fábrica de munición
+steal-target-groups-clothing-head-hat-warden = gorra del carcelero
+steal-target-groups-clothing-outer-hardsuit-void-paramed = traje espacial de paramédico
+steal-target-groups-medical-tech-fab-circuitboard = placa de máquina de tecno-fábrica médica
+steal-target-groups-clothing-headset-alt-medical = auricular sobre-oreja del director médico
+steal-target-groups-research-and-development-server-machine-circuitboard = placa de máquina del servidor de I+D
+steal-target-groups-fire-axe = hacha de incendios
+steal-target-groups-ame-part-flatpack =  paquete plano de AME
+steal-target-groups-salvage-expeditions-computer-circuitboard = placa de computadora de expediciones de rescate
+steal-target-groups-cargo-shuttle-console-circuitboard = placa de consola del transbordador de carga
+steal-target-groups-clothing-eyes-hud-beer = gafas de cerveza
+steal-target-groups-bible = biblia
+steal-target-groups-clothing-neck-goldmedal = medalla de oro a la tripulación
+steal-target-groups-clothing-neck-clownmedal = medalla de payaso
+steal-target-groups-wanted-list-cartridge = cartucho de lista de buscados
 
 # Thief structures
-steal-target-groups-teg = teg generator part
-steal-target-groups-freezer-heater = freezer or heater
-steal-target-groups-altar-nanotrasen = nanotrasen altar (any)
+steal-target-groups-teg = parte del generador TEG
+steal-target-groups-freezer-heater = congelador o calentador
+steal-target-groups-altar-nanotrasen = altar de Nanotrasen (cualquiera)
 
-steal-target-groups-nuclear-bomb = nuclear fission explosive
-steal-target-groups-fax-machine-captain = captain long range fax machine
-steal-target-groups-chem-dispenser = chemical dispenser
-steal-target-groups-xeno-artifact = alien artifact
-steal-target-groups-booze-dispenser = booze dispenser
-steal-target-groups-plant-rd = "RD's potted plant"
-steal-target-groups-toilet-golden-dirty-water = golden toilet
+steal-target-groups-nuclear-bomb = explosivo de fisión nuclear
+steal-target-groups-fax-machine-captain = fax de largo alcance del capitán
+steal-target-groups-chem-dispenser = dispensador de químicos
+steal-target-groups-xeno-artifact = artefacto alienígena
+steal-target-groups-booze-dispenser = dispensador de alcohol
+steal-target-groups-plant-rd = "planta en maceta del director de investigación"
+steal-target-groups-toilet-golden-dirty-water = inodoro dorado
 
 # Thief Animal
-steal-target-groups-animal-named-cat = CMO's Cat
+steal-target-groups-animal-named-cat = Gato del director médico
 
 steal-target-groups-animal-ian = Ian
 steal-target-groups-animal-mc-griff = McGriff

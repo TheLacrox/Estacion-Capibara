@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-slur-accent-confused = ...huuuhhh...
-slur-accent-burp = *BURP*.
+slur-accent-confused = ...heeeehh...
+slur-accent-burp = *ERUCTO*.

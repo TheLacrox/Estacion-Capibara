@@ -1,2 +1,2 @@
-signal-port-name-triggered-signaller = Triggered
-signal-port-description-triggered-signaller = This port is invoked when the trasmitter has been triggered.
+signal-port-name-triggered-signaller = Activado
+signal-port-description-triggered-signaller = Este puerto se invoca cuando el transmisor ha sido activado.

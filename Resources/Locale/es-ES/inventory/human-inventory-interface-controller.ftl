@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-human-inventory-window-title = Your Inventory
+human-inventory-window-title = Tu Inventario

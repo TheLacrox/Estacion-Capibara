@@ -5,24 +5,24 @@
 # SPDX-License-Identifier: MIT
 
 ### Verbs
-artifact-verb-make-always-active = Make artifact always active
-artifact-verb-activate = Activate artifact
+artifact-verb-make-always-active = Hacer artefacto siempre activo
+artifact-verb-activate = Activar artefacto
 
 ### Unlocking
-artifact-unlock-state-begin = It begins to shift in strange ways...
-artifact-unlock-state-end-success = It slows down, visibly changed.
-artifact-unlock-state-end-failure = It slows down before uneventfully stopping.
+artifact-unlock-state-begin = Empieza a cambiar de maneras extrañas...
+artifact-unlock-state-end-success = Se ralentiza, visiblemente transformado.
+artifact-unlock-state-end-failure = Se ralentiza antes de detenerse sin novedad.
 
 ### Activation
-artifact-activation-fail = Nothing happens...
-artifact-activation-artifexium = The liquid seeps into the pores of the artifact...
+artifact-activation-fail = No ocurre nada...
+artifact-activation-artifexium = El líquido se filtra en los poros del artefacto...
 
 ### Misc.
-artifact-examine-trigger-desc = [color=gray][italic]Am I on your mind?[/italic][/color]
+artifact-examine-trigger-desc = [color=gray][italic]¿Estoy en tu mente?[/italic][/color]
 
-artifact-node-class-1 = [color=#ff2bb1]Hylic[/color]
-artifact-node-class-2 = [color=#ff8b2b]Psychic[/color]
-artifact-node-class-3 = [color=#a9ff38]Pneumatic[/color]
-artifact-node-class-4 = [color=#2bfff8]Archon[/color]
-artifact-node-class-5 = [color=#7883ff]Luminary[/color]
-artifact-node-class-6 = [color=#be78ff]Demiurge[/color]
+artifact-node-class-1 = [color=#ff2bb1]Hílico[/color]
+artifact-node-class-2 = [color=#ff8b2b]Psíquico[/color]
+artifact-node-class-3 = [color=#a9ff38]Neumático[/color]
+artifact-node-class-4 = [color=#2bfff8]Arconte[/color]
+artifact-node-class-5 = [color=#7883ff]Luminario[/color]
+artifact-node-class-6 = [color=#be78ff]Demiurgo[/color]

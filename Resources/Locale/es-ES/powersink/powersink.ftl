@@ -8,5 +8,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-powersink-examine-drain-amount = The power sink is draining [color={$markupDrainColor}]{$amount} kW[/color].
-powersink-imminent-explosion-announcement = System scans have detected a rogue power consuming device is becoming unstable.  Staff are advised to locate and disconnect this device immediately before the station is damaged.
+powersink-examine-drain-amount = El sumidero de energía está drenando [color={$markupDrainColor}]{$amount} kW[/color].
+powersink-imminent-explosion-announcement = Los escaneos del sistema han detectado que un dispositivo de consumo de energía no autorizado se está volviendo inestable. Se aconseja al personal que localice y desconecte este dispositivo inmediatamente antes de que la estación sufra daños.

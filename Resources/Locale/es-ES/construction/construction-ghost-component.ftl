@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-ghost-examine-message = Building: [color=cyan]{$name}[/color]
+construction-ghost-examine-message = Construyendo: [color=cyan]{$name}[/color]

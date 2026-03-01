@@ -4,16 +4,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-bql_select-desc = Show results of a BQL query in a client-side window
-cmd-bql_select-help = Usage: bql_select <bql query>
-    The opened window allows you to teleport to or view variables the resulting entities.
+cmd-bql_select-desc = Mostrar los resultados de una consulta BQL en una ventana del lado del cliente
+cmd-bql_select-help = Uso: bql_select <consulta bql>
+    La ventana abierta permite teletransportarse o ver las variables de las entidades resultantes.
 
-cmd-bql_select-err-server-shell = Cannot be executed from server shell
-cmd-bql_select-err-rest = Warning: unused part after BQL query: "{ $rest }"
+cmd-bql_select-err-server-shell = No se puede ejecutar desde el shell del servidor
+cmd-bql_select-err-rest = Advertencia: parte no utilizada después de la consulta BQL: "{ $rest }"
 
-ui-bql-results-title = BQL results
+ui-bql-results-title = Resultados BQL
 ui-bql-results-vv = VV
 ui-bql-results-tp = TP
-ui-bql-results-vv-tooltip = View entity variables
-ui-bql-results-tp-tooltip = Teleport to entity
-ui-bql-results-status = { $count } entities
+ui-bql-results-vv-tooltip = Ver variables de entidad
+ui-bql-results-tp-tooltip = Teletransportarse a la entidad
+ui-bql-results-status = { $count } entidades

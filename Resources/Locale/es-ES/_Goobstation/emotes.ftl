@@ -10,21 +10,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-emote-menu-category-farts = Farts
+emote-menu-category-farts = Pedos
 
-chat-emote-name-flip = Do a flip
-chat-emote-name-spin = Spin
-chat-emote-name-jump = Jump
-chat-emote-name-tweak = Tweak
-chat-emote-name-flex = Flex muscles
-chat-emote-name-gulp = Gulp
-chat-emote-name-surprised = look surprised
-chat-emote-name-bagawk = Bagawk
+chat-emote-name-flip = Hacer una voltereta
+chat-emote-name-spin = Girar
+chat-emote-name-jump = Saltar
+chat-emote-name-tweak = Temblar
+chat-emote-name-flex = Flexionar músculos
+chat-emote-name-gulp = Tragar saliva
+chat-emote-name-surprised = parecer sorprendido
+chat-emote-name-bagawk = Cloquear
 
-chat-emote-msg-flip = does a flip!
-chat-emote-msg-spin = spins!
-chat-emote-msg-jump = jumps!
-chat-emote-msg-tweak = starts tweaking!
-chat-emote-msg-flex = flexes its muscles.
-chat-emote-msg-gulp = gulps.
-chat-emote-msg-surprised = looks surprised.
+chat-emote-msg-flip = da una voltereta!
+chat-emote-msg-spin = gira!
+chat-emote-msg-jump = salta!
+chat-emote-msg-tweak = empieza a temblar!
+chat-emote-msg-flex = flexiona sus músculos.
+chat-emote-msg-gulp = traga saliva.
+chat-emote-msg-surprised = parece sorprendido.

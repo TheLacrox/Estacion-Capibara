@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gamemap-could-not-use-map-error = Failed to load map {$oldMap} due to it no longer being eligible! Picking {$newMap} instead.
+gamemap-could-not-use-map-error = ¡Error al cargar el mapa {$oldMap} porque ya no es elegible! Seleccionando {$newMap} en su lugar.

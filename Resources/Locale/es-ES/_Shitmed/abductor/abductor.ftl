@@ -5,14 +5,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-species-name-abductor = alien
+species-name-abductor = alienígena
 
-abductors-weapon-restricted-1 = You press the button and it does nothing.
-abductors-weapon-restricted-2 = Seems like you've grabbed the blade.
-abductors-weapon-restricted-3 = You stroke the stick, but nothing happens.
-abductors-weapon-restricted-4 = You sniff the alien weapon.
+abductors-weapon-restricted-1 = Presionas el botón y no pasa nada.
+abductors-weapon-restricted-2 = Parece que has agarrado la hoja.
+abductors-weapon-restricted-3 = Acaricias el palo, pero no pasa nada.
+abductors-weapon-restricted-4 = Olfateas el arma alienígena.
 
-abductors-gizmo-restricted-1 = You spin gizmo in your hand.
-abductors-gizmo-restricted-2 = You have no idea how this thing works.
+abductors-gizmo-restricted-1 = Giras el artilugio en tu mano.
+abductors-gizmo-restricted-2 = No tienes ni idea de cómo funciona esto.
 
-abductor-gun-restricted-1 = You try to press the trigger guard, but the finger doesn't fit.
+abductor-gun-restricted-1 = Intentas presionar el guardamonte, pero el dedo no cabe.

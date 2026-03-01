@@ -1,151 +1,151 @@
 # clown
-construction-graph-tag-banana-peel = a banana peel
-construction-graph-tag-clown-suit = a clown suit
-construction-graph-tag-clown-shoes = clown shoes
-construction-graph-tag-clown-mask = a clown mask
-construction-graph-tag-clown-recorder = clown recorder
-construction-graph-tag-clown-bike-horn = bike horn
-construction-graph-tag-clowne-horn = broken bike horn
-construction-graph-tag-happy-honk-meal = happy honk meal
-construction-graph-tag-woeful-cluwne-meal = woeful cluwne meal
+construction-graph-tag-banana-peel = una cáscara de plátano
+construction-graph-tag-clown-suit = un traje de payaso
+construction-graph-tag-clown-shoes = zapatos de payaso
+construction-graph-tag-clown-mask = una máscara de payaso
+construction-graph-tag-clown-recorder = grabadora de payaso
+construction-graph-tag-clown-bike-horn = bocina de bicicleta
+construction-graph-tag-clowne-horn = bocina de bicicleta rota
+construction-graph-tag-happy-honk-meal = menú Happy Honk
+construction-graph-tag-woeful-cluwne-meal = menú Cluwne miserable
 
 # mime
-construction-graph-tag-suspenders = suspenders
-construction-graph-tag-mime-meal = mime edition happy honk meal
+construction-graph-tag-suspenders = tirantes
+construction-graph-tag-mime-meal = menú Happy Honk edición mimo
 
 # crayon
-construction-graph-tag-purple-crayon = purple crayon
-construction-graph-tag-red-crayon = red crayon
-construction-graph-tag-yellow-crayon = yellow crayon
-construction-graph-tag-black-crayon = black crayon
+construction-graph-tag-purple-crayon = crayón morado
+construction-graph-tag-red-crayon = crayón rojo
+construction-graph-tag-yellow-crayon = crayón amarillo
+construction-graph-tag-black-crayon = crayón negro
 
 # eva
-construction-graph-tag-eva-suit = an EVA suit
-construction-graph-tag-eva-helmet = an EVA helmet
+construction-graph-tag-eva-suit = un traje EVA
+construction-graph-tag-eva-helmet = un casco EVA
 
 # hud
-construction-graph-tag-security-hud = security hud
-construction-graph-tag-medical-hud = medical hud
+construction-graph-tag-security-hud = HUD de seguridad
+construction-graph-tag-medical-hud = HUD médico
 
 # security
-construction-graph-tag-sun-glasses = sun glasses
-construction-graph-tag-security-helmet = security helmet
+construction-graph-tag-sun-glasses = gafas de sol
+construction-graph-tag-security-helmet = casco de seguridad
 
 # materials
-construction-graph-tag-manipulator = modular machine part
-construction-graph-tag-voice-trigger = a voice trigger
-construction-graph-tag-signal-trigger = a signal trigger
-construction-graph-tag-proximity-sensor = proximity sensor
-construction-graph-tag-glass-shard = a glass shard
-construction-graph-tag-plasma-glass-shard = a plasma glass shard
-construction-graph-tag-uranium-glass-shard = a uranium glass shard
-construction-graph-tag-reinforced-glass-shard = a reinforced glass shard
-construction-graph-tag-grey-flatcap = a grey flatcap
-construction-graph-tag-brown-flatcap = a brown flatcap
-construction-graph-tag-cuffs = cuffs
-construction-graph-tag-payload = payload
-construction-graph-tag-empty-can = an empty can
-construction-graph-tag-igniter = an igniter
-construction-graph-tag-modular-receiver = modular receiver
-construction-graph-tag-power-cell-small = power cell small
-construction-graph-tag-power-cell = power cell
-construction-graph-tag-potato-battery = a potato battery
-construction-graph-tag-super-compact-ai-chip = a super-compact AI chip
+construction-graph-tag-manipulator = pieza de máquina modular
+construction-graph-tag-voice-trigger = un disparador de voz
+construction-graph-tag-signal-trigger = un disparador de señal
+construction-graph-tag-proximity-sensor = sensor de proximidad
+construction-graph-tag-glass-shard = un fragmento de vidrio
+construction-graph-tag-plasma-glass-shard = un fragmento de vidrio de plasma
+construction-graph-tag-uranium-glass-shard = un fragmento de vidrio de uranio
+construction-graph-tag-reinforced-glass-shard = un fragmento de vidrio reforzado
+construction-graph-tag-grey-flatcap = una gorra gris
+construction-graph-tag-brown-flatcap = una gorra marrón
+construction-graph-tag-cuffs = esposas
+construction-graph-tag-payload = carga
+construction-graph-tag-empty-can = una lata vacía
+construction-graph-tag-igniter = un encendedor
+construction-graph-tag-modular-receiver = receptor modular
+construction-graph-tag-power-cell-small = pila de energía pequeña
+construction-graph-tag-power-cell = pila de energía
+construction-graph-tag-potato-battery = una batería de patata
+construction-graph-tag-super-compact-ai-chip = un chip de IA ultracompacto
 
 # other
-construction-graph-tag-light-bulb = light bulb
+construction-graph-tag-light-bulb = bombilla
 construction-graph-tag-radio = radio
-construction-graph-tag-pipe = gas pipe
-construction-graph-tag-human-head = human head
-construction-graph-tag-bucket = bucket
-construction-graph-tag-borg-arm = borg arm
-construction-graph-tag-borg-head = borg head
-construction-graph-tag-medkit = medkit
-construction-graph-tag-flower = flower
+construction-graph-tag-pipe = tubería de gas
+construction-graph-tag-human-head = cabeza humana
+construction-graph-tag-bucket = cubo
+construction-graph-tag-borg-arm = brazo de cíborg
+construction-graph-tag-borg-head = cabeza de cíborg
+construction-graph-tag-medkit = botiquín
+construction-graph-tag-flower = flor
 construction-graph-tag-ambrosia = ambrosia
-construction-graph-tag-rifle-stock = rifle stock
-construction-graph-tag-match-stick = match stick
-construction-graph-tag-potato = a potato
-construction-graph-tag-wheat-bushel = wheat bushel
-construction-graph-tag-corgi-hide = corgi hide
-construction-graph-tag-apron = an apron
-construction-graph-tag-utility-belt = a utility belt
-soil-construction-graph-any-mushroom = any mushroom
-construction-graph-tag-mop-basic = mop
+construction-graph-tag-rifle-stock = culata de rifle
+construction-graph-tag-match-stick = cerilla
+construction-graph-tag-potato = una patata
+construction-graph-tag-wheat-bushel = gavilla de trigo
+construction-graph-tag-corgi-hide = piel de corgi
+construction-graph-tag-apron = un delantal
+construction-graph-tag-utility-belt = un cinturón de utilidades
+soil-construction-graph-any-mushroom = cualquier seta
+construction-graph-tag-mop-basic = fregona
 
 # toys
-construction-graph-tag-rubber-ducky = a rubber ducky
-construction-graph-tag-ghost = ghost soft toy
-construction-graph-tag-ectoplasm = ectoplasm
-construction-graph-tag-lizard-plushie = lizard plushie
+construction-graph-tag-rubber-ducky = un patito de goma
+construction-graph-tag-ghost = peluche fantasma
+construction-graph-tag-ectoplasm = ectoplasma
+construction-graph-tag-lizard-plushie = peluche de lagarto
 
 # carpet
-construction-graph-tag-black-carpet = black carpet
-construction-graph-tag-blue-carpet = blue carpet
-construction-graph-tag-cyan-carpet = cyan carpet
-construction-graph-tag-green-carpet = green carpet
-construction-graph-tag-orange-carpet = orange carpet
-construction-graph-tag-pink-carpet = pink carpet
-construction-graph-tag-purple-carpet = purple carpet
-construction-graph-tag-red-carpet = red carpet
-construction-graph-tag-white-carpet = white carpet
+construction-graph-tag-black-carpet = alfombra negra
+construction-graph-tag-blue-carpet = alfombra azul
+construction-graph-tag-cyan-carpet = alfombra cian
+construction-graph-tag-green-carpet = alfombra verde
+construction-graph-tag-orange-carpet = alfombra naranja
+construction-graph-tag-pink-carpet = alfombra rosa
+construction-graph-tag-purple-carpet = alfombra morada
+construction-graph-tag-red-carpet = alfombra roja
+construction-graph-tag-white-carpet = alfombra blanca
 
 # mechs
-construction-graph-tag-hamtr-central-control-module = HAMTR central control module
-construction-graph-tag-hamtr-peripherals-control-module = HAMTR peripherals control module
-construction-graph-tag-honk-central-control-module = H.O.N.K. central control module
-construction-graph-tag-honk-peripherals-control-module = H.O.N.K. peripherals control module
-construction-graph-tag-honk-weapon-control-and-targeting-module = H.O.N.K. weapon control and targeting module
-construction-graph-tag-ripley-central-control-module = ripley central control module
-construction-graph-tag-ripley-peripherals-control-module = ripley peripherals control module
+construction-graph-tag-hamtr-central-control-module = módulo de control central HAMTR
+construction-graph-tag-hamtr-peripherals-control-module = módulo de control de periféricos HAMTR
+construction-graph-tag-honk-central-control-module = módulo de control central H.O.N.K.
+construction-graph-tag-honk-peripherals-control-module = módulo de control de periféricos H.O.N.K.
+construction-graph-tag-honk-weapon-control-and-targeting-module = módulo de control de armas y objetivo H.O.N.K.
+construction-graph-tag-ripley-central-control-module = módulo de control central ripley
+construction-graph-tag-ripley-peripherals-control-module = módulo de control de periféricos ripley
 
 # structures
-construction-graph-tag-door-electronics-circuit-board = door electronics circuit board
-construction-graph-tag-firelock-electronics-circuit-board = firelock electronics circuit board
-construction-graph-tag-conveyor-belt-assembly = conveyor belt assembly
+construction-graph-tag-door-electronics-circuit-board = placa de circuito de electrónica de puerta
+construction-graph-tag-firelock-electronics-circuit-board = placa de circuito de electrónica de cierre de incendios
+construction-graph-tag-conveyor-belt-assembly = ensamblaje de cinta transportadora
 
 # tools
-construction-graph-tag-multitool = a multitool
-construction-graph-tag-health-analyzer = health analyzer
+construction-graph-tag-multitool = una multiherramienta
+construction-graph-tag-health-analyzer = analizador de salud
 
 # utils
-construction-graph-tag-air-alarm-electronics = air alarm electronics
-construction-graph-tag-fire-alarm-electronics = fire alarm electronics
-construction-graph-tag-mailing-unit-electronics = mailing unit electronics
-construction-graph-tag-intercom-electronics = intercom electronics
-construction-graph-tag-solar-assembly-parts = solar assembly parts
-construction-graph-tag-solar-tracker-electronics = solar tracker electronics
-construction-graph-tag-station-map-electronics = station map electronics
-construction-graph-tag-signal-timer-electronics = signal timer electronics
-construction-graph-tag-screen-timer-electronics = screen timer electronics
-construction-graph-tag-brig-timer-electronics = brig timer electronics
-construction-graph-tag-wallmount-generator-circuit-board = wallmount generator circuit board
-construction-graph-tag-wallmount-apu-circuit-board = wallmount APU circuit board
-construction-graph-tag-wallmount-substation-circuit-board = wallmount substation circuit board
-construction-graph-tag-surveillance-camera-monitor-board = surveillance camera monitor board
-construction-graph-tag-television-board = television board
-construction-graph-tag-freezer-electronics = freezer electronics
+construction-graph-tag-air-alarm-electronics = electrónica de alarma de aire
+construction-graph-tag-fire-alarm-electronics = electrónica de alarma de incendios
+construction-graph-tag-mailing-unit-electronics = electrónica de unidad postal
+construction-graph-tag-intercom-electronics = electrónica de intercomunicador
+construction-graph-tag-solar-assembly-parts = piezas de montaje solar
+construction-graph-tag-solar-tracker-electronics = electrónica de rastreador solar
+construction-graph-tag-station-map-electronics = electrónica de mapa de estación
+construction-graph-tag-signal-timer-electronics = electrónica de temporizador de señal
+construction-graph-tag-screen-timer-electronics = electrónica de temporizador de pantalla
+construction-graph-tag-brig-timer-electronics = electrónica de temporizador del calabozo
+construction-graph-tag-wallmount-generator-circuit-board = placa de circuito de generador de pared
+construction-graph-tag-wallmount-apu-circuit-board = placa de circuito de APU de pared
+construction-graph-tag-wallmount-substation-circuit-board = placa de circuito de subestación de pared
+construction-graph-tag-surveillance-camera-monitor-board = placa de monitor de cámara de vigilancia
+construction-graph-tag-television-board = placa de televisión
+construction-graph-tag-freezer-electronics = electrónica de congelador
 
 # crystals
-construction-graph-tag-cyan-crystal-shard = cyan crystal shard
-construction-graph-tag-blue-crystal-shard = blue crystal shard
-construction-graph-tag-pink-crystal-shard = pink crystal shard
-construction-graph-tag-orange-crystal-shard = orange crystal shard
-construction-graph-tag-red-crystal-shard = red crystal shard
-construction-graph-tag-green-crystal-shard = green crystal shard
-construction-graph-tag-yellow-crystal-shard = yellow crystal shard
-construction-graph-tag-black-crystal-shard = black crystal shard
+construction-graph-tag-cyan-crystal-shard = fragmento de cristal cian
+construction-graph-tag-blue-crystal-shard = fragmento de cristal azul
+construction-graph-tag-pink-crystal-shard = fragmento de cristal rosa
+construction-graph-tag-orange-crystal-shard = fragmento de cristal naranja
+construction-graph-tag-red-crystal-shard = fragmento de cristal rojo
+construction-graph-tag-green-crystal-shard = fragmento de cristal verde
+construction-graph-tag-yellow-crystal-shard = fragmento de cristal amarillo
+construction-graph-tag-black-crystal-shard = fragmento de cristal negro
 
 # unknown
-construction-graph-tag-weapon-pistol-chimp-upgrade-kit = pistol CHIMP upgrade kit
-construction-graph-tag-torch = torch
+construction-graph-tag-weapon-pistol-chimp-upgrade-kit = kit de mejora de pistola CHIMP
+construction-graph-tag-torch = antorcha
 
 # atmos
-construction-graph-tag-fire-extinguisher = fire extinguisher
-construction-graph-tag-fire-helmet = fire helmet
+construction-graph-tag-fire-extinguisher = extintor de incendios
+construction-graph-tag-fire-helmet = casco de bombero
 
 # salvage
-construction-graph-tag-spationaut-hardsuit = spationaut hardsuit
+construction-graph-tag-spationaut-hardsuit = traje duro de astronauta
 
 # clothing
-construction-graph-tag-backpack = backpack
+construction-graph-tag-backpack = mochila

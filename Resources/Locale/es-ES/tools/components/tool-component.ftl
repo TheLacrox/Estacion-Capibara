@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tool-component-qualities = This item can be used for [color=yellow]{ $qualities }[/color].
+tool-component-qualities = Este objeto puede usarse para [color=yellow]{ $qualities }[/color].

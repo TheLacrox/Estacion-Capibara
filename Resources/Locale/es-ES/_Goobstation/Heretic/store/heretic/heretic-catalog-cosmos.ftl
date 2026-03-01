@@ -1,77 +1,77 @@
-knowledge-path-cosmos-s1-name = Eternal Gate
+knowledge-path-cosmos-s1-name = Puerta Eterna
 knowledge-path-cosmos-s1-desc =
-    A nebula appeared in the sky, its infernal birth shone upon me. This was the start of a great transcendence.
+    Una nebulosa apareció en el cielo, su nacimiento infernal brilló sobre mí. Este fue el inicio de una gran trascendencia.
 
-    Opens up the Path of Cosmos to you.
-    Allows you to transmute a sheet of glass and a knife into an Cosmic Blade.
-    You can only create two at a time.
+    Te abre el Camino del Cosmos.
+    Te permite transmutar una lámina de vidrio y un cuchillo en una Hoja Cósmica.
+    Solo puedes crear dos a la vez.
 
-knowledge-path-cosmos-s2-name = Grasp of Cosmos
+knowledge-path-cosmos-s2-name = Garra del Cosmos
 knowledge-path-cosmos-s2-desc =
-    Some stars dimmed, others' magnitude increased. With newfound strength I could channel the nebula's power into myself.
+    Algunas estrellas se apagaron, la magnitud de otras aumentó. Con una fuerza recién encontrada pude canalizar el poder de la nebulosa hacia mí.
 
-    Your Mansus Grasp will give people a star mark (cosmic ring) and create a cosmic field where you stand.
-    People with a star mark can not pass cosmic fields.
+    Tu Garra del Mansus dará a las personas una marca estelar (anillo cósmico) y creará un campo cósmico donde estás de pie.
+    Las personas con una marca estelar no pueden atravesar los campos cósmicos.
 
-knowledge-path-cosmos-s3-name = Cosmic Runes
+knowledge-path-cosmos-s3-name = Runas Cósmicas
 knowledge-path-cosmos-s3-desc =
-    The distant stars crept into my dreams, roaring and screaming without reason. I spoke, and heard my own words echoed back.
+    Las estrellas lejanas se colaron en mis sueños, rugiendo y gritando sin razón. Hablé, y escuché mis propias palabras resonando de vuelta.
 
-    Grants you Cosmic Runes, a spell that creates two runes linked with each other for easy teleportation.
-    Only the entity activating the rune will get transported, and it can be used by anyone without a star mark.
-    However, people with a star mark will get transported along with another person using the rune.
-    Heathens, who try to teleport using the runes, will be star marked on arrival.
+    Te otorga Runas Cósmicas, un hechizo que crea dos runas enlazadas entre sí para facilitar la teletransportación.
+    Solo la entidad que active la runa será transportada, y cualquiera sin una marca estelar puede usarla.
+    Sin embargo, las personas con una marca estelar serán transportadas junto con otra persona que use la runa.
+    Los infieles que intenten teletransportarse usando las runas recibirán una marca estelar al llegar.
 
-knowledge-path-cosmos-s4-name = Mark of Cosmos
+knowledge-path-cosmos-s4-name = Marca del Cosmos
 knowledge-path-cosmos-s4-desc =
-    The Beast now whispered to me occasionally, only small tidbits of their circumstances. I can help them, I have to help them.
+    La Bestia ahora me susurraba de vez en cuando, solo pequeños fragmentos de sus circunstancias. Puedo ayudarla, tengo que ayudarla.
 
-    Your Mansus Grasp now applies the Mark of Cosmos. The mark is triggered from an attack with your Cosmic Blade.
-    When triggered, the victim is returned to the location where the mark was originally applied to them, leaving a cosmic field in their place.
-    They will then be paralyzed for 2 seconds.
-    Cosmic fields now speed you up and regenerate stamina.
+    Tu Garra del Mansus ahora aplica la Marca del Cosmos. La marca se activa con un ataque de tu Hoja Cósmica.
+    Cuando se activa, la víctima es devuelta al lugar donde se le aplicó originalmente la marca, dejando un campo cósmico en su lugar.
+    Luego quedará paralizada durante 2 segundos.
+    Los campos cósmicos ahora te aceleran y regeneran resistencia.
 
-knowledge-path-cosmos-s5-name = Star Touch
+knowledge-path-cosmos-s5-name = Toque Estelar
 knowledge-path-cosmos-s5-desc =
-    After waking in a cold sweat I felt a palm on my scalp, a sigil burned onto me. My veins now emitted a strange purple glow, the Beast knows I will surpass its expectations.
+    Después de despertar empapado en sudor frío, sentí una palma en mi cabeza, un símbolo quemado en mí. Mis venas ahora emitían un extraño brillo púrpura, la Bestia sabe que superaré sus expectativas.
 
-    Grants you Star Touch, a spell which places a star mark upon your target and creates a cosmic field at your feet and to the turfs next to you.
-    Targets which already have a star mark will be connected to you with a cosmic ray, giving them a cosmic trail and allowing you to hit them at range using your cosmic blade.
-    Tethered victims cannot teleport by any means.
-    If the tether remains unbroken for 8 seconds, they will be put to sleep, star marked and teleported to you.
+    Te otorga Toque Estelar, un hechizo que coloca una marca estelar en tu objetivo y crea un campo cósmico a tus pies y en las casillas adyacentes.
+    Los objetivos que ya tengan una marca estelar serán conectados a ti con un rayo cósmico, dándoles un rastro cósmico y permitiéndote golpearlos a distancia usando tu hoja cósmica.
+    Las víctimas atadas no pueden teletransportarse por ningún medio.
+    Si la atadura permanece intacta durante 8 segundos, serán dormidas, marcadas con una estrella y teletransportadas hacia ti.
 
-knowledge-path-cosmos-s6-name = Star Blast
+knowledge-path-cosmos-s6-name = Explosión Estelar
 knowledge-path-cosmos-s6-desc =
-    The Beast was behind me now at all times, with each sacrifice words of affirmation coursed through me.
+    La Bestia estaba ahora detrás de mí todo el tiempo, con cada sacrificio palabras de afirmación me recorrían.
 
-    Fires a projectile that moves very slowly, raising a short-lived wall of cosmic fields where it goes.
-    When recasted, you will be teleported to the projectile, and cosmic fields will generate from your current position and from teleport locations, pulling nearby heathens into it.
+    Dispara un proyectil que se mueve muy lentamente, levantando una pared efímera de campos cósmicos a su paso.
+    Cuando se relanza, serás teletransportado al proyectil, y los campos cósmicos se generarán desde tu posición actual y desde los lugares de teletransportación, atrayendo a los infieles cercanos hacia ellos.
 
-knowledge-path-cosmos-s7-name = Cosmic Blade
+knowledge-path-cosmos-s7-name = Hoja Cósmica
 knowledge-path-cosmos-s7-desc =
-    The Beast took my blades in their hand, I kneeled and felt a sharp pain. The blades now glistened with fragmented power. I fell to the ground and wept at the beast's feet.
+    La Bestia tomó mis hojas en su mano, me arrodillé y sentí un dolor agudo. Las hojas ahora brillaban con poder fragmentado. Caí al suelo y lloré a los pies de la bestia.
 
-    Your blade now star marks your victims, and allows you to attack star marked heathens from further away.
-    Your attacks will chain bonus damage to up to two previous victims.
-    The combo is reset after two seconds without making an attack, or if you attack someone already marked.
-    If you combo more than two attacks you will receive a cosmic trail and increase your combo timer up to ten seconds.
-    Cosmic fields now block explosions, disrupt grenades or signalers from being activated and turn off already primed grenades.
+    Tu hoja ahora marca con una estrella a tus víctimas, y te permite atacar a infieles marcados con estrellas desde mayor distancia.
+    Tus ataques encadenarán daño adicional a hasta dos víctimas anteriores.
+    El combo se reinicia dos segundos después de no realizar un ataque, o si atacas a alguien ya marcado.
+    Si encadenas más de dos ataques recibirás un rastro cósmico y aumentarás tu temporizador de combo hasta diez segundos.
+    Los campos cósmicos ahora bloquean explosiones, interrumpen granadas o señalizadores para que no se activen y apagan granadas ya armadas.
 
-knowledge-path-cosmos-s8-name = Cosmic Expansion
+knowledge-path-cosmos-s8-name = Expansión Cósmica
 knowledge-path-cosmos-s8-desc =
-    The ground now shook beneath me. The Beast inhabited me, and their voice was intoxicating.
+    El suelo ahora temblaba bajo mis pies. La Bestia me habitaba, y su voz era embriagadora.
 
-    Grants you Cosmic Expansion, a spell that creates a 5x5 area of cosmic fields around you.
-    Nearby beings will also receive a star mark.
+    Te otorga Expansión Cósmica, un hechizo que crea un área de 5x5 de campos cósmicos a tu alrededor.
+    Los seres cercanos también recibirán una marca estelar.
 
-knowledge-path-cosmos-s9-name = Creators's Gift
+knowledge-path-cosmos-s9-name = El Don del Creador
 knowledge-path-cosmos-s9-desc =
-    The ascension ritual of the Path of Cosmos.
-    Bring 3 corpses with a star mark to a transmutation rune to complete the ritual.
-    When completed, you become the owner of a Star Gazer.
-    The Star Gazer is a strong ally who can even break down reinforced walls.
-    The Star Gazer has an aura that will heal you.
-    Star Touch can now teleport you to the Star Gazer when activated in your hand.
-    Your cosmic expansion spell and your blades also become greatly empowered.
-    You gain x-ray vision as well as immunity to extreme pressure and temperature.
-    Cosmic fields now slow projectiles down.
+    El ritual de ascensión del Camino del Cosmos.
+    Lleva 3 cadáveres con una marca estelar a una runa de transmutación para completar el ritual.
+    Cuando se complete, te conviertes en el dueño de un Observador Estelar.
+    El Observador Estelar es un poderoso aliado que incluso puede derribar paredes reforzadas.
+    El Observador Estelar tiene un aura que te curará.
+    El Toque Estelar ahora puede teletransportarte al Observador Estelar cuando se activa en tu mano.
+    Tu hechizo de expansión cósmica y tus hojas también se empoderan enormemente.
+    Ganas visión de rayos X así como inmunidad a la presión y temperatura extremas.
+    Los campos cósmicos ahora ralentizan los proyectiles.

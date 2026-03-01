@@ -1,10 +1,10 @@
-shuttle-console-maximum-iff-distance = Maximum IFF Distance
+shuttle-console-maximum-iff-distance = Distancia Máxima IFF
 
-shuttle-console-iff-search = Search IFF
-shuttle-console-inertia-dampener-off = Cruise
-shuttle-console-inertia-dampener-dampen = Drive
-shuttle-console-inertia-dampener-anchor = Park
+shuttle-console-iff-search = Buscar IFF
+shuttle-console-inertia-dampener-off = Crucero
+shuttle-console-inertia-dampener-dampen = Conducir
+shuttle-console-inertia-dampener-anchor = Aparcar
 
-shuttle-console-iffshuttles-toggle = Show shuttles
+shuttle-console-iffshuttles-toggle = Mostrar transbordadores
 
-shuttle-console-network-ports = Network Ports
+shuttle-console-network-ports = Puertos de Red

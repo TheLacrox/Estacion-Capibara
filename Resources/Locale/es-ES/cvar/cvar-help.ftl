@@ -5,36 +5,36 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-changecvar-simple-debug_test_cvar = Does nothing.
-changecvar-full-debug_test_cvar = Just a simple testing cvar. Does nothing.
+changecvar-simple-debug_test_cvar = No hace nada.
+changecvar-full-debug_test_cvar = Solo un cvar de prueba simple. No hace nada.
 
-changecvar-simple-events_enabled = Controls if the game should run station events.
-changecvar-full-events_enabled = Controls if the game should run station events.
+changecvar-simple-events_enabled = Controla si el juego debe ejecutar eventos de estación.
+changecvar-full-events_enabled = Controla si el juego debe ejecutar eventos de estación.
 
-changecvar-simple-shuttle_auto_call_time = Time after round start to auto-call the shuttle.
-changecvar-full-shuttle_auto_call_time = Time in minutes after round start to auto-call the shuttle. Set to zero to disable.
+changecvar-simple-shuttle_auto_call_time = Tiempo tras el inicio de ronda para llamar automáticamente a la lanzadera.
+changecvar-full-shuttle_auto_call_time = Tiempo en minutos tras el inicio de ronda para llamar automáticamente a la lanzadera. Establece en cero para desactivar.
 
-changecvar-simple-playtest_all_damage_modifier = Multiplier for all damage dealt.
-changecvar-full-playtest_all_damage_modifier = Multiplier for all damage dealt.
-changecvar-simple-playtest_all_heal_modifier = Multiplier for all healing done.
-changecvar-full-playtest_all_heal_modifier = Multiplier for all healing done.
-changecvar-simple-playtest_melee_damage_modifier = Multiplier affecting melee weapon damage.
-changecvar-full-playtest_melee_damage_modifier = Multiplier affecting all damage dealt by melee attacks.
-changecvar-simple-playtest_projectile_damage_modifier = Multiplier affecting projectile damage.
-changecvar-full-playtest_projectile_damage_modifier = Multiplier affecting all damage dealt by projectiles.
-changecvar-simple-playtest_hitscan_damage_modifier = Multiplier affecting hitscan damage.
-changecvar-full-playtest_hitscan_damage_modifier = Multiplier affecting all damage dealt by hitscan weapons.
-changecvar-simple-playtest_thrown_damage_modifier = Multiplier affecting thrown weapon damage.
-changecvar-full-playtest_thrown_damage_modifier = Multiplier affecting all damage dealt by thrown weapons.
-changecvar-simple-playtest_topicals_heal_modifier = Multiplier affecting topical healing.
-changecvar-full-playtest_topicals_heal_modifier = Multiplier affecting all healing done by topicals.
-changecvar-simple-playtest_reagent_damage_modifier = Multiplier affecting reagent damage.
-changecvar-full-playtest_reagent_damage_modifier = Multiplier affecting all damage dealt by reagents.
-changecvar-simple-playtest_reagent_heal_modifier = Multiplier affecting reagent healing.
-changecvar-full-playtest_reagent_heal_modifier = Multiplier affecting all healing done by reagents.
-changecvar-simple-playtest_explosion_damage_modifier = Multiplier affecting explosion damage.
-changecvar-full-playtest_explosion_damage_modifier = Multiplier affecting all damage dealt by explosives.
-changecvar-simple-playtest_stamina_damage_modifier = Multiplier affecting stamina damage.
-changecvar-full-playtest_stamina_damage_modifier = Multiplier affecting all stamina damage dealt.
-changecvar-simple-playtest_mob_damage_modifier = Multiplier affecting all damage dealt to mobs.
-changecvar-full-playtest_mob_damage_modifier = Multiplier affecting all damage dealt to entities with MobStateComponent.
+changecvar-simple-playtest_all_damage_modifier = Multiplicador para todo el daño infligido.
+changecvar-full-playtest_all_damage_modifier = Multiplicador para todo el daño infligido.
+changecvar-simple-playtest_all_heal_modifier = Multiplicador para toda la curación realizada.
+changecvar-full-playtest_all_heal_modifier = Multiplicador para toda la curación realizada.
+changecvar-simple-playtest_melee_damage_modifier = Multiplicador que afecta al daño de armas cuerpo a cuerpo.
+changecvar-full-playtest_melee_damage_modifier = Multiplicador que afecta a todo el daño infligido por ataques cuerpo a cuerpo.
+changecvar-simple-playtest_projectile_damage_modifier = Multiplicador que afecta al daño de proyectiles.
+changecvar-full-playtest_projectile_damage_modifier = Multiplicador que afecta a todo el daño infligido por proyectiles.
+changecvar-simple-playtest_hitscan_damage_modifier = Multiplicador que afecta al daño de hitscan.
+changecvar-full-playtest_hitscan_damage_modifier = Multiplicador que afecta a todo el daño infligido por armas hitscan.
+changecvar-simple-playtest_thrown_damage_modifier = Multiplicador que afecta al daño de armas arrojadas.
+changecvar-full-playtest_thrown_damage_modifier = Multiplicador que afecta a todo el daño infligido por armas arrojadas.
+changecvar-simple-playtest_topicals_heal_modifier = Multiplicador que afecta a la curación tópica.
+changecvar-full-playtest_topicals_heal_modifier = Multiplicador que afecta a toda la curación realizada por tópicos.
+changecvar-simple-playtest_reagent_damage_modifier = Multiplicador que afecta al daño de reactivos.
+changecvar-full-playtest_reagent_damage_modifier = Multiplicador que afecta a todo el daño infligido por reactivos.
+changecvar-simple-playtest_reagent_heal_modifier = Multiplicador que afecta a la curación de reactivos.
+changecvar-full-playtest_reagent_heal_modifier = Multiplicador que afecta a toda la curación realizada por reactivos.
+changecvar-simple-playtest_explosion_damage_modifier = Multiplicador que afecta al daño de explosiones.
+changecvar-full-playtest_explosion_damage_modifier = Multiplicador que afecta a todo el daño infligido por explosivos.
+changecvar-simple-playtest_stamina_damage_modifier = Multiplicador que afecta al daño de stamina.
+changecvar-full-playtest_stamina_damage_modifier = Multiplicador que afecta a todo el daño de stamina infligido.
+changecvar-simple-playtest_mob_damage_modifier = Multiplicador que afecta a todo el daño infligido a mobs.
+changecvar-full-playtest_mob_damage_modifier = Multiplicador que afecta a todo el daño infligido a entidades con MobStateComponent.

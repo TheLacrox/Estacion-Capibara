@@ -1,1 +1,1 @@
-phrase-species-fish = fish
+phrase-species-fish = pez

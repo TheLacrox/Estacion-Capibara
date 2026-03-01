@@ -1,2 +1,2 @@
-skinning-start = {$performer} starts to skin {$target}!
-skin-verb = Skin Creature
+skinning-start = ¡{$performer} empieza a desollar a {$target}!
+skin-verb = Desollar criatura

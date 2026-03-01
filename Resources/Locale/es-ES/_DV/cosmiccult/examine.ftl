@@ -1,24 +1,24 @@
-## REGULAR EXAMINES
-cosmic-examine-text-contraband = [color=#4cabb3]This is highly illegal contraband with unknown properties![/color]
-cosmic-examine-text-structures = [color=#4cabb3]This object should not be on the station![/color]
-cosmic-examine-text-glyphs = [color=#4cabb3]The etched lines are deeply unnerving to gaze upon.[/color]
-cosmic-examine-text-abilityblank = [color=#4cabb3]Their catatonic eyes pulse with wicked light![/color]
-cosmic-examine-text-abilitylapse = [color=#4cabb3]They look like they're seeing something not meant to be seen. Not by anyone.[/color]
-cosmic-examine-text-malignecho = [color=#4cabb3]An echo in the membrane of realspace — it appears to be fading quickly. Something is amiss aboard the station![/color]
-cosmic-examine-text-forthecult = [color=#4cabb3]This is our doing. As things should be.[/color]
-cosmic-examine-text-imposition = [color=#4cabb3]A barrier of astral power wards them from injury![/color]
-cosmic-examine-text-god = [color=#4cabb3]the end is the end is the end is the end is the end is the end is the end is the end is the end is the end is[/color]
+## EXAMINACIONES REGULARES
+cosmic-examine-text-contraband = [color=#4cabb3]¡Esto es contrabando altamente ilegal con propiedades desconocidas![/color]
+cosmic-examine-text-structures = [color=#4cabb3]¡Este objeto no debería estar en la estación![/color]
+cosmic-examine-text-glyphs = [color=#4cabb3]Las líneas grabadas resultan profundamente inquietantes de contemplar.[/color]
+cosmic-examine-text-abilityblank = [color=#4cabb3]¡Sus ojos catatónicos pulsan con una luz maléfica![/color]
+cosmic-examine-text-abilitylapse = [color=#4cabb3]Parece que está viendo algo que no estaba destinado a ser visto. Por nadie.[/color]
+cosmic-examine-text-malignecho = [color=#4cabb3]Un eco en la membrana del espacio real — parece estar desvaneciéndose rápidamente. ¡Algo está mal a bordo de la estación![/color]
+cosmic-examine-text-forthecult = [color=#4cabb3]Esto es obra nuestra. Como debe ser.[/color]
+cosmic-examine-text-imposition = [color=#4cabb3]¡Una barrera de poder astral los protege de las lesiones![/color]
+cosmic-examine-text-god = [color=#4cabb3]el fin es el fin es el fin es el fin es el fin es el fin es el fin es el fin es el fin es el fin es[/color]
 
 
-## GLYPH EXAMINES
+## EXAMINACIONES DE GLIFOS
 cosmic-examine-glyph-cultcount = {$COUNT ->
-    [1] [color=#4cabb3]Requires only a single cultist to activate.[/color]
-    *[other] [color=#4cabb3]Requires {$COUNT} cultists to activate.[/color]
+    [1] [color=#4cabb3]Solo requiere un único cultista para activarse.[/color]
+    *[other] [color=#4cabb3]Requiere {$COUNT} cultistas para activarse.[/color]
 }
 
-cosmic-examine-glyph-truth = [color=#4cabb3]Instills the pure, indelible truth. Able to convert absolutely anyone to join our ranks.[/color]
-cosmic-examine-glyph-knowledge = [color=#4cabb3]Instills the spark of indelible knowledge. Able to convert most to join our ranks.[/color]
-cosmic-examine-glyph-cessation = [color=#4cabb3]Transmutes a portable gas scrubber into a Vacuous Spire for our use.[/color]
-cosmic-examine-glyph-projection = [color=#4cabb3]Allows us to ascend in a temporary astral form to spy on those around us.[/color]
-cosmic-examine-glyph-blades = [color=#4cabb3]Transmutes and extrudes sharp objects into more lethal weaponry.[/color]
-cosmic-examine-glyph-warding = [color=#4cabb3]Transmutes pressure-resistant clothing into entropic garb.[/color]
+cosmic-examine-glyph-truth = [color=#4cabb3]Inculca la verdad pura e indeleble. Capaz de convertir a absolutamente cualquiera para unirse a nuestras filas.[/color]
+cosmic-examine-glyph-knowledge = [color=#4cabb3]Inculca la chispa del conocimiento indeleble. Capaz de convertir a la mayoría para unirse a nuestras filas.[/color]
+cosmic-examine-glyph-cessation = [color=#4cabb3]Transmuta un depurador portátil de gases en una Aguja del Vacío para nuestro uso.[/color]
+cosmic-examine-glyph-projection = [color=#4cabb3]Nos permite ascender en una forma astral temporal para espiar a quienes nos rodean.[/color]
+cosmic-examine-glyph-blades = [color=#4cabb3]Transmuta y extruye objetos afilados en armas más letales.[/color]
+cosmic-examine-glyph-warding = [color=#4cabb3]Transmuta ropa resistente a la presión en atuendo entrópico.[/color]

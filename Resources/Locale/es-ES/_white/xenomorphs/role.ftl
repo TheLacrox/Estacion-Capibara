@@ -1,8 +1,8 @@
-xenomorph-round-end-agent-name = [color=#8c3986]Xenomorph[/color]
+xenomorph-round-end-agent-name = [color=#8c3986]Xenomorfo[/color]
 
-objective-issuer-xenomorph-hive = [color=#8c3986]The Xenomorph Hive[/color]
+objective-issuer-xenomorph-hive = [color=#8c3986]La Colmena Xenomorfa[/color]
 
 xenomorph-role-greeting =
-    You are a Xenomorph. Help your hive expand.
-    If you are the first or last in your hive, evolve into a [color=Red]DRONE[/color], otherwise the swarm will not be able to continue its existence.
-    And remember, only one species should remain on the space station, and it's definitely not humanoid.
+    Eres un Xenomorfo. Ayuda a tu colmena a expandirse.
+    Si eres el primero o el último de tu colmena, evoluciona a [color=Red]OBRERO[/color], de lo contrario el enjambre no podrá continuar su existencia.
+    Y recuerda, solo una especie debe quedar en la estación espacial, y definitivamente no es la humanoide.

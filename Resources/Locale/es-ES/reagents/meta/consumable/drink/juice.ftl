@@ -9,49 +9,49 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-juice-apple = apple juice
-reagent-desc-juice-apple = It's a little piece of Eden.
+reagent-name-juice-apple = zumo de manzana
+reagent-desc-juice-apple = Es un pequeño trozo del Edén.
 
-reagent-name-juice-banana = banana juice
-reagent-desc-juice-banana = The raw essence of a banana. HONK.
+reagent-name-juice-banana = zumo de plátano
+reagent-desc-juice-banana = La esencia pura de un plátano. HONK.
 
-reagent-name-juice-berry = berry juice
-reagent-desc-juice-berry = A delicious blend of several different kinds of berries.
+reagent-name-juice-berry = zumo de bayas
+reagent-desc-juice-berry = Una deliciosa mezcla de varios tipos de bayas.
 
-reagent-name-juice-blue-pumpkin = blue pumpkin juice
-reagent-desc-juice-blue-pumpkin = The juice of a blue pumpkin. Smells like pool water.
+reagent-name-juice-blue-pumpkin = zumo de calabaza azul
+reagent-desc-juice-blue-pumpkin = El zumo de una calabaza azul. Huele como el agua de una piscina.
 
-reagent-name-juice-bungo = bungo juice
-reagent-desc-juice-bungo = The juice of a bungo fruit. Exotic!
+reagent-name-juice-bungo = zumo de bungo
+reagent-desc-juice-bungo = El zumo de un fruto bungo. ¡Exótico!
 
-reagent-name-juice-berry-poison = poison berry juice
-reagent-desc-juice-berry-poison = A surprisingly tasty juice blended from various kinds of very deadly and toxic berries.
+reagent-name-juice-berry-poison = zumo de bayas venenosas
+reagent-desc-juice-berry-poison = Un zumo sorprendentemente sabroso elaborado con varios tipos de bayas muy mortales y tóxicas.
 
-reagent-name-juice-carrot = carrot juice
-reagent-desc-juice-carrot = It's like a carrot, but less crunchy.
+reagent-name-juice-carrot = zumo de zanahoria
+reagent-desc-juice-carrot = Es como una zanahoria, pero menos crujiente.
 
-reagent-name-juice-grape = grape juice
-reagent-desc-juice-grape = Freshly squeezed juice from red grapes. Quite sweet.
+reagent-name-juice-grape = zumo de uva
+reagent-desc-juice-grape = Zumo recién exprimido de uvas rojas. Bastante dulce.
 
-reagent-name-juice-lemon = lemon juice
-reagent-desc-juice-lemon = This juice is VERY sour.
+reagent-name-juice-lemon = zumo de limón
+reagent-desc-juice-lemon = Este zumo es MUY ácido.
 
-reagent-name-juice-lime = lime juice
-reagent-desc-juice-lime = The sweet-sour juice of limes.
+reagent-name-juice-lime = zumo de lima
+reagent-desc-juice-lime = El zumo agridulce de las limas.
 
-reagent-name-juice-orange = orange juice
-reagent-desc-juice-orange = Both delicious AND rich in Vitamin C. What more do you need?
+reagent-name-juice-orange = zumo de naranja
+reagent-desc-juice-orange = Delicioso Y rico en Vitamina C. ¿Qué más necesitas?
 
-reagent-name-juice-pineapple = pineapple juice
-reagent-desc-juice-pineapple = The delicious juice of a pineapple.
+reagent-name-juice-pineapple = zumo de piña
+reagent-desc-juice-pineapple = El delicioso zumo de una piña.
 
-reagent-name-juice-potato = potato juice
-reagent-desc-juice-potato = Juice of the potato. Bleh.
+reagent-name-juice-potato = zumo de patata
+reagent-desc-juice-potato = Zumo de patata. Bah.
 
-reagent-name-juice-tomato = tomato juice
-reagent-desc-juice-tomato = Tomatoes made into juice. What a waste of good tomatoes, huh?
+reagent-name-juice-tomato = zumo de tomate
+reagent-desc-juice-tomato = Tomates convertidos en zumo. ¿Qué desperdicio de buenos tomates, verdad?
 
-reagent-name-juice-watermelon = watermelon juice
-reagent-desc-juice-watermelon = The delicious juice of a watermelon.
+reagent-name-juice-watermelon = zumo de sandía
+reagent-desc-juice-watermelon = El delicioso zumo de una sandía.
 
-reagent-name-juice-cherry = cherry juice
+reagent-name-juice-cherry = zumo de cereza

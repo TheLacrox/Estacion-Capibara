@@ -1,35 +1,35 @@
-shadowling-condition-win = The shadowlings have successfully ascended into their final form!
-shadowling-condition-draw = Both parties took major losses, but crew managed to survive.
-shadowling-condition-failure = The crew have managed to stop the shadowlings from ascending!
+shadowling-condition-win = ¡Los shadowlings han ascendido con éxito a su forma final!
+shadowling-condition-draw = Ambas partes sufrieron grandes pérdidas, pero la tripulación logró sobrevivir.
+shadowling-condition-failure = ¡La tripulación ha logrado impedir que los shadowlings asciendan!
 
-shadowling-list-start = The Shadowlings were:
-thrall-list-start = The Thralls were:
+shadowling-list-start = Los Shadowlings fueron:
+thrall-list-start = Los Thralls fueron:
 
 shadowling-list-name = [color=#880808]{ $name }[/color] ([color=gray]{ $user }[/color])
 
 shadowling-title = Shadowlings
-shadowling-description = The shadow is the greatest teacher for how to come to the light.
+shadowling-description = La sombra es el mejor maestro para aprender a llegar a la luz.
 
 shadowling-round-end-name = shadowling
 
 shadowling-role-greeting =
-    Something stirs deep in your mind. A red light floods your vision, and slowly you remember. Though your human disguise has served you
-    well, the time is nigh to cast it off and enter your true form. You have disguised yourself amongst the humans, but you are not one of them.
-    You are a shadowling, and you are to ascend at all costs.
-    Check the guidebook for more information.
+    Algo se agita en lo profundo de tu mente. Una luz roja inunda tu visión, y lentamente recuerdas. Aunque tu disfraz humano te ha servido bien,
+    ha llegado el momento de abandonarlo y asumir tu verdadera forma. Te has camuflado entre los humanos, pero no eres uno de ellos.
+    Eres un shadowling, y debes ascender a cualquier coste.
+    Consulta la guía para más información.
 
 shadowling-role-greeting-short =
-    You are a shadowling who has awakened in the body of {$name}.
+    Eres un shadowling que ha despertado en el cuerpo de {$name}.
 
 thrall-role-greeting =
-    You are a thrall.
-    Help your Shadowling ascend by any means necessary.
+    Eres un thrall.
+    Ayuda a tu Shadowling a ascender por cualquier medio necesario.
 
 shadowling-briefing =
-    Shed from this lesser form and start your path to ascension.
+    Abandona esta forma inferior y comienza tu camino hacia la ascensión.
 
 thrall-briefing =
-    You are no longer bound to your old beliefs.
-    Help your shadowling ascend at all costs.
+    Ya no estás ligado a tus antiguas creencias.
+    Ayuda a tu shadowling a ascender a cualquier coste.
 
 objective-issuer-shadowling = Shadowling

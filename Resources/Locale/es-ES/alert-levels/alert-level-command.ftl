@@ -4,10 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-setalertlevel-desc = Set current station alert level for grid on which the player is standing.
-cmd-setalertlevel-help = Usage: setalertlevel <level> [locked]
-cmd-setalertlevel-invalid-grid = You must be on grid of station code that you are going to change.
-cmd-setalertlevel-invalid-level = Specified alert level does not exist on that grid.
+cmd-setalertlevel-desc = Establece el nivel de alerta actual de la estación para la cuadrícula en la que se encuentra el jugador.
+cmd-setalertlevel-help = Uso: setalertlevel <nivel> [bloqueado]
+cmd-setalertlevel-invalid-grid = Debes estar en la cuadrícula de la estación cuyo código vas a cambiar.
+cmd-setalertlevel-invalid-level = El nivel de alerta especificado no existe en esa cuadrícula.
 
-cmd-setalertlevel-hint-1 = <level>
-cmd-setalertlevel-hint-2 = [locked]
+cmd-setalertlevel-hint-1 = <nivel>
+cmd-setalertlevel-hint-2 = [bloqueado]

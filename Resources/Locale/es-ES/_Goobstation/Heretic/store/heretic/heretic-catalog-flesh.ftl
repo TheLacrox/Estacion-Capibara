@@ -22,79 +22,79 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-flesh-s1-name = Principle of Hunger
+knowledge-path-flesh-s1-name = Principio del Hambre
 knowledge-path-flesh-s1-desc =
-    Hundreds of us starved, but not me... I found strength in my greed.
+    Cientos de nosotros pasamos hambre, pero yo no... Encontré fuerza en mi codicia.
 
-    Opens up the Path of Flesh to you.
-    Allows you to transmute a knife and a pool of blood into a Bloody Blade.
-    You can only create two at a time.
+    Te abre el Camino de la Carne.
+    Te permite transmutar un cuchillo y un charco de sangre en una Hoja Sangrienta.
+    Solo puedes crear dos a la vez.
 
-knowledge-path-flesh-s2-name = Grasp of Flesh
+knowledge-path-flesh-s2-name = Garra de la Carne
 knowledge-path-flesh-s2-desc =
-    My new found desires drove me to greater and greater heights.
+    Mis nuevos deseos me impulsaron hacia cotas cada vez más elevadas.
 
-    Your Mansus Grasp gains the ability to create a ghoul out of corpse with a soul.
-    Ghouls have only 50 health and look like husks to the heathens' eyes.
-    All ghouls get their own Bloody Blade that cannot be shattered and disappears on ghoul death.
-    You are now able to consume raw flesh. Eating meat, organs and body parts will empower and heal you temporarily, the effect scales with your path stage.
-    You also become immune to damage from poisons.
+    Tu Garra del Mansus gana la habilidad de crear un ghoul a partir de un cadáver con alma.
+    Los ghouls tienen solo 50 de salud y parecen cáscaras a los ojos de los infieles.
+    Todos los ghouls obtienen su propia Hoja Sangrienta que no puede romperse y desaparece al morir el ghoul.
+    Ahora puedes consumir carne cruda. Comer carne, órganos y partes del cuerpo te empoderará y curará temporalmente, el efecto escala con tu etapa del camino.
+    También te vuelves inmune al daño de los venenos.
 
-knowledge-path-flesh-s3-name = Imperfect Ritual
+knowledge-path-flesh-s3-name = Ritual Imperfecto
 knowledge-path-flesh-s3-desc =
-    I found notes of a dark ritual, unfinished... yet still, I pushed forward.
+    Encontré notas de un ritual oscuro, inacabado... y aun así, seguí adelante.
 
-    Allows you to transmute a corpse and a muzzle to create a Voiceless Dead.
-    The corpse does not need to have a soul.
-    Voiceless Dead are mute ghouls, which have 100 health and a Bloody Blade.
-    Voiceless Dead are stronger than regular ones at using Bloody Blades.
-    You can only create two at a time.
+    Te permite transmutar un cadáver y un bozal para crear un Muerto Silencioso.
+    El cadáver no necesita tener alma.
+    Los Muertos Silenciosos son ghouls mudos, que tienen 100 de salud y una Hoja Sangrienta.
+    Los Muertos Silenciosos son más fuertes que los normales al usar Hojas Sangrientas.
+    Solo puedes crear dos a la vez.
 
-knowledge-path-flesh-s4-name = Mark of Flesh
+knowledge-path-flesh-s4-name = Marca de la Carne
 knowledge-path-flesh-s4-desc =
-    That's when I saw them, the marked ones. They were out of reach. They screamed, and screamed.
+    Entonces los vi, los marcados. Estaban fuera de mi alcance. Gritaban, y gritaban.
 
-    Your Mansus Grasp now applies the Mark of Flesh. The mark is triggered from an attack with your Bloody Blade.
-    When triggered, the victim will split into flesh mimic that will attack them.
-    Flesh mimics are identical to ghouls risen by mansus grasp but they receive damage over time that increases slowly.
+    Tu Garra del Mansus ahora aplica la Marca de la Carne. La marca se activa con un ataque de tu Hoja Sangrienta.
+    Cuando se activa, la víctima se dividirá en un mimo de carne que la atacará.
+    Los mimos de carne son idénticos a los ghouls invocados por la garra del mansus pero reciben daño con el tiempo que aumenta lentamente.
 
-knowledge-path-flesh-s5-name = Knitting of Flesh
+knowledge-path-flesh-s5-name = Tejido de Carne
 knowledge-path-flesh-s5-desc =
-    But they were not out of my reach for long. With every step, the screams grew, until at last
-    I learned that they could be silenced.
+    Pero no estuvieron fuera de mi alcance por mucho tiempo. Con cada paso, los gritos crecieron, hasta que por fin
+    aprendí que podían silenciarse.
 
-    Grants you the spell Knit Flesh. This touch spell acts as a great surgery tool that bypasses surgery steps, clothing, doesn't cause pain and doesn't deal poison damage. Also acts as medical hud and health analyzer.
-    This spell also allows you to heal your minions and summons.
+    Te otorga el hechizo Tejer Carne. Este hechizo de toque actúa como una excelente herramienta quirúrgica que omite los pasos de cirugía, la ropa, no causa dolor y no inflige daño por veneno. También actúa como HUD médico y analizador de salud.
+    Este hechizo también te permite curar a tus secuaces e invocaciones.
 
-knowledge-path-flesh-s6-name = Raw Ritual
+knowledge-path-flesh-s6-name = Ritual en Bruto
 knowledge-path-flesh-s6-desc =
-    I could not continue alone. I was able to summon The Uncanny Man to help me see more.
-    The screams... once constant, now silenced by their wretched appearance. Nothing was out of reach.
+    No podía continuar solo. Pude invocar al Hombre Desconcertante para que me ayudara a ver más.
+    Los gritos... una vez constantes, ahora silenciados por su lamentable apariencia. Nada estaba fuera de mi alcance.
 
-    Allows you to transmute a pair of eyes, a stomach, and a pool of blood to create a Raw Prophet.
-    Raw Prophets have a greatly increased sight range and x-ray vision, as well as a long range jaunt and the ability to link minds to communicate with ease, but are very fragile and weak in combat.
-    Raw Prophets passively heal heretics and ghouls around themselves.
-    You can only create two at a time.
+    Te permite transmutar un par de ojos, un estómago y un charco de sangre para crear un Profeta en Bruto.
+    Los Profetas en Bruto tienen un rango de visión enormemente aumentado y visión de rayos X, así como un jaunt de largo alcance y la capacidad de vincular mentes para comunicarse con facilidad, pero son muy frágiles y débiles en combate.
+    Los Profetas en Bruto curan pasivamente a los herejes y ghouls cercanos.
+    Solo puedes crear dos a la vez.
 
-knowledge-path-flesh-s7-name = Bleeding Steel
+knowledge-path-flesh-s7-name = Acero Sangriento
 knowledge-path-flesh-s7-desc =
-    The Uncanny Man was not alone. They led me to the Marshal.
-    I finally began to understand. And then, blood rained from the heavens.
+    El Hombre Desconcertante no estaba solo. Me llevó al Mariscal.
+    Finalmente comencé a entender. Y entonces, la sangre llovió de los cielos.
 
-    Your Bloody Blade now causes enemies to bleed heavily on attack.
+    Tu Hoja Sangrienta ahora hace que los enemigos sangren abundantemente al atacar.
 
-knowledge-path-flesh-s8-name = Lonely Ritual
+knowledge-path-flesh-s8-name = Ritual Solitario
 knowledge-path-flesh-s8-desc =
-    I was able to combine my greed and desires to summon an eldritch beast I had never seen before.
-    An ever shapeshifting mass of flesh, it knew well my goals. The Marshal approved.
+    Pude combinar mi codicia y mis deseos para invocar a una bestia eldritch que nunca había visto antes.
+    Una masa de carne que cambiaba de forma constantemente, conocía bien mis metas. El Mariscal aprobó.
 
-    Allows you to transmute a heart, a stomach, lungs and a pen to create a Stalker.
-    Stalkers can jaunt, release EMPs, shapeshift into different creatures, and are strong in combat.
+    Te permite transmutar un corazón, un estómago, pulmones y un bolígrafo para crear un Acechador.
+    Los Acechadores pueden viajar, liberar PEMs, cambiar de forma en diferentes criaturas y son fuertes en combate.
 
-knowledge-path-flesh-s9-name = Priest’s Final Hymn
+knowledge-path-flesh-s9-name = Himno Final del Sacerdote
 knowledge-path-flesh-s9-desc =
-    The ascension ritual of the Path of Flesh. Bring 4 corpses to a transmutation rune to complete the ritual.
-    When completed, you will become even stronger from consuming flesh.
-    Additionally, upon taking damage, your body will split into flesh mimic. They will be given a Bloody Blade.
-    You can only sustain 10 flesh mimics at once, taking even more damage will instead heal existing mimics.
-    You will also become immune to extreme temperatures and pressure.
+    El ritual de ascensión del Camino de la Carne. Lleva 4 cadáveres a una runa de transmutación para completar el ritual.
+    Cuando se complete, te volverás aún más fuerte al consumir carne.
+    Además, al recibir daño, tu cuerpo se dividirá en mimos de carne. Se les entregará una Hoja Sangrienta.
+    Solo puedes sustentar 10 mimos de carne a la vez, recibir aún más daño curará en cambio a los mimos existentes.
+    También te volverás inmune a temperaturas y presiones extremas.

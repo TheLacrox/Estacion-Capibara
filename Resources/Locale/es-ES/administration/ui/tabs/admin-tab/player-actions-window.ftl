@@ -8,14 +8,14 @@
 #
 # SPDX-License-Identifier: MIT
 
-admin-player-actions-window-title = Player Actions Panel
-admin-player-actions-window-ban = Banning panel
-admin-player-actions-window-admin-ghost = Admin Ghost
-admin-player-actions-window-teleport = Teleport
-admin-player-actions-window-permissions = Permissions Panel
-admin-player-actions-window-announce = Announce
-admin-player-actions-window-shuttle = (Re)call Shuttle
-admin-player-actions-window-admin-logs = Admin Logs
-admin-player-actions-window-admin-notes = Admin Notes
-admin-player-actions-window-admin-fax = Admin Fax
-admin-player-actions-window-admin-chat = Admin Chat
+admin-player-actions-window-title = Panel de Acciones de Jugador
+admin-player-actions-window-ban = Panel de ban
+admin-player-actions-window-admin-ghost = Fantasma Admin
+admin-player-actions-window-teleport = Teletransportar
+admin-player-actions-window-permissions = Panel de Permisos
+admin-player-actions-window-announce = Anunciar
+admin-player-actions-window-shuttle = Llamar/Cancelar Lanzadera
+admin-player-actions-window-admin-logs = Registros de Admin
+admin-player-actions-window-admin-notes = Notas de Admin
+admin-player-actions-window-admin-fax = Fax de Admin
+admin-player-actions-window-admin-chat = Chat de Admin

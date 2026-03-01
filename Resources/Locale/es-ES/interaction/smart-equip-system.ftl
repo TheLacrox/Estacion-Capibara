@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-smart-equip-missing-equipment-slot = You have no {$slotName} slot to interact with!
-smart-equip-empty-equipment-slot = There's nothing in your {$slotName} slot to take out!
-smart-equip-no-valid-item-slot-insert = There's no valid item slot for {THE($item)} to go into!
-smart-equip-cant-drop = You can't drop that!
+smart-equip-missing-equipment-slot = ¡No tienes ranura de {$slotName} con la que interactuar!
+smart-equip-empty-equipment-slot = ¡No hay nada en tu ranura de {$slotName} para sacar!
+smart-equip-no-valid-item-slot-insert = ¡No hay ninguna ranura de objeto válida para {THE($item)}!
+smart-equip-cant-drop = ¡No puedes soltar eso!

@@ -12,16 +12,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-store-currency-inserted = {CAPITALIZE(THE($used))} is inserted into {THE($target)}.
-store-currency-war-boost-given = { CAPITALIZE($target) } starts buzzing
-store-currency-inserted-implant = {CAPITALIZE(THE($used))} is inserted into your implant.
+store-currency-inserted = {CAPITALIZE(THE($used))} se inserta en {THE($target)}.
+store-currency-war-boost-given = { CAPITALIZE($target) } empieza a zumbar
+store-currency-inserted-implant = {CAPITALIZE(THE($used))} se inserta en tu implante.
 
-store-currency-free = Free
+store-currency-free = Gratis
 store-currency-display-debugdollar = {$amount ->
-    [one] Debug Dollar
-    *[other] Debug Dollars
+    [one] Dólar de depuración
+    *[other] Dólares de depuración
 }
 store-currency-display-telecrystal = TC
-store-currency-display-stolen-essence = Stolen Essence
-store-currency-display-silicon-memory = Memory
-store-currency-display-wizcoin = Wiz€oin™
+store-currency-display-stolen-essence = Esencia robada
+store-currency-display-silicon-memory = Memoria
+store-currency-display-wizcoin = Mago€oín™

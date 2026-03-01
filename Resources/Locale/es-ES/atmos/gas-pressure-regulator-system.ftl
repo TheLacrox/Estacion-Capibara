@@ -1,7 +1,7 @@
-﻿# Examine Text
-gas-pressure-regulator-system-examined = The valve is [color={$statusColor}]{$open ->
-[true] open
-*[false] closed
+# Examine Text
+gas-pressure-regulator-system-examined = La válvula está [color={$statusColor}]{$open ->
+[true] abierta
+*[false] cerrada
 }[/color].
-gas-pressure-regulator-examined-threshold-pressure = The threshold pressure is set at [color=lightblue]{$threshold} kPa[/color].
-gas-pressure-regulator-examined-flow-rate = The flow rate meter indicates [color=lightblue]{$flowRate} L/s[/color].
+gas-pressure-regulator-examined-threshold-pressure = La presión de umbral está ajustada en [color=lightblue]{$threshold} kPa[/color].
+gas-pressure-regulator-examined-flow-rate = El medidor de caudal indica [color=lightblue]{$flowRate} L/s[/color].

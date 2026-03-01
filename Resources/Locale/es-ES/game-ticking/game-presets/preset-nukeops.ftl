@@ -17,40 +17,40 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-nukeops-title = Nuclear Operatives
-nukeops-description = Nuclear operatives have targeted the station. Try to keep them from arming and detonating the nuke by protecting the nuke disk!
+nukeops-title = Operativos Nucleares
+nukeops-description = Unos operativos nucleares han marcado la estación como objetivo. ¡Intenta evitar que armen y detonen la bomba protegiendo el disco nuclear!
 
 nukeops-welcome =
-    You are a nuclear operative. Your goal is to blow up {$station}, and ensure that it is nothing but a pile of rubble. Your bosses, the Syndicate, have provided you with the tools you'll need for the task.
-    Operation {$name} is a go ! Death to Nanotrasen!
-nukeops-briefing = Your objectives are simple. Deliver the payload and get out before the payload detonates. Begin mission.
+    Eres un operativo nuclear. Tu objetivo es hacer volar {$station} por los aires y convertirla en un montón de escombros. Tus jefes, el Sindicato, te han proporcionado las herramientas que necesitarás para la misión.
+    ¡La operación {$name} está en marcha! ¡Muerte a Nanotrasen!
+nukeops-briefing = Tus objetivos son simples. Entrega la carga y sal antes de que detone. Comienza la misión.
 
-nukeops-opsmajor = [color=crimson]Syndicate major victory![/color]
-nukeops-opsminor = [color=crimson]Syndicate minor victory![/color]
-nukeops-neutral = [color=yellow]Neutral outcome![/color]
-nukeops-crewminor = [color=green]Crew minor victory![/color]
-nukeops-crewmajor = [color=green]Crew major victory![/color]
+nukeops-opsmajor = [color=crimson]¡Victoria mayor del Sindicato![/color]
+nukeops-opsminor = [color=crimson]¡Victoria menor del Sindicato![/color]
+nukeops-neutral = [color=yellow]¡Resultado neutro![/color]
+nukeops-crewminor = [color=green]¡Victoria menor de la tripulación![/color]
+nukeops-crewmajor = [color=green]¡Victoria mayor de la tripulación![/color]
 
-nukeops-cond-nukeexplodedoncorrectstation = The nuclear operatives managed to blow up the station.
-nukeops-cond-nukeexplodedonnukieoutpost = The nuclear operative outpost was destroyed by a nuclear blast.
-nukeops-cond-nukeexplodedonincorrectlocation = The nuclear bomb was detonated off-station.
-nukeops-cond-nukeactiveinstation = The nuclear bomb was left armed on-station.
-nukeops-cond-nukeactiveatcentcom = The nuclear bomb was delivered to Central Command!
-nukeops-cond-nukediskoncentcom = The crew escaped with the nuclear authentication disk.
-nukeops-cond-nukedisknotoncentcom = The crew left the nuclear authentication disk behind.
-nukeops-cond-nukiesabandoned = The nuclear operatives were abandoned.
-nukeops-cond-allnukiesdead = All nuclear operatives have died.
-nukeops-cond-somenukiesalive = Some nuclear operatives died.
-nukeops-cond-allnukiesalive = No nuclear operatives died.
+nukeops-cond-nukeexplodedoncorrectstation = Los operativos nucleares lograron hacer volar la estación por los aires.
+nukeops-cond-nukeexplodedonnukieoutpost = El puesto avanzado de los operativos nucleares fue destruido por una explosión nuclear.
+nukeops-cond-nukeexplodedonincorrectlocation = La bomba nuclear fue detonada fuera de la estación.
+nukeops-cond-nukeactiveinstation = La bomba nuclear quedó armada dentro de la estación.
+nukeops-cond-nukeactiveatcentcom = ¡La bomba nuclear fue llevada al Mando Central!
+nukeops-cond-nukediskoncentcom = La tripulación escapó con el disco de autenticación nuclear.
+nukeops-cond-nukedisknotoncentcom = La tripulación dejó atrás el disco de autenticación nuclear.
+nukeops-cond-nukiesabandoned = Los operativos nucleares fueron abandonados.
+nukeops-cond-allnukiesdead = Todos los operativos nucleares han muerto.
+nukeops-cond-somenukiesalive = Algunos operativos nucleares murieron.
+nukeops-cond-allnukiesalive = Ningún operativo nuclear murió.
 
-nukeops-list-start = The operatives were:
+nukeops-list-start = Los operativos fueron:
 nukeops-list-name = - [color=White]{$name}[/color]
 nukeops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-nukeops-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Nukeops.
-nukeops-no-one-ready = No players readied up! Can't start Nukeops.
+nukeops-not-enough-ready-players = ¡No hay suficientes jugadores preparados para la partida! Había {$readyPlayersCount} jugadores preparados de los {$minimumPlayers} necesarios. No se puede iniciar Operativos Nucleares.
+nukeops-no-one-ready = ¡Ningún jugador está preparado! No se puede iniciar Operativos Nucleares.
 
-nukeops-role-commander = Commander
-nukeops-role-agent = Corpsman
-nukeops-role-operator = Operator
+nukeops-role-commander = Comandante
+nukeops-role-agent = Sanitario
+nukeops-role-operator = Operativo
 
-nukeops-roundend-name = nuclear operative
+nukeops-roundend-name = operativo nuclear

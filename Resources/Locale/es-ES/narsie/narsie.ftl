@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-narsie-has-risen = NAR'SIE HAS RISEN
+narsie-has-risen = NAR'SIE HA RESURGIDO
 narsie-has-risen-sender = ???

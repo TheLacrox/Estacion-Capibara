@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-control-mob-verb-get-data-text = Control Mob
+control-mob-verb-get-data-text = Controlar mob

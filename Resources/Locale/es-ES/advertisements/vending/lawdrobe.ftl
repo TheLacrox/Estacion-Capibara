@@ -9,17 +9,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-lawdrobe-1 = OBJECTION! Get the rule of law for yourself!
-advertisement-lawdrobe-2 = Go pester security until they abide by your own rules!
-advertisement-lawdrobe-3 = A new case just came in? Go get them out of jail!
-advertisement-lawdrobe-4 = A dougnut a day keeps security away!
-advertisement-lawdrobe-5 = No one is above the law!
-advertisement-lawdrobe-6 = No officer, I do not consent to a search!
-advertisement-lawdrobe-7 = Injecting space drugs leaves no evidence!
-advertisement-lawdrobe-8 = You or a loved one hurt by Nanotrasen? Too bad!
-advertisement-lawdrobe-9 = Case closed! Defendant has too much drip!
-thankyou-lawdrobe-1 = You can win any case in that outfit!
-thankyou-lawdrobe-2 = Get one for your client as well!
-thankyou-lawdrobe-3 = Win or lose, you get paid either way!
-thankyou-lawdrobe-4 = Remember: It's only illegal if you get caught!
-thankyou-lawdrobe-5 = OBJECTION! That outfit is too cool for court!
+advertisement-lawdrobe-1 = ¡OBJECIÓN! ¡Hazte con el estado de derecho para ti mismo!
+advertisement-lawdrobe-2 = ¡Ve a molestar a seguridad hasta que acaten tus propias reglas!
+advertisement-lawdrobe-3 = ¿Acaba de entrar un nuevo caso? ¡Ve a sacarlos de la cárcel!
+advertisement-lawdrobe-4 = ¡Un donut al día mantiene a seguridad alejada!
+advertisement-lawdrobe-5 = ¡Nadie está por encima de la ley!
+advertisement-lawdrobe-6 = ¡No, agente, no consiento el registro!
+advertisement-lawdrobe-7 = ¡Inyectarse drogas espaciales no deja evidencia!
+advertisement-lawdrobe-8 = ¿Tú o un ser querido habéis sido perjudicados por Nanotrasen? ¡Mala suerte!
+advertisement-lawdrobe-9 = ¡Caso cerrado! ¡El acusado tiene demasiado estilo!
+thankyou-lawdrobe-1 = ¡Puedes ganar cualquier caso con ese atuendo!
+thankyou-lawdrobe-2 = ¡Consigue uno también para tu cliente!
+thankyou-lawdrobe-3 = ¡Ganes o pierdas, cobras de todas formas!
+thankyou-lawdrobe-4 = Recuerda: ¡solo es ilegal si te pillan!
+thankyou-lawdrobe-5 = ¡OBJECIÓN! ¡Ese atuendo es demasiado guay para el tribunal!

@@ -1,36 +1,36 @@
 # Poll Voting Window
-poll-voting-window-title = Community Polls
-poll-voting-window-active-polls = Active Polls
-poll-voting-window-refresh = Refresh
-poll-voting-window-loading = Loading polls...
-poll-voting-window-no-polls = No active polls
+poll-voting-window-title = Encuestas de la comunidad
+poll-voting-window-active-polls = Encuestas activas
+poll-voting-window-refresh = Actualizar
+poll-voting-window-loading = Cargando encuestas...
+poll-voting-window-no-polls = No hay encuestas activas
 poll-voting-window-polls-count = {$count} {$count ->
-    [one] active poll
-    *[other] active polls
+    [one] encuesta activa
+    *[other] encuestas activas
 }
 poll-voting-window-error = Error: {$error}
 
 # Poll Control
-poll-control-created-by = Created by {$name}
-poll-control-ends-in-days = Ends in {$days} {$days ->
-    [one] day
-    *[other] days
+poll-control-created-by = Creado por {$name}
+poll-control-ends-in-days = Termina en {$days} {$days ->
+    [one] día
+    *[other] días
 }
-poll-control-ends-in-hours = Ends in {$hours} {$hours ->
-    [one] hour
-    *[other] hours
+poll-control-ends-in-hours = Termina en {$hours} {$hours ->
+    [one] hora
+    *[other] horas
 }
-poll-control-ended = Ended
-poll-control-no-end-time = No end time
-poll-control-options = Options:
+poll-control-ended = Finalizado
+poll-control-no-end-time = Sin tiempo límite
+poll-control-options = Opciones:
 
 # Poll Commands
-poll-command-create-success = Poll created successfully!
-poll-command-create-fail = Failed to create poll.
-poll-command-close-success = Poll {$id} has been closed.
-poll-command-list-no-polls = No active polls.
-poll-command-info-not-found = Poll {$id} not found.
+poll-command-create-success = ¡Encuesta creada correctamente!
+poll-command-create-fail = No se pudo crear la encuesta.
+poll-command-close-success = La encuesta {$id} ha sido cerrada.
+poll-command-list-no-polls = No hay encuestas activas.
+poll-command-info-not-found = Encuesta {$id} no encontrada.
 
 # Client Commands
-cmd-polls-desc = Opens the community polls window.
-cmd-polls-help = Usage: polls
+cmd-polls-desc = Abre la ventana de encuestas de la comunidad.
+cmd-polls-help = Uso: polls

@@ -4,4 +4,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 salvage-faction-xenos = Xenos
-salvage-faction-carps = Carps
+salvage-faction-carps = Carpas

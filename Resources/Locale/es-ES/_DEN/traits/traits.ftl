@@ -1,2 +1,2 @@
 trait-name-Nehina = Nēhina
-trait-description-Nehina =  A language spoken by the Feroxi, well adapted to speaking under the waters of ocean planets.
+trait-description-Nehina = Un idioma hablado por los Feroxi, bien adaptado para comunicarse bajo las aguas de planetas oceánicos.

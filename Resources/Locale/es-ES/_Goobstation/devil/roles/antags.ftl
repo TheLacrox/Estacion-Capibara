@@ -1,3 +1,3 @@
-roles-antag-devil-name = Devil
-roles-antag-devil-description = Use your wit and silver tongue to trick crew members into devilish deals.
-roles-antag-devilmidround-name = Devil Midround
+roles-antag-devil-name = Diablo
+roles-antag-devil-description = Usa tu ingenio y lengua de plata para engañar a los tripulantes en tratos diabólicos.
+roles-antag-devilmidround-name = Diablo a Mitad de Ronda

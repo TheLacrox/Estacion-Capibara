@@ -7,11 +7,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-rule-suspicion-added-announcement = There are traitors on the station! Find them, and kill them!
-rule-suspicion-traitor-time-has-run-out = Time has run out for the traitors!
-rule-suspicion-check-winner-stalemate = Everybody is dead, it's a stalemate!
-rule-suspicion-check-winner-station-win = The traitors are dead! The innocents win.
-rule-suspicion-check-winner-traitor-win = The innocents are dead! The traitors win.
-rule-suspicion-end-round-innocents-victory = The innocents have won!
-rule-suspicion-end-round-traitors-victory = The traitors have won!
-rule-suspicion-end-round-nobody-victory = Nobody wins!
+rule-suspicion-added-announcement = ¡Hay traidores en la estación! ¡Encuéntrakos y mátalos!
+rule-suspicion-traitor-time-has-run-out = ¡Se acabó el tiempo para los traidores!
+rule-suspicion-check-winner-stalemate = ¡Todos están muertos, es un empate!
+rule-suspicion-check-winner-station-win = ¡Los traidores están muertos! Los inocentes ganan.
+rule-suspicion-check-winner-traitor-win = ¡Los inocentes están muertos! Los traidores ganan.
+rule-suspicion-end-round-innocents-victory = ¡Los inocentes han ganado!
+rule-suspicion-end-round-traitors-victory = ¡Los traidores han ganado!
+rule-suspicion-end-round-nobody-victory = ¡Nadie gana!

@@ -1,100 +1,100 @@
 # Chest
 
-marking-DionaFirefly = Fireflies
-marking-DionaFirefly-firefly = Fireflies
+marking-DionaFirefly = Luciérnagas
+marking-DionaFirefly-firefly = Luciérnagas
 
-marking-DionaFlowersBody-flowers1 = Vine
-marking-DionaFlowersBody-flowers2 = Flowers
+marking-DionaFlowersBody-flowers1 = Enredadera
+marking-DionaFlowersBody-flowers2 = Flores
 
-marking-DionaLivingNymph = Living Nymphs
-marking-DionaLivingNymph-livingnymph = Living Nymphs
+marking-DionaLivingNymph = Ninfas Vivas
+marking-DionaLivingNymph-livingnymph = Ninfas Vivas
 
-marking-DionaMossChest = Moss Drape
-marking-DionaMossChest-moss = Moss Drape
+marking-DionaMossChest = Manto de Musgo
+marking-DionaMossChest-moss = Manto de Musgo
 
-marking-MycenaChest = Diona Fungal (Mycena)
+marking-MycenaChest = Hongo Diona (Mycena)
 marking-MycenaChest-mycena = Mycena
 
-marking-MycenaChestGlow = Diona Fungal (Glowing Mycena)
+marking-MycenaChestGlow = Hongo Diona (Mycena Brillante)
 marking-MycenaChestGlow-mycena = Mycena
 
-marking-ShelfChest = Diona Fungal (Shelf)
-marking-ShelfChest-shelf = Shelf
+marking-ShelfChest = Hongo Diona (Repisa)
+marking-ShelfChest-shelf = Repisa
 
 # Head
 
-marking-Amanita = Diona Fungal (Amanita)
-marking-Amanita-amanita1 = Cap
-marking-Amanita-amanita2 = Spots and Gills
+marking-Amanita = Hongo Diona (Amanita)
+marking-Amanita-amanita1 = Sombrero
+marking-Amanita-amanita2 = Manchas y Laminillas
 
-marking-DionaBigFirefly = Big Fireflies
-marking-DionaBigFirefly-bigfirefly = Big Fireflies
+marking-DionaBigFirefly = Luciérnagas Grandes
+marking-DionaBigFirefly-bigfirefly = Luciérnagas Grandes
 
-marking-DionaPollenDust = Pollen Cloud
-marking-DionaPollenDust-pollendust = Pollen Cloud
+marking-DionaPollenDust = Nube de Polen
+marking-DionaPollenDust-pollendust = Nube de Polen
 
-marking-DionaFlowersHead-flowers1 = Stems
-marking-DionaFlowersHead-flowers2 = Flowers
+marking-DionaFlowersHead-flowers1 = Tallos
+marking-DionaFlowersHead-flowers2 = Flores
 
-marking-DionaBloomHead-bloom1 = Stem
-marking-DionaBloomHead-bloom2 = Flower
+marking-DionaBloomHead-bloom1 = Tallo
+marking-DionaBloomHead-bloom2 = Flor
 
-marking-DionaCornflowerHead-cornflower1 = Leaves
-marking-DionaCornflowerHead-cornflower2 = Flowers (Inner)
-marking-DionaCornflowerHead-cornflower3 = Flowers
+marking-DionaCornflowerHead-cornflower1 = Hojas
+marking-DionaCornflowerHead-cornflower2 = Flores (Interior)
+marking-DionaCornflowerHead-cornflower3 = Flores
 
-marking-DionaGarlandHead-garland1 = Leaves
-marking-DionaGarlandHead-garland2 = Flowers (Inner)
-marking-DionaGarlandHead-garland3 = Flowers 1
-marking-DionaGarlandHead-garland4 = Flowers 2
-marking-DionaGarlandHead-garland5 = Flowers 3
+marking-DionaGarlandHead-garland1 = Hojas
+marking-DionaGarlandHead-garland2 = Flores (Interior)
+marking-DionaGarlandHead-garland3 = Flores 1
+marking-DionaGarlandHead-garland4 = Flores 2
+marking-DionaGarlandHead-garland5 = Flores 3
 
-marking-DionaKingHead-king1 = Stem
-marking-DionaKingHead-king2 = Flower
+marking-DionaKingHead-king1 = Tallo
+marking-DionaKingHead-king2 = Flor
 
-marking-DionaLotusHead-lotus1 = Stem
-marking-DionaLotusHead-lotus2 = Flower
+marking-DionaLotusHead-lotus1 = Tallo
+marking-DionaLotusHead-lotus2 = Flor
 
-marking-DionaRoseHead-rose1 = Stem
-marking-DionaRoseHead-rose2 = Flower
+marking-DionaRoseHead-rose1 = Tallo
+marking-DionaRoseHead-rose2 = Flor
 
-marking-DionaRoseyHead-rosey1 = Bush
-marking-DionaRoseyHead-rosey2 = Flowers (Inner)
-marking-DionaRoseyHead-rosey3= Flowers
+marking-DionaRoseyHead-rosey1 = Arbusto
+marking-DionaRoseyHead-rosey2 = Flores (Interior)
+marking-DionaRoseyHead-rosey3= Flores
 
-marking-DionaSpinnerHeadSide-spinner1 = Roots
-marking-DionaSpinnerHeadSide-spinner2 = Eyes
+marking-DionaSpinnerHeadSide-spinner1 = Raíces
+marking-DionaSpinnerHeadSide-spinner2 = Ojos
 
-marking-DionaSproutHeadSide-sprout1= Primary
-marking-DionaSproutHeadSide-sprout2 = Secondary
+marking-DionaSproutHeadSide-sprout1= Principal
+marking-DionaSproutHeadSide-sprout2 = Secundario
 
-marking-DionaVineHeadTop-vine1 = Root
-marking-DionaVineHeadTop-vine2 = Vines
+marking-DionaVineHeadTop-vine1 = Raíz
+marking-DionaVineHeadTop-vine2 = Enredaderas
 
-marking-DionaVinelHead-vinel1 = Primary
-marking-DionaVinelHead-vinel2 = Secondary
+marking-DionaVinelHead-vinel1 = Principal
+marking-DionaVinelHead-vinel2 = Secundario
 
-marking-DionaVinesHead-vines1 = Primary
-marking-DionaVinesHead-vines2 = Secondary
+marking-DionaVinesHead-vines1 = Principal
+marking-DionaVinesHead-vines2 = Secundario
 
-marking-DionaWildflowerHead-wildflower1 = Leaves
-marking-DionaWildflowerHead-wildflower2 = Flowers (Inner)
-marking-DionaWildflowerHead-wildflower3= Flowers 1
-marking-DionaWildflowerHead-wildflower4 = Flowers 2
-marking-DionaWildflowerHead-wildflower5 = Flowers 3
-marking-DionaWildflowerHead-wildflower6 = Flowers 4
+marking-DionaWildflowerHead-wildflower1 = Hojas
+marking-DionaWildflowerHead-wildflower2 = Flores (Interior)
+marking-DionaWildflowerHead-wildflower3= Flores 1
+marking-DionaWildflowerHead-wildflower4 = Flores 2
+marking-DionaWildflowerHead-wildflower5 = Flores 3
+marking-DionaWildflowerHead-wildflower6 = Flores 4
 
-marking-JackHead = Diona Fungal (Jack o' Lantern)
-marking-JackHead-jack = Pumpkin
+marking-JackHead = Hongo Diona (Linterna de Calabaza)
+marking-JackHead-jack = Calabaza
 
-marking-MycenaHead = Diona Fungal (Mycena)
+marking-MycenaHead = Hongo Diona (Mycena)
 marking-MycenaHead-mycena = Mycena
 
-marking-MycenaHeadGlow = Diona Fungal (Glowing Mycena)
+marking-MycenaHeadGlow = Hongo Diona (Mycena Brillante)
 marking-MycenaHeadGlow-mycena = Mycena
 
-marking-ShelfHead = Diona Fungal (Shelf)
-marking-ShelfHead-shelf = Shelf
+marking-ShelfHead = Hongo Diona (Repisa)
+marking-ShelfHead-shelf = Repisa
 
 # Snout
 
@@ -104,10 +104,10 @@ marking-ShelfHead-shelf = Shelf
 
 # LArm
 
-marking-MycenaArm = Diona Fungal (Mycena)
+marking-MycenaArm = Hongo Diona (Mycena)
 marking-MycenaArm-mycena = Mycena
 
-marking-MycenaArmGlow = Diona Fungal (Glowing Mycena)
+marking-MycenaArmGlow = Hongo Diona (Mycena Brillante)
 marking-MycenaArmGlow-mycena = Mycena
 
 # RLeg
@@ -134,8 +134,8 @@ marking-MycenaArmGlow-mycena = Mycena
 
 # HeadTop
 
-marking-DionaMoonBloom = Moon Bloom
-marking-DionaMoonBloom-dionamoonbloom = Moon Bloom
+marking-DionaMoonBloom = Flor de Luna
+marking-DionaMoonBloom-dionamoonbloom = Flor de Luna
 
 # Tail
 

@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-clf3-it-burns = It burns like hell!!
-clf3-get-away = You need to get away now!
-clf3-explosion = The mixture fireballs outwards!
+clf3-it-burns = ¡Arde como el infierno!!
+clf3-get-away = ¡Tienes que huir ahora mismo!
+clf3-explosion = ¡La mezcla explota en una bola de fuego!

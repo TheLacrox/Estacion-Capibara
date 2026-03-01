@@ -1,25 +1,25 @@
-wraith-plaguerat-eat-not-satisfy = You can't eat that, it doesn't satisfy your appetite.
-wraith-plaguerat-eat-interrupt = You were interrupted!
-wraith-plaguerat-eat-you-start = You start eating { $target }!
-wraith-plaguerat-eat-you-finish = You finish eating { $target }!
+wraith-plaguerat-eat-not-satisfy = No puedes comer eso, no satisface tu apetito.
+wraith-plaguerat-eat-interrupt = ¡Has sido interrumpido!
+wraith-plaguerat-eat-you-start = ¡Empiezas a comer { $target }!
+wraith-plaguerat-eat-you-finish = ¡Terminas de comer { $target }!
 
-wraith-plaguerat-bite-you-message = You bite { $target }!
+wraith-plaguerat-bite-you-message = ¡Muerdes a { $target }!
 
-ghost-role-information-plagurat-name = Diseased Rat
-ghost-role-information-plaguerat-description = Summoned by the Wraith, you are small, weak, starving. Grow by eating trash and spread the plague to all these pesky crewmembers trying to get in your way!
+ghost-role-information-plagurat-name = Rata Apestada
+ghost-role-information-plaguerat-description = Invocada por el Espectro, eres pequeña, débil y hambrienta. ¡Crece comiendo basura y extiende la plaga a todos esos molestos tripulantes que se interponen en tu camino!
 
 # Unused
 
-wraith-plaguerat-eat-too-far = That is too far away to eat.
-wraith-plaguerat-eat-nothing = There is nothing to eat here.
-wraith-plaguerat-eat-start = [M] begins eating [current_target]!
-wraith-plaguerat-eat-finish = [P] eats [current_target]!
+wraith-plaguerat-eat-too-far = Eso está demasiado lejos para comer.
+wraith-plaguerat-eat-nothing = No hay nada que comer aquí.
+wraith-plaguerat-eat-start = [M] empieza a comer [current_target]!
+wraith-plaguerat-eat-finish = [P] come [current_target]!
 
-wraith-plaguerat-bite-nothing = Nothing to bite there.
-wraith-plaguerat-bite-too-far = That is too far away to bite.
-wraith-plaguerat-bite-cant-bite = You definitely can't bite through [P.loc].
-wraith-plaguerat-bite-message = [holder.owner] bites [MT]!
+wraith-plaguerat-bite-nothing = No hay nada que morder ahí.
+wraith-plaguerat-bite-too-far = Eso está demasiado lejos para morder.
+wraith-plaguerat-bite-cant-bite = Definitivamente no puedes morder a través de [P.loc].
+wraith-plaguerat-bite-message = [holder.owner] muerde a [MT]!
 
-wraith-plaguerat-spawn-den-new = You spawn a rat den.
-wraith-plaguerat-spawn-den-destroyed = You had an old rat den, it is now destroyed.
-wraith-plaguerat-spawn-den-new-again = You spawn a new rat den
+wraith-plaguerat-spawn-den-new = Creas una guarida de ratas.
+wraith-plaguerat-spawn-den-destroyed = Tenías una guarida de ratas antigua, ahora ha sido destruida.
+wraith-plaguerat-spawn-den-new-again = Creas una nueva guarida de ratas

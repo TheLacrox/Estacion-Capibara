@@ -15,37 +15,37 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-carpetium = carpetium
-reagent-desc-carpetium = A mystical chemical, usually outsourced from the Clown Planet, that covers everything it touches in carpet. Somehow filters out carpotoxin from the blood stream.
+reagent-desc-carpetium = Un químico místico, generalmente importado del Planeta Payaso, que cubre todo lo que toca con moqueta. De algún modo filtra la carpotoxina del torrente sanguíneo.
 
-reagent-name-fiber = fiber
-reagent-desc-fiber = A raw material, usually extracted from wool or other fabric products.
+reagent-name-fiber = fibra
+reagent-desc-fiber = Una materia prima, generalmente extraída de la lana u otros productos textiles.
 
-reagent-name-buzzochloric-bees = buzzochloric bees
-reagent-desc-buzzochloric-bees = Liquid bees. Oh god it's LIQUID BEES NO-
+reagent-name-buzzochloric-bees = abejas buzoclorinas
+reagent-desc-buzzochloric-bees = Abejas líquidas. Dios mío, son ABEJAS LÍQUIDAS. NO-
 
-reagent-name-ground-bee = ground Bee
-reagent-desc-ground-bee = Bee grounds. Gross.
+reagent-name-ground-bee = abeja molida
+reagent-desc-ground-bee = Posos de abeja. Asqueroso.
 
-reagent-name-saxoite = saxoite
-reagent-desc-saxoite = Smells like jazz.
+reagent-name-saxoite = saxoíta
+reagent-desc-saxoite = Huele a jazz.
 
-reagent-name-licoxide = licoxide
-reagent-desc-licoxide = A synthetic battery acid. It looks... electrifying.
+reagent-name-licoxide = licóxido
+reagent-desc-licoxide = Un ácido de batería sintético. Parece... electrizante.
 
-reagent-name-razorium = razorium
-reagent-desc-razorium = A strange, non-newtonian chemical. It is produced when two conflicting brute medications are combined. When force is applied to it, it temporarily hardens creating millions of tiny, sharp edges. Very painful.
+reagent-name-razorium = razorio
+reagent-desc-razorium = Un extraño químico no newtoniano. Se produce cuando se combinan dos medicamentos de fuerza bruta conflictivos. Cuando se le aplica fuerza, se endurece temporalmente creando millones de pequeños bordes afilados. Muy doloroso.
 
 reagent-name-fresium = Fresium
-reagent-desc-fresium = A mysterious compound that slows the vibration of atoms and molecules... somehow. In layman's terms, it makes things cold... REALLY cold. Can cause long-lasting movement issues if ingested.
+reagent-desc-fresium = Un misterioso compuesto que ralentiza la vibración de átomos y moléculas... de algún modo. En términos sencillos, enfría las cosas... MUCHO. Puede causar problemas de movimiento duraderos si se ingiere.
 
-reagent-name-laughter = laughter
-reagent-desc-laughter = Some say that this is the best medicine, but recent studies have proven that to be untrue.
+reagent-name-laughter = risa
+reagent-desc-laughter = Algunos dicen que es la mejor medicina, pero estudios recientes han demostrado que eso no es cierto.
 
-reagent-name-weh = juice that makes you Weh
-reagent-desc-weh = Pure essence of lizard plush. Makes you Weh!
+reagent-name-weh = zumo que te hace decir Weh
+reagent-desc-weh = Esencia pura de peluche de lagarto. ¡Te hace decir Weh!
 
-reagent-name-hew = juice that makes you Hew
-reagent-desc-hew = Pure essence of inversed lizard plush. Makes you Hew!
+reagent-name-hew = zumo que te hace decir Hew
+reagent-desc-hew = Esencia pura de peluche de lagarto invertido. ¡Te hace decir Hew!
 
 reagent-name-corgiessence = corgium
-reagent-desc-corgiessence = Tastes like dog food. Clearly an acquired taste.
+reagent-desc-corgiessence = Sabe a comida para perros. Claramente un gusto adquirido.

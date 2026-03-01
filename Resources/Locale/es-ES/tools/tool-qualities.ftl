@@ -12,44 +12,44 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tool-quality-anchoring-name = Anchoring
-tool-quality-anchoring-tool-name = Wrench
+tool-quality-anchoring-name = Anclaje
+tool-quality-anchoring-tool-name = Llave inglesa
 
-tool-quality-prying-name = Prying
-tool-quality-prying-tool-name = Crowbar
+tool-quality-prying-name = Palanca
+tool-quality-prying-tool-name = Palanca
 
-tool-quality-screwing-name = Screwing
-tool-quality-screwing-tool-name = Screwdriver
+tool-quality-screwing-name = Atornillado
+tool-quality-screwing-tool-name = Destornillador
 
-tool-quality-cutting-name = Cutting
-tool-quality-cutting-tool-name = Wirecutter
+tool-quality-cutting-name = Corte
+tool-quality-cutting-tool-name = Cortacables
 
-tool-quality-welding-name = Welding
-tool-quality-welding-tool-name = Welder
+tool-quality-welding-name = Soldadura
+tool-quality-welding-tool-name = Soldadora
 
-tool-quality-pulsing-name = Pulsing
-tool-quality-pulsing-tool-name = Multitool
+tool-quality-pulsing-name = Pulso
+tool-quality-pulsing-tool-name = Multímetro
 
-tool-quality-slicing-name = Slicing
-tool-quality-slicing-tool-name = Knife
+tool-quality-slicing-name = Rebanado
+tool-quality-slicing-tool-name = Cuchillo
 
-tool-quality-ignition-name = Ignition
-tool-quality-ignition-tool-name = Match
+tool-quality-ignition-name = Ignición
+tool-quality-ignition-tool-name = Cerilla
 
-tool-quality-sawing-name = Sawing
-tool-quality-sawing-tool-name = Saw
+tool-quality-sawing-name = Serrado
+tool-quality-sawing-tool-name = Sierra
 
-tool-quality-honking-name = Honking
-tool-quality-honking-tool-name = Bike Horn
+tool-quality-honking-name = Bocina
+tool-quality-honking-tool-name = Claxon de bicicleta
 
-tool-quality-woodcutting-name = Woodcutting
-tool-quality-woodcutting-tool-name = Hatchet
+tool-quality-woodcutting-name = Leña
+tool-quality-woodcutting-tool-name = Hacha
 
-tool-quality-rolling-name = Rolling
-tool-quality-rolling-tool-name = Rolling Pin
+tool-quality-rolling-name = Amasado
+tool-quality-rolling-tool-name = Rodillo de cocina
 
-tool-quality-digging-name = Digging
-tool-quality-digging-tool-name = Shovel
+tool-quality-digging-name = Excavación
+tool-quality-digging-tool-name = Pala
 
-tool-quality-brushing-name = Brushing
-tool-quality-brushing-tool-name = Wire Brush
+tool-quality-brushing-name = Cepillado
+tool-quality-brushing-tool-name = Cepillo de alambre

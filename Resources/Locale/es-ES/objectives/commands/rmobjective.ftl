@@ -1,14 +1,14 @@
 # addobjectives
-cmd-rmobjective-desc = Removes an objective from the player's mind.
-cmd-rmobjective-help = rmobjective <username> <index>
+cmd-rmobjective-desc = Elimina un objetivo de la mente del jugador.
+cmd-rmobjective-help = rmobjective <nombre de usuario> <índice>
 
-cmd-rmobjective-invalid-args = Expected exactly 2 arguments.
-cmd-rmobjective-player-not-found = Can't find the playerdata.
-cmd-rmobjective-mind-not-found = Can't find the mind.
-cmd-rmobjective-success = Objective successfully removed!
-cmd-rmobjective-failed = Objective removing failed. Maybe the index is out of bounds? Check lsobjectives!
-cmd-rmobjective-invalid-index = Could not parse index { $index } as an integer.
-cmd-rmobjective-invalid-objective-info = INVALID
+cmd-rmobjective-invalid-args = Se esperaban exactamente 2 argumentos.
+cmd-rmobjective-player-not-found = No se pueden encontrar los datos del jugador.
+cmd-rmobjective-mind-not-found = No se puede encontrar la mente.
+cmd-rmobjective-success = ¡Objetivo eliminado con éxito!
+cmd-rmobjective-failed = Fallo al eliminar el objetivo. ¿Quizás el índice está fuera de rango? ¡Comprueba lsobjectives!
+cmd-rmobjective-invalid-index = No se pudo interpretar el índice { $index } como un número entero.
+cmd-rmobjective-invalid-objective-info = INVÁLIDO
 
-cmd-rmobjective-player-completion = <Player>
-cmd-rmobjective-index-completion = <Index>
+cmd-rmobjective-player-completion = <Jugador>
+cmd-rmobjective-index-completion = <Índice>

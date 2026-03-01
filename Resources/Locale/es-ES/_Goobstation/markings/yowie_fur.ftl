@@ -4,31 +4,31 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-YowieFur = Yowie body fur
+marking-YowieFur = Pelaje corporal de Yowie
 
-marking-YowieFurHead = Yowie head fur
-marking-YowieFurHead-yowie_fur_head = Yowie head fur
+marking-YowieFurHead = Pelaje de cabeza de Yowie
+marking-YowieFurHead-yowie_fur_head = Pelaje de cabeza de Yowie
 
-marking-YowieFurChest = Yowie chest fur
-marking-YowieFurChest-yowie_fur_chest = Yowie chest fur
+marking-YowieFurChest = Pelaje de pecho de Yowie
+marking-YowieFurChest-yowie_fur_chest = Pelaje de pecho de Yowie
 
-marking-YowieFurGroin = Yowie groin fur
-marking-YowieFurGroin-yowie_fur_groin = Yowie groin fur
+marking-YowieFurGroin = Pelaje de ingle de Yowie
+marking-YowieFurGroin-yowie_fur_groin = Pelaje de ingle de Yowie
 
-marking-YowieFurArmRight = Yowie right arm fur
-marking-YowieFurArmRight-yowie_fur_arm_right = Yowie right arm fur
+marking-YowieFurArmRight = Pelaje del brazo derecho de Yowie
+marking-YowieFurArmRight-yowie_fur_arm_right = Pelaje del brazo derecho de Yowie
 
-marking-YowieFurArmLeft = Yowie left arm fur
-marking-YowieFurArmLeft-yowie_fur_arm_left = Yowie left arm fur
+marking-YowieFurArmLeft = Pelaje del brazo izquierdo de Yowie
+marking-YowieFurArmLeft-yowie_fur_arm_left = Pelaje del brazo izquierdo de Yowie
 
-marking-YowieFurLegRight = Yowie right leg fur
-marking-YowieFurLegRight-yowie_fur_leg_right = Yowie right leg fur
+marking-YowieFurLegRight = Pelaje de la pierna derecha de Yowie
+marking-YowieFurLegRight-yowie_fur_leg_right = Pelaje de la pierna derecha de Yowie
 
-marking-YowieFurLegLeft = Yowie left leg fur
-marking-YowieFurLegLeft-yowie_fur_leg_left = Yowie left leg fur
+marking-YowieFurLegLeft = Pelaje de la pierna izquierda de Yowie
+marking-YowieFurLegLeft-yowie_fur_leg_left = Pelaje de la pierna izquierda de Yowie
 
-marking-YowieFurFeetRight = Yowie right foot fur
-marking-YowieFurFeetRight-yowie_fur_feet_right = Yowie right foot fur
+marking-YowieFurFeetRight = Pelaje del pie derecho de Yowie
+marking-YowieFurFeetRight-yowie_fur_feet_right = Pelaje del pie derecho de Yowie
 
-marking-YowieFurFeetLeft = Yowie left foot fur
-marking-YowieFurFeetLeft-yowie_fur_feet_left = Yowie left foot fur
+marking-YowieFurFeetLeft = Pelaje del pie izquierdo de Yowie
+marking-YowieFurFeetLeft-yowie_fur_feet_left = Pelaje del pie izquierdo de Yowie

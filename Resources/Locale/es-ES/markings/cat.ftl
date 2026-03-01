@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-marking-CatEars = Cat Ears
-marking-CatTail = Cat Tail
+marking-CatEars = Orejas de gato
+marking-CatTail = Cola de gato

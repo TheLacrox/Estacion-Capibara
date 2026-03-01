@@ -4,158 +4,158 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-book-cnc-sheet = C&C 5e Character Sheet
+book-cnc-sheet = Hoja de personaje de C&C 5e
     --------------------------------------------------------------------------------------
-    SECTION 1:  THE BASICS
+    SECCIÓN 1:  LO BÁSICO
     --------------------------------------------------------------------------------------
-    Character Name  :
-    Race / Class    :
-    Level / Exp Pts :
-    Background      :
-
-    --------------------------------------------------------------------------------------
-    SECTION 2: ABILITIES
-    --------------------------------------------------------------------------------------
-    Strength     =     10   (+0) 10 Base
-    Dexterity    =     10   (+0) 10 Base
-    Constitution =     10   (+0) 10 Base
-    Intelligence =     10   (+0) 10 Base
-    Wisdom       =     10   (+0) 10 Base
-    Charisma     =     10   (+0) 10 Base
-
-    Proficiency Bonus =
-    Perception (passive wisdom) =
-
-    Racial (Race)
-
-    Class (Class)
-
+    Nombre del personaje :
+    Raza / Clase         :
+    Nivel / Puntos Exp   :
+    Trasfondo            :
 
     --------------------------------------------------------------------------------------
-    SECTION 3:  SAVING THROWS
+    SECCIÓN 2: ATRIBUTOS
     --------------------------------------------------------------------------------------
+    Fuerza        =     10   (+0) 10 Base
+    Destreza      =     10   (+0) 10 Base
+    Constitución  =     10   (+0) 10 Base
+    Inteligencia  =     10   (+0) 10 Base
+    Sabiduría     =     10   (+0) 10 Base
+    Carisma       =     10   (+0) 10 Base
 
-    ( )Strength     =      +0
-    ( )Dexterity    =      +0
-    ( )Constitution =      +0
-    ( )Intelligence =      +0
-    ( )Wisdom       =      +0
-    ( )Charisma     =      +0
+    Bonificador de competencia =
+    Percepción (sabiduría pasiva) =
+
+    Racial (Raza)
+
+    Clase (Clase)
 
 
     --------------------------------------------------------------------------------------
-    SECTION 4:  SKILLS
+    SECCIÓN 3:  TIRADAS DE SALVACIÓN
     --------------------------------------------------------------------------------------
 
-    ( )  Acrobatics (Dex)      +0       ( )  Medicine (Wis)        +0
-    ( )  Animal Handling (Wis) +0       ( )  Nature (Int)          +0
-    ( )  Arcana (Int)          +0       ( )  Perception (Wis)      +0
-    ( )  Athletics  (Str)      +0       ( )  Performance (Cha)     +0
-    ( )  Deception (Cha)       +0       ( )  Persuasion (Cha)      +0
-    ( )  History (Int)         +0       ( )  Religion (Int)        +0
-    ( )  Insight (Wis)         +0       ( )  Sleight of Hand (Dex) +0
-    ( )  Intimidation (Cha)    +0       ( )  Stealth (Dex)         +0
-    ( )  Investigation (Int)   +0       ( )  Survival (Wis)        +0
+    ( )Fuerza        =      +0
+    ( )Destreza      =      +0
+    ( )Constitución  =      +0
+    ( )Inteligencia  =      +0
+    ( )Sabiduría     =      +0
+    ( )Carisma       =      +0
 
 
     --------------------------------------------------------------------------------------
-    SECTION 5:  COMBAT & HEALTH
+    SECCIÓN 4:  HABILIDADES
+    --------------------------------------------------------------------------------------
+
+    ( )  Acrobacias (Des)        +0       ( )  Medicina (Sab)          +0
+    ( )  Trato con animales (Sab)+0       ( )  Naturaleza (Int)        +0
+    ( )  Arcanos (Int)           +0       ( )  Percepción (Sab)        +0
+    ( )  Atletismo (Fue)         +0       ( )  Actuación (Car)         +0
+    ( )  Engaño (Car)            +0       ( )  Persuasión (Car)        +0
+    ( )  Historia (Int)          +0       ( )  Religión (Int)          +0
+    ( )  Perspicacia (Sab)       +0       ( )  Juego de manos (Des)    +0
+    ( )  Intimidación (Car)      +0       ( )  Sigilo (Des)            +0
+    ( )  Investigación (Int)     +0       ( )  Supervivencia (Sab)     +0
+
+
+    --------------------------------------------------------------------------------------
+    SECCIÓN 5:  COMBATE Y SALUD
     --------------------------------------------------------------------------------------
 
 
-    Armor Class          :
-    Initiative (passive) :
-    Speed                :
+    Clase de armadura    :
+    Iniciativa (pasiva)  :
+    Velocidad            :
 
-    Hit Dice             :
-    Max Hit Points       :
-    Current Hit Points   :
-    Temporary Hit Points :
+    Dados de golpe       :
+    Puntos de golpe máx. :
+    Puntos de golpe act. :
+    Puntos de golpe temp.:
 
-    ATTACKS
-    Weapon type(Melee or Ranged)   /   Bonus   /   Damage (Type)
-
-    --------------------------------------------------------------------------------------
-    SECTION 6:  BACKGROUND
-    --------------------------------------------------------------------------------------
-
-    Age / Gender         :
-    Height / Weight      :
-    Eyes / Skin / Hair   :
-    Description          :
-
-    Background           :
-    Skill Proficiencies  :
-    Tool Proficiencies   :
-    Languages            :
-
-    Features             :
-    Con of Choice        :
-    Traits               :
-    Ideal                :
-    Bonds                :
-    Flaws                :
+    ATAQUES
+    Tipo de arma (Cuerpo a cuerpo o a distancia)   /   Bonificador   /   Daño (Tipo)
 
     --------------------------------------------------------------------------------------
-    SECTION 7: EXTRAS
+    SECCIÓN 6:  TRASFONDO
     --------------------------------------------------------------------------------------
-    Equipment List
-    Description                 Cost       Weight
+
+    Edad / Género          :
+    Altura / Peso          :
+    Ojos / Piel / Cabello  :
+    Descripción            :
+
+    Trasfondo              :
+    Competencias de habilidad :
+    Competencias de herramienta :
+    Idiomas                :
+
+    Rasgos                 :
+    Con de elección        :
+    Características        :
+    Ideal                  :
+    Vínculos               :
+    Defectos               :
+
+    --------------------------------------------------------------------------------------
+    SECCIÓN 7: EXTRAS
+    --------------------------------------------------------------------------------------
+    Lista de equipamiento
+    Descripción                 Coste       Peso
 
 
-    lbs
+    libras
 
-    Wealth
+    Riqueza
     PP         :
     EP         :
-    GP         :
-    SP         :
-    CP         :
+    PO         :
+    PP         :
+    PC         :
 
-    Gems         :
-    Jewelry      :
-    Other        :
-    Magic Items  :
+    Gemas        :
+    Joyas        :
+    Otros        :
+    Objetos mágicos :
 
 
     --------------------------------------------------------------------------------------
-    SECTION 8: SPELLCASTING
+    SECCIÓN 8: LANZAMIENTO DE CONJUROS
     --------------------------------------------------------------------------------------
 
-    Spell Level:
-    Spell Save DC:
-    Spell Attack Mod:
-    Spell Slots:
-      1: (MAX) (USED)
-      2: (MAX) (USED)
-      3: (MAX) (USED)
-      4: (MAX) (USED)
-      5: (MAX) (USED)
-      6: (MAX) (USED)
-      7: (MAX) (USED)
-      8: (MAX) (USED)
-      9: (MAX) (USED)
+    Nivel de conjuro:
+    CD de salvación de conjuro:
+    Modificador de ataque de conjuro:
+    Espacios de conjuro:
+      1: (MÁX) (USADOS)
+      2: (MÁX) (USADOS)
+      3: (MÁX) (USADOS)
+      4: (MÁX) (USADOS)
+      5: (MÁX) (USADOS)
+      6: (MÁX) (USADOS)
+      7: (MÁX) (USADOS)
+      8: (MÁX) (USADOS)
+      9: (MÁX) (USADOS)
 
-    Cantrips
-    Name  Casting Time  Range  Duration  Components
+    Trucos
+    Nombre  Tiempo de lanzamiento  Alcance  Duración  Componentes
 
-    1: Name  Casting Time  Range  Duration  Components  Ritual?
+    1: Nombre  Tiempo de lanzamiento  Alcance  Duración  Componentes  ¿Ritual?
 
-    2: Name  Casting Time  Range  Duration  Components  Ritual?
+    2: Nombre  Tiempo de lanzamiento  Alcance  Duración  Componentes  ¿Ritual?
 
-    3: Name  Casting Time  Range  Duration  Components  Ritual?
+    3: Nombre  Tiempo de lanzamiento  Alcance  Duración  Componentes  ¿Ritual?
 
-    4: Name  Casting Time  Range  Duration  Components  Ritual?
+    4: Nombre  Tiempo de lanzamiento  Alcance  Duración  Componentes  ¿Ritual?
 
-    5: Name  Casting Time  Range  Duration  Components  Ritual?
+    5: Nombre  Tiempo de lanzamiento  Alcance  Duración  Componentes  ¿Ritual?
 
-    6: Name  Casting Time  Range  Duration  Components  Ritual?
+    6: Nombre  Tiempo de lanzamiento  Alcance  Duración  Componentes  ¿Ritual?
 
-    7: Name  Casting Time  Range  Duration  Components  Ritual?
+    7: Nombre  Tiempo de lanzamiento  Alcance  Duración  Componentes  ¿Ritual?
 
-    8: Name  Casting Time  Range  Duration  Components  Ritual?
+    8: Nombre  Tiempo de lanzamiento  Alcance  Duración  Componentes  ¿Ritual?
 
-    9: Name  Casting Time  Range  Duration  Components  Ritual?
+    9: Nombre  Tiempo de lanzamiento  Alcance  Duración  Componentes  ¿Ritual?
     --------------------------------------------------------------------------------------
-    Carps and Crypts 5e
+    Carpas y Criptas 5e
 

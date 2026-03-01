@@ -28,79 +28,79 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-trait-blindness-name = Blindness
-trait-blindness-desc = You are legally blind, and can't see clearly past a few meters in front of you.
+trait-blindness-name = Ceguera
+trait-blindness-desc = Eres legalmente ciego y no puedes ver claramente a más de unos pocos metros frente a ti.
 
-trait-poor-vision-name = Short-sighted
-trait-poor-vision-desc = Your eyes are not what they once were, you have difficulty seeing things far away without corrective glasses.
+trait-poor-vision-name = Miopía
+trait-poor-vision-desc = Tus ojos ya no son lo que eran; tienes dificultades para ver cosas lejanas sin gafas correctoras.
 
-trait-narcolepsy-name = Narcolepsy
-trait-narcolepsy-desc = You fall asleep randomly.
+trait-narcolepsy-name = Narcolepsia
+trait-narcolepsy-desc = Te quedas dormido de forma aleatoria.
 
-trait-pacifist-name = Pacifist
-trait-pacifist-desc = You cannot attack or hurt any living beings.
+trait-pacifist-name = Pacifista
+trait-pacifist-desc = No puedes atacar ni herir a ningún ser vivo.
 
-permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} eyes are glassy and unfocused. It doesn't seem like {SUBJECT($target)} can see you well, if at all.[/color]
+permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} ojos están vidriosos y desenfocados. No parece que {SUBJECT($target)} pueda verte bien, si es que puede verte.[/color]
 
-trait-lightweight-name = Lightweight drunk
-trait-lightweight-desc = Alcohol has a stronger effect on you.
+trait-lightweight-name = Borracho fácil
+trait-lightweight-desc = El alcohol tiene un efecto más fuerte en ti.
 
-trait-monochromacy-name = Monochromacy
-trait-monochromacy-desc = You are fully colorblind, everything you perceive ranges from blacks to whites.
+trait-monochromacy-name = Monocromatismo
+trait-monochromacy-desc = Eres completamente daltónico, todo lo que percibes va de negros a blancos.
 
-trait-muted-name = Muted
-trait-muted-desc = You can't speak.
+trait-muted-name = Mudo
+trait-muted-desc = No puedes hablar.
 
 trait-paracusia-name = Paracusia
-trait-paracusia-desc = You hear sounds that aren't really there.
+trait-paracusia-desc = Escuchas sonidos que no están realmente ahí.
 
-trait-unrevivable-name = Unrevivable
-trait-unrevivable-desc = You are unable to be revived by defibrillators.
+trait-unrevivable-name = Irresucitable
+trait-unrevivable-desc = No puedes ser revivido por desfibriladores.
 
-trait-pirate-accent-name = Pirate accent
-trait-pirate-accent-desc = You can't stop speaking like a pirate!
+trait-pirate-accent-name = Acento pirata
+trait-pirate-accent-desc = ¡No puedes dejar de hablar como un pirata!
 
-trait-accentless-name = Accentless
-trait-accentless-desc = You don't have the accent that your species would usually have
+trait-accentless-name = Sin acento
+trait-accentless-desc = No tienes el acento que tu especie tendría normalmente
 
-trait-frontal-lisp-name = Frontal lisp
-trait-frontal-lisp-desc = You thpeak with a lithp.
+trait-frontal-lisp-name = Ceceo
+trait-frontal-lisp-desc = Hablas con zeceo.
 
-trait-socialanxiety-name = Stutter
-trait-socialanxiety-desc = You speak with a stutter.
+trait-socialanxiety-name = Tartamudez
+trait-socialanxiety-desc = Hablas tartamudeando.
 
-trait-southern-name = Southern drawl
-trait-southern-desc = You have a different way of speakin'.
+trait-southern-name = Acento sureño
+trait-southern-desc = Tienes una forma peculiar de hablar.
 
-trait-snoring-name = Snoring
-trait-snoring-desc = You will snore while sleeping.
+trait-snoring-name = Ronquidos
+trait-snoring-desc = Roncarás mientras duermes.
 
-trait-liar-name = Pathological liar
-trait-liar-desc = You can hardly bring yourself to tell the truth. Sometimes you lie anyway.
+trait-liar-name = Mentiroso patológico
+trait-liar-desc = Apenas puedes decir la verdad. A veces mientes de todas formas.
 
-trait-cowboy-name = Cowboy accent
-trait-cowboy-desc = You speak with a distinct cowboy accent!
+trait-cowboy-name = Acento vaquero
+trait-cowboy-desc = ¡Hablas con un marcado acento vaquero!
 
-trait-german-name = German accent
-trait-german-desc = You seem to come from space Germany.
+trait-german-name = Acento alemán
+trait-german-desc = Pareces venir de la Alemania espacial.
 
-trait-italian-name = Italian accent
-trait-italian-desc = Mamma mia! You seem to have lived in space Italy!
+trait-italian-name = Acento italiano
+trait-italian-desc = ¡Mamma mia! ¡Pareces haber vivido en la Italia espacial!
 
-trait-french-name = French accent
-trait-french-desc = Your accent seems to have a certain «je ne sais quoi».
+trait-french-name = Acento francés
+trait-french-desc = Tu acento parece tener cierto «je ne sais quoi».
 
-trait-spanish-name = Spanish accent
+trait-spanish-name = Acento español
 trait-spanish-desc = Hola señor, donde esta la biblioteca.
 
-trait-dementia-name = Dementia
-trait-dementia-desc = I-... uh, what was this one about again? Oh thats right! You forget a lot sometimes
+trait-dementia-name = Demencia
+trait-dementia-desc = Yo-... eh, ¿de qué iba esto? ¡Ah, sí! A veces olvidas muchas cosas.
 
-trait-painnumbness-name = Numb
-trait-painnumbness-desc = You lack any sense of feeling pain, being unaware of how hurt you may be.
+trait-painnumbness-name = Insensible
+trait-painnumbness-desc = No tienes ningún sentido del dolor, sin saber lo lastimado que puedes estar.
 
-trait-newyork-name = New York accent
-trait-newyork-desc = You speak with a thick New York accent. I'm fuckin' walkin' 'ere!
+trait-newyork-name = Acento neoyorquino
+trait-newyork-desc = Hablas con un fuerte acento neoyorquino. ¡Oye, voy andando por aquí!
 
-trait-british-name = British accent
-trait-british-desc = You speak proper, unlike those bloody yanks.
+trait-british-name = Acento británico
+trait-british-desc = Hablas correctamente, a diferencia de esos malditos yanquis.

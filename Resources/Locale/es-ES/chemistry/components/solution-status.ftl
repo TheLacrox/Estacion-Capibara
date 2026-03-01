@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-solution-status-volume = Volume: [color=white]{$currentVolume}/{$maxVolume}u[/color]
-solution-status-transfer = Transfer: [color=white]{$volume}u[/color]
+solution-status-volume = Volumen: [color=white]{$currentVolume}/{$maxVolume}u[/color]
+solution-status-transfer = Transferencia: [color=white]{$volume}u[/color]

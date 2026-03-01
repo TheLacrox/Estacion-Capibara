@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-forced-bonkable-success-message = { CAPITALIZE($bonker) } bonks {$victim}s head against { THE($bonkable) }!
+forced-bonkable-success-message = ¡{ CAPITALIZE($bonker) } golpea la cabeza de {$victim} contra { THE($bonkable) }!
 
-bonkable-success-message-user = You bonk your head against { THE($bonkable) }!
-bonkable-success-message-others = {$victim} bonks their head against { THE($bonkable) }!
+bonkable-success-message-user = ¡Golpeas tu cabeza contra { THE($bonkable) }!
+bonkable-success-message-others = ¡{$victim} golpea su cabeza contra { THE($bonkable) }!

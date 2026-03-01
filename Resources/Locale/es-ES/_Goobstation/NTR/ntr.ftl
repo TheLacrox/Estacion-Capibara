@@ -1,157 +1,157 @@
 # base
-store-currency-nt-loyalty-point = NT loyalty point
-store-preset-name-ntr = Executive briefcase store
+store-currency-nt-loyalty-point = punto de lealtad NT
+store-preset-name-ntr = Tienda del maletín ejecutivo
 
-ntr-scan-fail = ERROR: Item rejected by scanning protocol.
-ntr-scan-success = Successfully credited {$amount} loyalty points.
+ntr-scan-fail = ERROR: Artículo rechazado por el protocolo de escaneo.
+ntr-scan-success = Se han acreditado exitosamente {$amount} puntos de lealtad.
 # listing
 # station
 
-ntr-executive-spesos-small-name = Small spesos grant
-ntr-executive-spesos-small-desc = Receive a small monetary bonus from NanoTrasen for your hard work. As a good employee, you should give this to the quartermaster, right?
+ntr-executive-spesos-small-name = Pequeña subvención de spesos
+ntr-executive-spesos-small-desc = Recibe un pequeño bono monetario de NanoTrasen por tu arduo trabajo. Como buen empleado, deberías dárselo al quartermaster, ¿verdad?
 
-ntr-executive-disk-small-name = Small research grant
-ntr-executive-disk-small-desc = Receive a small research grant from NanoTrasen's lead research team, containing 10 data disks with research points.
+ntr-executive-disk-small-name = Pequeña subvención de investigación
+ntr-executive-disk-small-desc = Recibe una pequeña subvención de investigación del equipo de investigación principal de NanoTrasen, que contiene 10 discos de datos con puntos de investigación.
 
-ntr-executive-emergency-meds-name = Emergency medical supplies
-ntr-executive-emergency-meds-desc = A small crate containing trauma medkits. Be prepared to explain yourself after purchasing this.
+ntr-executive-emergency-meds-name = Suministros médicos de emergencia
+ntr-executive-emergency-meds-desc = Una pequeña caja que contiene botiquines de trauma. Prepárate para explicarte después de comprar esto.
 
-ntr-executive-disablers-name = Disablers crate
-ntr-executive-disablers-desc = A crate containing 3 disablers and 1 disabler SMG. NanoTrasen is not liable for any damages caused by these weapons.
+ntr-executive-disablers-name = Caja de inhabilitadores
+ntr-executive-disablers-desc = Una caja que contiene 3 inhabilitadores y 1 SMG inhabilitador. NanoTrasen no es responsable de ningún daño causado por estas armas.
 
-ntr-executive-mats-name = Order materials
-ntr-executive-mats-desc = Order construction materials from NanoTrasen's global cargo department.
+ntr-executive-mats-name = Pedir materiales
+ntr-executive-mats-desc = Pide materiales de construcción al departamento de cargo global de NanoTrasen.
 
-ntr-executive-tools-small-name = Generic tools crate
-ntr-executive-tools-small-desc = A crate containing basic engineering tools.
+ntr-executive-tools-small-name = Caja de herramientas genéricas
+ntr-executive-tools-small-desc = Una caja que contiene herramientas básicas de ingeniería.
 
-ntr-executive-pizza-small-name = Order a small pizza party
-ntr-executive-pizza-small-desc = Order a small pizza party bundle from NanoTrasen. As a good employee, you should share this with your coworkers... or eat it all yourself.
+ntr-executive-pizza-small-name = Pedir una pequeña fiesta de pizza
+ntr-executive-pizza-small-desc = Pide un pequeño paquete de fiesta de pizza a NanoTrasen. Como buen empleado, deberías compartirlo con tus compañeros... o comértelo todo tú solo.
 
 # personal
 
-ntr-executive-bsd-name = Call Blueshield Deputy
-ntr-executive-bsd-desc = Request a Blueshield deputy from Central Command. This personal guard for you or command staff requires valid justification. Only one may be called.
+ntr-executive-bsd-name = Llamar al Diputado Blueshield
+ntr-executive-bsd-desc = Solicitar un diputado Blueshield del Mando Central. Este guardia personal para ti o el personal de mando requiere justificación válida. Solo se puede llamar a uno.
 
-ntr-executive-softsuit-name = Order a softsuit
-ntr-executive-softsuit-desc = A basic softsuit designed for short-term space exposure. Offers minimal protection.
+ntr-executive-softsuit-name = Pedir un softsuit
+ntr-executive-softsuit-desc = Un softsuit básico diseñado para exposición espacial a corto plazo. Ofrece protección mínima.
 
-ntr-executive-hardsuit-name = Order a hardsuit
-ntr-executive-hardsuit-desc = A durable hardsuit for extreme environments. Are you sure this purchase is justified?
+ntr-executive-hardsuit-name = Pedir un hardsuit
+ntr-executive-hardsuit-desc = Un hardsuit duradero para entornos extremos. ¿Estás seguro de que esta compra está justificada?
 
-ntr-experimental-hardsuit-name = Order a hardsuit
-ntr-experimental-hardsuit-desc = Nanotrasen is testing an experimental exosuit built from Bluespace-conductive plates reverse-engineered from Cybersun’s Redspace Dread Suit, with live trials conducted under your supervision.
+ntr-experimental-hardsuit-name = Pedir un hardsuit
+ntr-experimental-hardsuit-desc = NanoTrasen está probando un exotraje experimental construido con placas conductoras de Bluespace reingeniadas del Traje de Terror Redspace de Cybersun, con pruebas en vivo realizadas bajo tu supervisión.
 
-ntr-executive-cigar-name = Premium cigar case
-ntr-executive-cigar-desc = A standard premium cigar case. Only executives are permitted to smoke these in public areas.
+ntr-executive-cigar-name = Caja de puros premium
+ntr-executive-cigar-desc = Una caja estándar de puros premium. Solo los ejecutivos tienen permitido fumarlos en áreas públicas.
 
-ntr-executive-whiskey-name = Premium whiskey
-ntr-executive-whiskey-desc = A full bottle of premium whiskey, distilled in 2879 in Space Spain from the last non-synthetic grapes in existence.
+ntr-executive-whiskey-name = Whiskey premium
+ntr-executive-whiskey-desc = Una botella completa de whiskey premium, destilado en 2879 en España Espacial a partir de las últimas uvas no sintéticas existentes.
 
-ntr-executive-glasses-name = CentComm glasses
-ntr-executive-glasses-desc = For when you need to look more important than you actually are.
+ntr-executive-glasses-name = Gafas de CentComm
+ntr-executive-glasses-desc = Para cuando necesitas parecer más importante de lo que realmente eres.
 
-ntr-executive-savaliniaharunianisimious-name = Svalinn laser pistol
-ntr-executive-savaliniaharunianisimious-desc = A standard Svalinn laser pistol, commonly used in NanoTrasen self-defense training programs.
+ntr-executive-savaliniaharunianisimious-name = Pistola láser Svalinn
+ntr-executive-savaliniaharunianisimious-desc = Una pistola láser Svalinn estándar, comúnmente usada en los programas de autodefensa de NanoTrasen.
 
-ntr-executive-1984-name = Deckard revolver
-ntr-executive-1984-desc = A standard Deckard sidearm for personal defense.
+ntr-executive-1984-name = Revólver Deckard
+ntr-executive-1984-desc = Un arma lateral Deckard estándar para defensa personal.
 
-ntr-executive-combatmed-name = Combat medkit
-ntr-executive-combatmed-desc = For when you need more than just basic first aid supplies.
+ntr-executive-combatmed-name = Botiquín de combate
+ntr-executive-combatmed-desc = Para cuando necesitas más que solo suministros básicos de primeros auxilios.
 
-ntr-executive-cassette-name = Executive cassette player
-ntr-executive-cassette-desc = A cassette player to listen to tunes while you close important deals.
+ntr-executive-cassette-name = Reproductor de casete ejecutivo
+ntr-executive-cassette-desc = Un reproductor de casete para escuchar melodías mientras cierras tratos importantes.
 
 # response teams
 
-ntr-executive-ert-sec-name = Call ERT Security
-ntr-executive-ert-sec-desc = Request an Emergency Response Team security unit from Central Command. Deployed for extreme threats like nuclear operatives or revolutions. Misuse will result in severe consequences.
+ntr-executive-ert-sec-name = Llamar al ERT de Seguridad
+ntr-executive-ert-sec-desc = Solicitar una unidad de seguridad del Equipo de Respuesta de Emergencia del Mando Central. Desplegado para amenazas extremas como operativos nucleares o revoluciones. El mal uso tendrá graves consecuencias.
 
-ntr-executive-ert-med-name = Call ERT Medical
-ntr-executive-ert-med-desc = Request an Emergency Response Team medical unit. Specializes in mass casualty events and post-crisis recovery. Not equipped for combat situations.
+ntr-executive-ert-med-name = Llamar al ERT Médico
+ntr-executive-ert-med-desc = Solicitar una unidad médica del Equipo de Respuesta de Emergencia. Especializada en eventos de bajas masivas y recuperación post-crisis. No equipada para situaciones de combate.
 
-ntr-executive-ert-engi-name = Call ERT Engineering
-ntr-executive-ert-engi-desc = Request an Emergency Response Team engineering unit. Specializes in atmospheric and power system restoration. Not a combat force.
+ntr-executive-ert-engi-name = Llamar al ERT de Ingeniería
+ntr-executive-ert-engi-desc = Solicitar una unidad de ingeniería del Equipo de Respuesta de Emergencia. Especializada en restauración de sistemas atmosféricos y eléctricos. No es una fuerza de combate.
 
-ntr-executive-ert-jani-name = Call ERT Janitorial
-ntr-executive-ert-jani-desc = Request an Emergency Response Team janitorial unit. Specializes in post-crisis cleanup and sanitation. Will not engage threats.
+ntr-executive-ert-jani-name = Llamar al ERT de Conserjería
+ntr-executive-ert-jani-desc = Solicitar una unidad de conserjería del Equipo de Respuesta de Emergencia. Especializada en limpieza post-crisis y saneamiento. No enfrentará amenazas.
 
-ntr-executive-cburn-name = Call CBURN
-ntr-executive-cburn-desc = Request a Containment and Biohazard Urban Response Team. Specialized in biological threats and viral outbreaks. Do not interfere with their quarantine protocols.
+ntr-executive-cburn-name = Llamar al CBURN
+ntr-executive-cburn-desc = Solicitar un Equipo de Respuesta Urbana de Contención y Peligro Biológico. Especializado en amenazas biológicas y brotes virales. No interfieran con sus protocolos de cuarentena.
 
 # machine boards
 
-ntr-executive-telecom-name = Telecom server machine boards
-ntr-executive-telecom-desc = A crate containing 2 telecom server machine boards. Essential for AI communication systems.
+ntr-executive-telecom-name = Placas de máquina de servidor de telecomunicaciones
+ntr-executive-telecom-desc = Una caja que contiene 2 placas de máquina de servidor de telecomunicaciones. Esenciales para los sistemas de comunicación de la IA.
 
-ntr-executive-silo-name = Silo machine board
-ntr-executive-silo-desc = Contains 1 silo machine board. For when someone "misplaces" your original silo.
+ntr-executive-silo-name = Placa de máquina de silo
+ntr-executive-silo-desc = Contiene 1 placa de máquina de silo. Para cuando alguien "extravía" tu silo original.
 
-ntr-executive-fat-name = Fat extractor
-ntr-executive-fat-desc = Machine board for a fat extraction device. Corporate wellness policies prohibit employee obesity.
+ntr-executive-fat-name = Extractor de grasa
+ntr-executive-fat-desc = Placa de máquina para un dispositivo de extracción de grasa. Las políticas de bienestar corporativo prohíben la obesidad de los empleados.
 
-ntr-executive-grav-name = Mini gravity generator
-ntr-executive-grav-desc = Machine board for a compact gravity generator.
+ntr-executive-grav-name = Generador de gravedad mini
+ntr-executive-grav-desc = Placa de máquina para un generador de gravedad compacto.
 
-ntr-executive-teleporter-name = Cargo teleporter machine board
-ntr-executive-teleporter-desc = Cargo teleporter machine board, for easier transportation of supplies via teleportation. Unauthorized use constitutes theft under NanoTrasen policy.
+ntr-executive-teleporter-name = Placa de máquina del teletransportador de cargo
+ntr-executive-teleporter-desc = Placa de máquina del teletransportador de cargo, para un transporte más fácil de suministros mediante teletransportación. El uso no autorizado constituye robo según la política de NanoTrasen.
 
-ntr-executive-holopad-name = Holopad machine boards
-ntr-executive-holopad-desc = Contains 2 holopad machine boards. Cheaper than installing them at shift start.
+ntr-executive-holopad-name = Placas de máquina de holopad
+ntr-executive-holopad-desc = Contiene 2 placas de máquina de holopad. Más barato que instalarlos al inicio del turno.
 
-ntr-executive-monitoring-name = Crew monitoring server board
-ntr-executive-monitoring-desc = Machine board for crew monitoring systems. Handle with care - replacement costs are substantial.
+ntr-executive-monitoring-name = Placa del servidor de monitoreo de tripulación
+ntr-executive-monitoring-desc = Placa de máquina para sistemas de monitoreo de tripulación. Manejar con cuidado - los costos de reemplazo son sustanciales.
 
-ntr-executive-rnd-name = R&D server machine board
-ntr-executive-rnd-desc = Constructs a research and development server when installed.
+ntr-executive-rnd-name = Placa de máquina del servidor de I+D
+ntr-executive-rnd-desc = Construye un servidor de investigación y desarrollo cuando se instala.
 
-ntr-executive-comms-name = Communications console board
-ntr-executive-comms-desc = High-value computer board for emergency communications consoles.
+ntr-executive-comms-name = Placa de consola de comunicaciones
+ntr-executive-comms-desc = Placa de computadora de alto valor para consolas de comunicaciones de emergencia.
 
-ntr-executive-cargosell-name = Cargo sales console board
-ntr-executive-cargosell-desc = Enables resource sales. Financial transactions are not subject to employee review.
+ntr-executive-cargosell-name = Placa de consola de ventas de cargo
+ntr-executive-cargosell-desc = Permite la venta de recursos. Las transacciones financieras no están sujetas a revisión de los empleados.
 
-ntr-executive-cargoshuttle-name = Cargo shuttle console board
-ntr-executive-cargoshuttle-desc = Specialized control console for cargo shuttles. Unauthorized use violates transport protocols.
+ntr-executive-cargoshuttle-name = Placa de consola de lanzadera de cargo
+ntr-executive-cargoshuttle-desc = Consola de control especializada para lanzaderas de cargo. El uso no autorizado viola los protocolos de transporte.
 
-ntr-executive-shuttle-name = Shuttle construction bundle
-ntr-executive-shuttle-desc = Standard crate containing 4 thruster flatpacks, 1 shuttle computer board, and 1 gyroscope flatpack.
+ntr-executive-shuttle-name = Paquete de construcción de lanzadera
+ntr-executive-shuttle-desc = Caja estándar que contiene 4 flatpacks de propulsor, 1 placa de computadora de lanzadera y 1 flatpack de giroscopio.
 
-ntr-executive-id-name = Id card computer board
-ntr-executive-id-desc = High-value computer board to make an ID card console.
+ntr-executive-id-name = Placa de computadora de tarjeta de ID
+ntr-executive-id-desc = Placa de computadora de alto valor para hacer una consola de tarjeta de ID.
 
 # tiers
 
-ntr-executive-tier-1-name = Station
-ntr-executive-tier-2-name = Response teams
+ntr-executive-tier-1-name = Estación
+ntr-executive-tier-2-name = Equipos de respuesta
 ntr-executive-tier-3-name = Personal
-ntr-executive-tier-4-name = Evil
-ntr-executive-tier-5-name = Rare machine boards
+ntr-executive-tier-4-name = Malvado
+ntr-executive-tier-5-name = Placas de máquina raras
 
 # insert attempt in console
-ntr-console-insert-deny = Wrong!
-ntr-console-insert-accept = Correct!
+ntr-console-insert-deny = ¡Incorrecto!
+ntr-console-insert-accept = ¡Correcto!
 
-ntr-console-insert-deny-stamps = Invalid stamps.
+ntr-console-insert-deny-stamps = Sellos no válidos.
 
-ntr-bounty-console-reward-label = Reward: [color=limegreen]{$reward} loyalty points[/color]
+ntr-bounty-console-reward-label = Recompensa: [color=limegreen]{$reward} puntos de lealtad[/color]
 ntr-bounty-console-manifest-entry =
     { $amount ->
         [1] {$item}
         *[other] {$item} x{$amount}
     }
 
-ntr-bounty-console-flavor-left = Bounties approved by Central Command. Bribes not included. Probably.
+ntr-bounty-console-flavor-left = Encargos aprobados por el Mando Central. Sobornos no incluidos. Probablemente.
 
-ntr-console-task-fail-insert = Task failed.
-ntr-console-reagent-fail = Not enough reagents to complete the task!
+ntr-console-task-fail-insert = Tarea fallida.
+ntr-console-reagent-fail = ¡No hay suficientes reactivos para completar la tarea!
 
 # experimental
-ntr-console-no-solution = Could not find solution {$solutionName} on the vial.
-ntr-console-missing-reagent = Vial is missing reagent {$reagent}.
-ntr-console-insufficient-reagent-debug = Insufficient reagent. Required: {$requiredReagent}, Found: {$actualReagent}. Required amount: {$required}, Actual amount: {$actual}.
-ntr-console-task-fail = Task failed to load.
+ntr-console-no-solution = No se pudo encontrar la solución {$solutionName} en el vial.
+ntr-console-missing-reagent = Al vial le falta el reactivo {$reagent}.
+ntr-console-insufficient-reagent-debug = Reactivo insuficiente. Requerido: {$requiredReagent}, Encontrado: {$actualReagent}. Cantidad requerida: {$required}, Cantidad actual: {$actual}.
+ntr-console-task-fail = La tarea no pudo cargarse.
 
-ntr-bounty-console-menu-title = NTR task console
-ntr-bounty-console-print-button = Accept
+ntr-bounty-console-menu-title = Consola de tareas NTR
+ntr-bounty-console-print-button = Aceptar

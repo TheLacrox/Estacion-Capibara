@@ -22,69 +22,69 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-blade-s1-name = The Cutting Edge
+knowledge-path-blade-s1-name = El Filo Cortante
 knowledge-path-blade-s1-desc =
-    Our great ancestors forged swords and practiced sparring on the eve of great battles.
+    Nuestros grandes ancestros forjaron espadas y practicaron combate en la víspera de grandes batallas.
 
-    Follow the path of blades.
-    Transmute two knives into a sundered blade.
-    You can create up to four at a time.
+    Sigue el camino de las hojas.
+    Transmuta dos cuchillos en una hoja quebrantada.
+    Puedes crear hasta cuatro a la vez.
 
-knowledge-path-blade-s2-name = Grasp of the Blade
+knowledge-path-blade-s2-name = Garra de la Hoja
 knowledge-path-blade-s2-desc =
-    The story of the footsoldier has been told since antiquity. It is one of blood and valor, and is championed by sword, steel and silver.
+    La historia del soldado de infantería se ha contado desde la antigüedad. Es una de sangre y valor, y está defendida por espada, acero y plata.
 
-    Your Mansus Grasp will cause a short stun when used on someone lying down or facing away from you.
+    Tu Garra del Mansus causará un breve aturdimiento cuando se use en alguien tumbado o de espaldas a ti.
 
-knowledge-path-blade-s3-name = Dance of the Brand
+knowledge-path-blade-s3-name = Danza del Acero
 knowledge-path-blade-s3-desc =
-    The footsoldier was known to be a fearsome duelist. Their general quickly appointed them as their personal Champion.
+    El soldado de infantería era conocido por ser un temible duelista. Su general rápidamente lo nombró su Campeón personal.
 
-    Being attacked while wielding a Heretic Blade in either hand will deliver a riposte towards your attacker, knocking them down. This effect can only trigger once every 20 seconds.
+    Ser atacado mientras empuñas una Hoja Herética en cualquiera de las manos realizará una parada hacia tu atacante, derribándolo. Este efecto solo puede activarse una vez cada 20 segundos.
 
-knowledge-path-blade-s4-name = Mark of the Blade
+knowledge-path-blade-s4-name = Marca de la Hoja
 knowledge-path-blade-s4-desc =
-    His general wished to end the war, but the Champion knew there could be no life without death. He would slay the coward himself, and anyone who tried to run.
+    Su general deseaba terminar la guerra, pero el Campeón sabía que no podía haber vida sin muerte. Él mismo mataría al cobarde, y a cualquiera que intentara huir.
 
-    Your Mansus Grasp now applies the Mark of the Blade.
-    Triggering the mark will summon a knife that will orbit you for a short time.
-    The knife will block any attack directed towards you, but is consumed on use.
+    Tu Garra del Mansus ahora aplica la Marca de la Hoja.
+    Activar la marca invocará un cuchillo que orbitará alrededor de ti durante un breve tiempo.
+    El cuchillo bloqueará cualquier ataque dirigido hacia ti, pero se consume al usarse.
 
-knowledge-path-blade-s5-name = Realignment
+knowledge-path-blade-s5-name = Realineación
 knowledge-path-blade-s5-desc =
-    In the flurry of death, he found peace within himself. Despite insurmountable odds, he forged on.
+    En el torbellino de la muerte, encontró paz en sí mismo. A pesar de las probabilidades insuperables, siguió adelante.
 
-    Grants you Realignment a spell that wil realign your body rapidly for a short period.
-    During this process, you will rapidly regenerate stamina and quickly recover from stuns, however, you will be unable to attack.
+    Te otorga Realineación, un hechizo que realineará rápidamente tu cuerpo durante un breve período.
+    Durante este proceso, regenerarás resistencia rápidamente y te recuperarás rápidamente de los aturdimientos, sin embargo, serás incapaz de atacar.
 
-knowledge-path-blade-s6-name = Stance of the Torn Champion
+knowledge-path-blade-s6-name = Postura del Campeón Desgarrado
 knowledge-path-blade-s6-desc =
-    In time, it was he who stood alone among the bodies of his former comrades, awash in blood, none of it his own. He was without rival, equal, or purpose.
+    Con el tiempo, fue él quien quedó solo entre los cuerpos de sus antiguos camaradas, bañado en sangre, ninguna de la suya. Estaba sin rival, igual o propósito.
 
-    Grants immunity to having your limbs dismembered, as well as resistance to bloodloss and damage slowdown.
-    Additionally, when damaged below 50% of your maximum health, you gain increased resistance to gaining wounds and resistance to batons.
+    Otorga inmunidad a que te desmembren los miembros, así como resistencia a la pérdida de sangre y la reducción de velocidad por daño.
+    Además, cuando recibes daño por debajo del 50% de tu salud máxima, ganas mayor resistencia a acumular heridas y resistencia a las porras.
 
-knowledge-path-blade-s7-name = Empowered Blades
+knowledge-path-blade-s7-name = Hojas Empoderadas
 knowledge-path-blade-s7-desc =
-    I found him cleaved in twain, halves locked in a duel without end; a flurry of blades, neither hitting their mark, for the Champion was indomitable.
+    Lo encontré partido en dos, las mitades trabadas en un duelo sin fin; un torbellino de hojas, ninguna alcanzando su objetivo, pues el Campeón era indomable.
 
-    Attacking someone with a Sundered Blade in both hands will now deliver a blow with both at once, dealing two attacks in rapid succession.
-    The second blow will be slightly weaker.
-    You are able to infuse your mansus grasp directly into your blades, and your blades are more effective against structures.
+    Atacar a alguien con una Hoja Quebrantada en ambas manos ahora dará un golpe con las dos a la vez, realizando dos ataques en rápida sucesión.
+    El segundo golpe será ligeramente más débil.
+    Puedes infundir tu garra del mansus directamente en tus hojas, y tus hojas son más efectivas contra estructuras.
 
-knowledge-path-blade-s8-name = Furious Steel
+knowledge-path-blade-s8-name = Acero Furioso
 knowledge-path-blade-s8-desc =
-    Without thinking, I took the knife of a fallen soldier and threw with all my might. My aim was true! The Torn Champion smiled at their first taste of agony, and with a nod, their blades became my own.
+    Sin pensar, tomé el cuchillo de un soldado caído y lo lancé con toda mi fuerza. ¡Mi puntería fue certera! El Campeón Desgarrado sonrió ante su primer sabor de agonía, y con un gesto de cabeza, sus hojas se convirtieron en las mías.
 
-    Grants you Furious Steel, a targeted spell. Using it will summon three orbiting blades around you. These blades will protect you from all attacks, but are consumed on use.
-    Additionally, you can click on the blade or on yourself to fire the blades at a nearest target, dealing heavy damage.
+    Te otorga Acero Furioso, un hechizo dirigido. Usarlo invocará tres hojas orbitantes a tu alrededor. Estas hojas te protegerán de todos los ataques, pero se consumen al usarse.
+    Además, puedes hacer clic en la hoja o en ti mismo para disparar las hojas hacia el objetivo más cercano, causando un daño considerable.
 
-knowledge-path-blade-s9-name = Maelstrom of Silver
+knowledge-path-blade-s9-name = Torbellino de Plata
 knowledge-path-blade-s9-desc =
-    The ascension ritual of the Path of Blades.
-    Bring 3 headless corpses to a transmutation rune to complete the ritual.
-    When completed, you will be surrounded in a constant, regenerating orbit of blades.
-    These blades will protect you from all attacks, but are consumed on use.
-    Your Furious Steel spell will also have a shorter cooldown.
-    Additionally, you become a master of combat, gaining the ability to waltz over slippery surfaces.
-    Your Sundered Blades will deal bonus damage and heal you on attack for a portion of the damage dealt.
+    El ritual de ascensión del Camino de las Hojas.
+    Lleva 3 cadáveres sin cabeza a una runa de transmutación para completar el ritual.
+    Cuando se complete, estarás rodeado de una órbita constante y regenerante de hojas.
+    Estas hojas te protegerán de todos los ataques, pero se consumen al usarse.
+    Tu hechizo de Acero Furioso también tendrá un tiempo de recarga más corto.
+    Además, te conviertes en un maestro del combate, ganando la habilidad de deslizarte sobre superficies resbaladizas.
+    Tus Hojas Quebrantadas infligirán daño adicional y te curarán al atacar por una parte del daño causado.

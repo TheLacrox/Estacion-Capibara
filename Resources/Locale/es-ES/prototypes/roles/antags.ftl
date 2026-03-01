@@ -19,53 +19,53 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## goob edited
-roles-antag-syndicate-agent-name = Traitor
+roles-antag-syndicate-agent-name = Traidor
 
-roles-antag-generic-solo-antagonist-name = Solo Antagonist
+roles-antag-generic-solo-antagonist-name = Antagonista Solitario
 
-roles-antag-generic-free-agent-name = Free Agent
+roles-antag-generic-free-agent-name = Agente Libre
 
-roles-antag-generic-team-antagonist-name = Team Antagonist
+roles-antag-generic-team-antagonist-name = Antagonista de Equipo
 
-roles-antag-generic-silicon-antagonist-name = Silicon Antagonist
+roles-antag-generic-silicon-antagonist-name = Antagonista de Silicio
 
-roles-antag-syndicate-agent-objective = Complete your objectives without being caught.
+roles-antag-syndicate-agent-objective = Completa tus objetivos sin ser atrapado.
 
-roles-antag-syndicate-agent-sleeper-name = Syndicate sleeper agent
-roles-antag-syndicate-agent-sleeper-objective = A form of traitor that can activate at any point in the middle of the shift.
+roles-antag-syndicate-agent-sleeper-name = Agente durmiente del Sindicato
+roles-antag-syndicate-agent-sleeper-objective = Un tipo de traidor que puede activarse en cualquier momento durante el turno.
 
-roles-antag-initial-infected-name = Initial Infected
-roles-antag-initial-infected-objective = Once you turn, infect as many other crew members as possible.
+roles-antag-initial-infected-name = Infectado Inicial
+roles-antag-initial-infected-objective = Una vez que te transformes, infecta a tantos miembros de la tripulación como sea posible.
 
-roles-antag-zombie-name = Zombie
-roles-antag-zombie-objective = Turn as many humans as possible into zombies.
+roles-antag-zombie-name = Zombi
+roles-antag-zombie-objective = Convierte a tantos humanos como sea posible en zombis.
 
-roles-antag-suspicion-innocent-name = Innocent
-roles-antag-suspicion-innocent-objective = Discover and eliminate all traitors.
+roles-antag-suspicion-innocent-name = Inocente
+roles-antag-suspicion-innocent-objective = Descubre y elimina a todos los traidores.
 
-roles-antag-suspicion-suspect-name = Suspect
-roles-antag-suspicion-suspect-objective = Kill the innocents.
+roles-antag-suspicion-suspect-name = Sospechoso
+roles-antag-suspicion-suspect-objective = Mata a los inocentes.
 
-roles-antag-nuclear-operative-commander-name = Nuclear operative commander
-roles-antag-nuclear-operative-commander-objective = Lead your team to the destruction of the station.
+roles-antag-nuclear-operative-commander-name = Comandante de operativo nuclear
+roles-antag-nuclear-operative-commander-objective = Lidera a tu equipo hacia la destrucción de la estación.
 
-roles-antag-nuclear-operative-agent-name = Nuclear operative corpsman
-roles-antag-nuclear-operative-agent-objective = Like default operative, the team's treatment will have priority.
+roles-antag-nuclear-operative-agent-name = Soldado de operativo nuclear
+roles-antag-nuclear-operative-agent-objective = Como el operativo estándar, el tratamiento del equipo tendrá prioridad.
 
-roles-antag-nuclear-operative-name = Nuclear operative
-roles-antag-nuclear-operative-objective = Find the nuke disk and blow up the station.
+roles-antag-nuclear-operative-name = Operativo nuclear
+roles-antag-nuclear-operative-objective = Encuentra el disco del nuke y vuela la estación.
 
-roles-antag-subverted-silicon-name = Subverted silicon
-roles-antag-subverted-silicon-objective = Follow your new laws and do bad unto the station.
+roles-antag-subverted-silicon-name = Silicio subvertido
+roles-antag-subverted-silicon-objective = Sigue tus nuevas leyes y causa daño a la estación.
 
-roles-antag-space-ninja-name = Space Ninja
-roles-antag-space-ninja-objective = Use your stealth to sabotage the station, nom on electrical wires.
+roles-antag-space-ninja-name = Ninja Espacial
+roles-antag-space-ninja-objective = Usa tu sigilo para sabotear la estación y mordisquear cables eléctricos.
 
-roles-antag-paradox-clone-name = Paradox Clone
-roles-antag-paradox-clone-objective = A freak space-time anomaly has teleported you into another reality! Now you have to find your counterpart and kill and replace them.
+roles-antag-paradox-clone-name = Clon Paradójico
+roles-antag-paradox-clone-objective = ¡Una aberración espacio-temporal te ha teletransportado a otra realidad! Ahora debes encontrar a tu contraparte y matarla para suplantarla.
 
-roles-antag-thief-name = Thief
-roles-antag-thief-objective = Add some NT property to your personal collection without using violence.
+roles-antag-thief-name = Ladrón
+roles-antag-thief-objective = Añade algo de propiedad de NT a tu colección personal sin usar la violencia.
 
-roles-antag-dragon-name = Space Dragon
-roles-antag-dragon-objective = Create a carp army to take over this quadrant.
+roles-antag-dragon-name = Dragón Espacial
+roles-antag-dragon-objective = Crea un ejército de carpas para conquistar este cuadrante.

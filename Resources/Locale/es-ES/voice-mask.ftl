@@ -8,18 +8,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-voice-mask-default-name-override = Unknown
+voice-mask-default-name-override = Desconocido
 
-voice-mask-name-change-window = Voice Mask Name Change
-voice-mask-name-change-info = Type in the name you want to mimic.
-voice-mask-name-change-speech-style = Speech style
-voice-mask-name-change-set = Set name
-voice-mask-name-change-set-description = Change the name others hear to something else.
+voice-mask-name-change-window = Cambio de nombre de máscara de voz
+voice-mask-name-change-info = Escribe el nombre que deseas imitar.
+voice-mask-name-change-speech-style = Estilo de habla
+voice-mask-name-change-set = Establecer nombre
+voice-mask-name-change-set-description = Cambia el nombre que escuchan los demás por otro.
 
-voice-mask-popup-success = Name set successfully.
-voice-mask-popup-failure = Name could not be set.
+voice-mask-popup-success = Nombre establecido correctamente.
+voice-mask-popup-failure = No se pudo establecer el nombre.
 
 # Goobstation / GabyStation Job Icons
-voice-mask-icon-label = Job (for your radio icon)
-voice-mask-name-current-name = Current name
+voice-mask-icon-label = Trabajo (para tu icono de radio)
+voice-mask-name-current-name = Nombre actual
 

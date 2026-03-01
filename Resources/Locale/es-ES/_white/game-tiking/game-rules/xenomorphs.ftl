@@ -1,27 +1,27 @@
-xenomorphs-announcement = Warning: Hostile bio-signatures detected. Unknown entities are moving through the station’s vents and maintenance shafts. All personnel, initiate lockdown protocols and avoid isolated areas.
-xenomorphs-no-more-threat-announcement = According to data from our long-range sensors, all xenomorphs have been eliminated.
+xenomorphs-announcement = Advertencia: Biosignaturas hostiles detectadas. Entidades desconocidas se mueven por los conductos de ventilación y los pasillos de mantenimiento de la estación. Todo el personal, iniciad los protocolos de bloqueo y evitad las zonas aisladas.
+xenomorphs-no-more-threat-announcement = Según los datos de nuestros sensores de largo alcance, todos los xenomorfos han sido eliminados.
 xenomorphs-win-announcement-shuttle-call =
-    ALERT: The station has been consumed by the Black Swarm. All remaining personnel are ordered to arm the nuclear fission explosive and proceed to the evacuation shuttle immediately.
+    ALERTA: La estación ha sido consumida por el Enjambre Negro. Se ordena a todo el personal restante que arme el explosivo de fisión nuclear y se dirija inmediatamente al transbordador de evacuación.
 
-    Colonial Marines have been contacted and will arrive within two weeks.
+    Se ha contactado con los Marines Coloniales, que llegarán en dos semanas.
 
-    The evacuation shuttle will arrive in {$time} {$units}.
+    El transbordador de evacuación llegará en {$time} {$units}.
 xenomorphs-win-announcement =
-    ALERT: The station has been consumed by the Black Swarm. All remaining personnel are ordered to arm the nuclear fission explosive and proceed to the evacuation shuttle immediately.
+    ALERTA: La estación ha sido consumida por el Enjambre Negro. Se ordena a todo el personal restante que arme el explosivo de fisión nuclear y se dirija inmediatamente al transbordador de evacuación.
 
-    Colonial Marines have been contacted and will arrive within two weeks.
+    Se ha contactado con los Marines Coloniales, que llegarán en dos semanas.
 
-    An emergency shuttle is on its way.
+    Un transbordador de emergencia está en camino.
 
-xenomorphs-xenomajor = Major xenomorph victory!
-xenomorphs-xenominor = Minor xenomorph victory!
-xenomorphs-neutral = Stalemate!
-xenomorphs-crewminor = Minor crew victory!
-xenomorphs-crewmajor = Decisive crew victory!
+xenomorphs-xenomajor = ¡Victoria mayor de los xenomorfos!
+xenomorphs-xenominor = ¡Victoria menor de los xenomorfos!
+xenomorphs-neutral = ¡Empate!
+xenomorphs-crewminor = ¡Victoria menor de la tripulación!
+xenomorphs-crewmajor = ¡Victoria decisiva de la tripulación!
 
-xenomorphs-cond-nukeexplodedonstation = The crew destroyed the xenomorphs with the nuclear fission explosive.
-xenomorphs-cond-nukeactiveinstation = The crew left the armed nuclear fission explosive on the station.
-xenomorphs-cond-xenotakeoverstation = The xenomorphs managed to take over the station.
-xenomorphs-cond-xenoinfiltratedoncentcom = Xenomorphs infiltrated the Central Command station.
-xenomorphs-cond-allreproducexenodead = The crew eliminated all Xenomorphs capable of reproduction.
-xenomorphs-cond-allcrewdead = All crew members have died.
+xenomorphs-cond-nukeexplodedonstation = La tripulación destruyó a los xenomorfos con el explosivo de fisión nuclear.
+xenomorphs-cond-nukeactiveinstation = La tripulación dejó el explosivo de fisión nuclear armado en la estación.
+xenomorphs-cond-xenotakeoverstation = Los xenomorfos lograron tomar el control de la estación.
+xenomorphs-cond-xenoinfiltratedoncentcom = Los xenomorfos se infiltraron en la estación de Comando Central.
+xenomorphs-cond-allreproducexenodead = La tripulación eliminó a todos los Xenomorfos capaces de reproducirse.
+xenomorphs-cond-allcrewdead = Todos los miembros de la tripulación han muerto.

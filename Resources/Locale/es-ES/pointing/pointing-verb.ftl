@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-pointing-verb-get-data-text = Point at
+pointing-verb-get-data-text = Señalar a

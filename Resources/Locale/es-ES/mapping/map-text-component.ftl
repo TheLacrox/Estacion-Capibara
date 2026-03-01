@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-map-text-default = Use VV to change the displayed text
-map-text-font-error = "Error - invalid font"
+map-text-default = Usa VV para cambiar el texto mostrado
+map-text-font-error = "Error - fuente inválida"

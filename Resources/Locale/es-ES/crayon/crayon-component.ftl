@@ -11,20 +11,20 @@
 
 ## Entity
 
-crayon-drawing-label = Drawing: [color={$color}]{$state}[/color] {$infinite ->
+crayon-drawing-label = Dibujo: [color={$color}]{$state}[/color] {$infinite ->
     *[false] ({$charges}/{$capacity})
     [true] {""}
 }
-crayon-interact-not-enough-left-text = Not enough left.
-crayon-interact-used-up-text = The {$owner} got used up.
-crayon-interact-invalid-location = Can't reach there!
+crayon-interact-not-enough-left-text = No queda suficiente.
+crayon-interact-used-up-text = El {$owner} se agotó.
+crayon-interact-invalid-location = ¡No puedes llegar ahí!
 
 ## UI
-crayon-window-title = Crayon
-crayon-window-placeholder = Search, or queue a comma-separated list of names
-crayon-category-1-brushes = Brushes
-crayon-category-2-alphanum = Numbers and letters
-crayon-category-3-symbols = Symbols
-crayon-category-4-info = Signs
-crayon-category-5-graffiti = Graffiti
-crayon-category-random = Random
+crayon-window-title = Crayón
+crayon-window-placeholder = Buscar, o escribir una lista de nombres separados por comas
+crayon-category-1-brushes = Pinceles
+crayon-category-2-alphanum = Números y letras
+crayon-category-3-symbols = Símbolos
+crayon-category-4-info = Señales
+crayon-category-5-graffiti = Grafitis
+crayon-category-random = Aleatorio

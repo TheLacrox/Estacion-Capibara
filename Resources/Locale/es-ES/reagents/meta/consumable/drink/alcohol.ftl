@@ -17,368 +17,368 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-absinthe = absinthe
-reagent-desc-absinthe = A anise-flavoured spirit derived from botanicals.
+reagent-name-absinthe = absenta
+reagent-desc-absinthe = Un licor con sabor a anís derivado de plantas botánicas.
 
 reagent-name-ale = ale
-reagent-desc-ale = A dark alchoholic beverage made by malted barley and yeast.
+reagent-desc-ale = Una bebida alcohólica oscura elaborada con cebada malteada y levadura.
 
-reagent-name-beer = beer
-reagent-desc-beer = An alcoholic beverage made from malted grains, hops, yeast, and water.
+reagent-name-beer = cerveza
+reagent-desc-beer = Una bebida alcohólica elaborada con granos malteados, lúpulo, levadura y agua.
 
-reagent-name-blue-curacao = blue Curaçao
-reagent-desc-blue-curacao = Exotically blue, fruity drink, distilled from oranges.
+reagent-name-blue-curacao = curaçao azul
+reagent-desc-blue-curacao = Bebida exótica de color azul y sabor frutal, destilada de naranjas.
 
-reagent-name-cognac = cognac
-reagent-desc-cognac = A sweet and strongly alcoholic drink, twice distilled and left to mature for several years. Classy as fornication.
+reagent-name-cognac = coñac
+reagent-desc-cognac = Una bebida dulce y fuertemente alcohólica, destilada dos veces y dejada madurar durante varios años. Tan elegante como la fornicación.
 
-reagent-name-dead-rum = deadrum
-reagent-desc-dead-rum = Distilled alcoholic drink made from saltwater.
+reagent-name-dead-rum = ron muerto
+reagent-desc-dead-rum = Bebida alcohólica destilada elaborada con agua salada.
 
-reagent-name-ethanol = ethanol
-reagent-desc-ethanol = A simple alcohol, makes you drunk if consumed, flammable.
+reagent-name-ethanol = etanol
+reagent-desc-ethanol = Un alcohol simple, te emborracha si lo consumes, inflamable.
 
-reagent-name-gin = gin
-reagent-desc-gin = A distilled alcoholic drink that derives its predominant flavour from juniper berries.
+reagent-name-gin = ginebra
+reagent-desc-gin = Una bebida alcohólica destilada cuyo sabor predominante proviene de las bayas de enebro.
 
-reagent-name-coffeeliqueur = coffee liqueur
-reagent-desc-coffeeliqueur = Liquor flavoured with cold brewed coffee and spices.
+reagent-name-coffeeliqueur = licor de café
+reagent-desc-coffeeliqueur = Licor con sabor a café de infusión fría y especias.
 
-reagent-name-melon-liquor = melon liquor
-reagent-desc-melon-liquor = A relatively sweet and fruity 46 proof liquor.
+reagent-name-melon-liquor = licor de melón
+reagent-desc-melon-liquor = Un licor relativamente dulce y frutal de 46 grados.
 
-reagent-name-n-t-cahors = NeoTheology Cahors wine
-reagent-desc-n-t-cahors = Fortified dessert wine made from cabernet sauvignon, saperavi and other grapes.
+reagent-name-n-t-cahors = vino Cahors de NeoTeología
+reagent-desc-n-t-cahors = Vino de postre fortificado elaborado con cabernet sauvignon, saperavi y otras uvas.
 
-reagent-name-poison-wine = poison wine
-reagent-desc-poison-wine = Is this even wine? Toxic! Hallucinogenic! Probably consumed in boatloads by your superiors!
+reagent-name-poison-wine = vino venenoso
+reagent-desc-poison-wine = ¿Esto es siquiera vino? ¡Tóxico! ¡Alucinógeno! ¡Probablemente consumido a litros por tus superiores!
 
-reagent-name-rum = rum
-reagent-desc-rum = Distilled alcoholic drink made from sugarcane byproducts.
+reagent-name-rum = ron
+reagent-desc-rum = Bebida alcohólica destilada elaborada con subproductos de la caña de azúcar.
 
 reagent-name-sake = sake
-reagent-desc-sake = Alcoholic beverage made by fermenting rice that has been polished.
+reagent-desc-sake = Bebida alcohólica elaborada fermentando arroz pulido.
 
 reagent-name-tequila = tequila
-reagent-desc-tequila = A strong and mildly flavoured, mexican produced spirit.
+reagent-desc-tequila = Un licor fuerte y suavemente aromatizado, producido en México.
 
-reagent-name-vermouth = vermouth
-reagent-desc-vermouth = Aromatized, fortified white wine flavored with various botanicals.
+reagent-name-vermouth = vermut
+reagent-desc-vermouth = Vino blanco aromatizado y fortificado con diversas plantas botánicas.
 
 reagent-name-vodka = vodka
-reagent-desc-vodka = Clear distilled alcoholic beverage that originates from Poland and Russia.
+reagent-desc-vodka = Bebida alcohólica destilada incolora que se origina en Polonia y Rusia.
 
-reagent-name-whiskey = whiskey
-reagent-desc-whiskey = A type of distilled alcoholic beverage made from fermented grain mash.
+reagent-name-whiskey = whisky
+reagent-desc-whiskey = Un tipo de bebida alcohólica destilada elaborada con puré de granos fermentados.
 
-reagent-name-wine = wine
-reagent-desc-wine = A premium alcoholic beverage made from distilled grape juice.
+reagent-name-wine = vino
+reagent-desc-wine = Una bebida alcohólica premium elaborada con zumo de uva destilado.
 
-reagent-name-champagne = champagne
-reagent-desc-champagne = A premium sparkling wine
+reagent-name-champagne = champán
+reagent-desc-champagne = Un vino espumoso premium.
 
 reagent-name-acid-spit = acidspit
-reagent-desc-acid-spit = A drink for the daring, can be deadly if incorrectly prepared!
+reagent-desc-acid-spit = Una bebida para los valientes. ¡Puede ser mortal si se prepara incorrectamente!
 
-reagent-name-alien-brain-hemorrhage = alien brain hemorrhage
-reagent-desc-alien-brain-hemorrhage = You might want to get that checked out at Med.
+reagent-name-alien-brain-hemorrhage = hemorragia cerebral alienígena
+reagent-desc-alien-brain-hemorrhage = Quizás deberías que revisarte eso en la enfermería.
 
-reagent-name-allies-cocktail = allies cocktail
-reagent-desc-allies-cocktail = A drink made from your allies, not as sweet as when made from your enemies.
+reagent-name-allies-cocktail = cóctel de aliados
+reagent-desc-allies-cocktail = Una bebida hecha de tus aliados; no tan dulce como cuando se hace con tus enemigos.
 
 reagent-name-aloe = aloe
-reagent-desc-aloe = So very, very, very good.
+reagent-desc-aloe = Tan, tan, tan bueno.
 
 reagent-name-amasec = amasec
-reagent-desc-amasec = Official drink of the Gun Club!
+reagent-desc-amasec = ¡La bebida oficial del Club de Armas!
 
 reagent-name-andalusia = Andalusia
-reagent-desc-andalusia = A nice, strangely named drink.
+reagent-desc-andalusia = Una bebida agradable con un nombre extraño.
 
-reagent-name-antifreeze = antifreeze
-reagent-desc-antifreeze = Ultimate refreshment.
+reagent-name-antifreeze = anticongelante
+reagent-desc-antifreeze = El refresco definitivo.
 
-reagent-name-atomic-bomb = Atomic Bomb
-reagent-desc-atomic-bomb = Nuclear proliferation never tasted so good.
+reagent-name-atomic-bomb = Bomba Atómica
+reagent-desc-atomic-bomb = La proliferación nuclear nunca supo tan bien.
 
 reagent-name-b52 = B-52
-reagent-desc-b52 = Coffee, irish cream, and cognac. You will get bombed.
+reagent-desc-b52 = Café, crema irlandesa y coñac. Vas a acabar bombardeado.
 
-reagent-name-blue-hawaiian = Blue Hawaiian
-reagent-desc-blue-hawaiian = Aloha! Does that mean hello or goodbye?
+reagent-name-blue-hawaiian = Hawaiano Azul
+reagent-desc-blue-hawaiian = ¡Aloha! ¿Eso significa hola o adiós?
 
 reagent-name-bahama-mama = Bahama Mama
-reagent-desc-bahama-mama = Tropical cocktail.
+reagent-desc-bahama-mama = Cóctel tropical.
 
 reagent-name-banana-honk = Banana Honk
-reagent-desc-banana-honk = A drink from Clown Heaven.
+reagent-desc-banana-honk = Una bebida del Cielo de los Payasos.
 
-reagent-name-barefoot = barefoot
-reagent-desc-barefoot = A cassis milkshake, made from cream, fruit juice, and vermouth wine.
+reagent-name-barefoot = a pie descalzo
+reagent-desc-barefoot = Un batido de casis, elaborado con nata, zumo de frutas y vino vermut.
 
 reagent-name-beepsky-smash = Beepsky smash
-reagent-desc-beepsky-smash = Deny drinking this and prepare for THE LAW.
+reagent-desc-beepsky-smash = Niega haberlo bebido y prepárate para LA LEY.
 
-reagent-name-black-russian = Black Russian
-reagent-desc-black-russian = For the lactose-intolerant. Still as classy as a White Russian.
+reagent-name-black-russian = Ruso Negro
+reagent-desc-black-russian = Para los intolerantes a la lactosa. Igual de elegante que un Ruso Blanco.
 
 reagent-name-bloody-mary = Bloody Mary
-reagent-desc-bloody-mary = A strange yet pleasurable mixture made of vodka, tomato, and lime juice.
+reagent-desc-bloody-mary = Una mezcla extraña pero agradable de vodka, tomate y zumo de lima.
 
-reagent-name-booger = booger
-reagent-desc-booger = Ewww...
+reagent-name-booger = moco
+reagent-desc-booger = Puaj...
 
-reagent-name-brave-bull = Brave Bull
-reagent-desc-brave-bull = It's just as effective as Dutch-Courage!
+reagent-name-brave-bull = Toro Valiente
+reagent-desc-brave-bull = ¡Es igual de efectivo que el valor de borrachín!
 
 reagent-name-bronx = Bronx
-reagent-desc-bronx = The orange-flavoured cousin of the Manhattan and Martini.
+reagent-desc-bronx = El primo con sabor a naranja del Manhattan y el Martini.
 
-reagent-name-coconut-rum = coconut rum
-reagent-desc-coconut-rum = Rum with coconut for that tropical feel.
+reagent-name-coconut-rum = ron de coco
+reagent-desc-coconut-rum = Ron con coco para ese toque tropical.
 
 reagent-name-cosmopolitan = cosmopolitan
-reagent-desc-cosmopolitan = Even in the worst situations, nothing beats a fresh cosmopolitan.
+reagent-desc-cosmopolitan = Incluso en las peores situaciones, nada supera a un cosmopolitan recién hecho.
 
-reagent-name-crush-depth = crush depth
-reagent-desc-crush-depth = A stygian drink, harkening back to the abyssopelagic. Dark and Cold, it serves as a reminder that the most ancient emotion is fear, and the strongest type of fear is that of the unknown.
+reagent-name-crush-depth = profundidad aplastante
+reagent-desc-crush-depth = Una bebida estigia que evoca lo abisopelagico. Oscura y fría, sirve como recordatorio de que la emoción más antigua es el miedo, y el tipo de miedo más intenso es el de lo desconocido.
 
-reagent-name-cuba-libre = Cuba libre
-reagent-desc-cuba-libre = Rum, mixed with cola. Viva la revolucion.
+reagent-name-cuba-libre = Cuba Libre
+reagent-desc-cuba-libre = Ron mezclado con cola. Viva la revolución.
 
-reagent-name-dark-and-stormy = dark & stormy
-reagent-desc-dark-and-stormy = You can almost hear the thunder.
+reagent-name-dark-and-stormy = oscuro y tormentoso
+reagent-desc-dark-and-stormy = Casi puedes oír el trueno.
 
-reagent-name-demons-blood = Demon's Blood
-reagent-desc-demons-blood = AHHHH!!!!
+reagent-name-demons-blood = Sangre de Demonio
+reagent-desc-demons-blood = ¡¡¡AAAAAH!!!!
 
-reagent-name-devils-kiss = Devil's Kiss
-reagent-desc-devils-kiss = Creepy time!
+reagent-name-devils-kiss = Beso del Diablo
+reagent-desc-devils-kiss = ¡Momento espeluznante!
 
-reagent-name-doctors-delight = The Doctor's Delight
-reagent-desc-doctors-delight = A gulp a day keeps the MediBot away. That's probably for the best.
+reagent-name-doctors-delight = El Placer del Doctor
+reagent-desc-doctors-delight = Un trago al día mantiene al MediBot lejos. Probablemente es lo mejor.
 
-reagent-name-driest-martini = driest martini
-reagent-desc-driest-martini = Only for the experienced. You think you see sand floating in the glass.
+reagent-name-driest-martini = martini más seco
+reagent-desc-driest-martini = Solo para los experimentados. Crees ver arena flotando en el vaso.
 
-reagent-name-eggnog = eggnog
-reagent-desc-eggnog = Not enough egg.
+reagent-name-eggnog = ponche de huevo
+reagent-desc-eggnog = No tiene suficiente huevo.
 
-reagent-name-electric-shark = electric shark
-reagent-desc-electric-shark = Fun Shark fact: Selachians make up 20% of Space Station 16’s Engineering staff!
+reagent-name-electric-shark = tiburón eléctrico
+reagent-desc-electric-shark = Dato curioso sobre tiburones: ¡los seláceos conforman el 20% del personal de Ingeniería de la Estación Espacial 16!
 
-reagent-name-erika-surprise = Erika surprise
-reagent-desc-erika-surprise = The surprise is, it's green!
+reagent-name-erika-surprise = sorpresa de Erika
+reagent-desc-erika-surprise = La sorpresa es que ¡es verde!
 
-reagent-name-gargle-blaster = Pan-Galactic Gargle Blaster
-reagent-desc-gargle-blaster = Whoah, this stuff looks volatile!
+reagent-name-gargle-blaster = Gargarizador Pan-Galáctico
+reagent-desc-gargle-blaster = ¡Vaya, esto parece volátil!
 
 reagent-name-gin-fizz = gin fizz
-reagent-desc-gin-fizz = Refreshingly lemony, deliciously dry.
+reagent-desc-gin-fizz = Refrescantemente limónico, deliciosamente seco.
 
-reagent-name-gin-tonic = gin and tonic
-reagent-desc-gin-tonic = An all time classic, mild cocktail.
+reagent-name-gin-tonic = gin tónica
+reagent-desc-gin-tonic = Un clásico de siempre, un cóctel suave.
 
 reagent-name-gildlager = Gildlager
-reagent-desc-gildlager = 100 proof cinnamon schnapps, made for alcoholic teen girls on spring break.
+reagent-desc-gildlager = Schnapps de canela de 100 grados, hecho para chicas adolescentes alcohólicas en vacaciones de primavera.
 
 reagent-name-grog = grog
-reagent-desc-grog = Watered-down rum, pirate approved!
+reagent-desc-grog = Ron aguado, ¡aprobado por piratas!
 
-reagent-name-hippies-delight = Hippie's Delight
-reagent-desc-hippies-delight = You just don't get it maaaan.
+reagent-name-hippies-delight = Delicia Hippie
+reagent-desc-hippies-delight = Simplemente no lo entiendes, tío.
 
 reagent-name-hooch = hooch
-reagent-desc-hooch = Either someone's failure at cocktail making or attempt in alchohol production. In any case, do you really want to drink that?
+reagent-desc-hooch = O el fracaso de alguien en la coctelería o un intento de producir alcohol. En cualquier caso, ¿de verdad quieres beber eso?
 
-reagent-name-iced-beer = iced beer
-reagent-desc-iced-beer = A beer which is so cold the air around it freezes.
+reagent-name-iced-beer = cerveza helada
+reagent-desc-iced-beer = Una cerveza tan fría que el aire a su alrededor se congela.
 
-reagent-name-irish-car-bomb = Irish car bomb
-reagent-desc-irish-car-bomb = A troubling mixture of irish cream and ale.
+reagent-name-irish-car-bomb = bomba de coche irlandesa
+reagent-desc-irish-car-bomb = Una inquietante mezcla de crema irlandesa y ale.
 
-reagent-name-irish-cream = Irish cream
-reagent-desc-irish-cream = Whiskey-imbued cream. What else could you expect from the Irish.
+reagent-name-irish-cream = crema irlandesa
+reagent-desc-irish-cream = Nata imbuida de whisky. Qué más podías esperar de los irlandeses.
 
-reagent-name-irish-coffee = Irish coffee
-reagent-desc-irish-coffee = Coffee served with irish cream. Regular cream just isn't the same!
+reagent-name-irish-coffee = café irlandés
+reagent-desc-irish-coffee = Café servido con crema irlandesa. ¡La nata normal no es lo mismo!
 
-reagent-name-jack-rose = Jack rose
-reagent-desc-jack-rose = Excessively Red.
+reagent-name-jack-rose = Jack Rose
+reagent-desc-jack-rose = Excesivamente rojo.
 
-reagent-name-jungle-bird = jungle bird
-reagent-desc-jungle-bird = Despite the name, it’s not exceptionally popular among Voxes.
+reagent-name-jungle-bird = pájaro de la jungla
+reagent-desc-jungle-bird = A pesar del nombre, no es especialmente popular entre los Vox.
 
 reagent-name-kalimotxo = kalimotxo
-reagent-desc-kalimotxo = A high-class Cuba Libre, for the discerning alcoholic.
+reagent-desc-kalimotxo = Un Cuba Libre de alta gama, para el alcohólico exigente.
 
-reagent-name-kira-special = Kira special
-reagent-desc-kira-special = Long live the guy who everyone had mistaken for a girl. Baka!
+reagent-name-kira-special = especial de Kira
+reagent-desc-kira-special = Larga vida al tipo al que todos confundían con una chica. ¡Baka!
 
 reagent-name-tortuga = Tortuga
-reagent-desc-tortuga = Perfect for pirates who’ve been selected as the designated driver. Yarr!
+reagent-desc-tortuga = Perfecto para los piratas que han sido elegidos como el conductor designado. ¡Yarrr!
 
 reagent-name-long-island-iced-tea = Long Island iced tea
-reagent-desc-long-island-iced-tea = The liquor cabinet, brought together in a delicious mix. Intended for middle-aged alcoholic women only.
+reagent-desc-long-island-iced-tea = El armario de licores, unido en una mezcla deliciosa. Solo para mujeres de mediana edad alcohólicas.
 
 reagent-name-manhattan = Manhattan
-reagent-desc-manhattan = The Detective's undercover drink of choice. He never could stomach gin...
+reagent-desc-manhattan = La bebida encubierta favorita del Detective. Nunca pudo soportar la ginebra...
 
-reagent-name-manhattan-project = Manhattan Project
-reagent-desc-manhattan-project = A scientist's drink of choice, for pondering ways to blow up the ship.
+reagent-name-manhattan-project = Proyecto Manhattan
+reagent-desc-manhattan-project = La bebida favorita de un científico, para meditar maneras de hacer explotar la nave.
 
 reagent-name-manly-dorf = Manly Dorf
-reagent-desc-manly-dorf = Beer and Ale, brought together in a delicious mix. Intended for stout dwarves only.
+reagent-desc-manly-dorf = Cerveza y ale, unidos en una mezcla deliciosa. Solo para enanos fornidos.
 
 reagent-name-margarita = margarita
-reagent-desc-margarita = On the rocks with salt on the rim. Arriba~!
+reagent-desc-margarita = Con hielo y sal en el borde. ¡Arriba~!
 
-reagent-name-the-martinez = The Martinez
-reagent-desc-the-martinez = The edgerunner legend. Remembered by a drink, forgotten by a drunk.
+reagent-name-the-martinez = El Martinez
+reagent-desc-the-martinez = La leyenda del filo de la navaja. Recordado por una bebida, olvidado por un borracho.
 
-reagent-name-martini = classic martini
-reagent-desc-martini = Vermouth with Gin. Not quite how 007 enjoyed it, but still delicious.
+reagent-name-martini = martini clásico
+reagent-desc-martini = Vermut con ginebra. No exactamente como lo disfrutaba el 007, pero igual de delicioso.
 
-reagent-name-mead = mead
-reagent-desc-mead = A Viking's drink, though a cheap one.
+reagent-name-mead = hidromiel
+reagent-desc-mead = La bebida de un vikingo, aunque una barata.
 
 reagent-name-mojito = Mojito
-reagent-desc-mojito = If it's good enough for Spesscuba, it's good enough for you.
+reagent-desc-mojito = Si es lo suficientemente bueno para el Spesscuba, es lo suficientemente bueno para ti.
 
-reagent-name-monkey-business = monkey business
-reagent-desc-monkey-business = You’ve got to wonder how the monkeys feel about this drink.
+reagent-name-monkey-business = negocio de monos
+reagent-desc-monkey-business = Tienes que preguntarte cómo se sienten los monos con esta bebida.
 
-reagent-name-moonshine = moonshine
-reagent-desc-moonshine = Artisanal homemade liquor. What could go wrong?
+reagent-name-moonshine = aguardiente casero
+reagent-desc-moonshine = Licor artesanal hecho en casa. ¿Qué podría salir mal?
 
-reagent-name-neurotoxin = neurotoxin
-reagent-desc-neurotoxin = A strong neurotoxin that puts the subject into a death-like state.
+reagent-name-neurotoxin = neurotoxina
+reagent-desc-neurotoxin = Una neurotoxina potente que sume al sujeto en un estado similar a la muerte.
 
-reagent-name-painkiller = painkiller
-reagent-desc-painkiller = A cure for what ails you.
+reagent-name-painkiller = analgésico
+reagent-desc-painkiller = Un remedio para lo que te aqueja.
 
 reagent-name-patron = Patrón
-reagent-desc-patron = Tequila with silver in it, a favorite of alcoholic women in the club scene.
+reagent-desc-patron = Tequila con plata, favorita de las mujeres alcohólicas en las discotecas.
 
 reagent-name-pina-colada = Piña Colada
-reagent-desc-pina-colada = For getting lost in the rain.
+reagent-desc-pina-colada = Para perderte bajo la lluvia.
 
 reagent-name-radler = radler
-reagent-desc-radler = A simple but staple classic, straight out of Space-Germany.
+reagent-desc-radler = Un clásico simple pero esencial, directo de la Alemania Espacial.
 
-reagent-name-red-mead = red mead
-reagent-desc-red-mead = The true Viking's drink! Even though it has a strange red color.
+reagent-name-red-mead = hidromiel rojo
+reagent-desc-red-mead = ¡La verdadera bebida vikinga! Aunque tiene un extraño color rojo.
 
 reagent-name-rewriter = Rewriter
-reagent-desc-rewriter = The secret of the sanctuary of the Librarian...
+reagent-desc-rewriter = El secreto del santuario del Bibliotecario...
 
 reagent-name-sbiten = sbiten
-reagent-desc-sbiten = A spicy Vodka! Might be a little hot for the little guys!
+reagent-desc-sbiten = ¡Un vodka picante! ¡Podría ser un poco fuerte para los pequeños!
 
-reagent-name-screwdriver-cocktail = screwdriver
-reagent-desc-screwdriver-cocktail = Vodka, mixed with plain ol' orange juice. The result is surprisingly delicious.
+reagent-name-screwdriver-cocktail = destornillador
+reagent-desc-screwdriver-cocktail = Vodka mezclado con zumo de naranja normal. El resultado es sorprendentemente delicioso.
 
 reagent-name-cogchamp = Cogchamp
-reagent-desc-cogchamp = Not even Ratvar's Four Generals could withstand this! Qevax Jryy!
+reagent-desc-cogchamp = ¡Ni los Cuatro Generales de Ratvar podrían resistir esto! ¡Orory oryra!
 
-reagent-name-silencer = silencer
-reagent-desc-silencer = A drink from Mime Heaven.
+reagent-name-silencer = silenciador
+reagent-desc-silencer = Una bebida del Cielo de los Mimos.
 
 reagent-name-singulo = singulo
-reagent-desc-singulo = A blue-space beverage!
+reagent-desc-singulo = ¡Una bebida del espacio azul!
 
-reagent-name-snow-white = Snow White
-reagent-desc-snow-white = A cold refreshment.
+reagent-name-snow-white = Blancanieves
+reagent-desc-snow-white = Un refresco frío.
 
-reagent-name-sui-dream = sui dream
-reagent-desc-sui-dream = 'Comprised of: White soda, blue Curaçao, melon liquor.'
+reagent-name-sui-dream = sueño sui
+reagent-desc-sui-dream = 'Compuesto de: refresco blanco, curaçao azul, licor de melón.'
 
-reagent-name-syndicate-bomb = syndicate bomb
-reagent-desc-syndicate-bomb = Somebody set us up the bomb!
+reagent-name-syndicate-bomb = bomba del sindicato
+reagent-desc-syndicate-bomb = ¡Alguien nos ha preparado la bomba!
 
 reagent-name-tequila-sunrise = tequila sunrise
-reagent-desc-tequila-sunrise = Tequila and orange juice. Much like a Screwdriver, only Mexican.
+reagent-desc-tequila-sunrise = Tequila y zumo de naranja. Muy parecido a un Destornillador, pero mexicano.
 
 reagent-name-three-mile-island = Three Mile Island iced tea
-reagent-desc-three-mile-island = "Made for a woman, strong enough for a man."
+reagent-desc-three-mile-island = "Hecho para una mujer, suficientemente fuerte para un hombre."
 
-reagent-name-toxins-special = toxins special
-reagent-desc-toxins-special = This thing is ON FIRE! CALL THE DAMN SHUTTLE!
+reagent-name-toxins-special = especial de toxinas
+reagent-desc-toxins-special = ¡Esto está EN LLAMAS! ¡LLAMA AL MALDITO TRANSBORDADOR!
 
 reagent-name-vampiro = vampiro
-reagent-desc-vampiro = Popular in Mexico and Transylvania.
+reagent-desc-vampiro = Popular en México y Transilvania.
 
 reagent-name-vodka-martini = vodka martini
-reagent-desc-vodka-martini = Vodka instead of Gin. Not quite how 007 enjoyed it, but still delicious.
+reagent-desc-vodka-martini = Vodka en lugar de ginebra. No exactamente como lo disfrutaba el 007, pero igual de delicioso.
 
-reagent-name-vodka-tonic = vodka tonic
-reagent-desc-vodka-tonic = For when a gin and tonic isn't russian enough.
+reagent-name-vodka-tonic = vodka tónica
+reagent-desc-vodka-tonic = Para cuando una gin tónica no es suficientemente rusa.
 
-reagent-name-whiskey-cola = whiskey cola
-reagent-desc-whiskey-cola = Whiskey, mixed with cola. Surprisingly refreshing.
+reagent-name-whiskey-cola = whisky cola
+reagent-desc-whiskey-cola = Whisky mezclado con cola. Sorprendentemente refrescante.
 
-reagent-name-whiskey-soda = whiskey soda
-reagent-desc-whiskey-soda = For the more refined griffon.
+reagent-name-whiskey-soda = whisky soda
+reagent-desc-whiskey-soda = Para el grifo más refinado.
 
-reagent-name-white-gilgamesh = White Gilgamesh
-reagent-desc-white-gilgamesh = A sickening mixture of milk and beer. Makes you feel like you're made of wood.
+reagent-name-white-gilgamesh = Gilgamesh Blanco
+reagent-desc-white-gilgamesh = Una nauseabunda mezcla de leche y cerveza. Te hace sentir que estás hecho de madera.
 
-reagent-name-white-russian = White Russian
-reagent-desc-white-russian = That's just, like, your opinion, man...
+reagent-name-white-russian = Ruso Blanco
+reagent-desc-white-russian = Eso es, como, tu opinión, tío...
 
 reagent-name-vodka-red-bool = vodka red bool
-reagent-desc-vodka-red-bool = Because heart failure and liver failure go hand in hand.
+reagent-desc-vodka-red-bool = Porque el fallo cardíaco y el hepático van de la mano.
 
 reagent-name-xeno-basher = Xeno Basher
-reagent-desc-xeno-basher = The perfect drink before an expedition.
+reagent-desc-xeno-basher = La bebida perfecta antes de una expedición.
 
-reagent-name-irish-bool = Irish bool
-reagent-desc-irish-bool = Like a bool in a Ireland shop.
+reagent-name-irish-bool = bool irlandés
+reagent-desc-irish-bool = Como un bool en una tienda de Irlanda.
 
-reagent-name-budget-insuls = budget insuls
-reagent-desc-budget-insuls = A tider's preferred drink.
+reagent-name-budget-insuls = insuls de presupuesto
+reagent-desc-budget-insuls = La bebida preferida de un tider.
 
-reagent-name-watermelon-wakeup = watermelon wakeup
-reagent-desc-watermelon-wakeup = If you want to be awake, this will do it... Also sweet.
+reagent-name-watermelon-wakeup = despertar de sandía
+reagent-desc-watermelon-wakeup = Si quieres estar despierto, esto lo conseguirá... Además es dulce.
 
 reagent-name-rubberneck = rubberneck
-reagent-desc-rubberneck = A popular drink amongst those adhering to an all synthetic diet.
+reagent-desc-rubberneck = Una bebida popular entre quienes siguen una dieta completamente sintética.
 
 reagent-name-caipirinha = caipirinha
-reagent-desc-caipirinha = The São Paulo special, straight from old Brazil.
+reagent-desc-caipirinha = El especial de São Paulo, directo del viejo Brasil.
 
 reagent-name-daiquiri = daiquiri
-reagent-desc-daiquiri = A classic rum cocktail which remains popular even in the cold reaches of space.
+reagent-desc-daiquiri = Un cóctel clásico de ron que sigue siendo popular incluso en los fríos confines del espacio.
 
 reagent-name-death-in-the-afternoon = death in the afternoon
-reagent-desc-death-in-the-afternoon = "Pour one jigger absinthe into a Champagne glass. Add iced Champagne until it attains the proper opalescent milkiness. Drink three to five of these slowly." - Ernest Hemingway
+reagent-desc-death-in-the-afternoon = "Vierte un jigger de absenta en una copa de champán. Añade champán helado hasta que alcance la opacidad lechosa adecuada. Bebe de tres a cinco de estos lentamente." - Ernest Hemingway
 
 reagent-name-empress-75 = empress 75
-reagent-desc-empress-75 = A more refined take on the mimosa. Just the thing Marie Antoinette might've sipped on before the revolution.
+reagent-desc-empress-75 = Una versión más refinada del mimosa. Justo lo que Marie Antoinette podría haber bebido antes de la revolución.
 
-reagent-name-espresso-martini = espresso martini
-reagent-desc-espresso-martini = To wake you up and wind you down. Garnished with coffee beans and icy-cold.
+reagent-name-espresso-martini = martini de espresso
+reagent-desc-espresso-martini = Para despertarte y relajarte. Decorado con granos de café y bien frío.
 
 reagent-name-mayojito = mayojito
-reagent-desc-mayojito = An affront to god and man. Do not drink it.
+reagent-desc-mayojito = Un ultraje a Dios y al hombre. No lo bebas.
 
 reagent-name-mimeosa = mimeosa
-reagent-desc-mimeosa = It has an orange tang so sour you just can't describe it.
+reagent-desc-mimeosa = Tiene un toque de naranja tan ácido que no puedes describirlo.
 
 reagent-name-mimosa = mimosa
-reagent-desc-mimosa = Perfect for a lively brunch out with the girls.
+reagent-desc-mimosa = Perfecta para un animado brunch con las chicas.
 
 reagent-name-moscow-mule = moscow mule
-reagent-desc-moscow-mule = A surpsingly strong and refreshing mixed drink, served in an iconic copper mug.
+reagent-desc-moscow-mule = Una bebida mezclada sorprendentemente fuerte y refrescante, servida en el icónico vaso de cobre.
 
-reagent-name-the-sun-also-rises = the sun also rises
-reagent-desc-the-sun-also-rises = A strong cocktail mixed into a murky blend. A secret favorite of tortured authors.
+reagent-name-the-sun-also-rises = el sol también sale
+reagent-desc-the-sun-also-rises = Un cóctel fuerte mezclado en una mezcla turbia. El favorito secreto de los autores atormentados.
 
-reagent-name-whiskey-sour = whiskey sour
-reagent-desc-whiskey-sour = What's the secret ingredient? Eggs. It's eggs.
+reagent-name-whiskey-sour = whisky sour
+reagent-desc-whiskey-sour = ¿Cuál es el ingrediente secreto? Huevos. Son huevos.
 
 reagent-name-zombiecocktail = Zombie
-reagent-desc-zombiecocktail = It gets in your head. Your he-eyeh-ead.
+reagent-desc-zombiecocktail = Se te mete en la cabeza. En tu ca-a-a-beza.
 
-reagent-name-bacchus-blessing = bacchus's blessing
-reagent-desc-bacchus-blessing = You didn't think it was possible for a liquid to be so utterly revolting. Are you sure about this...?
+reagent-name-bacchus-blessing = bendición de Baco
+reagent-desc-bacchus-blessing = No creías que fuera posible que un líquido fuera tan absolutamente repugnante. ¿Estás seguro de esto...?

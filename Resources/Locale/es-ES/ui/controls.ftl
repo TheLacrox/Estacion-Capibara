@@ -1,3 +1,3 @@
-﻿## Loc strings for generic "on/off button" control.
-ui-button-off = Off
-ui-button-on = On
+## Loc strings for generic "on/off button" control.
+ui-button-off = Apagado
+ui-button-on = Encendido

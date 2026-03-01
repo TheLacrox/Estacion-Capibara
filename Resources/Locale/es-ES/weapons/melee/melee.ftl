@@ -10,10 +10,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Goobstation - Armor resisting syringe gun
-melee-inject-failed-armor = Your {$weapon} cannot inject through armor!
+melee-inject-failed-armor = ¡Tu {$weapon} no puede inyectar a través de la armadura!
 
-melee-balloon-pop = {CAPITALIZE(THE($balloon))} popped!
+melee-balloon-pop = ¡{CAPITALIZE(THE($balloon))} ha explotado!
 
 
 # BatteryComponent
-melee-battery-examine = It has enough charge for [color={$color}]{$count}[/color] hits.
+melee-battery-examine = Tiene carga suficiente para [color={$color}]{$count}[/color] golpes.

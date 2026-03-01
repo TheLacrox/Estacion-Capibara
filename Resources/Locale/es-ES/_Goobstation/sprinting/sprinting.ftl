@@ -1,5 +1,5 @@
-ui-options-function-sprint = Sprint
-sprint-disabled = You cannot sprint!
-no-sprint-while-restrained = You can't sprint while restrained!
-no-sprint-while-lying = You can't sprint while on the ground. Get up!
-no-sprint-while-weightless = You can't sprint with no footing!
+ui-options-function-sprint = Correr
+sprint-disabled = ¡No puedes correr!
+no-sprint-while-restrained = ¡No puedes correr mientras estás esposado/a!
+no-sprint-while-lying = ¡No puedes correr mientras estás en el suelo. ¡Levántate!
+no-sprint-while-weightless = ¡No puedes correr sin apoyo!

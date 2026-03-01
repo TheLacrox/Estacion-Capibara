@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-toggleoutline-desc = Toggles outline drawing on entities.
-cmd-toggleoutline-help = Usage: {$command}
-cmd-toggleoutline-notify = Draw outlines set to: {$cvar}
+cmd-toggleoutline-desc = Alterna el dibujo de contornos en las entidades.
+cmd-toggleoutline-help = Uso: {$command}
+cmd-toggleoutline-notify = Dibujo de contornos establecido a: {$cvar}

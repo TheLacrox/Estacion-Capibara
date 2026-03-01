@@ -7,40 +7,40 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-shared-solution-container-component-on-examine-main-text = It contains {INDEFINITE($desc)} [color={$color}]{$desc}[/color] { $chemCount ->
-    [1] chemical.
-   *[other] mixture of chemicals.
+shared-solution-container-component-on-examine-main-text = Contiene {INDEFINITE($desc)} [color={$color}]{$desc}[/color] { $chemCount ->
+    [1] producto químico.
+   *[other] mezcla de productos químicos.
     }
 
-examinable-solution-has-recognizable-chemicals = You can recognize {$recognizedString} in the solution.
+examinable-solution-has-recognizable-chemicals = Puedes reconocer {$recognizedString} en la solución.
 examinable-solution-recognized = [color={$color}]{$chemical}[/color]
 
-examinable-solution-on-examine-volume = The contained solution is { $fillLevel ->
-    [exact] holding [color=white]{$current}/{$max}u[/color].
+examinable-solution-on-examine-volume = La solución contenida está { $fillLevel ->
+    [exact] con [color=white]{$current}/{$max}u[/color].
    *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
 }
 
-examinable-solution-on-examine-volume-no-max = The contained solution is { $fillLevel ->
-    [exact] holding [color=white]{$current}u[/color].
+examinable-solution-on-examine-volume-no-max = La solución contenida está { $fillLevel ->
+    [exact] con [color=white]{$current}u[/color].
    *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
 }
 
-examinable-solution-on-examine-volume-puddle = The puddle is { $fillLevel ->
+examinable-solution-on-examine-volume-puddle = El charco está { $fillLevel ->
     [exact] [color=white]{$current}u[/color].
-    [full] huge and overflowing!
-    [mostlyfull] huge and overflowing!
-    [halffull] deep and flowing.
-    [halfempty] very deep.
-   *[mostlyempty] pooling together.
-    [empty] forming multiple small pools.
+    [full] ¡enorme y desbordándose!
+    [mostlyfull] ¡enorme y desbordándose!
+    [halffull] profundo y fluyendo.
+    [halfempty] muy profundo.
+   *[mostlyempty] acumulándose.
+    [empty] formando varios charcos pequeños.
 }
 
 -solution-vague-fill-level =
     { $fillLevel ->
-        [full] [color=white]Full[/color]
-        [mostlyfull] [color=#DFDFDF]Mostly Full[/color]
-        [halffull] [color=#C8C8C8]Half Full[/color]
-        [halfempty] [color=#C8C8C8]Half Empty[/color]
-        [mostlyempty] [color=#A4A4A4]Mostly Empty[/color]
-       *[empty] [color=gray]Empty[/color]
+        [full] [color=white]Lleno[/color]
+        [mostlyfull] [color=#DFDFDF]Casi lleno[/color]
+        [halffull] [color=#C8C8C8]Medio lleno[/color]
+        [halfempty] [color=#C8C8C8]Medio vacío[/color]
+        [mostlyempty] [color=#A4A4A4]Casi vacío[/color]
+       *[empty] [color=gray]Vacío[/color]
     }

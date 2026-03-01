@@ -1,115 +1,115 @@
 # Chest
 
-marking-ArachnidOverlayFluffy = Fluffy
-marking-ArachnidOverlayFluffy-fluffy = Fluff
+marking-ArachnidOverlayFluffy = Esponjoso
+marking-ArachnidOverlayFluffy-fluffy = Pelusa
 
-marking-ArachnidTorsoSegments = Segmented Chest
-marking-ArachnidTorsoSegments-segments1 = Chest
-marking-ArachnidTorsoSegments-segments2 = Stomach
+marking-ArachnidTorsoSegments = Torso Segmentado
+marking-ArachnidTorsoSegments-segments1 = Pecho
+marking-ArachnidTorsoSegments-segments2 = Abdomen
 
-marking-SpiderMirror = Mirror
-marking-SpiderMirror-mirror = Mirror
+marking-SpiderMirror = Espejo
+marking-SpiderMirror-mirror = Espejo
 
 # Head
 
-marking-ArachnidHeadSegments = Segmented Head
-marking-ArachnidHeadSegments-segments1 = Head
-marking-ArachnidHeadSegments-segments2 = Stripe
+marking-ArachnidHeadSegments = Cabeza Segmentada
+marking-ArachnidHeadSegments-segments1 = Cabeza
+marking-ArachnidHeadSegments-segments2 = Franja
 
 # Snout
 
-marking-WhipSpiderMouth = Chelicerae (Whip)
-marking-WhipSpiderMouth-whipspidermouth = Chelicerae
+marking-WhipSpiderMouth = Quelíceros (Látigo)
+marking-WhipSpiderMouth-whipspidermouth = Quelíceros
 
 # Eyes
 
-marking-ArachnidEyesDefault = Eyes
-marking-ArachnidEyesDefault-eyes = Eyes (Default)
+marking-ArachnidEyesDefault = Ojos
+marking-ArachnidEyesDefault-eyes = Ojos (Predeterminados)
 
-marking-ArachnidEyesJumper = Jumper Eyes
-marking-ArachnidEyesJumper-jumper1 = Outer Right
-marking-ArachnidEyesJumper-jumper2 = Inner Right
-marking-ArachnidEyesJumper-jumper3 = Inner Left
-marking-ArachnidEyesJumper-jumper4 = Outer Left
+marking-ArachnidEyesJumper = Ojos de Araña Saltarina
+marking-ArachnidEyesJumper-jumper1 = Exterior Derecho
+marking-ArachnidEyesJumper-jumper2 = Interior Derecho
+marking-ArachnidEyesJumper-jumper3 = Interior Izquierdo
+marking-ArachnidEyesJumper-jumper4 = Exterior Izquierdo
 
-marking-ArachnidEyesJumperGlowing = Jumper Glowing Eyes
-marking-ArachnidEyesJumperGlowing-jumper1 = Outer Right
-marking-ArachnidEyesJumperGlowing-jumper2 = Inner Right
-marking-ArachnidEyesJumperGlowing-jumper3 = Inner Left
-marking-ArachnidEyesJumperGlowing-jumper4 = Outer Left
+marking-ArachnidEyesJumperGlowing = Ojos Brillantes de Araña Saltarina
+marking-ArachnidEyesJumperGlowing-jumper1 = Exterior Derecho
+marking-ArachnidEyesJumperGlowing-jumper2 = Interior Derecho
+marking-ArachnidEyesJumperGlowing-jumper3 = Interior Izquierdo
+marking-ArachnidEyesJumperGlowing-jumper4 = Exterior Izquierdo
 
-marking-ArachnidEyesRound = Round Eyes
-marking-ArachnidEyesRound-round1 = Inner
-marking-ArachnidEyesRound-round2 = Upper
-marking-ArachnidEyesRound-round3 = Outer
-marking-ArachnidEyesRound-round4 = Sides
+marking-ArachnidEyesRound = Ojos Redondos
+marking-ArachnidEyesRound-round1 = Interior
+marking-ArachnidEyesRound-round2 = Superior
+marking-ArachnidEyesRound-round3 = Exterior
+marking-ArachnidEyesRound-round4 = Laterales
 
-marking-ArachnidEyesRoundGlowing = Round Glowing Eyes
-marking-ArachnidEyesRoundGlowing-round1 = Inner
-marking-ArachnidEyesRoundGlowing-round2 = Upper
-marking-ArachnidEyesRoundGlowing-round3 = Outer
-marking-ArachnidEyesRoundGlowing-round4 = Sides
+marking-ArachnidEyesRoundGlowing = Ojos Redondos Brillantes
+marking-ArachnidEyesRoundGlowing-round1 = Interior
+marking-ArachnidEyesRoundGlowing-round2 = Superior
+marking-ArachnidEyesRoundGlowing-round3 = Exterior
+marking-ArachnidEyesRoundGlowing-round4 = Laterales
 
-marking-SpiderEyesMulti = Multicolor Eyes
-marking-SpiderEyesMulti-multi1 = Top
-marking-SpiderEyesMulti-multi2 = Middle Top
-marking-SpiderEyesMulti-multi3 = Middle Bottom
-marking-SpiderEyesMulti-multi4 = Bottom
+marking-SpiderEyesMulti = Ojos Multicolor
+marking-SpiderEyesMulti-multi1 = Superior
+marking-SpiderEyesMulti-multi2 = Centro Superior
+marking-SpiderEyesMulti-multi3 = Centro Inferior
+marking-SpiderEyesMulti-multi4 = Inferior
 
-marking-SpiderGlowEyes = Glowing Eyes
-marking-SpiderGlowEyes-glow = Glowing Eyes
+marking-SpiderGlowEyes = Ojos Brillantes
+marking-SpiderGlowEyes-glow = Ojos Brillantes
 
 # RArm
 
-marking-ArachnidRArmSegments = Segmented Arm (Right)
-marking-ArachnidRArmSegments-segments1 = Upper Arm
-marking-ArachnidRArmSegments-segments2 = Forearm
+marking-ArachnidRArmSegments = Brazo Segmentado (Derecho)
+marking-ArachnidRArmSegments-segments1 = Parte Superior del Brazo
+marking-ArachnidRArmSegments-segments2 = Antebrazo
 
 # LArm
 
-marking-ArachnidLArmSegments = Segmented Arm (Left)
-marking-ArachnidLArmSegments-segments1 = Upper Arm
-marking-ArachnidLArmSegments-segments2 = Forearm
+marking-ArachnidLArmSegments = Brazo Segmentado (Izquierdo)
+marking-ArachnidLArmSegments-segments1 = Parte Superior del Brazo
+marking-ArachnidLArmSegments-segments2 = Antebrazo
 
 # RLeg
 
-marking-ArachnidRLegSegments = Segmented Leg (Right)
-marking-ArachnidRLegSegments-segments1 = Thigh
-marking-ArachnidRLegSegments-segments2 = Shin
+marking-ArachnidRLegSegments = Pierna Segmentada (Derecha)
+marking-ArachnidRLegSegments-segments1 = Muslo
+marking-ArachnidRLegSegments-segments2 = Espinilla
 
 # LLeg
 
-marking-ArachnidLLegSegments = Segmented Leg (Left)
-marking-ArachnidLLegSegments-segments1 = Thigh
-marking-ArachnidLLegSegments-segments2 = Shin
+marking-ArachnidLLegSegments = Pierna Segmentada (Izquierda)
+marking-ArachnidLLegSegments-segments1 = Muslo
+marking-ArachnidLLegSegments-segments2 = Espinilla
 
 # UndergarmentBottom
 
 # UndergarmentTop
 
-marking-UndergarmentTopBinderA = Binder
-marking-UndergarmentTopBinderA-binder = Binder
+marking-UndergarmentTopBinderA = Faja
+marking-UndergarmentTopBinderA-binder = Faja
 
-marking-UndergarmentTopTanktopA = Tanktop
-marking-UndergarmentTopTanktopA-tanktop = Tanktop
+marking-UndergarmentTopTanktopA = Camiseta de Tirantes
+marking-UndergarmentTopTanktopA-tanktop = Camiseta de Tirantes
 
-marking-UndershirtBraSportsA = Bra (Sports)
-marking-UndershirtBraSportsA-sports = Bra
+marking-UndershirtBraSportsA = Sujetador (Deportivo)
+marking-UndershirtBraSportsA-sports = Sujetador
 
-marking-UndershirtBraStraplessA = Bra (Strapless)
-marking-UndershirtBraStraplessA-strapless = Bra
+marking-UndershirtBraStraplessA = Sujetador (Sin Tirantes)
+marking-UndershirtBraStraplessA-strapless = Sujetador
 
-marking-UndershirtDefaultA = Undershirt
-marking-UndershirtDefaultA-undershirt = Undershirt
+marking-UndershirtDefaultA = Camiseta Interior
+marking-UndershirtDefaultA-undershirt = Camiseta Interior
 
-marking-UndershirtGrossSleevelessA = Tanktop (Gross)
-marking-UndershirtGrossSleevelessA-grosssleeveless = Tanktop
+marking-UndershirtGrossSleevelessA = Camiseta de Tirantes (Gruesa)
+marking-UndershirtGrossSleevelessA-grosssleeveless = Camiseta de Tirantes
 
-marking-UndershirtNanotrasenA = Undershirt (Nanotrasen)
-marking-UndershirtNanotrasenA-nanotrasen = Undershirt
+marking-UndershirtNanotrasenA = Camiseta Interior (Nanotrasen)
+marking-UndershirtNanotrasenA-nanotrasen = Camiseta Interior
 
-marking-UndershirtRolledA = Undershirt (Cropped)
-marking-UndershirtRolledA-rolledundershirt = Undershirt
+marking-UndershirtRolledA = Camiseta Interior (Recortada)
+marking-UndershirtRolledA-rolledundershirt = Camiseta Interior
 
 # LFoot
 
@@ -123,28 +123,28 @@ marking-UndershirtRolledA-rolledundershirt = Undershirt
 
 # Hair
 
-marking-SpiderHair1 = Fluffy
-marking-SpiderHair2 = Long Horned
-marking-SpiderHair3 = Wisps
+marking-SpiderHair1 = Esponjoso
+marking-SpiderHair2 = Cornudo Largo
+marking-SpiderHair3 = Mechones
 
 # HeadSide
 
-marking-ArachnidCheliceraeSmall = Chelicerae (Small)
-marking-ArachnidCheliceraeSmall-small = Chelicerae
+marking-ArachnidCheliceraeSmall = Quelíceros (Pequeños)
+marking-ArachnidCheliceraeSmall-small = Quelíceros
 
 # HeadTop
 
 # Tail
 
-marking-AbdomenBasic = Abdomen (Basic)
-marking-AbdomenBasic-abdomenbasic1 = Legs
+marking-AbdomenBasic = Abdomen (Básico)
+marking-AbdomenBasic-abdomenbasic1 = Patas
 marking-AbdomenBasic-abdomenbasic2 = Abdomen
 
-marking-AbdomenWidow = Abdomen (Widow)
-marking-AbdomenWidow-widow1 = Abdomen and Arms
-marking-AbdomenWidow-widow2 = Marking
+marking-AbdomenWidow = Abdomen (Viuda)
+marking-AbdomenWidow-widow1 = Abdomen y Brazos
+marking-AbdomenWidow-widow2 = Marca
 
-marking-CreepyArms = Creepy Arms
-marking-CreepyArms-creepy = Creepy Arms
+marking-CreepyArms = Brazos Espeluznantes
+marking-CreepyArms-creepy = Brazos Espeluznantes
 
 # RArmExtension

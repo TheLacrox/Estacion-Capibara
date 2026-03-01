@@ -1,12 +1,12 @@
 entity-effect-guidebook-modify-disgust =
     { $chance ->
         [1] { $deltasign ->
-                [1] Increases
-                *[-1] Decreases
+                [1] Aumenta
+                *[-1] Disminuye
             }
         *[other]
             { $deltasign ->
-                [1] increase
-                *[-1] decrease
+                [1] aumentar
+                *[-1] disminuir
             }
-    } disgust level by { $amount }
+    } el nivel de asco en { $amount }

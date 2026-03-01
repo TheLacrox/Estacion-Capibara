@@ -14,26 +14,25 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 
-## Guardian host specific
+## Específico del anfitrión del guardián
 
-guardian-created = You feel... Haunted.
-guardian-already-present-invalid-creation = You are NOT re-living that haunting experience!
-guardian-no-actions-invalid-creation = You don't have the ability to host a guardian!
-guardian-activator-empty-invalid-creation = The injector is spent.
-guardian-activator-empty-examine = [color=#ba1919]The injector is spent.[/color]
-guardian-activator-invalid-target = {CAPITALIZE(THE($entity))} cannot be injected!
-guardian-no-soul = Your guardian has no soul.
-guardian-available = Your guardian now has a soul.
-guardian-inside-container = There's no room to release your guardian!
+guardian-created = Sientes... que estás embrujado.
+guardian-already-present-invalid-creation = ¡No vas a revivir esa experiencia de estar embrujado!
+guardian-no-actions-invalid-creation = ¡No tienes la habilidad de albergar un guardián!
+guardian-activator-empty-invalid-creation = El inyector está agotado.
+guardian-activator-empty-examine = [color=#ba1919]El inyector está agotado.[/color]
+guardian-activator-invalid-target = ¡{CAPITALIZE(THE($entity))} no puede ser inyectado!
+guardian-no-soul = Tu guardián no tiene alma.
+guardian-available = Tu guardián ahora tiene un alma.
+guardian-inside-container = ¡No hay espacio para liberar a tu guardián!
 
-## Guardian entity specific
+## Específico de la entidad guardián
 
-guardian-entity-recall = The guardian vanishes into thin air!
-guardian-entity-taking-damage = Your guardian is taking damage!
+guardian-entity-recall = ¡El guardián desaparece en el aire!
+guardian-entity-taking-damage = ¡Tu guardián está recibiendo daño!
 
-## Health warnings
-guardian-host-critical-warn = YOUR HOST IS WOUNDED!
-guardian-host-death-warn = YOUR FORM SUCCUMBS TO NONEXISTENCE!
-guardian-death-warn = YOUR BODY IS PIERCED BY SUBATOMIC PAIN AS IT DISINTEGRATES!
-guardian-attack-host = You cannot attack your host.
-
+## Advertencias de salud
+guardian-host-critical-warn = ¡TU ANFITRIÓN ESTÁ HERIDO!
+guardian-host-death-warn = ¡TU FORMA SUCUMBE A LA INEXISTENCIA!
+guardian-death-warn = ¡TU CUERPO ES ATRAVESADO POR UN DOLOR SUBATÓMICO MIENTRAS SE DESINTEGRA!
+guardian-attack-host = No puedes atacar a tu anfitrión.

@@ -7,9 +7,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-steal-smsliver-title = Cut off a sliver from the supermatter crystal.
-objective-condition-steal-smsliver-description = Use any cutting tool that comes in handy. A scalpel is more recommended. Also, don't die of radiation poisoning.
+objective-condition-steal-smsliver-title = Corta un fragmento del cristal de supermateria.
+objective-condition-steal-smsliver-description = Usa cualquier herramienta de corte que tengas a mano. Se recomienda más un bisturí. Además, no mueras de envenenamiento por radiación.
 
-steal-target-groups-battery = Power Cell
+steal-target-groups-battery = Celda de energía
 
-objective-condition-steal-gemini-projector-description = If the Research Director is using it you'll have to pry out of their spine. We recommend you make a diversion and disable them.
+objective-condition-steal-gemini-projector-description = Si el Director de Investigación lo está usando, tendrás que arrancárselo de la columna vertebral. Te recomendamos crear una distracción e inhabilitarle.

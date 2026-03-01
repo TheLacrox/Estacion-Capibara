@@ -4,5 +4,5 @@
 # SPDX-License-Identifier: MIT
 
 # SolutionEmpty
-construction-examine-condition-solution-empty = First, empty the contents.
-construction-guide-condition-solution-empty = Empty the contents.
+construction-examine-condition-solution-empty = Primero, vacía el contenido.
+construction-guide-condition-solution-empty = Vacía el contenido.

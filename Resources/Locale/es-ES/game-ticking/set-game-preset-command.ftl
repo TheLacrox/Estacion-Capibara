@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-set-game-preset-command-description = Sets the game preset for the specified number of upcoming rounds.
-set-game-preset-command-help-text = setgamepreset <id> [number of rounds, defaulting to 1]
-set-game-preset-optional-argument-not-integer = If argument 2 is provided it must be a number.
+set-game-preset-command-description = Establece el preset de juego para el número de rondas siguientes especificado.
+set-game-preset-command-help-text = setgamepreset <id> [número de rondas, por defecto 1]
+set-game-preset-optional-argument-not-integer = Si se proporciona el argumento 2, debe ser un número.
 
-set-game-preset-preset-error = Unable to find game preset "{$preset}"
+set-game-preset-preset-error = No se puede encontrar el preset de juego "{$preset}"
 #set-game-preset-preset-set = Set game preset to "{$preset}"
-set-game-preset-preset-set-finite = Set game preset to "{$preset}" for the next {$rounds} rounds.
+set-game-preset-preset-set-finite = Preset de juego establecido en "{$preset}" para las próximas {$rounds} rondas.

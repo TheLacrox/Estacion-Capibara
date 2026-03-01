@@ -1,11 +1,11 @@
-station-beacon-ruin-abductor = Alien Signal
-station-beacon-ruin-arrivals = Arrivals Shuttle Signal
-station-beacon-ruin-beach-biodome = Beach Biodome
-station-beacon-ruin-golem-shuttle = Freelancer Signal
-station-beacon-ruin-hierophant-arena = Zealous Signal
-station-beacon-ruin-hunter-shelter = Hunter Signal
-station-beacon-ruin-small-outpost = Small Outpost
-station-beacon-ruin-rouge-ai = Unknown Laboratory
-station-beacon-ruin-snow-biodome = Snow Biodome
+station-beacon-ruin-abductor = Señal Alienígena
+station-beacon-ruin-arrivals = Señal del Transbordador de Llegadas
+station-beacon-ruin-beach-biodome = Biodomo de Playa
+station-beacon-ruin-golem-shuttle = Señal de Mercenario
+station-beacon-ruin-hierophant-arena = Señal Zelote
+station-beacon-ruin-hunter-shelter = Señal del Cazador
+station-beacon-ruin-small-outpost = Puesto Pequeño
+station-beacon-ruin-rouge-ai = Laboratorio Desconocido
+station-beacon-ruin-snow-biodome = Biodomo de Nieve
 
-station-beacon-ruin-syndicate = Syndicate Signal
+station-beacon-ruin-syndicate = Señal del Sindicato

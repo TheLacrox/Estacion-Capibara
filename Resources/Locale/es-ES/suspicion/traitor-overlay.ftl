@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-traitor-overlay-traitor-text = Traitor
+traitor-overlay-traitor-text = Traidor

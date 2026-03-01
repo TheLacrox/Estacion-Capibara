@@ -5,23 +5,23 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 antag-pirate-briefing =
-    The station refused to pay for your protection!
+    ¡La estación se ha negado a pagar por vuestra protección!
 
-    You must raid the station for valuables. Once you've gathered enough, sell it on your cargo pallet and insert the credits into the Data Siphon located on your ship.
-    Get as much loot as possible!
+    Debéis saquear la estación en busca de objetos valiosos. Una vez que hayáis reunido suficiente, vendedlo en vuestro palé de carga e insertad los créditos en el Sifón de Datos ubicado en vuestro barco.
+    ¡Conseguid todo el botín posible!
 
-    By activating the Data Siphon you will start draining the cargo department from their credits.
-    Beware, this will anchor your ship, alert and anger the entire crew, so get ready for a big fight!
+    Al activar el Sifón de Datos comenzaréis a drenar los créditos del departamento de carga.
+    ¡Cuidado! Esto anclará vuestro barco, alertará y enfurecerá a toda la tripulación, ¡así que preparaos para una gran pelea!
 
 antag-pirate-briefing-short =
-    You are a pirate.
-    Protect the ship, siphon the credits from the station, and raid it for even more loot!
+    Eres un pirata.
+    ¡Protege el barco, sifona los créditos de la estación y saquéala para conseguir aún más botín!
 
-pirate-roundend-append = The pirate crew plundered the station of it's valuables worth a total of [color=yellow]{$num}[/color] credits!
+pirate-roundend-append = ¡La tripulación pirata saqueó la estación obteniendo objetos valiosos por un total de [color=yellow]{$num}[/color] créditos!
 
-pirate-roundend-append-siphon = [color=green]The pirate crew managed to siphon[/color] [color=yellow]{$num}[/color] [color=green]credits from the station![/color]
+pirate-roundend-append-siphon = [color=green]La tripulación pirata logró sifonar[/color] [color=yellow]{$num}[/color] [color=green]créditos de la estación.[/color]
 
-pirate-roundend-append-lose = [color=red]The pirate crew lost their data bank![/color]
+pirate-roundend-append-lose = [color=red]¡La tripulación pirata perdió su banco de datos![/color]
 
 pirate-roundend-list =
-    The pirates were:
+    Los piratas fueron:

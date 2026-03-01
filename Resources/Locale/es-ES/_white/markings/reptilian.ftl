@@ -6,76 +6,76 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # HEAD
-marking-LizardHeadGuilmon= Lizard, guilmon
-marking-LizardHeadGuilmon-guilmon = Main
+marking-LizardHeadGuilmon= Lagarto, guilmon
+marking-LizardHeadGuilmon-guilmon = Principal
 
-marking-LizardShoutEasternDragon= Lizard, eastern dragon
-marking-LizardShoutEasternDragon-eastern_dragon = Outer
-marking-LizardShoutEasternDragon-eastern_dragon_overlay = Inner
+marking-LizardShoutEasternDragon= Lagarto, dragón oriental
+marking-LizardShoutEasternDragon-eastern_dragon = Exterior
+marking-LizardShoutEasternDragon-eastern_dragon_overlay = Interior
 
-marking-LizardShoutEasternDragonUsiki= Lizard, eastern dragon (Mustache)
-marking-LizardShoutEasternDragonUsiki-eastern_dragon = Outer
-marking-LizardShoutEasternDragonUsiki-eastern_dragon_overlay = Inner
-marking-LizardShoutEasternDragonUsiki-eastern_dragon_usiki = Mustache
+marking-LizardShoutEasternDragonUsiki= Lagarto, dragón oriental (Bigote)
+marking-LizardShoutEasternDragonUsiki-eastern_dragon = Exterior
+marking-LizardShoutEasternDragonUsiki-eastern_dragon_overlay = Interior
+marking-LizardShoutEasternDragonUsiki-eastern_dragon_usiki = Bigote
 
-marking-LizardHeadCobraHood = Lizard, hood with ears (Cobra)
-marking-LizardHeadCobraHood-cobra_hood_with_ears = Outer
-marking-LizardHeadCobraHood-cobra_hood_with_ears_overlay = Inner
+marking-LizardHeadCobraHood = Lagarto, capucha con orejas (Cobra)
+marking-LizardHeadCobraHood-cobra_hood_with_ears = Exterior
+marking-LizardHeadCobraHood-cobra_hood_with_ears_overlay = Interior
 
-marking-LizardHornsCurled-horns_curled_l = Left horn
-marking-LizardHornsCurled-horns_curled_r = Right horn
+marking-LizardHornsCurled-horns_curled_l = Cuerno izquierdo
+marking-LizardHornsCurled-horns_curled_r = Cuerno derecho
 
-marking-LizardHornsRam-horns_ram_l = Left horn
-marking-LizardHornsRam-horns_ram_r = Right horn
+marking-LizardHornsRam-horns_ram_l = Cuerno izquierdo
+marking-LizardHornsRam-horns_ram_r = Cuerno derecho
 
-marking-LizardHornsShort-horns_short_l = Left horn
-marking-LizardHornsShort-horns_short_r = Right horn
+marking-LizardHornsShort-horns_short_l = Cuerno izquierdo
+marking-LizardHornsShort-horns_short_r = Cuerno derecho
 
-marking-LizardHornsSimple-horns_simple_l = Left horn
-marking-LizardHornsSimple-horns_simple_r = Right horn
+marking-LizardHornsSimple-horns_simple_l = Cuerno izquierdo
+marking-LizardHornsSimple-horns_simple_r = Cuerno derecho
 
-marking-LizardHornsDouble-horns_double_l = Left horns
-marking-LizardHornsDouble-horns_double_r = Right horns
+marking-LizardHornsDouble-horns_double_l = Cuernos izquierdos
+marking-LizardHornsDouble-horns_double_r = Cuernos derechos
 
-marking-LizardHornsArgali-horns_argali_l = Left horn
-marking-LizardHornsArgali-horns_argali_r = Right horn
+marking-LizardHornsArgali-horns_argali_l = Cuerno izquierdo
+marking-LizardHornsArgali-horns_argali_r = Cuerno derecho
 
-marking-LizardHornsAyrshire-horns_ayrshire_l = Left Horn
-marking-LizardHornsAyrshire-horns_ayrshire_r = Right Horn
+marking-LizardHornsAyrshire-horns_ayrshire_l = Cuerno izquierdo
+marking-LizardHornsAyrshire-horns_ayrshire_r = Cuerno derecho
 
-marking-LizardHornsMyrsore-horns_myrsore_l = Left horn
-marking-LizardHornsMyrsore-horns_myrsore_r = Right horn
+marking-LizardHornsMyrsore-horns_myrsore_l = Cuerno izquierdo
+marking-LizardHornsMyrsore-horns_myrsore_r = Cuerno derecho
 
-marking-LizardHornsBighorn-horns_bighorn_l = Left horn
-marking-LizardHornsBighorn-horns_bighorn_r = Right horn
+marking-LizardHornsBighorn-horns_bighorn_l = Cuerno izquierdo
+marking-LizardHornsBighorn-horns_bighorn_r = Cuerno derecho
 
 # TAILS
-marking-SnakeLargeTail = Lizard, large snake tail
-marking-SnakeLargeTail-tail_snakelarge = Inner
-marking-SnakeLargeTail-tail_snakelarge_overlay = Outer
+marking-SnakeLargeTail = Lagarto, cola grande de serpiente
+marking-SnakeLargeTail-tail_snakelarge = Interior
+marking-SnakeLargeTail-tail_snakelarge_overlay = Exterior
 
 # SPINES
-marking-LizardChestSpinesAquatic = Lizard, chest, spines (Aquatic)
-marking-LizardChestSpinesAquatic-spines_aquatic = Spikes
-marking-LizardChestSpinesAquaticWithoutTail = Lizard, chest, spines (Aquatic, without tail)
-marking-LizardChestSpinesAquaticWithoutTail-spines_aquatic = Spikes
+marking-LizardChestSpinesAquatic = Lagarto, pecho, espinas (Acuático)
+marking-LizardChestSpinesAquatic-spines_aquatic = Pinchos
+marking-LizardChestSpinesAquaticWithoutTail = Lagarto, pecho, espinas (Acuático, sin cola)
+marking-LizardChestSpinesAquaticWithoutTail-spines_aquatic = Pinchos
 
-marking-LizardChestSpinesLong = Lizard, chest, spines (Long)
-marking-LizardChestSpinesLong-spines_long = Spikes
-marking-LizardChestSpinesLongWithoutTail = Lizard, chest, spines (Long, without tail)
-marking-LizardChestSpinesLongWithoutTail-spines_long = Spikes
+marking-LizardChestSpinesLong = Lagarto, pecho, espinas (Largas)
+marking-LizardChestSpinesLong-spines_long = Pinchos
+marking-LizardChestSpinesLongWithoutTail = Lagarto, pecho, espinas (Largas, sin cola)
+marking-LizardChestSpinesLongWithoutTail-spines_long = Pinchos
 
-marking-LizardChestSpinesLongMembrane = Lizard, chest, spines (Long, Membrane)
-marking-LizardChestSpinesLongMembrane-spines_longmembrane = spines
-marking-LizardChestSpinesLongMembraneWithoutTail = Lizard, chest, spines (Long, Membrane, without tail)
-marking-LizardChestSpinesLongMembraneWithoutTail-spines_longmembrane = spines
+marking-LizardChestSpinesLongMembrane = Lagarto, pecho, espinas (Largas, Membrana)
+marking-LizardChestSpinesLongMembrane-spines_longmembrane = espinas
+marking-LizardChestSpinesLongMembraneWithoutTail = Lagarto, pecho, espinas (Largas, Membrana, sin cola)
+marking-LizardChestSpinesLongMembraneWithoutTail-spines_longmembrane = espinas
 
-marking-LizardChestSpinesShort = Lizard, chest, spines (Short)
-marking-LizardChestSpinesShort-spines_short = Spikes
-marking-LizardChestSpinesShortWithoutTail = Lizard, chest, spines (Short, without tail)
-marking-LizardChestSpinesShortWithoutTail-spines_short = Spikes
+marking-LizardChestSpinesShort = Lagarto, pecho, espinas (Cortas)
+marking-LizardChestSpinesShort-spines_short = Pinchos
+marking-LizardChestSpinesShortWithoutTail = Lagarto, pecho, espinas (Cortas, sin cola)
+marking-LizardChestSpinesShortWithoutTail-spines_short = Pinchos
 
-marking-LizardChestSpinesShortMembrane = Lizard, chest, spines (Short, Membrane)
-marking-LizardChestSpinesShortMembrane-spines_short = Spikes
-marking-LizardChestSpinesShortMembraneWithoutTail = Lizard, chest, spines (Short, Membrane, without tail)
-marking-LizardChestSpinesShortMembraneWithoutTail-spines_short = Spikes
+marking-LizardChestSpinesShortMembrane = Lagarto, pecho, espinas (Cortas, Membrana)
+marking-LizardChestSpinesShortMembrane-spines_short = Pinchos
+marking-LizardChestSpinesShortMembraneWithoutTail = Lagarto, pecho, espinas (Cortas, Membrana, sin cola)
+marking-LizardChestSpinesShortMembraneWithoutTail-spines_short = Pinchos

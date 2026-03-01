@@ -9,17 +9,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-player-actions-reason = Reason
-admin-player-actions-bans = Ban List
-admin-player-actions-notes = Notes
-admin-player-actions-kick = Kick
-admin-player-actions-ban = Ban
+admin-player-actions-reason = Motivo
+admin-player-actions-bans = Lista de Bans
+admin-player-actions-notes = Notas
+admin-player-actions-kick = Expulsar
+admin-player-actions-ban = Banear
 admin-player-actions-ahelp = AHelp
-admin-player-actions-respawn = Respawn
-admin-player-actions-spawn = Spawn here
-admin-player-spawn-failed = Failed to find valid coordinates
-admin-player-actions-player-panel = Open Player Panel
+admin-player-actions-respawn = Reaparecer
+admin-player-actions-spawn = Aparecer aquí
+admin-player-spawn-failed = No se encontraron coordenadas válidas
+admin-player-actions-player-panel = Abrir Panel de Jugador
 
-admin-player-actions-clone = Clone
-admin-player-actions-follow = Follow
-admin-player-actions-confirm = Are you sure?
+admin-player-actions-clone = Clonar
+admin-player-actions-follow = Seguir
+admin-player-actions-confirm = ¿Estás seguro?

@@ -10,42 +10,42 @@
 
 ## 'createvote' command
 
-cmd-createvote-desc = Creates a vote
-cmd-createvote-help = Usage: createvote <'restart'|'preset'|'map'>
-cmd-createvote-cannot-call-vote-now = You can't call a vote right now!
-cmd-createvote-invalid-vote-type = Invalid vote type
-cmd-createvote-arg-vote-type = <vote type>
+cmd-createvote-desc = Crea una votación
+cmd-createvote-help = Uso: createvote <'restart'|'preset'|'map'>
+cmd-createvote-cannot-call-vote-now = ¡No puedes iniciar una votación ahora mismo!
+cmd-createvote-invalid-vote-type = Tipo de votación no válido
+cmd-createvote-arg-vote-type = <tipo de votación>
 
 ## 'customvote' command
 
-cmd-customvote-desc = Creates a custom vote
-cmd-customvote-help = Usage: customvote <title> <option1> <option2> [option3...]
-cmd-customvote-on-finished-tie = The vote '{$title}' has finished: tie between {$ties}!
-cmd-customvote-on-finished-win = The vote '{$title}' has finished: {$winner} wins!
-cmd-customvote-arg-title = <title>
-cmd-customvote-arg-option-n = <option{ $n }>
+cmd-customvote-desc = Crea una votación personalizada
+cmd-customvote-help = Uso: customvote <título> <opción1> <opción2> [opción3...]
+cmd-customvote-on-finished-tie = ¡La votación '{$title}' ha terminado: empate entre {$ties}!
+cmd-customvote-on-finished-win = ¡La votación '{$title}' ha terminado: {$winner} gana!
+cmd-customvote-arg-title = <título>
+cmd-customvote-arg-option-n = <opción{ $n }>
 
 ## 'vote' command
 
-cmd-vote-desc = Votes on an active vote
-cmd-vote-help = vote <voteId> <option>
-cmd-vote-cannot-call-vote-now = You can't call a vote right now!
-cmd-vote-on-execute-error-must-be-player = Must be a player
-cmd-vote-on-execute-error-invalid-vote-id = Invalid vote ID
-cmd-vote-on-execute-error-invalid-vote-options = Invalid vote options
-cmd-vote-on-execute-error-invalid-vote = Invalid vote
-cmd-vote-on-execute-error-invalid-option = Invalid option
+cmd-vote-desc = Vota en una votación activa
+cmd-vote-help = vote <voteId> <opción>
+cmd-vote-cannot-call-vote-now = ¡No puedes iniciar una votación ahora mismo!
+cmd-vote-on-execute-error-must-be-player = Debe ser un jugador
+cmd-vote-on-execute-error-invalid-vote-id = ID de votación no válido
+cmd-vote-on-execute-error-invalid-vote-options = Opciones de votación no válidas
+cmd-vote-on-execute-error-invalid-vote = Votación no válida
+cmd-vote-on-execute-error-invalid-option = Opción no válida
 
 ## 'listvotes' command
 
-cmd-listvotes-desc = Lists currently active votes
-cmd-listvotes-help = Usage: listvotes
+cmd-listvotes-desc = Lista las votaciones actualmente activas
+cmd-listvotes-help = Uso: listvotes
 
 ## 'cancelvote' command
 
-cmd-cancelvote-desc = Cancels an active vote
-cmd-cancelvote-help = Usage: cancelvote <id>
-                      You can get the ID from the listvotes command.
-cmd-cancelvote-error-invalid-vote-id = Invalid vote ID
-cmd-cancelvote-error-missing-vote-id = Missing ID
+cmd-cancelvote-desc = Cancela una votación activa
+cmd-cancelvote-help = Uso: cancelvote <id>
+                      Puedes obtener el ID con el comando listvotes.
+cmd-cancelvote-error-invalid-vote-id = ID de votación no válido
+cmd-cancelvote-error-missing-vote-id = ID faltante
 cmd-cancelvote-arg-id = <id>

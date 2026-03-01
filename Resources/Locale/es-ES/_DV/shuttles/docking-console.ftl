@@ -4,18 +4,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-docking-console-no-shuttle = No Shuttle Detected
+docking-console-no-shuttle = No se detectó ningún transbordador
 docking-console-ftl = FTL
-docking-console-call = Call shuttle
+docking-console-call = Llamar transbordador
 
-mining-console-window-title = Mining Shuttle Console
+mining-console-window-title = Consola del Transbordador Minero
 
-shuttle-destination-lavaland = Lavaland
-shuttle-destination-glacier-surface = Glacier Surface
+shuttle-destination-lavaland = Tierra de Lava
+shuttle-destination-glacier-surface = Superficie del Glaciar
 
-docking-console-ftl-message-Unknown = Fetching FTL state...
-docking-console-ftl-message-Ready = All systems are ready.
-docking-console-ftl-message-NoSelection = Select one of the destinations.
-docking-console-ftl-message-NoAccess = ERROR: Access denied.
-docking-console-ftl-message-RechargingFtl = WARNING: FTL System is not ready.
-docking-console-ftl-message-InFtl = FTL is launched!
+docking-console-ftl-message-Unknown = Obteniendo estado FTL...
+docking-console-ftl-message-Ready = Todos los sistemas están listos.
+docking-console-ftl-message-NoSelection = Selecciona uno de los destinos.
+docking-console-ftl-message-NoAccess = ERROR: Acceso denegado.
+docking-console-ftl-message-RechargingFtl = ADVERTENCIA: El sistema FTL no está listo.
+docking-console-ftl-message-InFtl = ¡FTL activado!

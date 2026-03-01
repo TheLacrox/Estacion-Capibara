@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: MIT
 
 sandbox-title = Sandbox
-sandbox-description = No stress, build something!
+sandbox-description = Sin estrés, ¡construye algo!

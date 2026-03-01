@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-play-global-sound-command-description = Plays a global sound for a specific player or for every connected player if no players are specified.
-play-global-sound-command-help = playglobalsound <path> [volume] [user 1] ... [user n]
-play-global-sound-command-player-not-found = Player "{$username}" not found.
-play-global-sound-command-volume-parse = Invalid volume of {$volume} specified.
-play-global-sound-command-arg-path = <path>
-play-global-sound-command-arg-volume = [volume]
-play-global-sound-command-arg-usern = [user {$user}]
+play-global-sound-command-description = Reproduce un sonido global para un jugador específico o para todos los jugadores conectados si no se especifica ninguno.
+play-global-sound-command-help = playglobalsound <ruta> [volumen] [usuario 1] ... [usuario n]
+play-global-sound-command-player-not-found = Jugador "{$username}" no encontrado.
+play-global-sound-command-volume-parse = Volumen no válido: {$volume}.
+play-global-sound-command-arg-path = <ruta>
+play-global-sound-command-arg-volume = [volumen]
+play-global-sound-command-arg-usern = [usuario {$user}]

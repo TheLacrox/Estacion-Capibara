@@ -4,184 +4,184 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spellbook-mime-malaise-name = Mime Malaise
+spellbook-mime-malaise-name = Malestar del Mimo
 spellbook-mime-malaise-desc =
-    A spell popular with theater nerd wizards and contrarian pranksters, this spell will put on a mime costume on the target, stun them so that they may contemplate Art, and silence them.
-    Effects are permanent on non-wizards.
-    Learning this spell allows you to get a set of mime wizard robes and hat for free!
-    Requires wizard's robe and hat to cast.
+    Un hechizo popular entre los magos fanáticos del teatro y los bromistas contrarios, este hechizo pondrá un disfraz de mimo al objetivo, lo aturdirá para que contemple el Arte, y lo silenciará.
+    Los efectos son permanentes en los no magos.
+    ¡Aprender este hechizo te permite conseguir un conjunto de túnicas y sombrero de mago mimo gratis!
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-banana-touch-name = Banana Touch
+spellbook-banana-touch-name = Toque de Banana
 spellbook-banana-touch-desc =
-    A spell popular at wizard birthday parties, this spell will put on a clown costume on the target, stun them with a loud HONK, and mutate them to make them more entertaining!
-    Effects are permanent on non-wizards.
-    Learning this spell allows you to get a set of clown wizard robes and hat for free!
-    Requires wizard's robe and hat to cast.
+    Un hechizo popular en las fiestas de cumpleaños de los magos, este hechizo pondrá un disfraz de payaso al objetivo, lo aturdirá con un fuerte HONK, ¡y lo mutará para hacerlo más entretenido!
+    Los efectos son permanentes en los no magos.
+    ¡Aprender este hechizo te permite conseguir un conjunto de túnicas y sombrero de mago payaso gratis!
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-cluwne-curse-name = Curse of the Cluwne
+spellbook-cluwne-curse-name = Maldición del Cluwne
 spellbook-cluwne-curse-desc =
-    Turns the target into a fat and cursed monstrosity of a clown.
-    Learning this spell allows you to get a set of clown wizard robes and hat for free!
-    Requires wizard's robe and hat to cast.
+    Transforma al objetivo en una monstruosidad gorda y maldita de payaso.
+    ¡Aprender este hechizo te permite conseguir un conjunto de túnicas y sombrero de mago payaso gratis!
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-magic-missile-name = Magic Missile
+spellbook-magic-missile-name = Misil Mágico
 spellbook-magic-missile-desc =
-    This spell fires several stunning, slow moving, homing magic projectiles at nearby targets.
-    Requires wizard's robe and hat to cast.
+    Este hechizo dispara varios proyectiles mágicos teledirigidos aturdidores y de movimiento lento hacia objetivos cercanos.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-disable-tech-name = Disable Technology
+spellbook-disable-tech-name = Inutilizar Tecnología
 spellbook-disable-tech-desc =
-    This spell disables all weapons, cameras and most other technology in range.
-    Requires wizard's robe and hat to cast.
+    Este hechizo desactiva todas las armas, cámaras y la mayoría de la tecnología en el rango.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-smoke-name = Smoke
+spellbook-smoke-name = Humo
 spellbook-smoke-desc =
-    This spell spawns a cloud of smoke at your location. People within will begin to choke and drop their items.
-    Doesn't require wizard's robe and hat to cast.
+    Este hechizo genera una nube de humo en tu posición. Las personas dentro empezarán a ahogarse y a soltar sus objetos.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-repulse-name = Repulse
+spellbook-repulse-name = Repulsión
 spellbook-repulse-desc =
-    This spell throws everything around the user away. Thrown mobs are stunned briefly.
-    Requires wizard's robe and hat to cast.
+    Este hechizo lanza todo lo que rodea al usuario. Las criaturas lanzadas quedan brevemente aturdidas.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-stop-time-name = Stop Time
+spellbook-stop-time-name = Detener el Tiempo
 spellbook-stop-time-desc =
-    This spell stops time for everyone except for you and whoever learned this spell, allowing you and your guardian to move freely while your enemies and even projectiles are frozen.
-    Requires wizard's robe and hat to cast.
+    Este hechizo detiene el tiempo para todos excepto para ti y quien haya aprendido este hechizo, permitiéndote a ti y a tu guardián moveros libremente mientras tus enemigos e incluso los proyectiles quedan congelados.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-corpse-explosion-name = Corpse Explosion
+spellbook-corpse-explosion-name = Explosión de Cadáver
 spellbook-corpse-explosion-desc =
-    Fills a corpse with energy, causing it to explode violently. Knocks down people and stuns silicons. It applies up to 100 brute damage to others surrounding the corpse; the damage lowering further out someone is. Wizard is immune to the effects of the explosion.
-    Doesn't require wizard's robe and hat to cast.
+    Llena un cadáver de energía, causando que explote violentamente. Derriba a las personas y aturde a los silicios. Aplica hasta 100 de daño contundente a quienes rodean el cadáver; el daño disminuye cuanto más lejos estén. El mago es inmune a los efectos de la explosión.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-blind-name = Blind
+spellbook-blind-name = Ceguera
 spellbook-blind-desc =
-    This spell temporarily blinds a single target.
-    Doesn't require wizard's robe and hat to cast.
+    Este hechizo ciega temporalmente a un único objetivo.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-bind-soul-name = Bind Soul
+spellbook-bind-soul-name = Vincular Alma
 spellbook-bind-soul-desc =
-    A spell that binds your soul to an item in your hands. Binding your soul to an item will turn you into an immortal Lich. So long as the item remains intact and is on the same plane as your dead body, you will revive from death, no matter the circumstances.
-    If the item is on another grid or in space when you die, it itself or it's containing container (if any) will reappear somewhere on your dead body's grid or on the station if your body is not on any grid.
-    You can't bind soul while in silicon form.
-    Cannot be refunded.
-    Doesn't require wizard's robe and hat to cast.
+    Un hechizo que vincula tu alma a un objeto en tus manos. Vincular tu alma a un objeto te convertirá en un Lich inmortal. Mientras el objeto permanezca intacto y esté en el mismo plano que tu cadáver, revivirás de la muerte sin importar las circunstancias.
+    Si el objeto está en otra cuadrícula o en el espacio cuando mueras, él mismo o su contenedor (si lo hay) reaparecerá en algún lugar de la cuadrícula de tu cadáver o en la estación si tu cuerpo no está en ninguna cuadrícula.
+    No puedes vincular el alma en forma de silicio.
+    No se puede reembolsar.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-mutate-name = Mutate
+spellbook-mutate-name = Mutar
 spellbook-mutate-desc =
-    Temporarily transforms you into a stun-immune hulk, capable of destroying walls with their massive strength and of shooting lasers using their massive minds.
-    Doesn't work in silicon form.
-    Requires wizard's robe and hat to cast.
+    Te transforma temporalmente en un hulk inmune a los aturdimientos, capaz de destruir paredes con su enorme fuerza y de disparar láseres usando su poderosa mente.
+    No funciona en forma de silicio.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-tesla-blast-name = Tesla Blast
+spellbook-tesla-blast-name = Descarga Tesla
 spellbook-tesla-blast-desc =
-    Charge up a tesla arc and release it at random nearby targets! You can move freely while it charges. The arc jumps between targets and stuns them. Ignores insulation. You are immune to your own lightning.
-    Activate the spell again while it is charging to release the tesla blast, its power scales with charge time.
-    If it fully charges up, you'll lose control of the bolt and the spell will do nothing.
-    Requires wizard's robe and hat to cast.
+    ¡Carga un arco tesla y libéralo sobre objetivos cercanos aleatorios! Puedes moverte libremente mientras se carga. El arco salta entre objetivos y los aturde. Ignora el aislamiento. Eres inmune a tu propio rayo.
+    Activa el hechizo de nuevo mientras se está cargando para liberar la descarga tesla, su potencia escala con el tiempo de carga.
+    Si se carga completamente, perderás el control del rayo y el hechizo no hará nada.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-lightning-bolt-name = Lightning Bolt
+spellbook-lightning-bolt-name = Rayo
 spellbook-lightning-bolt-desc =
-    Fire a lightning bolt at your foes! Ignores insulation, but can't stun. You are immune to your own lightning.
-    Doesn't require wizard's robe and hat to cast.
+    ¡Dispara un rayo a tus enemigos! Ignora el aislamiento, pero no puede aturdir. Eres inmune a tu propio rayo.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-homing-toolbox-name = Homing Toolbox
+spellbook-homing-toolbox-name = Caja de Herramientas Teledirigida
 spellbook-homing-toolbox-desc =
-    This spell summons and throws a magical homing toolbox at your opponent that knocks down on hit.
-    Learning this spell allows you to get a tider wizard bundle for free!
-    Doesn't require wizard's robe and hat to cast.
+    Este hechizo invoca y lanza una caja de herramientas mágica teledirigida contra tu oponente que lo derriba al impactar.
+    ¡Aprender este hechizo te permite conseguir un paquete de mago tider gratis!
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-spell-cards-name = Spell Cards
+spellbook-spell-cards-name = Cartas de Hechizo
 spellbook-spell-cards-desc =
-    Blazing hot rapid-fire homing cards. Send your foes to the shadow realm with their mystical power!
-    Doesn't require wizard's robe and hat to cast.
+    Cartas teledirigidas de disparo rápido e incandescentes. ¡Manda a tus enemigos al reino de las sombras con su poder místico!
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-arcane-barrage-name = Arcane Barrage
+spellbook-arcane-barrage-name = Descarga Arcana
 spellbook-arcane-barrage-desc =
-    Fire a torrent of arcane energy at your foes with this powerful spell. Shoots faster than Lesser Summon Guns, but won't stun targets. The spell is more effective when both of your hands are free.
-    Learning this spell makes you unable to learn Lesser Summon Guns.
-    Requires wizard's robe and hat to cast.
+    Dispara un torrente de energía arcana a tus enemigos con este poderoso hechizo. Dispara más rápido que Invocar Armas Menores, pero no aturdirá a los objetivos. El hechizo es más efectivo cuando ambas manos están libres.
+    Aprender este hechizo te impide aprender Invocar Armas Menores.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-lesser-summon-guns-name = Lesser Summon Guns
+spellbook-lesser-summon-guns-name = Invocar Armas Menores
 spellbook-lesser-summon-guns-desc =
-    Why reload when you have infinite guns? Summons an unending stream of bolt action rifles that deal little damage, but will stun targets. The spell is more effective when both of your hands are free.
-    Learning this spell makes you unable to learn Arcane Barrage.
-    Requires wizard's robe and hat to cast.
+    ¿Para qué recargar si tienes armas infinitas? Invoca un flujo interminable de rifles de cerrojo que hacen poco daño pero aturden a los objetivos. El hechizo es más efectivo cuando ambas manos están libres.
+    Aprender este hechizo te impide aprender Descarga Arcana.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-barnyard-name = Curse of the Barnyard
+spellbook-barnyard-name = Maldición del Corral
 spellbook-barnyard-desc =
-    This spell dooms an unlucky soul to possess the speech and facial attributes of a barnyard animal.
-    Doesn't require wizard's robe and hat to cast.
+    Este hechizo condena a un alma desafortunada a poseer el habla y los rasgos faciales de un animal de granja.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-scream-for-me-name = Scream For Me
+spellbook-scream-for-me-name = Grita Para Mí
 spellbook-scream-for-me-desc =
-    Sadistic sanguine spell that spills all victim's blood, causing them to die within seconds.
-    Requires wizard's robe and hat to cast.
+    Hechizo sanguíneo sádico que derrama toda la sangre de la víctima, causando que muera en cuestión de segundos.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-instant-summons-name = Instant Summons
+spellbook-instant-summons-name = Invocación Instantánea
 spellbook-instant-summons-desc =
-    This spell can be used to recall a previously marked item to your hand from anywhere in the universe.
-    Activate the spell while holding an item in your hands to mark it. Activate it again to recall the item to an empty hand. You can mark another item, this will remove the old mark.
-    If the marked item is in container, the entire container will be summoned.
-    Doesn't require wizard's robe and hat to cast.
+    Este hechizo puede usarse para llamar a tu mano un objeto previamente marcado desde cualquier lugar del universo.
+    Activa el hechizo mientras sostienes un objeto en las manos para marcarlo. Actívalo de nuevo para llamar el objeto a una mano vacía. Puedes marcar otro objeto, lo que eliminará la marca anterior.
+    Si el objeto marcado está en un contenedor, se invocará el contenedor entero.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-teleport-name = Teleport
+spellbook-teleport-name = Teletransporte
 spellbook-teleport-desc =
-    Teleports you to an area of your selection.
-    Requires wizard's robe and hat to cast.
+    Te teletransporta a un área de tu elección.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-the-traps-name = The Traps!
+spellbook-the-traps-name = ¡Las Trampas!
 spellbook-the-traps-desc =
-    Summon a number of traps around you. They will damage and enrage any enemies that step on them. You are immune to your own traps.
-    Requires wizard's robe and hat to cast.
+    Invoca un número de trampas a tu alrededor. Dañarán y enfurecerán a cualquier enemigo que las pise. Eres inmune a tus propias trampas.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-bees-name = Lesser Summon Bees
+spellbook-bees-name = Invocar Abejas Menores
 spellbook-bees-desc =
-    This spell magically kicks a transdimensional beehive, instantly summoning a swarm of bees to your location. These bees are not friendly to anyone except wizards. Summoned bees inject various toxins into their victims.
-    Requires wizard's robe and hat to cast.
+    Este hechizo da una patada mágica a una colmena transdimensional, invocando instantáneamente un enjambre de abejas en tu ubicación. Estas abejas no son amigables con nadie excepto los magos. Las abejas invocadas inyectan varias toxinas en sus víctimas.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-simians-name = Summon Simians
+spellbook-simians-name = Convocar Simios
 spellbook-simians-desc =
-    This spell reaches deep into the elemental plane of bananas (the monkey one, not the clown one), and summons lesser monkeys and gorillas in front of you that will promptly flip out and attack everything in sight. Fun! The monkeys are not friendly to anyone except wizards.
-    Upgrading this spell also increases summonned monkey amount, and their gear gets stronger as well!
-    Cannot be refunded once fully upgraded.
-    Requires wizard's robe and hat to cast.
+    Este hechizo llega al plano elemental de las bananas (el de los monos, no el de los payasos), e invoca monos menores y gorilas frente a ti que inmediatamente se volverán locos y atacarán todo lo que tengan a la vista. ¡Divertido! Los monos no son amigables con nadie excepto los magos.
+    ¡Mejorar este hechizo también aumenta la cantidad de monos invocados, y su equipamiento se vuelve más potente!
+    No se puede reembolsar una vez completamente mejorado.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-sanguine-strike-name = Exsanguinating Strike
+spellbook-sanguine-strike-name = Golpe Exsanguinante
 spellbook-sanguine-strike-desc =
-    Sanguine spell that enchants your next weapon strike to deal more damage, heal you for damage dealt, and refill blood.
-    Damage dealt is either double damage, or +20 damage, whichever is less.
-    Requires wizard's robe and hat to cast.
+    Hechizo sanguíneo que encanta tu próximo golpe de arma para hacer más daño, curarte por el daño infligido y reponer sangre.
+    El daño infligido es el doble del daño o +20 de daño, lo que sea menor.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-chuuni-name = Chuuni Invocations
+spellbook-chuuni-name = Invocaciones Chuuni
 spellbook-chuuni-desc =
-    Replaces your wizard hat (if you have one) with an unremovable medical eyepatch, which still allows you to cast spells requiring a robe.
-    Makes all your spells shout invocations, and the invocations become... stupid. You heal slightly after casting a spell with a delay of 5 seconds.
-    Cannot be refunded.
-    Doesn't require wizard's robe and hat to cast.
+    Reemplaza tu sombrero de mago (si tienes uno) con un parche médico inamovible, que aún te permite lanzar hechizos que requieren túnica.
+    Hace que todos tus hechizos griten invocaciones, y las invocaciones se vuelven... ridículas. Te curas ligeramente después de lanzar un hechizo con un retraso de 5 segundos.
+    No se puede reembolsar.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-swap-name = Swap
+spellbook-swap-name = Intercambio
 spellbook-swap-desc =
-    Switch places with any living target.
-    Alt-click: Mark a secondary swap target, in which case you'll go to the position occupied by your primary target, they'll go to the one occupied by your secondary, and your secondary target will end up where you originally were. The secondary swap target will be discarded once you swap, cancel the action or alt-click yourself.
-    Doesn't require wizard's robe and hat to cast.
+    Intercambia posición con cualquier objetivo vivo.
+    Clic alternativo: Marca un objetivo secundario de intercambio, en cuyo caso irás a la posición ocupada por tu objetivo primario, él irá a la de tu objetivo secundario, y tu objetivo secundario acabará donde estabas originalmente. El objetivo secundario de intercambio se descartará una vez que intercambies, canceles la acción o hagas clic alternativo sobre ti mismo.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-soul-tap-name = Soul Tap
+spellbook-soul-tap-name = Toque del Alma
 spellbook-soul-tap-desc =
-    Taps your soul. Trades 20 max health for a refresh of all of your spells. Does not work if you have no soul, from formerly using Bind Soul.
-    Requires wizard's robe and hat to cast.
+    Toca tu alma. Intercambia 20 de salud máxima por recargar todos tus hechizos. No funciona si no tienes alma, por haber usado Vincular Alma anteriormente.
+    Requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-thrown-lightning-name = Thrown Lightning
+spellbook-thrown-lightning-name = Rayo Arrojadizo
 spellbook-thrown-lightning-desc =
-    Forged from eldritch energies, a packet of pure power, known as a spell packet will appear in your hand, that when thrown will paralyze your target.
-    Doesn't require wizard's robe and hat to cast.
+    Forjado a partir de energías éldrich, aparecerá en tu mano un paquete de poder puro, conocido como paquete de hechizo, que al ser lanzado paralizará a tu objetivo.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-knock-name = Knock
+spellbook-knock-name = Abrir
 spellbook-knock-desc =
-    This spell opens nearby doors and lockers.
-    Doesn't require wizard's robe and hat to cast.
+    Este hechizo abre puertas y taquillas cercanas.
+    No requiere túnica y sombrero de mago para lanzarse.
 
-spellbook-smite-name = Smite
+spellbook-smite-name = Castigo Divino
 spellbook-smite-desc =
-    This spell charges your hand with an unholy energy that can be used to cause a touched victim to violently explode.
-    Requires wizard's robe and hat to cast.
+    Este hechizo carga tu mano con una energía profana que puede usarse para hacer que una víctima tocada explote violentamente.
+    Requiere túnica y sombrero de mago para lanzarse.

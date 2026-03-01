@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-### Udder system
+### Sistema de ubre
 
-udder-system-already-milking = The udder is already being milked.
-udder-system-success = You fill {THE($target)} with {$amount}u from the udder.
-udder-system-dry = The udder is dry.
+udder-system-already-milking = La ubre ya está siendo ordeñada.
+udder-system-success = Llenas {THE($target)} con {$amount}u de la ubre.
+udder-system-dry = La ubre está seca.
 
-udder-system-verb-milk = Milk
+udder-system-verb-milk = Ordeñar

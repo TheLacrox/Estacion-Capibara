@@ -4,34 +4,34 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-book-text-gaming1 = Can't stay for the game.
-      Engineering want me to keep a close eye on the singularity SMESes.
-      Leaving this so you know what's up.
-      Sorry.
+book-text-gaming1 = No puedo quedarme para el juego.
+      Ingeniería quiere que vigile de cerca los SMES de la singularidad.
+      Te dejo esto para que sepas qué pasa.
+      Lo siento.
        - Alexander
 
 book-text-gaming2 = Johny Clowe
-      Class: Druid
-      Alignment: Neutral Good
-      Str: 1,294,139
-      Dex: 4,102,103
-      Con: 9,522,913
-      Int: 528,491
-      Wis: 1
-      Cha: 1
-      Where's the age?
-      Why are those ability scores so ridiculous?
-      What even are you trying to do here, Leah? - Your Friendly DM
+      Clase: Druida
+      Alineamiento: Neutral bueno
+      Fue: 1.294.139
+      Des: 4.102.103
+      Con: 9.522.913
+      Int: 528.491
+      Sab: 1
+      Car: 1
+      ¿Y la edad?
+      ¿Por qué esas puntuaciones de atributos son tan ridículas?
+      ¿Qué intentas hacer, Leah? - Tu amable DM
 
-book-text-gaming3 = THE GIANT SPACE FLY FROM SPACE
-      Session 1: They should have just learned what's going on with the world and the Giant Space Fly.
-      Session 2: They should know to ask the Wizard's Court about seismic distortions.
-      Session 3: On their way to underground lair.
-      Session 4: Just ran into the Architect Of Flies.
-      Oh dear goodness they just started randomly killing everybody
+book-text-gaming3 = LA MOSCA ESPACIAL GIGANTE DEL ESPACIO
+      Sesión 1: Deberían aprender qué está pasando con el mundo y la Mosca Espacial Gigante.
+      Sesión 2: Deberían saber que hay que preguntarle al Tribunal de Magos sobre las distorsiones sísmicas.
+      Sesión 3: De camino a la guarida subterránea.
+      Sesión 4: Acaban de encontrarse con el Arquitecto de las Moscas.
+      Dios mío, simplemente empezaron a matar a todo el mundo al azar.
 
-book-text-gaming4 = Won't be able to come to the meet, chemist blew up the hospital again.
-      Fifth time this shift.
-      It's amazing.
-      But not in a good way.
-      Cheers, - Arielle
+book-text-gaming4 = No podré ir al encuentro, el químico ha vuelto a volar el hospital.
+      Quinta vez en este turno.
+      Es asombroso.
+      Pero no en el buen sentido.
+      Saludos, - Arielle

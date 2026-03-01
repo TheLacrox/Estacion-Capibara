@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-miningdrobe-1 = Protects you against any megafauna!
-advertisement-miningdrobe-2 = Providing comfort in every swing of a pickaxe!
-advertisement-miningdrobe-3 = Get your nontear clothing right here!!!
+advertisement-miningdrobe-1 = ¡Te protege contra cualquier megafauna!
+advertisement-miningdrobe-2 = ¡Comodidad en cada golpe de pico!
+advertisement-miningdrobe-3 = ¡Consigue tu ropa antidesgarros aquí!!!

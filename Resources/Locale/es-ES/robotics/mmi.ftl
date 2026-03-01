@@ -6,18 +6,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-positronic-brain-installed = Neural activity detected.
-positronic-brain-off = No neural activity detected.
-positronic-brain-still-searching = Synthetic neuron descrambling in progress...
-positronic-brain-searching = Beginning synthetic neuron descrambling...
+positronic-brain-installed = Actividad neural detectada.
+positronic-brain-off = No se detecta actividad neural.
+positronic-brain-still-searching = Descodificación de neuronas sintéticas en progreso...
+positronic-brain-searching = Iniciando descodificación de neuronas sintéticas...
 
-positronic-brain-role-name = Positronic Brain
-positronic-brain-role-description = Serve the station crew.
+positronic-brain-role-name = Cerebro Positrónico
+positronic-brain-role-description = Sirve a la tripulación de la estación.
 
-positronic-brain-wipe-device-verb-text = Wipe Brain
-positronic-brain-wiped-device = The neural activity was terminated.
+positronic-brain-wipe-device-verb-text = Borrar Cerebro
+positronic-brain-wiped-device = La actividad neural fue terminada.
 
-positronic-brain-stop-searching-verb-text = Stop searching
-positronic-brain-stopped-searching = Neuron descrambling halted.
+positronic-brain-stop-searching-verb-text = Detener búsqueda
+positronic-brain-stopped-searching = Descodificación neuronal detenida.
 
-positronic-brain-slot-component-slot-name-brain = Brain
+positronic-brain-slot-component-slot-name-brain = Cerebro

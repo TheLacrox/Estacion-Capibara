@@ -1,18 +1,18 @@
 # Interactions here don't have target popups because the target is always the user itself.
 # Why would you do this?
-interaction-PinchSelf-name = Pinch yourself
-interaction-PinchSelf-description = They say it helps you make sure the hell that goes around you is not a dream.
-interaction-PinchSelf-success-self-popup = You pinch yourself... Ouch!
-interaction-PinchSelf-success-others-popup = {THE($user)} pinches {REFLEXIVE($user)}... Looks painful!
-interaction-PinchSelf-fail-self-popup = You somehow fail to pinch yourself. Better for you.
-interaction-PinchSelf-delayed-self-popup = You pinch yourself...
-interaction-PinchSelf-message-1 = Ouchh!!
-interaction-PinchSelf-message-2 = Aaaah!!
-interaction-PinchSelf-message-3 = Ow!!
+interaction-PinchSelf-name = Pellizcarte
+interaction-PinchSelf-description = Dicen que ayuda a asegurarte de que el infierno que te rodea no es un sueño.
+interaction-PinchSelf-success-self-popup = Te pellizcan... ¡Ay!
+interaction-PinchSelf-success-others-popup = {THE($user)} se pellizca a {REFLEXIVE($user)}... ¡Parece doloroso!
+interaction-PinchSelf-fail-self-popup = Por alguna razón no logras pellizcarte. Mejor para ti.
+interaction-PinchSelf-delayed-self-popup = Te pellizcan...
+interaction-PinchSelf-message-1 = ¡Ayyy!!
+interaction-PinchSelf-message-2 = ¡Aaaah!!
+interaction-PinchSelf-message-3 = ¡Ay!!
 
-interaction-MakeSleepSelf-name = Sleep
-interaction-MakeSleepSelf-description = Put yourself to sleep.
-interaction-MakeSleepSelf-delayed-self-popup = You are trying to fall asleep...
-interaction-MakeSleepSelf-fail-self-popup = You cannot sleep right now.
-interaction-MakeSleepSelf-success-self-popup = You put yourself to sleep.
-interaction-MakeSleepSelf-success-others-popup = {THE($user)} falls asleep.
+interaction-MakeSleepSelf-name = Dormir
+interaction-MakeSleepSelf-description = Échate a dormir.
+interaction-MakeSleepSelf-delayed-self-popup = Intentas quedarte dormido...
+interaction-MakeSleepSelf-fail-self-popup = No puedes dormir ahora mismo.
+interaction-MakeSleepSelf-success-self-popup = Te quedas dormido.
+interaction-MakeSleepSelf-success-others-popup = {THE($user)} se queda dormido.

@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-artifact-crusher-verb-start-crushing = Start crushing
+artifact-crusher-verb-start-crushing = Iniciar trituración

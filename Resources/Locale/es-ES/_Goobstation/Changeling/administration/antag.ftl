@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-verb-make-changeling = Make the target into a changeling.
+admin-verb-make-changeling = Convierte al objetivo en un changeling.
 
-admin-verb-text-make-changeling = Make Changeling
+admin-verb-text-make-changeling = Convertir en Changeling

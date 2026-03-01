@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-extended-title = Extended
-extended-description = A calm experience. Admin intervention required.
+extended-title = Extendido
+extended-description = Una experiencia tranquila. Requiere intervención de administradores.

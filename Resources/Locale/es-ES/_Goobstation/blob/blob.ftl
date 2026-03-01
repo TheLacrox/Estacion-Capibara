@@ -10,167 +10,167 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ent-SpawnPointGhostBlob = Blob spawner
-    .suffix = DEBUG, Ghost Role Spawner
+ent-SpawnPointGhostBlob = Generador de blob
+    .suffix = DEPURACIÓN, Generador de Rol Fantasma
     .desc = { ent-MarkerBase.desc }
-ent-MobBlobPod = Blob Drop
-    .desc = An ordinary blob fighter.
+ent-MobBlobPod = Gota de Blob
+    .desc = Un luchador blob ordinario.
 ent-MobBlobBlobbernaut = Blobbernaut
-    .desc = An elite blob fighter.
-ent-BaseBlob = basic blob.
+    .desc = Un luchador blob de élite.
+ent-BaseBlob = blob básico.
     .desc = { "" }
-ent-NormalBlobTile = Regular Tile Blob
-    .desc = An ordinary part of the blob required for the construction of more advanced tiles.
-ent-CoreBlobTile = Blob Core
-    .desc = The most important organ of the blob. By destroying the core, the infection will cease.
-ent-FactoryBlobTile = Blob Factory
-    .desc = Spawns Blob Drops and Blobbernauts over time.
-ent-ResourceBlobTile = Resource Blob
-    .desc = Produces resources for the blob.
-ent-NodeBlobTile = Blob Node
-    .desc = A mini version of the core that allows you to place special blob tiles around itself.
-ent-StrongBlobTile = Strong Blob Tile
-    .desc = A reinforced version of the regular tile. It does not allow air to pass through and protects against brute damage.
-ent-ReflectiveBlobTile = Blob Reflective Tiles
-    .desc = It reflects lasers, but does not protect against brute damage as well.
+ent-NormalBlobTile = Loseta Blob Normal
+    .desc = Una parte ordinaria del blob necesaria para la construcción de losetas más avanzadas.
+ent-CoreBlobTile = Núcleo del Blob
+    .desc = El órgano más importante del blob. Al destruir el núcleo, la infección cesará.
+ent-FactoryBlobTile = Fábrica de Blob
+    .desc = Genera Gotas de Blob y Blobbernauts con el tiempo.
+ent-ResourceBlobTile = Blob de Recursos
+    .desc = Produce recursos para el blob.
+ent-NodeBlobTile = Nodo de Blob
+    .desc = Una versión miniatura del núcleo que permite colocar losetas blob especiales a su alrededor.
+ent-StrongBlobTile = Loseta Blob Reforzada
+    .desc = Una versión reforzada de la loseta normal. No permite el paso del aire y protege contra el daño por contusión.
+ent-ReflectiveBlobTile = Loseta Blob Reflectante
+    .desc = Refleja los láser, pero no protege tan bien contra el daño por contusión.
     .desc = { "" }
 objective-issuer-blob = Blob
 
 
 ghost-role-information-blobbernaut-name = Blobbernaut
-ghost-role-information-blobbernaut-description = You are a Blobbernaut. You must defend the blob core. Use + or +e in chat to talk in the Blobmind.
+ghost-role-information-blobbernaut-description = Eres un Blobbernaut. Debes defender el núcleo del blob. Usa + o +e en el chat para hablar en la Mente Blob.
 
 ghost-role-information-blob-name = Blob
-ghost-role-information-blob-description = You are the Blob Infection. Consume the station.
+ghost-role-information-blob-description = Eres la Infección Blob. Consume la estación.
 
 roles-antag-blob-name = Blob
-roles-antag-blob-objective = Reach critical mass.
+roles-antag-blob-objective = Alcanza masa crítica.
 
 guide-entry-blob = Blob
 
 # Popups
-blob-target-normal-blob-invalid = Wrong blob type, select a normal blob.
-blob-target-factory-blob-invalid = Wrong blob type, select a factory blob.
-blob-target-node-blob-invalid = Wrong blob type, select a node blob.
-blob-target-close-to-resource = Too close to another resource blob.
-blob-target-nearby-not-node = No node or resource blob nearby.
-blob-target-close-to-node = Too close to another node.
-blob-target-already-produce-blobbernaut = This factory has already produced a blobbernaut.
-blob-cant-split = You can not split the blob core.
-blob-not-have-nodes = You have no nodes.
-blob-not-enough-resources = Not enough resources.
-blob-help = Only God can help you.
-blob-swap-chem = In development.
-blob-mob-attack-blob = You can not attack a blob.
+blob-target-normal-blob-invalid = Tipo de blob incorrecto, selecciona un blob normal.
+blob-target-factory-blob-invalid = Tipo de blob incorrecto, selecciona un blob fábrica.
+blob-target-node-blob-invalid = Tipo de blob incorrecto, selecciona un blob nodo.
+blob-target-close-to-resource = Demasiado cerca de otro blob de recursos.
+blob-target-nearby-not-node = No hay ningún blob nodo o de recursos cercano.
+blob-target-close-to-node = Demasiado cerca de otro nodo.
+blob-target-already-produce-blobbernaut = Esta fábrica ya ha producido un blobbernaut.
+blob-cant-split = No puedes dividir el núcleo del blob.
+blob-not-have-nodes = No tienes nodos.
+blob-not-enough-resources = No hay suficientes recursos.
+blob-help = Solo Dios puede ayudarte.
+blob-swap-chem = En desarrollo.
+blob-mob-attack-blob = No puedes atacar a un blob.
 blob-get-resource = +{ $point }
 blob-spent-resource = -{ $point }
-blobberaut-not-on-blob-tile = You are dying while not on blob tiles.
-carrier-blob-alert = You have { $second } seconds left before transformation.
+blobberaut-not-on-blob-tile = Te estás muriendo al no estar sobre losetas blob.
+carrier-blob-alert = Te quedan { $second } segundos antes de la transformación.
 
-blob-mob-zombify-second-start = { $pod } starts turning you into a zombie.
-blob-mob-zombify-third-start = { $pod } starts turning { $target } into a zombie.
+blob-mob-zombify-second-start = { $pod } comienza a convertirte en un zombi.
+blob-mob-zombify-third-start = { $pod } comienza a convertir a { $target } en un zombi.
 
-blob-mob-zombify-second-end = { $pod } turns you into a zombie.
-blob-mob-zombify-third-end = { $pod } turns { $target } into a zombie.
+blob-mob-zombify-second-end = { $pod } te convierte en un zombi.
+blob-mob-zombify-third-end = { $pod } convierte a { $target } en un zombi.
 
-blobberaut-factory-destroy = factory destroy
-blob-target-already-connected = already connected
+blobberaut-factory-destroy = fábrica destruida
+blob-target-already-connected = ya conectado
 
 
 # UI
-blob-chem-swap-ui-window-name = Swap chemicals
-blob-chem-reactivespines-info = Reactive Spines
-                                Deals 25 brute damage.
-blob-chem-blazingoil-info = Blazing Oil
-                            Deals 15 burn damage and lights targets on fire.
-                            Makes you vulnerable to water.
-blob-chem-regenerativemateria-info = Regenerative Materia
-                                    Deals 6 brute damage and 15 toxin damage.
-                                    The blob core regenerates health 10 times faster than normal and generates 1 extra resource.
-blob-chem-explosivelattice-info = Explosive Lattice
-                                    Deals 5 burn damage and explodes the target, dealing 10 brute damage.
-                                    Spores explode on death.
-                                    You become immune to explosions.
-                                    You take 50% more damage from burns and electrical shock.
-blob-chem-electromagneticweb-info = Electromagnetic Web
-                                    Deals 20 burn damage, 20% chance to cause an EMP pulse when attacking.
-                                    Blob tiles cause an EMP pulse when destroyed.
-                                    You take 25% more brute and heat damage.
+blob-chem-swap-ui-window-name = Cambiar productos químicos
+blob-chem-reactivespines-info = Espinas Reactivas
+                                Inflige 25 de daño por contusión.
+blob-chem-blazingoil-info = Aceite Ardiente
+                            Inflige 15 de daño por quemadura y prende fuego a los objetivos.
+                            Te hace vulnerable al agua.
+blob-chem-regenerativemateria-info = Materia Regenerativa
+                                    Inflige 6 de daño por contusión y 15 de daño tóxico.
+                                    El núcleo del blob regenera salud 10 veces más rápido de lo normal y genera 1 recurso adicional.
+blob-chem-explosivelattice-info = Retícula Explosiva
+                                    Inflige 5 de daño por quemadura y hace explotar el objetivo, infligiendo 10 de daño por contusión.
+                                    Las esporas explotan al morir.
+                                    Te vuelves inmune a las explosiones.
+                                    Recibes un 50% más de daño por quemaduras y descarga eléctrica.
+blob-chem-electromagneticweb-info = Red Electromagnética
+                                    Inflige 20 de daño por quemadura, 20% de probabilidad de causar un pulso EMP al atacar.
+                                    Las losetas blob causan un pulso EMP al ser destruidas.
+                                    Recibes un 25% más de daño por contusión y calor.
 
-blob-alert-out-off-station = The blob was removed because it was found outside the station!
+blob-alert-out-off-station = ¡El blob fue eliminado porque se encontraba fuera de la estación!
 
 # Announcment
-blob-alert-recall-shuttle = The emergency shuttle can not be sent while there is a level 5 biohazard present on the station.
-blob-alert-detect = Confirmed outbreak of level 5 biohazard aboard the station. All personnel must contain the outbreak.
-blob-alert-critical = Biohazard level critical, nuclear authentication codes have been sent to the station. Central Command orders any remaining personnel to activate the self-destruction mechanism.
-blob-alert-critical-NoNukeCode = Biohazard level critical. Central Command orders any remaining personnel to seek shelter, and await resque.
-blob-alert-shuttle-arrived = Biohazard detected on board. All personnel must evacuate immediately.
+blob-alert-recall-shuttle = El transbordador de emergencia no puede ser enviado mientras haya un biorriesgo de nivel 5 en la estación.
+blob-alert-detect = Brote confirmado de biorriesgo nivel 5 a bordo de la estación. Todo el personal debe contener el brote.
+blob-alert-critical = Nivel de biorriesgo crítico. Los códigos de autenticación nuclear han sido enviados a la estación. El Mando Central ordena a todo el personal restante que active el mecanismo de autodestrucción.
+blob-alert-critical-NoNukeCode = Nivel de biorriesgo crítico. El Mando Central ordena a todo el personal restante que busque refugio y espere el rescate.
+blob-alert-shuttle-arrived = Biorriesgo detectado a bordo. Todo el personal debe evacuar inmediatamente.
 
 # Actions
-blob-teleport-to-node-action-name = Jump to Node (0)
-blob-teleport-to-node-action-desc = Teleports you to a random blob node.
-blob-help-action-name = Help
-blob-help-action-desc = Get basic information about playing as blob.
+blob-teleport-to-node-action-name = Saltar a Nodo (0)
+blob-teleport-to-node-action-desc = Te teletransporta a un nodo blob aleatorio.
+blob-help-action-name = Ayuda
+blob-help-action-desc = Obtén información básica sobre cómo jugar como blob.
 
 # Ghost role
-blob-carrier-role-name = Blob carrier
-blob-carrier-role-desc =  A blob-infected creature.
-blob-carrier-role-rules = You are an antagonist. You have 10 minutes before you transform into a blob.
-                        Use this time to find a safe spot on the station. Keep in mind that you will be very weak right after the transformation.
-blob-carrier-role-greeting = You are a carrier of Blob. Find a secluded place at the station and transform into a Blob. Turn the station into a mass and its inhabitants into your servants. We are all Blobs.
+blob-carrier-role-name = Portador de blob
+blob-carrier-role-desc = Una criatura infectada por el blob.
+blob-carrier-role-rules = Eres un antagonista. Tienes 10 minutos antes de transformarte en un blob.
+                        Usa este tiempo para encontrar un lugar seguro en la estación. Ten en cuenta que serás muy débil justo después de la transformación.
+blob-carrier-role-greeting = Eres portador del Blob. Encuentra un lugar apartado en la estación y transfórmate en Blob. Convierte la estación en una masa y a sus habitantes en tus siervos. Todos somos Blobs.
 
 # Verbs
-blob-pod-verb-zombify = Zombify
-blob-verb-upgrade-to-strong = Upgrade to Strong Blob
-blob-verb-upgrade-to-reflective = Upgrade to Reflective Blob
-blob-verb-remove-blob-tile = Remove Blob
+blob-pod-verb-zombify = Zombificar
+blob-verb-upgrade-to-strong = Mejorar a Blob Reforzado
+blob-verb-upgrade-to-reflective = Mejorar a Blob Reflectante
+blob-verb-remove-blob-tile = Eliminar Blob
 
 # Alerts
-blob-resource-alert-name = Core Resources
-blob-resource-alert-desc = Your resources produced by the core and resource blobs. Use them to expand and create special blobs.
-blob-health-alert-name = Core Health
-blob-health-alert-desc = Your core's health. You will die if it reaches zero.
+blob-resource-alert-name = Recursos del Núcleo
+blob-resource-alert-desc = Tus recursos producidos por el núcleo y los blobs de recursos. Úsalos para expandirte y crear blobs especiales.
+blob-health-alert-name = Salud del Núcleo
+blob-health-alert-desc = La salud de tu núcleo. Morirás si llega a cero.
 
 # Greeting
 blob-role-greeting =
-    You are blob - a parasitic space creature capable of destroying entire stations.
-        Your goal is to survive and grow as large as possible.
-        You are almost invulnerable to physical damage, but heat can still hurt you.
-        Use Alt+LMB to upgrade normal blob tiles to strong blob and strong blob to reflective blob.
-        Make sure to place resource blobs to generate resources.
-        Keep in mind that resource blobs and factories will only work when next to node blobs or cores.
-        You may use + or +e in chat to use the Blobmind to talk to your minions.
-blob-zombie-greeting = You were infected and raised by a blob spore. Now you must help the blob take over the station. Use +e in chat to talk in the Blobmind.
+    Eres un blob - una criatura espacial parasitaria capaz de destruir estaciones enteras.
+        Tu objetivo es sobrevivir y crecer lo máximo posible.
+        Eres casi invulnerable al daño físico, pero el calor aún puede hacerte daño.
+        Usa Alt+BIR para mejorar las losetas blob normales a reforzadas y las reforzadas a reflectantes.
+        Asegúrate de colocar blobs de recursos para generar recursos.
+        Ten en cuenta que los blobs de recursos y las fábricas solo funcionan cuando están junto a blobs nodo o núcleos.
+        Puedes usar + o +e en el chat para usar la Mente Blob y hablar con tus lacayos.
+blob-zombie-greeting = Fuiste infectado y resucitado por una espora blob. Ahora debes ayudar al blob a tomar el control de la estación. Usa +e en el chat para hablar en la Mente Blob.
 
 # End round
 blob-round-end-result =
     { $blobCount ->
-        [one] There was one blob infection.
-        *[other] There were {$blobCount} blobs.
+        [one] Hubo una infección de blob.
+        *[other] Hubo {$blobCount} blobs.
     }
 
-blob-user-was-a-blob = [color=gray]{$user}[/color] was a blob.
-blob-user-was-a-blob-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color]) was a blob.
-blob-was-a-blob-named = [color=White]{$name}[/color] was a blob.
+blob-user-was-a-blob = [color=gray]{$user}[/color] era un blob.
+blob-user-was-a-blob-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color]) era un blob.
+blob-was-a-blob-named = [color=White]{$name}[/color] era un blob.
 
 preset-blob-objective-issuer-blob = [color=#33cc00]Blob[/color]
 
-blob-user-was-a-blob-with-objectives = [color=gray]{$user}[/color] was a blob who had the following objectives:
-blob-user-was-a-blob-with-objectives-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color]) was a blob who had the following objectives:
-blob-was-a-blob-with-objectives-named = [color=White]{$name}[/color] was a blob who had the following objectives:
+blob-user-was-a-blob-with-objectives = [color=gray]{$user}[/color] era un blob con los siguientes objetivos:
+blob-user-was-a-blob-with-objectives-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color]) era un blob con los siguientes objetivos:
+blob-was-a-blob-with-objectives-named = [color=White]{$name}[/color] era un blob con los siguientes objetivos:
 
 # Objectivies
-objective-condition-blob-capture-title = Take over the station
-objective-condition-blob-capture-description = Your only goal is to take over the whole station. You need to have at least {$count} blob tiles.
-objective-condition-success = { $condition } | [color={ $markupColor }]Success![/color]
-objective-condition-fail = { $condition } | [color={ $markupColor }]Failure![/color] ({ $progress }%)
+objective-condition-blob-capture-title = Tomar el control de la estación
+objective-condition-blob-capture-description = Tu único objetivo es tomar el control de toda la estación. Necesitas tener al menos {$count} losetas blob.
+objective-condition-success = { $condition } | [color={ $markupColor }]¡Éxito![/color]
+objective-condition-fail = { $condition } | [color={ $markupColor }]¡Fracaso![/color] ({ $progress }%)
 
 # Admin Verbs
 
-admin-verb-make-blob = Make the target into a blob carrier.
-admin-verb-text-make-blob = Make Blob Carrier
+admin-verb-make-blob = Convierte al objetivo en un portador de blob.
+admin-verb-text-make-blob = Convertir en Portador de Blob
 
 # Language
 language-Blob-name = Blob
 chat-language-Blob-name = Blob
-language-Blob-description = Bleeb bob! Blob blob!
+language-Blob-description = ¡Bleeb bob! ¡Blob blob!

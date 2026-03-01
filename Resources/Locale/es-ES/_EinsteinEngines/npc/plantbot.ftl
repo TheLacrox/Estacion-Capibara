@@ -1,2 +1,2 @@
-plantbot-add-water = Adding water.
-plantbot-remove-weeds = Removing weeds.
+plantbot-add-water = Añadiendo agua.
+plantbot-remove-weeds = Eliminando malas hierbas.

@@ -14,14 +14,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-steal-title-no-owner = Steal the {$itemName}.
-objective-condition-steal-title-alive-no-owner = Steal {$itemName}.
-objective-condition-steal-title = Steal the {$owner}'s {$itemName}.
-objective-condition-steal-description = We need you to steal {$itemName}. Don't get caught.
+objective-condition-steal-title-no-owner = Robar {$itemName}.
+objective-condition-steal-title-alive-no-owner = Robar {$itemName}.
+objective-condition-steal-title = Robar {$itemName} de {$owner}.
+objective-condition-steal-description = Necesitamos que robes {$itemName}. No te atrapen.
 
-objective-condition-steal-station = station
-objective-condition-steal-Ian = head of personnel's corgi
+objective-condition-steal-station = estación
+objective-condition-steal-Ian = el corgi del jefe de personal
 
-objective-condition-thief-description = The {$itemName} would be a great addition to my collection!
-objective-condition-thief-animal-description = The {$itemName} would be a great addition to my collection! Most importantly, alive.
-objective-condition-thief-multiply-description = I need to get {$count} {MAKEPLURAL($itemName)} (any) and take them with me.
+objective-condition-thief-description = ¡{$itemName} sería una gran adición a mi colección!
+objective-condition-thief-animal-description = ¡{$itemName} sería una gran adición a mi colección! Sobre todo, vivo.
+objective-condition-thief-multiply-description = Necesito conseguir {$count} {MAKEPLURAL($itemName)} (cualquiera) y llevarlos conmigo.

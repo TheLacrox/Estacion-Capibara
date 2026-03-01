@@ -1,14 +1,14 @@
-gunnery-window-title = Gunnery Control
-gunnery-window-disconnected = DISCONNECTED
-gunnery-window-connected = CONNECTED
-gunnery-select-all = Select All
-gunnery-unselect-all = Unselect All
-gunnery-guns = Guns
+gunnery-window-title = Control de Artillería
+gunnery-window-disconnected = DESCONECTADO
+gunnery-window-connected = CONECTADO
+gunnery-select-all = Seleccionar todo
+gunnery-unselect-all = Deseleccionar todo
+gunnery-guns = Armas
 
-gunnery-server-examine-detail = The server is using [color={$valueColor}]{$usedProcessingPower}/{$processingPower}[/color] of its processing power.
+gunnery-server-examine-detail = El servidor está usando [color={$valueColor}]{$usedProcessingPower}/{$processingPower}[/color] de su potencia de procesamiento.
 
-gunnery-select-ballistics = Ballistics
-gunnery-select-energy = Energy
-gunnery-select-missiles = Missiles
-gunnery-select-mining = Mining
-gunner-console-display-label = Display
+gunnery-select-ballistics = Balística
+gunnery-select-energy = Energía
+gunnery-select-missiles = Misiles
+gunnery-select-mining = Minería
+gunner-console-display-label = Pantalla

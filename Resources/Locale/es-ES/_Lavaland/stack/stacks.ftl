@@ -1,17 +1,17 @@
-stack-artifact-fragment-ore = artifact fragment ore
+stack-artifact-fragment-ore = mineral de fragmento de artefacto
 
-stack-unprocessed-gold-ore = unprocessed gold ore
-stack-unprocessed-diamond-ore = unprocessed diamond ore
-stack-unprocessed-steel-ore = unprocessed steel ore
-stack-unprocessed-plasma-ore = unprocessed plasma ore
-stack-unprocessed-silver-ore = unprocessed silver ore
-stack-unprocessed-quartz-ore = unprocessed quartz ore
-stack-unprocessed-uranium-ore = unprocessed uranium ore
-stack-unprocessed-bananium-ore = unprocessed bananium ore
-stack-unprocessed-coal = unprocessed coal
-stack-unprocessed-artifact-fragment-ore = unprocessed artifact fragment ore
+stack-unprocessed-gold-ore = mineral de oro sin procesar
+stack-unprocessed-diamond-ore = mineral de diamante sin procesar
+stack-unprocessed-steel-ore = mineral de acero sin procesar
+stack-unprocessed-plasma-ore = mineral de plasma sin procesar
+stack-unprocessed-silver-ore = mineral de plata sin procesar
+stack-unprocessed-quartz-ore = mineral de cuarzo sin procesar
+stack-unprocessed-uranium-ore = mineral de uranio sin procesar
+stack-unprocessed-bananium-ore = mineral de bananio sin procesar
+stack-unprocessed-coal = carbón sin procesar
+stack-unprocessed-artifact-fragment-ore = mineral de fragmento de artefacto sin procesar
 
-stack-watcher-wing = watcher wing
-stack-magma-wing = magma watcher wing
-stack-ice-wing = ice watcher wing
-stack-legion-skull = legion skull
+stack-watcher-wing = ala de vigilante
+stack-magma-wing = ala de vigilante de magma
+stack-ice-wing = ala de vigilante de hielo
+stack-legion-skull = cráneo de legión

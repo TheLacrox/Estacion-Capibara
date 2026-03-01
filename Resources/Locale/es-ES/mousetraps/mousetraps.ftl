@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-mousetrap-on-activate = The mousetrap was activated.
-mousetrap-on-deactivate = The mousetrap was deactivated.
+mousetrap-on-activate = La trampa para ratones se activó.
+mousetrap-on-deactivate = La trampa para ratones se desactivó.

@@ -6,5 +6,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # goobstation edits
-greenshift-title = Greenshift
-greenshift-description = Nothing ever happens...
+greenshift-title = Turno Verde
+greenshift-description = Nunca pasa nada...

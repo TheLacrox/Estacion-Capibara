@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-id-card-access-level-ntr = Nanotrasen Representative
-id-card-access-level-bso = Blueshield Officer
-id-card-access-level-robotics = Robotics
+id-card-access-level-ntr = Representante de Nanotrasen
+id-card-access-level-bso = Oficial Blueshield
+id-card-access-level-robotics = Robótica

@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-clothing-boots-sidearm = Sidearm
+clothing-boots-sidearm = Arma secundaria

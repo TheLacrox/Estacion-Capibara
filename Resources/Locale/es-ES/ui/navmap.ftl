@@ -5,5 +5,5 @@
 # SPDX-License-Identifier: MIT
 
 navmap-zoom = Zoom: {$value}x
-navmap-recenter = Recenter
-navmap-toggle-beacons = Show departments
+navmap-recenter = Recentrar
+navmap-toggle-beacons = Mostrar departamentos

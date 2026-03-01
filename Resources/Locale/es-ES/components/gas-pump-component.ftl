@@ -6,13 +6,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-gas-pump-ui-pump-status = Status:
-comp-gas-pump-ui-status-enabled = On
-comp-gas-pump-ui-status-disabled = Off
+comp-gas-pump-ui-pump-status = Estado:
+comp-gas-pump-ui-status-enabled = Encendido
+comp-gas-pump-ui-status-disabled = Apagado
 
-comp-gas-pump-ui-pump-set-rate = Set
-comp-gas-pump-ui-pump-set-max = Max
+comp-gas-pump-ui-pump-set-rate = Establecer
+comp-gas-pump-ui-pump-set-max = Máx
 
-comp-gas-pump-ui-pump-output-pressure = Output Pressure (kPa):
+comp-gas-pump-ui-pump-output-pressure = Presión de salida (kPa):
 
-comp-gas-pump-ui-pump-transfer-rate = Transfer Rate (L/s):
+comp-gas-pump-ui-pump-transfer-rate = Tasa de transferencia (L/s):

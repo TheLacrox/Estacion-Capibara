@@ -1,17 +1,17 @@
-ghost-role-information-slaughter-demon-name = Slaughter Demon
-ghost-role-information-slaughter-demon-description = WHAT A TIME TO BE ALIVE! LET THOSE PUNY MORTALS FACE MY TRUE WRATH!
+ghost-role-information-slaughter-demon-name = Demonio de la Masacre
+ghost-role-information-slaughter-demon-description = ¡QUÉ MOMENTO TAN EMOCIONANTE PARA ESTAR VIVO! ¡QUE ESOS MÍSEROS MORTALES SIENTAN MI VERDADERA IRA!
 ghost-role-information-slaughter-demon-rules =
-    JUST SIT BACK AND ENJOY THE KILLING BECAUSE NOBODY ELSE WILL. HERE'S A COUPLE THINGS TO KEEP IN MIND THOUGH, DEMON TO DEMON.
-        HIERARCHY:
-        IT GOES LIKE THIS
-            SATAN
-            DEVILS
-            DEMON KING, BUBBLEGUM
-            DEMONS
+    SIÉNTATE Y DISFRUTA DE LA MATANZA PORQUE NADIE MÁS LO HARÁ. PERO HAY UN PAR DE COSAS A TENER EN CUENTA, DEMONIO A DEMONIO.
+        JERARQUÍA:
+        VA ASÍ
+            SATANÁS
+            DIABLOS
+            REY DEMONIO, BUBBLEGUM
+            DEMONIOS
             IMPS
-            STUPID GOOBALLS WE CALL HUMANS
-    MY FELLOW DEMONS, PLEASE [color=red] DO NOT KILL DEVILS[/color] BECAUSE SATAN WILL SMITE YOU REAL FAST AS SOON AS THE DEVIL SNITCHES ON YOU IN THE UNDERWORLD
+            LOS ESTÚPIDOS GOOBALOS QUE LLAMAMOS HUMANOS
+    MIS COMPAÑEROS DEMONIOS, POR FAVOR [color=red] NO MATEN A LOS DIABLOS[/color] PORQUE SATANÁS OS FULMINARÁ RAPIDÍSIMO EN CUANTO EL DIABLO OS DELATE EN EL INFRAMUNDO
 
 
-ghost-role-information-laughter-demon-name = Laughter Demon
-ghost-role-information-laughter-demon-description = WHAT A TIME TO BE ALIVE! YOU BETTER HUG EVERYONE YOU SEE, AND SHOW THEM WHAT TRUE LOVE FEELS LIKE!
+ghost-role-information-laughter-demon-name = Demonio de la Risa
+ghost-role-information-laughter-demon-description = ¡QUÉ MOMENTO TAN EMOCIONANTE PARA ESTAR VIVO! ¡MÁS TE VALE ABRAZAR A TODOS LOS QUE VEAS Y MOSTRARLES LO QUE ES EL VERDADERO AMOR!

@@ -1,1 +1,1 @@
-reflect-component-magic = magic
+reflect-component-magic = magia

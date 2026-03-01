@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-admin-shuttle-title = (Re)call shuttle
+admin-shuttle-title = Llamar/Cancelar lanzadera

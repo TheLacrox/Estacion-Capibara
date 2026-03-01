@@ -7,19 +7,18 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Types
-mixing-verb-default-mix = mix
-mixing-verb-default-grind = grind
-mixing-verb-default-juice = juice
-mixing-verb-default-condense = condense
-mixing-verb-centrifuge = centrifugation
-mixing-verb-electrolysis = electrolyze
-mixing-verb-holy = bless
-mixing-verb-stir = stir
-mixing-verb-shake = shake
+mixing-verb-default-mix = mezclar
+mixing-verb-default-grind = triturar
+mixing-verb-default-juice = exprimir
+mixing-verb-default-condense = condensar
+mixing-verb-centrifuge = centrifugar
+mixing-verb-electrolysis = electrolizar
+mixing-verb-holy = bendecir
+mixing-verb-stir = remover
+mixing-verb-shake = agitar
 
 ## Entity
 
-default-mixing-success = You mix the {$mixed} with the {$mixer}
-bible-mixing-success = You bless the {$mixed} with the {$mixer}
-spoon-mixing-success = You stir the {$mixed} with the {$mixer}
-
+default-mixing-success = Mezclas {$mixed} con {$mixer}
+bible-mixing-success = Bendices {$mixed} con {$mixer}
+spoon-mixing-success = Remueves {$mixed} con {$mixer}

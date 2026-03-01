@@ -1,4 +1,4 @@
 xenoarch-trigger-tip-bz = BZ
-xenoarch-trigger-tip-nitrium = Nitrium
-xenoarch-trigger-tip-healium = Healium
-xenoarch-trigger-tip-pluoxium = Pluoxium
+xenoarch-trigger-tip-nitrium = Nitreo
+xenoarch-trigger-tip-healium = Helio curativo
+xenoarch-trigger-tip-pluoxium = Pluoxio

@@ -9,188 +9,188 @@
 
 # combat
 
-evolutionmenu-combat-armblade-name = Arm Blade
+evolutionmenu-combat-armblade-name = Hoja de Brazo
 evolutionmenu-combat-armblade-desc =
-    Reform one of your arms into a grotesque blade, composed of bone and flesh, able to pry open airlocks and cut through your foes like butter. Easily delimbs.
-    Costs 15 chemicals.
+    Transforma uno de tus brazos en una grotesca hoja compuesta de hueso y carne, capaz de forzar esclusas y atravesar a tus enemigos como mantequilla. Desmembra con facilidad.
+    Cuesta 15 productos químicos.
 
-evolutionmenu-combat-armhammer-name = Arm Hammer
+evolutionmenu-combat-armhammer-name = Martillo de Brazo
 evolutionmenu-combat-armhammer-desc =
-    Reform one of your arms into a grotesque hammer, composed of bone and flesh, able to smash your opponents, knocking them down and sending them flying. Will only knock down on light attack.
-    Costs 15 chemicals.
+    Transforma uno de tus brazos en un grotesco martillo compuesto de hueso y carne, capaz de golpear a tus oponentes, derribándolos y lanzándolos por los aires. Solo derriba con ataque ligero.
+    Cuesta 15 productos químicos.
 
-evolutionmenu-combat-armclaw-name = Arm Claw
+evolutionmenu-combat-armclaw-name = Garra de Brazo
 evolutionmenu-combat-armclaw-desc =
-    Reform one of your arms into a grotesque claw, composed of bone and flesh, able to grab your opponents on hit, immobilizing them. Hitting anything with it again relases the target.
-    Costs 15 chemicals.
+    Transforma uno de tus brazos en una grotesca garra compuesta de hueso y carne, capaz de agarrar a tus oponentes al golpearlos, inmovilizándolos. Golpear de nuevo con ella libera al objetivo.
+    Cuesta 15 productos químicos.
 
-evolutionmenu-combat-dartgun-name = Dart Gun
+evolutionmenu-combat-dartgun-name = Pistola de Dardos
 evolutionmenu-combat-dartgun-desc =
-    Reform one of your arms into a stinger, able to shoot darts, applying half of the effect of one of your evolved reagent stings.
-    Available modes: blind sting, mute sting, cryogenic sting, lethargic sting
-    Costs 15 chemicals.
-    Each shot costs about 1/3 the chemical cost of the selected sting.
+    Transforma uno de tus brazos en un aguijón capaz de disparar dardos que aplican la mitad del efecto de una de tus picaduras de reactivo evolucionadas.
+    Modos disponibles: picadura ciega, picadura muda, picadura criogénica, picadura letárgica
+    Cuesta 15 productos químicos.
+    Cada disparo cuesta aproximadamente 1/3 del coste en productos químicos de la picadura seleccionada.
 
-evolutionmenu-combat-boneshard-name = Bone Shard
+evolutionmenu-combat-boneshard-name = Esquirla de Hueso
 evolutionmenu-combat-boneshard-desc =
-    Break off shards of your bone and shape them into a throwing star which embeds into your foes. But a one timer opportinuty.
-    Costs 15 chemicals.
+    Desprende fragmentos de tu hueso y dales forma de estrella arrojadiza que se incrusta en tus enemigos. Pero es una oportunidad de un solo uso.
+    Cuesta 15 productos químicos.
 
-evolutionmenu-combat-armor-name = Chitinous Armor
+evolutionmenu-combat-armor-name = Armadura Quitinosa
 evolutionmenu-combat-armor-desc =
-    Inflate your body into an all-consuming chitinous mass of armor.
-    Provides solid protection against physical damage.
-    Maintaining its shape slows chemical generation.
-    WARNING: Requires you to absorb at least 2 organics to use the ability.
-    Costs 25 chemicals.
+    Infla tu cuerpo convirtiéndolo en una masa de armadura quitinosa que todo lo consume.
+    Proporciona una sólida protección contra el daño físico.
+    Mantener su forma ralentiza la generación de productos químicos.
+    ADVERTENCIA: Requiere absorber al menos 2 orgánicos para usar la habilidad.
+    Cuesta 25 productos químicos.
 
-evolutionmenu-combat-shield-name = Organic Shield
+evolutionmenu-combat-shield-name = Escudo Orgánico
 evolutionmenu-combat-shield-desc =
-    Reforms one of your arms into a large, fleshy shield.
-    Reduces incoming damage, albeit is less durable than conventional shields.
-    WARNING: Requires you to absorb at least 1 organic to use the ability.
-    Costs 20 chemicals.
+    Transforma uno de tus brazos en un gran escudo carnoso.
+    Reduce el daño entrante, aunque es menos resistente que los escudos convencionales.
+    ADVERTENCIA: Requiere absorber al menos 1 orgánico para usar la habilidad.
+    Cuesta 20 productos químicos.
 
-evolutionmenu-combat-shriek-dissonant-name = Dissonant Shriek
+evolutionmenu-combat-shriek-dissonant-name = Chillido Disonante
 evolutionmenu-combat-shriek-dissonant-desc =
-    You scream out an EMP blast, which disables technology in the surrounding area, including radio headsets.
-    Good for escaping cyborgs and security.
-    WARNING: Requires you to absorb at least 1 organic to use the ability.
-    Costs 30 chemicals.
+    Lanzas un chillido que genera un pulso EMP, desactivando la tecnología del área circundante, incluidos los auriculares de radio.
+    Útil para escapar de cyborgs y seguridad.
+    ADVERTENCIA: Requiere absorber al menos 1 orgánico para usar la habilidad.
+    Cuesta 30 productos químicos.
 
-evolutionmenu-combat-shriek-resonant-name = Resonant Shriek
+evolutionmenu-combat-shriek-resonant-name = Chillido Resonante
 evolutionmenu-combat-shriek-resonant-desc =
-    You scream out a disorienting high frequency sound,
-    bursting lights as well as causing sensory overloads in organisms and silicons.
-    Good for escaping groups, or hindering people from fleeing.
-    Changelings are not affected by this sound, and ear protection will reduce disorientation.
-    WARNING: Requires you to absorb at least 1 organic to use the ability.
-    Costs 30 chemicals.
+    Emites un sonido de alta frecuencia desorientador,
+    haciendo estallar las luces y causando sobrecargas sensoriales en organismos y silicios.
+    Útil para escapar de grupos o impedir que la gente huya.
+    Los changelings no se ven afectados por este sonido, y la protección auditiva reducirá la desorientación.
+    ADVERTENCIA: Requiere absorber al menos 1 orgánico para usar la habilidad.
+    Cuesta 30 productos químicos.
 
-evolutionmenu-combat-strainedmuscles-name = Strained Muscles
+evolutionmenu-combat-strainedmuscles-name = Músculos Forzados
 evolutionmenu-combat-strainedmuscles-desc =
-    You reduce lactic acid buildup in your leg muscles, allowing you to move at extremely fast speeds.
-    While active, you will take steadily increments of stamina damage and eventually pass out.
-    Cost-free.
+    Reduces la acumulación de ácido láctico en los músculos de tus piernas, lo que te permite moverte a velocidades extremadamente altas.
+    Mientras está activo, recibirás incrementos progresivos de daño de aguante y eventualmente te desmayarás.
+    Sin coste.
 
 # sting
 
-evolutionmenu-sting-blind-name = Blind Sting
+evolutionmenu-sting-blind-name = Picadura Ciega
 evolutionmenu-sting-blind-desc =
-    Silently sting an organic target, completely blinding them for a short time.
-    May be used while under the effects of Lesser Form.
-    Costs 20 chemicals.
+    Pica silenciosamente a un objetivo orgánico, cegándolo completamente durante un breve tiempo.
+    Puede usarse bajo los efectos de Forma Inferior.
+    Cuesta 20 productos químicos.
 
-evolutionmenu-sting-cryo-name = Cryogenic Sting
+evolutionmenu-sting-cryo-name = Picadura Criogénica
 evolutionmenu-sting-cryo-desc =
-    Inject an organic target with a cocktail of chemicals that chills the blood.
-    May be used while under the effects of Lesser Form.
-    Costs 20 chemicals.
+    Inyecta en un objetivo orgánico un cóctel de productos químicos que enfría la sangre.
+    Puede usarse bajo los efectos de Forma Inferior.
+    Cuesta 20 productos químicos.
 
-evolutionmenu-sting-lethargic-name = Lethargic Sting
+evolutionmenu-sting-lethargic-name = Picadura Letárgica
 evolutionmenu-sting-lethargic-desc =
-    Inject an organic target with a cocktail of anesthetics, slowing the victim down and dealing stamina damage for a decent amount of time.
-    May be used while under the effects of Lesser Form.
-    Costs 30 chemicals.
+    Inyecta en un objetivo orgánico un cóctel de anestésicos, ralentizando a la víctima e infligiendo daño de aguante durante un tiempo considerable.
+    Puede usarse bajo los efectos de Forma Inferior.
+    Cuesta 30 productos químicos.
 
-evolutionmenu-sting-mute-name = Mute Sting
+evolutionmenu-sting-mute-name = Picadura Muda
 evolutionmenu-sting-mute-desc =
-    Inject mute toxin into an organic target, completely silencing them for a while.
-    May be used while under the effects of Lesser Form.
-    Costs 20 chemicals.
+    Inyecta toxina muda en un objetivo orgánico, silenciándolo completamente durante un tiempo.
+    Puede usarse bajo los efectos de Forma Inferior.
+    Cuesta 20 productos químicos.
 
-evolutionmenu-sting-transform-name = Transformation Sting
+evolutionmenu-sting-transform-name = Picadura de Transformación
 evolutionmenu-sting-transform-desc =
-    Inject some of your genome into an organic target, forcing their body to shapeshift into whoever you've chosen using the Cycle DNA ability.
-    May be used while under the effects of Lesser Form.
-    Costs 75 chemicals.
+    Inyecta parte de tu genoma en un objetivo orgánico, forzando a su cuerpo a mutar en quien hayas elegido mediante la habilidad Ciclar ADN.
+    Puede usarse bajo los efectos de Forma Inferior.
+    Cuesta 75 productos químicos.
 
-evolutionmenu-sting-armblade-name = Fake Arm Blade Sting
+evolutionmenu-sting-armblade-name = Picadura de Hoja de Brazo Falsa
 evolutionmenu-sting-armblade-desc =
-    Inject some of your genome into an organic target, forcing their arm to shapeshift into a dull armblade.
-    Target can only have one fake armblade at a time.
-    May be used while under the effects of Lesser Form.
-    Costs 30 chemicals.
+    Inyecta parte de tu genoma en un objetivo orgánico, forzando a su brazo a mutar en una hoja de brazo sin filo.
+    El objetivo solo puede tener una hoja de brazo falsa a la vez.
+    Puede usarse bajo los efectos de Forma Inferior.
+    Cuesta 30 productos químicos.
 
 # utility
 
-evolutionmenu-utility-instinct-name = Awakened Instinct
+evolutionmenu-utility-instinct-name = Instinto Despierto
 evolutionmenu-utility-instinct-desc =
-    Awaken a ravenous, insatiable hunger towards biomass - even your own.
-    Results in chemical regeneration being increased by a flat 25%.
-    Running out of biomass will result in self-consumption - your permanent demise.
-    Biomass is restored when absorbing compatible organisms.
-    Passive ability.
+    Despierta un hambre voraz e insaciable hacia la biomasa, incluso la propia.
+    Resulta en un aumento del 25% fijo en la regeneración de productos químicos.
+    Quedarse sin biomasa resultará en autoconsumo: tu fin permanente.
+    La biomasa se restaura al absorber organismos compatibles.
+    Habilidad pasiva.
 
-evolutionmenu-utility-panacea-name = Anatomic Panacea
+evolutionmenu-utility-panacea-name = Panacea Anatómica
 evolutionmenu-utility-panacea-desc =
-    Applies "anatomic panacea" status effect, rapidly healing all non-physical damage, as well as cleansing chemicals,
-    illness, and the influence of drugs. Will also remove xenomorph embryos.
-    Lasts 10 seconds.
-    Effects will cease while on fire or dead.
-    Costs 30 chemicals.
+    Aplica el efecto de estado "panacea anatómica", curando rápidamente todo el daño no físico, así como eliminando productos químicos,
+    enfermedades y la influencia de drogas. También eliminará embriones xenomorfo.
+    Dura 10 segundos.
+    Los efectos cesarán si estás en llamas o muerto.
+    Cuesta 30 productos químicos.
 
-evolutionmenu-utility-eyesight-name = Augmented Eyesight
+evolutionmenu-utility-eyesight-name = Vista Aumentada
 evolutionmenu-utility-eyesight-desc =
-    Evolve additional features in your eyes, such toggleable thermal vision and flash protection. You become more vulnerable to flash-based devices while in thermal vision mode.
-    Cost-free.
+    Evoluciona características adicionales en tus ojos, como visión térmica conmutable y protección contra destellos. Eres más vulnerable a los dispositivos de destello mientras usas la visión térmica.
+    Sin coste.
 
-evolutionmenu-utility-biodegrade-name = Biodegrade
+evolutionmenu-utility-biodegrade-name = Biodegradación
 evolutionmenu-utility-biodegrade-desc =
-    Vomit a caustic substance onto any restraints you may be wearing, allowing yourself to break free.
-    Using this ability while being grabbed will spit acid in your attackers face, blinding them and knocking them down.
-    Costs 30 chemicals.
+    Vomita una sustancia cáustica sobre cualquier restricción que puedas llevar, permitiéndote liberarte.
+    Usar esta habilidad mientras eres agarrado escupirá ácido en la cara de tu atacante, cegándolo y derribándolo.
+    Cuesta 30 productos químicos.
 
-evolutionmenu-utility-chameleon-name = Chameleon Skin
+evolutionmenu-utility-chameleon-name = Piel de Camaleón
 evolutionmenu-utility-chameleon-desc =
-    Alter the pigment in your skin to match your surroundings, rendering you invisible.
-    Maintaining this chameleon state slows chemical generation.
-    Costs 20 chemicals.
+    Altera el pigmento de tu piel para que coincida con tu entorno, volviéndote invisible.
+    Mantener este estado de camaleón ralentiza la generación de productos químicos.
+    Cuesta 20 productos químicos.
 
-evolutionmenu-utility-voidadapt-name = Void Adaption
+evolutionmenu-utility-voidadapt-name = Adaptación al Vacío
 evolutionmenu-utility-voidadapt-desc =
-    Allows you to adapt in reponse to any low extremes of temperature or pressure.
-    Removes the need for the presence of air to breathe.
-    Maintaining an active state slows chemical regeneration.
-    Works automatically.
-    Effects will cease while on fire.
+    Te permite adaptarte en respuesta a cualquier extremo bajo de temperatura o presión.
+    Elimina la necesidad de presencia de aire para respirar.
+    Mantener un estado activo ralentiza la regeneración química.
+    Funciona automáticamente.
+    Los efectos cesarán si estás en llamas.
 
-evolutionmenu-utility-stims-name = Adrenaline reserves
+evolutionmenu-utility-stims-name = Reservas de Adrenalina
 evolutionmenu-utility-stims-desc =
-    Applies "adrenaline reserves" status effect, rendering stuns, stamina damage, and most incapacitation methods useless.
-    Gradually inflicts poison damage while in use.
-    Lasts 10 seconds.
-    Costs 30 chemicals.
+    Aplica el efecto de estado "reservas de adrenalina", haciendo que los aturdimientos, el daño de aguante y la mayoría de los métodos de incapacitación sean inútiles.
+    Inflige gradualmente daño por veneno mientras está en uso.
+    Dura 10 segundos.
+    Cuesta 30 productos químicos.
 
-evolutionmenu-utility-fleshmend-name = Fleshmend
+evolutionmenu-utility-fleshmend-name = Reparación Carnal
 evolutionmenu-utility-fleshmend-desc =
-    Applies "fleshmend" status effect, rapidly healing brute damage, as well as burn/asphyxiation at a lower amount.
-    Additionally, bleeding will gradually heal and blood volume will slowly be restored.
-    Lasts 10 seconds.
-    Effects will cease while on fire or dead.
-    Costs 35 chemicals.
+    Aplica el efecto de estado "reparación carnal", curando rápidamente el daño por contusión, así como el de quemadura/asfixia en menor cantidad.
+    Adicionalmente, las hemorragias se curarán gradualmente y el volumen de sangre se restaurará lentamente.
+    Dura 10 segundos.
+    Los efectos cesarán si estás en llamas o muerto.
+    Cuesta 35 productos químicos.
 
-evolutionmenu-utility-lastresort-name = Last Resort
+evolutionmenu-utility-lastresort-name = Último Recurso
 evolutionmenu-utility-lastresort-desc =
-    Abandon your current body and escape in the form of a headslug.
-    Costs 20 chemicals.
+    Abandona tu cuerpo actual y escapa en forma de babosa de cabeza.
+    Cuesta 20 productos químicos.
 
-evolutionmenu-utility-lesserform-name = Lesser Form
+evolutionmenu-utility-lesserform-name = Forma Inferior
 evolutionmenu-utility-lesserform-desc =
-    Abandon your current form and turn into a sentient monkey.
-    Costs 20 chemicals.
+    Abandona tu forma actual y conviértete en un mono sintiente.
+    Cuesta 20 productos químicos.
 
-evolutionmenu-utility-spacesuit-name = Space Adaptation
+evolutionmenu-utility-spacesuit-name = Adaptación Espacial
 evolutionmenu-utility-spacesuit-desc =
-    Get rid of useless tissue in order to facilitate space travel. A source of oxygen is still required for space walking.
-    Costs 20 chemicals.
+    Elimina tejido inútil para facilitar el viaje espacial. Sigue siendo necesaria una fuente de oxígeno para caminar por el espacio.
+    Cuesta 20 productos químicos.
 
-evolutionmenu-utility-hivemindaccess-name = Hivemind Access
+evolutionmenu-utility-hivemindaccess-name = Acceso a la Mente Colmena
 evolutionmenu-utility-hivemindaccess-desc =
-    Tunes our chemical receptors for hivemind communication, allowing us to recognize and communicate with other changelings who have also evolved this ability.
-    Default key is +h
+    Sintoniza nuestros receptores químicos para la comunicación de la mente colmena, permitiéndonos reconocer y comunicarnos con otros changelings que también hayan evolucionado esta habilidad.
+    La tecla predeterminada es +h
 
-evolutionmenu-utility-absorbbiomatter-name = Absorb Biomatter
+evolutionmenu-utility-absorbbiomatter-name = Absorber Biomateria
 evolutionmenu-utility-absorbbiomatter-desc =
-    Absorbs an organic food item, letting you regain chemicals depending on its contents.
-    Can absorb nutriment, cooked and uncooked proteins, and fat.
+    Absorbe un alimento orgánico, permitiéndote recuperar productos químicos en función de su contenido.
+    Puede absorber nutrientes, proteínas crudas y cocidas, y grasa.

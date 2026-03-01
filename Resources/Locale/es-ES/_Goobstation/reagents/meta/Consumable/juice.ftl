@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-desc-juice-cherry = The best red flavor.
+reagent-desc-juice-cherry = El mejor sabor rojo.

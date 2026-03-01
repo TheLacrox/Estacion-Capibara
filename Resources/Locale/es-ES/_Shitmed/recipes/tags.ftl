@@ -1,10 +1,10 @@
-construction-graph-tag-casing = casing
+construction-graph-tag-casing = carcasa
 
-construction-graph-tag-cell-recharger = cell recharger machine board
-construction-graph-tag-cyborg-recharger = cyborg recharging station machine board
+construction-graph-tag-cell-recharger = placa de máquina recargadora de celda
+construction-graph-tag-cyborg-recharger = placa de máquina estación de recarga de cyborg
 
-construction-graph-tag-botany-tools-electronics = botany tools panel electronics
-construction-graph-tag-paperwork-tools-electronics = paperwork tools panel electronics
-construction-graph-tag-utility-tools-electronics = utility tools panel electronics
-construction-graph-tag-surgery-tools-electronics = surgery tools panel electronics
-construction-graph-tag-strength-augment-electronics = strength augment electronics
+construction-graph-tag-botany-tools-electronics = panel electrónico de herramientas de botánica
+construction-graph-tag-paperwork-tools-electronics = panel electrónico de herramientas de papeleo
+construction-graph-tag-utility-tools-electronics = panel electrónico de herramientas de utilidad
+construction-graph-tag-surgery-tools-electronics = panel electrónico de herramientas de cirugía
+construction-graph-tag-strength-augment-electronics = electrónica de implante de fuerza

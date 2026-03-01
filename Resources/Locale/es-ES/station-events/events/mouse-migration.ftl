@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-mouse-migration-announcement = We have detected an oncoming migration of rodents to the station. Please stay out of maintenance tunnels and try and avoid excessive contact.
+station-event-mouse-migration-announcement = Hemos detectado una migración inminente de roedores hacia la estación. Por favor, manténgase alejado de los túneles de mantenimiento e intente evitar el contacto excesivo.

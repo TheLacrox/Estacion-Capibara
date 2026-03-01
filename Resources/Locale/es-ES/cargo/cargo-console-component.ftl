@@ -12,108 +12,108 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## UI
-cargo-console-menu-title = Cargo request console
-cargo-console-menu-flavor-left = Order even more pizza boxes than usual!
+cargo-console-menu-title = Consola de solicitud de carga
+cargo-console-menu-flavor-left = ¡Pide aún más cajas de pizza de lo normal!
 cargo-console-menu-flavor-right = v2.1
-cargo-console-menu-account-name-label = Account:{" "}
-cargo-console-menu-account-name-none-text = None
+cargo-console-menu-account-name-label = Cuenta:{" "}
+cargo-console-menu-account-name-none-text = Ninguna
 cargo-console-menu-account-name-format = [bold][color={$color}]{$name}[/color][/bold] [font="Monospace"]\[{$code}\][/font]
-cargo-console-menu-shuttle-name-label = Shuttle name:{" "}
-cargo-console-menu-shuttle-name-none-text = None
-cargo-console-menu-points-label = Balance:{" "}
+cargo-console-menu-shuttle-name-label = Nombre de la lanzadera:{" "}
+cargo-console-menu-shuttle-name-none-text = Ninguna
+cargo-console-menu-points-label = Saldo:{" "}
 cargo-console-menu-points-amount = ${$amount}
-cargo-console-menu-shuttle-status-label = Shuttle status:{" "}
-cargo-console-menu-shuttle-status-away-text = Away
-cargo-console-menu-order-capacity-label = Order capacity:{" "}
-cargo-console-menu-call-shuttle-button = Activate telepad
-cargo-console-menu-permissions-button = Permissions
-cargo-console-menu-categories-label = Categories:{" "}
-cargo-console-menu-search-bar-placeholder = Search
-cargo-console-menu-requests-label = Requests
-cargo-console-menu-orders-label = Orders
-cargo-console-menu-order-row-title = {$productName} (x{$orderAmount} for {$orderPrice}$)
-cargo-console-menu-populate-orders-cargo-order-row-product-name-text = Requested by: {$orderRequester} from [color={$accountColor}]{$account}[/color]
-cargo-console-menu-order-row-product-description = Reason: {$orderReason}
-cargo-console-menu-order-row-button-approve = Approve
-cargo-console-menu-order-row-button-cancel = Cancel
-cargo-console-menu-order-row-alerts-reason-absent = The reason is not specified
-cargo-console-menu-order-row-alerts-requester-unknown = Unknown
-cargo-console-menu-populate-categories-all-text = All
-cargo-console-menu-tab-title-orders = Orders
-cargo-console-menu-tab-title-funds = Transfers
-cargo-console-menu-account-action-transfer-limit = Transfer Limit:
+cargo-console-menu-shuttle-status-label = Estado de la lanzadera:{" "}
+cargo-console-menu-shuttle-status-away-text = Ausente
+cargo-console-menu-order-capacity-label = Capacidad de pedidos:{" "}
+cargo-console-menu-call-shuttle-button = Activar telepad
+cargo-console-menu-permissions-button = Permisos
+cargo-console-menu-categories-label = Categorías:{" "}
+cargo-console-menu-search-bar-placeholder = Buscar
+cargo-console-menu-requests-label = Solicitudes
+cargo-console-menu-orders-label = Pedidos
+cargo-console-menu-order-row-title = {$productName} (x{$orderAmount} por {$orderPrice}$)
+cargo-console-menu-populate-orders-cargo-order-row-product-name-text = Solicitado por: {$orderRequester} de [color={$accountColor}]{$account}[/color]
+cargo-console-menu-order-row-product-description = Motivo: {$orderReason}
+cargo-console-menu-order-row-button-approve = Aprobar
+cargo-console-menu-order-row-button-cancel = Cancelar
+cargo-console-menu-order-row-alerts-reason-absent = El motivo no está especificado
+cargo-console-menu-order-row-alerts-requester-unknown = Desconocido
+cargo-console-menu-populate-categories-all-text = Todo
+cargo-console-menu-tab-title-orders = Pedidos
+cargo-console-menu-tab-title-funds = Transferencias
+cargo-console-menu-account-action-transfer-limit = Límite de transferencia:
 cargo-console-menu-account-action-transfer-limit-amount = ${$amount}
-cargo-console-menu-account-action-transfer-limit-unlimited-notifier = [color=gold](Unlimited)[/color]
-cargo-console-menu-account-action-select = [bold]Account Action:[/bold]
-cargo-console-menu-account-action-amount = [bold]Amount:[/bold] $
-cargo-console-menu-account-action-button = Transfer
-cargo-console-menu-toggle-account-lock-button = Toggle Transfer Limit
-cargo-console-menu-account-action-option-withdraw = Withdraw Cash
-cargo-console-menu-account-action-option-transfer = Transfer Funds to {$code}
+cargo-console-menu-account-action-transfer-limit-unlimited-notifier = [color=gold](Ilimitado)[/color]
+cargo-console-menu-account-action-select = [bold]Acción de cuenta:[/bold]
+cargo-console-menu-account-action-amount = [bold]Cantidad:[/bold] $
+cargo-console-menu-account-action-button = Transferir
+cargo-console-menu-toggle-account-lock-button = Activar/desactivar límite de transferencia
+cargo-console-menu-account-action-option-withdraw = Retirar efectivo
+cargo-console-menu-account-action-option-transfer = Transferir fondos a {$code}
 
 # Orders
-cargo-console-order-not-allowed = Access not allowed
-cargo-console-station-not-found = No available station
-cargo-console-invalid-product = Invalid product ID
-cargo-console-too-many = Too many approved orders
-cargo-console-snip-snip = Order trimmed to capacity
-cargo-console-insufficient-funds = Insufficient funds (require {$cost})
-cargo-console-unfulfilled = No room to fulfill order
-cargo-console-trade-station = Sent to {$destination}
-cargo-console-unlock-approved-order-broadcast = [bold]{$productName} x{$orderAmount}[/bold], which cost [bold]{$cost}[/bold], was approved by [bold]{$approver}[/bold]
-cargo-console-fund-withdraw-broadcast = [bold]{$name} withdrew {$amount} spesos from {$name1} \[{$code1}\]
-cargo-console-fund-transfer-broadcast = [bold]{$name} transferred {$amount} spesos from {$name1} \[{$code1}\] to {$name2} \[{$code2}\][/bold]
-cargo-console-fund-transfer-user-unknown = Unknown
+cargo-console-order-not-allowed = Acceso no permitido
+cargo-console-station-not-found = No hay estación disponible
+cargo-console-invalid-product = ID de producto inválido
+cargo-console-too-many = Demasiados pedidos aprobados
+cargo-console-snip-snip = Pedido recortado a la capacidad
+cargo-console-insufficient-funds = Fondos insuficientes (se requieren {$cost})
+cargo-console-unfulfilled = No hay espacio para cumplir el pedido
+cargo-console-trade-station = Enviado a {$destination}
+cargo-console-unlock-approved-order-broadcast = [bold]{$productName} x{$orderAmount}[/bold], que costó [bold]{$cost}[/bold], fue aprobado por [bold]{$approver}[/bold]
+cargo-console-fund-withdraw-broadcast = [bold]{$name} retiró {$amount} spesos de {$name1} \[{$code1}\]
+cargo-console-fund-transfer-broadcast = [bold]{$name} transfirió {$amount} spesos de {$name1} \[{$code1}\] a {$name2} \[{$code2}\][/bold]
+cargo-console-fund-transfer-user-unknown = Desconocido
 
 # GoobStation - cooldown on Cargo Orders (specifically gamba)
-cargo-console-cooldown-count = Cannot order more than one {$product} at a time.
-cargo-console-cooldown-active = Orders for {$product} cannot be placed for another {$timeCount} {$timeUnits}.
+cargo-console-cooldown-count = No se puede pedir más de un {$product} a la vez.
+cargo-console-cooldown-active = Los pedidos de {$product} no se pueden realizar durante otros {$timeCount} {$timeUnits}.
 
-cargo-console-paper-reason-default = None
-cargo-console-paper-approver-default = Self
-cargo-console-paper-print-name = Order #{$orderNumber}
-cargo-console-paper-print-text = [head=2]Order #{$orderNumber}[/head]
-    {"[bold]Item:[/bold]"} {$itemName} (x{$orderQuantity})
-    {"[bold]Requested by:[/bold]"} {$requester}
+cargo-console-paper-reason-default = Ninguno
+cargo-console-paper-approver-default = Propio
+cargo-console-paper-print-name = Pedido #{$orderNumber}
+cargo-console-paper-print-text = [head=2]Pedido #{$orderNumber}[/head]
+    {"[bold]Artículo:[/bold]"} {$itemName} (x{$orderQuantity})
+    {"[bold]Solicitado por:[/bold]"} {$requester}
 
-    {"[head=3]Order Information[/head]"}
-    {"[bold]Payer[/bold]:"} {$account} [font="Monospace"]\[{$accountcode}\][/font]
-    {"[bold]Approved by:[/bold]"} {$approver}
-    {"[bold]Reason:[/bold]"} {$reason}
+    {"[head=3]Información del pedido[/head]"}
+    {"[bold]Pagador[/bold]:"} {$account} [font="Monospace"]\[{$accountcode}\][/font]
+    {"[bold]Aprobado por:[/bold]"} {$approver}
+    {"[bold]Motivo:[/bold]"} {$reason}
 
 # Cargo shuttle console
-cargo-shuttle-console-menu-title = Cargo shuttle console
-cargo-shuttle-console-station-unknown = Unknown
-cargo-shuttle-console-shuttle-not-found = Not found
-cargo-shuttle-console-organics = Detected organic lifeforms on the shuttle
-cargo-no-shuttle = No cargo shuttle found!
+cargo-shuttle-console-menu-title = Consola de la lanzadera de carga
+cargo-shuttle-console-station-unknown = Desconocida
+cargo-shuttle-console-shuttle-not-found = No encontrada
+cargo-shuttle-console-organics = Se han detectado formas de vida orgánica en la lanzadera
+cargo-no-shuttle = ¡No se encontró ninguna lanzadera de carga!
 
 # Funding allocation console
-cargo-funding-alloc-console-menu-title = Funding Allocation Console
-cargo-funding-alloc-console-label-account = [bold]Account[/bold]
-cargo-funding-alloc-console-label-code = [bold] Code [/bold]
-cargo-funding-alloc-console-label-balance = [bold] Balance [/bold]
-cargo-funding-alloc-console-label-cut = [bold] Revenue Division (%) [/bold]
+cargo-funding-alloc-console-menu-title = Consola de asignación de fondos
+cargo-funding-alloc-console-label-account = [bold]Cuenta[/bold]
+cargo-funding-alloc-console-label-code = [bold] Código [/bold]
+cargo-funding-alloc-console-label-balance = [bold] Saldo [/bold]
+cargo-funding-alloc-console-label-cut = [bold] División de ingresos (%) [/bold]
 
-cargo-funding-alloc-console-label-primary-cut = Cargo's cut of funds from non-lockbox sources (%):
-cargo-funding-alloc-console-label-lockbox-cut = Cargo's cut of funds from lockbox sales (%):
+cargo-funding-alloc-console-label-primary-cut = Porcentaje de carga de fondos de fuentes sin caja fuerte (%):
+cargo-funding-alloc-console-label-lockbox-cut = Porcentaje de carga de fondos de ventas en caja fuerte (%):
 
-cargo-funding-alloc-console-label-help-non-adjustible = Cargo receives {$percent}% of profits from non-lockbox sales. The rest is split as specified below:
-cargo-funding-alloc-console-label-help-adjustible = Remaining funds from non-lockbox sources are distributed as specified below:
-cargo-funding-alloc-console-button-save = Save Changes
-cargo-funding-alloc-console-label-save-fail = [bold]Revenue Divisions Invalid![/bold] [color=red]({$pos ->
+cargo-funding-alloc-console-label-help-non-adjustible = Carga recibe {$percent}% de las ganancias de ventas sin caja fuerte. El resto se divide según lo especificado a continuación:
+cargo-funding-alloc-console-label-help-adjustible = Los fondos restantes de fuentes sin caja fuerte se distribuyen según lo especificado a continuación:
+cargo-funding-alloc-console-button-save = Guardar cambios
+cargo-funding-alloc-console-label-save-fail = [bold]¡Divisiones de ingresos inválidas![/bold] [color=red]({$pos ->
     [1] +
     *[-1] -
 }{$val}%)[/color]
 
 # Slip template
-cargo-acquisition-slip-body = [head=3]Asset Detail[/head]
-    {"[bold]Product:[/bold]"} {$product}
-    {"[bold]Description:[/bold]"} {$description}
-    {"[bold]Unit cost:[/bold"}] ${$unit}
-    {"[bold]Amount:[/bold]"} {$amount}
-    {"[bold]Cost:[/bold]"} ${$cost}
+cargo-acquisition-slip-body = [head=3]Detalle del activo[/head]
+    {"[bold]Producto:[/bold]"} {$product}
+    {"[bold]Descripción:[/bold]"} {$description}
+    {"[bold]Coste unitario:[/bold"}] ${$unit}
+    {"[bold]Cantidad:[/bold]"} {$amount}
+    {"[bold]Coste:[/bold]"} ${$cost}
 
-    {"[head=3]Purchase Detail[/head]"}
-    {"[bold]Orderer:[/bold]"} {$orderer}
-    {"[bold]Reason:[/bold]"} {$reason}
+    {"[head=3]Detalle de la compra[/head]"}
+    {"[bold]Comprador:[/bold]"} {$orderer}
+    {"[bold]Motivo:[/bold]"} {$reason}

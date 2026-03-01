@@ -5,14 +5,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-dinnerware-1 = Mm, food stuffs!
-advertisement-dinnerware-2 = Food and food accessories.
-advertisement-dinnerware-3 = Get your plates!
-advertisement-dinnerware-4 = You like forks?
-advertisement-dinnerware-5 = I like forks.
-advertisement-dinnerware-6 = Woo, utensils.
-advertisement-dinnerware-7 = You don't really need these...
-advertisement-dinnerware-8 = Take them if you want them!
-advertisement-dinnerware-9 = I'm pretty sure beakers are a must-have.
-advertisement-dinnerware-10 = WHY ARE THERE SO MANY KINDS OF MUGS?
+advertisement-dinnerware-1 = ¡Mmm, cosas comestibles!
+advertisement-dinnerware-2 = Comida y accesorios de comida.
+advertisement-dinnerware-3 = ¡Llévate tus platos!
+advertisement-dinnerware-4 = ¿Te gustan los tenedores?
+advertisement-dinnerware-5 = A mí me gustan los tenedores.
+advertisement-dinnerware-6 = Toma, utensilios.
+advertisement-dinnerware-7 = En realidad no los necesitas...
+advertisement-dinnerware-8 = ¡Cógelos si los quieres!
+advertisement-dinnerware-9 = Estoy bastante seguro de que los vasos de precipitado son imprescindibles.
+advertisement-dinnerware-10 = ¿POR QUÉ HAY TANTOS TIPOS DE TAZAS?
 

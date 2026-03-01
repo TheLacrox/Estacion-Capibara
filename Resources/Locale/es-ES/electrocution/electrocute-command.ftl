@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-cmd-electrocute-desc = Electrocutes the specified entity, defaults to 10 seconds and 10 damage. Shocking!
-cmd-electrocute-help = Usage: electrocute <uid> [seconds] [damage]
-cmd-electrocute-entity-cannot-be-electrocuted = You cannot electrocute that entity!
+cmd-electrocute-desc = Electrocuta a la entidad especificada, por defecto 10 segundos y 10 de daño. ¡Electrizante!
+cmd-electrocute-help = Uso: electrocute <uid> [segundos] [daño]
+cmd-electrocute-entity-cannot-be-electrocuted = ¡No puedes electrocutar a esa entidad!

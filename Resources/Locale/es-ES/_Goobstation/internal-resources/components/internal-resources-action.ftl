@@ -1,3 +1,3 @@
-internal-resources-action-generic-deficit = Not enough resources to perform this!
+internal-resources-action-generic-deficit = ¡No hay suficientes recursos para hacer esto!
 
-internal-resources-action-changeling-deficit = Not enough chemicals!
+internal-resources-action-changeling-deficit = ¡No hay suficientes químicos!

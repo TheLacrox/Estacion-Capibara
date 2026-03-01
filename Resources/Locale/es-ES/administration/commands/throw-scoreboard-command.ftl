@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-throw-scoreboard-command-description = Show round-end scoreboard for all players, but not finish the round
-throw-scoreboard-command-help-text = Usage: throwscoreboard
+throw-scoreboard-command-description = Muestra el marcador de fin de ronda a todos los jugadores, sin finalizar la ronda
+throw-scoreboard-command-help-text = Uso: throwscoreboard

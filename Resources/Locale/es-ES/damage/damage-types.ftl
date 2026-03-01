@@ -4,17 +4,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-damage-type-asphyxiation = Asphyxiation
-damage-type-bloodloss = Bloodloss
-damage-type-blunt = Blunt
-damage-type-cellular = Cellular
-damage-type-caustic = Caustic
-damage-type-cold = Cold
-damage-type-heat = Heat
-damage-type-piercing = Piercing
-damage-type-poison = Poison
-damage-type-radiation = Radiation
-damage-type-shock = Shock
-damage-type-slash = Slash
-damage-type-structural = Structural
-damage-type-holy = Holy
+damage-type-asphyxiation = Asfixia
+damage-type-bloodloss = Pérdida de sangre
+damage-type-blunt = Contundente
+damage-type-cellular = Celular
+damage-type-caustic = Cáustico
+damage-type-cold = Frío
+damage-type-heat = Calor
+damage-type-piercing = Perforante
+damage-type-poison = Veneno
+damage-type-radiation = Radiación
+damage-type-shock = Descarga
+damage-type-slash = Cortante
+damage-type-structural = Estructural
+damage-type-holy = Sagrado

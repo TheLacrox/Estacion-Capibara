@@ -1,3 +1,3 @@
-admin-verb-make-cosmiccultist = Make the target into a cosmic cultist.
+admin-verb-make-cosmiccultist = Convierte al objetivo en un cultista cósmico.
 
-admin-verb-text-make-cosmiccultist = Make Cosmic Cultist
+admin-verb-text-make-cosmiccultist = Hacer Cultista Cósmico

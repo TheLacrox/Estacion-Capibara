@@ -1,2 +1,2 @@
-signal-port-fire-armament-name = Fire Armament
-signal-port-fire-armament-description = Controls Space Artillery's firing mechanism.
+signal-port-fire-armament-name = Disparar armamento
+signal-port-fire-armament-description = Controla el mecanismo de disparo de la artillería espacial.

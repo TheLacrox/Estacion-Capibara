@@ -1,22 +1,22 @@
-language-SpaceItalian-name = Space Italian
+language-SpaceItalian-name = Italiano Espacial
 language-SpaceItalian-description =
-    The language of the kitchen. Mamma mia!
+    El idioma de la cocina. ¡Mamma mia!
 
 language-Cheval-name = Cheval
-language-Cheval-description = The language of horses.
+language-Cheval-description = El idioma de los caballos.
 
 language-Revolutionary-name = Liberé
 chat-language-Revolutionary-name = Liberé
-language-Revolutionary-description = The subtle and intricate secret language of the revolution. No one will suspect you.
+language-Revolutionary-description = El sutil e intrincado lenguaje secreto de la revolución. Nadie sospechará de ti.
 
-language-Gruntish-name = Gruntish
-chat-language-Gruntish-name = Gruntish
-language-Gruntish-description = To the casual observer, this language is an incomprehensible mess of grunting sounds. To oni, the mess is somehow comprehensible.
+language-Gruntish-name = Gruñido
+chat-language-Gruntish-name = Gruñido
+language-Gruntish-description = Para el observador casual, este idioma es un incomprensible revoltijo de sonidos guturales. Para los oni, el revoltijo es de alguna manera comprensible.
 
 language-YowKriol-name = Yow Kriol
 chat-language-YowKriol-name = Yow Kriol
-language-YowKriol-description = A hybrid of numerous languages once spoken in Australia, kept alive as the first language of many yowies.
+language-YowKriol-description = Un híbrido de numerosos idiomas que se hablaban en Australia, mantenido vivo como primer idioma de muchos yowies.
 
-language-Carptongue-name = Carptongue
-chat-language-Carptongue-name = Carptongue
-language-Carptongue-description = The language of space carp and dragons, composed of throaty growling and sharp hissing through gills.
+language-Carptongue-name = Lenguaje de Carpa
+chat-language-Carptongue-name = Lenguaje de Carpa
+language-Carptongue-description = El idioma de las carpas espaciales y dragones, compuesto de gruñidos guturales y silbidos agudos a través de las branquias.

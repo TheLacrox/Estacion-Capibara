@@ -1,22 +1,22 @@
-cosmicability-generic-fail = Your influence fails to take hold..
+cosmicability-generic-fail = Tu influencia no logra afirmarse...
 
-cosmicability-glare-confirm = Press again to activate Null Glare.
+cosmicability-glare-confirm = Pulsa de nuevo para activar el Resplandor Nulo.
 
-cosmicability-siphon-cultist-success = Your attempts to draw entropy chill {CAPITALIZE(THE($target))}
-cosmicability-siphon-success = You silently draw Entropy from {CAPITALIZE(THE($target))}.
-cosmicability-siphon-fail = You can't seem to siphon Entropy from {CAPITALIZE(THE($target))}.
-cosmicability-siphon-full = You can't hold any more Entropy!
+cosmicability-siphon-cultist-success = Tu intento de extraer entropía enfría a {CAPITALIZE(THE($target))}
+cosmicability-siphon-success = Extraes silenciosamente Entropía de {CAPITALIZE(THE($target))}.
+cosmicability-siphon-fail = No consigues sifon ar Entropía de {CAPITALIZE(THE($target))}.
+cosmicability-siphon-full = ¡No puedes acumular más Entropía!
 
-cosmicability-blank-begin = {CAPITALIZE(THE($target))} attempts to grab hold of you!
-cosmicability-blank-success = You shunt {CAPITALIZE(THE($target))}'s mind unto the cosmic dark.
-cosmicability-blank-transfer = A cosmic power shunts your mind out of your body!
-cosmicability-blank-return = Your mind is drawn back to your body.
+cosmicability-blank-begin = ¡{CAPITALIZE(THE($target))} intenta agarrarte!
+cosmicability-blank-success = Expulsas la mente de {CAPITALIZE(THE($target))} hacia la oscuridad cósmica.
+cosmicability-blank-transfer = ¡Un poder cósmico expulsa tu mente de tu cuerpo!
+cosmicability-blank-return = Tu mente es atraída de regreso a tu cuerpo.
 
-cosmicability-lapse-success = You lapse {CAPITALIZE(THE($target))}'s corporeal form.
+cosmicability-lapse-success = Haces colapsar la forma corpórea de {CAPITALIZE(THE($target))}.
 
-cosmicability-monument-move-confirm = THIS ACTION CAN ONLY BE USED ONCE EVERY 10 MINUTES! Use it again to confirm.
-cosmicability-monument-spawn-confirm = THIS ACTION CAN ONLY BE USED ONCE! Use it again to confirm.
-cosmicability-monument-spawn-error-grid = Invalid location! The Monument must be beckoned upon a stable surface.
-cosmicability-monument-spawn-error-station = Invalid location! The Monument must be beckoned upon the station.
-cosmicability-monument-spawn-error-intersection = Too crowded! The Monument requires an empty 3x1 area to be beckoned.
-cosmicability-monument-spawn-error-space = Too close to space! The Monument must be be at least {$DISTANCE}m away.
+cosmicability-monument-move-confirm = ¡ESTA ACCIÓN SOLO PUEDE USARSE UNA VEZ CADA 10 MINUTOS! Úsala de nuevo para confirmar.
+cosmicability-monument-spawn-confirm = ¡ESTA ACCIÓN SOLO PUEDE USARSE UNA VEZ! Úsala de nuevo para confirmar.
+cosmicability-monument-spawn-error-grid = ¡Ubicación inválida! El Monumento debe ser invocado sobre una superficie estable.
+cosmicability-monument-spawn-error-station = ¡Ubicación inválida! El Monumento debe ser invocado en la estación.
+cosmicability-monument-spawn-error-intersection = ¡Demasiado concurrido! El Monumento requiere un área de 3x1 vacía para ser invocado.
+cosmicability-monument-spawn-error-space = ¡Demasiado cerca del espacio! El Monumento debe estar al menos a {$DISTANCE}m de distancia.

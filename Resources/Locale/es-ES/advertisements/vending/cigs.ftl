@@ -6,18 +6,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-cigs-1 = Space cigs taste good like a cigarette should.
-advertisement-cigs-2 = I'd rather toolbox than switch.
-advertisement-cigs-3 = Smoke!
-advertisement-cigs-4 = Don't believe the reports - smoke today!
-advertisement-cigs-5 = Probably not bad for you!
-advertisement-cigs-6 = Don't believe the scientists!
-advertisement-cigs-7 = It's good for you!
-advertisement-cigs-8 = Don't quit, buy more!
-advertisement-cigs-9 = Nicotine heaven.
-advertisement-cigs-10 = Best cigarettes since 2150.
-advertisement-cigs-11 = Award-winning cigs.
-advertisement-cigs-12 = Here to take an edge off work!
-thankyou-cigs-1 = You've got 'em, now smoke 'em!
-thankyou-cigs-2 = You probably won't regret it!
-thankyou-cigs-3 = You'll become an addict in no time!
+advertisement-cigs-1 = Los cigarros espaciales saben bien, como debe saber un cigarro.
+advertisement-cigs-2 = Prefiero una llave inglesa antes que cambiar de marca.
+advertisement-cigs-3 = ¡Fuma!
+advertisement-cigs-4 = ¡No creas los informes - fuma hoy mismo!
+advertisement-cigs-5 = ¡Probablemente no te hagan daño!
+advertisement-cigs-6 = ¡No les hagas caso a los científicos!
+advertisement-cigs-7 = ¡Es bueno para ti!
+advertisement-cigs-8 = ¡No lo dejes, compra más!
+advertisement-cigs-9 = El paraíso de la nicotina.
+advertisement-cigs-10 = Los mejores cigarros desde el 2150.
+advertisement-cigs-11 = Cigarros galardonados.
+advertisement-cigs-12 = ¡Para aliviar el estrés del trabajo!
+thankyou-cigs-1 = ¡Ya los tienes, ahora fúmalos!
+thankyou-cigs-2 = ¡Probablemente no te arrepientas!
+thankyou-cigs-3 = ¡En nada serás un adicto!

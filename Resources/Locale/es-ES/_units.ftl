@@ -30,9 +30,9 @@ units-si--z-long = zepto
 units-si--a-long = atto
 units-si--f-long = femto
 units-si--p-long = pico
-units-si--n-long = nnano
+units-si--n-long = nano
 units-si--u-long = micro
-units-si--m-long = milli
+units-si--m-long = mili
 units-si-long = {""}
 units-si-k-long = kilo
 units-si-m-long = mega
@@ -52,7 +52,7 @@ units-m-pascal = MPa
 units-g-pascal = GPa
 
 units-u--pascal-long = Micropascal
-units-m--pascal-long = Millipascal
+units-m--pascal-long = Milipascal
 units-pascal-long = Pascal
 units-k-pascal-long = Kilopascal
 units-m-pascal-long = Megapascal
@@ -66,12 +66,12 @@ units-k-watt = kW
 units-m-watt = MW
 units-g-watt = GW
 
-units-u--watt-long = Microwatt
-units-m--watt-long = Milliwatt
-units-watt-long = Watt
-units-k-watt-long = Kilowatt
-units-m-watt-long = Megawatt
-units-g-watt-long = Gigawatt
+units-u--watt-long = Microvatio
+units-m--watt-long = Milivatio
+units-watt-long = Vatio
+units-k-watt-long = Kilovatio
+units-m-watt-long = Megavatio
+units-g-watt-long = Gigavatio
 
 ## Joule (Energy)
 units-u--joule = µJ
@@ -81,7 +81,7 @@ units-k-joule = kJ
 units-m-joule = MJ
 
 units-u--joule-long = Microjoule
-units-m--joule-long = Millijoule
+units-m--joule-long = Milijoule
 units-joule-long = Joule
 units-k-joule-long = Kilojoule
 units-m-joule-long = Megajoule
@@ -95,7 +95,7 @@ units-m-kelvin = MK
 units-g-kelvin = GK
 
 units-u--kelvin-long = Microkelvin
-units-m--kelvin-long = Millikelvin
+units-m--kelvin-long = Milikelvin
 units-kelvin-long = Kelvin
 units-k-kelvin-long = Kilokelvin
 units-m-kelvin-long = Megakelvin

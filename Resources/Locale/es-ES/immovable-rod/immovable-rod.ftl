@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-immovable-rod-collided-rod-not-good = Oh fuck, that can't be good.
-immovable-rod-penetrated-mob = {CAPITALIZE(THE($rod))} cleanly eviscerates {THE($mob)}!
+immovable-rod-collided-rod-not-good = Oh mierda, eso no puede ser bueno.
+immovable-rod-penetrated-mob = ¡{CAPITALIZE(THE($rod))} evisceró limpiamente a {THE($mob)}!
 
-immovable-rod-consumed-none = {CAPITALIZE(THE($rod))} has consumed zero souls.
-immovable-rod-consumed-souls = {CAPITALIZE(THE($rod))} has consumed {$amount} souls.
+immovable-rod-consumed-none = {CAPITALIZE(THE($rod))} no ha consumido ningún alma.
+immovable-rod-consumed-souls = {CAPITALIZE(THE($rod))} ha consumido {$amount} almas.

@@ -5,16 +5,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-gas-mixer-ui-mixer-status = Status:
-comp-gas-mixer-ui-status-enabled = On
-comp-gas-mixer-ui-status-disabled = Off
+comp-gas-mixer-ui-mixer-status = Estado:
+comp-gas-mixer-ui-status-enabled = Encendido
+comp-gas-mixer-ui-status-disabled = Apagado
 
-comp-gas-mixer-ui-mixer-output-pressure = Output Pressure (kPa):
+comp-gas-mixer-ui-mixer-output-pressure = Presión de salida (kPa):
 
-comp-gas-mixer-ui-mixer-node-primary = Primary Port:
-comp-gas-mixer-ui-mixer-node-side = Side Port:
+comp-gas-mixer-ui-mixer-node-primary = Puerto principal:
+comp-gas-mixer-ui-mixer-node-side = Puerto lateral:
 
-comp-gas-mixer-ui-mixer-set = Set
-comp-gas-mixer-ui-mixer-max = Max
+comp-gas-mixer-ui-mixer-set = Establecer
+comp-gas-mixer-ui-mixer-max = Máx
 
-comp-gas-mixer-ui-needs-anchor = Anchor it first!
+comp-gas-mixer-ui-needs-anchor = ¡Primero anclálo!

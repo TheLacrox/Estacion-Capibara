@@ -1,3 +1,3 @@
-ghost-role-information-nascent-name = Nascent Cocoon
-ghost-role-information-nascent-description = You are but a cocoon, summoned from the void by the Wraith. Pick one of three creatures to become. The skeleton commander, capable of rallying other minions and summoning lesser skeletons; the Voidhound, capable of cloaking and pouncing from the shadows; or the Void Spiker, a creature with a tentacle hook and venom that causes drowsiness.
-ghost-role-information-nascent-rules = You are a creature from the void, summoned by the Wraith. Obey their commands, and cause as much havoc as possible.
+ghost-role-information-nascent-name = Capullo Naciente
+ghost-role-information-nascent-description = No eres más que un capullo, invocado del vacío por el Espectro. Elige entre tres criaturas en las que convertirte. El comandante esqueleto, capaz de reunir a otros secuaces e invocar esqueletos menores; el Sabueso del Vacío, capaz de camuflarse y abalanzarse desde las sombras; o el Espigador del Vacío, una criatura con un gancho tentacular y veneno que causa somnolencia.
+ghost-role-information-nascent-rules = Eres una criatura del vacío, invocada por el Espectro. Obedece sus órdenes y causa el máximo caos posible.

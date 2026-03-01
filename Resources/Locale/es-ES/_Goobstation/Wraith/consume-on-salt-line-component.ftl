@@ -1,1 +1,1 @@
-consume-on-salt-line-component-not-enough-salt-message = Not enough salt to create a salt line!
+consume-on-salt-line-component-not-enough-salt-message = ¡No hay suficiente sal para crear una línea de sal!

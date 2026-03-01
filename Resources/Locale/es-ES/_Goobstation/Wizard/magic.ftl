@@ -5,56 +5,56 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spell-fail-no-targets = No targets!
-spell-fail-not-dead = Target must be dead.
-spell-fail-target-borg = Can't cast on borgs.
-spell-fail-target-silicon = Can't cast on silicons.
-spell-fail-no-held-entity = Any item should be in your hands to cast this spell.
-spell-fail-no-soul = You don't have a soul!
-spell-fail-unremoveable = {CAPITALIZE($item)} is stuck to your hand - it wouldn't be a wise idea to place your soul into it.
-spell-fail-soul-item-not-suitable = {CAPITALIZE($item)} is not suitable for emplacement of your fragile soul.
-spell-fail-soul-not-bound = Your soul is not bound to an item!
-spell-fail-item-destroyed = Your phylactery is gone!
-spell-fail-item-on-another-plane = Can't resurrect! Your phylactery is on another plane.
-spell-fail-bind-soul-silicon = Can't bind soul while in silicon form!
-spell-fail-mutate-silicon = Can't mutate while in silicon form!
-spell-fail-tesla-blast = You lose control of the lightning!
-spell-fail-lightning-bolt = Can't shoot lightning there.
-spell-fail-hands-occupied = You need an empty hand for this spell.
-spell-fail-target-cant-wear-mask = Target can't wear masks!
-spell-fail-target-cursed = Target is cursed already.
-spell-fail-sanguine-strike-no-item = You need to hold something to empower it!
-spell-fail-sanguine-strike-already-empowered = This weapon is already empowered!
-spell-fail-sanguine-strike-not-weapon = {CAPITALIZE($item)} is too weak to empower! Find something that'll hurt someone!
-spell-fail-cant-wear-eyepatch = Can't wear eyepatch!
-spell-fail-already-wear-eyepatch = You already have an eyepatch.
-spell-fail-no-spells = You haven't learned any spells!
-spell-fail-mindswap-changeling = You can't mindswap with the changeling!
-spell-fail-mindswap-heretic = You can't mindswap with the heretic!
-spell-fail-mindswap-ghoul = You can't mindswap with the ghoul!
-spell-fail-mindswap-ghost = You can't mindswap with the ghost!
-spell-fail-mindswap-temporary = You can't mindswap with temporary creatures!
-spell-fail-mindswap-dead = You don't particularly want to be dead!
+spell-fail-no-targets = ¡Sin objetivos!
+spell-fail-not-dead = El objetivo debe estar muerto.
+spell-fail-target-borg = No se puede lanzar sobre borgs.
+spell-fail-target-silicon = No se puede lanzar sobre silicios.
+spell-fail-no-held-entity = Debes tener algún objeto en las manos para lanzar este hechizo.
+spell-fail-no-soul = ¡No tienes alma!
+spell-fail-unremoveable = {CAPITALIZE($item)} está pegado a tu mano; no sería buena idea colocar tu alma en él.
+spell-fail-soul-item-not-suitable = {CAPITALIZE($item)} no es adecuado para alojar tu frágil alma.
+spell-fail-soul-not-bound = ¡Tu alma no está vinculada a ningún objeto!
+spell-fail-item-destroyed = ¡Tu filacteria ha desaparecido!
+spell-fail-item-on-another-plane = ¡No se puede resucitar! Tu filacteria está en otro plano.
+spell-fail-bind-soul-silicon = ¡No puedes vincular el alma en forma de silicio!
+spell-fail-mutate-silicon = ¡No puedes mutar en forma de silicio!
+spell-fail-tesla-blast = ¡Pierdes el control del rayo!
+spell-fail-lightning-bolt = No puedes disparar rayos allí.
+spell-fail-hands-occupied = Necesitas una mano libre para este hechizo.
+spell-fail-target-cant-wear-mask = ¡El objetivo no puede llevar máscaras!
+spell-fail-target-cursed = El objetivo ya está maldito.
+spell-fail-sanguine-strike-no-item = ¡Necesitas sostener algo para potenciarlo!
+spell-fail-sanguine-strike-already-empowered = ¡Esta arma ya está potenciada!
+spell-fail-sanguine-strike-not-weapon = ¡{CAPITALIZE($item)} es demasiado débil para potenciarlo! ¡Encuentra algo que haga daño a alguien!
+spell-fail-cant-wear-eyepatch = ¡No puedes ponerte el parche!
+spell-fail-already-wear-eyepatch = Ya llevas un parche.
+spell-fail-no-spells = ¡No has aprendido ningún hechizo!
+spell-fail-mindswap-changeling = ¡No puedes intercambiar mentes con el changeling!
+spell-fail-mindswap-heretic = ¡No puedes intercambiar mentes con el hereje!
+spell-fail-mindswap-ghoul = ¡No puedes intercambiar mentes con el ghoul!
+spell-fail-mindswap-ghost = ¡No puedes intercambiar mentes con el fantasma!
+spell-fail-mindswap-temporary = ¡No puedes intercambiar mentes con criaturas temporales!
+spell-fail-mindswap-dead = ¡Realmente no quieres estar muerto!
 
-spell-requirements-failed-clothes = Missing requirements to cast this spell! You need to wear wizard robes and hat.
-spell-requirements-failed-speech = Missing requirements to cast this spell! You can't speak.
+spell-requirements-failed-clothes = ¡Faltan requisitos para lanzar este hechizo! Necesitas llevar túnica y sombrero de mago.
+spell-requirements-failed-speech = ¡Faltan requisitos para lanzar este hechizo! No puedes hablar.
 
-instant-summons-item-marked = Successfully marked {$item}.
-instant-summons-confirm-popup = This action will remove the current mark! Use it again to confirm.
+instant-summons-item-marked = {$item} marcado correctamente.
+instant-summons-confirm-popup = ¡Esta acción eliminará la marca actual! Úsala de nuevo para confirmar.
 
-chuuni-invocation-confirm-popup = This action will force you to wear unremoveable eyepatch! Use it again to confirm.
+chuuni-invocation-confirm-popup = ¡Esta acción te obligará a llevar un parche inamovible! Úsala de nuevo para confirmar.
 
-spell-soul-tap-dead-message-others = {CAPITALIZE($uid)} suddenly dies!
-spell-soul-tap-dead-message-user = Your weakened soul is completely consumed by the tap!
-spell-soul-tap-almost-dead-message = Your body feels incredibly drained, and the burning is hard to ignore!
-spell-soul-tap-message = Your body feels drained and there is a burning pain in your chest.
+spell-soul-tap-dead-message-others = ¡{CAPITALIZE($uid)} muere de repente!
+spell-soul-tap-dead-message-user = ¡Tu debilitada alma es completamente consumida por el toque!
+spell-soul-tap-almost-dead-message = ¡Tu cuerpo se siente increíblemente agotado y el ardor es difícil de ignorar!
+spell-soul-tap-message = Tu cuerpo se siente agotado y hay un dolor ardiente en tu pecho.
 
-spell-charge-spells-charged-pulled = You feel raw magic flowing through you. It feels good!
-spell-charge-no-spells-to-charge-pulled = You feel very strange for a moment, but then it passes.
-spell-charge-spells-charged-entity = {CAPITALIZE($entity)} suddenly feels very warm!
+spell-charge-spells-charged-pulled = Sientes magia pura fluyendo a través de ti. ¡Se siente bien!
+spell-charge-no-spells-to-charge-pulled = Te sientes muy extraño por un momento, pero luego pasa.
+spell-charge-spells-charged-entity = ¡{CAPITALIZE($entity)} de repente se siente muy caliente!
 
-spell-summon-simians-maxed-out-message = Your simian power has reached maximum capacity! You can now cast this spell naked, and have additionally been granted a gorilla transformation spell!
+spell-summon-simians-maxed-out-message = ¡Tu poder de simio ha alcanzado su capacidad máxima! Ahora puedes lanzar este hechizo desnudo y además se te ha concedido un hechizo de transformación en gorila.
 
-ghosts-summoned-message = Ghosts have been summoned!
-dimension-shift-message = Dimensions shift!
-global-tile-movement-message = An ominous beat starts playing!
+ghosts-summoned-message = ¡Se han invocado fantasmas!
+dimension-shift-message = ¡Las dimensiones cambian!
+global-tile-movement-message = ¡Empieza a sonar una melodía siniestra!

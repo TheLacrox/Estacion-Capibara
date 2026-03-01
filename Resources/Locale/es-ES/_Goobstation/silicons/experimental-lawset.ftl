@@ -1,3 +1,3 @@
-experimental-law-provider-start = Starting unit tests for station AI lawsets using an experimental law board. Research points will be acquired in: [bold]{$timeLeft}[/bold] seconds.
-experimental-law-provider-success = Successfully tested a set of experimental laws. Acquired [bold]{$amount}[/bold] research points.
-experimental-law-provider-fail = Failed to unit test new experimental lawset, because they were overwritten by a new lawset board.
+experimental-law-provider-start = Iniciando pruebas unitarias para conjuntos de leyes de IA de estación usando una placa de leyes experimental. Los puntos de investigación se obtendrán en: [bold]{$timeLeft}[/bold] segundos.
+experimental-law-provider-success = Conjunto de leyes experimentales probado con éxito. Obtenidos [bold]{$amount}[/bold] puntos de investigación.
+experimental-law-provider-fail = Error al hacer las pruebas unitarias del nuevo conjunto de leyes experimental, porque fueron sobreescritas por una nueva placa de leyes.

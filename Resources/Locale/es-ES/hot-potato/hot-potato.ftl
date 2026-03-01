@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-hot-potato-passed = {$from} passed hot potato to {$to}!
-hot-potato-failed = Can't pass the potato to {$to}!
+hot-potato-passed = ¡{$from} le pasó la papa caliente a {$to}!
+hot-potato-failed = ¡No puedes pasarle la papa a {$to}!

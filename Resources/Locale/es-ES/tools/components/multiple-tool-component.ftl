@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-multiple-tool-component-no-behavior = None
+multiple-tool-component-no-behavior = Ninguno

@@ -8,162 +8,162 @@
 
 # Window headers
 holopad-window-title = {CAPITALIZE($title)}
-holopad-window-subtitle = [color=white][bold]Holographic communication system[/bold][/color]
-holopad-window-options = [color=darkgray][font size=10][italic]Please select an option from the list below[/italic][/font][/color]
+holopad-window-subtitle = [color=white][bold]Sistema de comunicación holográfica[/bold][/color]
+holopad-window-options = [color=darkgray][font size=10][italic]Selecciona una opción de la lista a continuación[/italic][/font][/color]
 
 # Call status
-holopad-window-no-calls-in-progress = No holo-calls in progress
-holopad-window-incoming-call = Incoming holo-call from:
-holopad-window-relay-label = Originating at:
-holopad-window-outgoing-call = Attempting to establish a connection...
-holopad-window-call-in-progress = Holo-call in progress
-holopad-window-call-ending = Disconnecting...
-holopad-window-call-rejected = Unable to establish a connection
-holopad-window-ai-request = Your presence is requested by:
-holopad-window-emergency-broadcast-in-progress = [color=#cf2f2f][bold]Emergency broadcast in progress[/bold][/color]
-holopad-window-controls-locked-out = Control of this device has been locked to:
-holopad-window-controls-unlock-countdown = It will automatically unlock in: {$countdown}
+holopad-window-no-calls-in-progress = Sin holo-llamadas en curso
+holopad-window-incoming-call = Holo-llamada entrante de:
+holopad-window-relay-label = Con origen en:
+holopad-window-outgoing-call = Intentando establecer conexión...
+holopad-window-call-in-progress = Holo-llamada en curso
+holopad-window-call-ending = Desconectando...
+holopad-window-call-rejected = No se pudo establecer la conexión
+holopad-window-ai-request = Tu presencia ha sido solicitada por:
+holopad-window-emergency-broadcast-in-progress = [color=#cf2f2f][bold]Transmisión de emergencia en curso[/bold][/color]
+holopad-window-controls-locked-out = El control de este dispositivo ha sido bloqueado para:
+holopad-window-controls-unlock-countdown = Se desbloqueará automáticamente en: {$countdown}
 
 # Buttons
-holopad-window-answer-call = Answer call
-holopad-window-end-call = End call
-holopad-window-request-station-ai = Request station AI
-holopad-window-activate-projector = Activate projector
-holopad-window-emergency-broadcast = Emergency broadcast
-holopad-window-emergency-broadcast-with-countdown = Emergency broadcast ({$countdown})
-holopad-window-access-denied = Access denied
+holopad-window-answer-call = Contestar llamada
+holopad-window-end-call = Terminar llamada
+holopad-window-request-station-ai = Solicitar IA de la estación
+holopad-window-activate-projector = Activar proyector
+holopad-window-emergency-broadcast = Transmisión de emergencia
+holopad-window-emergency-broadcast-with-countdown = Transmisión de emergencia ({$countdown})
+holopad-window-access-denied = Acceso denegado
 
 # Contact list
-holopad-window-select-contact-from-list = Select a contact to initiate a holo-call
-holopad-window-fetching-contacts-list = No holopads are currently contactable
+holopad-window-select-contact-from-list = Selecciona un contacto para iniciar una holo-llamada
+holopad-window-fetching-contacts-list = No hay holópados contactables actualmente
 holopad-window-contact-label = {CAPITALIZE($label)}
-holopad-window-filter-line-placeholder = Search for a contact
+holopad-window-filter-line-placeholder = Buscar un contacto
 
 # Flavor
-holopad-window-flavor-left = ⚠ Do not enter while projector is active
+holopad-window-flavor-left = ⚠ No entres mientras el proyector esté activo
 holopad-window-flavor-right = v3.0.9
 
 # Holograms
-holopad-hologram-name = hologram of {THE($name)}
+holopad-hologram-name = holograma de {THE($name)}
 
 # Holopad actions
-holopad-activate-projector-verb = Activate holopad projector
-holopad-ai-is-unable-to-reach-holopad = You are unable to interface with the source of the call, it is too far from your core.
-holopad-ai-is-unable-to-activate-projector = You are unable to activate the holopad's projector, it is too far from your core.
+holopad-activate-projector-verb = Activar proyector del holópado
+holopad-ai-is-unable-to-reach-holopad = No puedes conectarte con el origen de la llamada, está demasiado lejos de tu núcleo.
+holopad-ai-is-unable-to-activate-projector = No puedes activar el proyector del holópado, está demasiado lejos de tu núcleo.
 
 # Mapping prototypes
 # General
-holopad-general-tools = General - Tools
-holopad-general-cryosleep = General - Cryosleep
-holopad-general-theater = General - Theater
-holopad-general-disposals = General - Disposals
-holopad-general-eva = General - EVA Storage
-holopad-general-lounge = General - Lounge
+holopad-general-tools = General - Herramientas
+holopad-general-cryosleep = General - Criosueño
+holopad-general-theater = General - Teatro
+holopad-general-disposals = General - Desechos
+holopad-general-eva = General - Almacén EVA
+holopad-general-lounge = General - Sala de descanso
 holopad-general-arcade = General - Arcade
-holopad-general-evac = General - Evac
-holopad-general-arrivals = General - Arrivals
+holopad-general-evac = General - Evacuación
+holopad-general-arrivals = General - Llegadas
 
 # Command
-holopad-command-bridge = Command - Bridge
-holopad-command-vault = Command - Vault
-holopad-command-bridge-hallway = Command - Bridge Hallway
-holopad-command-meeting-room = Command - Meeting Room
-holopad-command-lounge = Command - Lounge
-holopad-command-captain = Command - Captain
-holopad-command-hop = Command - HoP
-holopad-command-cmo = Command - CMO
-holopad-command-qm = Command - QM
-holopad-command-ce = Command - CE
-holopad-command-rd = Command - RD
-holopad-command-hos = Command - HoS
+holopad-command-bridge = Mando - Puente
+holopad-command-vault = Mando - Cámara acorazada
+holopad-command-bridge-hallway = Mando - Pasillo del puente
+holopad-command-meeting-room = Mando - Sala de reuniones
+holopad-command-lounge = Mando - Sala de descanso
+holopad-command-captain = Mando - Capitán
+holopad-command-hop = Mando - JdP
+holopad-command-cmo = Mando - JdM
+holopad-command-qm = Mando - JdC
+holopad-command-ce = Mando - JI
+holopad-command-rd = Mando - JI
+holopad-command-hos = Mando - JdS
 
 # Science
-holopad-science-anomaly = Science - Anomaly
-holopad-science-artifact = Science - Artifact
-holopad-science-artifact-north = Science - Artifact North
-holopad-science-artifact-south = Science - Artifact South
-holopad-science-robotics = Science - Robotics
-holopad-science-rnd = Science - R&D
-holopad-science-front = Science - Front
-holopad-science-breakroom = Science - Breakroom
+holopad-science-anomaly = Ciencia - Anomalía
+holopad-science-artifact = Ciencia - Artefacto
+holopad-science-artifact-north = Ciencia - Artefacto Norte
+holopad-science-artifact-south = Ciencia - Artefacto Sur
+holopad-science-robotics = Ciencia - Robótica
+holopad-science-rnd = Ciencia - I+D
+holopad-science-front = Ciencia - Entrada
+holopad-science-breakroom = Ciencia - Sala de descanso
 
 # Medical
-holopad-medical-medbay = Medical - Medbay
-holopad-medical-chemistry = Medical - Chemistry
-holopad-medical-cryopods = Medical - Cryopods
-holopad-medical-morgue = Medical - Morgue
-holopad-medical-surgery = Medical - Surgery
-holopad-medical-paramedic = Medical - Paramedic
-holopad-medical-virology = Medical - Virology
-holopad-medical-front = Medical - Front
-holopad-medical-breakroom = Medical - Breakroom
-holopad-medical-clinic = Medical - Clinic
+holopad-medical-medbay = Médico - Enfermería
+holopad-medical-chemistry = Médico - Química
+holopad-medical-cryopods = Médico - Criopods
+holopad-medical-morgue = Médico - Morgue
+holopad-medical-surgery = Médico - Cirugía
+holopad-medical-paramedic = Médico - Paramédico
+holopad-medical-virology = Médico - Virología
+holopad-medical-front = Médico - Entrada
+holopad-medical-breakroom = Médico - Sala de descanso
+holopad-medical-clinic = Médico - Clínica
 
 # Cargo
-holopad-cargo-front = Cargo - Front
-holopad-cargo-bay = Cargo - Cargo Bay
-holopad-cargo-salvage-bay = Cargo - Salvage Bay
-holopad-cargo-breakroom  = Cargo - Breakroom
-holopad-cargo-ats = Cargo - ATS
-holopad-cargo-shuttle = Cargo - Shuttle
-holopad-cargo-mailroom = Cargo - Mailroom
+holopad-cargo-front = Carga - Entrada
+holopad-cargo-bay = Carga - Bahía de carga
+holopad-cargo-salvage-bay = Carga - Bahía de salvamento
+holopad-cargo-breakroom  = Carga - Sala de descanso
+holopad-cargo-ats = Carga - ATS
+holopad-cargo-shuttle = Carga - Lanzadera
+holopad-cargo-mailroom = Carga - Sala de correo
 
 # Engineering
-holopad-engineering-atmos-front = Atmos - Front
-holopad-engineering-atmos-main = Atmos - Main
+holopad-engineering-atmos-front = Atmos - Entrada
+holopad-engineering-atmos-main = Atmos - Principal
 holopad-engineering-atmos-teg = Atmos - TEG
-holopad-engineering-storage = Engineering - Storage
-holopad-engineering-breakroom = Engineering - Breakroom
-holopad-engineering-front = Engineering - Front
-holopad-engineering-telecoms = Engineering - Telecoms
-holopad-engineering-tech-vault = Engineering - Tech Vault
-holopad-engineering-ame = Engineering - AME
-holopad-engineering-power = Engineering - Power
-holopad-engineering-main = Engineering - Main
+holopad-engineering-storage = Ingeniería - Almacén
+holopad-engineering-breakroom = Ingeniería - Sala de descanso
+holopad-engineering-front = Ingeniería - Entrada
+holopad-engineering-telecoms = Ingeniería - Telecomunicaciones
+holopad-engineering-tech-vault = Ingeniería - Bóveda técnica
+holopad-engineering-ame = Ingeniería - AME
+holopad-engineering-power = Ingeniería - Energía
+holopad-engineering-main = Ingeniería - Principal
 
 # Security
-holopad-security-front = Security - Front
-holopad-security-brig = Security - Brig
-holopad-security-warden = Security - Warden
-holopad-security-interrogation = Security - Interrogation
-holopad-security-breakroom = Security - Breakroom
-holopad-security-detective = Security - Detective
-holopad-security-perma = Security - Perma
-holopad-security-courtroom = Security - Courtroom
-holopad-security-lawyer = Security - Lawyer
-holopad-security-armory = Security - Armory
-holopad-security-locker-room = Security - Locker Room
-holopad-security-brig-med = Security - Brig Med
-holopad-security-evac-checkpoint = Security - Evac Checkpoint
-holopad-security-arrivals-checkpoint = Security - Arrivals Checkpoint
+holopad-security-front = Seguridad - Entrada
+holopad-security-brig = Seguridad - Celda
+holopad-security-warden = Seguridad - Carcelero
+holopad-security-interrogation = Seguridad - Interrogatorio
+holopad-security-breakroom = Seguridad - Sala de descanso
+holopad-security-detective = Seguridad - Detective
+holopad-security-perma = Seguridad - Prisión permanente
+holopad-security-courtroom = Seguridad - Sala del tribunal
+holopad-security-lawyer = Seguridad - Abogado
+holopad-security-armory = Seguridad - Armería
+holopad-security-locker-room = Seguridad - Vestuario
+holopad-security-brig-med = Seguridad - Enfermería de la celda
+holopad-security-evac-checkpoint = Seguridad - Puesto de control de evacuación
+holopad-security-arrivals-checkpoint = Seguridad - Puesto de control de llegadas
 
 # Service
-holopad-service-janitor = Service - Janitor
-holopad-service-bar = Service - Bar
-holopad-service-kitchen = Service - Kitchen
-holopad-service-botany = Service - Botany
-holopad-service-chapel = Service - Chapel
-holopad-service-library = Service - Library
-holopad-service-newsroom = Service - Newsroom
-holopad-service-zookeeper = Service - Zookeeper
-holopad-service-boxer = Service - Boxer
-holopad-service-clown = Service - Clown
-holopad-service-musician = Service - Musician
-holopad-service-mime = Service - Mime
-holopad-service-clown-mime = Service - Clown/Mime
-holopad-service-gameroom = Service - Game Room
+holopad-service-janitor = Servicio - Conserje
+holopad-service-bar = Servicio - Bar
+holopad-service-kitchen = Servicio - Cocina
+holopad-service-botany = Servicio - Botánica
+holopad-service-chapel = Servicio - Capilla
+holopad-service-library = Servicio - Biblioteca
+holopad-service-newsroom = Servicio - Sala de prensa
+holopad-service-zookeeper = Servicio - Cuidador del zoológico
+holopad-service-boxer = Servicio - Boxeador
+holopad-service-clown = Servicio - Payaso
+holopad-service-musician = Servicio - Músico
+holopad-service-mime = Servicio - Mimo
+holopad-service-clown-mime = Servicio - Payaso/Mimo
+holopad-service-gameroom = Servicio - Sala de juegos
 
 # AI
-holopad-ai-core = AI - Core
-holopad-ai-main = AI - Main
-holopad-ai-upload = AI - Upload
-holopad-ai-backup-power = AI - Backup Power
-holopad-ai-entrance = AI - Entrance
-holopad-ai-chute = AI - Chute
+holopad-ai-core = IA - Núcleo
+holopad-ai-main = IA - Principal
+holopad-ai-upload = IA - Carga
+holopad-ai-backup-power = IA - Energía de respaldo
+holopad-ai-entrance = IA - Entrada
+holopad-ai-chute = IA - Conducto
 
 # Long Range
-holopad-station-bridge = Station - Bridge
-holopad-station-cargo-bay = Station - Cargo Bay
+holopad-station-bridge = Estación - Puente
+holopad-station-cargo-bay = Estación - Bahía de carga
 
 # CentComm
-holopad-centcomm-evac = CentComm - Evacuation Shuttle
+holopad-centcomm-evac = CentComm - Lanzadera de evacuación

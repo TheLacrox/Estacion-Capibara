@@ -7,22 +7,22 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-map-window-title = Station map
-station-map-user-interface-flavor-left = Don't panic
+station-map-window-title = Mapa de la estación
+station-map-user-interface-flavor-left = No entres en pánico
 station-map-user-interface-flavor-right = v1.42
-station-map-filter-placeholder = Search by name
+station-map-filter-placeholder = Buscar por nombre
 
-nav-beacon-window-title = Station Beacon
+nav-beacon-window-title = Baliza de Estación
 nav-beacon-toggle-visible = Visible
 nav-beacon-toggle-invisible = Invisible
-nav-beacon-text-label = Label:
-nav-beacon-button-apply = Apply
-nav-beacon-examine-text = It is [color={$enabled ->
-    [true] forestgreen]on
-    *[false] crimson]off
-}[/color] and the display reads [color={$color}]"{$label}"[/color]
+nav-beacon-text-label = Etiqueta:
+nav-beacon-button-apply = Aplicar
+nav-beacon-examine-text = Está [color={$enabled ->
+    [true] forestgreen]encendida
+    *[false] crimson]apagada
+}[/color] y la pantalla muestra [color={$color}]"{$label}"[/color]
 
-nav-beacon-pos-no-beacons = in the middle of nowhere
-nav-beacon-pos-format = [color={$color}]near {$marker}[/color]
-nav-beacon-pos-format-direction = [color={$color}]{$modifier}{$direction} of {$marker}[/color]
-nav-beacon-pos-format-direction-mod-far = far {""}
+nav-beacon-pos-no-beacons = en medio de la nada
+nav-beacon-pos-format = [color={$color}]cerca de {$marker}[/color]
+nav-beacon-pos-format-direction = [color={$color}]{$modifier}{$direction} de {$marker}[/color]
+nav-beacon-pos-format-direction-mod-far = lejos {""}

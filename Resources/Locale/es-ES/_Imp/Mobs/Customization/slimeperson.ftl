@@ -1,87 +1,87 @@
 # Chest
 
-marking-bubble = Bubbles
-marking-bubble-bubble = Bubbles
+marking-bubble = Burbujas
+marking-bubble-bubble = Burbujas
 
-marking-fishbowl = Fishbowl
-marking-fishbowl-fishbowl1 = Fish
-marking-fishbowl-fishbowl2 = Fish bubbles
+marking-fishbowl = Pecera
+marking-fishbowl-fishbowl1 = Pez
+marking-fishbowl-fishbowl2 = Burbujas de Pez
 
-marking-SlimeBonechest = Floating Ribcage
-marking-SlimeBonechest-bone = Floating Ribcage
+marking-SlimeBonechest = Caja Torácica Flotante
+marking-SlimeBonechest-bone = Caja Torácica Flotante
 
-marking-SlimeCore = Core
-marking-SlimeCore-core = Core
+marking-SlimeCore = Núcleo
+marking-SlimeCore-core = Núcleo
 
-marking-SlimeCoreGlowing = Core (Glowing)
-marking-SlimeCoreGlowing-core = Core (Glowing)
+marking-SlimeCoreGlowing = Núcleo (Brillante)
+marking-SlimeCoreGlowing-core = Núcleo (Brillante)
 
-marking-SlimeLungs = Lungs
-marking-SlimeLungs-lungs = Lungs
+marking-SlimeLungs = Pulmones
+marking-SlimeLungs-lungs = Pulmones
 
 # Head
 
-marking-FadingStars = Fading Starlight
-marking-FadingStars-fadingstars1 = Brightest
-marking-FadingStars-fadingstars2 = Middling
-marking-FadingStars-fadingstars3 = Darkest
+marking-FadingStars = Luz Estelar Difuminada
+marking-FadingStars-fadingstars1 = Más Brillante
+marking-FadingStars-fadingstars2 = Intermedia
+marking-FadingStars-fadingstars3 = Más Tenue
 
-marking-fizz = Fizz
-marking-fizz-fizz = Fizz
+marking-fizz = Efervescencia
+marking-fizz-fizz = Efervescencia
 
-marking-SlimeBonehead = Floating Skull
-marking-SlimeBonehead-bone = Floating Skull
+marking-SlimeBonehead = Cráneo Flotante
+marking-SlimeBonehead-bone = Cráneo Flotante
 
-marking-SlimeNose = Nose (Profile)
-marking-SlimeNose-nose = Nose (Profile)
+marking-SlimeNose = Nariz (Perfil)
+marking-SlimeNose-nose = Nariz (Perfil)
 
-marking-SlimeMouth = Mouth
-marking-SlimeMouth-mouth = Mouth
+marking-SlimeMouth = Boca
+marking-SlimeMouth-mouth = Boca
 
-marking-SlimeBrain = Brain
-marking-SlimeBrain-brain = Brain
+marking-SlimeBrain = Cerebro
+marking-SlimeBrain-brain = Cerebro
 
 # Snout
 
 # Eyes
 
-marking-SlimeEyesDefault = Eyes
-marking-SlimeEyesDefault-eyes = Eyes (Default)
+marking-SlimeEyesDefault = Ojos
+marking-SlimeEyesDefault-eyes = Ojos (Predeterminados)
 
-marking-SlimeEyeglow = Glowing Eyes
-marking-SlimeEyeglow-glow = Glowing Eyes
+marking-SlimeEyeglow = Ojos Brillantes
+marking-SlimeEyeglow-glow = Ojos Brillantes
 
-marking-SlimeEyesDroopy = Droopy Eyes
-marking-SlimeEyesDroopy-droopy = Droopy Eyes
+marking-SlimeEyesDroopy = Ojos Caídos
+marking-SlimeEyesDroopy-droopy = Ojos Caídos
 
-marking-SlimeEyesDroopyGlowing = Droopy Glowing Eyes
-marking-SlimeEyesDroopyGlowing-droopyglow = Droopy Glowing Eyes
+marking-SlimeEyesDroopyGlowing = Ojos Caídos Brillantes
+marking-SlimeEyesDroopyGlowing-droopyglow = Ojos Caídos Brillantes
 
-marking-SlimeEyesCyclops = Cyclops Eye
-marking-SlimeEyesCyclops-cyclops = Cyclops Eye
+marking-SlimeEyesCyclops = Ojo de Cíclope
+marking-SlimeEyesCyclops-cyclops = Ojo de Cíclope
 
-marking-SlimeEyesCyclopsGlowing = Cyclops Glowing Eye
-marking-SlimeEyesCyclopsGlowing-cyclopsglow = Cyclops Glowing Eye
+marking-SlimeEyesCyclopsGlowing = Ojo de Cíclope Brillante
+marking-SlimeEyesCyclopsGlowing-cyclopsglow = Ojo de Cíclope Brillante
 
 # RArm
 
-marking-SlimeBonearmright = Floating Bones (Right Arm)
-marking-SlimeBonearmright-bone = Floating Bones (Right Arm)
+marking-SlimeBonearmright = Huesos Flotantes (Brazo Derecho)
+marking-SlimeBonearmright-bone = Huesos Flotantes (Brazo Derecho)
 
 # LArm
 
-marking-SlimeBonearmleft = Floating Bones (Left Arm)
-marking-SlimeBonearmleft-bone = Floating Bones (Left Arm)
+marking-SlimeBonearmleft = Huesos Flotantes (Brazo Izquierdo)
+marking-SlimeBonearmleft-bone = Huesos Flotantes (Brazo Izquierdo)
 
 # RLeg
 
-marking-SlimeBonelegright = Floating Bones (Right Leg)
-marking-SlimeBonelegright-bone = Floating Bones (Right Leg)
+marking-SlimeBonelegright = Huesos Flotantes (Pierna Derecha)
+marking-SlimeBonelegright-bone = Huesos Flotantes (Pierna Derecha)
 
 # LLeg
 
-marking-SlimeBonelegleft = Floating Bones (Left Leg)
-marking-SlimeBonelegleft-bone = Floating Bones (Left Leg)
+marking-SlimeBonelegleft = Huesos Flotantes (Pierna Izquierda)
+marking-SlimeBonelegleft-bone = Huesos Flotantes (Pierna Izquierda)
 
 # UndergarmentBottom
 
@@ -89,23 +89,23 @@ marking-SlimeBonelegleft-bone = Floating Bones (Left Leg)
 
 # LFoot
 
-marking-SlimeBonefootleft = Floating Bones (Left Foot)
-marking-SlimeBonefootleft-bone = Floating Bones (Left Foot)
+marking-SlimeBonefootleft = Huesos Flotantes (Pie Izquierdo)
+marking-SlimeBonefootleft-bone = Huesos Flotantes (Pie Izquierdo)
 
 # RFoot
 
-marking-SlimeBonefootright = Floating Bones (Right Foot)
-marking-SlimeBonefootright-bone = Floating Bones (Right Foot)
+marking-SlimeBonefootright = Huesos Flotantes (Pie Derecho)
+marking-SlimeBonefootright-bone = Huesos Flotantes (Pie Derecho)
 
 # LHand
 
-marking-SlimeBonehandleft = Floating Bones (Left Hand)
-marking-SlimeBonehandleft-bone = Floating Bones (Left Hand)
+marking-SlimeBonehandleft = Huesos Flotantes (Mano Izquierda)
+marking-SlimeBonehandleft-bone = Huesos Flotantes (Mano Izquierda)
 
 # RHand
 
-marking-SlimeBonehandright = Floating Bones (Right Hand)
-marking-SlimeBonehandright-bone = Floating Bones (Right Hand)
+marking-SlimeBonehandright = Huesos Flotantes (Mano Derecha)
+marking-SlimeBonehandright-bone = Huesos Flotantes (Mano Derecha)
 
 # FacialHair
 

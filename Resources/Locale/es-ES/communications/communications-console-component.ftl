@@ -20,29 +20,29 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # User interface
-comms-console-menu-title = Communications Console
-comms-console-menu-announcement-placeholder = Announcement text...
-comms-console-menu-announcement-button = Announce
-comms-console-menu-announcement-button-tooltip = Send your message as a station-wide radio announcement.
-comms-console-menu-broadcast-button = Broadcast
-comms-console-menu-broadcast-button-tooltip = Broadcast your message to wall-mounted screens around the station. Note: They fit only ten characters!
-comms-console-menu-alert-level-button-tooltip = Change the station alert level. Applies immediately on selecting.
-comms-console-menu-call-shuttle = Call emergency shuttle
-comms-console-menu-recall-shuttle = Recall emergency shuttle
-comms-console-menu-emergency-shuttle-button-tooltip = Calls or recalls the emergency shuttle. You can only recall when there's enough time left.
-comms-console-menu-time-remaining = Time remaining: {$time}
+comms-console-menu-title = Consola de comunicaciones
+comms-console-menu-announcement-placeholder = Texto del anuncio...
+comms-console-menu-announcement-button = Anunciar
+comms-console-menu-announcement-button-tooltip = Envía tu mensaje como un anuncio de radio en toda la estación.
+comms-console-menu-broadcast-button = Difundir
+comms-console-menu-broadcast-button-tooltip = Difunde tu mensaje en las pantallas de pared de la estación. Nota: ¡Solo caben diez caracteres!
+comms-console-menu-alert-level-button-tooltip = Cambia el nivel de alerta de la estación. Se aplica inmediatamente al seleccionar.
+comms-console-menu-call-shuttle = Llamar lanzadera de emergencia
+comms-console-menu-recall-shuttle = Revocar lanzadera de emergencia
+comms-console-menu-emergency-shuttle-button-tooltip = Llama o revoca la lanzadera de emergencia. Solo puedes revocarla si queda suficiente tiempo.
+comms-console-menu-time-remaining = Tiempo restante: {$time}
 
 # Popup
-comms-console-permission-denied = Permission denied
-comms-console-shuttle-unavailable = Shuttle is currently unavailable
-comms-console-message-too-long = Message is too long
+comms-console-permission-denied = Permiso denegado
+comms-console-shuttle-unavailable = La lanzadera no está disponible actualmente
+comms-console-message-too-long = El mensaje es demasiado largo
 
 # Placeholder values
-comms-console-announcement-sent-by = Sent by
-comms-console-announcement-unknown-sender = Unknown
+comms-console-announcement-sent-by = Enviado por
+comms-console-announcement-unknown-sender = Desconocido
 
 # Comms console variant titles
-comms-console-announcement-title-station = Communications Console
-comms-console-announcement-title-centcom = Central Command
-comms-console-announcement-title-nukie = Syndicate Nuclear Operative
-comms-console-announcement-title-station-ai = Station AI
+comms-console-announcement-title-station = Consola de comunicaciones
+comms-console-announcement-title-centcom = Mando Central
+comms-console-announcement-title-nukie = Operativo Nuclear Sindicalista
+comms-console-announcement-title-station-ai = IA de la estación

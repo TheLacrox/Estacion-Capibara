@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-equip-part-missing-error = {$target} is missing their {$part}!
+equip-part-missing-error = ¡A {$target} le falta {$part}!

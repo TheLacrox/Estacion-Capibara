@@ -1,1 +1,1 @@
-chat-language-XenoHivemind-name = Hivemind
+chat-language-XenoHivemind-name = Mente Colmena

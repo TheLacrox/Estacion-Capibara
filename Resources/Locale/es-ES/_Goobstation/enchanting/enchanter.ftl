@@ -1,10 +1,10 @@
-enchanter-examine = [color=lightblue]This item can be used as a source of enchants.[/color]
-enchanting-tool-examine = [color=lightblue]This can enchant items with a source item on an altar.[/color]
+enchanter-examine = [color=lightblue]Este objeto puede usarse como fuente de encantamientos.[/color]
+enchanting-tool-examine = [color=lightblue]Esto puede encantar objetos con un objeto fuente en un altar.[/color]
 
-enchanter-disallowed-enchant = You are not worthy!
-enchanter-cant-enchant = You can't enchant that using this item!
-enchanter-enchanted = A magical aura shimmers across {THE($item)}!
-enchanting-tool-no-enchanter = You need to put an enchanting source with the target item.
+enchanter-disallowed-enchant = ¡No eres digno!
+enchanter-cant-enchant = ¡No puedes encantar eso con este objeto!
+enchanter-enchanted = ¡Un aura mágica reluce sobre {THE($item)}!
+enchanting-tool-no-enchanter = Necesitas poner una fuente de encantamiento junto al objeto objetivo.
 
-enchanting-sacrifice-single = The soul of {$target} empowers {THE($item)}!
-enchanting-sacrifice-multiple = The soul of {$target} empowers nearby items!
+enchanting-sacrifice-single = ¡El alma de {$target} potencia {THE($item)}!
+enchanting-sacrifice-multiple = ¡El alma de {$target} potencia los objetos cercanos!

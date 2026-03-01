@@ -1,12 +1,12 @@
-ghost-role-information-wraith-name = Wraith
-ghost-role-information-wraith-description = You are a wraith! Taken from your home in a better sector of space, your astral powers enable you to survive one banishment. Beware of salt. Absorb corpses to evolve into a much more powerful being.
-ghost-role-information-wraith-rules =  You are a [color=red]Solo Antagonist[/color] capable of summoning minions to your aid. You should generally aim to cause as much death as possible, through any means necessary. You are capable of speaking with ghosts, and may use any information they have to your advantage.
+ghost-role-information-wraith-name = Espectro
+ghost-role-information-wraith-description = ¡Eres un espectro! Arrancado de tu hogar en un sector mejor del espacio, tus poderes astrales te permiten sobrevivir un destierro. Cuidado con la sal. Absorbe cadáveres para evolucionar en un ser mucho más poderoso.
+ghost-role-information-wraith-rules =  Eres un [color=red]Antagonista en Solitario[/color] capaz de invocar secuaces en tu ayuda. En general debes intentar causar la mayor cantidad de muertes posible, por cualquier medio necesario. Puedes hablar con los fantasmas y puedes usar cualquier información que tengan a tu favor.
 
-wraith-round-end-agent-name = Wraith
+wraith-round-end-agent-name = Espectro
 
 wraith-role-greeting =
-    You are the [color=red]Wraith[/color], a vengeful spirit taken from the Void. Angry and confused, killing is the only thing you remember how to do.
-    Your actions permit you to turn their own station against them. Possess objects, haunt the crew, and use their corpses as fuel for your soul to evolve into an even stronger spirit.
-    Your weakness is [color=white]salt[/color]. Walking over any form of salt will [color=darkred]cause you to become corporeal and unable to use your powers[/color]. Being caught in such a state will surely lead to your swift demise.
-    As a spirit, however, you are capable of surviving banishment once. It will leave you severely weakened, but will allow you to slowly regain your forces to enact your revenge.
-    Fear the chaplain, as they are immune to most of your actions, and can even purge the effects of your powers from others. Absorbing their corpse would surely be satisfying...
+    Eres el [color=red]Espectro[/color], un espíritu vengativo arrancado del Vacío. Enfadado y confundido, matar es lo único que recuerdas hacer.
+    Tus acciones te permiten volver su propia estación contra ellos. Posee objetos, acecha a la tripulación y usa sus cadáveres como combustible para que tu alma evolucione en un espíritu aún más poderoso.
+    Tu debilidad es la [color=white]sal[/color]. Caminar sobre cualquier forma de sal [color=darkred]hará que te vuelvas corpóreo e incapaz de usar tus poderes[/color]. Que te pillen en ese estado seguramente llevará a tu rápida muerte.
+    Como espíritu, sin embargo, eres capaz de sobrevivir un destierro. Te dejará gravemente debilitado, pero te permitirá recuperar lentamente tus fuerzas para llevar a cabo tu venganza.
+    Teme al capellán, ya que es inmune a la mayoría de tus acciones e incluso puede purgar los efectos de tus poderes en otros. Absorber su cadáver sin duda sería satisfactorio...

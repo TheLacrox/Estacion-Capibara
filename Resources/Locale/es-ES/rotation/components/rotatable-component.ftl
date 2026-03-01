@@ -7,13 +7,13 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # RotatableComponent
-rotatable-component-try-rotate-stuck = It's stuck.
+rotatable-component-try-rotate-stuck = Está atascado.
 
 # RotateVerb
-rotate-verb-get-data-text = Rotate clockwise
+rotate-verb-get-data-text = Girar en sentido horario
 
 # RotateCounterVerb
-rotate-counter-verb-get-data-text = Rotate counter-clockwise
+rotate-counter-verb-get-data-text = Girar en sentido antihorario
 
 # ResetVerb
-rotate-reset-verb-get-data-text = Reset
+rotate-reset-verb-get-data-text = Restablecer

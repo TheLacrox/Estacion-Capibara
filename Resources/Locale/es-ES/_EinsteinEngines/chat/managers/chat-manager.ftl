@@ -1,6 +1,6 @@
-chat-speech-verb-Psychomantic-1 = resonates
-chat-speech-verb-Psychomantic-2 = projects
-chat-speech-verb-Psychomantic-3 = impresses
-chat-speech-verb-Psychomantic-4 = radiates
+chat-speech-verb-Psychomantic-1 = resuena
+chat-speech-verb-Psychomantic-2 = proyecta
+chat-speech-verb-Psychomantic-3 = impresiona
+chat-speech-verb-Psychomantic-4 = irradia
 
-chat-speech-verb-marish = mars
+chat-speech-verb-marish = marsea

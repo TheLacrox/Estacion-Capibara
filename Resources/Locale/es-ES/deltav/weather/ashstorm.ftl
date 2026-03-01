@@ -1,3 +1,3 @@
-ash-storm-telegraph = [color=red][bold]An eerie moan rises on the wind. Sheets of burning ash blacken the horizon. Seek shelter.[/bold][/color]
-ash-storm-alert = [color=red][bolditalic]Smoldering clouds of scorching ash billow down around you! Get inside![/bolditalic][/color]
-ash-storm-clearing = [color=red]The shrieking wind whips away the last of the ash and falls to its usual murmur. It should be safe to go outside now.[/color]
+ash-storm-telegraph = [color=red][bold]Un gemido inquietante se eleva en el viento. Capas de ceniza ardiente ennegrecen el horizonte. Busca refugio.[/bold][/color]
+ash-storm-alert = [color=red][bolditalic]¡Nubes humeantes de ceniza abrasadora se acumulan a tu alrededor! ¡Entra![/bolditalic][/color]
+ash-storm-clearing = [color=red]El viento aullador arrastra el último rastro de ceniza y cae a su murmullo habitual. Debería ser seguro salir ahora.[/color]

@@ -4,21 +4,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-pirates-announcer-irs = Space IRS Agents
+pirates-announcer-irs = Agentes del IRS Espacial
 pirates-announcement-irs-threat =
-    TerraGov Here, We noticed that your station hasn't been paying your taxes.
-    Let's rectify that, Your missing tax dues amounts to a nice sum of credits.
-    Simply accept the order that we kindly placed in your cargo console.
-    We highly recommend paying your taxes stat, we don't need to send a team to your station to resolve the situation do we?
+    Aquí TerraGov. Hemos notado que su estación no ha estado pagando sus impuestos.
+    Rectifiquemos eso. Sus deudas fiscales pendientes ascienden a una bonita suma de créditos.
+    Simplemente acepte la orden que hemos colocado amablemente en su consola de carga.
+    Le recomendamos encarecidamente que pague sus impuestos cuanto antes. ¿No querrá que enviemos un equipo a su estación para resolver la situación, verdad?
 
 pirates-announcement-irs-arrival =
-    This is the tax conflict resolution team, prepare for your assets to be liquidated and be charged with tax fraud!
+    Este es el equipo de resolución de conflictos fiscales. ¡Prepárense para la liquidación de sus activos y para ser acusados de fraude fiscal!
 
 pirates-announcement-irs-paid =
-    Payment received, We salute you for being law-abiding tax-paying citizens!
+    Pago recibido. ¡Les felicitamos por ser ciudadanos cumplidores de la ley y sus obligaciones fiscales!
 
 pirates-announcement-irs-cancelled =
-    We understand, I'm sending a team to your station to resolve the matter.
+    Lo entendemos. Estoy enviando un equipo a su estación para resolver el asunto.
 
 pirates-announcement-irs-notenough =
-    You filed your taxes incorrectly, A team has been sent to assist in liquidating assets and arrest you for tax fraud.
+    Ha presentado sus impuestos incorrectamente. Se ha enviado un equipo para ayudar en la liquidación de activos y arrestarles por fraude fiscal.

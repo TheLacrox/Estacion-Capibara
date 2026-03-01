@@ -1,2 +1,2 @@
-materials-artifact-fragment = artifact fragment
-materials-artifact-fragment-ore = raw artifact fragment
+materials-artifact-fragment = fragmento de artefacto
+materials-artifact-fragment-ore = fragmento de artefacto en bruto

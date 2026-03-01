@@ -1,9 +1,9 @@
-feast-of-owls-eui-far-away = Rune is gone or too far away!
-feast-of-owls-eui-briefing = Your ambition is ravaged, but something powerful remains in its wake...
+feast-of-owls-eui-far-away = ¡La runa ha desaparecido o está demasiado lejos!
+feast-of-owls-eui-briefing = Tu ambición está devastada, pero algo poderoso permanece a su paso...
 
-feast-of-owls-knowledge-gaim-message = You feel something invisible tearing away at your very essence!
+feast-of-owls-knowledge-gaim-message = ¡Sientes algo invisible desgarrando tu propia esencia!
 
-feast-of-owls-title = Feast of Owls
-feast-of-owls-text = Do you really want to forsake your ascension? This action cannot be reverted.
-feast-of-owls-accept-button = Yes I'm sure
+feast-of-owls-title = Festín de Búhos
+feast-of-owls-text = ¿Realmente quieres renunciar a tu ascensión? Esta acción no se puede revertir.
+feast-of-owls-accept-button = Sí, estoy seguro
 feast-of-owls-deny-button = No

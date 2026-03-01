@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-verb-follow-text = Follow
-verb-follow-me-text = Make follow
+verb-follow-text = Seguir
+verb-follow-me-text = Hacer que siga

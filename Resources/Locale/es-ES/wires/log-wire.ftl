@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-log-wire-pulse-access-log = ERROR: Electromagnetic spike detected
+log-wire-pulse-access-log = ERROR: Pico electromagnético detectado

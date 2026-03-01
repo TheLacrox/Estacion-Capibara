@@ -12,35 +12,35 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lathe-menu-title = Lathe Menu
-lathe-menu-queue = Queue
-lathe-menu-server-list = Server list
-lathe-menu-sync = Sync
-lathe-menu-search-designs = Search designs
-lathe-menu-category-all = All
-lathe-menu-search-filter = Filter:
-lathe-menu-amount = Amount:
+lathe-menu-title = Menú del Torno
+lathe-menu-queue = Cola
+lathe-menu-server-list = Lista de servidores
+lathe-menu-sync = Sincronizar
+lathe-menu-search-designs = Buscar diseños
+lathe-menu-category-all = Todos
+lathe-menu-search-filter = Filtrar:
+lathe-menu-amount = Cantidad:
 lathe-menu-recipe-count = { $count ->
-    [1] {$count} Recipe
-    *[other] {$count} Recipes
+    [1] {$count} Receta
+    *[other] {$count} Recetas
 }
-lathe-menu-reagent-slot-examine = It has a slot for a beaker on the side.
-lathe-reagent-dispense-no-container = Liquid pours out of {THE($name)} onto the floor!
+lathe-menu-reagent-slot-examine = Tiene una ranura para un beaker en el lateral.
+lathe-reagent-dispense-no-container = ¡Líquido sale de {THE($name)} al suelo!
 lathe-menu-result-reagent-display = {$reagent} ({$amount}u)
 lathe-menu-material-display = {$material} ({$amount})
-lathe-menu-tooltip-display = {$amount} of {$material}
+lathe-menu-tooltip-display = {$amount} de {$material}
 lathe-menu-description-display = [italic]{$description}[/italic]
 lathe-menu-material-amount = { $amount ->
     [1] {NATURALFIXED($amount, 2)} {$unit}
     *[other] {NATURALFIXED($amount, 2)} {MAKEPLURAL($unit)}
 }
 lathe-menu-material-amount-missing = { $amount ->
-    [1] {NATURALFIXED($amount, 2)} {$unit} of {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} missing[/color])
-    *[other] {NATURALFIXED($amount, 2)} {MAKEPLURAL($unit)} of {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {MAKEPLURAL($unit)} missing[/color])
+    [1] {NATURALFIXED($amount, 2)} {$unit} de {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} faltante[/color])
+    *[other] {NATURALFIXED($amount, 2)} {MAKEPLURAL($unit)} de {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {MAKEPLURAL($unit)} faltantes[/color])
 }
-lathe-menu-no-materials-message = No materials loaded.
-lathe-menu-fabricating-message = Fabricating...
-lathe-menu-materials-title = Materials
-lathe-menu-queue-title = Build Queue
-lathe-menu-queue-reset-title = Reset Queue
-lathe-menu-queue-reset-material-overflow = You notice that the autolathe is full.
+lathe-menu-no-materials-message = No hay materiales cargados.
+lathe-menu-fabricating-message = Fabricando...
+lathe-menu-materials-title = Materiales
+lathe-menu-queue-title = Cola de Construcción
+lathe-menu-queue-reset-title = Reiniciar Cola
+lathe-menu-queue-reset-material-overflow = Notas que el autotorno está lleno.

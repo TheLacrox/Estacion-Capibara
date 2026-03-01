@@ -3,14 +3,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-carving-knife-comp-cant-draw = Can't draw carvings here!
-carving-knife-comp-too-many-runes = Too many carvings!
-carving-knife-comp-close-to-another-carving = Too close to another carving!
-carving-knife-comp-runes-count = [color=yellow][bold]{$count} / 3[/bold] total carvings have been drawn.[/color]
-carving-knife-comp-runes-deleted = Destroyed all carvings!
+carving-knife-comp-cant-draw = ¡No se puede tallar aquí!
+carving-knife-comp-too-many-runes = ¡Demasiadas tallas!
+carving-knife-comp-close-to-another-carving = ¡Demasiado cerca de otra talla!
+carving-knife-comp-runes-count = [color=yellow][bold]{$count} / 3[/bold] tallas totales han sido dibujadas.[/color]
+carving-knife-comp-runes-deleted = ¡Se destruyeron todas las tallas!
 
 alert-carving-trigger-message =
-    "{$victim}" has stepped foot on the alert rune near "{$location}"!
-    {" "}[button label="Teleport" timer={$timer} id="{$id}" uid={$uid} coords ="{$coords}"]
+    ¡"{$victim}" ha pisado la runa de alerta cerca de "{$location}"!
+    {" "}[button label="Teletransportar" timer={$timer} id="{$id}" uid={$uid} coords ="{$coords}"]
     {" "}
 alert-carving-trigger-message-coords = {$uid}, {$x}, {$y}

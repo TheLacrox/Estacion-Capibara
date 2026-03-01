@@ -7,60 +7,60 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-heretic-roundend-name = heretic
+heretic-roundend-name = hereje
 
-roundend-prepend-heretic-ascension-success = {$name}, [color=green] has Ascended![/color]
-roundend-prepend-heretic-ascension-fail = {$name}, [color=red] has failed![/color]
-roundend-prepend-heretic-ascension-fail-owls = {$name}, [color=red] has forsaken their Ascension and thus failed![/color]
-roundend-prepend-heretic-knowledge-named = [color=white]{$name}[/color] has researched a total of [color=purple]{$number}[/color] knowledge.
+roundend-prepend-heretic-ascension-success = {$name}, [color=green] ¡ha Ascendido![/color]
+roundend-prepend-heretic-ascension-fail = {$name}, [color=red] ¡ha fallado![/color]
+roundend-prepend-heretic-ascension-fail-owls = {$name}, [color=red] ¡ha renunciado a su Ascensión y por tanto ha fallado![/color]
+roundend-prepend-heretic-knowledge-named = [color=white]{$name}[/color] ha investigado un total de [color=purple]{$number}[/color] de conocimiento.
 
-heretic-gamemode-title = Heretics
+heretic-gamemode-title = Herejes
 heretic-gamemode-description =
-    Dimensional anomaly detected within the station. There is no additional data.
+    Se ha detectado una anomalía dimensional dentro de la estación. No hay datos adicionales.
 
 heretic-role-greeting-fluff =
-    Another day at a meaningless job. You feel a shimmer around you, as a realization of something strange in the air unfolds. You look inwards and discover something that will change your life.
+    Un día más en un trabajo sin sentido. Sientes un destello a tu alrededor, mientras se despliega la comprensión de algo extraño en el aire. Miras hacia dentro y descubres algo que cambiará tu vida.
 
-    The Gates of Mansus open up to your mind.
+    Las Puertas del Mansus se abren a tu mente.
 
 heretic-role-greeting =
-    You are the Heretic!
+    ¡Eres el Hereje!
 
-    Read more about your role in the guidebook entry.
+    Lee más sobre tu rol en la entrada del libro de guía.
 
 heretic-role-greeting-short =
-    You are the Heretic!
-    In order to learn the Final Ritual and Ascend, you must fulfill your tasks.
+    ¡Eres el Hereje!
+    Para aprender el Ritual Final y Ascender, debes cumplir tus tareas.
 
 ## ghoul
 heretic-ghoul-greeting =
-    You have been summoned into this world by {CAPITALIZE(THE($ent))}!
-    You must aid them in their journey to ascension and protect them at all costs.
-    You may follow other heretics if your master is beyond resurrection.
+    ¡Has sido invocado a este mundo por {CAPITALIZE(THE($ent))}!
+    Debes ayudarles en su viaje hacia la ascensión y protegerles a toda costa.
+    Puedes seguir a otros herejes si tu amo está más allá de la resurrección.
 heretic-ghoul-greeting-noname =
-    You have been summoned into this world by eldritch forces.
-    Obey the orders of your masters no matter what.
+    Has sido invocado a este mundo por fuerzas eldritch.
+    Obedece las órdenes de tus amos pase lo que pase.
 heretic-ghoul-briefing-start =
-    You have been summoned into this world by {CAPITALIZE(THE($ent))}!
+    ¡Has sido invocado a este mundo por {CAPITALIZE(THE($ent))}!
 heretic-ghoul-briefing-start-noname =
-    You have been summoned into this world by eldritch forces.
+    Has sido invocado a este mundo por fuerzas eldritch.
 heretic-ghoul-briefing-end =
-    Obey the orders of your masters no matter what.
+    Obedece las órdenes de tus amos pase lo que pase.
 
-    use +m key in chat to access mansus link.
+    usa la tecla +m en el chat para acceder al enlace del mansus.
 
 ghostrole-ghoul-name = Ghoul
-ghostrole-flesh-mimic-name = Flesh Mimic
-ghostrole-prophet-name = Raw Prophet
-ghostrole-stalker-name = Flesh Stalker
-ghostrole-fire-shark-name = Fire Shark
-ghostrole-rustwalker-name = Rust Walker
-ghostrole-stargazer-name = Star Gazer
-ghostrole-ghoul-desc = Aid your summoner in achieving ascension.
-ghostrole-flesh-mimic-desc = Aid your summoner in achieving ascension. Be aware that you die over time.
-ghostrole-prophet-desc = Aid your summoner in achieving ascension. Connect other believers to the Mansus Link. Passively heal heretics and eldritch creatures.
-ghostrole-stalker-desc = Aid your summoner in achieving ascension. Jaunt and sabotage crew's lighting.
-ghostrole-fire-shark-desc = Aid your summoner in achieving ascension. Burn your victims.
-ghostrole-rustwalker-desc = Aid your summoner in achieving ascension. Spread rust everywhere.
-ghostrole-stargazer-desc = Aid your summoner in wreaking havoc everywhere.
-ghostrole-ghoul-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with the one who summoned you and other eldritch beings.
+ghostrole-flesh-mimic-name = Mimo de Carne
+ghostrole-prophet-name = Profeta en Bruto
+ghostrole-stalker-name = Acechador de Carne
+ghostrole-fire-shark-name = Tiburón de Fuego
+ghostrole-rustwalker-name = Caminante de Óxido
+ghostrole-stargazer-name = Observador Estelar
+ghostrole-ghoul-desc = Ayuda a tu invocador a lograr la ascensión.
+ghostrole-flesh-mimic-desc = Ayuda a tu invocador a lograr la ascensión. Ten en cuenta que mueres con el tiempo.
+ghostrole-prophet-desc = Ayuda a tu invocador a lograr la ascensión. Conecta a otros creyentes al Enlace del Mansus. Cura pasivamente a herejes y criaturas eldritch.
+ghostrole-stalker-desc = Ayuda a tu invocador a lograr la ascensión. Viaja y sabotea la iluminación de la tripulación.
+ghostrole-fire-shark-desc = Ayuda a tu invocador a lograr la ascensión. Quema a tus víctimas.
+ghostrole-rustwalker-desc = Ayuda a tu invocador a lograr la ascensión. Extiende el óxido por todas partes.
+ghostrole-stargazer-desc = Ayuda a tu invocador a sembrar el caos por todas partes.
+ghostrole-ghoul-rules = Eres un [color=red][bold]Antagonista de Equipo[/bold][/color] con quien te invocó y otros seres eldritch.

@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gamemode-dynamic-title = Dynamic
-gamemode-dynamic-description = Gaming in 3024 modernized.
+gamemode-dynamic-title = Dinámico
+gamemode-dynamic-description = Juego en el año 3024 modernizado.
 
-gamemode-dynamic-u-title = Unforgiving Dynamic
-gamemode-dynamic-u-description = God save us all. 
+gamemode-dynamic-u-title = Dinámico Implacable
+gamemode-dynamic-u-description = Que Dios nos ampare a todos.

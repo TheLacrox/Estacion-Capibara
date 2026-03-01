@@ -6,14 +6,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-traitor-death-match-redemption-component-interact-using-main-message = The machine buzzes, and displays: {$secondMessage}
-traitor-death-match-redemption-component-interact-using-no-mind-message = "AUTHENTICATION FAILED (0045)"
-traitor-death-match-redemption-component-interact-using-no-user-mind-message = "AUTHENTICATION FAILED (0052)"
-traitor-death-match-redemption-component-interact-using-no-pda-message = GIVEN PDA IS NOT A PDA (0058)"
-traitor-death-match-redemption-component-interact-using-no-pda-owner-message ="GIVEN PDA HAS NO OWNER (0064)"
-traitor-death-match-redemption-component-interact-using-pda-different-user-message = "GIVEN PDA OWNED BY USER (0070)"
-traitor-death-match-redemption-component-interact-using-no-pda-in-pocket-message = "NO USER PDA IN IDCARD POCKET (0083)"
-traitor-death-match-redemption-component-interact-using-tampering-detected = "TAMPERING DETECTED (0101)"
-traitor-death-match-redemption-component-interact-using-user-no-uplink-account-message = "USER PDA HAS NO UPLINK ACCOUNT (0102)"
-traitor-death-match-redemption-component-interact-using-victim-no-uplink-account-message = "USER PDA HAS NO UPLINK ACCOUNT (0108)"
-traitor-death-match-redemption-component-interact-using-success-message = The machine plays a happy little tune, and displays: "SUCCESS: {$tcAmount} TC TRANSFERRED"
+traitor-death-match-redemption-component-interact-using-main-message = La máquina zumba y muestra: {$secondMessage}
+traitor-death-match-redemption-component-interact-using-no-mind-message = "AUTENTICACIÓN FALLIDA (0045)"
+traitor-death-match-redemption-component-interact-using-no-user-mind-message = "AUTENTICACIÓN FALLIDA (0052)"
+traitor-death-match-redemption-component-interact-using-no-pda-message = EL PDA PROPORCIONADO NO ES UN PDA (0058)"
+traitor-death-match-redemption-component-interact-using-no-pda-owner-message ="EL PDA PROPORCIONADO NO TIENE PROPIETARIO (0064)"
+traitor-death-match-redemption-component-interact-using-pda-different-user-message = "EL PDA PROPORCIONADO ES PROPIEDAD DEL USUARIO (0070)"
+traitor-death-match-redemption-component-interact-using-no-pda-in-pocket-message = "NO HAY PDA DE USUARIO EN EL BOLSILLO DE TARJETA ID (0083)"
+traitor-death-match-redemption-component-interact-using-tampering-detected = "MANIPULACIÓN DETECTADA (0101)"
+traitor-death-match-redemption-component-interact-using-user-no-uplink-account-message = "EL PDA DEL USUARIO NO TIENE CUENTA DE ENLACE (0102)"
+traitor-death-match-redemption-component-interact-using-victim-no-uplink-account-message = "EL PDA DEL USUARIO NO TIENE CUENTA DE ENLACE (0108)"
+traitor-death-match-redemption-component-interact-using-success-message = La máquina reproduce una melodía alegre y muestra: "ÉXITO: {$tcAmount} TC TRANSFERIDOS"

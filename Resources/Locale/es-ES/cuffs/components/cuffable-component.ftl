@@ -8,22 +8,22 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cuffable-component-cannot-interact-message = You can't do that!
-cuffable-component-cannot-remove-cuffs-too-far-message = You are too far away to remove the restraints.
+cuffable-component-cannot-interact-message = ¡No puedes hacer eso!
+cuffable-component-cannot-remove-cuffs-too-far-message = Estás demasiado lejos para quitarle las restricciones.
 
-cuffable-component-start-uncuffing-self = You start to painfully wriggle out of your restraints.
-cuffable-component-start-uncuffing-observer = {$user} starts unrestraining {$target}!
-cuffable-component-start-uncuffing-self-observer = {$user} starts unrestraining {REFLEXIVE($target)}!
-cuffable-component-start-uncuffing-target-message = You start unrestraining {$targetName}.
-cuffable-component-start-uncuffing-by-other-message = {$otherName} starts unrestraining you!
+cuffable-component-start-uncuffing-self = Empiezas a retorcerte dolorosamente para salir de tus restricciones.
+cuffable-component-start-uncuffing-observer = ¡{$user} empieza a quitar las restricciones de {$target}!
+cuffable-component-start-uncuffing-self-observer = ¡{$user} empieza a quitarse las restricciones {REFLEXIVE($target)}!
+cuffable-component-start-uncuffing-target-message = Empiezas a quitar las restricciones de {$targetName}.
+cuffable-component-start-uncuffing-by-other-message = ¡{$otherName} empieza a quitarte las restricciones!
 
-cuffable-component-remove-cuffs-success-message = You successfully remove the restraints.
-cuffable-component-remove-cuffs-push-success-message = You successfully remove the restraints and push {$otherName} down.
-cuffable-component-remove-cuffs-by-other-success-message = {$otherName} unrestrains your hands.
-cuffable-component-remove-cuffs-to-other-partial-success-message = You successfully remove the restraints. {$cuffedHandCount} of {$otherName}'s hands remain restrained.
-cuffable-component-remove-cuffs-by-other-partial-success-message = {$otherName} removes your restraints. {$cuffedHandCount} of your hands remain restrained.
-cuffable-component-remove-cuffs-partial-success-message = You successfully remove the restraints. {$cuffedHandCount} of your hands remain restrained.
-cuffable-component-remove-cuffs-fail-message = You fail to remove the restraints.
+cuffable-component-remove-cuffs-success-message = Quitas las restricciones con éxito.
+cuffable-component-remove-cuffs-push-success-message = Quitas las restricciones con éxito y empujas a {$otherName} al suelo.
+cuffable-component-remove-cuffs-by-other-success-message = {$otherName} te libera las manos.
+cuffable-component-remove-cuffs-to-other-partial-success-message = Quitas las restricciones con éxito. {$cuffedHandCount} de las manos de {$otherName} siguen restringidas.
+cuffable-component-remove-cuffs-by-other-partial-success-message = {$otherName} te quita las restricciones. {$cuffedHandCount} de tus manos siguen restringidas.
+cuffable-component-remove-cuffs-partial-success-message = Quitas las restricciones con éxito. {$cuffedHandCount} de tus manos siguen restringidas.
+cuffable-component-remove-cuffs-fail-message = No logras quitarte las restricciones.
 
 # UnrestrainVerb
-uncuff-verb-get-data-text = Unrestrain
+uncuff-verb-get-data-text = Quitar restricciones

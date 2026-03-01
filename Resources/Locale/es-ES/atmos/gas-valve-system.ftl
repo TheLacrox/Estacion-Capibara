@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Examine Text
-gas-valve-system-examined = The valve is [color={$statusColor}]{$open ->
-    [true]  open
-   *[false] closed
+gas-valve-system-examined = La válvula está [color={$statusColor}]{$open ->
+    [true]  abierta
+   *[false] cerrada
 }[/color].

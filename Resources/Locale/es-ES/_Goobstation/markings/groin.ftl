@@ -1,2 +1,2 @@
-marking-MobIPCGroinDefault = Standard Robotic Chassis (Masculine)
-marking-MobIPCGroinFemaleDefault = Standard Robotic Chassis (Feminine)
+marking-MobIPCGroinDefault = Chasis robótico estándar (Masculino)
+marking-MobIPCGroinFemaleDefault = Chasis robótico estándar (Femenino)

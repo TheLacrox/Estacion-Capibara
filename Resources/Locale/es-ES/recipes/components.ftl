@@ -1,7 +1,7 @@
-construction-graph-component-any-computer-circuit-board = any computer circuit board
-construction-graph-component-door-electronics-circuit-board = door electronics circuit board
+construction-graph-component-any-computer-circuit-board = cualquier placa de circuito de computadora
+construction-graph-component-door-electronics-circuit-board = placa de circuito de electrónica de puerta
 construction-graph-component-flash = flash
-construction-graph-component-second-flash = second flash
-construction-graph-component-power-cell = power cell
-construction-graph-component-apc-electronics = APC electronics
-construction-graph-component-payload-trigger = trigger
+construction-graph-component-second-flash = segundo flash
+construction-graph-component-power-cell = pila de energía
+construction-graph-component-apc-electronics = electrónica del APC
+construction-graph-component-payload-trigger = disparador

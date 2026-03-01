@@ -1,14 +1,14 @@
-set-selector-window-title = undetermined set selection
+set-selector-window-title = selección de conjunto indeterminado
 
 set-selector-window-description =
-    Inside are your tools of the trade, and they will be ready as soon as you are.
-    Choose {$maxCount ->
-        [1] one set
-        *[other] {$maxCount} different sets
-    } from the list.
+    Dentro están tus herramientas de trabajo, y estarán listas cuando tú lo estés.
+    Elige {$maxCount ->
+        [1] un conjunto
+        *[other] {$maxCount} conjuntos diferentes
+    } de la lista.
 
-set-selector-window-selected = Sets selected: ({$selectedCount}/{$maxCount})
+set-selector-window-selected = Conjuntos seleccionados: ({$selectedCount}/{$maxCount})
 
-set-selector-window-approve-button = Approve
-set-selector-button-select = Select [  ]
-set-selector-button-deselect = Select [X]
+set-selector-window-approve-button = Aprobar
+set-selector-button-select = Seleccionar [  ]
+set-selector-button-deselect = Seleccionar [X]

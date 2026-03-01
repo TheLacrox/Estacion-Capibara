@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-attach-to-self-verb-get-data-text = Attach to self
+attach-to-self-verb-get-data-text = Anclar a sí mismo

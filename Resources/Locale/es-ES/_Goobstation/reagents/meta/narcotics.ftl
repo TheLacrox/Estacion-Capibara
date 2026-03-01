@@ -8,26 +8,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-fentanyl = fentanyl
-reagent-desc-fentanyl = A horrifyingly toxic street drug with a laundry list of side-effects. If you do drugs, you go to hell before you die!
+reagent-name-fentanyl = fentanilo
+reagent-desc-fentanyl = Una droga callejera aterradoramente tóxica con una larga lista de efectos secundarios. ¡Si consumes drogas, irás al infierno antes de morir!
 
-reagent-name-blind-toxin = blind toxin
-reagent-desc-blind-toxin = A thick chemical that makes the user unable to see during metabolization and damages their eyes.
+reagent-name-blind-toxin = toxina cegadora
+reagent-desc-blind-toxin = Un químico espeso que hace que el usuario sea incapaz de ver durante la metabolización y daña sus ojos.
 
-reagent-name-tirizene = tirizene
-reagent-desc-tirizene = A nonlethal poison that causes extreme fatigue and weakness in its victim.
+reagent-name-tirizene = tirizeno
+reagent-desc-tirizene = Un veneno no letal que causa fatiga extrema y debilidad en su víctima.
 
-reagent-name-amnestizine = dimtrimethic-neuramincyl acid
-reagent-desc-amnestizine = Commonly referred to as "Amnestizine", it's a milky white chemical capable of causing retrograde & anterograde amnesia. It's derived from a certain trees bark.
+reagent-name-amnestizine = ácido dimetilmetico-neuramincilénico
+reagent-desc-amnestizine = Comúnmente conocido como "Amnestizina", es un químico blanco lechoso capaz de causar amnesia retrógrada y anterógrada. Se deriva de la corteza de cierto árbol.
 
 reagent-name-aranesp = aranesp
-reagent-desc-aranesp = A difficult to synthesize performance enhancer, most famous for strong energy restoration capabilities.
+reagent-desc-aranesp = Un potenciador del rendimiento difícil de sintetizar, famoso principalmente por sus fuertes capacidades de restauración de energía.
 
-reagent-name-mousebites = Mouse bites
-reagent-desc-mousebites = Did you try the medicine drug?
+reagent-name-mousebites = Mordidas de ratón
+reagent-desc-mousebites = ¿Probaste la droga medicinal?
 
-reagent-name-oleoresin-capsaicin = Oleoresin Capsaicin
-reagent-desc-oleoresin-capsaicin = An oily resin derived from Capsaicin. Causes severe irritation when touching the eyes or mouth.
+reagent-name-oleoresin-capsaicin = Oleorresina de Capsaicina
+reagent-desc-oleoresin-capsaicin = Una resina oleosa derivada de la Capsaicina. Causa irritación severa al contacto con los ojos o la boca.
 
-reagent-name-heroin = heroin
-reagent-desc-heroin = An illegal street drug that was once used in medicine, but replace by tramadol.
+reagent-name-heroin = heroína
+reagent-desc-heroin = Una droga callejera ilegal que alguna vez se usó en medicina, pero fue reemplazada por el tramadol.

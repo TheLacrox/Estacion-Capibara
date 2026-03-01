@@ -4,10 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-loadacts-desc = Loads action toolbar assignments from a user-file.
-cmd-loadacts-help = Usage: {$command} <user resource path>
-cmd-loadacts-error = Failed to load action assignments
+cmd-loadacts-desc = Carga las asignaciones de la barra de acciones desde un archivo de usuario.
+cmd-loadacts-help = Uso: {$command} <ruta de recurso de usuario>
+cmd-loadacts-error = Error al cargar las asignaciones de acciones
 
-cmd-loadmapacts-desc = Loads the mapping preset action toolbar assignments.
-cmd-loadmapacts-help = Usage: {$command} <user resource path>
-cmd-loadmapacts-error = Failed to load action assignments
+cmd-loadmapacts-desc = Carga las asignaciones de la barra de acciones del preset de mapeo.
+cmd-loadmapacts-help = Uso: {$command} <ruta de recurso de usuario>
+cmd-loadmapacts-error = Error al cargar las asignaciones de acciones

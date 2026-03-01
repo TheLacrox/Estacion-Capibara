@@ -1,2 +1,2 @@
-stack-bluespace-tile = bluespace tile
-stack-sepia-tile = sepia tile
+stack-bluespace-tile = baldosa bluespace
+stack-sepia-tile = baldosa sepia

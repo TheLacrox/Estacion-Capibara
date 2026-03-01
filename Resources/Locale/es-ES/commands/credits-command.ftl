@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-credits-desc = Opens the credits window
-cmd-credits-help = Usage: {$command}
+cmd-credits-desc = Abre la ventana de créditos
+cmd-credits-help = Uso: {$command}

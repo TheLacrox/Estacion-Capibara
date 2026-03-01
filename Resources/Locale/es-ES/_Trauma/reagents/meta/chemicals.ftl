@@ -1,35 +1,35 @@
-reagent-name-potassium-sulfate = potassium sulfate
-reagent-desc-potassium-sulfate = Potassium in a water-soluble form, providing both potassium and sulfur. Used primarily as a fertilizer for plants.
+reagent-name-potassium-sulfate = sulfato de potasio
+reagent-desc-potassium-sulfate = Potasio en forma soluble en agua, que proporciona tanto potasio como azufre. Se usa principalmente como fertilizante para plantas.
 
-reagent-name-sodium-bicarbonate = sodium bicarbonate
-reagent-desc-sodium-bicarbonate = A white, odorless, water-soluble salt that has a wide range of uses.  Also known as baking soda.
+reagent-name-sodium-bicarbonate = bicarbonato de sodio
+reagent-desc-sodium-bicarbonate = Una sal blanca, inodora y soluble en agua con un amplio rango de usos. También conocida como bicarbonato sódico.
 
-reagent-name-sodium-acetate = sodium acetate
-reagent-desc-sodium-acetate = A white, odorless, water-soluble salt that results from mixing vinegar and baking soda.
+reagent-name-sodium-acetate = acetato de sodio
+reagent-desc-sodium-acetate = Una sal blanca, inodora y soluble en agua que resulta de mezclar vinagre y bicarbonato sódico.
 
-reagent-name-methane = methane
-reagent-desc-methane = A colorless, odorless, and flammable gas, being the simplest alkane. Do not breath.
+reagent-name-methane = metano
+reagent-desc-methane = Un gas incoloro, inodoro e inflamable, siendo el alcano más simple. No respirar.
 
-reagent-name-methanol = methanol
-reagent-desc-methanol = A colorless, odorless, and flammable liquid similar to ethanol however, it is extra toxic.
+reagent-name-methanol = metanol
+reagent-desc-methanol = Un líquido incoloro, inodoro e inflamable similar al etanol, aunque extra tóxico.
 
-reagent-name-hexamine = hexamine
-reagent-desc-hexamine = A white crystalline solid that smells fishy. Used in making explosives.
+reagent-name-hexamine = hexamina
+reagent-desc-hexamine = Un sólido cristalino blanco con olor a pescado. Usado en la fabricación de explosivos.
 
-reagent-name-cyclonite = cyclonite
-reagent-desc-cyclonite = A yellowish crystal that is used in plastic explosives. Also known as RDX. This reaction is exothermic. Explodes at 576K.
+reagent-name-cyclonite = ciclonita
+reagent-desc-cyclonite = Un cristal amarillento usado en explosivos plásticos. También conocido como RDX. Esta reacción es exotérmica. Explota a 576K.
 
-reagent-name-ammonium-nitrate = ammonium nitrate
-reagent-desc-ammonium-nitrate = A white, crystalline solid that is highly soluble in water. It is a potent fertilizer.
+reagent-name-ammonium-nitrate = nitrato de amonio
+reagent-desc-ammonium-nitrate = Un sólido cristalino blanco altamente soluble en agua. Es un potente fertilizante.
 
-reagent-name-ethenone = ethenone
-reagent-desc-ethenone = A colorless, flammable gas with a penetrating odor. Also known as ketene.
+reagent-name-ethenone = etenona
+reagent-desc-ethenone = Un gas incoloro e inflamable con un olor penetrante. También conocido como cetena.
 
-reagent-name-acetic-anhydride = acetic anhydride
-reagent-desc-acetic-anhydride = A colorless liquid that smells like vinegar. Used in manufacturing explosives.
+reagent-name-acetic-anhydride = anhídrido acético
+reagent-desc-acetic-anhydride = Un líquido incoloro con olor a vinagre. Usado en la fabricación de explosivos.
 
-reagent-name-ammonium-nitrate-fuel-oil = ammonium nitrate fuel oil
-reagent-desc-ammonium-nitrate-fuel-oil = An off white, crystalline solid mixed with fuel often used as a blasting agent. Explodes at 576K.
+reagent-name-ammonium-nitrate-fuel-oil = nitrato de amonio con combustible
+reagent-desc-ammonium-nitrate-fuel-oil = Un sólido cristalino blancuzco mezclado con combustible, usado frecuentemente como agente de voladura. Explota a 576K.
 
-reagent-name-octogen = octogen
-reagent-desc-octogen = A white, opaque powder that has detonation velocity similar to re-entry speeds. Also known as HMX. Explodes at 553K.
+reagent-name-octogen = octógeno
+reagent-desc-octogen = Un polvo blanco y opaco con velocidad de detonación similar a la de reentrada. También conocido como HMX. Explota a 553K.

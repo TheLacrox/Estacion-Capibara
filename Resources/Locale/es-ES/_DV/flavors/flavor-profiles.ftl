@@ -1,1 +1,1 @@
-flavor-complex-beast-blood = like a bloody battlefield
+flavor-complex-beast-blood = como un sangriento campo de batalla

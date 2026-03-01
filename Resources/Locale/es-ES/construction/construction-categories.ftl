@@ -5,18 +5,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-category-all = All
-construction-category-furniture = Furniture
-construction-category-storage = Storage
-construction-category-tools = Tools
-construction-category-materials = Materials
-construction-category-structures = Structures
-construction-category-machines = Machines
-construction-category-weapons = Weapons
-construction-category-tiles = Tiles
-construction-category-utilities = Utilities
-construction-category-misc = Misc
-construction-category-clothing = Clothing
-construction-category-favorites = Favorites
-construction-add-favorite-button = Add to favorites
-construction-remove-from-favorite-button = Remove from favorites
+construction-category-all = Todo
+construction-category-furniture = Mobiliario
+construction-category-storage = Almacenamiento
+construction-category-tools = Herramientas
+construction-category-materials = Materiales
+construction-category-structures = Estructuras
+construction-category-machines = Máquinas
+construction-category-weapons = Armas
+construction-category-tiles = Suelos
+construction-category-utilities = Utilidades
+construction-category-misc = Varios
+construction-category-clothing = Ropa
+construction-category-favorites = Favoritos
+construction-add-favorite-button = Añadir a favoritos
+construction-remove-from-favorite-button = Quitar de favoritos

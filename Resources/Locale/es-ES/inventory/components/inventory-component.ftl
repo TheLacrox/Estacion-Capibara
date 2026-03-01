@@ -7,13 +7,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-inventory-component-can-equip-cannot = You can't equip this!
-inventory-component-can-equip-does-not-fit = This doesn't fit!
+inventory-component-can-equip-cannot = ¡No puedes equipar esto!
+inventory-component-can-equip-does-not-fit = ¡Esto no encaja!
 
-inventory-component-can-unequip-cannot = You can't unequip this!
+inventory-component-can-unequip-cannot = ¡No puedes desequipar esto!
 
 inventory-component-dropped-from-unequip =
-    You dropped {$items ->
-    [1] an item!
-    *[other] some items!
+    ¡Dejaste caer {$items ->
+    [1] un objeto!
+    *[other] algunos objetos!
 }

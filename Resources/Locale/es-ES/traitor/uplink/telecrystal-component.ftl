@@ -6,4 +6,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-telecrystal-component-sucs-inserted = You slot {THE($source)} into {THE($target)}.
+telecrystal-component-sucs-inserted = Insertas {THE($source)} en {THE($target)}.

@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-showmechanisms-desc = Makes mechanisms visible, even when they shouldn't be.
-cmd-showmechanisms-help = Usage: showmechanisms
+cmd-showmechanisms-desc = Hace visibles los mecanismos, incluso cuando no deberían serlo.
+cmd-showmechanisms-help = Uso: showmechanisms

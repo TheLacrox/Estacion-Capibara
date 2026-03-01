@@ -6,22 +6,22 @@
 
 changeling-roundend-name = changeling
 
-objective-issuer-hivemind = [color=orange]The Hive[/color]
-objective-issuer-tiger = [color=crimson]Tiger Cooperative[/color]
+objective-issuer-hivemind = [color=orange]La Colmena[/color]
+objective-issuer-tiger = [color=crimson]Cooperativa Tigre[/color]
 
-roundend-prepend-changeling-absorbed-named = [color=white]{$name}[/color] has absorbed a total of [color=red]{$number}[/color] organics.
-roundend-prepend-changeling-stolen-named = [color=white]{$name}[/color] has extracted a total of [color=orange]{$number}[/color] DNA samples.
-roundend-prepend-changeling-absorbed = Someone has absorbed a total of [color=red]{$number}[/color] organics.
-roundend-prepend-changeling-stolen = Someone had extracted a total of [color=orange]{$number}[/color] DNA samples.
+roundend-prepend-changeling-absorbed-named = [color=white]{$name}[/color] ha absorbido un total de [color=red]{$number}[/color] orgánicos.
+roundend-prepend-changeling-stolen-named = [color=white]{$name}[/color] ha extraído un total de [color=orange]{$number}[/color] muestras de ADN.
+roundend-prepend-changeling-absorbed = Alguien ha absorbido un total de [color=red]{$number}[/color] orgánicos.
+roundend-prepend-changeling-stolen = Alguien había extraído un total de [color=orange]{$number}[/color] muestras de ADN.
 
 changeling-gamemode-title = Changelings
 changeling-gamemode-description =
-    The changeling hive has boarded the station, ready to take anything it desires - be it your equipment, your faces, or your lives!
+    ¡La colmena changeling ha abordado la estación, lista para tomar lo que desee: ya sean tus equipos, tus caras o tus vidas!
 
 changeling-role-greeting =
-    You are a changeling who has absorbed and taken the form of {$name}!
-    Your objectives are listed in the character menu.
-    Absorb, shapeshift and evolve to complete them!
+    ¡Eres un changeling que ha absorbido y tomado la forma de {$name}!
+    Tus objetivos se encuentran en el menú del personaje.
+    ¡Absorbe, muta y evoluciona para completarlos!
 
 changeling-role-greeting-short =
-    You are a changeling who has absorbed and taken the initial form of {$name}.
+    Eres un changeling que ha absorbido y tomado la forma inicial de {$name}.

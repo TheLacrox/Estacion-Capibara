@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-shared-interaction-system-in-range-unobstructed-cannot-reach = You can't reach there!
-interaction-system-user-interaction-cannot-reach = You can't reach there!
-interaction-rate-limit-admin-announcement = Player { $player } breached interaction rate limits. They may be using macros, auto-clickers, or a modified client. Though they may just be spamming buttons or having network issues.
+shared-interaction-system-in-range-unobstructed-cannot-reach = ¡No puedes llegar hasta ahí!
+interaction-system-user-interaction-cannot-reach = ¡No puedes llegar hasta ahí!
+interaction-rate-limit-admin-announcement = El jugador { $player } ha superado los límites de velocidad de interacción. Puede estar usando macros, autoclickers o un cliente modificado. Aunque también puede que simplemente esté pulsando botones muy rápido o tenga problemas de red.

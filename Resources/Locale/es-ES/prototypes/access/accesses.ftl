@@ -17,58 +17,58 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-id-card-access-level-command = Command
-id-card-access-level-captain = Captain
-id-card-access-level-head-of-personnel = Head of Personnel
-id-card-access-level-cryogenics = Cryogenics
-id-card-access-level-emergency-shuttle-repeal = E.Shuttle Repeal All
+id-card-access-level-command = Mando
+id-card-access-level-captain = Capitán
+id-card-access-level-head-of-personnel = Jefe de Personal
+id-card-access-level-cryogenics = Criogénicos
+id-card-access-level-emergency-shuttle-repeal = Anular Transbordador de Emergencia
 
-id-card-access-level-head-of-security = Head of Security
-id-card-access-level-security = Security
-id-card-access-level-armory = Armory
-id-card-access-level-brig = Brig
+id-card-access-level-head-of-security = Jefe de Seguridad
+id-card-access-level-security = Seguridad
+id-card-access-level-armory = Armería
+id-card-access-level-brig = Calabozo
 id-card-access-level-detective = Detective
-id-card-access-level-genpop-enter = Enter Genpop
-id-card-access-level-genpop-leave = Leave Genpop
+id-card-access-level-genpop-enter = Entrar a Genpop
+id-card-access-level-genpop-leave = Salir de Genpop
 
-id-card-access-level-chief-engineer = Chief Engineer
-id-card-access-level-engineering = Engineering
-id-card-access-level-atmospherics = Atmospherics
+id-card-access-level-chief-engineer = Jefe de Ingeniería
+id-card-access-level-engineering = Ingeniería
+id-card-access-level-atmospherics = Atmosférica
 
-id-card-access-level-research-director = Research Director
-id-card-access-level-research = Research
+id-card-access-level-research-director = Director de Investigación
+id-card-access-level-research = Investigación
 
-id-card-access-level-chief-medical-officer = Chief Medical Officer
-id-card-access-level-medical = Medical
-id-card-access-level-chemistry = Chemistry
-id-card-access-level-paramedic = Paramedic
+id-card-access-level-chief-medical-officer = Jefe Médico
+id-card-access-level-medical = Médico
+id-card-access-level-chemistry = Química
+id-card-access-level-paramedic = Paramédico
 
-id-card-access-level-quartermaster = Quartermaster
-id-card-access-level-cargo = Cargo
-id-card-access-level-salvage = Salvage
+id-card-access-level-quartermaster = Cuartelmaestre
+id-card-access-level-cargo = Carga
+id-card-access-level-salvage = Salvamento
 
 id-card-access-level-bar = Bar
-id-card-access-level-kitchen = Kitchen
-id-card-access-level-hydroponics = Hydroponics
-id-card-access-level-service = Service
-id-card-access-level-janitor = Janitor
-id-card-access-level-theatre = Theatre
-id-card-access-level-chapel = Chapel
-id-card-access-level-lawyer = Lawyer
+id-card-access-level-kitchen = Cocina
+id-card-access-level-hydroponics = Hidroponía
+id-card-access-level-service = Servicio
+id-card-access-level-janitor = Limpieza
+id-card-access-level-theatre = Teatro
+id-card-access-level-chapel = Capilla
+id-card-access-level-lawyer = Abogado
 
-id-card-access-level-maintenance = Maintenance
+id-card-access-level-maintenance = Mantenimiento
 
-id-card-access-level-external = External
+id-card-access-level-external = Externo
 
-id-card-access-level-nuclear-operative = Nuclear Operative
-id-card-access-level-syndicate-agent = Syndicate Agent
+id-card-access-level-nuclear-operative = Operativo Nuclear
+id-card-access-level-syndicate-agent = Agente del Sindicato
 
-id-card-access-level-central-command = Central Command
+id-card-access-level-central-command = Mando Central
 
-id-card-access-level-wizard = Wizard
+id-card-access-level-wizard = Mago
 
-id-card-access-level-station-ai = Artifical Intelligence
-id-card-access-level-borg = Cyborg
+id-card-access-level-station-ai = Inteligencia Artificial
+id-card-access-level-borg = Cíborg
 id-card-access-level-basic-silicon = Robot
 
-id-card-access-level-basic-xenoborg = Xenoborg
+id-card-access-level-basic-xenoborg = Xenocíborg

@@ -1,15 +1,15 @@
-cheat-death-component-examined = [color=red] Something tells you {SUBJECT($target)} has no fear of death. [/color]
+cheat-death-component-examined = [color=red] Algo te dice que {SUBJECT($target)} no tiene miedo a la muerte. [/color]
 cheat-death-component-remaining-revives = { $amount ->
-[0] You have no revives left.
-[one] You have one revive left.
-*[other] You have {$amount} revives left.
+[0] No te quedan revividas.
+[one] Te queda una revivida.
+*[other] Te quedan {$amount} revividas.
 }
 
-cheat-death-component-remaining-revives-unlimited = You have an unlimited amount of revives.
+cheat-death-component-remaining-revives-unlimited = Tienes una cantidad ilimitada de revividas.
 
-action-cheat-death-fail-no-lives = You aren't slipping away this time.
-action-cheat-death-fail-not-dead = You can't cheat death while alive!
-action-cheat-death-holy-damage = Divine intervention prevents your revival.
+action-cheat-death-fail-no-lives = Esta vez no vas a escapar.
+action-cheat-death-fail-not-dead = ¡No puedes engañar a la muerte estando vivo!
+action-cheat-death-holy-damage = La intervención divina impide tu resurrección.
 
-action-cheated-death-dead = {$name} jerks awake. Bones mended, wounds sewn, organs arranged ever so perfectly.
-action-cheated-death-alive = {$name} violently shakes, all manners of wounds disappearing in a flash of flames.
+action-cheated-death-dead = {$name} se despierta de golpe. Huesos reparados, heridas cosidas, órganos colocados a la perfección.
+action-cheated-death-alive = {$name} se sacude violentamente, todo tipo de heridas desaparecen en un destello de llamas.

@@ -4,12 +4,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-osay-command-description = Forces another entity to try to send a message
-osay-command-help-text = Usage: {$command} <uid> <type> <message>
+osay-command-description = Fuerza a otra entidad a intentar enviar un mensaje
+osay-command-help-text = Uso: {$command} <uid> <tipo> <mensaje>
 
-osay-command-arg-uid = source uid
-osay-command-arg-type = type
-osay-command-arg-message = message
+osay-command-arg-uid = uid fuente
+osay-command-arg-type = tipo
+osay-command-arg-message = mensaje
 
-osay-command-error-args = Invalid number of arguments
-osay-command-error-euid = {$arg} is not a valid entity uid.
+osay-command-error-args = Número de argumentos no válido
+osay-command-error-euid = {$arg} no es un uid de entidad válido.

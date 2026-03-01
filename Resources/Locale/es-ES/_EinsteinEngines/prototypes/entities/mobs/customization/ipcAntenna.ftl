@@ -3,13 +3,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-RobotAntennaTv = Tv
+marking-RobotAntennaTv = TV
 marking-RobotAntennaTesla = Tesla
-marking-RobotAntennaLightb = Light (alt)
-marking-RobotAntennaLight = Light
-marking-RobotAntennaCyberhead = Cyberhead
-marking-RobotAntennaSidelights = Sidelights
-marking-RobotAntennaAntlers = Antlers
-marking-RobotAntennaDroneeyes = Drone Eyes
-marking-RobotAntennaCrowned = Crowned
-marking-RobotAntennaTowers = Towers
+marking-RobotAntennaLightb = Luz (alt)
+marking-RobotAntennaLight = Luz
+marking-RobotAntennaCyberhead = Cabeza cibernética
+marking-RobotAntennaSidelights = Luces laterales
+marking-RobotAntennaAntlers = Cuernos
+marking-RobotAntennaDroneeyes = Ojos de drone
+marking-RobotAntennaCrowned = Coronado
+marking-RobotAntennaTowers = Torres

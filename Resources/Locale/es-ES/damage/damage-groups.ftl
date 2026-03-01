@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-damage-group-brute = Brute
-damage-group-burn = Burn
-damage-group-airloss = Airloss
-damage-group-toxin = Toxin
-damage-group-genetic = Genetic
-damage-group-metaphysical = Metaphysical
+damage-group-brute = Contundente
+damage-group-burn = Quemadura
+damage-group-airloss = Pérdida de aire
+damage-group-toxin = Toxina
+damage-group-genetic = Genético
+damage-group-metaphysical = Metafísico

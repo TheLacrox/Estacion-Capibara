@@ -1,29 +1,29 @@
-marking-UndershirtDefault-undershirt = Undershirt
-marking-UndershirtDefault = Undershirt (Default)
+marking-UndershirtDefault-undershirt = Camiseta interior
+marking-UndershirtDefault = Camiseta interior (Estándar)
 
-marking-UndershirtRolled-rolled_undershirt = Undershirt
-marking-UndershirtRolled = Undershirt (Rolled)
+marking-UndershirtRolled-rolled_undershirt = Camiseta interior
+marking-UndershirtRolled = Camiseta interior (Enrollada)
 
-marking-UndershirtSleeveless-sleeveless = Tanktop
-marking-UndershirtSleeveless = Tanktop
+marking-UndershirtSleeveless-sleeveless = Camiseta de tirantes
+marking-UndershirtSleeveless = Camiseta de tirantes
 
-marking-UndershirtGrossSleeveless-gross_sleeveless = Tanktop
-marking-UndershirtGrossSleeveless = Tanktop (Gross)
+marking-UndershirtGrossSleeveless-gross_sleeveless = Camiseta de tirantes
+marking-UndershirtGrossSleeveless = Camiseta de tirantes (Sucia)
 
-marking-UndershirtRolledSleeveless-rolled_undershirt_sleeveless = Tanktop
-marking-UndershirtRolledSleeveless = Tanktop (Rolled)
+marking-UndershirtRolledSleeveless-rolled_undershirt_sleeveless = Camiseta de tirantes
+marking-UndershirtRolledSleeveless = Camiseta de tirantes (Enrollada)
 
-marking-UndershirtNanotrasen-nanotrasen = Undershirt
-marking-UndershirtNanotrasen = Undershirt (Nanotrasen)
+marking-UndershirtNanotrasen-nanotrasen = Camiseta interior
+marking-UndershirtNanotrasen = Camiseta interior (Nanotrasen)
 
-marking-UndershirtBinder-binder = Binder
-marking-UndershirtBinder = Binder
+marking-UndershirtBinder-binder = Faja pecho
+marking-UndershirtBinder = Faja pecho
 
-marking-UndershirtBraClassic-classic = Bra
-marking-UndershirtBraClassic = Bra (Classic)
+marking-UndershirtBraClassic-classic = Sujetador
+marking-UndershirtBraClassic = Sujetador (Clásico)
 
-marking-UndershirtBraSports-sports = Bra
-marking-UndershirtBraSports = Bra (Sports)
+marking-UndershirtBraSports-sports = Sujetador
+marking-UndershirtBraSports = Sujetador (Deportivo)
 
-marking-UndershirtBraStrapless-strapless = Bra
-marking-UndershirtBraStrapless = Bra (Strapless)
+marking-UndershirtBraStrapless-strapless = Sujetador
+marking-UndershirtBraStrapless = Sujetador (Sin tirantes)

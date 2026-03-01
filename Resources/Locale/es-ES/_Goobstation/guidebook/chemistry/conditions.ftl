@@ -6,31 +6,31 @@
 
 reagent-effect-condition-guidebook-stamina-damage-threshold =
     { $max ->
-        [2147483648] the target has at least {NATURALFIXED($min, 2)} stamina damage
+        [2147483648] el objetivo tiene al menos {NATURALFIXED($min, 2)} de daño de stamina
         *[other] { $min ->
-                    [0] the target has at most {NATURALFIXED($max, 2)} stamina damage
-                    *[other] the target has between {NATURALFIXED($min, 2)} and {NATURALFIXED($max, 2)} stamina damage
+                    [0] el objetivo tiene como máximo {NATURALFIXED($max, 2)} de daño de stamina
+                    *[other] el objetivo tiene entre {NATURALFIXED($min, 2)} y {NATURALFIXED($max, 2)} de daño de stamina
                  }
     }
 
 reagent-effect-condition-guidebook-unique-bloodstream-chem-threshold =
     { $max ->
         [2147483648] { $min ->
-                        [1] there's at least {$min} reagent
-                        *[other] there's at least {$min} reagents
+                        [1] hay al menos {$min} reactivo
+                        *[other] hay al menos {$min} reactivos
                      }
         [1] { $min ->
-               [0] there's at most {$max} reagent
-               *[other] there's between {$min} and {$max} reagents
+               [0] hay como máximo {$max} reactivo
+               *[other] hay entre {$min} y {$max} reactivos
             }
         *[other] { $min ->
-                    [-1] there's at most {$max} reagents
-                    *[other] there's between {$min} and {$max} reagents
+                    [-1] hay como máximo {$max} reactivos
+                    *[other] hay entre {$min} y {$max} reactivos
                  }
     }
 
 reagent-effect-condition-guidebook-typed-damage-threshold =
     { $inverse ->
-        [true] the target has at most
-        *[false] the target has at least
-    } { $changes } damage
+        [true] el objetivo tiene como máximo
+        *[false] el objetivo tiene al menos
+    } { $changes } de daño

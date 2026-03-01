@@ -1,4 +1,5 @@
-﻿cmd-setbatterypercent-desc = Drains or recharges a battery by entity uid and percentage, i.e.: forall with Battery do setbatterypercent $ID 0
-cmd-setbatterypercent-help = Usage: setbatterypercent <id> <percent>
-cmd-setbatterypercent-battery-not-found = No battery found with id {$id}.
-cmd-setbatterypercent-not-valid-percent = {$arg} is not a valid float (percentage).
+cmd-setbatterypercent-desc = Drena o recarga una batería por uid de entidad y porcentaje, por ejemplo: forall with Battery do setbatterypercent $ID 0
+cmd-setbatterypercent-help = Uso: setbatterypercent <id> <porcentaje>
+cmd-setbatterypercent-battery-not-found = No se encontró ninguna batería con id {$id}.
+cmd-setbatterypercent-not-valid-percent = {$arg} no es un flotante válido (porcentaje).
+

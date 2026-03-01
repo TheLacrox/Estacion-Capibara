@@ -1,9 +1,9 @@
-xeno-extract-reaction = The extract bubbles!
+xeno-extract-reaction = ¡El extracto burbujea!
 
-xeno-extract-reaction-evil = The extract bubbles and shakes! Better stand back!
+xeno-extract-reaction-evil = ¡El extracto burbujea y se agita! ¡Mejor alejarse!
 
-xeno-extract-reaction-reagent = The extract bubbles! It's contents are being shaped into an unknown substance!
+xeno-extract-reaction-reagent = ¡El extracto burbujea! ¡Su contenido está siendo moldeado en una sustancia desconocida!
 
-xeno-extract-reaction-fail = The extract bubbles! But nothing happened...
+xeno-extract-reaction-fail = ¡El extracto burbujea! Pero no pasa nada...
 
-xeno-extract-reaction-unreactive = [color=cyan]The extract feels dry to the touch. It's place is probably in the dumpster bin.[/color]
+xeno-extract-reaction-unreactive = [color=cyan]El extracto se siente seco al tacto. Su lugar probablemente sea en el cubo de basura.[/color]

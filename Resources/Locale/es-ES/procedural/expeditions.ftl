@@ -7,62 +7,62 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-salvage-expedition-type = Mission
-salvage-expedition-window-title = Salvage expeditions
-salvage-expedition-window-difficulty = Difficulty:
-salvage-expedition-window-details = Details:
+salvage-expedition-type = Misión
+salvage-expedition-window-title = Expediciones de salvamento
+salvage-expedition-window-difficulty = Dificultad:
+salvage-expedition-window-details = Detalles:
 salvage-expedition-window-hostiles = Hostiles:
-salvage-expedition-window-duration = Duration:
-salvage-expedition-window-biome = Biome:
-salvage-expedition-window-modifiers = Modifiers:
+salvage-expedition-window-duration = Duración:
+salvage-expedition-window-biome = Bioma:
+salvage-expedition-window-modifiers = Modificadores:
 
-offering-window-claimed = Claimed
-offering-window-claim = Claim
+offering-window-claimed = Reclamado
+offering-window-claim = Reclamar
 
-salvage-expedition-window-next = Next offer
+salvage-expedition-window-next = Próxima oferta
 
-salvage-expedition-difficulty-Moderate = Moderate
-salvage-expedition-difficulty-Hazardous = Hazardous
-salvage-expedition-difficulty-Extreme = Extreme
+salvage-expedition-difficulty-Moderate = Moderado
+salvage-expedition-difficulty-Hazardous = Peligroso
+salvage-expedition-difficulty-Extreme = Extremo
 
-salvage-expedition-difficulty-players = Recommended salvagers:
+salvage-expedition-difficulty-players = Rescatadores recomendados:
 
 # Runner
-salvage-expedition-not-all-present = Not all salvagers are aboard the shuttle!
+salvage-expedition-not-all-present = ¡No todos los rescatadores están a bordo del transbordador!
 
-salvage-expedition-announcement-countdown-minutes = {$duration} minutes remaining to complete the expedition.
-salvage-expedition-announcement-countdown-seconds = {$duration} seconds remaining to complete the expedition.
-salvage-expedition-announcement-dungeon = Dungeon is located {$direction}.
-salvage-expedition-completed = Expedition is completed.
-salvage-expedition-reward-description = Mission completion reward
+salvage-expedition-announcement-countdown-minutes = Quedan {$duration} minutos para completar la expedición.
+salvage-expedition-announcement-countdown-seconds = Quedan {$duration} segundos para completar la expedición.
+salvage-expedition-announcement-dungeon = La mazmorra se encuentra al {$direction}.
+salvage-expedition-completed = La expedición ha sido completada.
+salvage-expedition-reward-description = Recompensa por completar la misión
 
 # Salvage biome mod
-salvage-biome-mod-caves = Caves
-salvage-biome-mod-grasslands = Grasslands
-salvage-biome-mod-snow = Snow
+salvage-biome-mod-caves = Cuevas
+salvage-biome-mod-grasslands = Praderas
+salvage-biome-mod-snow = Nieve
 salvage-biome-mod-lava = Lava
 
 # Salvage mods
-salvage-light-mod-daylight = Daylight
-salvage-light-mod-evening = Evening
-salvage-light-mod-night = Night time
+salvage-light-mod-daylight = Luz del día
+salvage-light-mod-evening = Tarde
+salvage-light-mod-night = Noche
 
-salvage-temperature-mod-room-temperature = Room temperature
-salvage-temperature-mod-hot = Hot
-salvage-temperature-mod-high-temperature = High temperature
-salvage-temperature-mod-extreme-heat = Extreme heat
-salvage-temperature-mod-cold = Cold
-salvage-temperature-mod-low-temperature = Low temperature
-salvage-temperature-mod-extreme-cold = Extreme cold
+salvage-temperature-mod-room-temperature = Temperatura ambiente
+salvage-temperature-mod-hot = Caliente
+salvage-temperature-mod-high-temperature = Temperatura alta
+salvage-temperature-mod-extreme-heat = Calor extremo
+salvage-temperature-mod-cold = Frío
+salvage-temperature-mod-low-temperature = Temperatura baja
+salvage-temperature-mod-extreme-cold = Frío extremo
 
-salvage-air-mod-no-atmosphere = No atmosphere
-salvage-air-mod-breathable-atmosphere = Breathable atmosphere
-salvage-air-mod-dangerous-atmosphere = Dangerous atmosphere
-salvage-air-mod-toxic-atmosphere = Toxic atmosphere
-salvage-air-mod-volatile-atmosphere = Volatile atmosphere
+salvage-air-mod-no-atmosphere = Sin atmósfera
+salvage-air-mod-breathable-atmosphere = Atmósfera respirable
+salvage-air-mod-dangerous-atmosphere = Atmósfera peligrosa
+salvage-air-mod-toxic-atmosphere = Atmósfera tóxica
+salvage-air-mod-volatile-atmosphere = Atmósfera volátil
 
-salvage-dungeon-mod-lava-brig = Lava Brig
-salvage-dungeon-mod-snowy-labs = Snowy labs
-salvage-dungeon-mod-experiment = Experiment
-salvage-dungeon-mod-haunted = Haunted
-salvage-dungeon-mod-mineshaft = Mineshaft
+salvage-dungeon-mod-lava-brig = Calabozo de Lava
+salvage-dungeon-mod-snowy-labs = Laboratorios nevados
+salvage-dungeon-mod-experiment = Experimento
+salvage-dungeon-mod-haunted = Embrujado
+salvage-dungeon-mod-mineshaft = Pozo de mina

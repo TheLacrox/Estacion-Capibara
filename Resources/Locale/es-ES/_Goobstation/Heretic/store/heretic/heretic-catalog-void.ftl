@@ -22,93 +22,93 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-void-s1-name = Glimmer of Winter
+knowledge-path-void-s1-name = Destello del Invierno
 knowledge-path-void-s1-desc =
-    I feel a shimmer in the air, the air around me gets colder.
-    I start to realize the emptiness of existence. Something's watching me.
+    Siento un destello en el aire, el aire a mi alrededor se vuelve más frío.
+    Comienzo a darme cuenta del vacío de la existencia. Algo me está observando.
 
-    Opens up the Path of Void to you.
-    Allows you to transmute a knife in sub-zero temperatures into a Void Blade.
-    You can only create two at a time.
+    Te abre el Camino del Vacío.
+    Te permite transmutar un cuchillo en temperaturas bajo cero en una Hoja del Vacío.
+    Solo puedes crear dos a la vez.
 
-knowledge-path-void-s2-name = Grasp of Void
+knowledge-path-void-s2-name = Garra del Vacío
 knowledge-path-void-s2-desc =
-    I saw the cold watcher who observes me. The chill mounts within me.
-    They are quiet. This isn't the end of the mystery.
+    Vi al frío observador que me observa. El frío se acumula dentro de mí.
+    Están en silencio. Este no es el final del misterio.
 
-    Your Mansus Grasp will temporarily mute and chill the victim.
-    You become immune to cold temperatures.
+    Tu Garra del Mansus silenciará y enfriará temporalmente a la víctima.
+    Te vuelves inmune a las bajas temperaturas.
 
 
-knowledge-path-void-s3-name = Void Phase
+knowledge-path-void-s3-name = Fase del Vacío
 knowledge-path-void-s3-desc =
-    The entity calls themself the Aristocrat. They effortlessly walk through air like nothing - leaving a harsh, cold breeze in their wake.
-    They disappear, and I am left in the blizzard.
+    La entidad se llama a sí misma el Aristócrata. Caminan sin esfuerzo a través del aire como si nada - dejando una brisa fría y dura a su paso.
+    Desaparecen, y me quedo en la ventisca.
 
-    Grants you Void Phase, a long range targeted teleport spell.
-    Additionally causes damage to heathens around your original and target destination.
+    Te otorga Fase del Vacío, un hechizo de teletransportación dirigida de largo alcance.
+    Además causa daño a los infieles alrededor de tu posición original y destino objetivo.
 
-#knowledge-path-void-s3-name = Aristocrat's Way
+#knowledge-path-void-s3-name = El Camino del Aristócrata
 #knowledge-path-void-s3-desc =
-#    I found a thread of cold breath. It lead me to a strange shrine, all made of crystals.
-#    Translucent and white, a depiction of a nobleman stood before me.
+#    Encontré un hilo de aliento frío. Me llevó a un extraño santuario, todo hecho de cristales.
+#    Translúcido y blanco, una representación de un noble se erguía ante mí.
 #
-#    Grants you immunity to cold temperatures, and removes your need to breathe.
-#    You can still take damage due to a lack of pressure.
+#    Te otorga inmunidad a las bajas temperaturas, y elimina tu necesidad de respirar.
+#    Aún puedes sufrir daño por falta de presión.
 
-knowledge-path-void-s4-name = Mark of Void
+knowledge-path-void-s4-name = Marca del Vacío
 knowledge-path-void-s4-desc =
-    A gust of wind? A shimmer in the air? The presence is overwhelming, my senses began to betray me. My mind is my own enemy.
+    ¿Una ráfaga de viento? ¿Un destello en el aire? La presencia es abrumadora, mis sentidos comenzaron a traicionarme. Mi mente es mi propio enemigo.
 
-    Your Mansus Grasp now applies the Mark of Void. The mark is triggered from an attack with your Void Blade.
-    When triggered, gives the victim the Curse of Void, which will mute and slowly freeze them to death.
-    You no longer need to breathe/
+    Tu Garra del Mansus ahora aplica la Marca del Vacío. La marca se activa con un ataque de tu Hoja del Vacío.
+    Cuando se activa, da a la víctima la Maldición del Vacío, que la silenciará y la congelará lentamente hasta la muerte.
+    Ya no necesitas respirar/
 
-#knowledge-path-void-s5-name = Void Blast
+#knowledge-path-void-s5-name = Explosión del Vacío
 #knowledge-path-void-s5-desc =
-#    Every door I open racks my body. I am afraid of what is behind them. Someone is expecting me,
-#    and my legs start to drag. Is that... snow?
+#    Cada puerta que abro tortura mi cuerpo. Tengo miedo de lo que hay detrás de ellas. Alguien me está esperando,
+#    y mis piernas comienzan a arrastrarse. ¿Es eso... nieve?
 #
-#    Grants you Void Blast, a spell that shoots out a freezing blast in a cone in front of you,
-#    freezing the ground and cursing any victims within.
+#    Te otorga Explosión del Vacío, un hechizo que dispara una ráfaga congelante en un cono frente a ti,
+#    congelando el suelo y maldición a cualquier víctima dentro.
 
-knowledge-path-void-s5-name = Void Prison
+knowledge-path-void-s5-name = Prisión del Vacío
 knowledge-path-void-s5-desc =
-    At first, I see myself, waltzing along a snow-laden street.
-    I try to yell, grab hold of this fool and tell them to run.
-    But the only welts made are on my own beating fist.
-    My smiling face turns to regard me, reflecting back in glassy eyes the empty path I have been lead down.
+    Al principio, me veo a mí mismo, bailando por una calle nevada.
+    Intento gritar, agarrar a este tonto y decirles que corran.
+    Pero los únicos golpes que se producen son los de mi propio puño que golpea.
+    Mi cara sonriente se vuelve hacia mí, reflejando en ojos vítreos el camino vacío por el que me han llevado.
 
-    Grants you Void Prison, a spell that places your victim into a ball, making them unable to do anything or speak. Applies void chill afterwards.
+    Te otorga Prisión del Vacío, un hechizo que coloca a tu víctima en una bola, haciéndola incapaz de hacer nada o hablar. Aplica frío del vacío después.
 
-knowledge-path-void-s6-name = Void Pull
+knowledge-path-void-s6-name = Atracción del Vacío
 knowledge-path-void-s6-desc =
-    All is fleeting, but what else stays? I'm close to ending what was started.
-    The Aristocrat reveals themselves to me again. They tell me I am late. Their pull is immense, I cannot turn back.
+    Todo es efímero, ¿pero qué más permanece? Estoy cerca de terminar lo que se comenzó.
+    El Aristócrata se me revela de nuevo. Me dicen que llego tarde. Su atracción es inmensa, no puedo retroceder.
 
-    Grants you Void Pull, a spell that pulls all nearby heathens towards you, stunning them briefly.
+    Te otorga Atracción del Vacío, un hechizo que atrae a todos los infieles cercanos hacia ti, aturdièndolos brevemente.
 
-knowledge-path-void-s7-name = Seeking Blade
+knowledge-path-void-s7-name = Hoja Buscadora
 knowledge-path-void-s7-desc =
-    Fleeting memories, fleeting feet. I mark my way with frozen blood upon the snow. Covered and forgotten.
+    Recuerdos fugaces, pies fugaces. Marco mi camino con sangre congelada sobre la nieve. Cubierto y olvidado.
 
-    Your blade now freezes enemies. Additionally, you can now attack distant targets with your Void Blade, teleporting directly next to them.
+    Tu hoja ahora congela a los enemigos. Además, ahora puedes atacar objetivos distantes con tu Hoja del Vacío, teletransportándote directamente junto a ellos.
 
-knowledge-path-void-s8-name = Void Conduit
+knowledge-path-void-s8-name = Conducto del Vacío
 knowledge-path-void-s8-desc =
-    The hum in the still, cold air turns to a cacophonous rattle.
-    Over the noise, there is no distinction to the clattering of window panes and the yawning knowledge that ricochets through my skull.
-    The doors won't close. I can't keep the cold out now.
+    El zumbido en el aire quieto y frío se convierte en un estrépito cacofónico.
+    Por encima del ruido, no hay distinción entre el traqueteo de los cristales de las ventanas y el conocimiento bostezante que rebota por mi cráneo.
+    Las puertas no se cerrarán. Ya no puedo mantener el frío fuera.
 
-    Grants you Void Conduit, a spell which summons a pulsing gate to the Void itself. Every pulse breaks windows and airlocks, while afflicting Heathens with an eldritch chill and shielding Heretics against low pressure.
+    Te otorga Conducto del Vacío, un hechizo que invoca una puerta pulsante al propio Vacío. Cada pulso rompe ventanas y esclusas de aire, mientras aflige a los Infieles con un frío eldritch y protege a los Herejes contra la baja presión.
 
-knowledge-path-void-s9-name = Waltz at the End of Time
+knowledge-path-void-s9-name = Vals al Final del Tiempo
 knowledge-path-void-s9-desc =
-    The ascension ritual of the Path of Void.
-    Bring 3 corpses to a transmutation rune in sub-zero temperatures to complete the ritual.
-    When completed, grants you Aristocrat's Blessing.
-    A snowstorm is summoned, everything around you will be turned into snow and the air will constantly be frozen. Those nearby will be silenced and frozen even quicker.
-    Lights will shatter when nearby.
-    Lasers will pass through you and bullets will be slowed down at your presense and will avoid hitting you, the effect is greater if you are either walking or lying down.
-    Water, ice and slippery surfaces no slip you.
-    You will also become immune to flames, space, and similar environmental hazards. You gain total freedom of movement in zero-gravity.
+    El ritual de ascensión del Camino del Vacío.
+    Lleva 3 cadáveres a una runa de transmutación en temperaturas bajo cero para completar el ritual.
+    Cuando se complete, te otorga la Bendición del Aristócrata.
+    Se invoca una tormenta de nieve, todo a tu alrededor se convertirá en nieve y el aire estará constantemente congelado. Los que estén cerca serán silenciados y congelados aún más rápido.
+    Las luces se romperán cuando estén cerca.
+    Los láseres pasarán a través de ti y las balas serán ralentizadas en tu presencia y evitarán golpearte, el efecto es mayor si estás caminando o tumbado.
+    El agua, el hielo y las superficies resbaladizas ya no te harán resbalar.
+    También te volverás inmune a las llamas, el espacio y peligros ambientales similares. Ganas total libertad de movimiento en gravedad cero.

@@ -5,16 +5,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-custom-vote-webhook-name = Custom Vote Held
-custom-vote-webhook-footer = server: { $serverName }, round: { $roundId } { $runLevel }
-custom-vote-webhook-cancelled = **Vote cancelled**
-custom-vote-webhook-option-pending = TBD
+custom-vote-webhook-name = Votación personalizada celebrada
+custom-vote-webhook-footer = servidor: { $serverName }, ronda: { $roundId } { $runLevel }
+custom-vote-webhook-cancelled = **Votación cancelada**
+custom-vote-webhook-option-pending = Por determinar
 custom-vote-webhook-option-cancelled = N/A
 
-votekick-webhook-name = Votekick Held
-votekick-webhook-description = Initiator: { $initiator }; Target: { $target }
-votekick-webhook-cancelled-admin-online = **Vote cancelled due to admins online**
-votekick-webhook-cancelled-admin-target = **Vote cancelled due to target being admin**
-votekick-webhook-cancelled-antag-target = **Vote cancelled due to target being antag**
+votekick-webhook-name = Votación de expulsión celebrada
+votekick-webhook-description = Iniciador: { $initiator }; Objetivo: { $target }
+votekick-webhook-cancelled-admin-online = **Votación cancelada debido a administradores en línea**
+votekick-webhook-cancelled-admin-target = **Votación cancelada porque el objetivo es administrador**
+votekick-webhook-cancelled-antag-target = **Votación cancelada porque el objetivo es antagonista**
 
-votekick-ban-reason = "Votekick: {$reason}"
+votekick-ban-reason = "Expulsión por votación: {$reason}"

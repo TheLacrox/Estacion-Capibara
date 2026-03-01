@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tentacle-ability-use-popup = {CAPITALIZE(THE($entity))} digs its tentacles under the ground!
+tentacle-ability-use-popup = {CAPITALIZE(THE($entity))} entierra sus tentáculos bajo el suelo!

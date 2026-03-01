@@ -11,17 +11,17 @@ language-Bingle-description =
 chat-language-Bingle-name = Bingle
 
 chat-speech-verb-name-bingle = Bingle
-bingle-verb-1 = Croaks
-bingle-verb-2 = Mumbles
-bingle-verb-3 = Harks
-bingle-verb-4 = Grumbles
+bingle-verb-1 = Croa
+bingle-verb-2 = Murmura
+bingle-verb-3 = Proclama
+bingle-verb-4 = Rezonga
 
 bingle-station-announcement = Bingle Bingle Bingle
 
 ghost-role-information-bingle-name = Bingle
-ghost-role-information-bingle-description = The Pit is love. The Pit is life. The Pit must grow. Use +w to bing with other Bingles.
-ghost-role-information-bingle-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with other Bingles
+ghost-role-information-bingle-description = El Pozo es amor. El Pozo es vida. El Pozo debe crecer. Usa +w para hacer bing con otros Bingles.
+ghost-role-information-bingle-rules = Eres un [color=red][bold]Antagonista en Equipo[/bold][/color] junto con otros Bingles
 
-bingle-upgrade-success = You feel stronger
-bingle-pit-grow =  The pit grows larger
-bingle-pit-end-of-round = The Binglepit near {$location} grew to level [color=teal]{$level}[/color] and collected [color=teal]{$points}[/color] Bingle points
+bingle-upgrade-success = Te sientes más fuerte
+bingle-pit-grow = El pozo crece
+bingle-pit-end-of-round = El Pozo Bingle cerca de {$location} creció hasta el nivel [color=teal]{$level}[/color] y acumuló [color=teal]{$points}[/color] puntos Bingle

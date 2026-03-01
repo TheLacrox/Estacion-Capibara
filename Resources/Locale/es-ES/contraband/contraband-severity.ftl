@@ -8,20 +8,20 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-contraband-examine-text-Minor = [color=yellow]This item is considered minor contraband.[/color]
-contraband-examine-text-Restricted = [color=yellow]This item is departmentally restricted.[/color]
-contraband-examine-text-Restricted-department = [color=yellow]This item is restricted to {$departments}, and may be considered contraband.[/color]
-contraband-examine-text-Major = [color=red]This item is considered major contraband.[/color]
-contraband-examine-text-GrandTheft = [color=red]This item is a highly valuable target for Syndicate agents![/color]
-contraband-examine-text-Syndicate = [color=crimson]This item is highly illegal Syndicate contraband![/color]
-contraband-examine-text-Magical = [color=#b337b3]This item is highly illegal Magical contraband![/color]
-contraband-examine-text-Clown = [color=yellow]This item belongs to the clown, give it back before they get sad.[/color]
+contraband-examine-text-Minor = [color=yellow]Este objeto se considera contrabando menor.[/color]
+contraband-examine-text-Restricted = [color=yellow]Este objeto está restringido por departamento.[/color]
+contraband-examine-text-Restricted-department = [color=yellow]Este objeto está restringido a {$departments} y puede considerarse contrabando.[/color]
+contraband-examine-text-Major = [color=red]Este objeto se considera contrabando mayor.[/color]
+contraband-examine-text-GrandTheft = [color=red]¡Este objeto es un objetivo de gran valor para los agentes del Sindicato![/color]
+contraband-examine-text-Syndicate = [color=crimson]¡Este objeto es contrabando sindicalista altamente ilegal![/color]
+contraband-examine-text-Magical = [color=#b337b3]¡Este objeto es contrabando mágico altamente ilegal![/color]
+contraband-examine-text-Clown = [color=yellow]Este objeto le pertenece al payaso, devuélvelo antes de que se ponga triste.[/color]
 
-contraband-examine-text-avoid-carrying-around = [color=red][italic]You probably want to avoid visibly carrying this around without a good reason.[/italic][/color]
-contraband-examine-text-in-the-clear = [color=green][italic]You should be in the clear to visibly carry this around.[/italic][/color]
+contraband-examine-text-avoid-carrying-around = [color=red][italic]Probablemente quieras evitar llevarlo visiblemente sin una buena razón.[/italic][/color]
+contraband-examine-text-in-the-clear = [color=green][italic]Deberías poder llevarlo visiblemente sin problemas.[/italic][/color]
 
-contraband-examinable-verb-text = Legality
-contraband-examinable-verb-message = Check legality of this item.
+contraband-examinable-verb-text = Legalidad
+contraband-examinable-verb-message = Comprobar la legalidad de este objeto.
 
 contraband-department-plural = {$department}
 contraband-job-plural = {MAKEPLURAL($job)}

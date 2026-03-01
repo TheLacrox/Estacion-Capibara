@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-popup-cursed-heart-damage = Your heart doesn't beat!
-popup-cursed-heart-already-cursed = Your heart is already under this curse!
+popup-cursed-heart-damage = ¡Tu corazón no late!
+popup-cursed-heart-already-cursed = ¡Tu corazón ya está bajo esta maldición!

@@ -9,24 +9,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-sandbox-window-title = Sandbox Panel
+sandbox-window-title = Panel de sandbox
 
-sandbox-window-map-editing-label = Editing
-sandbox-window-visibility-label = Visibility
-sandbox-window-your-character-label = Your Character
+sandbox-window-map-editing-label = Edición
+sandbox-window-visibility-label = Visibilidad
+sandbox-window-your-character-label = Tu personaje
 
-sandbox-window-ai-overlay-button = AI Overlay
-sandbox-window-respawn-button = Respawn
-sandbox-window-spawn-entities-button = Spawn Entities
-sandbox-window-spawn-tiles-button = Spawn Tiles
-sandbox-window-spawn-decals-button = Spawn Decals
-sandbox-window-grant-full-access-button = Grant Full Access
-sandbox-window-ghost-button = Ghost
-sandbox-window-toggle-lights-button = Toggle Lights
-sandbox-window-toggle-fov-button = Toggle FOV
-sandbox-window-toggle-shadows-button = Toggle Shadows
-sandbox-window-toggle-subfloor-button = Toggle Subfloor
-sandbox-window-toggle-suicide-button = Suicide
-sandbox-window-show-spawns-button = Show Spawns
-sandbox-window-show-bb-button = Show BB
-sandbox-window-show-npc-button = Show NPC
+sandbox-window-ai-overlay-button = Superposición de IA
+sandbox-window-respawn-button = Reaparecer
+sandbox-window-spawn-entities-button = Generar entidades
+sandbox-window-spawn-tiles-button = Generar baldosas
+sandbox-window-spawn-decals-button = Generar calcomanías
+sandbox-window-grant-full-access-button = Otorgar acceso completo
+sandbox-window-ghost-button = Fantasma
+sandbox-window-toggle-lights-button = Alternar luces
+sandbox-window-toggle-fov-button = Alternar campo de visión
+sandbox-window-toggle-shadows-button = Alternar sombras
+sandbox-window-toggle-subfloor-button = Alternar subsuelo
+sandbox-window-toggle-suicide-button = Suicidio
+sandbox-window-show-spawns-button = Mostrar generadores
+sandbox-window-show-bb-button = Mostrar cajas de colisión
+sandbox-window-show-npc-button = Mostrar NPC

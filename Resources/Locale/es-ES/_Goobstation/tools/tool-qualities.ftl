@@ -4,11 +4,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tool-quality-axing-name = Axing
-tool-quality-axing-tool-name = Fireaxe
+tool-quality-axing-name = Hacha
+tool-quality-axing-tool-name = Hacha de bombero
 
-tool-quality-hammering-name = Hammering
-tool-quality-hammering-tool-name = Hammer
+tool-quality-hammering-name = Martillo
+tool-quality-hammering-tool-name = Martillo
 
-tool-quality-painting-name = Painting
-tool-quality-painting-tool-name = Spray Painter
+tool-quality-painting-name = Pintura
+tool-quality-painting-tool-name = Pistola de pintura

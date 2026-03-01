@@ -4,12 +4,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mail-large-item-name-unaddressed = package
-mail-large-item-name-addressed = package ({$recipient})
-mail-large-desc-far = A large package.
-mail-large-desc-close = A large package addressed to {CAPITALIZE($name)}, {$job}.
+mail-large-item-name-unaddressed = paquete
+mail-large-item-name-addressed = paquete ({$recipient})
+mail-large-desc-far = Un paquete grande.
+mail-large-desc-close = Un paquete grande dirigido a {CAPITALIZE($name)}, {$job}.
 
 ### Frontier: mailtestbulk
-command-mailtestbulk = Sends one of each type of parcel to a given mail teleporter.  Implicitly calls mailnow.
-command-mailtestbulk-help = Usage: {$command} <teleporter_id>
-command-mailtestbulk-success = Success! All mail teleporters will be delivering another round of mail soon.
+command-mailtestbulk = Envía uno de cada tipo de paquete a un teletransportador de correo específico. Llama implícitamente a mailnow.
+command-mailtestbulk-help = Uso: {$command} <teleporter_id>
+command-mailtestbulk-success = ¡Éxito! Todos los teletransportadores de correo entregarán pronto otra ronda de paquetes.

@@ -7,257 +7,257 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-VulpEar-vulp = Vulpkanin ears (base)
-marking-VulpEar-vulp-inner = Vulpkanin ears (inner)
+marking-VulpEar-vulp = Orejas de Vulpkanin (base)
+marking-VulpEar-vulp-inner = Orejas de Vulpkanin (interior)
 marking-VulpEar = Vulpkanin
 
-marking-VulpEarFade-vulp = Vulpkanin ears (base)
-marking-VulpEarFade-vulp-fade = Vulpkanin ears (fade)
-marking-VulpEarFade = Vulpkanin (fade)
+marking-VulpEarFade-vulp = Orejas de Vulpkanin (base)
+marking-VulpEarFade-vulp-fade = Orejas de Vulpkanin (degradado)
+marking-VulpEarFade = Vulpkanin (degradado)
 
-marking-VulpEarSharp-vulp = Vulpkanin ears (base)
-marking-VulpEarSharp-vulp-sharp = Vulpkanin ears (sharp)
-marking-VulpEarSharp = Vulpkanin (sharp)
+marking-VulpEarSharp-vulp = Orejas de Vulpkanin (base)
+marking-VulpEarSharp-vulp-sharp = Orejas de Vulpkanin (puntiagudas)
+marking-VulpEarSharp = Vulpkanin (puntiagudas)
 
-marking-VulpEarJackal-jackal = Jackal ears (base)
-marking-VulpEarJackal-jackal-inner = Jackal ears (inner)
-marking-VulpEarJackal = Vulpkanin Jackal
+marking-VulpEarJackal-jackal = Orejas de chacal (base)
+marking-VulpEarJackal-jackal-inner = Orejas de chacal (interior)
+marking-VulpEarJackal = Vulpkanin Chacal
 
-marking-VulpEarTerrier-terrier = Terrier ears (base)
-marking-VulpEarTerrier-terrier-inner = Terrier ears (inner)
+marking-VulpEarTerrier-terrier = Orejas de terrier (base)
+marking-VulpEarTerrier-terrier-inner = Orejas de terrier (interior)
 marking-VulpEarTerrier = Vulpkanin Terrier
 
-marking-VulpEarWolf-wolf = Wolf ears (base)
-marking-VulpEarWolf-wolf-inner = Wolf ears (inner)
-marking-VulpEarWolf = Vulpkanin Wolf
+marking-VulpEarWolf-wolf = Orejas de lobo (base)
+marking-VulpEarWolf-wolf-inner = Orejas de lobo (interior)
+marking-VulpEarWolf = Vulpkanin Lobo
 
-marking-VulpEarFennec-fennec = Fennec ears (base)
-marking-VulpEarFennec-fennec-inner = Fennec ears (inner)
+marking-VulpEarFennec-fennec = Orejas de fennec (base)
+marking-VulpEarFennec-fennec-inner = Orejas de fennec (interior)
 marking-VulpEarFennec = Vulpkanin Fennec
 
-marking-VulpEarFox-fox = Fox ears
-marking-VulpEarFox = Vulpkanin Fox
+marking-VulpEarFox-fox = Orejas de zorro
+marking-VulpEarFox = Vulpkanin Zorro
 
-marking-VulpEarOtie-otie = Otie ears (base)
-marking-VulpEarOtie-otie-inner = Otie ears (inner)
+marking-VulpEarOtie-otie = Orejas de Otie (base)
+marking-VulpEarOtie-otie-inner = Orejas de Otie (interior)
 marking-VulpEarOtie = Vulpkanin Otie
 
-marking-VulpEarTajaran-msai = Tajaran ears (base)
-marking-VulpEarTajaran-msai-inner = Tajaran ears (inner)
+marking-VulpEarTajaran-msai = Orejas de Tajaran (base)
+marking-VulpEarTajaran-msai-inner = Orejas de Tajaran (interior)
 marking-VulpEarTajaran = Vulpkanin Tajaran
 
-marking-VulpEarShock-shock = Shock ears
-marking-VulpEarShock = Vulpkanin Shock
+marking-VulpEarShock-shock = Orejas de choque
+marking-VulpEarShock = Vulpkanin Choque
 
-marking-VulpEarCoyote-coyote = Coyote ears
+marking-VulpEarCoyote-coyote = Orejas de coyote
 marking-VulpEarCoyote = Vulpkanin Coyote
 
-marking-VulpEarDalmatian-dalmatian = Dalmatian ears
-marking-VulpEarDalmatian = Vulpkanin Dalmatian
+marking-VulpEarDalmatian-dalmatian = Orejas de dálmata
+marking-VulpEarDalmatian = Vulpkanin Dálmata
 
 
-marking-VulpSnoutAlt-muzzle_alt = Muzzle
-marking-VulpSnoutAlt-nose = Nose
-marking-VulpSnoutAlt = Vulpkanin Muzzle 2
+marking-VulpSnoutAlt-muzzle_alt = Hocico
+marking-VulpSnoutAlt-nose = Nariz
+marking-VulpSnoutAlt = Hocico de Vulpkanin 2
 
-marking-VulpSnout-muzzle = Muzzle
-marking-VulpSnout-nose = Nose
-marking-VulpSnout = Vulpkanin Muzzle
+marking-VulpSnout-muzzle = Hocico
+marking-VulpSnout-nose = Nariz
+marking-VulpSnout = Hocico de Vulpkanin
 
-marking-VulpSnoutSharp-muzzle_sharp = Muzzle
-marking-VulpSnoutSharp-nose = Nose
-marking-VulpSnoutSharp = Vulpkanin Muzzle (sharp)
+marking-VulpSnoutSharp-muzzle_sharp = Hocico
+marking-VulpSnoutSharp-nose = Nariz
+marking-VulpSnoutSharp = Hocico de Vulpkanin (puntiagudo)
 
-marking-VulpSnoutFade-muzzle_fade = Muzzle
-marking-VulpSnoutFade-nose = Nose
-marking-VulpSnoutFade = Vulpkanin Muzzle (fade)
+marking-VulpSnoutFade-muzzle_fade = Hocico
+marking-VulpSnoutFade-nose = Nariz
+marking-VulpSnoutFade = Hocico de Vulpkanin (degradado)
 
-marking-VulpSnoutNose-nose = Nose
-marking-VulpSnoutNose = Vulpkanin Nose
+marking-VulpSnoutNose-nose = Nariz
+marking-VulpSnoutNose = Nariz de Vulpkanin
 
-marking-VulpSnoutMask-mask = Mask
-marking-VulpSnoutMask-nose = Nose
-marking-VulpSnoutMask = Vulpkanin Mask
+marking-VulpSnoutMask-mask = Máscara
+marking-VulpSnoutMask-nose = Nariz
+marking-VulpSnoutMask = Máscara de Vulpkanin
 
-marking-VulpSnoutVulpine-vulpine = Vulpine (base)
-marking-VulpSnoutVulpine-vulpine-lines = Vulpine (lines)
-marking-VulpSnoutVulpine = Vulpkanin Vulpine
+marking-VulpSnoutVulpine-vulpine = Vulpino (base)
+marking-VulpSnoutVulpine-vulpine-lines = Vulpino (líneas)
+marking-VulpSnoutVulpine = Vulpino de Vulpkanin
 
-marking-VulpSnoutSwift-vulpine-lines = Swift
-marking-VulpSnoutSwift = Vulpkanin Swift
+marking-VulpSnoutSwift-vulpine-lines = Veloz
+marking-VulpSnoutSwift = Veloz de Vulpkanin
 
-marking-VulpSnoutBlaze-blaze = Blaze
-marking-VulpSnoutBlaze = Vulpkanin Blaze
+marking-VulpSnoutBlaze-blaze = Rayo
+marking-VulpSnoutBlaze = Rayo de Vulpkanin
 
-marking-VulpSnoutPatch-patch = Patch
-marking-VulpSnoutPatch = Vulpkanin Patch
-
-
-marking-VulpHeadTiger-tiger_head = Tiger stripes
-marking-VulpHeadTiger = Vulpkanin Tiger stripes (head)
-
-marking-VulpHeadTigerFace-tiger_face = Tiger stripes
-marking-VulpHeadTigerFace = Vulpkanin Tiger stripes (face)
-
-marking-VulpHeadSlash-slash = Slash
-marking-VulpHeadSlash = Vulpkanin Slash
+marking-VulpSnoutPatch-patch = Parche
+marking-VulpSnoutPatch = Parche de Vulpkanin
 
 
-marking-VulpTail-vulp = Vulpkanin tail (base)
-marking-VulpTail-vulp-fade = Vulpkanin tail (fade)
+marking-VulpHeadTiger-tiger_head = Rayas de tigre
+marking-VulpHeadTiger = Rayas de tigre de Vulpkanin (cabeza)
+
+marking-VulpHeadTigerFace-tiger_face = Rayas de tigre
+marking-VulpHeadTigerFace = Rayas de tigre de Vulpkanin (cara)
+
+marking-VulpHeadSlash-slash = Corte
+marking-VulpHeadSlash = Corte de Vulpkanin
+
+
+marking-VulpTail-vulp = Cola de Vulpkanin (base)
+marking-VulpTail-vulp-fade = Cola de Vulpkanin (degradado)
 marking-VulpTail = Vulpkanin
 
-marking-VulpTailTip-vulp = Vulpkanin tail (base)
-marking-VulpTailTip-vulp-tip = Vulpkanin tail (tip)
-marking-VulpTailTip = Vulpkanin (tip)
+marking-VulpTailTip-vulp = Cola de Vulpkanin (base)
+marking-VulpTailTip-vulp-tip = Cola de Vulpkanin (punta)
+marking-VulpTailTip = Vulpkanin (punta)
 
-marking-VulpTailWag-vulp_wag = Vulpkanin tail (base)
-marking-VulpTailWag-vulp_wag-fade = Vulpkanin tail (fade)
-marking-VulpTailWag = Vulpkanin (wag)
+marking-VulpTailWag-vulp_wag = Cola de Vulpkanin (base)
+marking-VulpTailWag-vulp_wag-fade = Cola de Vulpkanin (degradado)
+marking-VulpTailWag = Vulpkanin (meneando)
 
-marking-VulpTailWagTip-vulp_wag = Vulpkanin tail (base)
-marking-VulpTailWagTip-vulp_wag-tip = Vulpkanin tail (tip)
-marking-VulpTailWagTip = Vulpkanin (wag, tip)
+marking-VulpTailWagTip-vulp_wag = Cola de Vulpkanin (base)
+marking-VulpTailWagTip-vulp_wag-tip = Cola de Vulpkanin (punta)
+marking-VulpTailWagTip = Vulpkanin (meneando, punta)
 
-marking-VulpTailAlt-vulp_alt = Vulpkanin tail (base)
-marking-VulpTailAlt-vulp_alt-fade = Vulpkanin tail (fade)
-marking-VulpTailAlt = Vulpkanin (alt)
+marking-VulpTailAlt-vulp_alt = Cola de Vulpkanin (base)
+marking-VulpTailAlt-vulp_alt-fade = Cola de Vulpkanin (degradado)
+marking-VulpTailAlt = Vulpkanin (alternativa)
 
-marking-VulpTailAltTip-vulp_alt = Vulpkanin tail (base)
-marking-VulpTailAltTip-vulp_alt-tip = Vulpkanin tail (tip)
-marking-VulpTailAltTip = Vulpkanin (alt, tip)
+marking-VulpTailAltTip-vulp_alt = Cola de Vulpkanin (base)
+marking-VulpTailAltTip-vulp_alt-tip = Cola de Vulpkanin (punta)
+marking-VulpTailAltTip = Vulpkanin (alternativa, punta)
 
-marking-VulpTailLong-long = Long tail (base)
-marking-VulpTailLong-long-tip = Long tail (tip)
-marking-VulpTailLong = Vulpkanin Long
+marking-VulpTailLong-long = Cola larga (base)
+marking-VulpTailLong-long-tip = Cola larga (punta)
+marking-VulpTailLong = Vulpkanin larga
 
-marking-VulpTailFox-fox = Fox tail (base)
-marking-VulpTailFox-fox-fade = Fox tail (fade)
-marking-VulpTailFox = Vulpkanin Fox
+marking-VulpTailFox-fox = Cola de zorro (base)
+marking-VulpTailFox-fox-fade = Cola de zorro (degradado)
+marking-VulpTailFox = Vulpkanin Zorro
 
-marking-VulpTailFoxTip-fox = Fox tail (base)
-marking-VulpTailFoxTip-fox-tip = Fox tail (fade)
-marking-VulpTailFoxTip = Vulpkanin Fox (tip)
+marking-VulpTailFoxTip-fox = Cola de zorro (base)
+marking-VulpTailFoxTip-fox-tip = Cola de zorro (degradado)
+marking-VulpTailFoxTip = Vulpkanin Zorro (punta)
 
-marking-VulpTailFoxWag-fox_wag = Fox tail (base)
-marking-VulpTailFoxWag-fox_wag-fade = Fox tail (fade)
-marking-VulpTailFoxWag = Vulpkanin Fox (wag)
+marking-VulpTailFoxWag-fox_wag = Cola de zorro (base)
+marking-VulpTailFoxWag-fox_wag-fade = Cola de zorro (degradado)
+marking-VulpTailFoxWag = Vulpkanin Zorro (meneando)
 
-marking-VulpTailFoxWagTip-fox_wag = Fox tail (base)
-marking-VulpTailFoxWagTip-fox_wag-tip = Fox tail (tip)
-marking-VulpTailFoxWagTip = Vulpkanin Fox (wag, tip)
+marking-VulpTailFoxWagTip-fox_wag = Cola de zorro (base)
+marking-VulpTailFoxWagTip-fox_wag-tip = Cola de zorro (punta)
+marking-VulpTailFoxWagTip = Vulpkanin Zorro (meneando, punta)
 
-marking-VulpTailBushy-bushfluff = Bush tail
-marking-VulpTailBushy = Vulpkanin Bush
+marking-VulpTailBushy-bushfluff = Cola arbustiva
+marking-VulpTailBushy = Vulpkanin arbustiva
 
-marking-VulpTailBushyWag-bushfluff_wag = Bush tail
-marking-VulpTailBushyWag = Vulpkanin Bush (wag)
+marking-VulpTailBushyWag-bushfluff_wag = Cola arbustiva
+marking-VulpTailBushyWag = Vulpkanin arbustiva (meneando)
 
-marking-VulpTailCoyote-coyote = Coyote tail
+marking-VulpTailCoyote-coyote = Cola de coyote
 marking-VulpTailCoyote = Vulpkanin Coyote
 
-marking-VulpTailCoyoteWag-coyote_wag = Coyote tail
-marking-VulpTailCoyoteWag = Vulpkanin Coyote (wag)
+marking-VulpTailCoyoteWag-coyote_wag = Cola de coyote
+marking-VulpTailCoyoteWag = Vulpkanin Coyote (meneando)
 
-marking-VulpTailCorgiWag-corgi_wag = Crogi tail
-marking-VulpTailCorgiWag = Vulpkanin Corgi (wag)
+marking-VulpTailCorgiWag-corgi_wag = Cola de corgi
+marking-VulpTailCorgiWag = Vulpkanin Corgi (meneando)
 
-marking-VulpTailHusky-husky-inner = Husky tail (inner)
-marking-VulpTailHusky-husky-outer = Husky tail (outer)
+marking-VulpTailHusky-husky-inner = Cola de husky (interior)
+marking-VulpTailHusky-husky-outer = Cola de husky (exterior)
 marking-VulpTailHusky = Vulpkanin Husky
 
-marking-VulpTailHuskyAlt-husky = Husky tail
-marking-VulpTailHuskyAlt = Vulpkanin Husky (alt)
+marking-VulpTailHuskyAlt-husky = Cola de husky
+marking-VulpTailHuskyAlt = Vulpkanin Husky (alternativa)
 
-marking-VulpTailFox2-fox2 = Fox tail
-marking-VulpTailFox2 = Vulpkanin Fox 2
+marking-VulpTailFox2-fox2 = Cola de zorro
+marking-VulpTailFox2 = Vulpkanin Zorro 2
 
-marking-VulpTailFox3-fox3 = Fox tail (base)
-marking-VulpTailFox3-fox3-tip = Fox tail (tip)
-marking-VulpTailFox3 = Vulpkanin Fox 3
+marking-VulpTailFox3-fox3 = Cola de zorro (base)
+marking-VulpTailFox3-fox3-tip = Cola de zorro (punta)
+marking-VulpTailFox3 = Vulpkanin Zorro 3
 
-marking-VulpTailFennec-fennec = Fennec tail
+marking-VulpTailFennec-fennec = Cola de fennec
 marking-VulpTailFennec = Vulpkanin Fennec
 
-marking-VulpTailOtie-otie = Otie tail
+marking-VulpTailOtie-otie = Cola de Otie
 marking-VulpTailOtie = Vulpkanin Otie
 
-marking-VulpTailFluffy-fluffy = Fluffy tail
-marking-VulpTailFluffy = Vulpkanin Fluffy
+marking-VulpTailFluffy-fluffy = Cola esponjosa
+marking-VulpTailFluffy = Vulpkanin esponjosa
 
-marking-VulpTailDalmatianWag-dalmatian_wag = Dalmatian tail
-marking-VulpTailDalmatianWag = Vulpkanin Dalmatian (wag)
-
-
-marking-VulpBellyCrest-belly_crest = Belly
-marking-VulpBellyCrest = Vulpkanin Belly Crest
-
-marking-VulpBellyFull-belly_full = Belly
-marking-VulpBellyFull = Vulpkanin Belly 1
-
-marking-VulpBellyFox-belly_fox = Belly
-marking-VulpBellyFox = Vulpkanin Belly 2
+marking-VulpTailDalmatianWag-dalmatian_wag = Cola de dálmata
+marking-VulpTailDalmatianWag = Vulpkanin Dálmata (meneando)
 
 
-marking-VulpBodyPointsCrest-points_crest = Points (crest)
-marking-VulpBodyPointsCrest = Vulpkanin Points (crest)
+marking-VulpBellyCrest-belly_crest = Vientre
+marking-VulpBellyCrest = Cresta abdominal de Vulpkanin
 
-marking-VulpBodyPointsFade-points_fade = Vulpkanin Points (fade)
-marking-VulpBodyPointsFade = Vulpkanin Points (fade)
+marking-VulpBellyFull-belly_full = Vientre
+marking-VulpBellyFull = Vientre de Vulpkanin 1
 
-marking-VulpBodyPointsSharp-points_sharp = Vulpkanin Points (sharp)
-marking-VulpBodyPointsSharp = Vulpkanin Points (sharp)
-
-
-marking-VulpPointsFeet-points_feet = Points Feet
-marking-VulpPointsFeet = Vulpkanin Points Feet
-
-marking-VulpPointsCrestLegs-points_crest-legs = Points (crest)
-marking-VulpPointsCrestLegs = Vulpkanin Points Legs (crest)
-
-marking-VulpPointsFadeLegs-points_fade-legs = Points (fade)
-marking-VulpPointsFadeLegs = Vulpkanin Points Legs (fade)
-
-marking-VulpPointsSharpLegs-points_sharp-legs = Points (sharp)
-marking-VulpPointsSharpLegs = Vulpkanin Points Legs (sharp)
+marking-VulpBellyFox-belly_fox = Vientre
+marking-VulpBellyFox = Vientre de Vulpkanin 2
 
 
-marking-VulpPointsHands-points_hands = Points Hands
-marking-VulpPointsHands = Vulpkanin Points Hands
+marking-VulpBodyPointsCrest-points_crest = Puntos (cresta)
+marking-VulpBodyPointsCrest = Puntos de Vulpkanin (cresta)
 
-marking-VulpPointsCrestArms-points_crest-arms = Points (crest)
-marking-VulpPointsCrestArms = Vulpkanin Points Arms (crest)
+marking-VulpBodyPointsFade-points_fade = Puntos de Vulpkanin (degradado)
+marking-VulpBodyPointsFade = Puntos de Vulpkanin (degradado)
 
-marking-VulpPointsFadeArms-points_fade-arms = Points (fade)
-marking-VulpPointsFadeArms = Vulpkanin Points Arms (fade)
+marking-VulpBodyPointsSharp-points_sharp = Puntos de Vulpkanin (puntiagudos)
+marking-VulpBodyPointsSharp = Puntos de Vulpkanin (puntiagudos)
 
-marking-VulpPointsSharpArms-points_sharp-arms = Points (sharp)
-marking-VulpPointsSharpArms = Vulpkanin Points Arms (sharp)
+
+marking-VulpPointsFeet-points_feet = Pies con puntos
+marking-VulpPointsFeet = Pies con puntos de Vulpkanin
+
+marking-VulpPointsCrestLegs-points_crest-legs = Puntos (cresta)
+marking-VulpPointsCrestLegs = Piernas con puntos de Vulpkanin (cresta)
+
+marking-VulpPointsFadeLegs-points_fade-legs = Puntos (degradado)
+marking-VulpPointsFadeLegs = Piernas con puntos de Vulpkanin (degradado)
+
+marking-VulpPointsSharpLegs-points_sharp-legs = Puntos (puntiagudos)
+marking-VulpPointsSharpLegs = Piernas con puntos de Vulpkanin (puntiagudos)
+
+
+marking-VulpPointsHands-points_hands = Manos con puntos
+marking-VulpPointsHands = Manos con puntos de Vulpkanin
+
+marking-VulpPointsCrestArms-points_crest-arms = Puntos (cresta)
+marking-VulpPointsCrestArms = Brazos con puntos de Vulpkanin (cresta)
+
+marking-VulpPointsFadeArms-points_fade-arms = Puntos (degradado)
+marking-VulpPointsFadeArms = Brazos con puntos de Vulpkanin (degradado)
+
+marking-VulpPointsSharpArms-points_sharp-arms = Puntos (puntiagudos)
+marking-VulpPointsSharpArms = Brazos con puntos de Vulpkanin (puntiagudos)
 
 
 marking-VulpHairAdhara = Adhara
 marking-VulpHairAnita = Anita
 marking-VulpHairApollo = Apollo
 marking-VulpHairBelle = Belle
-marking-VulpHairBraided = Braided Hair
-marking-VulpHairBun = Bun
-marking-VulpHairCleanCut = Clean Cut
-marking-VulpHairCurl = Curl
-marking-VulpHairHawk = Hawk
-marking-VulpHairJagged = Jagged
+marking-VulpHairBraided = Cabello trenzado
+marking-VulpHairBun = Moño
+marking-VulpHairCleanCut = Corte limpio
+marking-VulpHairCurl = Rizo
+marking-VulpHairHawk = Mohawk
+marking-VulpHairJagged = Irregular
 marking-VulpHairJeremy = Jeremy
 marking-VulpHairKajam = Kajam
 marking-VulpHairKeid = Keid
 marking-VulpHairKleeia = Kleeia
 marking-VulpHairMizar = Mizar
-marking-VulpHairPunkBraided = Punk Braided
+marking-VulpHairPunkBraided = Trenza punk
 marking-VulpHairRaine = Raine
-marking-VulpHairRough = Rough
-marking-VulpHairShort = Short Hair
-marking-VulpHairShort2 = Short Hair 2
-marking-VulpHairSpike = Spike
+marking-VulpHairRough = Despeinado
+marking-VulpHairShort = Cabello corto
+marking-VulpHairShort2 = Cabello corto 2
+marking-VulpHairSpike = Puntas
 
-marking-VulpFacialHairRuff = Ruff
-marking-VulpFacialHairElder = Elder
-marking-VulpFacialHairElderChin = Elder Chin
+marking-VulpFacialHairRuff = Pelaje cuello
+marking-VulpFacialHairElder = Anciano
+marking-VulpFacialHairElderChin = Barbilla anciana
 marking-VulpFacialHairKita = Kita

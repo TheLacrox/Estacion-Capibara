@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: MIT
 
 # APC
-construction-examine-condition-apc-open = First, screw open the APC.
-construction-examine-condition-apc-close = First, screw shut the APC.
-construction-step-condition-apc-open = The APC electronics panel must be screwed open.
-construction-step-condition-apc-close = The APC electronics panel must be screwed shut.
+construction-examine-condition-apc-open = Primero, abre el APC con un destornillador.
+construction-examine-condition-apc-close = Primero, cierra el APC con un destornillador.
+construction-step-condition-apc-open = El panel de electrónica del APC debe estar abierto con tornillos.
+construction-step-condition-apc-close = El panel de electrónica del APC debe estar cerrado con tornillos.

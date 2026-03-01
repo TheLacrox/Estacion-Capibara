@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # AirlockBolted
-construction-examine-condition-airlock-bolt = First, bolt the {$entityName}.
-construction-examine-condition-airlock-unbolt = First, unbolt the {$entityName}.
-construction-step-condition-airlock-bolt = It must be bolted.
-construction-step-condition-airlock-unbolt = It must be unbolted.
+construction-examine-condition-airlock-bolt = Primero, asegura {$entityName}.
+construction-examine-condition-airlock-unbolt = Primero, desasegura {$entityName}.
+construction-step-condition-airlock-bolt = Debe estar asegurado.
+construction-step-condition-airlock-unbolt = Debe estar desasegurado.

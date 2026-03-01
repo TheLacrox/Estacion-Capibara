@@ -1,130 +1,130 @@
 # Poggers examine system
 
-examine-name = It's [bold]{$name}[/bold]!
-examine-name-selfaware = It's you!
-examine-can-see = Looking at {OBJECT($ent)}, you can see:
-examine-can-see-nothing = {CAPITALIZE(SUBJECT($ent))}'s completely naked!
+examine-name = ¡Es [bold]{$name}[/bold]!
+examine-name-selfaware = ¡Eres tú!
+examine-can-see = Mirando a {OBJECT($ent)}, puedes ver:
+examine-can-see-nothing = ¡{CAPITALIZE(SUBJECT($ent))} está completamente desnudo/a!
 examine-border-line = ═════════════════════
-examine-present-tex = This is a [enttex id="{ $id }" size={ $size }] [bold]{$name}[/bold]!
-examine-present = This is a [bold]{$name}[/bold]!
+examine-present-tex = Esto es un [enttex id="{ $id }" size={ $size }] [bold]{$name}[/bold].
+examine-present = Esto es un [bold]{$name}[/bold].
 examine-present-line = ═══
 
 id-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} belt.
+} en {POSS-ADJ($ent)} cinturón.
 head-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} head.
+} en {POSS-ADJ($ent)} cabeza.
 eyes-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} eyes.
+} en {POSS-ADJ($ent)} ojos.
 mask-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} face.
+} en {POSS-ADJ($ent)} cara.
 neck-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} neck.
+} en {POSS-ADJ($ent)} cuello.
 ears-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} ears.
+} en {POSS-ADJ($ent)} orejas.
 jumpsuit-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} {SUBJECT($ent)} is wearing.
+} que {SUBJECT($ent)} lleva puesto.
 outer-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} body.
+} en {POSS-ADJ($ent)} cuerpo.
 suitstorage-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} shoulder.
+} en {POSS-ADJ($ent)} hombro.
 back-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} back.
+} en {POSS-ADJ($ent)} espalda.
 gloves-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} hands.
+} en {POSS-ADJ($ent)} manos.
 belt-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} belt.
+} en {POSS-ADJ($ent)} cinturón.
 shoes-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} feet.
+} en {POSS-ADJ($ent)} pies.
 
-id-card-examine-full = • {CAPITALIZE(POSS-ADJ($wearer))} ID: [bold]{$nameAndJob}[/bold].
+id-card-examine-full = • ID de {CAPITALIZE(POSS-ADJ($wearer))}: [bold]{$nameAndJob}[/bold].
 
 # Selfaware version
 
-examine-can-see-selfaware = Looking at yourself, you can see:
-examine-can-see-nothing-selfaware = You are completely naked!
+examine-can-see-selfaware = Mirándote a ti mismo, puedes ver:
+examine-can-see-nothing-selfaware = ¡Estás completamente desnudo/a!
 
-id-examine-selfaware = • Your { $id ->
+id-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your belt.
-head-examine-selfaware = • Your { $id ->
+} en tu cinturón.
+head-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your head.
-eyes-examine-selfaware = • Your { $id ->
+} en tu cabeza.
+eyes-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your eyes.
-mask-examine-selfaware = • Your { $id ->
+} en tus ojos.
+mask-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your face.
-neck-examine-selfaware = • Your { $id ->
+} en tu cara.
+neck-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your neck.
-ears-examine-selfaware = • Your { $id ->
+} en tu cuello.
+ears-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your ears.
-jumpsuit-examine-selfaware = • Your { $id ->
+} en tus orejas.
+jumpsuit-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} you are wearing.
-outer-examine-selfaware = • Your { $id ->
+} que llevas puesto.
+outer-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your body.
-suitstorage-examine-selfaware = • Your { $id ->
+} en tu cuerpo.
+suitstorage-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your shoulder.
-back-examine-selfaware = • Your { $id ->
+} en tu hombro.
+back-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your back.
-gloves-examine-selfaware = • Your { $id ->
+} en tu espalda.
+gloves-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your hands.
-belt-examine-selfaware = • Your { $id ->
+} en tus manos.
+belt-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your belt.
-shoes-examine-selfaware = • Your { $id ->
+} en tu cinturón.
+shoes-examine-selfaware = • Tu { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id="{ $id }" size={ $size }][bold]{$item}[/bold]
-} on your feet.
+} en tus pies.
 
 # Selfaware examine
 
-comp-hands-examine-empty-selfaware = You are not holding anything.
-comp-hands-examine-selfaware = You are holding { $items }.
+comp-hands-examine-empty-selfaware = No tienes nada en las manos.
+comp-hands-examine-selfaware = Tienes { $items }.
 
-humanoid-appearance-component-examine-selfaware = You are { INDEFINITE($age) } { $age } { $species }.
+humanoid-appearance-component-examine-selfaware = Eres { INDEFINITE($age) } { $age } { $species }.

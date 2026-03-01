@@ -10,20 +10,20 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-### Generic, general words, which fit into multiple contexts
+### Palabras genéricas y generales, que encajan en múltiples contextos
 
 generic-not-available-shorthand = N/A
-generic-article-a = a
-generic-article-an = an
+generic-article-a = un
+generic-article-an = una
 
-generic-unknown = unknown
-generic-unknown-title = Unknown
+generic-unknown = desconocido
+generic-unknown-title = Desconocido
 generic-error = error
-generic-invalid = invalid
+generic-invalid = inválido
 
-generic-hours = hours
-generic-minutes = minutes
+generic-hours = horas
+generic-minutes = minutos
 
-generic-playtime-title = Playtime
+generic-playtime-title = Tiempo de juego
 
-generic-confirm = Confirm
+generic-confirm = Confirmar

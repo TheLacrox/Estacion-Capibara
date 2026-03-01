@@ -7,11 +7,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-entity-storage-component-welded-shut-message = It's welded completely shut!
-entity-storage-component-locked-message = It's locked!
-entity-storage-component-already-contains-user-message = It's too cramped!
-entity-storage-component-cannot-open-no-space = There's no room to open it!
+entity-storage-component-welded-shut-message = ¡Está completamente soldado!
+entity-storage-component-locked-message = ¡Está cerrado con llave!
+entity-storage-component-already-contains-user-message = ¡Está muy apretado!
+entity-storage-component-cannot-open-no-space = ¡No hay espacio para abrirlo!
 
 ## OpenToggleVerb
 
-open-toggle-verb-welded-shut-message = {$verb} (welded shut)
+open-toggle-verb-welded-shut-message = {$verb} (soldado)

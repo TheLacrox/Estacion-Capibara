@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lathe-menu-mining-points = Mining Points: {$points}
-lathe-menu-mining-points-claim-button = Claim Points
+lathe-menu-mining-points = Puntos de Minería: {$points}
+lathe-menu-mining-points-claim-button = Reclamar Puntos

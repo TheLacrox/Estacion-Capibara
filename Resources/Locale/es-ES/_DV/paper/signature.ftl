@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-paper-sign-verb = Sign
-paper-signed-other = {CAPITALIZE(THE($user))} signs {THE($target)}.
-paper-signed-self = You sign {THE($target)}.
-paper-signed-failure = You cannot sign {THE($target)}
+paper-sign-verb = Firmar
+paper-signed-other = {CAPITALIZE(THE($user))} firma {THE($target)}.
+paper-signed-self = Firmas {THE($target)}.
+paper-signed-failure = No puedes firmar {THE($target)}

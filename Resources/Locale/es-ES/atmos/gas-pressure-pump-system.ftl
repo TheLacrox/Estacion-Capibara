@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Examine Text
-gas-pressure-pump-system-examined = The pump is set to [color={$statusColor}]{PRESSURE($pressure)}[/color].
+gas-pressure-pump-system-examined = La bomba está ajustada a [color={$statusColor}]{PRESSURE($pressure)}[/color].

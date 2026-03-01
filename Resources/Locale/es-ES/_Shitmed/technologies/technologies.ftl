@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-research-technology-advanced-treatment = Advanced Treatment
-research-technology-high-end-surgery = High End Surgical Tools
-research-technology-basic-cybernetics = Basic Cybernetic Enhancements
-research-technology-advanced-cybernetics = Advanced Cybernetic Enhancements
+research-technology-advanced-treatment = Tratamiento Avanzado
+research-technology-high-end-surgery = Herramientas Quirúrgicas de Alta Gama
+research-technology-basic-cybernetics = Mejoras Cibernéticas Básicas
+research-technology-advanced-cybernetics = Mejoras Cibernéticas Avanzadas

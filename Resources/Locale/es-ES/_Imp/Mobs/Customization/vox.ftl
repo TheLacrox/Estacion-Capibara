@@ -1,185 +1,185 @@
 # Chest
 
-marking-ScarsVoxClawTorso = Claw Scar
-marking-ScarsVoxClawTorso-claw = Claw Scar
+marking-ScarsVoxClawTorso = Cicatriz de Garra
+marking-ScarsVoxClawTorso-claw = Cicatriz de Garra
 
-marking-SpotsChest = Spotted Chest
-marking-SpotsChest-spots1 = Spots
-marking-SpotsChest-spots2 = Belly
+marking-SpotsChest = Pecho Moteado
+marking-SpotsChest-spots1 = Manchas
+marking-SpotsChest-spots2 = Vientre
 
-marking-VChest = Vee
-marking-VChest-v1 = Top
-marking-VChest-v2 = Middle
-marking-VChest-v3 = Bottom
+marking-VChest = Ve
+marking-VChest-v1 = Superior
+marking-VChest-v2 = Centro
+marking-VChest-v3 = Inferior
 
-marking-VoxBelly = Belly
-marking-VoxBelly-belly = Belly
+marking-VoxBelly = Vientre
+marking-VoxBelly-belly = Vientre
 
-marking-VoxChestPlumage = Chest Plumage
-marking-VoxChestPlumage-plumage = Chest Plumage
+marking-VoxChestPlumage = Plumaje de Pecho
+marking-VoxChestPlumage-plumage = Plumaje de Pecho
 
-marking-VoxScarIncision = Scar (Incision)
-marking-VoxScarIncision-scarincision = Scar (Incision)
+marking-VoxScarIncision = Cicatriz (Incisión)
+marking-VoxScarIncision-scarincision = Cicatriz (Incisión)
 
-marking-VoxScarMangled = Scar (Mangled)
-marking-VoxScarMangled-scarmangled = Scar (Mangled)
+marking-VoxScarMangled = Cicatriz (Destrozada)
+marking-VoxScarMangled-scarmangled = Cicatriz (Destrozada)
 
-marking-VoxScarSpinal = Scar (Spinal)
-marking-VoxScarSpinal-scarspinal = Scar (Spinal)
+marking-VoxScarSpinal = Cicatriz (Espinal)
+marking-VoxScarSpinal-scarspinal = Cicatriz (Espinal)
 
-marking-VoxTailSingleStripe = Single Tail Stripe
-marking-VoxTailSingleStripe-tailsinglestripe = Single Tail Stripe
+marking-VoxTailSingleStripe = Raya Simple de Cola
+marking-VoxTailSingleStripe-tailsinglestripe = Raya Simple de Cola
 
-marking-VoxTailStripes = Tail Stripes
-marking-VoxTailStripes-tailstripes = Tail Stripes
+marking-VoxTailStripes = Rayas de Cola
+marking-VoxTailStripes-tailstripes = Rayas de Cola
 
 # Head
 
-marking-ScarsVoxBigslashLeftHead = Big Slash (Left)
-marking-ScarsVoxBigslashLeftHead-bigslashleft = Big Slash (Left)
+marking-ScarsVoxBigslashLeftHead = Tajo Grande (Izquierdo)
+marking-ScarsVoxBigslashLeftHead-bigslashleft = Tajo Grande (Izquierdo)
 
-marking-ScarsVoxBigslashRightHead = Big Slash (Right)
-marking-ScarsVoxBigslashRightHead-roadrashright = Big Slash (Right)
+marking-ScarsVoxBigslashRightHead = Tajo Grande (Derecho)
+marking-ScarsVoxBigslashRightHead-roadrashright = Tajo Grande (Derecho)
 
-marking-ScarsVoxRoadrashLeftHead = Road Rash (Left)
-marking-ScarsVoxRoadrashLeftHead-roadrashleft = Road Rash (Left)
+marking-ScarsVoxRoadrashLeftHead = Raspadura (Izquierda)
+marking-ScarsVoxRoadrashLeftHead-roadrashleft = Raspadura (Izquierda)
 
-marking-ScarsVoxRoadrashRightHead = Road Rash (Right)
-marking-ScarsVoxRoadrashRightHead-roadrashright = Road Rash (Right)
+marking-ScarsVoxRoadrashRightHead = Raspadura (Derecha)
+marking-ScarsVoxRoadrashRightHead-roadrashright = Raspadura (Derecha)
 
-marking-ScarsVoxSlashLeftHead = Slash (Left)
-marking-ScarsVoxSlashLeftHead-slashleft = Slash (Left)
+marking-ScarsVoxSlashLeftHead = Tajo (Izquierdo)
+marking-ScarsVoxSlashLeftHead-slashleft = Tajo (Izquierdo)
 
-marking-ScarsVoxSlashRightHead = Slash (Right)
-marking-ScarsVoxSlashRightHead-slashright = Slash (Right)
+marking-ScarsVoxSlashRightHead = Tajo (Derecho)
+marking-ScarsVoxSlashRightHead-slashright = Tajo (Derecho)
 
-marking-VoxCheeks = Cheeks
-marking-VoxCheeks-cheeks = Cheeks
+marking-VoxCheeks = Mejillas
+marking-VoxCheeks-cheeks = Mejillas
 
-marking-VoxEarhole = Tympanic Membrane
-marking-VoxEarhole-earhole = Tympanic Membrane
+marking-VoxEarhole = Membrana Timpánica
+marking-VoxEarhole-earhole = Membrana Timpánica
 
-marking-VoxHeadGradient = Gradient
-marking-VoxHeadGradient-gradient1 = Front
-marking-VoxHeadGradient-gradient2 = Middle
-marking-VoxHeadGradient-gradient3 = Back
+marking-VoxHeadGradient = Degradado
+marking-VoxHeadGradient-gradient1 = Frente
+marking-VoxHeadGradient-gradient2 = Centro
+marking-VoxHeadGradient-gradient3 = Parte Trasera
 
-marking-VoxNeckband = Neckband
-marking-VoxNeckband-neckband = Neckband
+marking-VoxNeckband = Banda de Cuello
+marking-VoxNeckband-neckband = Banda de Cuello
 
-marking-VoxScarBlasted = Scar (Blasted)
-marking-VoxScarBlasted-scarheadblasted = Scar (Blasted)
+marking-VoxScarBlasted = Cicatriz (Chamuscada)
+marking-VoxScarBlasted-scarheadblasted = Cicatriz (Chamuscada)
 
 # Snout
 
-marking-VoxBeakColor = Colorable Beak
-marking-VoxBeakColor-color = Colorable Beak
+marking-VoxBeakColor = Pico Coloreable
+marking-VoxBeakColor-color = Pico Coloreable
 
-marking-VoxBeakSplit = Split Color Beak
-marking-VoxBeakSplit-split1 = Top
-marking-VoxBeakSplit-split2 = Bottom
+marking-VoxBeakSplit = Pico de Dos Colores
+marking-VoxBeakSplit-split1 = Superior
+marking-VoxBeakSplit-split2 = Inferior
 
-marking-VoxBeakTipped = Tipped Beak
-marking-VoxBeakTipped-tipped = Tipped Beak
+marking-VoxBeakTipped = Pico con Punta
+marking-VoxBeakTipped-tipped = Pico con Punta
 
-marking-VoxBeak = Default Beak
+marking-VoxBeak = Pico Predeterminado
 
 # Eyes
 
 # RArm
 
-marking-SpotsArmR = Spotted Arm Right
-marking-SpotsArmR-spots = Spotted Arm Right
+marking-SpotsArmR = Brazo Derecho Moteado
+marking-SpotsArmR-spots = Brazo Derecho Moteado
 
-marking-VoxArmsStripesRHand = Stripes (Right Arm)
-marking-VoxArmsStripesRHand-stripes = Stripes (Right Arm)
+marking-VoxArmsStripesRHand = Rayas (Brazo Derecho)
+marking-VoxArmsStripesRHand-stripes = Rayas (Brazo Derecho)
 
-marking-VoxRArmScales = Arm Scales Right
+marking-VoxRArmScales = Escamas de Brazo Derecho
 
 # LArm
 
-marking-SpotsArmL = Spotted Arm Left
-marking-SpotsArmL-spots = Spotted Arm Left
+marking-SpotsArmL = Brazo Izquierdo Moteado
+marking-SpotsArmL-spots = Brazo Izquierdo Moteado
 
-marking-VoxArmsStripesLHand = Stripes (Left Arm)
-marking-VoxArmsStripesLHand-stripes = Stripes (Left Arm)
+marking-VoxArmsStripesLHand = Rayas (Brazo Izquierdo)
+marking-VoxArmsStripesLHand-stripes = Rayas (Brazo Izquierdo)
 
-marking-VoxLArmScales = Arm Scales Left
+marking-VoxLArmScales = Escamas de Brazo Izquierdo
 
 # RLeg
 
-marking-FeatheredLegR = Feathered Leg Right
-marking-FeatheredLegR-feathered = Feathered Leg Right
+marking-FeatheredLegR = Pierna Derecha Emplumada
+marking-FeatheredLegR-feathered = Pierna Derecha Emplumada
 
-marking-VoxLegGradientRLeg = Solid (Right Leg)
-marking-VoxLegGradientRLeg-gradient = Solid (Right Leg)
+marking-VoxLegGradientRLeg = Sólido (Pierna Derecha)
+marking-VoxLegGradientRLeg-gradient = Sólido (Pierna Derecha)
 
-marking-VoxLegsStripesRLeg = Stripes (Right)
-marking-VoxLegsStripesRLeg-stripes = Stripes (Right)
+marking-VoxLegsStripesRLeg = Rayas (Derecha)
+marking-VoxLegsStripesRLeg-stripes = Rayas (Derecha)
 
-marking-VoxRLegScales = Leg Scales Right
+marking-VoxRLegScales = Escamas de Pierna Derecha
 
 # LLeg
 
-marking-FeatheredLegL = Feathered Leg Left
-marking-FeatheredLegL-feathered = Feathered Leg Left
+marking-FeatheredLegL = Pierna Izquierda Emplumada
+marking-FeatheredLegL-feathered = Pierna Izquierda Emplumada
 
-marking-VoxLegGradientLLeg = Solid (Left Leg)
-marking-VoxLegGradientLLeg-gradient = Solid (Left Leg)
+marking-VoxLegGradientLLeg = Sólido (Pierna Izquierda)
+marking-VoxLegGradientLLeg-gradient = Sólido (Pierna Izquierda)
 
-marking-VoxLegsStripesLLeg = Stripes (Left)
-marking-VoxLegsStripesLLeg-stripes = Stripes (Left)
+marking-VoxLegsStripesLLeg = Rayas (Izquierda)
+marking-VoxLegsStripesLLeg-stripes = Rayas (Izquierda)
 
-marking-VoxLLegScales = Leg Scales Left
+marking-VoxLLegScales = Escamas de Pierna Izquierda
 
 # LFoot
 
-marking-VoxFootGradientLFoot = Solid (Left Foot)
-marking-VoxFootGradientLFoot-gradient = Solid (Left Foot)
+marking-VoxFootGradientLFoot = Sólido (Pie Izquierdo)
+marking-VoxFootGradientLFoot-gradient = Sólido (Pie Izquierdo)
 
-marking-VoxLFootScales = Foot Scales Left
+marking-VoxLFootScales = Escamas de Pie Izquierdo
 
 # RFoot
 
-marking-VoxFootGradientRFoot = Solid (Right Foot)
-marking-VoxFootGradientRFoot-gradient = Solid (Right Foot)
+marking-VoxFootGradientRFoot = Sólido (Pie Derecho)
+marking-VoxFootGradientRFoot-gradient = Sólido (Pie Derecho)
 
-marking-VoxRFootScales = Foot Scales Right
+marking-VoxRFootScales = Escamas de Pie Derecho
 
 # LHand
 
-marking-VoxHandGradientLHand = Gradient (Left Hand)
-marking-VoxHandGradientLHand-gradient1 = Bottom
-marking-VoxHandGradientLHand-gradient2 = Middle
-marking-VoxHandGradientLHand-gradient3 = Top
+marking-VoxHandGradientLHand = Degradado (Mano Izquierda)
+marking-VoxHandGradientLHand-gradient1 = Inferior
+marking-VoxHandGradientLHand-gradient2 = Centro
+marking-VoxHandGradientLHand-gradient3 = Superior
 
-marking-VoxLArmProsthetic = Prosthetic (Left)
-marking-VoxLArmProsthetic-prosthetic = Prosthetic (Left)
+marking-VoxLArmProsthetic = Prótesis (Izquierda)
+marking-VoxLArmProsthetic-prosthetic = Prótesis (Izquierda)
 
-marking-VoxLHandScales = Hand Scales Left
+marking-VoxLHandScales = Escamas de Mano Izquierda
 
 # RHand
 
-marking-VoxHandGradientRHand = Gradient (Right Hand)
-marking-VoxHandGradientRHand-gradient1 = Bottom
-marking-VoxHandGradientRHand-gradient2 = Middle
-marking-VoxHandGradientRHand-gradient3 = Top
+marking-VoxHandGradientRHand = Degradado (Mano Derecha)
+marking-VoxHandGradientRHand-gradient1 = Inferior
+marking-VoxHandGradientRHand-gradient2 = Centro
+marking-VoxHandGradientRHand-gradient3 = Superior
 
-marking-VoxRArmProsthetic = Prosthetic (Right)
-marking-VoxRArmProsthetic-prosthetic = Prosthetic (Right)
+marking-VoxRArmProsthetic = Prótesis (Derecha)
+marking-VoxRArmProsthetic-prosthetic = Prótesis (Derecha)
 
-marking-VoxRHandScales = Hand Scales Right
+marking-VoxRHandScales = Escamas de Mano Derecha
 
 # FacialHair
 
 marking-BeardPadovana = Padovana
 marking-BeardPadovana-padovana = Padovana
 
-marking-LargeWattle = Wattle (Large)
-marking-LargeWattle-largewattle = Wattle (Large)
+marking-LargeWattle = Papada (Grande)
+marking-LargeWattle-largewattle = Papada (Grande)
 
-marking-SmallWattle = Wattle (Small)
-marking-SmallWattle-smallwattle = Wattle (Small)
+marking-SmallWattle = Papada (Pequeña)
+marking-SmallWattle-smallwattle = Papada (Pequeña)
 
 # Hair
 
@@ -189,20 +189,20 @@ marking-HairPadovana-padovana = Padovana
 marking-HijabSimpleVox = Hijab (Simple)
 marking-HijabSimpleVox-hijabsimple = Hijab (Simple)
 
-marking-HijabFashionableVox = Hijab (Fashionable)
-marking-HijabFashionableVox-hijabchic = Hijab (Fashionable)
+marking-HijabFashionableVox = Hijab (De Moda)
+marking-HijabFashionableVox-hijabchic = Hijab (De Moda)
 
-marking-LargeComb = Comb (Large)
-marking-LargeComb-largecomb = Comb (Large)
+marking-LargeComb = Cresta (Grande)
+marking-LargeComb-largecomb = Cresta (Grande)
 
 marking-TichelSimpleVox = Tichel (Simple)
 marking-TichelSimpleVox-tichelsimple = Tichel (Simple)
 
-marking-TichelFashionableVox = Tichel (Fashionable)
-marking-TichelFashionableVox-tichelfashionable = Tichel (Fashionable)
+marking-TichelFashionableVox = Tichel (De Moda)
+marking-TichelFashionableVox-tichelfashionable = Tichel (De Moda)
 
-marking-VoxBald = Balding
-marking-VoxBald-balding = Balding
+marking-VoxBald = Calvo
+marking-VoxBald-balding = Calvo
 
 marking-VoxEmover = Emover
 marking-VoxEmover-hairemover = Emover
@@ -210,85 +210,85 @@ marking-VoxEmover-hairemover = Emover
 marking-VoxPolish = Polish
 marking-VoxPolish-hairpolish = Polish
 
-marking-VoxWindswept = Windswept
-marking-VoxWindswept-hairwindswept = Windswept
+marking-VoxWindswept = Despeinado por el Viento
+marking-VoxWindswept-hairwindswept = Despeinado por el Viento
 
 # HeadSide
 
-marking-SideQuills = Quills
-marking-SideQuills-quills1 = Top and bottom
-marking-SideQuills-quills2 = Middle top
-marking-SideQuills-quills3 = Middle bottom
+marking-SideQuills = Púas
+marking-SideQuills-quills1 = Superior e Inferior
+marking-SideQuills-quills2 = Centro Superior
+marking-SideQuills-quills3 = Centro Inferior
 
-marking-VoxStreamers = Streamers
-marking-VoxStreamers-streamers1 = Quill
+marking-VoxStreamers = Plumas Decorativas
+marking-VoxStreamers-streamers1 = Pluma
 marking-VoxStreamers-streamers2 = Flue
-marking-VoxStreamers-streamers3 = Eye
+marking-VoxStreamers-streamers3 = Ojo
 
 # HeadTop
 
 # Tail
 
-marking-FriendsOfAFeather = Feather of a Friend
-marking-FriendsOfAFeather-friendsfeather1 = Feather
-marking-FriendsOfAFeather-friendsfeather2 = Feather
+marking-FriendsOfAFeather = Pluma de un Amigo
+marking-FriendsOfAFeather-friendsfeather1 = Pluma
+marking-FriendsOfAFeather-friendsfeather2 = Pluma
 
-marking-SpotsTail = Spotted Tail
-marking-SpotsTail-spots= Spotted Tail
+marking-SpotsTail = Cola Moteada
+marking-SpotsTail-spots= Cola Moteada
 
-marking-TailBloom = Bloom
-marking-TailBloom-bloom1 = Flower
-marking-TailBloom-bloom2 = Flower
-marking-TailBloom-bloom3 = Bush
+marking-TailBloom = Florecimiento
+marking-TailBloom-bloom1 = Flor
+marking-TailBloom-bloom2 = Flor
+marking-TailBloom-bloom3 = Arbusto
 
-marking-VoxChains = Chains
-marking-VoxChains-chains = Chains
+marking-VoxChains = Cadenas
+marking-VoxChains-chains = Cadenas
 
 marking-VoxCocktail = Cocktail
-marking-VoxCocktail-cocktail1 = Feathers
-marking-VoxCocktail-cocktail2 = Feathers
-marking-VoxCocktail-cocktail3 = Feathers
-marking-VoxCocktail-cocktail4 = Tail
+marking-VoxCocktail-cocktail1 = Plumas
+marking-VoxCocktail-cocktail2 = Plumas
+marking-VoxCocktail-cocktail3 = Plumas
+marking-VoxCocktail-cocktail4 = Cola
 
-marking-VoxFootSpines = Leg Spines
-marking-VoxFootSpines-footspines = Leg Spines
+marking-VoxFootSpines = Espinas de Pierna
+marking-VoxFootSpines-footspines = Espinas de Pierna
 
-marking-VoxTailBack = Back Tail
-marking-VoxBackTail-colorable = Back Tail
+marking-VoxTailBack = Cola Trasera
+marking-VoxBackTail-colorable = Cola Trasera
 
-marking-VoxTailBalled = Thrasher
-marking-VoxTailBalled-balled = Thrasher
+marking-VoxTailBalled = Agitadora
+marking-VoxTailBalled-balled = Agitadora
 
-marking-VoxTailBell = Bell
-marking-VoxTailBell-bell1 = Bell
-marking-VoxTailBell-bell2 = Back Tail
+marking-VoxTailBell = Campana
+marking-VoxTailBell-bell1 = Campana
+marking-VoxTailBell-bell2 = Cola Trasera
 
-marking-VoxTailLantern = Lantern
-marking-VoxTailLantern-lantern = Lantern
+marking-VoxTailLantern = Linterna
+marking-VoxTailLantern-lantern = Linterna
 
-marking-VoxTailNub = Nub
-marking-VoxTailNub-nub1 = Tail
-marking-VoxTailNub-nub2 = Scar
+marking-VoxTailNub = Muñón
+marking-VoxTailNub-nub1 = Cola
+marking-VoxTailNub-nub2 = Cicatriz
 
 marking-VoxTailRaptor = Raptor
-marking-VoxTailRaptor-raptor = Tail
+marking-VoxTailRaptor-raptor = Cola
 
-marking-VoxTailShort1 = Short Down
-marking-VoxTailShort1-short = Tail
+marking-VoxTailShort1 = Corta Hacia Abajo
+marking-VoxTailShort1-short = Cola
 
-marking-VoxTailShort2 = Short Up
-marking-VoxTailShort2-short2 = Tail
+marking-VoxTailShort2 = Corta Hacia Arriba
+marking-VoxTailShort2-short2 = Cola
 
-marking-VoxTailSmallPlume = Small Plume
-marking-VoxTailSmallPlume-smallplume = Small Plume
+marking-VoxTailSmallPlume = Plumaje Pequeño
+marking-VoxTailSmallPlume-smallplume = Plumaje Pequeño
 
-marking-VoxTailSpines = Tail Spines
-marking-VoxTailSpines-spines = Tail Spines
+marking-VoxTailSpines = Espinas de Cola
+marking-VoxTailSpines-spines = Espinas de Cola
 
-marking-VoxTailSplit = Twinned
-marking-VoxTailSplit-split = Twinned
+marking-VoxTailSplit = Bifurcada
+marking-VoxTailSplit-split = Bifurcada
 
-marking-VoxSunAndMoon = Sun and Moon
-marking-VoxSunAndMoon-sunandmoon = Sun and Moon
+marking-VoxSunAndMoon = Sol y Luna
+marking-VoxSunAndMoon-sunandmoon = Sol y Luna
 
 # RArmExtension

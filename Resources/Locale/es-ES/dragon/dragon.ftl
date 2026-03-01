@@ -6,8 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-dragon-round-end-agent-name = dragon
+dragon-round-end-agent-name = dragón
 
-objective-issuer-dragon = [color=#7567b6]Space Dragon[/color]
+objective-issuer-dragon = [color=#7567b6]Dragón espacial[/color]
 
-dragon-role-briefing = Summon 3 carp rifts and take over this quadrant! The station is located {$direction}.
+dragon-role-briefing = ¡Convoca 3 fisuras de carpa y toma el control de este cuadrante! La estación está ubicada en la dirección {$direction}.

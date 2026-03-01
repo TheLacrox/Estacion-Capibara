@@ -11,24 +11,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-### Connecting dialog when you start up the game
+### Diálogo de conexión cuando inicias el juego
 
 connecting-title = Hispania Station 14
-connecting-exit = Exit
-connecting-retry = Retry
-connecting-reconnect = Reconnect
-connecting-copy = Copy Message
-connecting-redial = Relaunch
-connecting-redial-wait = Please wait: { TOSTRING($time, "G3") }
-connecting-in-progress = Connecting to server...
-connecting-disconnected = Disconnected from server:
-connecting-tip = Don't die!
-connecting-window-tip = Tip { $numberTip }
+connecting-exit = Salir
+connecting-retry = Reintentar
+connecting-reconnect = Reconectar
+connecting-copy = Copiar mensaje
+connecting-redial = Relanzar
+connecting-redial-wait = Por favor espera: { TOSTRING($time, "G3") }
+connecting-in-progress = Conectando al servidor...
+connecting-disconnected = Desconectado del servidor:
+connecting-tip = ¡No mueras!
+connecting-window-tip = Consejo { $numberTip }
 connecting-version = ver 0.1
-connecting-fail-reason = Failed to connect to server:
+connecting-fail-reason = Error al conectar al servidor:
                          { $reason }
-connecting-state-NotConnecting = Not connecting
-connecting-state-ResolvingHost = Resolving host
-connecting-state-EstablishingConnection = Establishing connection
-connecting-state-Handshake = Handshake
-connecting-state-Connected = Connected
+connecting-state-NotConnecting = No conectando
+connecting-state-ResolvingHost = Resolviendo host
+connecting-state-EstablishingConnection = Estableciendo conexión
+connecting-state-Handshake = Protocolo de enlace
+connecting-state-Connected = Conectado

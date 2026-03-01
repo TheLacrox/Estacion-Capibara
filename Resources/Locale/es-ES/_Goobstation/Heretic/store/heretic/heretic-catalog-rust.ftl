@@ -22,75 +22,75 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-rust-s1-name = Blacksmith's Tale
+knowledge-path-rust-s1-name = El Cuento del Herrero
 knowledge-path-rust-s1-desc =
-    "Let me tell you a story", said the Blacksmith, as he gazed deep into his rusty blade.
+    "Déjame contarte una historia", dijo el Herrero, mientras miraba profundamente su oxidada hoja.
 
-    Opens up the Path of Rust to you.
-    Allows you to transmute a knife with any trash item into a Rusty Blade.
-    You can only create two at a time.
+    Te abre el Camino del Óxido.
+    Te permite transmutar un cuchillo con cualquier objeto de basura en una Hoja Oxidada.
+    Solo puedes crear dos a la vez.
 
-knowledge-path-rust-s2-name = Grasp of Rust
+knowledge-path-rust-s2-name = Garra del Óxido
 knowledge-path-rust-s2-desc =
-    On the ceiling of the Mansus, rust grows as moss does on a stone.
+    En el techo del Mansus, el óxido crece como el musgo en una piedra.
 
-    Your Mansus Grasp will deal massive damage to non-living matter and rust any surface it touches.
-    Already rusted surfaces are destroyed.
-    Standing on Rusted tiles heals, purges chems off your body and grants you resistance to batons.
-    Allows you to rust basic iron walls and floors.
-    Gives you immunity to disgust.
+    Tu Garra del Mansus infligirá un daño masivo a la materia no viva y oxidará cualquier superficie que toque.
+    Las superficies ya oxidadas son destruidas.
+    Pararse sobre casillas oxidadas cura, purga químicos de tu cuerpo y te otorga resistencia a las porras.
+    Te permite oxidar paredes y suelos básicos de hierro.
+    Te da inmunidad al asco.
 
-knowledge-path-rust-s3-name = Aggressive Spread
+knowledge-path-rust-s3-name = Propagación Agresiva
 knowledge-path-rust-s3-desc =
-    All wise men know well not to visit the Rusted Hills... Yet the Blacksmith's tale was inspiring.
+    Todos los hombres sabios saben bien que no deben visitar las Colinas Oxidadas... Sin embargo, el cuento del Herrero era inspirador.
 
-    Grants you Aggressive Spread, a spell that spreads rust to nearby surfaces.
+    Te otorga Propagación Agresiva, un hechizo que extiende el óxido a las superficies cercanas.
 
-# knowledge-path-rust-s3-name = Leeching Walk
+# knowledge-path-rust-s3-name = Caminata Drenante
 # knowledge-path-rust-s3-desc =
-#     The speed was unparalleled, the strength unnatural. The Blacksmith was smiling.
+#     La velocidad era sin par, la fuerza antinatural. El Herrero sonreía.
 #
-#     Grants you passive healing and resistance to batons while standing over rust.
+#     Te otorga curación pasiva y resistencia a las porras mientras estás de pie sobre el óxido.
 
-knowledge-path-rust-s4-name = Mark of Rust
+knowledge-path-rust-s4-name = Marca del Óxido
 knowledge-path-rust-s4-desc =
-    The Blacksmith looks away. To a place lost long ago. "Rusted Hills help those in dire need... at a cost."
+    El Herrero mira hacia otro lado. Hacia un lugar perdido hace mucho tiempo. "Las Colinas Oxidadas ayudan a los que están en gran necesidad... a un costo."
 
-    Your Mansus Grasp now applies the Mark of Rust. The mark is triggered from an attack with your Rusty Blade.
-    When triggered, your victim will suffer heavy disgust.
-    Allows you to rust special material walls.
+    Tu Garra del Mansus ahora aplica la Marca del Óxido. La marca se activa con un ataque de tu Hoja Oxidada.
+    Cuando se activa, tu víctima sufrirá un fuerte asco.
+    Te permite oxidar paredes de materiales especiales.
 
-knowledge-path-rust-s5-name = Rust Construction
+knowledge-path-rust-s5-name = Construcción de Óxido
 knowledge-path-rust-s5-desc =
-    Images of foreign and ominous structures began to dance in my mind. Covered head to toe in thick rust, they no longer looked man made. Or perhaps they never were in the first place.
+    Imágenes de estructuras extrañas y ominosas comenzaron a danzar en mi mente. Cubiertas de pies a cabeza en óxido espeso, ya no parecían hechas por el hombre. O tal vez nunca lo fueron.
 
-    Grants you Rust Construction, a spell that allows you to raise a wall out of a rusted floor.
-    Anyone overtop the wall will be thrown aside and sustain damage.
+    Te otorga Construcción de Óxido, un hechizo que te permite levantar una pared desde un suelo oxidado.
+    Cualquiera sobre la pared será arrojado a un lado y sufrirá daño.
 
-knowledge-path-rust-s6-name = Entropic Plume
+knowledge-path-rust-s6-name = Penacho Entrópico
 knowledge-path-rust-s6-desc =
-    The corrosion was unstoppable. The rust was unpleasable. The Blacksmith was gone, and you hold their blade. Champions of hope, the Rustbringer is nigh!
+    La corrosión era imparable. El óxido era insaciable. El Herrero había desaparecido, y tú sostienes su hoja. ¡Campeones de la esperanza, el Portador del Óxido está cerca!
 
-    Grants you Entropic Plume, a spell that releases a vexing wave of Rust. Blinds, poisons, and inflicts Amok on any heathen it hits, causing them to strike at friend or foe wildly. Also rusts and destroys and surfaces it hits.
+    Te otorga Penacho Entrópico, un hechizo que libera una irritante ola de Óxido. Ciega, envenena e inflige Amok a cualquier infiel que golpee, haciéndoles atacar a amigos o enemigos salvajemente. También oxida y destruye las superficies que golpea.
 
-knowledge-path-rust-s7-name = Toxic Blade
+knowledge-path-rust-s7-name = Hoja Tóxica
 knowledge-path-rust-s7-desc =
-    The Blacksmith hands you their blade. "The Blade will guide you through the flesh, should you let it." The heavy rust weights it down. You stare deeply into it. The Rusted Hills call for you, now.
+    El Herrero te entrega su hoja. "La Hoja te guiará a través de la carne, si lo permites." El pesado óxido la arrastra hacia abajo. La miras profundamente. Las Colinas Oxidadas te llaman, ahora.
 
-    Your Rusty Blade now causes toxic damage and disgust to those you attack and also increases rot level of corpses.
-    Standing on Rusted tiles closes up your wounds and heals your pain, healing effect increased.
-    Allows you to rust reinforced and mining walls.
+    Tu Hoja Oxidada ahora causa daño tóxico y asco a quienes atacas y también aumenta el nivel de putrefacción de los cadáveres.
+    Pararse sobre casillas oxidadas cierra tus heridas y cura tu dolor, efecto de curación aumentado.
+    Te permite oxidar paredes reforzadas y mineras.
 
-knowledge-path-rust-s8-rust-charge-name = Rust Charge
+knowledge-path-rust-s8-rust-charge-name = Carga de Óxido
 knowledge-path-rust-s8-rust-charge-desc =
-    The hills sparkled now, as I neared them my mind began to wander. I quickly regained my resolve and pushed forward, this last leg would be the most treacherous.
+    Las colinas brillaban ahora, a medida que me acercaba a ellas mi mente comenzó a vagar. Recuperé rápidamente mi determinación y seguí adelante, esta última etapa sería la más peligrosa.
 
-    Grants you Rust Charge, a targeted action that can only be cast on a rusted tile. It charges you forward, destroying any rusted objects you come into contact with, it will also deal high damage to others and rust around you during the charge.
+    Te otorga Carga de Óxido, una acción dirigida que solo puede lanzarse en una casilla oxidada. Te lanza hacia adelante, destruyendo cualquier objeto oxidado con el que entres en contacto, también infligirá alto daño a otros y oxidará a tu alrededor durante la carga.
 
-knowledge-path-rust-s9-name = Rustbringer's Oath
+knowledge-path-rust-s9-name = Juramento del Portador del Óxido
 knowledge-path-rust-s9-desc =
-    The ascension ritual of the Path of Rust.
-    Bring 3 rotting or silicon corpses to a transmutation rune to complete the ritual.
-    When completed, the ritual site will endlessly spread rust onto any surface, stopping for nothing.
-    Additionally, you will become extremely resilient on rust, healing at much higher rate, regenerating lost limbs and becoming immune to many effects and dangers.
-    You will be able to rust almost anything upon ascending.
+    El ritual de ascensión del Camino del Óxido.
+    Lleva 3 cadáveres podridos o de silicio a una runa de transmutación para completar el ritual.
+    Cuando se complete, el sitio del ritual extenderá el óxido sin cesar sobre cualquier superficie, sin detenerse por nada.
+    Además, te volverás extremadamente resistente sobre el óxido, curándote a una tasa mucho mayor, regenerando extremidades perdidas y volvéndote inmune a muchos efectos y peligros.
+    Podrás oxidar casi cualquier cosa al ascender.

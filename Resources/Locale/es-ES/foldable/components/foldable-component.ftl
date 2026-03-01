@@ -6,21 +6,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-# Foldable
+# Plegable
 
-foldable-fold-fail = You can't fold the {$object} here.
-foldable-unfold-fail = You can't unfold the {$object} here.
+foldable-fold-fail = No puedes plegar el {$object} aquí.
+foldable-unfold-fail = No puedes desplegar el {$object} aquí.
 
-foldable-deploy-fail = You can't deploy the {$object} here.
-fold-verb = Fold
-unfold-verb = Unfold
+foldable-deploy-fail = No puedes desplegar el {$object} aquí.
+fold-verb = Plegar
+unfold-verb = Desplegar
 
-fold-flip-verb = Flip
+fold-flip-verb = Girar
 
-fold-zip-verb = Zip up
-fold-unzip-verb = Unzip
+fold-zip-verb = Subir la cremallera
+fold-unzip-verb = Bajar la cremallera
 
-# Hijacking this because it works well for toggling hideable layers - Goob
+# Aprovechando esto porque funciona bien para alternar capas ocultables - Goob
 
-fold-showhair-verb = Show hair
-fold-hidehair-verb = Hide hair
+fold-showhair-verb = Mostrar cabello
+fold-hidehair-verb = Ocultar cabello

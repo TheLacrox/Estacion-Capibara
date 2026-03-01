@@ -6,32 +6,32 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-ScarEyeRight-scar_eye_right = Right Eye Scar
-marking-ScarEyeRight = Eye Scar (Right)
+marking-ScarEyeRight-scar_eye_right = Cicatriz en el ojo derecho
+marking-ScarEyeRight = Cicatriz ocular (Derecha)
 
-marking-ScarEyeLeft-scar_eye_left = Left Eye Scar
-marking-ScarEyeLeft = Eye Scar (Left)
+marking-ScarEyeLeft-scar_eye_left = Cicatriz en el ojo izquierdo
+marking-ScarEyeLeft = Cicatriz ocular (Izquierda)
 
-marking-ScarTopSurgeryShort-scar_top_surgery_short = Top Surgery Scar
-marking-ScarTopSurgeryShort = Top Surgery Scar (Short)
+marking-ScarTopSurgeryShort-scar_top_surgery_short = Cicatriz de cirugía torácica
+marking-ScarTopSurgeryShort = Cicatriz de cirugía torácica (Corta)
 
-marking-ScarTopSurgeryLong-scar_top_surgery_long = Top Surgery Scar
-marking-ScarTopSurgeryLong = Top Surgery Scar (Long)
+marking-ScarTopSurgeryLong-scar_top_surgery_long = Cicatriz de cirugía torácica
+marking-ScarTopSurgeryLong = Cicatriz de cirugía torácica (Larga)
 
-marking-ScarChest-scar_chest = Chest Scar
-marking-ScarChest = Chest Scar
+marking-ScarChest-scar_chest = Cicatriz en el pecho
+marking-ScarChest = Cicatriz en el pecho
 
-marking-ScarNeck-scar_neck = Neck Scar
-marking-ScarNeck = Neck Scar
+marking-ScarNeck-scar_neck = Cicatriz en el cuello
+marking-ScarNeck = Cicatriz en el cuello
 
-marking-ScarChestBullets-scar_chest_bullets = Bullet Holes Scar
-marking-ScarChestBullets = Chest Scar (Bullets)
+marking-ScarChestBullets-scar_chest_bullets = Cicatriz de agujeros de bala
+marking-ScarChestBullets = Cicatriz en el pecho (Balas)
 
-marking-ScarStomachBullets-scar_stomach_bullets = Bullet Holes Scar
-marking-ScarStomachBullets = Stomach Scar (Bullets)
+marking-ScarStomachBullets-scar_stomach_bullets = Cicatriz de agujeros de bala
+marking-ScarStomachBullets = Cicatriz en el abdomen (Balas)
 
-marking-ScarFace1-scar_face_1 = Face Scar
-marking-ScarFace1 = Face Scar (Large)
+marking-ScarFace1-scar_face_1 = Cicatriz facial
+marking-ScarFace1 = Cicatriz facial (Grande)
 
-marking-ScarFace2-scar_face_2 = Face Scar
-marking-ScarFace2 = Face Scar (Small)
+marking-ScarFace2-scar_face_2 = Cicatriz facial
+marking-ScarFace2 = Cicatriz facial (Pequeña)

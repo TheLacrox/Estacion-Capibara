@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-fresium-effect-freeze-insides = You feel your insides freezing up!
-fresium-effect-frozen = Your legs have completely frozen up!
-fresium-effect-slow = Your legs buckle and struggle to move!
+fresium-effect-freeze-insides = ¡Sientes que tus entrañas se están congelando!
+fresium-effect-frozen = ¡Tus piernas se han congelado por completo!
+fresium-effect-slow = ¡Tus piernas flaquean y apenas pueden moverse!

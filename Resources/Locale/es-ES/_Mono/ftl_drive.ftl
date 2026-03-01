@@ -1,1 +1,1 @@
-ftl-drive-window-title = FTL Drive
+ftl-drive-window-title = Motor FTL

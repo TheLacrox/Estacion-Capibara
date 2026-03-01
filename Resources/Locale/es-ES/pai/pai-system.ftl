@@ -10,28 +10,28 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-pai-system-pai-installed = A pAI is installed.
-pai-system-off = No pAI is installed.
-pai-system-still-searching = Still searching for a pAI.
-pai-system-searching = Now searching for a pAI...
+pai-system-pai-installed = Hay un pAI instalado.
+pai-system-off = No hay ningún pAI instalado.
+pai-system-still-searching = Aún buscando un pAI.
+pai-system-searching = Buscando un pAI ahora...
 
-pai-system-role-name = Personal AI
-pai-system-role-description = Be someone's electronic pal!
-                              (Memories *not* included.)
-pai-system-role-name-syndicate = Syndicate Personal AI
-pai-system-role-description-syndicate = Be someone's Syndicate pal!
-                                        (Memories *not* included.)
-pai-system-role-name-potato = Potato Artificial Intelligence
-pai-system-role-description-potato = It's a toy for children. And now you live in it.
+pai-system-role-name = IA Personal
+pai-system-role-description = ¡Sé el compañero electrónico de alguien!
+                              (Memorias *no* incluidas.)
+pai-system-role-name-syndicate = IA Personal Syndicate
+pai-system-role-description-syndicate = ¡Sé el compañero syndicate de alguien!
+                                        (Memorias *no* incluidas.)
+pai-system-role-name-potato = Inteligencia Artificial de Patata
+pai-system-role-description-potato = Es un juguete para niños. Y ahora vives dentro de él.
 
-pai-system-wipe-device-verb-text = Remove pAI
-pai-system-wiped-device = The pAI was wiped from the device.
+pai-system-wipe-device-verb-text = Retirar pAI
+pai-system-wiped-device = El pAI fue borrado del dispositivo.
 
-pai-system-stop-searching-verb-text = Stop searching
-pai-system-stopped-searching = The device stopped searching for a pAI.
+pai-system-stop-searching-verb-text = Dejar de buscar
+pai-system-stopped-searching = El dispositivo dejó de buscar un pAI.
 
-pai-system-pai-name = { CAPITALIZE(THE($owner)) }'s pAI
-pai-system-pai-name-raw = {$name}'s pAI
+pai-system-pai-name = pAI de { CAPITALIZE(THE($owner)) }
+pai-system-pai-name-raw = pAI de {$name}
 
-pai-system-brick-popup = The pAI's circuits loudly pop and fizzle out!
-pai-system-scramble-popup = The pAI's circuits are overloaded with electricity!
+pai-system-brick-popup = ¡Los circuitos del pAI crepitan y se apagan ruidosamente!
+pai-system-scramble-popup = ¡Los circuitos del pAI están sobrecargados de electricidad!

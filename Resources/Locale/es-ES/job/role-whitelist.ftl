@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-role-not-whitelisted = You are not whitelisted to play this role.
+role-not-whitelisted = No estás en la lista blanca para jugar este rol.

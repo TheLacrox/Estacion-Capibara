@@ -3,10 +3,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-flavor-base-basic = basic
-flavor-complex-fast = fast
-flavor-complex-greed = like greed
-flavor-complex-blast = like jungle warfare
-flavor-complex-torpedo = like convoy raiding
-flavor-complex-bees = like buzzing and honey
-flavor-base-earthy = earthy
+flavor-base-basic = básico
+flavor-complex-fast = rápido
+flavor-complex-greed = a codicia
+flavor-complex-blast = a guerra en la jungla
+flavor-complex-torpedo = a incursiones de convoy
+flavor-complex-bees = a zumbidos y miel
+flavor-base-earthy = terroso

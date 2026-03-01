@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-goob-station-event-vent-creatures-skibidi-start-announcement = Attention. High levels of Skibidi Rizz detected on the station. Please get rid of these creatures before this station turns into Ohio. Chat, is this real?
+goob-station-event-vent-creatures-skibidi-start-announcement = Atención. Se han detectado altos niveles de Rizz Skibidi en la estación. Por favor, deshaceos de estas criaturas antes de que esta estación se convierta en Ohio. ¿Chat, esto es real?

@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-melee-speech-current-battlecry = Battlecry:
-melee-speech-menu-title = Set Battlecry
+melee-speech-current-battlecry = Grito de batalla:
+melee-speech-menu-title = Establecer grito de batalla

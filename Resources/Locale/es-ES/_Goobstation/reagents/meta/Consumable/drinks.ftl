@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-triple-citrus = triple citrus
-reagent-desc-triple-citrus = Three citruses a day keep liver failure at bay! Also helps with keeping your patrons in bar for longer.
+reagent-name-triple-citrus = triple cítrico
+reagent-desc-triple-citrus = ¡Tres cítricos al día mantienen al fallo hepático a raya! También ayuda a mantener a tus clientes en el bar por más tiempo.

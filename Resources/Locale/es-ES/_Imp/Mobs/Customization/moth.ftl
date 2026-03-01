@@ -1,124 +1,124 @@
 # Chest
 
-marking-ChestChimeraFemaleMoth = Moth Chest (Chimera)
-marking-ChestChimeraFemaleMoth-chimeraf = Chimera
+marking-ChestChimeraFemaleMoth = Pecho de Polilla (Quimera)
+marking-ChestChimeraFemaleMoth-chimeraf = Quimera
 
-marking-ChestChimeraMaleMoth = Moth Chest (Chimera)
-marking-ChestChimeraMaleMoth-chimeram = Chimera
+marking-ChestChimeraMaleMoth = Pecho de Polilla (Quimera)
+marking-ChestChimeraMaleMoth-chimeram = Quimera
 
-marking-ChestTwistingLeftFemaleMoth = Scar (Twisted Scar Left)
-marking-ChestTwistingLeftFemaleMoth-twistingleftf = Twisted Scar (Left)
+marking-ChestTwistingLeftFemaleMoth = Cicatriz (Retorcida Izquierda)
+marking-ChestTwistingLeftFemaleMoth-twistingleftf = Cicatriz Retorcida (Izquierda)
 
-marking-ChestTwistingLeftMaleMoth = Scar (Twisted Scar Left)
-marking-ChestTwistingLeftMaleMoth-twistingleftm = Twisted Scar (Left)
+marking-ChestTwistingLeftMaleMoth = Cicatriz (Retorcida Izquierda)
+marking-ChestTwistingLeftMaleMoth-twistingleftm = Cicatriz Retorcida (Izquierda)
 
-marking-ChestTwistingRightFemaleMoth = Scar (Twisted Scar Right)
-marking-ChestTwistingRightFemaleMoth-twistingrightf = Twisted Scar (Right)
+marking-ChestTwistingRightFemaleMoth = Cicatriz (Retorcida Derecha)
+marking-ChestTwistingRightFemaleMoth-twistingrightf = Cicatriz Retorcida (Derecha)
 
-marking-ChestTwistingRightMaleMoth = Scar (Twisted Scar Right)
-marking-ChestTwistingRightMaleMoth-twistingrightm = Twisted Scar (Right)
+marking-ChestTwistingRightMaleMoth = Cicatriz (Retorcida Derecha)
+marking-ChestTwistingRightMaleMoth-twistingrightm = Cicatriz Retorcida (Derecha)
 
-marking-ChestStarMoth = Scar (Star)
-marking-ChestStarMoth-star = Star Scar
+marking-ChestStarMoth = Cicatriz (Estrella)
+marking-ChestStarMoth-star = Cicatriz en Estrella
 
-marking-MothBodyClaw = Scar (Claws)
-marking-MothBodyClaw-claw = Claw Scars
+marking-MothBodyClaw = Cicatriz (Garras)
+marking-MothBodyClaw-claw = Cicatrices de Garras
 
-marking-MothChestGlow = Moth Bioluminescence (Chest)
-marking-MothChestGlow-glow = Glow
+marking-MothChestGlow = Bioluminiscencia de Polilla (Pecho)
+marking-MothChestGlow-glow = Brillo
 
-marking-TorsoIncisionMoth = Scar (Incision)
-marking-TorsoIncisionMoth-incision = Torso Incision
+marking-TorsoIncisionMoth = Cicatriz (Incisión)
+marking-TorsoIncisionMoth-incision = Incisión en el Torso
 
 # Head
 
-marking-BadmoltMoth = Scar (Bad Molt)
-marking-BadmoltMoth-badmolt = Bad Molt
+marking-BadmoltMoth = Cicatriz (Muda Fallida)
+marking-BadmoltMoth-badmolt = Muda Fallida
 
-marking-EyebagsMoth = Eye (Eyebags)
-marking-EyebagsMoth-eyebags = Eyebags
+marking-EyebagsMoth = Ojos (Ojeras)
+marking-EyebagsMoth-eyebags = Ojeras
 
-marking-HeadChimeraMoth = Moth Head (Chimera)
-marking-HeadChimeraMoth-chimera = Chimera
+marking-HeadChimeraMoth = Cabeza de Polilla (Quimera)
+marking-HeadChimeraMoth-chimera = Quimera
 
-marking-HeadTwistingMoth = Scar (Twisted)
-marking-HeadTwistingMoth-twisting = Twisted Scar
+marking-HeadTwistingMoth = Cicatriz (Retorcida)
+marking-HeadTwistingMoth-twisting = Cicatriz Retorcida
 
-marking-MothBurnLeft = Burn Scar (Left)
-marking-MothBurnLeft-burnleft = Burn Scar (Left)
+marking-MothBurnLeft = Cicatriz de Quemadura (Izquierda)
+marking-MothBurnLeft-burnleft = Cicatriz de Quemadura (Izquierda)
 
-marking-MothBurnRight = Burn Scar (Right)
-marking-MothBurnRight-burnright = Burn Scar (Right)
+marking-MothBurnRight = Cicatriz de Quemadura (Derecha)
+marking-MothBurnRight-burnright = Cicatriz de Quemadura (Derecha)
 
-marking-MothFaceClaw = Claw Scars (Face)
-marking-MothFaceClaw-claw = Claw Scars (Face)
+marking-MothFaceClaw = Cicatrices de Garras (Cara)
+marking-MothFaceClaw-claw = Cicatrices de Garras (Cara)
 
-marking-MothHeadGlow = Moth Bioluminescence (Head)
-marking-MothHeadGlow-glow = Glow
+marking-MothHeadGlow = Bioluminiscencia de Polilla (Cabeza)
+marking-MothHeadGlow-glow = Brillo
 
-marking-MothSlashLeft = Scar (Claw Left)
-marking-MothSlashLeft-slashleft = Claw Scars (Left)
+marking-MothSlashLeft = Cicatriz (Garra Izquierda)
+marking-MothSlashLeft-slashleft = Cicatrices de Garras (Izquierda)
 
-marking-MothSlashRight = Scar (Claw Right)
-marking-MothSlashRight-slashright = Claw Scars (Right)
+marking-MothSlashRight = Cicatriz (Garra Derecha)
+marking-MothSlashRight-slashright = Cicatrices de Garras (Derecha)
 
 # Snout
 
-marking-MouthpartsFulgoridae = Mouthparts (Fulgoridae)
-marking-MouthpartsFulgoridaeUpturned = Mouthparts (Fulgoridae Upturned)
-marking-MouthpartsHymenoptera = Mouthparts (Hymenoptera)
-marking-MouthpartsHymenopteraLarge = Mouthparts (Hymenoptera Large)
-marking-MouthpartsProboscisDownturned = Mouthparts (Proboscis Downturned)
-marking-MouthpartsProboscisDownturned-proboscisdownturned = Mouthparts (Proboscis Downturned)
-marking-MouthpartsProboscisUpturned = Mouthparts (Proboscis Upturned)
-marking-MouthpartsProboscisUpturned-proboscisupturned = Mouthparts (Proboscis Upturned)
-marking-MouthpartsSchistocerca = Mouthparts (Schistocerca)
+marking-MouthpartsFulgoridae = Piezas Bucales (Fulgorídae)
+marking-MouthpartsFulgoridaeUpturned = Piezas Bucales (Fulgorídae Hacia Arriba)
+marking-MouthpartsHymenoptera = Piezas Bucales (Hymenoptera)
+marking-MouthpartsHymenopteraLarge = Piezas Bucales (Hymenoptera Grande)
+marking-MouthpartsProboscisDownturned = Piezas Bucales (Probóscide Hacia Abajo)
+marking-MouthpartsProboscisDownturned-proboscisdownturned = Piezas Bucales (Probóscide Hacia Abajo)
+marking-MouthpartsProboscisUpturned = Piezas Bucales (Probóscide Hacia Arriba)
+marking-MouthpartsProboscisUpturned-proboscisupturned = Piezas Bucales (Probóscide Hacia Arriba)
+marking-MouthpartsSchistocerca = Piezas Bucales (Schistocerca)
 
 # Eyes
 
-marking-HeterochromiaMoth = Eyes (Heterochromia)
-marking-HeterochromiaMoth-heterochromia = Heterochromia
+marking-HeterochromiaMoth = Ojos (Heterocromía)
+marking-HeterochromiaMoth-heterochromia = Heterocromía
 
-marking-MothBiggerEyes = Eyes (Large)
-marking-MothBiggerEyes-bigger = Bigger Eyes
+marking-MothBiggerEyes = Ojos (Grandes)
+marking-MothBiggerEyes-bigger = Ojos Más Grandes
 
 # RArm
 
-marking-ProstheticArmRightMoth = Prosthetic (Right Arm)
-marking-ProstheticArmRightMoth-prosthetic = Prosthetic (Right Arm)
+marking-ProstheticArmRightMoth = Prótesis (Brazo Derecho)
+marking-ProstheticArmRightMoth-prosthetic = Prótesis (Brazo Derecho)
 
-marking-TwistingArmRightMoth = Scar (Twisted Right Arm)
-marking-TwistingArmRightMoth-twisting = Twisted Scar (Right)
+marking-TwistingArmRightMoth = Cicatriz (Brazo Derecho Retorcido)
+marking-TwistingArmRightMoth-twisting = Cicatriz Retorcida (Derecha)
 
 # LArm
 
-marking-ChimeraArmLeftMoth = Moth Left Arm (Chimera)
-marking-ChimeraArmLeftMoth-chimera = Chimera (Arm)
+marking-ChimeraArmLeftMoth = Brazo Izquierdo de Polilla (Quimera)
+marking-ChimeraArmLeftMoth-chimera = Quimera (Brazo)
 
-marking-ProstheticArmLeftMoth = Prosthetic (Left Arm)
-marking-ProstheticArmLeftMoth-prosthetic = Prosthetic (Left Arm)
+marking-ProstheticArmLeftMoth = Prótesis (Brazo Izquierdo)
+marking-ProstheticArmLeftMoth-prosthetic = Prótesis (Brazo Izquierdo)
 
-marking-TwistingArmLeftMoth = Scar (Twisted Left Arm)
-marking-TwistingArmLeftMoth-twisting = Twisted Scar (Left Arm)
+marking-TwistingArmLeftMoth = Cicatriz (Brazo Izquierdo Retorcido)
+marking-TwistingArmLeftMoth-twisting = Cicatriz Retorcida (Brazo Izquierdo)
 
 # RLeg
 
-marking-LegProstheticRightMoth = Prosthetic (Right Leg)
-marking-LegProstheticRightMoth-prosthetic = Prosthetic (Right Leg)
+marking-LegProstheticRightMoth = Prótesis (Pierna Derecha)
+marking-LegProstheticRightMoth-prosthetic = Prótesis (Pierna Derecha)
 
-marking-LegTwistingRightMoth = Scar (Twisted Right Leg)
-marking-LegTwistingRightMoth-twisting = Twisted Scar (Right)
+marking-LegTwistingRightMoth = Cicatriz (Pierna Derecha Retorcida)
+marking-LegTwistingRightMoth-twisting = Cicatriz Retorcida (Derecha)
 
 # LLeg
 
-marking-LegChimeraLeftMoth = Moth left Leg (Chimera)
-marking-LegChimeraLeftMoth-chimera = Chimera (Leg)
+marking-LegChimeraLeftMoth = Pierna Izquierda de Polilla (Quimera)
+marking-LegChimeraLeftMoth-chimera = Quimera (Pierna)
 
-marking-LegProstheticLeftMoth = Prosthetic (Left Leg)
-marking-LegProstheticLeftMoth-prosthetic = Prosthetic (Left Leg)
+marking-LegProstheticLeftMoth = Prótesis (Pierna Izquierda)
+marking-LegProstheticLeftMoth-prosthetic = Prótesis (Pierna Izquierda)
 
-marking-LegTwistingLeftMoth = Scar (Twisted Left Leg)
-marking-LegTwistingLeftMoth-twisting = Twisted Scar (Left)
+marking-LegTwistingLeftMoth = Cicatriz (Pierna Izquierda Retorcida)
+marking-LegTwistingLeftMoth-twisting = Cicatriz Retorcida (Izquierda)
 
 # UndergarmentBottom
 
@@ -126,35 +126,35 @@ marking-LegTwistingLeftMoth-twisting = Twisted Scar (Left)
 
 # LFoot
 
-marking-FootChimeraLeftMoth = Moth Left Foot (Chimera)
-marking-FootChimeraLeftMoth-chimera = Chimera (Foot)
+marking-FootChimeraLeftMoth = Pie Izquierdo de Polilla (Quimera)
+marking-FootChimeraLeftMoth-chimera = Quimera (Pie)
 
-marking-FootProstheticLeftMoth = Prosthetic (Left Foot)
-marking-FootProstheticLeftMoth-prosthetic = Prosthetic (Left Foot)
+marking-FootProstheticLeftMoth = Prótesis (Pie Izquierdo)
+marking-FootProstheticLeftMoth-prosthetic = Prótesis (Pie Izquierdo)
 
 # RFoot
 
-marking-FootProstheticRightMoth = Prosthetic (Right Foot)
-marking-FootProstheticRightMoth-prosthetic = Prosthetic (Right Foot)
+marking-FootProstheticRightMoth = Prótesis (Pie Derecho)
+marking-FootProstheticRightMoth-prosthetic = Prótesis (Pie Derecho)
 
 # LHand
 
-marking-HandChimeraLeftMoth = Moth Left Hand (Chimera)
-marking-HandChimeraLeftMoth-chimera = Chimera (Hand)
+marking-HandChimeraLeftMoth = Mano Izquierda de Polilla (Quimera)
+marking-HandChimeraLeftMoth-chimera = Quimera (Mano)
 
-marking-HandProstheticLeftMoth = Prosthetic (Left Hand)
-marking-HandProstheticLeftMoth-prosthetic = Prosthetic (Left Hand)
+marking-HandProstheticLeftMoth = Prótesis (Mano Izquierda)
+marking-HandProstheticLeftMoth-prosthetic = Prótesis (Mano Izquierda)
 
-marking-HandTwistingLeftMoth = Scar (Twisted Left Hand)
-marking-HandTwistingLeftMoth-twisting = Twisted Scar (Left Hand)
+marking-HandTwistingLeftMoth = Cicatriz (Mano Izquierda Retorcida)
+marking-HandTwistingLeftMoth-twisting = Cicatriz Retorcida (Mano Izquierda)
 
 # RHand
 
-marking-HandProstheticRightMoth = Prosthetic (Right Hand)
-marking-HandProstheticRightMoth-prosthetic = Prosthetic Hand (Right)
+marking-HandProstheticRightMoth = Prótesis (Mano Derecha)
+marking-HandProstheticRightMoth-prosthetic = Prótesis de Mano (Derecha)
 
-marking-HandTwistingRightMoth = Scar (Twisted Right Hand)
-marking-HandTwistingRightMoth-twisting = Twisted Scar (Right Hand)
+marking-HandTwistingRightMoth = Cicatriz (Mano Derecha Retorcida)
+marking-HandTwistingRightMoth-twisting = Cicatriz Retorcida (Mano Derecha)
 
 # FacialHair
 
@@ -162,87 +162,86 @@ marking-HandTwistingRightMoth-twisting = Twisted Scar (Right Hand)
 
 # HeadSide
 
-marking-PlateBlunt = Head (Blunt)
-marking-PlateHeart = Head (Heart)
-marking-PlateDaisy = Head (Daisy)
-marking-PlateHorn = Head (Horned)
-marking-PlateSmallSpike = Head (Spike)
+marking-PlateBlunt = Cabeza (Roma)
+marking-PlateHeart = Cabeza (Corazón)
+marking-PlateDaisy = Cabeza (Margarita)
+marking-PlateHorn = Cabeza (Con Cuernos)
+marking-PlateSmallSpike = Cabeza (Punta)
 
 # HeadTop
 
-marking-MothBeetleHorn1 = Beetle Horn (Pronged)
-marking-MothBeetleHorn1-beetlehorn1 = Beetle Horn (Pronged)
+marking-MothBeetleHorn1 = Cuerno de Escarabajo (Bifurcado)
+marking-MothBeetleHorn1-beetlehorn1 = Cuerno de Escarabajo (Bifurcado)
 
-marking-MothBeetleHorn2 = Beetle Horn (Lance)
-marking-MothBeetleHorn2-beetlehorn2 = Beetle Horn (Lance)
+marking-MothBeetleHorn2 = Cuerno de Escarabajo (Lanza)
+marking-MothBeetleHorn2-beetlehorn2 = Cuerno de Escarabajo (Lanza)
 
-marking-MothGlowAntenna = Antennae (Firefly)
-marking-MothGlowAntenna-glowantenna = Antennae
+marking-MothGlowAntenna = Antenas (Luciérnaga)
+marking-MothGlowAntenna-glowantenna = Antenas
 
-marking-AntennaCockroach = Antennae (Cockroach)
-marking-AntennaCockroach-cockroach = Antennae
-marking-AntennaHeart = Antennae (Heartbrush)
-marking-AntennaHeart-heart1 = Antennae
-marking-AntennaHeart-heart2 = Heart
-marking-AntennaFly = Antennae (Fly)
-marking-AntennaFly-fly = Antennae
-marking-AntennaShort = Antennae (Locust)
-marking-AntennaShort-nub = Antennae
+marking-AntennaCockroach = Antenas (Cucaracha)
+marking-AntennaCockroach-cockroach = Antenas
+marking-AntennaHeart = Antenas (Corazón con Pincel)
+marking-AntennaHeart-heart1 = Antenas
+marking-AntennaHeart-heart2 = Corazón
+marking-AntennaFly = Antenas (Mosca)
+marking-AntennaFly-fly = Antenas
+marking-AntennaShort = Antenas (Langosta)
+marking-AntennaShort-nub = Antenas
 
 # Tail
 
-marking-LunaWings = Wings (Luna Moth)
-marking-LunaWings-luna1 = Wings
-marking-LunaWings-luna2 = Spots
+marking-LunaWings = Alas (Polilla Luna)
+marking-LunaWings-luna1 = Alas
+marking-LunaWings-luna2 = Manchas
 
-marking-MothBee = Wings (Bumblebee)
-marking-MothBee-bee1 = Outer stripes
-marking-MothBee-bee2 = Wings
-marking-MothBee-bee3 = Inner stripe
+marking-MothBee = Alas (Abejorro)
+marking-MothBee-bee1 = Rayas Exteriores
+marking-MothBee-bee2 = Alas
+marking-MothBee-bee3 = Raya Interior
 
-marking-MothBeetleTail = Wings (Junebug)
-marking-MothBeetleTail-beetle1 = Outline
-marking-MothBeetleTail-beetle2 = Wings
-marking-MothBeetleTail-beetle3 = Shine
+marking-MothBeetleTail = Alas (Escarabajo de Junio)
+marking-MothBeetleTail-beetle1 = Contorno
+marking-MothBeetleTail-beetle2 = Alas
+marking-MothBeetleTail-beetle3 = Brillo
 
-marking-MothFirefly = Wings (Firefly Underlay)
-marking-MothFirefly-firefly2 = Firefly Wings
+marking-MothFirefly = Alas (Capa Inferior Luciérnaga)
+marking-MothFirefly-firefly2 = Alas de Luciérnaga
 
-marking-MothFireflyOverlay = Firefly (Overlay)
-marking-MothFireflyOverlay-firefly1 = Firefly (Overlay)
+marking-MothFireflyOverlay = Luciérnaga (Capa Superior)
+marking-MothFireflyOverlay-firefly1 = Luciérnaga (Capa Superior)
 
-marking-MothGlasswing = Wings (Glasswing)
-marking-MothGlasswing-glasswing1 = Outer
-marking-MothGlasswing-glasswing2 = Inner
-marking-MothGlasswing-glasswing3 = Stripe
+marking-MothGlasswing = Alas (Alas de Cristal)
+marking-MothGlasswing-glasswing1 = Exterior
+marking-MothGlasswing-glasswing2 = Interior
+marking-MothGlasswing-glasswing3 = Franja
 
-marking-MothRhinoBeetle = Wings (Rhino Beetle)
-marking-MothRhinoBeetle-rhinobeetle1 = Outline
-marking-MothRhinoBeetle-rhinobeetle2 = Shine
-marking-MothRhinoBeetle-rhinobeetle3 = Wings
+marking-MothRhinoBeetle = Alas (Escarabajo Rinoceronte)
+marking-MothRhinoBeetle-rhinobeetle1 = Contorno
+marking-MothRhinoBeetle-rhinobeetle2 = Brillo
+marking-MothRhinoBeetle-rhinobeetle3 = Alas
 
-marking-MothSnoth = Wings (Snoth)
-marking-MothSnoth-snoth1 = Wings
-marking-MothSnoth-snoth2 = Shell
+marking-MothSnoth = Alas (Snoth)
+marking-MothSnoth-snoth1 = Alas
+marking-MothSnoth-snoth2 = Caparazón
 
-marking-MothTrueButterfly = Wings (Rainbow)
-marking-MothTrueButterfly-truebutterfly1 = Stripes
-marking-MothTrueButterfly-truebutterfly2 = Dots
-marking-MothTrueButterfly-truebutterfly3 = Wings
+marking-MothTrueButterfly = Alas (Arcoíris)
+marking-MothTrueButterfly-truebutterfly1 = Rayas
+marking-MothTrueButterfly-truebutterfly2 = Puntos
+marking-MothTrueButterfly-truebutterfly3 = Alas
 
-marking-WingsBackstabbed = Wings (Backstabbed)
-marking-WingsBackstabbed-backstabbed = Wings
+marking-WingsBackstabbed = Alas (Apuñalado por la Espalda)
+marking-WingsBackstabbed-backstabbed = Alas
 
-marking-WingsFly = Wings (Fly)
-marking-WingsFly-fly1 = Neck
-marking-WingsFly-fly2 = Wings
-marking-WingsFly-fly3 = Tail
+marking-WingsFly = Alas (Mosca)
+marking-WingsFly-fly1 = Cuello
+marking-WingsFly-fly2 = Alas
+marking-WingsFly-fly3 = Cola
 
-marking-WingsDragonfly = Wings (Dragonfly)
-marking-WingsDragonfly-dragonfly1 = Neck
-marking-WingsDragonfly-dragonfly2 = Wings
-marking-WingsDragonfly-dragonfly3 = Tail
+marking-WingsDragonfly = Alas (Libélula)
+marking-WingsDragonfly-dragonfly1 = Cuello
+marking-WingsDragonfly-dragonfly2 = Alas
+marking-WingsDragonfly-dragonfly3 = Cola
 
-marking-WingsLanternfly = Wings (Lanternfly)
-marking-WingsLanternfly-lanternfly = Wings
-
+marking-WingsLanternfly = Alas (Cicada Linterna)
+marking-WingsLanternfly-lanternfly = Alas

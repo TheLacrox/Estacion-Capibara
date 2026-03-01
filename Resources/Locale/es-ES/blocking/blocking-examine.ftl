@@ -5,8 +5,8 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Blocking examines
-blocking-examinable-verb-text = Protection
-blocking-examinable-verb-message = Examine the protection values.
-blocking-fraction = It blocks [color=lightblue]{$value}%[/color] of incoming damage and:
-blocking-coefficient-value = - It takes [color=lightblue]{$value}%[/color] of [color=yellow]{$type}[/color] damage.
-blocking-reduction-value = - It takes [color=lightblue]{$value}[/color] less [color=yellow]{$type}[/color] damage.
+blocking-examinable-verb-text = Protección
+blocking-examinable-verb-message = Examinar los valores de protección.
+blocking-fraction = Bloquea el [color=lightblue]{$value}%[/color] del daño entrante y:
+blocking-coefficient-value = - Recibe el [color=lightblue]{$value}%[/color] del daño de [color=yellow]{$type}[/color].
+blocking-reduction-value = - Recibe [color=lightblue]{$value}[/color] menos de daño de [color=yellow]{$type}[/color].

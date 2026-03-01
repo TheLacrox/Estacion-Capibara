@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # FlippableComponent
-flippable-component-try-flip-is-stuck = It's stuck.
+flippable-component-try-flip-is-stuck = Está atascado.
 
 # FlippableVerb
-flippable-verb-get-data-text = Flip
+flippable-verb-get-data-text = Voltear

@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-oni-cannot-shoot-guns-1 = Oni's don't use guns! That's stupid!
-oni-cannot-shoot-guns-2 = You're trying to press the trigger, but your large fingers don't fit.
-oni-cannot-shoot-guns-3 = You'd rather use a bayonet than try to handle this inconvenient thing.
+oni-cannot-shoot-guns-1 = ¡Los Oni no usan armas! ¡Eso es absurdo!
+oni-cannot-shoot-guns-2 = Intentas presionar el gatillo, pero tus dedos grandes no caben.
+oni-cannot-shoot-guns-3 = Preferirías usar una bayoneta antes que lidiar con esta cosa tan incómoda.

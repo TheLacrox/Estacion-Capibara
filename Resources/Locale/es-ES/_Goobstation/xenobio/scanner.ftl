@@ -1,9 +1,9 @@
-slime-scanner-examine-slime-description = It is a [color={$color}]{$name}[/color].
+slime-scanner-examine-slime-description = Es un [color={$color}]{$name}[/color].
 
-slime-scanner-examine-slime-mutations = It's chance of mutation on mitosis is [color=yellow]{$chance}%[/color]. It's possible mutations are:
+slime-scanner-examine-slime-mutations = Su probabilidad de mutación en la mitosis es [color=yellow]{$chance}%[/color]. Sus posibles mutaciones son:
 
-slime-scanner-examine-slime-extracts = If you were to grind it right now, it would yield [color=yellow]{$num}[/color] extracts.
+slime-scanner-examine-slime-extracts = Si lo triturases ahora mismo, produciría [color=yellow]{$num}[/color] extractos.
 
-slime-scanner-examine-extract = Studies have proven that this extract seems to violently react with the following reagents: {$reagents}
+slime-scanner-examine-extract = Los estudios han demostrado que este extracto parece reaccionar violentamente con los siguientes reactivos: {$reagents}
 
-slime-scanner-examine-extract-unreactive = [color=red]This extract has withered and will no longer provide any reactions.[/color]
+slime-scanner-examine-extract-unreactive = [color=red]Este extracto se ha deteriorado y ya no proporcionará ninguna reacción.[/color]

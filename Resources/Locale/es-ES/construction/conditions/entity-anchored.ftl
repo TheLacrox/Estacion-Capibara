@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: MIT
 
-construction-examine-condition-entity-anchored = First, anchor it.
-construction-examine-condition-entity-unanchored = First, unanchor it.
-construction-step-condition-entity-anchored = It must be anchored.
-construction-step-condition-entity-unanchored = It must be unanchored.
+construction-examine-condition-entity-anchored = Primero, ancla esto.
+construction-examine-condition-entity-unanchored = Primero, desancla esto.
+construction-step-condition-entity-anchored = Debe estar anclado.
+construction-step-condition-entity-unanchored = Debe estar desanclado.

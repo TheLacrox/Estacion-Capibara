@@ -22,72 +22,72 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-lock-s1-name = A Steward's Secret
+knowledge-path-lock-s1-name = El Secreto de un Guardián
 knowledge-path-lock-s1-desc =
-    The Locked Labyrinth leads to freedom. But only the trapped Stewards know the correct path.
+    El Laberinto Cerrado conduce a la libertad. Pero solo los Guardianes atrapados conocen el camino correcto.
 
-    Opens up the Path of Lock to you.
-    Allows you to transmute a knife and a crowbar into a Key Blade.
-    You can only create two at a time and they function as fast crowbars.
-    In addition, they can fit into utility belts.
+    Te abre el Camino del Cerrojo.
+    Te permite transmutar un cuchillo y una palanca en una Hoja Llave.
+    Solo puedes crear dos a la vez y funcionan como palancas rápidas.
+    Además, caben en los cinturones de utilidades.
 
-knowledge-path-lock-s2-name = Grasp of Lock
+knowledge-path-lock-s2-name = Garra del Cerrojo
 knowledge-path-lock-s2-desc =
-    Nothing may remain closed from my touch.
+    Nada puede permanecer cerrado ante mi toque.
 
-    Your mansus grasp allows you to access anything! Right click on an airlock or a locker to force it open.
-    All locks will break. Any mech pilot will be instantly ejected. Consoles will break.
-    Makes a distinctive knocking sound on use.
+    ¡Tu garra del mansus te permite acceder a cualquier cosa! Haz clic derecho en una esclusa de aire o un armario para forzarlo abierto.
+    Todas las cerraduras se romperán. Cualquier piloto de meca será expulsado instantáneamente. Las consolas se romperán.
+    Hace un sonido de golpe distintivo al usarse.
 
-knowledge-path-lock-s3-name = Key Keeper's Burden
+knowledge-path-lock-s3-name = La Carga del Guardián de Llaves
 knowledge-path-lock-s3-desc =
-    The Keeper sneered. These plastic rectangles are a mockery of keys, and I curse every door that desires them.
+    El Guardián se burló. Estos rectángulos de plástico son una burla de las llaves, y maldigo cada puerta que los desea.
 
-    Allows you to use your mansus grasp on an ID card to transform it into an Eldritch Card.
-    Hit a pair of airlocks with it to create a pair of portals, which will teleport you between them, but teleport non-heretics randomly.
-    Each card may only sustain a single pair of portals at the same time.
-    It also functions and appears the same as a regular ID Card.
-    Attacking a normal ID card with it consumes the card and gains its access.
-    Does not preserve the originally used card.
+    Te permite usar tu garra del mansus en una tarjeta de identificación para transformarla en una Tarjeta Eldritch.
+    Golpea un par de esclusas de aire con ella para crear un par de portales, que te teletransportarán entre ellos, pero teletransportarán a los no herejes aleatoriamente.
+    Cada tarjeta solo puede mantener un único par de portales al mismo tiempo.
+    También funciona y aparece igual que una tarjeta de identificación normal.
+    Atacar una tarjeta de ID normal con ella consume la tarjeta y gana su acceso.
+    No conserva la tarjeta usada originalmente.
 
-knowledge-path-lock-s4-name = Mark of Lock
+knowledge-path-lock-s4-name = Marca del Cerrojo
 knowledge-path-lock-s4-desc =
-    The Gatekeeper was a corrupt Steward. She hindered her fellows for her own twisted amusement.
+    El Portero era un Guardián corrupto. Obstaculizaba a sus compañeros para su propio entretenimiento retorcido.
 
-    Your Mansus Grasp now applies the Mark of Lock.
-    Attack a marked person to bar them from all passages for the duration of the mark.
-    This will make it so that they have no access whatsoever, even public access doors will reject them.
+    Tu Garra del Mansus ahora aplica la Marca del Cerrojo.
+    Ataca a una persona marcada para bloquearla de todos los pasajes durante la duración de la marca.
+    Esto hará que no tengan ningún acceso en absoluto, incluso las puertas de acceso público las rechazarán.
 
-knowledge-path-lock-s6-name = Concierge's Rite
+knowledge-path-lock-s6-name = Rito del Conserje
 knowledge-path-lock-s6-desc =
-    The Concierge scribbled my name into the Handbook. Welcome to your new home, fellow Steward.
+    El Conserje escribió mi nombre en el Manual. Bienvenido a tu nuevo hogar, estimado Guardián.
 
-    Allows you to transmute a stick of chalk, a wooden plank, and a multitool to create a Labyrinth Handbook.
-    It can materialize a barricade at range that only you and people resistant to magic can pass. Has limited uses.
+    Te permite transmutar una tiza, una tabla de madera y una multitool para crear un Manual del Laberinto.
+    Puede materializar una barricada a distancia que solo tú y las personas resistentes a la magia pueden pasar. Tiene usos limitados.
 
-knowledge-path-lock-s7-name = Burglar's Finesse
+knowledge-path-lock-s7-name = Destreza del Ladrón
 knowledge-path-lock-s7-desc =
-    Consorting with Burglar spirits is frowned upon, but a Steward will always want to learn about new doors.
+    Confraternizar con espíritus de ladrones está mal visto, pero un Guardián siempre querrá aprender sobre nuevas puertas.
 
-    Grants you Burglar's Finesse, a single-target spell that puts a random item from the victims backpack into your hand.
+    Te otorga la Destreza del Ladrón, un hechizo de objetivo único que pone un objeto aleatorio de la mochila de las víctimas en tu mano.
 
-knowledge-path-lock-s8-name = Opening Blade
+knowledge-path-lock-s8-name = Hoja Abriente
 knowledge-path-lock-s8-desc =
-    The Pilgrim-Surgeon was not an Steward. Nonetheless, its blades and sutures proved a match for their keys.
+    El Cirujano-Peregrino no era un Guardián. Sin embargo, sus hojas y suturas resultaron una equivalencia para sus llaves.
 
-    Your blade has a chance to remove a random organ on attack.
+    Tu hoja tiene una probabilidad de eliminar un órgano aleatorio al atacar.
 
-knowledge-path-lock-s9-name = Caretaker's Last Refuge
+knowledge-path-lock-s9-name = Último Refugio del Cuidador
 knowledge-path-lock-s9-desc =
-    Jealously, the Guard and the Hound hunted me. But I unlocked my form, and was but a haze, untouchable.
+    Con celos, la Guardia y el Sabueso me cazaron. Pero desbloquié mi forma, y fui solo una neblina, intocable.
 
-    Gives you a spell that makes you transparent and not dense. Cannot be used near living sentient beings.
-    While in refuge, you cannot use your hands or spells, and you are immune to slowdown.
-    You are invincible but unable to harm anything. Cancelled by being hit with an anti-magic item.
+    Te da un hechizo que te vuelve transparente y no denso. No puede usarse cerca de seres sensibles vivos.
+    Mientras estés en refugio, no puedes usar tus manos ni hechizos, y eres inmune a la ralentización.
+    Eres invencible pero incapaz de dañar nada. Cancelado al ser golpeado con un objeto antimagia.
 
-knowledge-path-lock-s10-name = Unlock the Labyrinth
+knowledge-path-lock-s10-name = Desbloquear el Laberinto
 knowledge-path-lock-s10-desc =
-    The ascension ritual of the Path of Lock.
-    Bring 3 corpses without organs in their torso to a transmutation rune to complete the ritual.
-    When completed, you will create a tear to the Labyrinth's heart; a tear in reality located at the site of this ritual.
-    Eldritch creatures will endlessly pour from this rift who are bound to obey your instructions.
+    El ritual de ascensión del Camino del Cerrojo.
+    Lleva 3 cadáveres sin órganos en el torso a una runa de transmutación para completar el ritual.
+    Cuando se complete, crearás un desgarro en el corazón del Laberinto; un desgarro en la realidad ubicado en el sitio de este ritual.
+    Criaturas eldritch brotarán sin cesar de esta grieta que están obligadas a obedecer tus instrucciones.

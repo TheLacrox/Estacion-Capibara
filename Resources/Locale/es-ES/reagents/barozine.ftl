@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-barozine-effect-skin-burning = You feel like your skin is burning off!
-barozine-effect-muscle-contract = You can feel your muscles contracting.
+barozine-effect-skin-burning = ¡Sientes como si tu piel se estuviera quemando!
+barozine-effect-muscle-contract = Puedes sentir cómo se contraen tus músculos.

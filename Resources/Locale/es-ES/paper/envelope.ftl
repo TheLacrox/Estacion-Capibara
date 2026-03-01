@@ -4,14 +4,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-envelope-verb-seal = Seal
-envelope-verb-tear = Tear
+envelope-verb-seal = Sellar
+envelope-verb-tear = Rasgar
 
-envelope-letter-slot = Letter
+envelope-letter-slot = Carta
 
-envelope-sealed-examine = [color=gray]{CAPITALIZE(THE($envelope))} is sealed.[/color]
-envelope-torn-examine = [color=yellow]{CAPITALIZE(THE($envelope))} is torn and unusable![/color]
+envelope-sealed-examine = [color=gray]{CAPITALIZE(THE($envelope))} está sellado.[/color]
+envelope-torn-examine = [color=yellow]{CAPITALIZE(THE($envelope))} está rasgado y es inutilizable.[/color]
 
-envelope-default-message = TO: 
-  
-  FROM: 
+envelope-default-message = PARA:
+
+  DE:

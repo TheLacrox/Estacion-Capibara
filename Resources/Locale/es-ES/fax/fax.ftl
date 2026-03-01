@@ -8,31 +8,31 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-fax-machine-popup-source-unknown = unknown
-fax-machine-popup-received = Received correspondence from { $from }.
-fax-machine-popup-name-long = Fax name is too long
-fax-machine-popup-name-exist = Fax with same name already exist in network
-fax-machine-popup-name-set = Fax name has been updated
-fax-machine-popup-error = ERROR - jam in paper feed
-fax-machine-popup-copy-error = ERROR - unable to copy!
+fax-machine-popup-source-unknown = desconocido
+fax-machine-popup-received = Se recibió correspondencia de { $from }.
+fax-machine-popup-name-long = El nombre del fax es demasiado largo
+fax-machine-popup-name-exist = Ya existe un fax con el mismo nombre en la red
+fax-machine-popup-name-set = El nombre del fax ha sido actualizado
+fax-machine-popup-error = ERROR - atasco en el alimentador de papel
+fax-machine-popup-copy-error = ERROR - ¡no se puede copiar!
 
-fax-machine-dialog-rename = Rename
-fax-machine-dialog-field-name = Name
+fax-machine-dialog-rename = Renombrar
+fax-machine-dialog-field-name = Nombre
 
-fax-machine-ui-window = Fax Machine
-fax-machine-ui-file-button = Print File
-fax-machine-ui-paper-button-normal = Plain Paper
-fax-machine-ui-paper-button-office = Office Paper
-fax-machine-ui-copy-button = Copy
-fax-machine-ui-send-button = Send
-fax-machine-ui-refresh-button = Refresh
-fax-machine-ui-no-peers = No Peers
-fax-machine-ui-to = To:
-fax-machine-ui-from = From:
-fax-machine-ui-paper = Paper:
-fax-machine-ui-paper-inserted = Paper in tray
-fax-machine-ui-paper-not-inserted = No paper
+fax-machine-ui-window = Máquina de fax
+fax-machine-ui-file-button = Imprimir archivo
+fax-machine-ui-paper-button-normal = Papel normal
+fax-machine-ui-paper-button-office = Papel de oficina
+fax-machine-ui-copy-button = Copiar
+fax-machine-ui-send-button = Enviar
+fax-machine-ui-refresh-button = Actualizar
+fax-machine-ui-no-peers = Sin destinatarios
+fax-machine-ui-to = Para:
+fax-machine-ui-from = De:
+fax-machine-ui-paper = Papel:
+fax-machine-ui-paper-inserted = Papel en la bandeja
+fax-machine-ui-paper-not-inserted = Sin papel
 
-fax-machine-chat-notify = Received new fax message from "{$fax}" fax
+fax-machine-chat-notify = Se recibió un nuevo mensaje de fax de "{$fax}"
 
-fax-machine-printed-paper-name = printed paper
+fax-machine-printed-paper-name = papel impreso

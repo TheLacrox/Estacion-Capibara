@@ -7,5 +7,5 @@
 
 ## goob edit: no more nukie auto shuttle call
 
-nuke-ops-no-more-threat-announcement-shuttle-call = Long-range sensors indicate the nuclear threat has been eliminated. The emergency shuttle has been called. ETA: {$time} {$units}. You may recall the shuttle to extend the shift.
-nuke-ops-no-more-threat-announcement = Long-range sensors indicate the nuclear threat has been eliminated. The emergency shuttle is already en route.
+nuke-ops-no-more-threat-announcement-shuttle-call = Los sensores de largo alcance indican que la amenaza nuclear ha sido eliminada. Se ha llamado al transbordador de emergencia. ETA: {$time} {$units}. Puedes retirar el transbordador para extender el turno.
+nuke-ops-no-more-threat-announcement = Los sensores de largo alcance indican que la amenaza nuclear ha sido eliminada. El transbordador de emergencia ya está en camino.

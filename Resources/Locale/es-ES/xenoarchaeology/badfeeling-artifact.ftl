@@ -5,25 +5,25 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-badfeeling-artifact-1 = Something doesn't feel right.
-badfeeling-artifact-2 = You get a strange feeling in your gut.
-badfeeling-artifact-3 = Your instincts are trying to warn you about something.
-badfeeling-artifact-4 = Someone just walked over your grave.
-badfeeling-artifact-5 = There's a strange feeling in the air.
-badfeeling-artifact-6 = There's a strange smell in the air.
-badfeeling-artifact-7 = The tips of your fingers feel tingly.
-badfeeling-artifact-8 = You feel witchy.
-badfeeling-artifact-9 = You have a terrible sense of foreboding.
-badfeeling-artifact-10 = You've got a bad feeling about this.
-badfeeling-artifact-11 = Your scalp prickles.
-badfeeling-artifact-12 = The light seems to flicker.
-badfeeling-artifact-13 = The shadows seem to lengthen.
-badfeeling-artifact-14 = The walls are getting closer.
-badfeeling-artifact-15 = Something is wrong.
+badfeeling-artifact-1 = Algo no se siente bien.
+badfeeling-artifact-2 = Tienes una sensación extraña en el estómago.
+badfeeling-artifact-3 = Tus instintos intentan advertirte de algo.
+badfeeling-artifact-4 = Alguien acaba de caminar sobre tu tumba.
+badfeeling-artifact-5 = Hay una sensación extraña en el aire.
+badfeeling-artifact-6 = Hay un olor extraño en el aire.
+badfeeling-artifact-7 = Las yemas de tus dedos se sienten hormigueantes.
+badfeeling-artifact-8 = Te sientes como una bruja.
+badfeeling-artifact-9 = Tienes un terrible presentimiento.
+badfeeling-artifact-10 = Tienes un mal presentimiento sobre esto.
+badfeeling-artifact-11 = Se te eriza el cuero cabelludo.
+badfeeling-artifact-12 = La luz parece parpadear.
+badfeeling-artifact-13 = Las sombras parecen alargarse.
+badfeeling-artifact-14 = Las paredes se están acercando.
+badfeeling-artifact-15 = Algo está mal.
 
-badfeeling-artifact-drastic-1 = Someone's trying to kill you!
-badfeeling-artifact-drastic-2 = There's something out there!
-badfeeling-artifact-drastic-3 = What's happening to you?
-badfeeling-artifact-drastic-4 = OH GOD!
-badfeeling-artifact-drastic-5 = HELP ME!
-badfeeling-artifact-drastic-6 = You've got to get out of here!
+badfeeling-artifact-drastic-1 = ¡Alguien intenta matarte!
+badfeeling-artifact-drastic-2 = ¡Hay algo ahí afuera!
+badfeeling-artifact-drastic-3 = ¿Qué te está pasando?
+badfeeling-artifact-drastic-4 = ¡DIOS MÍO!
+badfeeling-artifact-drastic-5 = ¡AYÚDAME!
+badfeeling-artifact-drastic-6 = ¡Tienes que salir de aquí!

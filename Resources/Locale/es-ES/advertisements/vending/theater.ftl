@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-theater-1 = Dress for success!
-advertisement-theater-2 = Suited and booted!
-advertisement-theater-3 = It's show time!
-advertisement-theater-4 = Why leave style up to fate? Use AutoDrobe!
-advertisement-theater-5 = All wacky outfits and clothes, from gladiator robes to who knows what!
-advertisement-theater-6 = The clown will appreciate your outfit!
+advertisement-theater-1 = ¡Viste para el éxito!
+advertisement-theater-2 = ¡Trajeado y listo para la acción!
+advertisement-theater-3 = ¡Es la hora del espectáculo!
+advertisement-theater-4 = ¿Para qué dejar el estilo al azar? ¡Usa AutoDrobe!
+advertisement-theater-5 = ¡Todo tipo de atuendos locos, desde togas de gladiador hasta lo que se te ocurra!
+advertisement-theater-6 = ¡El payaso apreciará tu atuendo!

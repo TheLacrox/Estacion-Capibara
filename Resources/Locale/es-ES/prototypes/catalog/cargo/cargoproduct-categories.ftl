@@ -4,19 +4,19 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cargoproduct-category-name-armory = Armory
-cargoproduct-category-name-atmospherics = Atmospherics
-cargoproduct-category-name-cargo = Cargo
-cargoproduct-category-name-circuitboards = Circuitboards
-cargoproduct-category-name-emergency = Emergency
-cargoproduct-category-name-engineering = Engineering
-cargoproduct-category-name-food = Food
-cargoproduct-category-name-fun = Fun
-cargoproduct-category-name-hydroponics = Hydroponics
-cargoproduct-category-name-livestock = Livestock
-cargoproduct-category-name-materials = Materials
-cargoproduct-category-name-medical = Medical
-cargoproduct-category-name-science = Science
-cargoproduct-category-name-security = Security
-cargoproduct-category-name-service = Service
-cargoproduct-category-name-shuttle = Shuttle
+cargoproduct-category-name-armory = Armería
+cargoproduct-category-name-atmospherics = Atmosférica
+cargoproduct-category-name-cargo = Carga
+cargoproduct-category-name-circuitboards = Placas de circuito
+cargoproduct-category-name-emergency = Emergencia
+cargoproduct-category-name-engineering = Ingeniería
+cargoproduct-category-name-food = Alimentación
+cargoproduct-category-name-fun = Diversión
+cargoproduct-category-name-hydroponics = Hidroponía
+cargoproduct-category-name-livestock = Ganadería
+cargoproduct-category-name-materials = Materiales
+cargoproduct-category-name-medical = Médico
+cargoproduct-category-name-science = Ciencia
+cargoproduct-category-name-security = Seguridad
+cargoproduct-category-name-service = Servicio
+cargoproduct-category-name-shuttle = Transbordador

@@ -5,97 +5,97 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-HarpyWingDefaultHuescale = Basic Wings (Huescale)
-marking-HarpyWingDefaultHuescale-huescale_harpy = Wings
+marking-HarpyWingDefaultHuescale = Alas básicas (Matiz)
+marking-HarpyWingDefaultHuescale-huescale_harpy = Alas
 
-marking-HarpyWingDefaultWhitescale = Basic Wings (Whitescale)
-marking-HarpyWingDefaultWhitescale-whitescale_harpy = Wings
+marking-HarpyWingDefaultWhitescale = Alas básicas (Escala de blanco)
+marking-HarpyWingDefaultWhitescale-whitescale_harpy = Alas
 
-marking-HarpyWingFoldedHuescale = Folded Wings (Huescale)
-marking-HarpyWingFoldedHuescale-huescale_harpy_folded = Wings
+marking-HarpyWingFoldedHuescale = Alas plegadas (Matiz)
+marking-HarpyWingFoldedHuescale-huescale_harpy_folded = Alas
 
-marking-HarpyWingFoldedWhitescale = Folded Wings (Whitescale)
-marking-HarpyWingFoldedWhitescale-whitescale_harpy_folded = Wings
+marking-HarpyWingFoldedWhitescale = Alas plegadas (Escala de blanco)
+marking-HarpyWingFoldedWhitescale-whitescale_harpy_folded = Alas
 
-marking-HarpyWingOwlHuescale = Owl Wings (Huescale)
-marking-HarpyWingOwlHuescale-huescale_harpy_wing_owl = Wings
+marking-HarpyWingOwlHuescale = Alas de búho (Matiz)
+marking-HarpyWingOwlHuescale-huescale_harpy_wing_owl = Alas
 
-marking-HarpyWingOwlWhitescale = Owl Wings (Whitescale)
-marking-HarpyWingOwlWhitescale-whitescale_harpy_wing_owl = Wings
+marking-HarpyWingOwlWhitescale = Alas de búho (Escala de blanco)
+marking-HarpyWingOwlWhitescale-whitescale_harpy_wing_owl = Alas
 
-marking-HarpyWingClassic = Classic Wings
-marking-HarpyWingClassic-classic_harpy = Wings
+marking-HarpyWingClassic = Alas clásicas
+marking-HarpyWingClassic-classic_harpy = Alas
 
-marking-HarpyWing2ToneClassic = Classic Two Tone Wings
-marking-HarpyWing2ToneClassic-harpy_2tone_1 = Top Half
-marking-HarpyWing2ToneClassic-harpy_2tone_2 = Bottom Half
+marking-HarpyWing2ToneClassic = Alas clásicas de dos tonos
+marking-HarpyWing2ToneClassic-harpy_2tone_1 = Mitad superior
+marking-HarpyWing2ToneClassic-harpy_2tone_2 = Mitad inferior
 
-marking-HarpyWing3ToneClassic = Classic Three Tone Wings
-marking-HarpyWing3ToneClassic-harpy_3tone_1 = Top Third
-marking-HarpyWing3ToneClassic-harpy_3tone_2 = Middle Third
-marking-HarpyWing3ToneClassic-harpy_3tone_3 = Bottom Third
+marking-HarpyWing3ToneClassic = Alas clásicas de tres tonos
+marking-HarpyWing3ToneClassic-harpy_3tone_1 = Tercio superior
+marking-HarpyWing3ToneClassic-harpy_3tone_2 = Tercio medio
+marking-HarpyWing3ToneClassic-harpy_3tone_3 = Tercio inferior
 
-marking-HarpyWingSpeckledClassic = Speckled Classic Wings
-marking-HarpyWingSpeckledClassic-harpy_speckled_1 = Main
-marking-HarpyWingSpeckledClassic-harpy_speckled_2 = Speckles
+marking-HarpyWingSpeckledClassic = Alas clásicas moteadas
+marking-HarpyWingSpeckledClassic-harpy_speckled_1 = Principal
+marking-HarpyWingSpeckledClassic-harpy_speckled_2 = Motas
 
-marking-HarpyWingUndertoneClassic = Classic Wings with Undertone
-marking-HarpyWingUndertoneClassic-harpy_undertone_1 = Front
-marking-HarpyWingUndertoneClassic-harpy_undertone_2 = Back
+marking-HarpyWingUndertoneClassic = Alas clásicas con subtono
+marking-HarpyWingUndertoneClassic-harpy_undertone_1 = Frente
+marking-HarpyWingUndertoneClassic-harpy_undertone_2 = Dorso
 
-marking-HarpyWingTipsClassic = Classic Wings with Feather Tips
-marking-HarpyWingTipsClassic-harpy_wingtip_1 = Main
-marking-HarpyWingTipsClassic-harpy_wingtip_2 = Feathertips
+marking-HarpyWingTipsClassic = Alas clásicas con puntas de plumas
+marking-HarpyWingTipsClassic-harpy_wingtip_1 = Principal
+marking-HarpyWingTipsClassic-harpy_wingtip_2 = Puntas de plumas
 
-marking-HarpyWingBat = Bat Wings (Whitescale)
-marking-HarpyWingBat-bat_wings_tone_1 = Limbs
-marking-HarpyWingBat-bat_wings_tone_2 = Membrane
+marking-HarpyWingBat = Alas de murciélago (Escala de blanco)
+marking-HarpyWingBat-bat_wings_tone_1 = Extremidades
+marking-HarpyWingBat-bat_wings_tone_2 = Membrana
 
-marking-HarpyWingBionic = Simple Bionic Wings (Whitescale)
-marking-HarpyWingBionic-bionic_wings_tone_1 = Wings
-marking-HarpyWingBionic-bionic_wings_tone_2 = Lights (Unshaded)
+marking-HarpyWingBionic = Alas biónicas simples (Escala de blanco)
+marking-HarpyWingBionic-bionic_wings_tone_1 = Alas
+marking-HarpyWingBionic-bionic_wings_tone_2 = Luces (sin sombra)
 
-marking-HarpyEarsDefault = Feather Tufts
-marking-HarpyEarsDefault-harpy_ears_default = Tufts
+marking-HarpyEarsDefault = Mechones de plumas
+marking-HarpyEarsDefault-harpy_ears_default = Mechones
 
-marking-HarpyEarsLarge = Large Feather Tufts
-marking-HarpyEarsLarge-harpy_ears_large = Tufts
+marking-HarpyEarsLarge = Mechones de plumas grandes
+marking-HarpyEarsLarge-harpy_ears_large = Mechones
 
-marking-HarpyTailPhoenix = Basic Tail
-marking-HarpyTailPhoenix-phoenix_tail = Tail
+marking-HarpyTailPhoenix = Cola básica
+marking-HarpyTailPhoenix-phoenix_tail = Cola
 
-marking-HarpyTailRooster = Rooster Tail
-marking-HarpyTailRooster-rooster_tail = Tail
+marking-HarpyTailRooster = Cola de gallo
+marking-HarpyTailRooster-rooster_tail = Cola
 
-marking-HarpyTailFinch = Finch Tail
-marking-HarpyTailFinch-finch_tail = Tail
+marking-HarpyTailFinch = Cola de pinzón
+marking-HarpyTailFinch-finch_tail = Cola
 
-marking-HarpyTailForkedHuescale = Forked Tailfin (Huescale)
-marking-HarpyTailForkedHuescale-huescale_forked_tailfin = Tail
+marking-HarpyTailForkedHuescale = Aleta caudal bifurcada (Matiz)
+marking-HarpyTailForkedHuescale-huescale_forked_tailfin = Cola
 
-marking-HarpyTailForkedWhitescale = Forked Tailfin (Whitescale)
-marking-HarpyTailForkedWhitescale-whitescale_forked_tailfin = Tail
+marking-HarpyTailForkedWhitescale = Aleta caudal bifurcada (Escala de blanco)
+marking-HarpyTailForkedWhitescale-whitescale_forked_tailfin = Cola
 
-marking-HarpyTailPeacock = Peacock Tail
-marking-HarpyTailPeacock-peacock_tail_feathers = Feathers
-marking-HarpyTailPeacock-peacock_tail_eyes = Eyes
+marking-HarpyTailPeacock = Cola de pavo real
+marking-HarpyTailPeacock-peacock_tail_feathers = Plumas
+marking-HarpyTailPeacock-peacock_tail_eyes = Ojos
 
-marking-HarpyTailHaven = Haven Tail (Whitescale)
-marking-HarpyTailHaven-haven_tone_1 = Outer Feathers
-marking-HarpyTailHaven-haven_tone_2 = Inner Feathers
+marking-HarpyTailHaven = Cola Haven (Escala de blanco)
+marking-HarpyTailHaven-haven_tone_1 = Plumas externas
+marking-HarpyTailHaven-haven_tone_2 = Plumas internas
 
-marking-HarpyTailForkedLong = Long Forked Tail (Whitescale)
-marking-HarpyTailForkedLong-forked_long = Tail
+marking-HarpyTailForkedLong = Cola bifurcada larga (Escala de blanco)
+marking-HarpyTailForkedLong-forked_long = Cola
 
-marking-HarpyTailSwallow = Swallow Tail (Whitescale)
+marking-HarpyTailSwallow = Cola de golondrina (Escala de blanco)
 
-marking-HarpyChestDefault = Wing & Groin Under-Clothes
-marking-HarpyChestDefault-upper = Wing Under-Clothes
-marking-HarpyChestDefault-lower = Groin Under-Clothes
+marking-HarpyChestDefault = Ropa interior de alas y entrepierna
+marking-HarpyChestDefault-upper = Ropa interior de alas
+marking-HarpyChestDefault-lower = Ropa interior de entrepierna
 
-marking-HarpyLegsDefault = Avian Legs
-marking-HarpyLegsDefault-thighs = Thighs
+marking-HarpyLegsDefault = Patas aviares
+marking-HarpyLegsDefault-thighs = Muslos
 
-marking-HarpyFeetDefault = Avian Feet
-marking-HarpyFeetDefault-feet = Feet
-marking-HarpyFeetDefault-talons = Talons
+marking-HarpyFeetDefault = Pies aviares
+marking-HarpyFeetDefault-feet = Pies
+marking-HarpyFeetDefault-talons = Garras

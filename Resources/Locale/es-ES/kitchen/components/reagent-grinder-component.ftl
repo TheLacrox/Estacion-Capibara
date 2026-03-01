@@ -11,18 +11,18 @@
 
 ## UI
 
-reagent-grinder-bound-user-interface-instant-button = INSTANT
-reagent-grinder-bound-user-interface-cook-time-label = COOK TIME
-reagent-grinder-component-cannot-put-entity-message = You can't put this in the reagent grinder!
+reagent-grinder-bound-user-interface-instant-button = INSTANTÁNEO
+reagent-grinder-bound-user-interface-cook-time-label = TIEMPO DE PROCESO
+reagent-grinder-component-cannot-put-entity-message = ¡No puedes poner esto en la trituradora de reactivos!
 
-grinder-menu-title = All-In-One Grinder 3000
-grinder-menu-grind-button = Grind
-grinder-menu-juice-button = Juice
-grinder-menu-auto-label = Auto mode
-grinder-menu-auto-button-off = Off
-grinder-menu-manual-label = Manual mode
-grinder-menu-chamber-content-box-label = Chamber
-grinder-menu-chamber-content-box-button = Eject Contents
-grinder-menu-beaker-content-box-label = Beaker
-grinder-menu-beaker-content-box-button = Eject Beaker
-grinder-menu-beaker-content-box-is-empty = Empty
+grinder-menu-title = Trituradora 3000 todo en uno
+grinder-menu-grind-button = Triturar
+grinder-menu-juice-button = Exprimir
+grinder-menu-auto-label = Modo automático
+grinder-menu-auto-button-off = Apagado
+grinder-menu-manual-label = Modo manual
+grinder-menu-chamber-content-box-label = Cámara
+grinder-menu-chamber-content-box-button = Expulsar contenido
+grinder-menu-beaker-content-box-label = Vaso
+grinder-menu-beaker-content-box-button = Expulsar vaso
+grinder-menu-beaker-content-box-is-empty = Vacío

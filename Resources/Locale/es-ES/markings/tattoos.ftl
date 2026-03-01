@@ -7,65 +7,65 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-TattooHiveChest-tattoo_hive_chest = Back Tattoo (Hive)
-marking-TattooHiveChest = Back Tattoo (Hive)
+marking-TattooHiveChest-tattoo_hive_chest = Tatuaje de espalda (Colmena)
+marking-TattooHiveChest = Tatuaje de espalda (Colmena)
 
-marking-TattooNightlingChest-tattoo_nightling = Chest Tattoo (nightling)
-marking-TattooNightlingChest = Chest Tattoo (Nightling)
+marking-TattooNightlingChest-tattoo_nightling = Tatuaje de pecho (Nocturno)
+marking-TattooNightlingChest = Tatuaje de pecho (Nocturno)
 
-marking-TattooSilverburghLeftLeg-tattoo_silverburgh_l_leg = Left Leg Tattoo (Silverburg)
-marking-TattooSilverburghLeftLeg = Left Leg Tattoo (Silverburg)
+marking-TattooSilverburghLeftLeg-tattoo_silverburgh_l_leg = Tatuaje de pierna izquierda (Silverburg)
+marking-TattooSilverburghLeftLeg = Tatuaje de pierna izquierda (Silverburg)
 
-marking-TattooSilverburghRightLeg-tattoo_silverburgh_r_leg = Right Leg Tattoo (Silverburg)
-marking-TattooSilverburghRightLeg = Right Leg Tattoo (Silverburg)
+marking-TattooSilverburghRightLeg-tattoo_silverburgh_r_leg = Tatuaje de pierna derecha (Silverburg)
+marking-TattooSilverburghRightLeg = Tatuaje de pierna derecha (Silverburg)
 
-marking-TattooCampbellLeftArm-tattoo_campbell_l_arm = Left Arm Tattoo (Campbelle)
-marking-TattooCampbellLeftArm = Left Arm Tattoo (Campbelle)
+marking-TattooCampbellLeftArm-tattoo_campbell_l_arm = Tatuaje de brazo izquierdo (Campbelle)
+marking-TattooCampbellLeftArm = Tatuaje de brazo izquierdo (Campbelle)
 
-marking-TattooCampbellRightArm-tattoo_campbell_r_arm = Right Arm Tattoo (Campbelle)
-marking-TattooCampbellRightArm = Right Arm Tattoo (Campbelle)
+marking-TattooCampbellRightArm-tattoo_campbell_r_arm = Tatuaje de brazo derecho (Campbelle)
+marking-TattooCampbellRightArm = Tatuaje de brazo derecho (Campbelle)
 
-marking-TattooCampbellLeftLeg-tattoo_campbell_l_leg = Left Leg Tattoo (Campbelle)
-marking-TattooCampbellLeftLeg = Left Leg Tattoo (Campbelle)
+marking-TattooCampbellLeftLeg-tattoo_campbell_l_leg = Tatuaje de pierna izquierda (Campbelle)
+marking-TattooCampbellLeftLeg = Tatuaje de pierna izquierda (Campbelle)
 
-marking-TattooCampbellRightLeg-tattoo_campbell_r_leg = Right Leg Tattoo (Campbelle)
-marking-TattooCampbellRightLeg = Right Leg Tattoo (Campbelle)
+marking-TattooCampbellRightLeg-tattoo_campbell_r_leg = Tatuaje de pierna derecha (Campbelle)
+marking-TattooCampbellRightLeg = Tatuaje de pierna derecha (Campbelle)
 
-marking-TattooEyeRight-tattoo_eye_r = Right Eye
-marking-TattooEyeRight = Right Eye
+marking-TattooEyeRight-tattoo_eye_r = Ojo derecho
+marking-TattooEyeRight = Ojo derecho
 
-marking-TattooEyeLeft-tattoo_eye_l = Left Eye
-marking-TattooEyeLeft = Left Eye
+marking-TattooEyeLeft-tattoo_eye_l = Ojo izquierdo
+marking-TattooEyeLeft = Ojo izquierdo
 
-marking-TattooEyeMothRight-tattoo_eye_moth_r = Right Eye
-marking-TattooEyeMothRight = Right Eye
+marking-TattooEyeMothRight-tattoo_eye_moth_r = Ojo derecho
+marking-TattooEyeMothRight = Ojo derecho
 
-marking-TattooEyeMothLeft-tattoo_eye_moth_l = Left Eye
-marking-TattooEyeMothLeft = Left Eye
+marking-TattooEyeMothLeft-tattoo_eye_moth_l = Ojo izquierdo
+marking-TattooEyeMothLeft = Ojo izquierdo
 
-marking-TattooEyeVoxRight-tattoo_eye_vox_r = Right Eye
-marking-TattooEyeVoxRight = Right Eye
+marking-TattooEyeVoxRight-tattoo_eye_vox_r = Ojo derecho
+marking-TattooEyeVoxRight = Ojo derecho
 
-marking-TattooEyeVoxLeft-tattoo_eye_vox_l = Left Eye
-marking-TattooEyeVoxLeft = Left Eye
+marking-TattooEyeVoxLeft-tattoo_eye_vox_l = Ojo izquierdo
+marking-TattooEyeVoxLeft = Ojo izquierdo
 
-marking-TattooEyeshadowUpper-tattoo_eyeshadow_upper = Eyeshadow (Upper)
-marking-TattooEyeshadowUpper = Eyeshadow (Upper)
+marking-TattooEyeshadowUpper-tattoo_eyeshadow_upper = Sombra de ojos (Superior)
+marking-TattooEyeshadowUpper = Sombra de ojos (Superior)
 
-marking-TattooEyeshadowLower-tattoo_eyeshadow_lower = Eyeshadow (Lower)
-marking-TattooEyeshadowLower = Eyeshadow (Lower)
+marking-TattooEyeshadowLower-tattoo_eyeshadow_lower = Sombra de ojos (Inferior)
+marking-TattooEyeshadowLower = Sombra de ojos (Inferior)
 
-marking-TattooEyeshadowLowerReptilian-tattoo_eyeshadow_lower_reptilian = Eyeshadow (Lower)
-marking-TattooEyeshadowLowerReptilian = Eyeshadow (Lower)
+marking-TattooEyeshadowLowerReptilian-tattoo_eyeshadow_lower_reptilian = Sombra de ojos (Inferior)
+marking-TattooEyeshadowLowerReptilian = Sombra de ojos (Inferior)
 
-marking-TattooEyeshadowVoxSmall-tattoo_eyeshadow_small = Eyeshadow (Small)
-marking-TattooEyeshadowVoxSmall = Eyeshadow (Small)
+marking-TattooEyeshadowVoxSmall-tattoo_eyeshadow_small = Sombra de ojos (Pequeña)
+marking-TattooEyeshadowVoxSmall = Sombra de ojos (Pequeña)
 
-marking-TattooEyeshadowVoxMedium-tattoo_eyeshadow_medium = Eyeshadow (Medium)
-marking-TattooEyeshadowVoxMedium = Eyeshadow (Medium)
+marking-TattooEyeshadowVoxMedium-tattoo_eyeshadow_medium = Sombra de ojos (Mediana)
+marking-TattooEyeshadowVoxMedium = Sombra de ojos (Mediana)
 
-marking-TattooEyeshadowVoxLarge-tattoo_eyeshadow_Large = Eyeshadow (Large)
-marking-TattooEyeshadowVoxLarge = Eyeshadow (Large)
+marking-TattooEyeshadowVoxLarge-tattoo_eyeshadow_Large = Sombra de ojos (Grande)
+marking-TattooEyeshadowVoxLarge = Sombra de ojos (Grande)
 
-marking-TattooVoxTailRing-tattoo_vox_tail_ring = Tail Ring
-marking-TattooVoxTailRing = Tail Ring
+marking-TattooVoxTailRing-tattoo_vox_tail_ring = Anillo de cola
+marking-TattooVoxTailRing = Anillo de cola

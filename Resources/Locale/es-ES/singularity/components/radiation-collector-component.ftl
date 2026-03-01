@@ -6,6 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-radiation-collector-component-use-on = The collector turns on.
-radiation-collector-component-use-off = The collector turns off.
-
+radiation-collector-component-use-on = El colector se enciende.
+radiation-collector-component-use-off = El colector se apaga.

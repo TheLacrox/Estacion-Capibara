@@ -5,5 +5,5 @@
 
 ### Messages that pop up when metabolizing ethyloxyephedrine
 
-ethyloxyephedrine-effect-feeling-awake = You feel more awake.
-ethyloxyephedrine-effect-clear-mind = The fog of sleep before you clears away.
+ethyloxyephedrine-effect-feeling-awake = Te sientes más despierto.
+ethyloxyephedrine-effect-clear-mind = La niebla del sueño se disipa ante ti.

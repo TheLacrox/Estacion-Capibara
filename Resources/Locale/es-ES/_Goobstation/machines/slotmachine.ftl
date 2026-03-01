@@ -1,23 +1,23 @@
-slotmachine-verb = Spin
-slotmachine-message = Pull the lever and test your luck on the slot machine!
+slotmachine-verb = Girar
+slotmachine-message = ¡Tira de la palanca y prueba tu suerte en la máquina tragaperras!
 
-slotmachine-no-money = Not enough money!
+slotmachine-no-money = ¡No hay suficiente dinero!
 
-slotmachine-win-normal = Congrats, you have won {$amount} spesos!
-slotmachine-win-jackpot = CONGRATULATIONS, YOU HIT THE JACKPOT!!
-slotmachine-win-godpot = ERROR INTERGER OVERFLOW, DISPENSING "GODPOT"
+slotmachine-win-normal = ¡Felicidades, has ganado {$amount} spesos!
+slotmachine-win-jackpot = ¡¡ENHORABUENA, HAS GANADO EL BOTE!!
+slotmachine-win-godpot = ERROR DESBORDAMIENTO DE ENTERO, DISPENSANDO "BOTE DE DIOS"
 
-wires-board-name-slot-machine = Slot Machine
+wires-board-name-slot-machine = Máquina Tragaperras
 
-advertisement-slotmachine-1 = You can only lose so much!
-advertisement-slotmachine-2 = Gambling is a disease, but it's the only disease where you can win a bunch of money!
-advertisement-slotmachine-3 = ONE MORE SPIN!!
-advertisement-slotmachine-4 = Ignore rehab, they just don't want you to see you succeed!
-advertisement-slotmachine-5 = One more game, then you can quit!
-advertisement-slotmachine-6 = Step right up and give me a spin!
+advertisement-slotmachine-1 = ¡Solo puedes perder hasta cierto punto!
+advertisement-slotmachine-2 = ¡El juego es una enfermedad, pero es la única enfermedad con la que puedes ganar mucho dinero!
+advertisement-slotmachine-3 = ¡UNA TIRADA MÁS!!
+advertisement-slotmachine-4 = ¡Ignora la rehabilitación, solo quieren que no tengas éxito!
+advertisement-slotmachine-5 = ¡Una partida más, luego puedes dejarlo!
+advertisement-slotmachine-6 = ¡Acércate y dame una tirada!
 
-coinflipper-win = Winner! You won {$amount} spesos!
+coinflipper-win = ¡Ganador! ¡Has ganado {$amount} spesos!
 
-clawmachine-fail-self = You mess up and drop the plushie!
-clawmachine-fail-other = {$user} messes up and drops the plushie!
-clawmachine-fail-generic = The plushie falls out of the claw, how disappointing...
+clawmachine-fail-self = ¡Te equivocas y se te cae el peluche!
+clawmachine-fail-other = ¡{$user} se equivoca y deja caer el peluche!
+clawmachine-fail-generic = El peluche se cae de la garra, qué decepcionante...

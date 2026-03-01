@@ -4,28 +4,28 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ghost-role-information-apprentice-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with the wizard who summoned you.
+ghost-role-information-apprentice-rules = Eres un [color=red][bold]Antagonista de Equipo[/bold][/color] junto al mago que te invocó.
 
-ghost-role-information-apprentice-destruction-name = Apprentice (Destruction)
-ghost-role-information-apprentice-destruction-desc = You are an apprentice proficient in the Fireball and Mutate spells. Protect the wizard who has summoned you at all costs.
+ghost-role-information-apprentice-destruction-name = Aprendiz (Destrucción)
+ghost-role-information-apprentice-destruction-desc = Eres un aprendiz experto en los hechizos Bola de Fuego y Mutar. Protege al mago que te ha invocado a toda costa.
 
-ghost-role-information-apprentice-ethereal-name = Apprentice (Ethereal)
-ghost-role-information-apprentice-ethereal-desc = You are an apprentice proficient in the Ethereal Jaunt and Teleport spells. Protect the wizard who has summoned you at all costs.
+ghost-role-information-apprentice-ethereal-name = Aprendiz (Etéreo)
+ghost-role-information-apprentice-ethereal-desc = Eres un aprendiz experto en los hechizos Viaje Etéreo y Teletransporte. Protege al mago que te ha invocado a toda costa.
 
-ghost-role-information-apprentice-summon-name = Apprentice (Summon)
-ghost-role-information-apprentice-summon-desc = You are an apprentice proficient in the Lesser Summon Bees and Summon Simians spells. Protect the wizard who has summoned you at all costs.
+ghost-role-information-apprentice-summon-name = Aprendiz (Invocador)
+ghost-role-information-apprentice-summon-desc = Eres un aprendiz experto en los hechizos Invocar Abejas Menores y Convocar Simios. Protege al mago que te ha invocado a toda costa.
 
-ghost-role-information-apprentice-gun-name = Apprentice (Gunslinger)
-ghost-role-information-apprentice-gun-desc = You are an apprentice proficient in the Lesser Summon Guns, Smoke and Blink spells. Protect the wizard who has summoned you at all costs.
+ghost-role-information-apprentice-gun-name = Aprendiz (Pistolero)
+ghost-role-information-apprentice-gun-desc = Eres un aprendiz experto en los hechizos Invocar Armas Menores, Humo y Parpadeo. Protege al mago que te ha invocado a toda costa.
 
-ghost-role-information-apprentice-arcane-name = Apprentice (Arcane)
-ghost-role-information-apprentice-arcane-desc = You are an apprentice proficient in the Arcane Barrage, Charge and Instant Summons spells. Protect the wizard who has summoned you at all costs.
+ghost-role-information-apprentice-arcane-name = Aprendiz (Arcano)
+ghost-role-information-apprentice-arcane-desc = Eres un aprendiz experto en los hechizos Descarga Arcana, Carga e Invocación Instantánea. Protege al mago que te ha invocado a toda costa.
 
-ghost-role-information-apprentice-sanguine-name = Apprentice (Sanguine)
-ghost-role-information-apprentice-sanguine-desc = You are an apprentice proficient in the Scream For Me, Exsanguinating Strike and Instant Summons spells. Protect the wizard who has summoned you at all costs.
+ghost-role-information-apprentice-sanguine-name = Aprendiz (Sanguíneo)
+ghost-role-information-apprentice-sanguine-desc = Eres un aprendiz experto en los hechizos Grita Para Mí, Golpe Exsanguinante e Invocación Instantánea. Protege al mago que te ha invocado a toda costa.
 
-ghost-role-information-apprentice-robeless-name = Apprentice (Robeless)
-ghost-role-information-apprentice-robeless-desc = You are an apprentice proficient in the Mind Swap, Force Wall and Knock spells. Protect the wizard who has summoned you at all costs.
+ghost-role-information-apprentice-robeless-name = Aprendiz (Sin Túnica)
+ghost-role-information-apprentice-robeless-desc = Eres un aprendiz experto en los hechizos Intercambio Mental, Muro de Fuerza y Abrir. Protege al mago que te ha invocado a toda costa.
 
-ghost-role-information-apprentice-chaos-name = Apprentice (Chaos)
-ghost-role-information-apprentice-chaos-desc = You are an apprentice proficient in completely random spells. Protect the wizard who has summoned you at all costs.
+ghost-role-information-apprentice-chaos-name = Aprendiz (Caos)
+ghost-role-information-apprentice-chaos-desc = Eres un aprendiz experto en hechizos completamente aleatorios. Protege al mago que te ha invocado a toda costa.

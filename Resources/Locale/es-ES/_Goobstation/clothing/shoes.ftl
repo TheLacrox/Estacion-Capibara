@@ -1,3 +1,3 @@
 # They do quack
-ent-ClothingShoeSlippersDuck = ducky slippers
-    .desc = Comfy, yet haunted by the ghosts of ducks you fed bread to as a child.
+ent-ClothingShoeSlippersDuck = zapatillas de pato
+    .desc = Cómodas, aunque acechadas por los fantasmas de los patos a los que alimentaste con pan de niño.

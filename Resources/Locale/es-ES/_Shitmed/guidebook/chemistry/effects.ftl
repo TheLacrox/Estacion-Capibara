@@ -1,8 +1,8 @@
 reagent-effect-guidebook-suppress-pain =
     { $chance ->
-        [1] suppresses
-       *[other] suppress
-    } the patient's pain
+        [1] suprime
+       *[other] suprimir
+    } el dolor del paciente
 
-reagent-effect-guidebook-adjust-consciousness = Helps the patient stay conscious for longer. *disabled right now in Woundmed
-reagent-effect-guidebook-adjust-bone-damage = Reduces bone damage by {$amount}
+reagent-effect-guidebook-adjust-consciousness = Ayuda al paciente a permanecer consciente por más tiempo. *desactivado actualmente en Woundmed
+reagent-effect-guidebook-adjust-bone-damage = Reduce el daño óseo en {$amount}

@@ -8,11 +8,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-adduplink-desc = Creates uplink on selected item and link it to users account
-cmd-adduplink-help = Usage: adduplink [username] [item-id] [discountEnabled]
+cmd-adduplink-desc = Crea un enlace en el objeto seleccionado y lo vincula a la cuenta del usuario
+cmd-adduplink-help = Uso: adduplink [nombre_de_usuario] [id-objeto] [descuentoActivado]
 
-add-uplink-command-completion-1 = Username (defaults to self)
-add-uplink-command-completion-2 = Uplink uid (default to PDA)
-add-uplink-command-completion-3 = Is uplink discount enabled
-add-uplink-command-error-1 = Selected player doesn't control any entity
-add-uplink-command-error-2 = Failed to add uplink to the player
+add-uplink-command-completion-1 = Nombre de usuario (por defecto, uno mismo)
+add-uplink-command-completion-2 = UID del enlace (por defecto, PDA)
+add-uplink-command-completion-3 = Si el descuento del enlace está activado
+add-uplink-command-error-1 = El jugador seleccionado no controla ninguna entidad
+add-uplink-command-error-2 = No se pudo añadir el enlace al jugador

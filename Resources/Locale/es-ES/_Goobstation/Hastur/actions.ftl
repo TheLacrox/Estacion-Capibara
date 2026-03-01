@@ -1,23 +1,23 @@
-hastur-lash-target = {THE($user)} lashes {THE($target)} with a sharp tentacle!
+hastur-lash-target = ¡{THE($user)} azota a {THE($target)} con un tentáculo afilado!
 
-hastur-devour = {THE($user)} reveals their true form for a moment and devours {THE($target)} whole!
+hastur-devour = ¡{THE($user)} revela su verdadera forma por un momento y devora a {THE($target)} entero!
 
-hastur-insanityaura-begin1 = The reality around you fades out...
-hastur-insanityaura-begin2 = Suddenly, your mind feels extremely frail and vulnerable...
-hastur-insanityaura-begin3 = Your sanity begins to unravel...
+hastur-insanityaura-begin1 = La realidad a tu alrededor se desvanece...
+hastur-insanityaura-begin2 = De repente, tu mente se siente extremadamente frágil y vulnerable...
+hastur-insanityaura-begin3 = Tu cordura comienza a deshacerse...
 
-hastur-reveal1 = A horrible apparition fades into view!
-hastur-hide1 = {THE($user)} vanishes from sight!
+hastur-reveal1 = ¡Una horrible aparición se hace visible!
+hastur-hide1 = ¡{THE($user)} desaparece de la vista!
 
-hastur-omnipresence-activate = Everything, everywhere, all at once.
+hastur-omnipresence-activate = Todo, en todas partes, al mismo tiempo.
 
-hastur-pet = A sharp tentacle slaps {THE($user)} away as they attempt to pet {THE($target)}!
+hastur-pet = ¡Un tentáculo afilado aparta a {THE($user)} cuando intenta acariciar a {THE($target)}!
 
-hastur-announcement = The King is watching. It's time for you to perform.
+hastur-announcement = El Rey está mirando. Es hora de que actúes.
 
-ghost-role-information-hastur-name-token = The King in Yellow (Token)
-ghost-role-information-hastur-name = The King in Yellow
+ghost-role-information-hastur-name-token = El Rey de Amarillo (Token)
+ghost-role-information-hastur-name = El Rey de Amarillo
 ghost-role-information-hastur-description = ????
-ghost-role-information-hastur-rules =  You are [color=yellow]???[/color]. 
+ghost-role-information-hastur-rules =  Eres [color=yellow]???[/color].
 hastur-round-end-agent-name = ????
-hastur-role-greeting = I am the [color=yellow]King[/color]. Fear the unknown.
+hastur-role-greeting = Soy el [color=yellow]Rey[/color]. Teme lo desconocido.

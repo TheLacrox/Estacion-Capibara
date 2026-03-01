@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-polymorph-self-action-name = Polymorph ({CAPITALIZE($target)})
-polymorph-self-action-description = Instantly polymorph yourself into {$target}.
+polymorph-self-action-name = Polimorfizar ({CAPITALIZE($target)})
+polymorph-self-action-description = Polimorfízate instantáneamente en {$target}.
 
-polymorph-popup-generic = {CAPITALIZE(THE($parent))} turned into {$child}.
-polymorph-revert-popup-generic = {CAPITALIZE(THE($parent))} reverted back into {$child}.
+polymorph-popup-generic = {CAPITALIZE(THE($parent))} se convirtió en {$child}.
+polymorph-revert-popup-generic = {CAPITALIZE(THE($parent))} volvió a convertirse en {$child}.
 
-polymorph-paused-map-name = Polymorph body storage map
+polymorph-paused-map-name = Mapa de almacenamiento de cuerpo de Polimorfización

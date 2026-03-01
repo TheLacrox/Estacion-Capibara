@@ -1,1 +1,1 @@
-lawbringer-phrase = I AM THE LAW
+lawbringer-phrase = SOY LA LEY

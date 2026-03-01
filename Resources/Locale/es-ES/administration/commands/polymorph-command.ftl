@@ -5,11 +5,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-polymorph-command-description = For when you need someone to stop being a person. Takes an entity and a polymorph prototype.
-polymorph-command-help-text = polymorph <id> <polymorph prototype>
+polymorph-command-description = Para cuando necesitas que alguien deje de ser una persona. Toma una entidad y un prototipo de polimorfismo.
+polymorph-command-help-text = polymorph <id> <prototipo polimorfismo>
 
-add-polymorph-action-command-description = Takes an entity and gives them a voluntary polymorph.
-add-polymorph-action-command-help-text = addpolymorphaction <id> <polymorph prototype>
+add-polymorph-action-command-description = Toma una entidad y le da un polimorfismo voluntario.
+add-polymorph-action-command-help-text = addpolymorphaction <id> <prototipo polimorfismo>
 
 
-polymorph-not-valid-prototype-error = Polymorph prototype is not valid.
+polymorph-not-valid-prototype-error = El prototipo de polimorfismo no es válido.

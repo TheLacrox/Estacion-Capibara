@@ -7,15 +7,15 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Damage examines
-damage-examinable-verb-text = Damage
-damage-examinable-verb-message = Examine the damage values.
+damage-examinable-verb-text = Daño
+damage-examinable-verb-message = Examinar los valores de daño.
 
 damage-hitscan = hitscan
-damage-projectile = projectile
-damage-melee = melee
-damage-throw = throw
+damage-projectile = proyectil
+damage-melee = cuerpo a cuerpo
+damage-throw = lanzamiento
 
-damage-examine = It does the following damage:
-damage-examine-type = It does the following [color=cyan]{$type}[/color] damage:
-damage-value = - [color=red]{$amount}[/color] units of [color=yellow]{$type}[/color].
-damage-none = It does no damage.
+damage-examine = Inflige el siguiente daño:
+damage-examine-type = Inflige el siguiente daño de [color=cyan]{$type}[/color]:
+damage-value = - [color=red]{$amount}[/color] unidades de [color=yellow]{$type}[/color].
+damage-none = No inflige daño.

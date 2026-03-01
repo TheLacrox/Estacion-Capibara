@@ -1,58 +1,58 @@
 # This file is only for the language traits. If we add species-specific languages to the list of traits,
 # we should add them here in the order they are in the list, for organization. Maybe add more languages later.
 
-trait-category-languages = Languages
+trait-category-languages = Idiomas
 
-trait-language-foreigner-light-name = Foreigner Light
+trait-language-foreigner-light-name = Extranjero Ligero
 trait-language-foreigner-light-desc =
-    You understand the common language, Tau-Ceti Basic, but you can't quite speak it yet.
-    You have a translator to help you with your basic understanding of the language, better keep it charged.
+    Entiendes el idioma común, Tau-Ceti Básico, pero aún no puedes hablarlo del todo.
+    Tienes un traductor que te ayuda con tu comprensión básica del idioma, más vale mantenerlo cargado.
 
-trait-language-foreigner-name = Foreigner
+trait-language-foreigner-name = Extranjero
 trait-language-foreigner-desc =
-    You can't understand the common language, Tau-Ceti Basic, and you require a translator at all times to talk.
-    You have a translator to help you with your understanding and speaking, make sure to keep it charged.
+    No entiendes el idioma común, Tau-Ceti Básico, y necesitas un traductor en todo momento para hablar.
+    Tienes un traductor que te ayuda con tu comprensión y habla, asegúrate de mantenerlo cargado.
 
-trait-language-signlanguage-name = Sign Language
+trait-language-signlanguage-name = Lenguaje de Señas
 trait-language-signlanguage-desc =
-    The use of body language, hand signs, and other forms of dexterous movements to get your point across.
-    You can understand and use Tau-Ceti Basic Sign Language (TCB-SL).
-    If you are mute for any reason, you can still communicate with sign language.
+    El uso del lenguaje corporal, señas con las manos y otras formas de movimientos diestros para hacerte entender.
+    Puedes entender y usar la Lengua de Señas Tau-Ceti Básico (TCB-LS).
+    Si eres mudo por cualquier razón, aún puedes comunicarte con el lenguaje de señas.
 
-trait-language-solcommon-name = Sol Common
+trait-language-solcommon-name = Sol Común
 trait-language-solcommon-desc =
-    With its roots in Mandarin Chinese - Common evolved as the official language of the Sol Alliance - with officials working to tie it together with a common tongue.
-    It's spoken by state officials - taught in schools - and spoken by those who either feel a sense of national pride in the Alliance or otherwise fell sway to the culture.
+    Con raíces en el chino mandarín, el Común evolucionó como el idioma oficial de la Alianza Sol, con funcionarios trabajando para unificarlo en una lengua común.
+    Lo hablan funcionarios estatales, se enseña en las escuelas y lo usan quienes sienten orgullo nacional por la Alianza o cayeron bajo su influencia cultural.
 
 trait-language-tradeband-name = Tradeband
 trait-language-tradeband-desc =
-    Descended from latin and romance languages of old Earth - Tradeband remains the main tongue of the upper class of humanity.
-    The language sounds elegant and well structured to most ears. It remains in popular use with traders - diplomats - and those seeking to hold onto a piece of a romantic past.
+    Descendiente de las lenguas latinas y románicas de la vieja Tierra, Tradeband sigue siendo la lengua principal de la clase alta de la humanidad.
+    El idioma suena elegante y bien estructurado para la mayoría. Sigue en uso popular entre comerciantes, diplomáticos y quienes buscan aferrarse a un pasado romántico.
 
 trait-language-freespeak-name = Freespeak
 trait-language-freespeak-desc =
-    A language of renegades and frontiersmen descending from various languages from Earth like Hindi combined into a multi-rooted jumble that sounds incoherent or even barbarian to non-native speakers.
-    This language is the only common cultural identity for humans in the frontier. Speaking this language in itself boldly declares the speaker a free spirit.
-    Often called 'Gutter' by Alliance citizens.
+    Un idioma de renegados y hombres de frontera descendiente de varios idiomas de la Tierra como el hindi, combinados en un revoltijo de múltiples raíces que suena incoherente o incluso bárbaro para los no nativos.
+    Este idioma es la única identidad cultural común para los humanos en la frontera. Hablarlo declara audazmente al hablante como un espíritu libre.
+    Los ciudadanos de la Alianza a menudo lo llaman 'Jerga'.
 
 trait-language-elyran-name = Elyran
 trait-language-elyran-desc =
-    Elyran Standard is the official tongue of the Republic of Elyra.
-    Constructed using elements of Farsi - Arabic - and Turkish - influence from all three of these languages can be seen throughout its grammar and vocabulary.
+    El Elyran Estándar es la lengua oficial de la República de Elyra.
+    Construida con elementos del persa, árabe y turco, la influencia de los tres se aprecia en toda su gramática y vocabulario.
 
-trait-language-valyrianstandard-name = Valyrian Standard
+trait-language-valyrianstandard-name = Valyrian Estándar
 trait-language-valyrianstandard-desc =
-    A language descended from eastern european languages of old earth - Valyrian Standard is the commonly spoken tongue of Harpies brought up on their homeworld of Valyrian 4b
-    It is rarely spoken outside of the worlds of its native speakers, and has in modern times been supplanted by the 'Conlangs of the Sol Alliance.
-    Its speakers are those who wish to uphold the traditions and beliefs of ancient peoples from before the colonial era.
+    Un idioma descendiente de las lenguas del este de Europa de la vieja Tierra, el Valyrian Estándar es la lengua comúnmente hablada por las Harpías criadas en su mundo natal de Valyrian 4b.
+    Rara vez se habla fuera de los mundos de sus hablantes nativos, y en tiempos modernos ha sido suplantado por las jergas de la Alianza Sol.
+    Sus hablantes son quienes desean mantener las tradiciones y creencias de pueblos antiguos de antes de la era colonial.
 
 trait-language-novunederic-name = Novu-Nederic
 trait-language-novunederic-desc =
-    Once the language of seafarers and merchants, now the voice of spacers, terraformers, and pioneers.
-    Spoken in the New-Netherlands, this direct and pragmatic trade language carries the sharp consonants and clipped vowels of its old-world roots.
-    Built on centuries of seafaring, land reclamation, and commerce, it thrives among those who shape entire worlds — just as their ancestors shaped the land from the sea.
+    Antes el idioma de marineros y comerciantes, ahora la voz de espacieros, terraformadores y pioneros.
+    Hablado en los Nuevos Países Bajos, este idioma comercial directo y pragmático lleva las consonantes afiladas y las vocales cortas de sus raíces del viejo mundo.
+    Construido sobre siglos de navegación, recuperación de tierras y comercio, prospera entre quienes dan forma a mundos enteros — igual que sus ancestros dieron forma a la tierra desde el mar.
 
 trait-language-azaziba-name = Sinta'Azaziba
 trait-language-azaziba-desc =
-    A language of Moghes consisting of a combination of spoken word and gesticulation.
-    While waning since Moghes entered the galactic stage - it enjoys popular use by Unathi that never fell to the Hegemony's cultural dominance.
+    Un idioma de Moghes que combina la palabra hablada con la gesticulación.
+    Aunque en declive desde que Moghes entró en el escenario galáctico, goza de uso popular entre los Unathi que nunca cayeron bajo la dominación cultural del Hegemonía.

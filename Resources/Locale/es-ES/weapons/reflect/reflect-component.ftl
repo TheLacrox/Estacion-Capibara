@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-reflect-shot = Reflected!
+reflect-shot = ¡Reflejado!

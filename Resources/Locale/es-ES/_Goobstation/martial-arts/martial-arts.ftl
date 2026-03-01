@@ -4,55 +4,55 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cqc-fail-notself = You can't teach anyone with {CAPITALIZE(THE($manual))}.
+cqc-fail-notself = No puedes enseñar a nadie con {CAPITALIZE(THE($manual))}.
 
-cqc-fail-changeling = We are beyond using this.
-cqc-fail-knowanother = You already know another martial art.
-cqc-fail-already = You already know a martial art.
-cqc-success-unblocked = Your CQC skills are not bound to kitchen anymore.
-cqc-success-learned = You have learned CQC. The manual incinerates in your hands...
-capoeira-success-learned = You have learned Capoeira. The manual incinerates in your hands...
-dragon-success-learned = You have learned Dragon Kung Fu. The manual incinerates in your hands...
-ninjutsu-success-learned = You have learned Ninjutsu. The scroll incinerates in your hands...
-hellrip-success-learned = You have learned Hell Ripte. The scroll incinerates in your hands...
+cqc-fail-changeling = Estamos más allá de necesitar esto.
+cqc-fail-knowanother = Ya conoces otro arte marcial.
+cqc-fail-already = Ya conoces un arte marcial.
+cqc-success-unblocked = Tus habilidades de CQC ya no están vinculadas a la cocina.
+cqc-success-learned = Has aprendido CQC. El manual se incinera entre tus manos...
+capoeira-success-learned = Has aprendido Capoeira. El manual se incinera entre tus manos...
+dragon-success-learned = Has aprendido Kung Fu Dragón. El manual se incinera entre tus manos...
+ninjutsu-success-learned = Has aprendido Ninjutsu. El pergamino se incinera entre tus manos...
+hellrip-success-learned = Has aprendido Hell Ripte. El pergamino se incinera entre tus manos...
 
-carp-scroll-waiting = The journey of a thousand miles begins with one step, and the path of wisdom is traveled slowly, one lesson at a time.
-carp-scroll-advance = You have taken one step closer to becoming a master of the Way of the Sleeping Carp.
-carp-scroll-complete = You are now a master of the Way of the Sleeping Carp.
+carp-scroll-waiting = El viaje de mil millas comienza con un solo paso, y el camino de la sabiduría se recorre despacio, una lección a la vez.
+carp-scroll-advance = Has dado un paso más hacia convertirte en maestro del Camino de la Carpa Durmiente.
+carp-scroll-complete = Ahora eres un maestro del Camino de la Carpa Durmiente.
 
-carp-saying-huah = HUAH!
-carv-vaying-hya = HYA!
-carp-saying-choo = CHOO!
-carp-saying-wuo = WUO!
-carp-saying-kya = KYA!
-carp-saying-huh = HUH!
-carp-saying-hiyoh = HIYOH!
-carp-saying-strike = CARP STRIKE!
-carp-saying-bite = CARP BITE!
+carp-saying-huah = ¡HUAH!
+carv-vaying-hya = ¡HYA!
+carp-saying-choo = ¡CHOO!
+carp-saying-wuo = ¡WUO!
+carp-saying-kya = ¡KYA!
+carp-saying-huh = ¡HUH!
+carp-saying-hiyoh = ¡HIYOH!
+carp-saying-strike = ¡GOLPE DE CARPA!
+carp-saying-bite = ¡MORDIDA DE CARPA!
 
-carp-saying-banzai = BANZAIII!
-carp-saying-kiya = KIYAAAA!
-carp-saying-omae = OMAE WA MOU SHINDEIRU!
-carp-saying-see = YOU CAN'T SEE ME!
-carp-saying-time = MY TIME IS NOW!!
-carp-saying-cowabunga = COWABUNGA!
+carp-saying-banzai = ¡BANZAIII!
+carp-saying-kiya = ¡KIYAAAA!
+carp-saying-omae = ¡OMAE WA MOU SHINDEIRU!
+carp-saying-see = ¡NO PUEDES VERME!
+carp-saying-time = ¡MI MOMENTO ES AHORA!!
+carp-saying-cowabunga = ¡COWABUNGA!
 
-krav-maga-ready = You ready a {$action}
+krav-maga-ready = Preparas un {$action}
 
-martial-arts-action-sender = You hit {$name} with {$move}
-martial-arts-action-receiver = {$name} hit you with {$move}
+martial-arts-action-sender = Golpeas a {$name} con {$move}
+martial-arts-action-receiver = {$name} te golpea con {$move}
 
-martial-arts-fail-prone = You can't use this combo while lying down!
-martial-arts-fail-target-down = You can't use this combo on downed targets!
-martial-arts-fail-target-standing = You can't use this combo on standing targets!
-capoeira-fail-low-velocity = You are too slow to perform this combo!
-ninjutsu-fail-loss-of-surprise = Your intentions are known! Cannot perform this move!
+martial-arts-fail-prone = ¡No puedes usar este combo mientras estás tumbado!
+martial-arts-fail-target-down = ¡No puedes usar este combo en objetivos derribados!
+martial-arts-fail-target-standing = ¡No puedes usar este combo en objetivos de pie!
+capoeira-fail-low-velocity = ¡Eres demasiado lento para realizar este combo!
+ninjutsu-fail-loss-of-surprise = ¡Tus intenciones son conocidas! ¡No puedes realizar este movimiento!
 
-alerts-dragon-power-name = Dragon Power
-alerts-dragon-power-desc = You take a moment to reflect on battles past and to come. This insight will protect you from future harm.
+alerts-dragon-power-name = Poder del Dragón
+alerts-dragon-power-desc = Tomas un momento para reflexionar sobre las batallas pasadas y futuras. Esta perspicacia te protegerá de daños futuros.
 
-alerts-sneak-attack-name = Sneak Attack
-alerts-sneak-attack-desc = To a true shinobi, the first strike and the last strike are one and the same.
+alerts-sneak-attack-name = Ataque furtivo
+alerts-sneak-attack-desc = Para un verdadero shinobi, el primer golpe y el último golpe son uno y el mismo.
 
-alerts-loss-of-surprise-name = Loss Of Surprise
-alerts-loss-of-surprise-desc = Your intentions are known! It will take you a few moments to sneak attack again.
+alerts-loss-of-surprise-name = Pérdida del factor sorpresa
+alerts-loss-of-surprise-desc = ¡Tus intenciones son conocidas! Necesitarás unos momentos antes de poder atacar por sorpresa de nuevo.

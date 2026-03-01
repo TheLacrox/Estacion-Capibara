@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-slime-hurt-by-water-popup = The water melts some of your slime away!
+slime-hurt-by-water-popup = ¡El agua disuelve parte de tu slime!

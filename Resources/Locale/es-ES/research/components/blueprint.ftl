@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-blueprint-receiver-popup-insert = { CAPITALIZE(THE($user)) } inserted { THE($blueprint) } into { THE($receiver) }.
-blueprint-receiver-popup-recipe-exists = The same blueprint was already inserted!
+blueprint-receiver-popup-insert = { CAPITALIZE(THE($user)) } insertó { THE($blueprint) } en { THE($receiver) }.
+blueprint-receiver-popup-recipe-exists = ¡Ya se insertó el mismo plano!

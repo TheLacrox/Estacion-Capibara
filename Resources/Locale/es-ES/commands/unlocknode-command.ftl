@@ -1,4 +1,4 @@
-﻿cmd-unlocknode-desc = Unlocks a node on a given artifact
-cmd-unlocknode-help = unlocknode <artifact uid> <node uid>
-cmd-unlocknode-artifact-hint = <artifact uid>
-cmd-unlocknode-node-hint = <node uid>
+cmd-unlocknode-desc = Desbloquea un nodo en un artefacto dado
+cmd-unlocknode-help = unlocknode <uid de artefacto> <uid de nodo>
+cmd-unlocknode-artifact-hint = <uid de artefacto>
+cmd-unlocknode-node-hint = <uid de nodo>

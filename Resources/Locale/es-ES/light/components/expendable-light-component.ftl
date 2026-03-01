@@ -7,5 +7,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-expendable-light-start-verb = Start Light
-expendable-light-spent-prefix = spent {$baseName}
+expendable-light-start-verb = Encender luz
+expendable-light-spent-prefix = {$baseName} gastado

@@ -1,33 +1,33 @@
-interaction-LookAt-name = Stare
-interaction-LookAt-description = Stare into the void and see it stare back.
-interaction-LookAt-success-self-popup = You stare at {THE($target)}.
-interaction-LookAt-success-target-popup = You feel {THE($user)} staring at you...
-interaction-LookAt-success-others-popup = {THE($user)} stares at {THE($target)}.
+interaction-LookAt-name = Mirar fijamente
+interaction-LookAt-description = Mira fijamente al vacío y verás cómo el vacío te mira a ti.
+interaction-LookAt-success-self-popup = Miras fijamente a {THE($target)}.
+interaction-LookAt-success-target-popup = Sientes que {THE($user)} te mira fijamente...
+interaction-LookAt-success-others-popup = {THE($user)} mira fijamente a {THE($target)}.
 
-interaction-Hug-name = Hug
-interaction-Hug-description = A hug a day keeps the psychological horrors beyond your comprehension away.
-interaction-Hug-success-self-popup = You hug {THE($target)}.
-interaction-Hug-success-target-popup = {THE($user)} hugs you.
-interaction-Hug-success-others-popup = {THE($user)} hugs {THE($target)}.
+interaction-Hug-name = Abrazar
+interaction-Hug-description = Un abrazo al día aleja los horrores psicológicos más allá de tu comprensión.
+interaction-Hug-success-self-popup = Abrazas a {THE($target)}.
+interaction-Hug-success-target-popup = {THE($user)} te abraza.
+interaction-Hug-success-others-popup = {THE($user)} abraza a {THE($target)}.
 
-interaction-KnockOn-name = Knock
-interaction-KnockOn-description = Knock on the target to attract attention.
-interaction-KnockOn-success-self-popup = You knock on {THE($target)}.
-interaction-KnockOn-success-target-popup = {THE($user)} knocks on you.
-interaction-KnockOn-success-others-popup = {THE($user)} knocks on {THE($target)}.
+interaction-KnockOn-name = Llamar
+interaction-KnockOn-description = Llama al objetivo para atraer su atención.
+interaction-KnockOn-success-self-popup = Llamas a {THE($target)}.
+interaction-KnockOn-success-target-popup = {THE($user)} te llama.
+interaction-KnockOn-success-others-popup = {THE($user)} llama a {THE($target)}.
 
 # The below includes conditionals for if the user is holding an item
-interaction-WaveAt-name = Wave at
-interaction-WaveAt-description = Wave at the target. If you are holding an item, you will wave it.
-interaction-WaveAt-success-self-popup = You wave {$hasUsed ->
-    [false] at {THE($target)}.
-    *[true] your {$used} at {THE($target)}.
+interaction-WaveAt-name = Saludar con la mano
+interaction-WaveAt-description = Saluda al objetivo con la mano. Si sostienes un objeto, lo agitarás.
+interaction-WaveAt-success-self-popup = Saludas {$hasUsed ->
+    [false] con la mano a {THE($target)}.
+    *[true] tu {$used} hacia {THE($target)}.
 }
-interaction-WaveAt-success-target-popup = {THE($user)} waves {$hasUsed ->
-    [false] at you.
-    *[true] {POSS-PRONOUN($user)} {$used} at you.
+interaction-WaveAt-success-target-popup = {THE($user)} te saluda {$hasUsed ->
+    [false] con la mano.
+    *[true] con {POSS-PRONOUN($user)} {$used}.
 }
-interaction-WaveAt-success-others-popup = {THE($user)} waves {$hasUsed ->
-    [false] at {THE($target)}.
-    *[true] {POSS-PRONOUN($user)} {$used} at {THE($target)}.
+interaction-WaveAt-success-others-popup = {THE($user)} saluda {$hasUsed ->
+    [false] con la mano a {THE($target)}.
+    *[true] con {POSS-PRONOUN($user)} {$used} hacia {THE($target)}.
 }

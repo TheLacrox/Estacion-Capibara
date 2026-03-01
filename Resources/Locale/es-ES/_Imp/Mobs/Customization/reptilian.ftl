@@ -1,50 +1,50 @@
 # Chest
 
-marking-BadMoltChest = Scar (Bad Molt)
-marking-BadMoltChest-badmolt = Scar (Bad Molt)
+marking-BadMoltChest = Cicatriz (Muda Fallida)
+marking-BadMoltChest-badmolt = Cicatriz (Muda Fallida)
 
 # Head
 
-marking-BadMoltHead = Scar (Bad Molt)
-marking-BadMoltHead-badmolt = Scar (Bad Molt)
+marking-BadMoltHead = Cicatriz (Muda Fallida)
+marking-BadMoltHead-badmolt = Cicatriz (Muda Fallida)
 
-marking-ScarSlash = Scar (Slash)
-marking-ScarSlash-snoutscar = Scar (Slash)
+marking-ScarSlash = Cicatriz (Tajo)
+marking-ScarSlash-snoutscar = Cicatriz (Tajo)
 
-marking-ScarTalons = Scar (Talonmark)
-marking-ScarTalons-talonscar = Scar (Talonmark)
+marking-ScarTalons = Cicatriz (Marca de Garras)
+marking-ScarTalons-talonscar = Cicatriz (Marca de Garras)
 
 # Snout
 
-marking-Fangs = Lizard Fangs
-marking-Fangs-Fangs = Fangs
+marking-Fangs = Colmillos de Lagarto
+marking-Fangs-Fangs = Colmillos
 
-marking-LizardBeard = Lizard Beard
-marking-LizardBeard-beard = Beard
+marking-LizardBeard = Barba de Lagarto
+marking-LizardBeard-beard = Barba
 
-marking-LizardDroopySnout = Lizard Snout (Droopy)
-marking-LizardDroopySnout-droopy = Snout
+marking-LizardDroopySnout = Hocico de Lagarto (Caído)
+marking-LizardDroopySnout-droopy = Hocico
 
 marking-LizardSnoutpiercings = Piercings
 marking-LizardSnoutpiercings-piercings1 = Piercings
 
-marking-LizardSnoutTall = Lizard Snout (Tall)
-marking-LizardSnoutTall-tall = Snout
+marking-LizardSnoutTall = Hocico de Lagarto (Alto)
+marking-LizardSnoutTall-tall = Hocico
 
-marking-LizardUpperSnout = Lizard Snout (High Nostrils)
-marking-LizardUpperSnout-upper = Snout
+marking-LizardUpperSnout = Hocico de Lagarto (Fosas Nasales Altas)
+marking-LizardUpperSnout-upper = Hocico
 
 # Eyes
 
 # RArm
 
-marking-BadMoltRArm = Scar (Bad Molt R)
-marking-BadMoltRArm-badmolt = Scar (Bad Molt R)
+marking-BadMoltRArm = Cicatriz (Muda Fallida D)
+marking-BadMoltRArm-badmolt = Cicatriz (Muda Fallida D)
 
 # LArm
 
-marking-BadMoltLArm = Scar (Bad Molt L)
-marking-BadMoltLArm-badmolt = Scar (Bad Molt L)
+marking-BadMoltLArm = Cicatriz (Muda Fallida I)
+marking-BadMoltLArm-badmolt = Cicatriz (Muda Fallida I)
 
 # RLeg
 
@@ -69,17 +69,17 @@ marking-BadMoltLArm-badmolt = Scar (Bad Molt L)
 marking-BurqaSolidLizard = Burqa
 marking-BurqaSolidLizard-burqasolidlizard = Burqa
 
-marking-HijabFashionableLizard = Hijab (Fashionable)
-marking-HijabFashionableLizard-hijabchiclizard = Hijab (Fashionable)
+marking-HijabFashionableLizard = Hijab (De Moda)
+marking-HijabFashionableLizard-hijabchiclizard = Hijab (De Moda)
 
 marking-HijabSimpleLizard = Hijab (Simple)
 marking-HijabSimpleLizard-hijabsimplelizard = Hijab (Simple)
 
-marking-LizardKoboldEarsMid = Lizard Ears (Kobold Soft)
-marking-LizardKoboldEarsMid-koboldearsmid = Ears
+marking-LizardKoboldEarsMid = Orejas de Lagarto (Kobold Suave)
+marking-LizardKoboldEarsMid-koboldearsmid = Orejas
 
-marking-LizardKoboldEarsTall = Lizard Ears (Kobold Stiff)
-marking-LizardKoboldEarsTall-koboldearstall = Ears
+marking-LizardKoboldEarsTall = Orejas de Lagarto (Kobold Rígido)
+marking-LizardKoboldEarsTall-koboldearstall = Orejas
 
 marking-NiqabLizard = Niqab
 marking-NiqabLizard-niqablizard = Niqab
@@ -87,40 +87,40 @@ marking-NiqabLizard-niqablizard = Niqab
 marking-TichelSimpleLizard = Tichel (Simple)
 marking-TichelSimpleLizard-tichelsimplelizard = Tichel (Simple)
 
-marking-TichelFashionableLizard = Tichel (Fashionable)
-marking-TichelFashionableLizard-tichelfashionablelizard = Tichel (Fashionable)
+marking-TichelFashionableLizard = Tichel (De Moda)
+marking-TichelFashionableLizard-tichelfashionablelizard = Tichel (De Moda)
 
 # HeadTop
 
-marking-LizardHeadFlat = Flat Head
-marking-LizardHeadFlat-flat = Flat Head
+marking-LizardHeadFlat = Cabeza Plana
+marking-LizardHeadFlat-flat = Cabeza Plana
 
-marking-LizardFrill = Head Frill
-marking-LizardFrill-frill = Head Frill
+marking-LizardFrill = Cresta de Cabeza
+marking-LizardFrill-frill = Cresta de Cabeza
 
-marking-LizardHornsKoboldEarspiercings = Lizard Ears (Kobold, Pierced)
-marking-LizardHornsKoboldEarspiercings-koboldears = Ears
+marking-LizardHornsKoboldEarspiercings = Orejas de Lagarto (Kobold, Perforadas)
+marking-LizardHornsKoboldEarspiercings-koboldears = Orejas
 marking-LizardHornsKoboldEarspiercings-kobold_earspiercings = Piercings
 
-marking-LizardHornsNubby-nubby = Lizard Horns (Nubby)
-marking-LizardHornsNubby = Lizard Horns (Nubby)
+marking-LizardHornsNubby-nubby = Cuernos de Lagarto (Pequeños)
+marking-LizardHornsNubby = Cuernos de Lagarto (Pequeños)
 
-marking-LizardLittleHorns = Lizard Horns (Small)
-marking-LizardLittleHorns-small = Horns
+marking-LizardLittleHorns = Cuernos de Lagarto (Pequeños)
+marking-LizardLittleHorns-small = Cuernos
 
 
 # Tail
 
-marking-TailDropped = Dropped Tail
-marking-TailDropped-dropped = Dropped Tail
+marking-TailDropped = Cola Caída
+marking-TailDropped-dropped = Cola Caída
 
-marking-TailGecko = Gecko Tail
-marking-TailGecko-gecko1 = Gecko Tail
-marking-TailGecko-gecko2 = Spots
+marking-TailGecko = Cola de Gecko
+marking-TailGecko-gecko1 = Cola de Gecko
+marking-TailGecko-gecko2 = Manchas
 
-marking-TailSnailLizard = Snail Shell
-marking-TailSnailLizard-snizard1 = Shell
-marking-TailSnailLizard-snizard2 = Tail
-marking-TailSnailLizard-snizard3 = Undertail
+marking-TailSnailLizard = Caparazón de Caracol
+marking-TailSnailLizard-snizard1 = Caparazón
+marking-TailSnailLizard-snizard2 = Cola
+marking-TailSnailLizard-snizard3 = Parte Inferior de la Cola
 
 # RArmExtension

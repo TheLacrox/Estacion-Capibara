@@ -6,9 +6,9 @@
 
 ### Portal verb text
 
-portal-component-ghost-traverse = Traverse
+portal-component-ghost-traverse = Atravesar
 
-portal-component-no-linked-entities = Can't ghost traverse a portal that doesn't have exactly 1 linked portal
-portal-component-can-ghost-traverse = Teleport to the linked portal
+portal-component-no-linked-entities = No se puede atravesar un portal que no tiene exactamente 1 portal enlazado
+portal-component-can-ghost-traverse = Teletransportarse al portal enlazado
 
-portal-component-invalid-configuration-fizzle = The portal fizzles out!
+portal-component-invalid-configuration-fizzle = ¡El portal se desvanece!

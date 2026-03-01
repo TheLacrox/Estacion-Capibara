@@ -4,39 +4,39 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mining-voucher-select-first = Select a kit to redeem first!
-mining-voucher-unpowered = {CAPITALIZE(THE($vendor))} is unpowered!
-mining-voucher-selected = Selected {$kit}!
+mining-voucher-select-first = ¡Selecciona primero un kit para canjear!
+mining-voucher-unpowered = ¡{CAPITALIZE(THE($vendor))} no tiene energía!
+mining-voucher-selected = ¡{$kit} seleccionado!
 
-mining-voucher-extraction-name = Extraction and Rescue Kit
+mining-voucher-extraction-name = Kit de Extracción y Rescate
 mining-voucher-extraction-description =
-    Contains a fulton beacon and 20 fultons, which allows you to send minerals,
-    items and dead bodies back home without having to use the mining shuttle.
-    As a bonus, you get 30 marker beacons to help you better mark your path,
-    and an explorer's webbing, which allows you to carry even more mining equipment.
+    Contiene una baliza fulton y 20 fultones, que te permite enviar minerales,
+    objetos y cadáveres de vuelta a casa sin necesidad de usar el transbordador minero.
+    De bonus, obtienes 30 balizas marcadoras para ayudarte a marcar mejor tu camino,
+    y un arnés de explorador que te permite llevar aún más equipo minero.
 
-mining-voucher-resonator-name = Resonator Kit
+mining-voucher-resonator-name = Kit de Resonador
 mining-voucher-resonator-description =
-    Contains a resonator and a pocket fire extinguisher.
-    The resonator is a handheld device that creates small fields
-    of energy that resonate until they detonate, crushing rock.
-    It does increased damage in low pressure.
+    Contiene un resonador y un extintor de bolsillo.
+    El resonador es un dispositivo portátil que crea pequeños campos
+    de energía que resuenan hasta que detonan, triturando roca.
+    Hace daño incrementado a baja presión.
 
-mining-voucher-survival-name = Survival Kit
+mining-voucher-survival-name = Kit de Supervivencia
 mining-voucher-survival-description =
-    Contains a lavaland death rattle implanter, and a spare shelter capsule
-    to go with it. You are not dying today!
+    Contiene un implantador de muerte en tierra de lava y una cápsula de refugio de repuesto
+    para acompañarlo. ¡Hoy no mueres!
 
-mining-voucher-minebot-name = Minebot Kit
+mining-voucher-minebot-name = Kit de Robot Minero
 mining-voucher-minebot-description =
-    Contains a little minebot companion that helps you in storing ore and hunting wildlife.
-    Also comes with an upgraded industrial welding tool, a welding mask and a KA modkit that allows shots to pass through the minebot.
+    Contiene un pequeño compañero robot minero que te ayuda a almacenar mineral y a cazar fauna.
+    También viene con una herramienta de soldadura industrial mejorada, una máscara de soldadura y un modkit KA que permite que los disparos atraviesen al robot minero.
 
-mining-voucher-combat-name = Combat Kit
+mining-voucher-combat-name = Kit de Combate
 mining-voucher-combat-description =
-    Contains a kinetic machete and a kinetic dagger. Machete has superior range so you
-    can attack from afar, and dagger can be thrown into enemies to embed and deal critical damage.
+    Contiene un machete cinético y una daga cinética. El machete tiene mayor alcance para
+    atacar desde lejos, y la daga se puede lanzar a los enemigos para incrustarse y causar daño crítico.
 
-mining-voucher-medical-name = Medical Kit
+mining-voucher-medical-name = Kit Médico
 mining-voucher-medical-description =
-    Contains 1 medical kit for Brute and Burn damage respectively, and a survival medipen to go with it.
+    Contiene 1 kit médico para daño Contundente y Quemadura respectivamente, y una medipen de supervivencia para acompañarlos.

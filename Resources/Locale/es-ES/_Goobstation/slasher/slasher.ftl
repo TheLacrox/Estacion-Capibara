@@ -1,47 +1,47 @@
-slasher-role-greeting = You feel an unstoppable urge for vengeance... and synth music. The night is young, the fog is thick, and your machete gleams in the neon starlight. Time to show these spacemen why you're the legend of the midnight massacre!
+slasher-role-greeting = Sientes un impulso imparable de venganza... y música synth. La noche es joven, la niebla es espesa, y tu machete brilla en la luz de neón estelar. ¡Es hora de mostrarles a estos spacemen por qué eres la leyenda de la masacre de medianoche!
 
-ghost-role-information-slasher-name = Slasher
-ghost-role-information-slasher-description = Slaughter and terrorize the living as the Slasher!
+ghost-role-information-slasher-name = Asesino
+ghost-role-information-slasher-description = ¡Masacra y aterroriza a los vivos como el Asesino!
 
-slasher-round-end-agent-name = Slasher
+slasher-round-end-agent-name = Asesino
 
 
-slasher-summon-meatspike-popup = A gruesome meat spike erupts from the ground!
+slasher-summon-meatspike-popup = ¡Un horrible pico de carne emerge del suelo!
 
-slasher-staggerarea-victim = A horrifying chill runs down your spine!
-slasher-staggerarea-popup = You unleash a wave of terror.
+slasher-staggerarea-victim = ¡Un escalofrío aterrador te recorre la columna!
+slasher-staggerarea-popup = Desatas una ola de terror.
 
-slasher-regenerate-no-soul = You need a stolen soul to regenerate!
+slasher-regenerate-no-soul = ¡Necesitas un alma robada para regenerarte!
 
-slasher-soulsteal-success = You feel a dark energy course through you.
-slasher-soulsteal-start = You begin to siphon the life force of your victim...
-slasher-soulsteal-fail-not-down = Your target must be incapacitated.
-slasher-soulsteal-fail-no-mind = Your target has no soul to steal.
-slasher-soulsteal-start-victim = You feel your soul being drained...
-slasher-soulsteal-success-victim = You feel a piece of your soul dissipate.
-slasher-soulsteal-fail-not-valid = This is not a valid target!
-slasher-soulsteal-ascendance = CRITICAL ALERT: Massive psychic disturbance detected. An entity of unprecedented malevolent power has achieved critical mass. All personnel are advised to arm themselves and travel in groups.
+slasher-soulsteal-success = Sientes una energía oscura recorrerte.
+slasher-soulsteal-start = Empiezas a absorber la fuerza vital de tu víctima...
+slasher-soulsteal-fail-not-down = Tu objetivo debe estar incapacitado.
+slasher-soulsteal-fail-no-mind = Tu objetivo no tiene alma que robar.
+slasher-soulsteal-start-victim = Sientes que te drenan el alma...
+slasher-soulsteal-success-victim = Sientes que una parte de tu alma se disipa.
+slasher-soulsteal-fail-not-valid = ¡Este no es un objetivo válido!
+slasher-soulsteal-ascendance = ALERTA CRÍTICA: Detectada enorme perturbación psíquica. Una entidad de poder maligno sin precedentes ha alcanzado masa crítica. Se aconseja a todo el personal que se arme y viaje en grupos.
 
-slasher-massacre-start = A surge of energy fills the air!
-slasher-massacre-end = The atmosphere returns to normal.
-slasher-massacre-target-change = The focus shifts to a new target.
-slasher-massacre-decap = A decisive blow is struck!
-slasher-massacre-limb = A powerful hit lands!
+slasher-massacre-start = ¡Una oleada de energía llena el aire!
+slasher-massacre-end = La atmósfera vuelve a la normalidad.
+slasher-massacre-target-change = El foco se desplaza a un nuevo objetivo.
+slasher-massacre-decap = ¡Se asesta un golpe decisivo!
+slasher-massacre-limb = ¡Un golpe poderoso aterriza!
 
-slasher-incorporealize-fail-seen = You cannot incorporealize while being watched!
-slasher-corporealize-fail-camera = You cannot corporealize when there's a camera watching!
-slasher-corporealize-fail-nearby = You cannot corporealize while someone is nearby!
-slasher-corporealize-fail-inside-wall = You cannot corporealize while near a solid object!
+slasher-incorporealize-fail-seen = ¡No puedes desencorporeizarte mientras te observan!
+slasher-corporealize-fail-camera = ¡No puedes corporalizarte cuando hay una cámara vigilando!
+slasher-corporealize-fail-nearby = ¡No puedes corporalizarte mientras haya alguien cerca!
+slasher-corporealize-fail-inside-wall = ¡No puedes corporalizarte cerca de un objeto sólido!
 
 reagent-name-slasherium = Slasherium
-reagent-desc-slasherium = Used by the Slasher to heal themselves.
+reagent-desc-slasherium = Usado por el Asesino para curarse.
 
-objective-issuer-slasher = Slasher
-slasher-objective-absorb-souls-title = Absorb { $count } souls
-slasher-objective-absorb-souls-desc = The Crew has no need for such things.
-                                      You do.
+objective-issuer-slasher = Asesino
+slasher-objective-absorb-souls-title = Absorbe { $count } almas
+slasher-objective-absorb-souls-desc = La tripulación no necesita esas cosas.
+                                      Tú sí.
 
-roles-antag-slasher-name = Slasher
-roles-antag-slasher-objectives = Slaughter and terrorize the living as the Slasher!
+roles-antag-slasher-name = Asesino
+roles-antag-slasher-objectives = ¡Masacra y aterroriza a los vivos como el Asesino!
 
-slasher-cannot-use-guns = Your otherworldly form rejects firearms.
+slasher-cannot-use-guns = Tu forma de otro mundo rechaza las armas de fuego.

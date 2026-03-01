@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-clock-examine = The time reads: [color=white]{$time}[/color]
+clock-examine = La hora indica: [color=white]{$time}[/color]

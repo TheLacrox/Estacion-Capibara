@@ -6,12 +6,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-meteor-swarm-start-announcement = Meteors have been detected on collision course with the station.
-station-event-meteor-swarm-end-announcement = The meteor swarm has passed. Please return to your stations.
+station-event-meteor-swarm-start-announcement = Se han detectado meteoritos en curso de colisión con la estación.
+station-event-meteor-swarm-end-announcement = El enjambre de meteoritos ha pasado. Por favor, vuelva a sus puestos.
 
-station-event-space-dust-start-announcement = The station is passing through a debris cloud, expect minor damage to external fittings and fixtures.
-station-event-meteor-urist-start-announcement = The station is colliding with an unidentified swarm of debris. Please stay calm and do not listen to them.
-station-event-meteor-cow-start-announcement = The station is colliding with an unidentified swarm of debris. Warning: Do not feed them wheat. Moo-ve away from exterior sections.
-station-event-meteor-clown-start-announcement = The station is colliding with an unidentified swarm of debris. HONK! Evacuate laughing gas storage immediately.
-station-event-meteor-potato-start-announcement = The station is colliding with an unidentified swarm of debris. High starch content detected.
-station-event-fun-swarm-start-announcement = The station is colliding with an unidentified swarm of debris. Please panic appropriately.
+station-event-space-dust-start-announcement = La estación está atravesando una nube de escombros. Se esperan daños menores en instalaciones y accesorios exteriores.
+station-event-meteor-urist-start-announcement = La estación está colisionando con un enjambre no identificado de escombros. Por favor, mantenga la calma y no les haga caso.
+station-event-meteor-cow-start-announcement = La estación está colisionando con un enjambre no identificado de escombros. Advertencia: No les dé trigo. Alé-jese de las secciones exteriores.
+station-event-meteor-clown-start-announcement = La estación está colisionando con un enjambre no identificado de escombros. ¡HONK! Evacúe el almacén de gas hilarante inmediatamente.
+station-event-meteor-potato-start-announcement = La estación está colisionando con un enjambre no identificado de escombros. Alto contenido en almidón detectado.
+station-event-fun-swarm-start-announcement = La estación está colisionando con un enjambre no identificado de escombros. Por favor, entre en pánico de manera apropiada.

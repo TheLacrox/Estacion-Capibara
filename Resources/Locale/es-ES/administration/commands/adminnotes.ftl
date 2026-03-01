@@ -1,8 +1,8 @@
-﻿cmd-adminnotes-desc = Opens the admin notes panel of target player.
-cmd-adminnotes-help = Usage: adminnotes <UserId OR Username>
+cmd-adminnotes-desc = Abre el panel de notas de administrador del jugador objetivo.
+cmd-adminnotes-help = Uso: adminnotes <IDUsuario O NombreUsuario>
 
-cmd-adminnotes-wrong-target = Unable to find user '{$user}'.
-cmd-adminnotes-args-error = Invalid arguments.
-                            Usage: adminnotes <UserId OR Username>
+cmd-adminnotes-wrong-target = No se puede encontrar al usuario '{$user}'.
+cmd-adminnotes-args-error = Argumentos no válidos.
+                            Uso: adminnotes <IDUsuario O NombreUsuario>
 
-cmd-adminnotes-hint = UserId OR Username
+cmd-adminnotes-hint = IDUsuario O NombreUsuario

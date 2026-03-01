@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-payload-case-not-close-enough = You need to get closer to determine if {THE($ent)} has a payload installed.
-payload-case-has-payload = {CAPITALIZE(THE($ent))} has a payload installed!
-payload-case-does-not-have-payload = {CAPITALIZE(THE($ent))} does not have a payload installed.
+payload-case-not-close-enough = Necesitas acercarte más para determinar si {THE($ent)} tiene una carga instalada.
+payload-case-has-payload = ¡{CAPITALIZE(THE($ent))} tiene una carga instalada!
+payload-case-does-not-have-payload = {CAPITALIZE(THE($ent))} no tiene ninguna carga instalada.

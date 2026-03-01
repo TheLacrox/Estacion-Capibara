@@ -10,9 +10,9 @@
 #
 # SPDX-License-Identifier: MIT
 
-butcherable-different-tool = You are going to need a different tool to butcher { THE($target) }.
-butcherable-knife-butchered-success = You butcher { THE($target) } with { THE($knife) }.
-butcherable-need-knife = Use a sharp object to butcher { THE($target) }.
-butcherable-not-in-container = { CAPITALIZE(THE($target)) } can't be in a container.
-butcherable-mob-isnt-dead = Needs to be dead.
-butcherable-verb-name = Butcher
+butcherable-different-tool = Necesitas una herramienta diferente para despiezar { THE($target) }.
+butcherable-knife-butchered-success = Despieces { THE($target) } con { THE($knife) }.
+butcherable-need-knife = Usa un objeto afilado para despiezar { THE($target) }.
+butcherable-not-in-container = { CAPITALIZE(THE($target)) } no puede estar dentro de un contenedor.
+butcherable-mob-isnt-dead = Tiene que estar muerto.
+butcherable-verb-name = Despiezar

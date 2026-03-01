@@ -3,8 +3,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gas-pipe-sensor-distribution-loop = Distribution loop
-gas-pipe-sensor-waste-loop = Waste loop
-gas-pipe-sensor-mixed-air = Mixed air
-gas-pipe-sensor-teg-hot-loop = TEG hot loop
-gas-pipe-sensor-teg-cold-loop = TEG cold loop
+gas-pipe-sensor-distribution-loop = Circuito de distribución
+gas-pipe-sensor-waste-loop = Circuito de residuos
+gas-pipe-sensor-mixed-air = Aire mezclado
+gas-pipe-sensor-teg-hot-loop = Circuito caliente TEG
+gas-pipe-sensor-teg-cold-loop = Circuito frío TEG

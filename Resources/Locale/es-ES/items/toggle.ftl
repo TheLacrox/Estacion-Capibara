@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-item-toggle-activate = Activate
-item-toggle-deactivate = Deactivate
+item-toggle-activate = Activar
+item-toggle-deactivate = Desactivar
 
-item-toggle-size-fail = Doesn't fit.
+item-toggle-size-fail = No cabe.

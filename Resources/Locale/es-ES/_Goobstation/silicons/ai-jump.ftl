@@ -1,2 +1,2 @@
-ai-cam-warp-ui-menu-title = Jump To Camera
-ai-camera-ui-menu-refresh = Refresh
+ai-cam-warp-ui-menu-title = Saltar a Cámara
+ai-camera-ui-menu-refresh = Actualizar

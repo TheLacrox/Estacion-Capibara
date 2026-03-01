@@ -9,9 +9,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-### Special messages used by internal localizer stuff.
+### Mensajes especiales usados por el localizador interno.
 
-# Used internally by the PRESSURE() function.
+# Usado internamente por la función PRESSURE().
 zzzz-fmt-pressure = { TOSTRING($divided, "F1") } { $places ->
     [0] kPa
     [1] MPa
@@ -21,7 +21,7 @@ zzzz-fmt-pressure = { TOSTRING($divided, "F1") } { $places ->
     *[5] ???
 }
 
-# Used internally by the POWERWATTS() function.
+# Usado internamente por la función POWERWATTS().
 zzzz-fmt-power-watts = { TOSTRING($divided, "F1") } { $places ->
     [0] W
     [1] kW
@@ -31,9 +31,9 @@ zzzz-fmt-power-watts = { TOSTRING($divided, "F1") } { $places ->
     *[5] ???
 }
 
-# Used internally by the POWERJOULES() function.
-# Reminder: 1 joule = 1 watt for 1 second (multiply watts by seconds to get joules).
-# Therefore 1 kilowatt-hour is equal to 3,600,000 joules (3.6MJ)
+# Usado internamente por la función POWERJOULES().
+# Recordatorio: 1 julio = 1 vatio durante 1 segundo (multiplicar vatios por segundos para obtener julios).
+# Por tanto, 1 kilovatio-hora equivale a 3.600.000 julios (3,6 MJ)
 zzzz-fmt-power-joules = { TOSTRING($divided, "F1") } { $places ->
     [0] J
     [1] kJ
@@ -43,7 +43,7 @@ zzzz-fmt-power-joules = { TOSTRING($divided, "F1") } { $places ->
     *[5] ???
 }
 
-# Used internally by the ENERGYWATTHOURS() function.
+# Usado internamente por la función ENERGYWATTHOURS().
 zzzz-fmt-energy-watt-hours = { TOSTRING($divided, "F1") } { $places ->
     [0] Wh
     [1] kWh
@@ -53,5 +53,5 @@ zzzz-fmt-energy-watt-hours = { TOSTRING($divided, "F1") } { $places ->
     *[5] ???
 }
 
-# Used internally by the PLAYTIME() function.
+# Usado internamente por la función PLAYTIME().
 zzzz-fmt-playtime = {$hours}H {$minutes}M

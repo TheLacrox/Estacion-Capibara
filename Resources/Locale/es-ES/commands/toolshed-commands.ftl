@@ -10,110 +10,110 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 command-description-visualize =
-    Takes the input list of entities and puts them into a UI window for easy browsing.
+    Toma la lista de entidades de entrada y las coloca en una ventana de UI para fácil navegación.
 command-description-runverbas =
-    Runs a verb over the input entities with the given user.
+    Ejecuta un verbo sobre las entidades de entrada con el usuario dado.
 command-description-acmd-perms =
-    Returns the admin permissions of the given command, if any.
+    Devuelve los permisos de administrador del comando dado, si los tiene.
 command-description-acmd-caninvoke =
-    Check if the given player can invoke the given command.
+    Comprueba si el jugador dado puede invocar el comando dado.
 command-description-jobs-jobs =
-    Returns all jobs on a station.
+    Devuelve todos los trabajos de una estación.
 command-description-jobs-job =
-    Returns a given job on a station.
+    Devuelve un trabajo dado de una estación.
 command-description-jobs-isinfinite =
-    Returns true if the input job is infinite, otherwise false.
+    Devuelve verdadero si el trabajo de entrada es infinito, de lo contrario falso.
 command-description-jobs-adjust =
-    Adjusts the number of slots for the given job.
+    Ajusta el número de plazas para el trabajo dado.
 command-description-jobs-set =
-    Sets the number of slots for the given job.
+    Establece el número de plazas para el trabajo dado.
 command-description-jobs-amount =
-    Returns the number of slots for the given job.
+    Devuelve el número de plazas para el trabajo dado.
 command-description-laws-list =
-    Returns a list of all law bound entities.
+    Devuelve una lista de todas las entidades vinculadas por leyes.
 command-description-laws-get =
-    Returns all of the laws for a given entity.
+    Devuelve todas las leyes de una entidad dada.
 command-description-stations-list =
-    Returns a list of all stations.
+    Devuelve una lista de todas las estaciones.
 command-description-stations-get =
-    Gets the active station, if and only if there is only one.
+    Obtiene la estación activa, si y solo si hay una única.
 command-description-stations-getowningstation =
-    Gets the station that a given entity is "owned by" (within)
+    Obtiene la estación que "posee" (contiene) una entidad dada.
 command-description-stations-grids =
-    Returns all grids associated with the input station.
+    Devuelve todas las cuadrículas asociadas con la estación de entrada.
 command-description-stations-config =
-    Returns the config associated with the input station, if any.
+    Devuelve la configuración asociada con la estación de entrada, si la tiene.
 command-description-stations-addgrid =
-    Adds a grid to the given station.
+    Añade una cuadrícula a la estación dada.
 command-description-stations-rmgrid =
-    Removes a grid from the given station.
+    Elimina una cuadrícula de la estación dada.
 command-description-stations-rename =
-    Renames the given station.
+    Renombra la estación dada.
 command-description-stations-largestgrid =
-    Returns the largest grid the given station has, if any.
+    Devuelve la cuadrícula más grande que tiene la estación dada, si la tiene.
 command-description-stations-rerollBounties =
-    Clears all the current bounties for the station and gets a new selection.
+    Borra todas las recompensas actuales de la estación y obtiene una nueva selección.
 command-description-stationevent-lsprob =
-    Given a BasicStationEventScheduler prototype, lists the probability of different station events occuring out of the entire pool with current conditions.
+    Dado un prototipo BasicStationEventScheduler, lista la probabilidad de que ocurran diferentes eventos de estación del conjunto completo con las condiciones actuales.
 command-description-stationevent-lsprobtheoretical =
-    Given a BasicStationEventScheduler prototype, player count, and round time, lists the probability of different station events occuring based on the specified number of players and round time.
+    Dado un prototipo BasicStationEventScheduler, número de jugadores y tiempo de ronda, lista la probabilidad de que ocurran diferentes eventos de estación basándose en el número especificado de jugadores y tiempo de ronda.
 command-description-stationevent-prob =
-    Given a BasicStationEventScheduler prototype and an event prototype, returns the probability of a single station event occuring out of the entire pool with current conditions.
+    Dado un prototipo BasicStationEventScheduler y un prototipo de evento, devuelve la probabilidad de que ocurra un único evento de estación del conjunto completo con las condiciones actuales.
 command-description-admins-active =
-    Returns a list of active admins.
+    Devuelve una lista de administradores activos.
 command-description-admins-all =
-    Returns a list of ALL admins, including deadmined ones.
+    Devuelve una lista de TODOS los administradores, incluyendo los que se han quitado los privilegios.
 command-description-marked =
-    Returns the value of $marked as a List<EntityUid>.
+    Devuelve el valor de $marked como List<EntityUid>.
 command-description-rejuvenate =
-    Rejuvenates the given entities, restoring them to full health, clearing status effects, etc.
+    Rejuvenece las entidades dadas, restaurándolas a plena salud, eliminando efectos de estado, etc.
 command-description-tag-list =
-    Lists tags on the given entities.
+    Lista las etiquetas de las entidades dadas.
 command-description-tag-with =
-    Returns only the entities with the given tag from the piped list of entities.
+    Devuelve solo las entidades con la etiqueta dada de la lista de entidades canalizada.
 command-description-tag-add =
-    Adds a tag to the given entities.
+    Añade una etiqueta a las entidades dadas.
 command-description-tag-rm =
-    Removes a tag from the given entities.
+    Elimina una etiqueta de las entidades dadas.
 command-description-tag-addmany =
-    Adds a list of tags to the given entities.
+    Añade una lista de etiquetas a las entidades dadas.
 command-description-tag-rmmany =
-    Removes a list of tags from the given entities.
+    Elimina una lista de etiquetas de las entidades dadas.
 command-description-polymorph =
-    Polymorphs the input entity with the given prototype.
+    Transforma la entidad de entrada con el prototipo dado.
 command-description-unpolymorph =
-    Reverts a polymorph.
+    Revierte una transformación.
 command-description-solution-get =
-    Grabs the given solution off the given entity.
+    Obtiene la solución dada de la entidad dada.
 command-description-solution-adjreagent =
-    Adjusts the given reagent on the given solution.
+    Ajusta el reactivo dado en la solución dada.
 command-description-mind-get =
-    Grabs the mind from the entity, if any.
+    Obtiene la mente de la entidad, si la tiene.
 command-description-mind-control =
-    Assumes control of an entity with the given player.
+    Asume el control de una entidad con el jugador dado.
 command-description-addaccesslog =
-    Adds an access log to this entity. Do note that this bypasses the log's default limit and pause check.
+    Añade un registro de acceso a esta entidad. Ten en cuenta que esto omite el límite predeterminado del registro y la comprobación de pausa.
 command-description-stationevent-simulate =
-    Given a BasicStationEventScheduler prototype, N Rounds, N Players, mean round end, and stddev of round end, Simulates N number of rounds in which events will occur and prints the occurrences of every event after.
+    Dado un prototipo BasicStationEventScheduler, N rondas, N jugadores, media de fin de ronda y desviación estándar de fin de ronda, simula N rondas en las que ocurrirán eventos e imprime las ocurrencias de cada evento al final.
 command-description-xenoartifact-list =
-    List all EntityUids of spawned artifacts.
+    Lista todos los EntityUids de los artefactos generados.
 command-description-xenoartifact-printMatrix =
-    Prints out matrix that displays all edges between nodes.
+    Imprime la matriz que muestra todas las conexiones entre nodos.
 command-description-xenoartifact-totalResearch =
-    Gets all research points that can be extracted from artifact currently.
+    Obtiene todos los puntos de investigación que se pueden extraer del artefacto actualmente.
 command-description-xenoartifact-averageResearch =
-    Calculates amount of research points average generated xeno artifact will output when fully activated.
+    Calcula la cantidad de puntos de investigación que generará de media un xenoartefacto cuando esté completamente activado.
 command-description-xenoartifact-unlockAllNodes =
-    Unlocks all nodes of artifact.
+    Desbloquea todos los nodos del artefacto.
 command-description-jobboard-completeJob =
-    Completes a given salvage job board job for the station.
+    Completa un trabajo de tablero de salvamento dado para la estación.
 command-description-scale-set =
-    Sets an entity's sprite size to a certain scale (without changing its fixture).
+    Establece el tamaño del sprite de una entidad a una escala determinada (sin cambiar su fixture).
 command-description-scale-get =
-    Get an entity's sprite scale as set by ScaleVisualsComponent. Does not include any changes directly made in the SpriteComponent.
+    Obtiene la escala del sprite de una entidad tal como la establece ScaleVisualsComponent. No incluye cambios realizados directamente en el SpriteComponent.
 command-description-scale-multiply =
-    Multiply an entity's sprite size with a certain factor (without changing its fixture).
+    Multiplica el tamaño del sprite de una entidad por un factor determinado (sin cambiar su fixture).
 command-description-scale-multiplyvector =
-    Multiply an entity's sprite size with a certain 2d vector (without changing its fixture).
+    Multiplica el tamaño del sprite de una entidad por un vector 2D determinado (sin cambiar su fixture).
 command-description-scale-multiplywithfixture =
-    Multiply an entity's sprite size with a certain factor (including its fixture).
+    Multiplica el tamaño del sprite de una entidad por un factor determinado (incluyendo su fixture).

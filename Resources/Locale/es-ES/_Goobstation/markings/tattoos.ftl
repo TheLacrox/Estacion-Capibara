@@ -1,11 +1,11 @@
-marking-TattooNanotrasenChest-tattoo_nanotrasen_chest = Chest Tattoo (Nanotrasen)
-marking-TattooNanotrasenChest = Chest Tattoo (Nanotrasen)
+marking-TattooNanotrasenChest-tattoo_nanotrasen_chest = Tatuaje en el pecho (Nanotrasen)
+marking-TattooNanotrasenChest = Tatuaje en el pecho (Nanotrasen)
 
-marking-TattooLoops-tattoo_loops = Loops
-marking-TattooLoops = Loops
+marking-TattooLoops-tattoo_loops = Bucles
+marking-TattooLoops = Bucles
 
-marking-TattooTribal1-tattoo_tribal1 = Tribal Tattoo
-marking-TattooTribal1 = Tribal Tattoo
+marking-TattooTribal1-tattoo_tribal1 = Tatuaje tribal
+marking-TattooTribal1 = Tatuaje tribal
 
-marking-BuffChest_buff = Buff
-marking-BuffChest = Buff
+marking-BuffChest_buff = Musculoso
+marking-BuffChest = Musculoso

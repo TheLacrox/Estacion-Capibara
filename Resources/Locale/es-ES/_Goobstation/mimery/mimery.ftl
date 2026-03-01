@@ -1,2 +1,2 @@
-finger-guns-event-need-hand = You need a free hand to shoot a finger gun!
-finger-guns-event-shoot = shoots finger guns
+finger-guns-event-need-hand = ¡Necesitas una mano libre para disparar una pistola de dedos!
+finger-guns-event-shoot = dispara pistolas de dedos

@@ -8,12 +8,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-# Rules
+# Reglas
 
-ui-rules-header = Goob Station Official Server Rules
-ui-rules-header-rp = Goob Station Roleplay Official Server Rules
-ui-rules-accept = I have read and agree to follow the rules. (I also give up my soul to kira)
-ui-rules-wait = The accept button will be enabled after {$time} seconds.
+ui-rules-header = Reglas oficiales del servidor de Goob Station
+ui-rules-header-rp = Reglas oficiales de rol del servidor de Goob Station
+ui-rules-accept = He leído y acepto seguir las reglas. (También entrego mi alma a kira)
+ui-rules-wait = El botón de aceptar se habilitará después de {$time} segundos.
 
-ui-rules-button-home = Home
-ui-rules-button-back = Back
+ui-rules-button-home = Inicio
+ui-rules-button-back = Atrás

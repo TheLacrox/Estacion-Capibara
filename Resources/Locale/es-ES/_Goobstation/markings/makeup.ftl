@@ -1,17 +1,17 @@
-marking-MakeupLips-lips = Lips
-marking-MakeupLips = Lips
+marking-MakeupLips-lips = Labios
+marking-MakeupLips = Labios
 
-marking-MakeupBlush-blush = Blush
-marking-MakeupBlush = Blush
+marking-MakeupBlush-blush = Colorete
+marking-MakeupBlush = Colorete
 
-marking-MakeupNailPolishLeft-nail_polish_l = Left Nail Polish
-marking-MakeupNailPolishLeft = Left Nail Polish
+marking-MakeupNailPolishLeft-nail_polish_l = Esmalte de uñas izquierdo
+marking-MakeupNailPolishLeft = Esmalte de uñas izquierdo
 
-marking-MakeupNailPolishRight-nail_polish_r = Right Nail Polish
-marking-MakeupNailPolishRight = Right Nail Polish
+marking-MakeupNailPolishRight-nail_polish_r = Esmalte de uñas derecho
+marking-MakeupNailPolishRight = Esmalte de uñas derecho
 
-marking-MakeupMothBlush-moth_blush = Moth Blush
-marking-MakeupMothBlush = Moth Blush
+marking-MakeupMothBlush-moth_blush = Rubor de polilla
+marking-MakeupMothBlush = Rubor de polilla
 
-marking-MakeupMothLips-moth_lips = Moth Lipstick
-marking-MakeupMothLips = Moth Lipstick
+marking-MakeupMothLips-moth_lips = Pintalabios de polilla
+marking-MakeupMothLips = Pintalabios de polilla

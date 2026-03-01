@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-attach-to-grid-verb-get-data-text = Attach to grid
+attach-to-grid-verb-get-data-text = Unir a la cuadrícula

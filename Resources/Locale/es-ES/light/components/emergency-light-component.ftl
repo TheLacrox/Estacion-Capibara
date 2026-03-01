@@ -7,9 +7,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-emergency-light-component-on-examine = The battery indicator displays: {$batteryStateText}.
-emergency-light-component-on-examine-alert = The current station alert level is: [color={$color}]{$level}[/color].
-emergency-light-component-light-state-full = [color=darkgreen]full[/color]
-emergency-light-component-light-state-empty = [color=darkgreen]empty[/color]
-emergency-light-component-light-state-charging = [color=darkgreen]charging[/color]
-emergency-light-component-light-state-on = [color=darkgreen]on[/color]
+emergency-light-component-on-examine = El indicador de batería muestra: {$batteryStateText}.
+emergency-light-component-on-examine-alert = El nivel de alerta actual de la estación es: [color={$color}]{$level}[/color].
+emergency-light-component-light-state-full = [color=darkgreen]llena[/color]
+emergency-light-component-light-state-empty = [color=darkgreen]vacía[/color]
+emergency-light-component-light-state-charging = [color=darkgreen]cargando[/color]
+emergency-light-component-light-state-on = [color=darkgreen]encendida[/color]

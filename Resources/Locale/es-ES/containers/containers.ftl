@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-container-verb-text-enter = Enter
-container-verb-text-empty = Empty
+container-verb-text-enter = Entrar
+container-verb-text-empty = Vaciar
 
 ## missed
-container-thrown-missed = Missed!
+container-thrown-missed = ¡Fallado!

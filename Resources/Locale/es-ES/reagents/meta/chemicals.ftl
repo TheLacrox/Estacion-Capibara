@@ -10,38 +10,38 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-acetone = acetone
-reagent-desc-acetone = A slick, slightly carcinogenic liquid. Has a multitude of mundane uses in everyday life.
+reagent-name-acetone = acetona
+reagent-desc-acetone = Un líquido resbaladizo y ligeramente cancerígeno. Tiene multitud de usos mundanos en la vida cotidiana.
 
-reagent-name-phenol = phenol
-reagent-desc-phenol = An aromatic ring of carbon with a hydroxyl group. A useful precursor to some medicines, but has no healing properties on its own.
+reagent-name-phenol = fenol
+reagent-desc-phenol = Un anillo aromático de carbono con un grupo hidroxilo. Un precursor útil para algunas medicinas, pero sin propiedades curativas por sí solo.
 
-reagent-name-sodium-carbonate = sodium carbonate
-reagent-desc-sodium-carbonate = A white, odorless, water-soluble salt that yields an alkaline solution in water.  Also known as soda ash.
+reagent-name-sodium-carbonate = carbonato de sodio
+reagent-desc-sodium-carbonate = Una sal blanca, inodora y soluble en agua que produce una solución alcalina. También conocida como sosa.
 
 reagent-name-artifexium = artifexium
-reagent-desc-artifexium = A lavender mixture of microscopic artifact fragments and a strong acid. It has the ability to activate artifacts.
+reagent-desc-artifexium = Una mezcla lavanda de fragmentos microscópicos de artefactos y un ácido fuerte. Tiene la capacidad de activar artefactos.
 
-reagent-name-artifact-glue = artifact glue
-reagent-desc-artifact-glue = Mixture of glue and artifexium. It can restore durability of nodes in artifact on touch.
+reagent-name-artifact-glue = pegamento de artefacto
+reagent-desc-artifact-glue = Mezcla de pegamento y artifexium. Puede restaurar la durabilidad de los nodos de un artefacto al tocarlo.
 
-reagent-name-benzene = benzene
-reagent-desc-benzene = An aromatic, slightly carcinogenic, ring of carbon, forming a base for many organic compounds.
+reagent-name-benzene = benceno
+reagent-desc-benzene = Un anillo aromático de carbono, ligeramente cancerígeno, que sirve de base para muchos compuestos orgánicos.
 
-reagent-name-hydroxide = hydroxide
-reagent-desc-hydroxide = A strong alkaline chemical, forming a base for many organic compounds.
+reagent-name-hydroxide = hidróxido
+reagent-desc-hydroxide = Un químico alcalino fuerte que sirve de base para muchos compuestos orgánicos.
 
-reagent-name-sodium-hydroxide = sodium hydroxide
-reagent-desc-sodium-hydroxide = A white, odorless, water-soluble salt that yields an strong alkaline solution in water. Causes burns and vomiting when ingested.
+reagent-name-sodium-hydroxide = hidróxido de sodio
+reagent-desc-sodium-hydroxide = Una sal blanca, inodora y soluble en agua que produce una solución fuertemente alcalina. Provoca quemaduras y vómitos al ingerirse.
 
-reagent-name-fersilicite = fersilicite
-reagent-desc-fersilicite = An intermetallic compound with unusual magnetic properties at low temperatures.
+reagent-name-fersilicite = fersilicita
+reagent-desc-fersilicite = Un compuesto intermetálico con propiedades magnéticas inusuales a bajas temperaturas.
 
-reagent-name-sodium-polyacrylate = sodium polyacrylate
-reagent-desc-sodium-polyacrylate = A super-absorbent polymer with assorted industrial uses.
+reagent-name-sodium-polyacrylate = poliacrilato de sodio
+reagent-desc-sodium-polyacrylate = Un polímero superabsorbente con varios usos industriales.
 
-reagent-name-cellulose = cellulose fibers
-reagent-desc-cellulose = A crystaline polydextrose polymer, plants swear by this stuff.
+reagent-name-cellulose = fibras de celulosa
+reagent-desc-cellulose = Un polímero policristino de polidextrosa; las plantas juran por este material.
 
 reagent-name-rororium = rororium
-reagent-desc-rororium = A strange substance which fills the cores of the hivelords that roam the mining asteroid. Thought to be the source of their regenerative powers.
+reagent-desc-rororium = Una sustancia extraña que llena los núcleos de los señores de la colmena que deambulan por el asteroide minero. Se cree que es la fuente de sus poderes regenerativos.

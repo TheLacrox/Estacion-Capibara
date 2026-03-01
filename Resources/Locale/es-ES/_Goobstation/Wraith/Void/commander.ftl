@@ -1,6 +1,6 @@
-wraith-skeleton-rally-howl = { $user } emits a rallying howl!
+wraith-skeleton-rally-howl = ¡{ $user } emite un aullido de reunión!
 
 # Unused
 
-wraith-skeleton-summon-skeleton = We summon a skeleton from the void.
-wraith-skeleton-summon-fail = We cannot summon a skeleton here!
+wraith-skeleton-summon-skeleton = Invocamos un esqueleto del vacío.
+wraith-skeleton-summon-fail = ¡No podemos invocar un esqueleto aquí!

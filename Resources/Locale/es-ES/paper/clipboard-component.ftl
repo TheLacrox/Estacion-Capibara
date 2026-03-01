@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-clipboard-slot-component-slot-name-pen = Pen
+clipboard-slot-component-slot-name-pen = Bolígrafo

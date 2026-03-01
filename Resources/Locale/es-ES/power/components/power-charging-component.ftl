@@ -6,20 +6,20 @@
 
 ## UI field names
 
-power-charge-window-status = Status:
-power-charge-window-power = Power:
+power-charge-window-status = Estado:
+power-charge-window-power = Energía:
 power-charge-window-eta = ETA:
-power-charge-window-charge = Charge:
+power-charge-window-charge = Carga:
 
 ## UI statuses
-power-charge-window-status-fully-charged = Fully Charged
-power-charge-window-status-off = Off
-power-charge-window-status-charging = Charging
-power-charge-window-status-discharging = Discharging
+power-charge-window-status-fully-charged = Completamente Cargado
+power-charge-window-status-off = Apagado
+power-charge-window-status-charging = Cargando
+power-charge-window-status-discharging = Descargando
 
 ## UI Power Buttons
-power-charge-window-power-on = On
-power-charge-window-power-off = Off
+power-charge-window-power-on = Encendido
+power-charge-window-power-off = Apagado
 power-charge-window-power-label = { $draw } / { $max } W
 
 ## UI ETA label

@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-hairball-mask = Take off your {$mask} first.
-hairball-cough = {CAPITALIZE(THE($name))} starts coughing up a hairball!
+hairball-mask = Primero quítate {$mask}.
+hairball-cough = {CAPITALIZE(THE($name))} empieza a toser una bola de pelo.

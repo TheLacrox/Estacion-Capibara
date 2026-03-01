@@ -5,15 +5,15 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-cola-1 = Refreshing!
-advertisement-cola-2 = Hope you're thirsty!
-advertisement-cola-3 = Over 1 million drinks sold!
-advertisement-cola-4 = Thirsty? Why not cola?
-advertisement-cola-5 = Please, have a drink!
-advertisement-cola-6 = Drink up!
-advertisement-cola-7 = The best drinks in the galaxy!
-advertisement-cola-8 = Way better than Dr. Gibb!
-thankyou-cola-1 = Pop open that can and enjoy!
-thankyou-cola-2 = Pow! Take that, thirst!
-thankyou-cola-3 = I hope you like flavor!
-thankyou-cola-4 = Enjoy your sugar-filled drink!
+advertisement-cola-1 = ¡Refrescante!
+advertisement-cola-2 = ¡Espero que tengas sed!
+advertisement-cola-3 = ¡Más de 1 millón de bebidas vendidas!
+advertisement-cola-4 = ¿Tienes sed? ¿Por qué no cola?
+advertisement-cola-5 = ¡Por favor, tómate algo!
+advertisement-cola-6 = ¡Bebe!
+advertisement-cola-7 = ¡Las mejores bebidas de la galaxia!
+advertisement-cola-8 = ¡Mucho mejor que el Dr. Gibb!
+thankyou-cola-1 = ¡Abre esa lata y disfruta!
+thankyou-cola-2 = ¡Zas! ¡Toma eso, sed!
+thankyou-cola-3 = ¡Espero que te guste el sabor!
+thankyou-cola-4 = ¡Disfruta de tu bebida azucarada!

@@ -1,126 +1,126 @@
-signal-port-name-powered = Powered
-signal-port-description-powered = This port is invoked with HIGH or LOW depending on the machine's power being switched on or off.
+signal-port-name-powered = Con energía
+signal-port-description-powered = Este puerto se invoca con ALTO o BAJO dependiendo de si la energía de la máquina está encendida o apagada.
 
-signal-port-name-plumbing-input = Plumbing: Input
-signal-port-description-plumbing-input = A plumbing automation slot to pump liquids into.
+signal-port-name-plumbing-input = Fontanería: Entrada
+signal-port-description-plumbing-input = Una ranura de automatización de fontanería para bombear líquidos hacia adentro.
 
-signal-port-name-plumbing-output = Plumbing: Output
-signal-port-description-plumbing-output = A plumbing automation slot to pump liquids out of.
+signal-port-name-plumbing-output = Fontanería: Salida
+signal-port-description-plumbing-output = Una ranura de automatización de fontanería para bombear líquidos hacia afuera.
 
-signal-port-name-plumbing-dispenser = Plumbing: Dispenser
-signal-port-description-plumbing-dispenser = A plumbing automation slot to pump liquids into or out of a dispenser's beaker.
+signal-port-name-plumbing-dispenser = Fontanería: Dispensador
+signal-port-description-plumbing-dispenser = Una ranura de automatización de fontanería para bombear líquidos hacia adentro o afuera del vaso de un dispensador.
 
 # Robotic Arm
 
-signal-port-name-input-machine = Item: Input Machine
-signal-port-description-input-machine = A machine automation slot to take items out of, instead of taking them from the floor.
+signal-port-name-input-machine = Objeto: Máquina de Entrada
+signal-port-description-input-machine = Una ranura de automatización de máquina para sacar objetos, en lugar de tomarlos del suelo.
 
-signal-port-name-output-machine = Item: Output Machine
-signal-port-description-output-machine = A machine automation slot to insert items into, instead of placing them on the floor.
+signal-port-name-output-machine = Objeto: Máquina de Salida
+signal-port-description-output-machine = Una ranura de automatización de máquina para insertar objetos, en lugar de colocarlos en el suelo.
 
-signal-port-name-item-moved = Item Moved
-signal-port-description-item-moved = Signal port that gets pulsed after an item is moved by this arm.
+signal-port-name-item-moved = Objeto Movido
+signal-port-description-item-moved = Puerto de señal que se activa después de que un objeto sea movido por este brazo.
 
-signal-port-name-automation-slot-filter = Item: Filter Slot
-signal-port-description-automation-slot-filter = An automation slot for an automation machine's filter.
+signal-port-name-automation-slot-filter = Objeto: Ranura de Filtro
+signal-port-description-automation-slot-filter = Una ranura de automatización para el filtro de una máquina de automatización.
 
 # Reagent Grinder
 
-signal-port-name-automation-slot-beaker = Item: Beaker Slot
-signal-port-description-automation-slot-beaker = An automation slot for a liquid-handling machine's beaker.
+signal-port-name-automation-slot-beaker = Objeto: Ranura de Vaso
+signal-port-description-automation-slot-beaker = Una ranura de automatización para el vaso de una máquina que maneja líquidos.
 
-signal-port-name-automation-slot-input = Item: Input items
-signal-port-description-automation-slot-input = An automation slot for a machine's input item storage.
+signal-port-name-automation-slot-input = Objeto: Objetos de entrada
+signal-port-description-automation-slot-input = Una ranura de automatización para el almacenamiento de objetos de entrada de una máquina.
 
 # Flatpacker
 
-signal-port-name-automation-slot-board = Item: Board Slot
-signal-port-description-automation-slot-board = An automation slot for a flatpacker's circuitboard.
+signal-port-name-automation-slot-board = Objeto: Ranura de Placa
+signal-port-description-automation-slot-board = Una ranura de automatización para la placa de circuitos de un empaquetador plano.
 
-signal-port-name-automation-slot-materials = Item: Material Storage
-signal-port-description-automation-slot-materials = An automation slot for inserting materials into a machine's storage.
+signal-port-name-automation-slot-materials = Objeto: Almacenamiento de Materiales
+signal-port-description-automation-slot-materials = Una ranura de automatización para insertar materiales en el almacenamiento de una máquina.
 
 # Disposal Unit
 
-signal-port-name-flush = Flush
-signal-port-description-flush = Signal port to toggle a disposal unit's flush mechanism.
+signal-port-name-flush = Vaciar
+signal-port-description-flush = Puerto de señal para alternar el mecanismo de vaciado de una unidad de eliminación.
 
-signal-port-name-eject = Eject
-signal-port-description-eject = Signal port to eject a disposal unit's contents.
+signal-port-name-eject = Expulsar
+signal-port-description-eject = Puerto de señal para expulsar el contenido de una unidad de eliminación.
 
-signal-port-name-ready = Ready
-signal-port-description-ready = Signal port that gets pulsed after a disposal unit becomes fully pressurized.
+signal-port-name-ready = Listo
+signal-port-description-ready = Puerto de señal que se activa después de que una unidad de eliminación quede completamente presurizada.
 
 # Storage Bin
 
-signal-port-name-automation-slot-storage = Item: Storage
-signal-port-description-automation-slot-storage = An automation slot for a storage bin's inventory.
+signal-port-name-automation-slot-storage = Objeto: Almacenamiento
+signal-port-description-automation-slot-storage = Una ranura de automatización para el inventario de un contenedor de almacenamiento.
 
-signal-port-name-storage-inserted = Inserted
-signal-port-description-storage-inserted = Signal port that gets pulsed after an item is inserted into a storage bin.
+signal-port-name-storage-inserted = Insertado
+signal-port-description-storage-inserted = Puerto de señal que se activa después de que un objeto sea insertado en un contenedor de almacenamiento.
 
-signal-port-name-storage-removed = Removed
-signal-port-description-storage-removed = Signal port that gets pulsed after an item is removed from a storage bin.
+signal-port-name-storage-removed = Extraído
+signal-port-description-storage-removed = Puerto de señal que se activa después de que un objeto sea extraído de un contenedor de almacenamiento.
 
 # Fax Machine
 
-signal-port-name-automation-slot-paper = Item: Paper
-signal-port-description-automation-slot-paper = An automation slot for a fax machine's paper tray.
+signal-port-name-automation-slot-paper = Objeto: Papel
+signal-port-description-automation-slot-paper = Una ranura de automatización para la bandeja de papel de una máquina de fax.
 
-signal-port-name-fax-copy = Copy Fax
-signal-port-description-fax-copy = Signal port to copy a fax machine's paper.
+signal-port-name-fax-copy = Copiar Fax
+signal-port-description-fax-copy = Puerto de señal para copiar el papel de una máquina de fax.
 
 # Constructor / Interactor
 
-signal-port-name-machine-start = Start
-signal-port-description-machine-start = Signal port to start a machine once.
+signal-port-name-machine-start = Iniciar
+signal-port-description-machine-start = Puerto de señal para iniciar una máquina una vez.
 
-signal-port-name-machine-autostart = Auto Start
-signal-port-description-machine-autostart = Signal port to control starting after completing automatically.
+signal-port-name-machine-autostart = Inicio Automático
+signal-port-description-machine-autostart = Puerto de señal para controlar el inicio automático tras completar.
 
-signal-port-name-machine-started = Started
-signal-port-description-machine-started = Signal port that gets pulsed after a machine starts.
+signal-port-name-machine-started = Iniciada
+signal-port-description-machine-started = Puerto de señal que se activa después de que una máquina comienza.
 
-signal-port-name-machine-completed = Completed
-signal-port-description-machine-completed = Signal port that gets pulsed after a machine completes its work.
+signal-port-name-machine-completed = Completada
+signal-port-description-machine-completed = Puerto de señal que se activa después de que una máquina completa su trabajo.
 
-signal-port-name-machine-failed = Failed
-signal-port-description-machine-failed = Signal port that gets pulsed after a machine fails to start.
+signal-port-name-machine-failed = Fallida
+signal-port-description-machine-failed = Puerto de señal que se activa después de que una máquina falla al iniciar.
 
 # Interactor
 
-signal-port-name-automation-slot-tool = Item: Tool
-signal-port-description-automation-slot-tool = An automation slot for an interactor's held tool.
+signal-port-name-automation-slot-tool = Objeto: Herramienta
+signal-port-description-automation-slot-tool = Una ranura de automatización para la herramienta sostenida por un interactor.
 
 # Autodoc
 
-signal-port-name-automation-slot-autodoc-hand = Item: Autodoc Hand
-signal-port-description-automation-slot-autodoc-hand = An automation slot for an autodoc's held organ/part/etc from STORE ITEM / GRAB ITEM instructions.
+signal-port-name-automation-slot-autodoc-hand = Objeto: Mano del Autodoc
+signal-port-description-automation-slot-autodoc-hand = Una ranura de automatización para el órgano/parte/etc. sostenido por el autodoc de las instrucciones GUARDAR OBJETO / COGER OBJETO.
 
-signal-port-name-alt-interact = Alt Interact Mode
-signal-port-description-alt-interact = Signal port to toggle alt interact mode, or set it to a HIGH/LOW value.
+signal-port-name-alt-interact = Modo de Interacción Alternativo
+signal-port-description-alt-interact = Puerto de señal para alternar el modo de interacción alternativo, o establecerlo a un valor ALTO/BAJO.
 
 # Gas Canister
 
-signal-port-name-automation-slot-gas-tank = Item: Gas Tank
-signal-port-description-automation-slot-gas-tank = An automation slot for a gas tank.
+signal-port-name-automation-slot-gas-tank = Objeto: Tanque de Gas
+signal-port-description-automation-slot-gas-tank = Una ranura de automatización para un tanque de gas.
 
 # ChemMaster
 
-signal-port-name-automation-slot-bottles = Item: Bottles Slot
-signal-port-description-automation-slot-bottles = An automation slot for a ChemMaster's pill or liquid bottle.
+signal-port-name-automation-slot-bottles = Objeto: Ranura de Botellas
+signal-port-description-automation-slot-bottles = Una ranura de automatización para la pastilla o botella líquida del ChemMaster.
 
 # Radiation Collector
 
-signal-port-name-rad-empty = Empty
-signal-port-description-rad-empty = Signal port set to HIGH if the tank is missing or below 33% pressure, LOW otherwise.
+signal-port-name-rad-empty = Vacío
+signal-port-description-rad-empty = Puerto de señal establecido en ALTO si el tanque no está disponible o está por debajo del 33% de presión, BAJO en caso contrario.
 
-signal-port-name-rad-low = Low
-signal-port-description-rad-low = Signal port set to HIGH if the tank is below 66% pressure, LOW otherwise.
+signal-port-name-rad-low = Bajo
+signal-port-description-rad-low = Puerto de señal establecido en ALTO si el tanque está por debajo del 66% de presión, BAJO en caso contrario.
 
-signal-port-name-rad-full = Full
-signal-port-description-rad-full = Signal port set to HIGH if the tank is above 66% pressure, LOW otherwise.
+signal-port-name-rad-full = Lleno
+signal-port-description-rad-full = Puerto de señal establecido en ALTO si el tanque está por encima del 66% de presión, BAJO en caso contrario.
 
 # Lathe
-signal-port-name-lathe-print = Print last recipe
-signal-port-description-lathe-print = Signal port that prints the last set recipe when pulsed.
+signal-port-name-lathe-print = Imprimir última receta
+signal-port-description-lathe-print = Puerto de señal que imprime la última receta establecida cuando se activa.

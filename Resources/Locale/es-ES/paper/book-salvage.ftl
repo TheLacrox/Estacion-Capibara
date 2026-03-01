@@ -1,96 +1,87 @@
+# SPDX-FileCopyrightText: 2021 20kdc <asdd2808@gmail.com>
+# SPDX-FileCopyrightText: 2021 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 CrudeWax <75271456+CrudeWax@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Fishfish458 <47410468+Fishfish458@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 fishfish458 <fishfish458>
 # SPDX-FileCopyrightText: 2023 dontbetank <59025279+dontbetank@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Perry Fraser <perryprog@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2024 drakewill-CRL <46307022+drakewill-CRL@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 themias <89101928+themias@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-book-text-demonomicon1 = How To Summon a Demon
-          - by J.G. Wizgerald
+book-text-plasma-trap = Jajajajá, no hay forma de que lleguen ahora a nuestra reserva, ¿verdad?
+      Preparé el área donde está nuestro material para que esté a un cálido millar de K.
+      Ya sabes cómo vaciarlo cuando lo necesitemos.
+       - J.
 
-          1. todo finish writing demon summoning guide
+book-text-holoparasite-info = ¡Gracias por elegir nuestro paquete de holoparásito!
+      En Cybersun, nos enorgullecemos de la tecnología militar e industrial de vanguardia, ¡y agradecemos enormemente tu contribución a nuestro establecimiento!
+      Los guardianes son seres útiles e inteligentes que anidan dentro de tu cuerpo, completamente inmunes a los peligros comunes como la presión, la temperatura ¡e incluso las balas!
+      Has adquirido el paquete de holoparásito, que contiene un activador de holoparásito, un folleto de instrucciones y nuestra merchandising de gorra blanda.
+      Instrucciones de uso:
+      1. Activa el inyector de holoparásito (preferiblemente en un área apartada).
+      2. Espera la sensación de hormigueo y/o dolorosa metafísica.
+      3. Comprueba que tu holoparásito tiene la capacidad de comunicarse y cooperar, y la capacidad de entender tus órdenes.
+      4. Usa tu habilidad de evocar-manifestar para invocar o retirar el holoparásito de vuelta a tu cuerpo.
+      5. ¡Mantén al holoparásito a corta distancia de ti, o de lo contrario será retirado a la fuerza!
+      ADVERTENCIA: Los guardianes son seres metafísicos, pero se nutren de tu SALUD para existir. ¡El daño directo hecho a los guardianes se te transferirá parcialmente a ti!
+      Cybersun Inc. no se hace responsable de la aniquilación total derivada del mal uso de la tecnología de holoparásito.
 
-book-text-demonomicon2 = How To Summon a Lemon
-          - by J.G. Wizgerald
+book-text-ame-scribbles = No sé si ya tienes formación, así que espero que esto sirva de ayuda.
+      El controlador del AME necesita alimentación de baja tensión y un cable de alta tensión para la salida. Comprueba el área con una palanca si no estás seguro.
+      Debería haber una habitación vacía junto a donde encontraste esto; esa habitación está cableada para el AME.
+      Aunque puedes colocar un AME en cualquier sitio si puedes llevar los cables hasta él.
+      Cuadrícula de 3x3 de piezas de AME; usa una multitool para desempacarlas. Ten cuidado de no "atrapar" nada.
+      El controlador del AME debe estar adyacente horizontal o verticalmente (no en diagonal) a cualquier punto.
+      Con solo 1 núcleo (lo que te dará una cuadrícula de 3x3), no lo subas por encima de 2.
+      La regla de oro es 2 de inyección por cada 1 de núcleo. Puedes bajar para ahorrar combustible.
+      Subir demasiado quemará el motor y eventualmente lo hará explotar. No lo hagas.
+      No olvides reabastecerlo de combustible; tiende a parar en el peor momento posible.
 
-          1. todo finish writing lemon summoning guide
-          2. WAit. Typo. Oh shit. Sorry guys
+book-text-agrichemkit-manual = ¡Gracias por elegir el kit de química NanoTrasen Agri-Chem es Divertido! apto para todas las edades, ¡el mejor juguete educativo de 2468! Prepárate para descubrir todo sobre las mayores innovaciones en agricultura desde que la gente enterraba peces junto a sus semillas de maíz.
 
-book-text-demonomicon3 = Cool Demon Names I Found
-      - by Ms. Mossrock
+      Contenido:
+      5 botellas de 30u convenientemente etiquetadas, 1 de cada una de nitrógeno, fósforo, hidrógeno, potasio y etanol
+      2 viales Safe-T-Fun(TM) de 5u, 1 de cada uno de cloro y radio
+      1 botella vacía de 30u, lista para tus experimentos.
 
-      Abraxas
-      Nephilim
-      Baal
-      Leviathan
-      Gary
-      Moloch
-      Scylla
-      Phenex
+      Primer experimento: Nutriente EZ
+      Para crear Nutriente EZ, un fertilizante densamente cargado con nutrientes necesarios para plantas sanas, mezcla partes iguales de nitrógeno, fósforo y potasio. Para llenar una botella completa, eso son 10u de cada uno.
+      Una pequeña botella de Nutriente EZ reemplaza una gran pila de productos que de otro modo compostarías para mantener tus plantas creciendo fuertes. Y los cultivos que compostas son cultivos de los que no obtuviste ganancias, así que mantén fluyendo ese Nutriente EZ.
 
-book-text-chemistry-insane = IGOR CHEMISTRY GUIDE TO CHEMISTRY
+      Segundo experimento: Amoniaco y Dietilamina
+      Mezcla 3 partes de hidrógeno con 1 parte de nitrógeno para hacer amoniaco. Es un nutritivo y saludable manjar para tus cultivos que no están en su mejor momento.
+      Pero si quieres impresionar a los jueces en la Feria del Condado patrocinada por NanoTrasen, tendrás que añadir una cantidad igual de etanol a tu amoniaco.
+      Esto se mezclará para hacer Dietilamina, ¡un fertilizante milagroso que puede hacer que las plantas crezcan más rápido Y vivan más tiempo! Mantén contigo más tiempo los cultivos que amas gracias a la Dietilamina.
 
-      TITLE: GUIDE TO CHEMISTRY
+      Tercer experimento: Mutágeno inestable
+      Cuando estés listo para demostrarle a todos que eres el mejor botánico de la estación, tendrás que mezclar algo de mutágeno inestable y esperar lo mejor. A pesar del nombre aterrador, el mutágeno inestable es completamente seguro cuando se aplica a las plantas, pero no bebas tú mismo el llamativo químico verde.
 
-      ABSTRACT: GUIDE TO CHEMISTRY
+      Mezcla partes iguales de radio, fósforo y cloro para obtener un brillante lote verde de mutágeno inestable, la manera segura y divertida de sacar el máximo partido a tu granja. ¡Las 15u que este kit te permite hacer podrían ser tu introducción a la fama agroquímica!
+      El mutágeno inestable puede tener una amplia variedad de efectos en la vida vegetal, incluidos cambios drásticos en todo tipo de parámetros de crecimiento, producción llena de productos farmacéuticos útiles, plantas que brillan en la oscuridad, o la creación de especies completamente nuevas.
 
-      SECTION: WISE WORDS OF IGOR CHEMISTRY
+      Cada planta individual responde al mutágeno inestable de manera diferente, por lo que puede que quieras usar pequeñas dosis en múltiples cultivos e intentar cruzar los mejores rasgos de cada uno de ellos. Aplicar múltiples dosis a una planta puede acumular múltiples cambios y dificultar el aislamiento de rasgos deseables.
+      El mutágeno inestable es completamente seguro cuando se usa como fertilizante, y NanoTrasen no asume ninguna responsabilidad por cultivos muertos, facturas de agua excesivas, plantas recién conscientes haciendo preguntas existenciales, o peones agrícolas estrangulados por la flora que puedan ocurrir de manera coincidente mientras se usa.
+      No bebas mutágeno inestable. Lávate las manos a fondo después de manipularlo. Lávate los ojos si has mirado el mutágeno inestable durante más de 30 minutos en un período de 24 horas. Guárdalo en un cuarto oscuro entre 293–295K. No lo uses en días festivos de la empresa. Si empiezas a escuchar voces que te dicen que bebas mutágeno inestable, por favor contacta con tu médico, jefe de personal o exorcista.
 
-      MY NUMBER ONE TIP. IS TO ALWAYS HAVE FUN. YOU NEVER KNOW WHEN IT'LL ALL END.
-      SO JUST KEEP AT IT!!
+book-text-combat-bakery-kit = ¡Gracias por elegir nuestro kit de panadería de combate!
+      Se incluyen dos (2) Croissants arrojadizos patentados por CyberSun, y una (1) Espada baguette pendiente de patente.
+      La placa de microondas Donk Co. incluida puede construir un microondas capaz de hornear más armas.
+      Al igual que las armas horneadas, asegúrate de comerte esta nota después de usarla. Buena suerte, agente.
 
-      MY NUMBER TWO TIP. I JUST CAN'T STOP FUCKING GRINDING UP JUMPSUITS. MY "COLLEAGUES" (agents) KEEP YELLING AT ME
-      TO STOP AND THAT 'itll come out of our paychecks' BUT THE STUFF IS SO GOOD. I'M LIKE AN INTERIOR DECORATION GENIUS.
-      SAXOPHONES AND BATTERIES TAKE MY MIND OFF OF IT BUT I'M ALWAYS BACK TO THE JUMPSUITS. HOO WEE.
+      Receta de espada baguette:
+      Masa x 1
+      Sal 5u
+      Pimienta 5u
+      Varilla de metal x 1
+      Tiempo de cocción: 15 segundos
 
-      MY NUMBER THREE TIP. THANK YOU FOR READING!! IGOR CHEMISTRY
-
-      CONCLUSION: IGOR CHEMISTRY
-
-book-text-botanics = ** Applications of Botanical Specimens Found In Nanotrasen Territories **
-
-      Many plants, when ground, yield useful chemicals. S. (spessmens) papaver and S. aloe vera
-      are known for their basic healing properties.
-
-      S. lucidum, or lingzhi, is known for its potent ability to save those near death from toxins. Eating too much
-      is known to cause adverse effects.
-
-      S. amanita, a powerfully poisonous specimen (Rest In Peace Sir Alacaster), and S. galactica, a
-      seemingly ordinary antitoxin, appear to have some sort of relation to eachother.
-
-      Some research is being done on combinations of the medicinal plants discussed, and they may prove fruitful.
-
-      ----
-
-      - penned by James Alacaster and Golzuk Amaranth
-
-book-text-gnome = All Hail Our Gnome King
-
-      He who is the grand cartographer who placed our kind into the world of the Island!
-
-      He who loves those with the largest of Hats!
-
-      Struck down by the evildoers who cannot appreciate our kind!
-
-      Our revenge will be dealt in full! He will Rise once more! hee Hoo!
-
-book-text-fishing = When I grow up, I want to be one of the harvesters of the space sea!
-
-      I think before my days are done I want to catch the fabled space fish!
-
-      I'm like a little rat sailing the seas of cheese! The bastards come to end me but I am as sly as a cat and as lucky as they come!
-
-      Press the <L BUMPER> and <R TRIGGER> to activate the fishing minigame.
-
-      - Sgt. John Baker Aclopoly
-
-book-text-detective = CHAPTER 1: SMALL ADVENTURES IN A BIG STATION
-
-      This station is filled with crime and grime...
-
-      I was shooting hoops down on Bagel when I heard a cry and a laser shot. I walked under the table nearby to hide, but there wasn't a second shot.
-
-      Outside, the engineerin chief got blasted by two Syndies hooked up with some fierce contraband. There wasn't enough of him for an open casket funeral.
-
-      Things always go wild here.. I'll never look at clowns the same.
-
-      The question is.. Who did it?
+      Receta de croissant arrojadizo:
+      Croissant crudo x 1
+      Loncha de mantequilla x 1
+      Fragmento de vidrio x 1
+      Tiempo de cocción: 5 segundos

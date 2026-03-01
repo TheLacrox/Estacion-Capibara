@@ -6,38 +6,38 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-stat-values-desc = Dumps all stats for a particular category into a table.
-stat-values-server = Can't be run on the server!
-stat-values-args = Invalid number of args, need 1
-stat-values-invalid = {$arg} is not a valid stat!
+stat-values-desc = Vuelca todas las estadísticas de una categoría particular en una tabla.
+stat-values-server = ¡No se puede ejecutar en el servidor!
+stat-values-args = Número de argumentos inválido, se necesita 1
+stat-values-invalid = {$arg} no es una estadística válida.
 
 # Cargo
-stat-cargo-values = Cargo sell prices
+stat-cargo-values = Precios de venta de carga
 stat-cargo-id = ID
-stat-cargo-price = Price
+stat-cargo-price = Precio
 
 # Melee
-stat-melee-values = Melee weapon damage
+stat-melee-values = Daño de armas cuerpo a cuerpo
 stat-melee-id = ID
-stat-melee-base-damage = Base damage
-stat-melee-wield-damage = Wielded damage
-stat-melee-attack-rate = Attack rate
+stat-melee-base-damage = Daño base
+stat-melee-wield-damage = Daño empuñado
+stat-melee-attack-rate = Velocidad de ataque
 stat-melee-dps = DPS
-stat-melee-structural-damage = Structure damage
-stat-melee-structural-wield-damage = Wielded structure damage
+stat-melee-structural-damage = Daño a estructuras
+stat-melee-structural-wield-damage = Daño a estructuras empuñado
 
 # Lathe
-stat-lathe-values = Lathe sell prices
+stat-lathe-values = Precios de venta del torno
 stat-lathe-id = ID
-stat-lathe-cost = Cost
-stat-lathe-sell = Sell price
+stat-lathe-cost = Coste
+stat-lathe-sell = Precio de venta
 
 # Item Sizes
-stat-item-values = Item sizes
+stat-item-values = Tamaños de objetos
 stat-item-id = ID
-stat-item-price = Size
+stat-item-price = Tamaño
 
 # Draw Rate
-stat-drawrate-values = APC draw rate
+stat-drawrate-values = Tasa de consumo de APC
 stat-drawrate-id = ID
-stat-drawrate-rate = Draw Rate (W)
+stat-drawrate-rate = Tasa de consumo (W)

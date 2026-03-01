@@ -4,17 +4,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-atmos-monitoring-window-title = Atmospheric Network Monitor
+atmos-monitoring-window-title = Monitor de Red Atmosférica
 atmos-monitoring-window-station-name = [color=white][font size=14]{$stationName}[/font][/color]
-atmos-monitoring-window-unknown-location = Unknown location
-atmos-monitoring-window-label-gas-opening = Network opening 
-atmos-monitoring-window-label-gas-scrubber = Air scrubber
-atmos-monitoring-window-label-gas-flow-regulator = Flow regulator
-atmos-monitoring-window-label-thermoregulator = Thermoregulator
-atmos-monitoring-window-tab-networks = Atmospheric networks
-atmos-monitoring-window-toggle-overlays = Toggle map overlays
-atmos-monitoring-window-show-pipe-network = Pipe network
-atmos-monitoring-window-show-gas-pipe-sensors = Gas pipe sensors
-atmos-monitoring-window-label-gases = Present gases
-atmos-monitoring-window-flavor-left = Contact an atmospheric technician for assistance
+atmos-monitoring-window-unknown-location = Ubicación desconocida
+atmos-monitoring-window-label-gas-opening = Apertura de red
+atmos-monitoring-window-label-gas-scrubber = Depurador de aire
+atmos-monitoring-window-label-gas-flow-regulator = Regulador de flujo
+atmos-monitoring-window-label-thermoregulator = Termorregulador
+atmos-monitoring-window-tab-networks = Redes atmosféricas
+atmos-monitoring-window-toggle-overlays = Alternar superposiciones del mapa
+atmos-monitoring-window-show-pipe-network = Red de tuberías
+atmos-monitoring-window-show-gas-pipe-sensors = Sensores de tuberías de gas
+atmos-monitoring-window-label-gases = Gases presentes
+atmos-monitoring-window-flavor-left = Contacta a un técnico atmosférico para obtener asistencia
 atmos-monitoring-window-flavor-right = v1.1

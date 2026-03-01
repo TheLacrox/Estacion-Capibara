@@ -1,325 +1,325 @@
 # Chest
 
-marking-BodyhairHumanFemale = Body Hair
-marking-BodyhairHumanFemale-bodyhairfemale = Body Hair
+marking-BodyhairHumanFemale = Vello Corporal
+marking-BodyhairHumanFemale-bodyhairfemale = Vello Corporal
 
-marking-BodyhairHumanMale = Body Hair
-marking-BodyhairHumanMale-bodyhairmale = Body Hair
+marking-BodyhairHumanMale = Vello Corporal
+marking-BodyhairHumanMale-bodyhairmale = Vello Corporal
 
-marking-BodyhairHumanUnsexed = Body Hair
-marking-BodyhairHumanUnsexed-bodyhairmale = Body Hair
+marking-BodyhairHumanUnsexed = Vello Corporal
+marking-BodyhairHumanUnsexed-bodyhairmale = Vello Corporal
 
-marking-ChestBackstabbed = Backstabbed
-marking-ChestBackstabbed-backstabbed = Backstabbed
+marking-ChestBackstabbed = Apuñalado por la Espalda
+marking-ChestBackstabbed-backstabbed = Apuñalado por la Espalda
 
-marking-ChestCutHere = 'Cut Here' Tattoo
-marking-ChestCutHere-cuthere = 'Cut Here' Tattoo
+marking-ChestCutHere = Tatuaje 'Cortar Aquí'
+marking-ChestCutHere-cuthere = Tatuaje 'Cortar Aquí'
 
-marking-ChestHeavyTattoos = Heavy Chest Tattoos
-marking-ChestHeavyTattoos-heavy1 = Heavy Chest Tattoos (Upper)
-marking-ChestHeavyTattoos-heavy2 = Heavy Chest Tattoos (Middle)
-marking-ChestHeavyTattoos-heavy3 = Heavy Chest Tattoos (Lower)
+marking-ChestHeavyTattoos = Tatuajes Intensos de Pecho
+marking-ChestHeavyTattoos-heavy1 = Tatuajes Intensos de Pecho (Superior)
+marking-ChestHeavyTattoos-heavy2 = Tatuajes Intensos de Pecho (Centro)
+marking-ChestHeavyTattoos-heavy3 = Tatuajes Intensos de Pecho (Inferior)
 
-marking-ChestNecklace = Necklace
-marking-ChestNecklace-necklace = Necklace
+marking-ChestNecklace = Collar
+marking-ChestNecklace-necklace = Collar
 
-marking-ChestTwistingLeft = Twisted Scar (Left)
-marking-ChestTwistingLeft-twistingleft = Twisted Scar (Left)
+marking-ChestTwistingLeft = Cicatriz Retorcida (Izquierda)
+marking-ChestTwistingLeft-twistingleft = Cicatriz Retorcida (Izquierda)
 
-marking-ChestTwistingRight = Twisted Scar (Right)
-marking-ChestTwistingRight-twistingright = Twisted Scar (Right)
+marking-ChestTwistingRight = Cicatriz Retorcida (Derecha)
+marking-ChestTwistingRight-twistingright = Cicatriz Retorcida (Derecha)
 
-marking-HumanoidAbs = Muscles
-marking-HumanoidAbs-muscular = Muscles
+marking-HumanoidAbs = Músculos
+marking-HumanoidAbs-muscular = Músculos
 
-marking-ProstheticShoulderL = Prosthetic (Left Shoulder)
-marking-ProstheticShoulderL-prostheticshoulderleft = Prosthetic
+marking-ProstheticShoulderL = Prótesis (Hombro Izquierdo)
+marking-ProstheticShoulderL-prostheticshoulderleft = Prótesis
 
-marking-ProstheticShoulderR = Prosthetic (Right Shoulder)
-marking-ProstheticShoulderR-prostheticshoulderright = Prosthetic (Right Shoulder)
+marking-ProstheticShoulderR = Prótesis (Hombro Derecho)
+marking-ProstheticShoulderR-prostheticshoulderright = Prótesis (Hombro Derecho)
 
-marking-TattooAnchor = Tattoo (Anchor)
-marking-TattooAnchor-anchor = Tattoo
+marking-TattooAnchor = Tatuaje (Ancla)
+marking-TattooAnchor-anchor = Tatuaje
 
-marking-TattooCode1 = Tattoo (Code QR Back Small)
-marking-TattooCode1-code1 = Tattoo
+marking-TattooCode1 = Tatuaje (Código QR Espalda Pequeño)
+marking-TattooCode1-code1 = Tatuaje
 
-marking-TattooCode2 = Tattoo (Code Bar Back)
-marking-TattooCode2-code2 = Tattoo
+marking-TattooCode2 = Tatuaje (Código de Barras Espalda)
+marking-TattooCode2-code2 = Tatuaje
 
-marking-TattooCode3 = Tattoo (Code QR Back Big)
-marking-TattooCode3-code3 = Tattoo
+marking-TattooCode3 = Tatuaje (Código QR Espalda Grande)
+marking-TattooCode3-code3 = Tatuaje
 
-marking-TattooDragon = Tattoo (Dragon)
-marking-TattooDragon-dragontattoo1 = Body
-marking-TattooDragon-dragontattoo2 = Highlights
+marking-TattooDragon = Tatuaje (Dragón)
+marking-TattooDragon-dragontattoo1 = Cuerpo
+marking-TattooDragon-dragontattoo2 = Brillos
 
-marking-ChestStar = Star Scar
-marking-ChestStar-star = Star Scar
+marking-ChestStar = Cicatriz en Estrella
+marking-ChestStar-star = Cicatriz en Estrella
 
-marking-TorsoIncision = Torso Incision
-marking-TorsoIncision-torso_incision = Torso Incision
+marking-TorsoIncision = Incisión en el Torso
+marking-TorsoIncision-torso_incision = Incisión en el Torso
 
-marking-TattooVinesHumanoid = Tattoo (Vines)
-marking-TattooVinesHumanoid-vines = Tattoo (Vines)
+marking-TattooVinesHumanoid = Tatuaje (Enredaderas)
+marking-TattooVinesHumanoid-vines = Tatuaje (Enredaderas)
 
-marking-VitiligoChestF = Vitiligo Spread
+marking-VitiligoChestF = Vitíligo Extendido
 
-marking-VitiligoChestSpots = Vitiligo Spots
+marking-VitiligoChestSpots = Manchas de Vitíligo
 
 # Head
 
-marking-EyebrowsBig = Eyebrows (Big)
-marking-EyebrowsBig-eyebrowsthick = Eyebrows (Big)
+marking-EyebrowsBig = Cejas (Grandes)
+marking-EyebrowsBig-eyebrowsthick = Cejas (Grandes)
 
-marking-EyebrowsBigger = Eyebrows (Bigger)
-marking-EyebrowsBigger-eyebrowsultra = Eyebrows (Bigger)
+marking-EyebrowsBigger = Cejas (Más Grandes)
+marking-EyebrowsBigger-eyebrowsultra = Cejas (Más Grandes)
 
-marking-EyebrowsUnibrow = Eyebrows (Unibrow)
-marking-EyebrowsUnibrow-eyebrowsunibrow = Eyebrows (Unibrow)
+marking-EyebrowsUnibrow = Cejas (Monóceja)
+marking-EyebrowsUnibrow-eyebrowsunibrow = Cejas (Monóceja)
 
-marking-HeadHeavyTattoos = Heavy Neck Tattoos
-marking-HeadHeavyTattoos-heavy1 = Heavy Neck Tattoos (Lower)
-marking-HeadHeavyTattoos-heavy2 = Heavy Neck Tattoos (Upper)
+marking-HeadHeavyTattoos = Tatuajes Intensos de Cuello
+marking-HeadHeavyTattoos-heavy1 = Tatuajes Intensos de Cuello (Inferior)
+marking-HeadHeavyTattoos-heavy2 = Tatuajes Intensos de Cuello (Superior)
 
-marking-HeadTwisting = Twisted Scar
-marking-HeadTwisting-twisting = Twisted Scar
+marking-HeadTwisting = Cicatriz Retorcida
+marking-HeadTwisting-twisting = Cicatriz Retorcida
 
-marking-HeadTwistingFlipped = Twisted Scar, Flipped
-marking-HeadTwistingFlipped-twistingflipped = Twisted Scar, Flipped
+marking-HeadTwistingFlipped = Cicatriz Retorcida Invertida
+marking-HeadTwistingFlipped-twistingflipped = Cicatriz Retorcida Invertida
 
-marking-HumanoidEyebags = Eyebags
-marking-HumanoidEyebags-eyebags = Eyebags
+marking-HumanoidEyebags = Ojeras
+marking-HumanoidEyebags-eyebags = Ojeras
 
-marking-SmileScars = The Jonker
-marking-SmileScars-smile = The Jonker
+marking-SmileScars = El Jonker
+marking-SmileScars-smile = El Jonker
 
-marking-VitiligoHeadJaw = Vitiligo (Jawline)
+marking-VitiligoHeadJaw = Vitíligo (Mandíbula)
 
-marking-VitiligoHeadL = Vitiligo (Left Eye)
+marking-VitiligoHeadL = Vitíligo (Ojo Izquierdo)
 
-marking-VitiligoHeadR = Vitiligo (Right Eye)
+marking-VitiligoHeadR = Vitíligo (Ojo Derecho)
 
 # Snout
 
-marking-HeadSeptum = Septum Ring
-marking-HeadSeptum-septum = Septum Ring
+marking-HeadSeptum = Aro de Septum
+marking-HeadSeptum-septum = Aro de Septum
 
 # Eyes
 
 # RArm
 
-marking-ArmDollJointsTattooRight = Doll Joints Arm Tattoo (Right)
-marking-ArmDollJointsTattooRight-doll = Doll Joints Arm Tattoo (Right)
+marking-ArmDollJointsTattooRight = Tatuaje de Articulaciones de Muñeca (Derecho)
+marking-ArmDollJointsTattooRight-doll = Tatuaje de Articulaciones de Muñeca (Derecho)
 
-marking-ArmHeavyTattoosRight = Heavy Arm Tattoos (Right)
-marking-ArmHeavyTattoosRight-heavy1 = Heavy Arm Tattoos (Upper)
-marking-ArmHeavyTattoosRight-heavy2 = Heavy Arm Tattoos (Lower)
+marking-ArmHeavyTattoosRight = Tatuajes Intensos de Brazo (Derecho)
+marking-ArmHeavyTattoosRight-heavy1 = Tatuajes Intensos de Brazo (Superior)
+marking-ArmHeavyTattoosRight-heavy2 = Tatuajes Intensos de Brazo (Inferior)
 
-marking-ArmProstheticRight = Prosthetic (Right Arm)
-marking-ArmProstheticRight-prosthetic = Prosthetic (Right Arm)
+marking-ArmProstheticRight = Prótesis (Brazo Derecho)
+marking-ArmProstheticRight-prosthetic = Prótesis (Brazo Derecho)
 
-marking-ArmTwistingRight = Twisted Scar (Right Arm)
-marking-ArmTwistingRight-twisting = Twisted Scar (Right Arm)
+marking-ArmTwistingRight = Cicatriz Retorcida (Brazo Derecho)
+marking-ArmTwistingRight-twisting = Cicatriz Retorcida (Brazo Derecho)
 
-marking-TattooCode4 = Tattoo (Code QR Right Arm)
-marking-TattooCode4-code4 = Tattoo
+marking-TattooCode4 = Tatuaje (Código QR Brazo Derecho)
+marking-TattooCode4-code4 = Tatuaje
 
-marking-TattooCode5 = Tattoo (Code Bar Right Arm)
-marking-TattooCode5-code5 = Tattoo
+marking-TattooCode5 = Tatuaje (Código de Barras Brazo Derecho)
+marking-TattooCode5-code5 = Tatuaje
 
-marking-TattooHeartR = Tattoo (Heart Right Arm)
-marking-TattooHeartR-heart = Tattoo
+marking-TattooHeartR = Tatuaje (Corazón Brazo Derecho)
+marking-TattooHeartR-heart = Tatuaje
 
-marking-VitiligoArmR = Vitiligo (Right Arm)
+marking-VitiligoArmR = Vitíligo (Brazo Derecho)
 
 # LArm
 
-marking-ArmDollJointsTattooLeft = Doll Joints Arm Tattoo (Left)
-marking-ArmDollJointsTattooLeft-doll = Doll Joints Arm Tattoo (Left)
+marking-ArmDollJointsTattooLeft = Tatuaje de Articulaciones de Muñeca (Izquierdo)
+marking-ArmDollJointsTattooLeft-doll = Tatuaje de Articulaciones de Muñeca (Izquierdo)
 
-marking-ArmHeavyTattoosLeft = Heavy Arm Tattoos (Left)
-marking-ArmHeavyTattoosLeft-heavy1 = Heavy Arm Tattoos (Upper)
-marking-ArmHeavyTattoosLeft-heavy2 = Heavy Arm Tattoos (Lower)
+marking-ArmHeavyTattoosLeft = Tatuajes Intensos de Brazo (Izquierdo)
+marking-ArmHeavyTattoosLeft-heavy1 = Tatuajes Intensos de Brazo (Superior)
+marking-ArmHeavyTattoosLeft-heavy2 = Tatuajes Intensos de Brazo (Inferior)
 
-marking-ArmProstheticLeft = Prosthetic (Left Arm)
-marking-ArmProstheticLeft-prosthetic = Prosthetic (Left Arm)
+marking-ArmProstheticLeft = Prótesis (Brazo Izquierdo)
+marking-ArmProstheticLeft-prosthetic = Prótesis (Brazo Izquierdo)
 
-marking-ArmTwistingLeft = Twisted Scar (Left Arm)
-marking-ArmTwistingLeft-twisting = Twisted Scar (Left Arm)
+marking-ArmTwistingLeft = Cicatriz Retorcida (Brazo Izquierdo)
+marking-ArmTwistingLeft-twisting = Cicatriz Retorcida (Brazo Izquierdo)
 
-marking-TattooHeartL = Tattoo (Heart Left Arm)
-marking-TattooHeartL-heart = Tattoo
+marking-TattooHeartL = Tatuaje (Corazón Brazo Izquierdo)
+marking-TattooHeartL-heart = Tatuaje
 
-marking-VitiligoArmL = Vitiligo (Left Arm)
+marking-VitiligoArmL = Vitíligo (Brazo Izquierdo)
 
 # RLeg
 
-marking-LegDollJointsTattooRight = Doll Joints Leg Tattoo (Right)
-marking-LegDollJointsTattooRight-doll = Doll Joints Leg Tattoo (Right)
+marking-LegDollJointsTattooRight = Tatuaje de Articulaciones de Pierna (Derecho)
+marking-LegDollJointsTattooRight-doll = Tatuaje de Articulaciones de Pierna (Derecho)
 
-marking-LegHeavyTattoosRight = Heavy Leg Tattoos (Right)
-marking-LegHeavyTattoosRight-heavy1 = Heavy Leg Tattoos (Upper)
-marking-LegHeavyTattoosRight-heavy2 = Heavy Leg Tattoos (Lower)
+marking-LegHeavyTattoosRight = Tatuajes Intensos de Pierna (Derecha)
+marking-LegHeavyTattoosRight-heavy1 = Tatuajes Intensos de Pierna (Superior)
+marking-LegHeavyTattoosRight-heavy2 = Tatuajes Intensos de Pierna (Inferior)
 
-marking-LegTwistingRight = Twisted Scar (Right Leg)
-marking-LegTwistingRight-twisting = Twisted Scar (Right Leg)
+marking-LegTwistingRight = Cicatriz Retorcida (Pierna Derecha)
+marking-LegTwistingRight-twisting = Cicatriz Retorcida (Pierna Derecha)
 
-marking-VitiligoLegR = Vitiligo (Right)
+marking-VitiligoLegR = Vitíligo (Derecha)
 
 # LLeg
 
-marking-LegDollJointsTattooLeft = Doll Joints Leg Tattoo (Left)
-marking-LegDollJointsTattooLeft-doll = Doll Joints Leg Tattoo (Left)
+marking-LegDollJointsTattooLeft = Tatuaje de Articulaciones de Pierna (Izquierdo)
+marking-LegDollJointsTattooLeft-doll = Tatuaje de Articulaciones de Pierna (Izquierdo)
 
-marking-LegHeavyTattoosLeft = Heavy Leg Tattoos (Left)
-marking-LegHeavyTattoosLeft-heavy1 = Heavy Leg Tattoos (Upper)
-marking-LegHeavyTattoosLeft-heavy2 = Heavy Leg Tattoos (Lower)
+marking-LegHeavyTattoosLeft = Tatuajes Intensos de Pierna (Izquierda)
+marking-LegHeavyTattoosLeft-heavy1 = Tatuajes Intensos de Pierna (Superior)
+marking-LegHeavyTattoosLeft-heavy2 = Tatuajes Intensos de Pierna (Inferior)
 
-marking-LegTwistingLeft = Twisted Scar (Left Leg)
-marking-LegTwistingLeft-twisting = Twisted Scar (Left Leg)
+marking-LegTwistingLeft = Cicatriz Retorcida (Pierna Izquierda)
+marking-LegTwistingLeft-twisting = Cicatriz Retorcida (Pierna Izquierda)
 
-marking-VitiligoLegL = Vitiligo (Left)
+marking-VitiligoLegL = Vitíligo (Izquierda)
 
 # LFoot
 
-marking-FootDollJointsTattooLeft = Doll Joints Foot Tattoo (Left)
-marking-FootDollJointsTattooLeft-doll = Doll Joints Foot Tattoo (Left)
+marking-FootDollJointsTattooLeft = Tatuaje de Articulaciones de Pie (Izquierdo)
+marking-FootDollJointsTattooLeft-doll = Tatuaje de Articulaciones de Pie (Izquierdo)
 
-marking-FootHeavyTattoosLeft = Heavy Foot Tattoos (Left)
-marking-FootHeavyTattoosLeft-heavy1 = Heavy Foot Tattoos (Inner)
-marking-FootHeavyTattoosLeft-heavy2 = Heavy Foot Tattoos (Outer)
+marking-FootHeavyTattoosLeft = Tatuajes Intensos de Pie (Izquierdo)
+marking-FootHeavyTattoosLeft-heavy1 = Tatuajes Intensos de Pie (Interior)
+marking-FootHeavyTattoosLeft-heavy2 = Tatuajes Intensos de Pie (Exterior)
 
 # RFoot
 
-marking-FootDollJointsTattooRight = Doll Joints Foot Tattoo (Right)
-marking-FootDollJointsTattooRight-doll = Doll Joints Foot Tattoo (Right)
+marking-FootDollJointsTattooRight = Tatuaje de Articulaciones de Pie (Derecho)
+marking-FootDollJointsTattooRight-doll = Tatuaje de Articulaciones de Pie (Derecho)
 
-marking-FootHeavyTattoosRight = Heavy Foot Tattoos (Right)
-marking-FootHeavyTattoosRight-heavy1 = Heavy Foot Tattoos (Inner)
-marking-FootHeavyTattoosRight-heavy2 = Heavy Foot Tattoos (Outer)
+marking-FootHeavyTattoosRight = Tatuajes Intensos de Pie (Derecho)
+marking-FootHeavyTattoosRight-heavy1 = Tatuajes Intensos de Pie (Interior)
+marking-FootHeavyTattoosRight-heavy2 = Tatuajes Intensos de Pie (Exterior)
 
 # LHand
 
-marking-HandBraceletLeft = Bracelet (Left)
-marking-HandBraceletLeft-bracelet = Bracelet (Left)
+marking-HandBraceletLeft = Pulsera (Izquierda)
+marking-HandBraceletLeft-bracelet = Pulsera (Izquierda)
 
-marking-HandDollJointsTattooLeft = Doll Joints Hand Tattoo (Left)
-marking-HandDollJointsTattooLeft-doll = Doll Joints Hand Tattoo (Left)
+marking-HandDollJointsTattooLeft = Tatuaje de Articulaciones de Mano (Izquierdo)
+marking-HandDollJointsTattooLeft-doll = Tatuaje de Articulaciones de Mano (Izquierdo)
 
-marking-HandHeavyTattoosLeft = Heavy Hand Tattoos (Left)
-marking-HandHeavyTattoosLeft-heavy1 = Heavy Hand Tattoos (Outer)
-marking-HandHeavyTattoosLeft-heavy2 = Heavy Hand Tattoos (Inner)
+marking-HandHeavyTattoosLeft = Tatuajes Intensos de Mano (Izquierda)
+marking-HandHeavyTattoosLeft-heavy1 = Tatuajes Intensos de Mano (Exterior)
+marking-HandHeavyTattoosLeft-heavy2 = Tatuajes Intensos de Mano (Interior)
 
-marking-HandProstheticLeft = Prosthetic (Left Hand)
-marking-HandProstheticLeft-prosthetic = Prosthetic (Left Hand)
+marking-HandProstheticLeft = Prótesis (Mano Izquierda)
+marking-HandProstheticLeft-prosthetic = Prótesis (Mano Izquierda)
 
-marking-HandRingsLeft = Rings (Left)
-marking-HandRingsLeft-rings1 = Left Index Finger
-marking-HandRingsLeft-rings2 = Left Ring Finger
+marking-HandRingsLeft = Anillos (Izquierda)
+marking-HandRingsLeft-rings1 = Dedo Índice Izquierdo
+marking-HandRingsLeft-rings2 = Dedo Anular Izquierdo
 
-marking-HandTwistingLeft = Twisted Scar (Left Hand)
-marking-HandTwistingLeft-twisting = Twisted Scar (Left Hand)
+marking-HandTwistingLeft = Cicatriz Retorcida (Mano Izquierda)
+marking-HandTwistingLeft-twisting = Cicatriz Retorcida (Mano Izquierda)
 
-marking-VitiligoHandL = Vitiligo (Left Hand)
+marking-VitiligoHandL = Vitíligo (Mano Izquierda)
 
 # RHand
 
-marking-HandBraceletRight = Bracelet (Right)
-marking-HandBraceletRight-bracelet = Bracelet (Right)
+marking-HandBraceletRight = Pulsera (Derecha)
+marking-HandBraceletRight-bracelet = Pulsera (Derecha)
 
-marking-HandDollJointsTattooRight = Doll Joints Hand Tattoo (Right)
-marking-HandDollJointsTattooRight-doll = Doll Joints Hand Tattoo (Right)
+marking-HandDollJointsTattooRight = Tatuaje de Articulaciones de Mano (Derecho)
+marking-HandDollJointsTattooRight-doll = Tatuaje de Articulaciones de Mano (Derecho)
 
-marking-HandHeavyTattoosRight = Heavy Hand Tattoos (Right)
-marking-HandHeavyTattoosRight-heavy1 = Heavy Hand Tattoos (Outer)
-marking-HandHeavyTattoosRight-heavy2 = Heavy Hand Tattoos (Inner)
+marking-HandHeavyTattoosRight = Tatuajes Intensos de Mano (Derecha)
+marking-HandHeavyTattoosRight-heavy1 = Tatuajes Intensos de Mano (Exterior)
+marking-HandHeavyTattoosRight-heavy2 = Tatuajes Intensos de Mano (Interior)
 
-marking-HandProstheticRight = Prosthetic (Right Hand)
-marking-HandProstheticRight-prosthetic = Prosthetic (Right Hand)
+marking-HandProstheticRight = Prótesis (Mano Derecha)
+marking-HandProstheticRight-prosthetic = Prótesis (Mano Derecha)
 
-marking-HandRingsRight = Rings (Right)
-marking-HandRingsRight-rings1 = Right Index Finger
-marking-HandRingsRight-rings2 = Right Ring Finger
+marking-HandRingsRight = Anillos (Derecha)
+marking-HandRingsRight-rings1 = Dedo Índice Derecho
+marking-HandRingsRight-rings2 = Dedo Anular Derecho
 
-marking-HandTwistingRight = Twisted Scar (Right Hand)
-marking-HandTwistingRight-twisting = Twisted Scar (Right Hand)
+marking-HandTwistingRight = Cicatriz Retorcida (Mano Derecha)
+marking-HandTwistingRight-twisting = Cicatriz Retorcida (Mano Derecha)
 
-marking-VitiligoHandR = Vitiligo (Right Hand)
+marking-VitiligoHandR = Vitíligo (Mano Derecha)
 
 # FacialHair
 
-marking-FloralBeard = Beard (Floral)
+marking-FloralBeard = Barba (Floral)
 
 # Hair
 
 marking-BurqaSolid = Burqa
 
-marking-HairFloralLong = Floral hair (Long)
+marking-HairFloralLong = Cabello Floral (Largo)
 
-marking-HairFloralMid = Floral hair (Medium)
+marking-HairFloralMid = Cabello Floral (Medio)
 
-marking-HijabFashionable = Hijab (Fashionable)
+marking-HijabFashionable = Hijab (De Moda)
 
 marking-HijabSimple = Hijab (Simple)
 
-marking-HumanHairFrenchBraid = French Braid
+marking-HumanHairFrenchBraid = Trenza Francesa
 
-marking-HumanHairGatheredlow = Gathered Low
+marking-HumanHairGatheredlow = Recogido Bajo
 
-marking-HumanHairHalfUpShort = Half-Up (Short)
+marking-HumanHairHalfUpShort = Medio Recogido (Corto)
 
-marking-HumanHairHalfUpLong = Half-Up (Long)
+marking-HumanHairHalfUpLong = Medio Recogido (Largo)
 
-marking-HumanHairHalfUpUndercut = Half-Up (Undercut)
+marking-HumanHairHalfUpUndercut = Medio Recogido (Rapado)
 
-marking-HumanHairLowpigtails = Low Pigtails
+marking-HumanHairLowpigtails = Coletas Bajas
 
-marking-HumanHairMidPartLong = Middle Part (Long)
+marking-HumanHairMidPartLong = Raya en el Medio (Largo)
 
-marking-HumanHairMidPartLonger = Middle Part (Longer)
+marking-HumanHairMidPartLonger = Raya en el Medio (Más Largo)
 
-marking-HumanHairMulletSideshave = Mullet (Sideshave)
+marking-HumanHairMulletSideshave = Mullet (Rapado Lateral)
 
-marking-HumanHairSpikyPonytailLong = Ponytail (Spiky Long)
+marking-HumanHairSpikyPonytailLong = Cola de Caballo (Puntiaguda Larga)
 
-marking-HumanHairUndercutCurly = Undercut (Curly)
+marking-HumanHairUndercutCurly = Rapado (Rizado)
 
-marking-HumanHairSideshaveCurly = Sideshave (Curly)
+marking-HumanHairSideshaveCurly = Rapado Lateral (Rizado)
 
-marking-MessyPonytail = Messy Ponytail
+marking-MessyPonytail = Cola de Caballo Despeinada
 
 marking-Niqab = Niqab
 
-marking-TichelFashionable = Tichel (Fashionable)
+marking-TichelFashionable = Tichel (De Moda)
 
 marking-TichelSimple = Tichel (Simple)
 
-marking-HumanHairShaggy = Shaggy
+marking-HumanHairShaggy = Desaliñado
 
-marking-HumanHairShaggyLonger = Shaggy (Longer)
+marking-HumanHairShaggyLonger = Desaliñado (Más Largo)
 
-marking-HumanHairShaggyMessy = Shaggy (Messy)
+marking-HumanHairShaggyMessy = Desaliñado (Despeinado)
 
-marking-HumanHairSusie = Mean Girl (Bangs)
+marking-HumanHairSusie = Chica Mala (Con Flequillo)
 
-marking-HumanHairSusieNoBangs = Mean Girl
+marking-HumanHairSusieNoBangs = Chica Mala
 
 # HeadSide
 
 # HeadTop
 
-marking-HeadEarrings = Earrings (Small)
-marking-HeadEarrings-earrings1 = Right Earring
-marking-HeadEarrings-earrings2 = Left Earring
+marking-HeadEarrings = Pendientes (Pequeños)
+marking-HeadEarrings-earrings1 = Pendiente Derecho
+marking-HeadEarrings-earrings2 = Pendiente Izquierdo
 
-marking-HeadEarringsDrop = Earrings (Drop)
-marking-HeadEarringsDrop-earringsdrop1 = Right Earring
-marking-HeadEarringsDrop-earringsdrop2 = Left Earring
+marking-HeadEarringsDrop = Pendientes (Colgantes)
+marking-HeadEarringsDrop-earringsdrop1 = Pendiente Derecho
+marking-HeadEarringsDrop-earringsdrop2 = Pendiente Izquierdo
 
-marking-HeadEarringsWeights = Earrings (Weights)
-marking-HeadEarringsWeights-earringsweights1 = Right Earring
-marking-HeadEarringsWeights-earringsweights2 = Left Earring
+marking-HeadEarringsWeights = Pendientes (Pesas)
+marking-HeadEarringsWeights-earringsweights1 = Pendiente Derecho
+marking-HeadEarringsWeights-earringsweights2 = Pendiente Izquierdo
 
 # Tail
 

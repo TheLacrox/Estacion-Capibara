@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-alien-blood = alien blood
-reagent-desc-alien-blood = The creature this bled from is not of this galaxy. Maybe it's grape flavoured.
+reagent-name-alien-blood = sangre alienígena
+reagent-desc-alien-blood = La criatura de la que proviene esta sangre no es de esta galaxia. Quizás tenga sabor a uva.

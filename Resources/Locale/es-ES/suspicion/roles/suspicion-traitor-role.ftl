@@ -11,14 +11,14 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Shown when greeted with the Suspicion role
-suspicion-role-greeting = You're a {$roleName}!
+suspicion-role-greeting = ¡Eres un {$roleName}!
 
 # Shown when greeted with the Suspicion role
-suspicion-objective = Objective: {$objectiveText}
+suspicion-objective = Objetivo: {$objectiveText}
 
 # Shown when greeted with the Suspicion role
 suspicion-partners-in-crime = {$partnersCount ->
-    [zero] You're on your own. Good luck!
-    [one] Your partner in crime is {$partnerNames}.
-    *[other] Your partners in crime are {$partnerNames}.
+    [zero] Estás solo. ¡Buena suerte!
+    [one] Tu cómplice es {$partnerNames}.
+    *[other] Tus cómplices son {$partnerNames}.
     }

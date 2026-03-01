@@ -12,21 +12,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-role-timer-department-insufficient = You require [color=yellow]{$time}[/color] more playtime in the [color={$departmentColor}]{$department}[/color] department to unlock this.
-role-timer-department-too-high = You require [color=yellow]{$time}[/color] less playtime in the [color={$departmentColor}]{$department}[/color] department to select this. (Are you trying to play a trainee role?)
-role-timer-overall-insufficient = You require [color=yellow]{$time}[/color] more overall playtime to unlock this.
-role-timer-overall-too-high = You require [color=yellow]{$time}[/color] less overall playtime to select this. (Are you trying to play a trainee role?)
-role-timer-role-insufficient = You require [color=yellow]{$time}[/color] more playtime with [color={$departmentColor}]{$job}[/color] to unlock this.
-role-timer-role-too-high = You require[color=yellow] {$time}[/color] less playtime with [color={$departmentColor}]{$job}[/color] to select this. (Are you trying to play a trainee role?)
-role-timer-age-too-old = Your character must be under the age of [color=yellow]{$age}[/color] for you to choose this.
-role-timer-age-too-young = Your character must be over the age of [color=yellow]{$age}[/color] for you to choose this.
-role-timer-whitelisted-species = Your character must be one of the following species for you to select this:
-role-timer-blacklisted-species = Your character must not be one of the following species for you to select this:
-role-timer-whitelisted-traits = Your character must have one of the following traits for you to select this:
-role-timer-blacklisted-traits = Your character must not have any of the following traits for you to select this:
+role-timer-department-insufficient = Necesitas [color=yellow]{$time}[/color] más de tiempo de juego en el departamento [color={$departmentColor}]{$department}[/color] para desbloquear esto.
+role-timer-department-too-high = Necesitas [color=yellow]{$time}[/color] menos de tiempo de juego en el departamento [color={$departmentColor}]{$department}[/color] para seleccionar esto. (¿Estás intentando jugar un rol de aprendiz?)
+role-timer-overall-insufficient = Necesitas [color=yellow]{$time}[/color] más de tiempo de juego en total para desbloquear esto.
+role-timer-overall-too-high = Necesitas [color=yellow]{$time}[/color] menos de tiempo de juego en total para seleccionar esto. (¿Estás intentando jugar un rol de aprendiz?)
+role-timer-role-insufficient = Necesitas [color=yellow]{$time}[/color] más de tiempo de juego con [color={$departmentColor}]{$job}[/color] para desbloquear esto.
+role-timer-role-too-high = Necesitas[color=yellow] {$time}[/color] menos de tiempo de juego con [color={$departmentColor}]{$job}[/color] para seleccionar esto. (¿Estás intentando jugar un rol de aprendiz?)
+role-timer-age-too-old = Tu personaje debe tener menos de [color=yellow]{$age}[/color] años para elegir esto.
+role-timer-age-too-young = Tu personaje debe tener más de [color=yellow]{$age}[/color] años para elegir esto.
+role-timer-whitelisted-species = Tu personaje debe ser una de las siguientes especies para seleccionar esto:
+role-timer-blacklisted-species = Tu personaje no debe ser ninguna de las siguientes especies para seleccionar esto:
+role-timer-whitelisted-traits = Tu personaje debe tener uno de los siguientes rasgos para seleccionar esto:
+role-timer-blacklisted-traits = Tu personaje no debe tener ninguno de los siguientes rasgos para seleccionar esto:
 
-role-timer-locked = Locked (hover for details)
+role-timer-locked = Bloqueado (pasa el cursor para ver los detalles)
 
-role-timer-department-unknown = Unknown Department
+role-timer-department-unknown = Departamento desconocido
 
-role-ban = You have been banned from this role.
+role-ban = Has sido baneado de este rol.

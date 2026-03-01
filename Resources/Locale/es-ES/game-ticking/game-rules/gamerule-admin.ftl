@@ -7,8 +7,8 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # When an admin adds a game rule
-add-gamerule-admin = Game rule({$rule}) added - {$admin}
-list-gamerule-admin-header = | Time       | Rule added
-list-gamerule-admin-no-rules = No game rules have been added.
-starting-rule-selected-preset = Current gamerules in use: {$preset}
-listgamerules-command-help = Lists all rules that have been added for the round so far.
+add-gamerule-admin = Regla de juego ({$rule}) añadida - {$admin}
+list-gamerule-admin-header = | Hora       | Regla añadida
+list-gamerule-admin-no-rules = No se han añadido reglas de juego.
+starting-rule-selected-preset = Reglas de juego actualmente en uso: {$preset}
+listgamerules-command-help = Lista todas las reglas que han sido añadidas durante la ronda hasta el momento.

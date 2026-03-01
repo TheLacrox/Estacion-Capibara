@@ -1,2 +1,2 @@
-reagent-name-beastblood = beast's blood
-reagent-desc-beastblood = A potent drink made from a blend of blood, hyperzine, and sake. Boosts one's capability.
+reagent-name-beastblood = sangre de bestia
+reagent-desc-beastblood = Una potente bebida elaborada con una mezcla de sangre, hiperzina y sake. Aumenta las capacidades de uno.

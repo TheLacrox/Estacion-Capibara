@@ -4,182 +4,182 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-OniHornTallCurved = Tall Curved
-marking-OniHornTallCurved-tall_curved = Tall Curved
+marking-OniHornTallCurved = Alto curvo
+marking-OniHornTallCurved-tall_curved = Alto curvo
 
-marking-OniHornTallCurved3Tone = Tall Curved (Three Tone)
-marking-OniHornTallCurved3Tone-tall_curved_3tone_1 = Bottom Third
-marking-OniHornTallCurved3Tone-tall_curved_3tone_2 = Middle Third
-marking-OniHornTallCurved3Tone-tall_curved_3tone_3 = Top Third
+marking-OniHornTallCurved3Tone = Alto curvo (tres tonos)
+marking-OniHornTallCurved3Tone-tall_curved_3tone_1 = Tercio inferior
+marking-OniHornTallCurved3Tone-tall_curved_3tone_2 = Tercio medio
+marking-OniHornTallCurved3Tone-tall_curved_3tone_3 = Tercio superior
 
-marking-OniHornTallBull= Tall Bull
-marking-OniHornTallBull-tall_bull = Tall Bull
+marking-OniHornTallBull= Toro alto
+marking-OniHornTallBull-tall_bull = Toro alto
 
-marking-OniHornTallBull3Tone = Tall Bull (Three Tone)
-marking-OniHornTallBull3Tone-tall_bull_3tone_1 = Bottom Third
-marking-OniHornTallBull3Tone-tall_bull_3tone_2 = Middle Third
-marking-OniHornTallBull3Tone-tall_bull_3tone_3 = Top Third
+marking-OniHornTallBull3Tone = Toro alto (tres tonos)
+marking-OniHornTallBull3Tone-tall_bull_3tone_1 = Tercio inferior
+marking-OniHornTallBull3Tone-tall_bull_3tone_2 = Tercio medio
+marking-OniHornTallBull3Tone-tall_bull_3tone_3 = Tercio superior
 
-marking-OniHornCrowned = Crowned
-marking-OniHornCrowned-crowned = Crowned
+marking-OniHornCrowned = Coronado
+marking-OniHornCrowned-crowned = Coronado
 
 marking-OniHornSerket = Serket
 marking-OniHornSerket-serket = Serket
 
-marking-OniHornSerket3Tone = Serket (Three Tone)
-marking-OniHornSerket3Tone-serket_3tone_1 = Bottom Third
-marking-OniHornSerket3Tone-serket_3tone_2 = Middle Third
-marking-OniHornSerket3Tone-serket_3tone_3 = Top Third
+marking-OniHornSerket3Tone = Serket (tres tonos)
+marking-OniHornSerket3Tone-serket_3tone_1 = Tercio inferior
+marking-OniHornSerket3Tone-serket_3tone_2 = Tercio medio
+marking-OniHornSerket3Tone-serket_3tone_3 = Tercio superior
 
-marking-OniHornPisces = Pisces
-marking-OniHornPisces-pisces = Pisces
+marking-OniHornPisces = Piscis
+marking-OniHornPisces-pisces = Piscis
 
-marking-OniHornPisces2Tone = Pisces (Striped)
-marking-OniHornPisces2Tone-pisces_2tone_1 = Even stripes
-marking-OniHornPisces2Tone-pisces_2tone_2 = Odd stripes
+marking-OniHornPisces2Tone = Piscis (rayado)
+marking-OniHornPisces2Tone-pisces_2tone_1 = Rayas pares
+marking-OniHornPisces2Tone-pisces_2tone_2 = Rayas impares
 
-marking-OniHornPisces3Tone = Pisces (Three Tone)
-marking-OniHornPisces3Tone-pisces_3tone_1 = Bottom Third
-marking-OniHornPisces3Tone-pisces_3tone_2 = Middle Third
-marking-OniHornPisces3Tone-pisces_3tone_3 = Top Third
+marking-OniHornPisces3Tone = Piscis (tres tonos)
+marking-OniHornPisces3Tone-pisces_3tone_1 = Tercio inferior
+marking-OniHornPisces3Tone-pisces_3tone_2 = Tercio medio
+marking-OniHornPisces3Tone-pisces_3tone_3 = Tercio superior
 
 marking-OniHornVirgo = Virgo
 marking-OniHornVirgo-virgo = Virgo
 
-marking-OniHornVirgo3Tone = Virgo (Three Tone)
-marking-OniHornVirgo3Tone-virgo_3tone_1 = Bottom Third
-marking-OniHornVirgo3Tone-virgo_3tone_2 = Middle Third
-marking-OniHornVirgo3Tone-virgo_3tone_3 = Top Third
+marking-OniHornVirgo3Tone = Virgo (tres tonos)
+marking-OniHornVirgo3Tone-virgo_3tone_1 = Tercio inferior
+marking-OniHornVirgo3Tone-virgo_3tone_2 = Tercio medio
+marking-OniHornVirgo3Tone-virgo_3tone_3 = Tercio superior
 
-marking-OniHornSagittarius = Sagittarius
-marking-OniHornSagittarius-sagittarius = Sagittarius
+marking-OniHornSagittarius = Sagitario
+marking-OniHornSagittarius-sagittarius = Sagitario
 
-marking-OniHornSagittarius3Tone = Sagittarius (Three Tone)
-marking-OniHornSagittarius3Tone-sagittarius_3tone_1 = Bottom Third
-marking-OniHornSagittarius3Tone-sagittarius_3tone_2 = Middle Third
-marking-OniHornSagittarius3Tone-sagittarius_3tone_3 = Top Third
+marking-OniHornSagittarius3Tone = Sagitario (tres tonos)
+marking-OniHornSagittarius3Tone-sagittarius_3tone_1 = Tercio inferior
+marking-OniHornSagittarius3Tone-sagittarius_3tone_2 = Tercio medio
+marking-OniHornSagittarius3Tone-sagittarius_3tone_3 = Tercio superior
 
 marking-OniHornVantas = Vantas
 marking-OniHornVantas-vantas = Vantas
 
-marking-OniHornVantas3Tone = Vantas (Three Tone)
-marking-OniHornVantas3Tone-vantas_3tone_1 = Bottom Third
-marking-OniHornVantas3Tone-vantas_3tone_2 = Middle Third
-marking-OniHornVantas3Tone-vantas_3tone_3 = Top Third
+marking-OniHornVantas3Tone = Vantas (tres tonos)
+marking-OniHornVantas3Tone-vantas_3tone_1 = Tercio inferior
+marking-OniHornVantas3Tone-vantas_3tone_2 = Tercio medio
+marking-OniHornVantas3Tone-vantas_3tone_3 = Tercio superior
 
 marking-OniHornMakara = Makara
 marking-OniHornMakara-makara = Makara
 
-marking-OniHornMakara2Tone = Makara (Striped)
-marking-OniHornMakara2Tone-makara_2tone_1 = Even stripes
-marking-OniHornMakara2Tone-makara_2tone_2 = Odd stripes
+marking-OniHornMakara2Tone = Makara (rayado)
+marking-OniHornMakara2Tone-makara_2tone_1 = Rayas pares
+marking-OniHornMakara2Tone-makara_2tone_2 = Rayas impares
 
-marking-OniHornMakara3Tone = Makara (Three Tone)
-marking-OniHornMakara3Tone-makara_3tone_1 = Bottom Third
-marking-OniHornMakara3Tone-makara_3tone_2 = Middle Third
-marking-OniHornMakara3Tone-makara_3tone_3 = Top Third
+marking-OniHornMakara3Tone = Makara (tres tonos)
+marking-OniHornMakara3Tone-makara_3tone_1 = Tercio inferior
+marking-OniHornMakara3Tone-makara_3tone_2 = Tercio medio
+marking-OniHornMakara3Tone-makara_3tone_3 = Tercio superior
 
 marking-OniHornNepeta = Nepeta
 marking-OniHornNepeta-nepeta = Nepeta
 
-marking-OniHornNepeta3Tone = Nepeta (Three Tone)
-marking-OniHornNepeta3Tone-nepeta_3tone_1 = Bottom Third
-marking-OniHornNepeta3Tone-nepeta_3tone_2 = Middle Third
-marking-OniHornNepeta3Tone-nepeta_3tone_3 = Top Third
+marking-OniHornNepeta3Tone = Nepeta (tres tonos)
+marking-OniHornNepeta3Tone-nepeta_3tone_1 = Tercio inferior
+marking-OniHornNepeta3Tone-nepeta_3tone_2 = Tercio medio
+marking-OniHornNepeta3Tone-nepeta_3tone_3 = Tercio superior
 
-marking-OniHornTaurus = Taurus
-marking-OniHornTaurus-taurus = Taurus
+marking-OniHornTaurus = Tauro
+marking-OniHornTaurus-taurus = Tauro
 
-marking-OniHornTaurus2Tone = Taurus (Striped)
-marking-OniHornTaurus2Tone-taurus_2tone_1 = Even stripes
-marking-OniHornTaurus2Tone-taurus_2tone_2 = Odd stripes
+marking-OniHornTaurus2Tone = Tauro (rayado)
+marking-OniHornTaurus2Tone-taurus_2tone_1 = Rayas pares
+marking-OniHornTaurus2Tone-taurus_2tone_2 = Rayas impares
 
-marking-OniHornTaurus3Tone = Taurus (Three Tone)
-marking-OniHornTaurus3Tone-taurus_3tone_1 = Bottom Third
-marking-OniHornTaurus3Tone-taurus_3tone_2 = Middle Third
-marking-OniHornTaurus3Tone-taurus_3tone_3 = Top Third
+marking-OniHornTaurus3Tone = Tauro (tres tonos)
+marking-OniHornTaurus3Tone-taurus_3tone_1 = Tercio inferior
+marking-OniHornTaurus3Tone-taurus_3tone_2 = Tercio medio
+marking-OniHornTaurus3Tone-taurus_3tone_3 = Tercio superior
 
 marking-OniHornAries = Aries
 marking-OniHornAries-aries = Aries
 
-marking-OniHornAries3Tone = Aries (Three Tone)
-marking-OniHornAries3Tone-aries_3tone_1 = Bottom Third
-marking-OniHornAries3Tone-aries_3tone_2 = Middle Third
-marking-OniHornAries3Tone-aries_3tone_3 = Top Third
+marking-OniHornAries3Tone = Aries (tres tonos)
+marking-OniHornAries3Tone-aries_3tone_1 = Tercio inferior
+marking-OniHornAries3Tone-aries_3tone_2 = Tercio medio
+marking-OniHornAries3Tone-aries_3tone_3 = Tercio superior
 
 marking-OniHornTavris = Tavris
 marking-OniHornTavris-tavris = Tavris
 
-marking-OniHornTavris3Tone = Tavris (Three Tone)
-marking-OniHornTavris3Tone-tavris_3tone_1 = Bottom Third
-marking-OniHornTavris3Tone-tavris_3tone_2 = Middle Third
-marking-OniHornTavris3Tone-tavris_3tone_3 = Top Third
+marking-OniHornTavris3Tone = Tavris (tres tonos)
+marking-OniHornTavris3Tone-tavris_3tone_1 = Tercio inferior
+marking-OniHornTavris3Tone-tavris_3tone_2 = Tercio medio
+marking-OniHornTavris3Tone-tavris_3tone_3 = Tercio superior
 
-marking-OniHornInclined = Inclined
-marking-OniHornInclined-inclined = Inclined
+marking-OniHornInclined = Inclinado
+marking-OniHornInclined-inclined = Inclinado
 
-marking-OniHornInclined3Tone = Inclined (Three Tone)
-marking-OniHornInclined3Tone-inclined_3tone_1 = Bottom Third
-marking-OniHornInclined3Tone-inclined_3tone_2 = Middle Third
-marking-OniHornInclined3Tone-inclined_3tone_3 = Top Third
+marking-OniHornInclined3Tone = Inclinado (tres tonos)
+marking-OniHornInclined3Tone-inclined_3tone_1 = Tercio inferior
+marking-OniHornInclined3Tone-inclined_3tone_2 = Tercio medio
+marking-OniHornInclined3Tone-inclined_3tone_3 = Tercio superior
 
-marking-OniHornWavy = Wavy
-marking-OniHornWavy-wavy = Wavy
+marking-OniHornWavy = Ondulado
+marking-OniHornWavy-wavy = Ondulado
 
-marking-OniHornWavy2Tone = Wavy (Striped)
-marking-OniHornWavy2Tone-wavy_2tone_1 = Even stripes
-marking-OniHornWavy2Tone-wavy_2tone_2 = Odd stripes
+marking-OniHornWavy2Tone = Ondulado (rayado)
+marking-OniHornWavy2Tone-wavy_2tone_1 = Rayas pares
+marking-OniHornWavy2Tone-wavy_2tone_2 = Rayas impares
 
-marking-OniHornWavy3Tone = Wavy (Three Tone)
-marking-OniHornWavy3Tone-wavy_3tone_1 = Bottom Third
-marking-OniHornWavy3Tone-wavy_3tone_2 = Middle Third
-marking-OniHornWavy3Tone-wavy_3tone_3 = Top Third
+marking-OniHornWavy3Tone = Ondulado (tres tonos)
+marking-OniHornWavy3Tone-wavy_3tone_1 = Tercio inferior
+marking-OniHornWavy3Tone-wavy_3tone_2 = Tercio medio
+marking-OniHornWavy3Tone-wavy_3tone_3 = Tercio superior
 
-marking-OniHornAntlers = Antlers
+marking-OniHornAntlers = Cuernos ramificados
 marking-OniHornAntlers-antlers_2tone_1 = Base
-marking-OniHornAntlers-antlers_2tone_2 = Wings
+marking-OniHornAntlers-antlers_2tone_2 = Alas
 
-marking-OniHornAntlers3Tone = Antlers (Three Tone)
-marking-OniHornAntlers3Tone-antlers_3tone_1 = Bottom Third
-marking-OniHornAntlers3Tone-antlers_3tone_2 = Middle Third
-marking-OniHornAntlers3Tone-antlers_3tone_3 = Top Third
+marking-OniHornAntlers3Tone = Cuernos ramificados (tres tonos)
+marking-OniHornAntlers3Tone-antlers_3tone_1 = Tercio inferior
+marking-OniHornAntlers3Tone-antlers_3tone_2 = Tercio medio
+marking-OniHornAntlers3Tone-antlers_3tone_3 = Tercio superior
 
-marking-OniHornUnicorn = Unicorn
-marking-OniHornUnicorn-unicorn = Unicorn
+marking-OniHornUnicorn = Unicornio
+marking-OniHornUnicorn-unicorn = Unicornio
 
 marking-OniHornErebia = Erebia
 marking-OniHornErebia-erebia = Erebia
 
-marking-OniHornErebia3Tone = Erebia (Three Tone)
-marking-OniHornErebia3Tone-erebia_3tone_1 = Bottom Third
-marking-OniHornErebia3Tone-erebia_3tone_2 = Middle Third
-marking-OniHornErebia3Tone-erebia_3tone_3 = Top Third
+marking-OniHornErebia3Tone = Erebia (tres tonos)
+marking-OniHornErebia3Tone-erebia_3tone_1 = Tercio inferior
+marking-OniHornErebia3Tone-erebia_3tone_2 = Tercio medio
+marking-OniHornErebia3Tone-erebia_3tone_3 = Tercio superior
 
-marking-OniHornErebiaRings = Erebia (Ringed)
+marking-OniHornErebiaRings = Erebia (anillado)
 marking-OniHornErebiaRings-erebia = Erebia
-marking-OniHornErebiaRings-erebia_rings = Rings
+marking-OniHornErebiaRings-erebia_rings = Anillos
 
-marking-OniHornDoubleThick = Double Thick
-marking-OniHornDoubleThick-double_thick = Double Thick
+marking-OniHornDoubleThick = Doble grueso
+marking-OniHornDoubleThick-double_thick = Doble grueso
 
-marking-OniHornDoubleThick2Tone = Double Thick (Striped)
-marking-OniHornDoubleThick2Tone-double_thick_2tone_1 = Even stripes
-marking-OniHornDoubleThick2Tone-double_thick_2tone_2 = Odd stripes
+marking-OniHornDoubleThick2Tone = Doble grueso (rayado)
+marking-OniHornDoubleThick2Tone-double_thick_2tone_1 = Rayas pares
+marking-OniHornDoubleThick2Tone-double_thick_2tone_2 = Rayas impares
 
-marking-OniHornDoubleThick3Tone = Double Thick (Three Tone)
-marking-OniHornDoubleThick3Tone-double_thick_3tone_1 = Bottom Third
-marking-OniHornDoubleThick3Tone-double_thick_3tone_2 = Middle Third
-marking-OniHornDoubleThick3Tone-double_thick_3tone_3 = Top Third
+marking-OniHornDoubleThick3Tone = Doble grueso (tres tonos)
+marking-OniHornDoubleThick3Tone-double_thick_3tone_1 = Tercio inferior
+marking-OniHornDoubleThick3Tone-double_thick_3tone_2 = Tercio medio
+marking-OniHornDoubleThick3Tone-double_thick_3tone_3 = Tercio superior
 
-marking-OniHornDoubleCurved3Tone = Double Curved (Three Tone)
-marking-OniHornDoubleCurved3Tone-double_curved_3tone_1 = Bottom Third
-marking-OniHornDoubleCurved3Tone-double_curved_3tone_2 = Middle Third
-marking-OniHornDoubleCurved3Tone-double_curved_3tone_3 = Top Third
+marking-OniHornDoubleCurved3Tone = Doble curvo (tres tonos)
+marking-OniHornDoubleCurved3Tone-double_curved_3tone_1 = Tercio inferior
+marking-OniHornDoubleCurved3Tone-double_curved_3tone_2 = Tercio medio
+marking-OniHornDoubleCurved3Tone-double_curved_3tone_3 = Tercio superior
 
-marking-OniHornDoubleCurvedOutwards3Tone = Double Curved Outwards (Three Tone)
-marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_1 = Bottom Third
-marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_2 = Middle Third
-marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_3 = Top Third
+marking-OniHornDoubleCurvedOutwards3Tone = Doble curvo hacia afuera (tres tonos)
+marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_1 = Tercio inferior
+marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_2 = Tercio medio
+marking-OniHornDoubleCurvedOutwards3Tone-double_curved_outwards_3tone_3 = Tercio superior
 
-marking-OniTwoToedFeet-two_toes= Two-Toed Feet
-marking-OniTwoToedFeet= Two-Toed Feet
+marking-OniTwoToedFeet-two_toes= Pies de dos dedos
+marking-OniTwoToedFeet= Pies de dos dedos

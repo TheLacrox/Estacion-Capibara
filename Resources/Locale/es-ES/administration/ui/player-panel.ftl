@@ -5,28 +5,29 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-player-panel-title = information for {$player}
-player-panel-username = Username: {$player}
-player-panel-whitelisted = Whitelisted:
-player-panel-bans = Total Bans: {$totalBans}
-player-panel-rolebans = Total Role Bans: {$totalRoleBans}
-player-panel-notes = Total Notes: {$totalNotes}
-player-panel-playtime = Total Playtime: {$days}d:{$hours}h:{$minutes}m
-player-panel-shared-connections = Shared Connections: {$sharedConnections}
+player-panel-title = Información de {$player}
+player-panel-username = Nombre de usuario: {$player}
+player-panel-whitelisted = En lista blanca:
+player-panel-bans = Total de Bans: {$totalBans}
+player-panel-rolebans = Total de Bans de Rol: {$totalRoleBans}
+player-panel-notes = Total de Notas: {$totalNotes}
+player-panel-playtime = Tiempo de juego total: {$days}d:{$hours}h:{$minutes}m
+player-panel-shared-connections = Conexiones compartidas: {$sharedConnections}
 
-player-panel-copy-username = Copy
-player-panel-show-notes = Notes
-player-panel-show-bans = Show Bans
+player-panel-copy-username = Copiar
+player-panel-show-notes = Notas
+player-panel-show-bans = Ver Bans
 player-panel-help = Ahelp
-player-panel-freeze-and-mute = Freeze & Mute
-player-panel-freeze = Freeze
-player-panel-unfreeze = Unfreeze
-player-panel-kick = Kick
-player-panel-ban = Ban
-player-panel-logs = Logs
-player-panel-delete = Delete
-player-panel-rejuvenate = Rejuvenate
-player-panel-false = False
-player-panel-true = True
-player-panel-follow = Follow
-player-panel-camera = Camera
+player-panel-freeze-and-mute = Congelar y Silenciar
+player-panel-freeze = Congelar
+player-panel-unfreeze = Descongelar
+player-panel-kick = Expulsar
+player-panel-ban = Banear
+player-panel-logs = Registros
+player-panel-delete = Eliminar
+player-panel-rejuvenate = Rejuvenecer
+player-panel-false = Falso
+player-panel-true = Verdadero
+player-panel-follow = Seguir
+player-panel-camera = Cámara
+

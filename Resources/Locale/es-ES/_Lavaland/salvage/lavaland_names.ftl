@@ -4,41 +4,41 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lavaland-planet-name-unknown = Unknown Planet
-lavaland-planet-name-lavaland = Lavaland Planet
-lavaland-planet-name-icemoon = IceMoon
+lavaland-planet-name-unknown = Planeta Desconocido
+lavaland-planet-name-lavaland = Planeta Lavaland
+lavaland-planet-name-icemoon = Luna de Hielo
 
 # GPS Signals
-lavaland-planet-outpost = Main Outpost
+lavaland-planet-outpost = Puesto Principal
 
-lavaland-ruin-unknown = Unknown
-lavaland-ruin-cargo = Cargo debris
-lavaland-ruin-arrivals-shuttle = Arrivals debris
-lavaland-ruin-wooden = Wooden building
-lavaland-ruin-seed-graveyard = Graveyard
-lavaland-ruin-seed-vault = Seed vault
-lavaland-ruin-anomalous-landscape = Anomalous Landscape
-lavaland-ruin-shelter = Abandoned shelter
-lavaland-ruin-laboratory = Ruined laboratory
-lavaland-ruin-station = Ruined research station
-lavaland-ruin-big-shuttle = Huge ruined shuttle
-lavaland-ruin-biodome = Biodome
-lavaland-ruin-syndicate = Syndicate base
-lavaland-ruin-hierophant = Interdimensional signal
-lavaland-ruin-abductor = Alien signal
-lavaland-ruin-cult = Cosmic signal
-lavaland-ruin-flesh = Flesh cave
-lavaland-ruin-flora = Flora cave
-lavaland-ruin-ice = Ice cave
-lavaland-ruin-rock = Rock cave
-lavaland-ruin-slime = Slime cave
-lavaland-ruin-hunt = Hunter's house
-lavaland-ruin-stash = Stash
-lavaland-ruin-cargo2 = Cargo debris
-lavaland-ruin-murder = Murder cave
-lavaland-ruin-crash = Escape pod crash
-lavaland-ruin-desk = Station debris
-lavaland-ruin-generator = Generator graveyard
-lavaland-ruin-mug = Mug factory
-lavaland-ruin-temple = Nar'Sie temple
-lavaland-ruin-flock-large = Strange glass ruins
+lavaland-ruin-unknown = Desconocido
+lavaland-ruin-cargo = Restos de carga
+lavaland-ruin-arrivals-shuttle = Restos del transbordador de llegadas
+lavaland-ruin-wooden = Edificio de madera
+lavaland-ruin-seed-graveyard = Cementerio
+lavaland-ruin-seed-vault = Bóveda de semillas
+lavaland-ruin-anomalous-landscape = Paisaje anómalo
+lavaland-ruin-shelter = Refugio abandonado
+lavaland-ruin-laboratory = Laboratorio en ruinas
+lavaland-ruin-station = Estación de investigación en ruinas
+lavaland-ruin-big-shuttle = Transbordador enorme en ruinas
+lavaland-ruin-biodome = Biodomo
+lavaland-ruin-syndicate = Base del Sindicato
+lavaland-ruin-hierophant = Señal interdimensional
+lavaland-ruin-abductor = Señal alienígena
+lavaland-ruin-cult = Señal cósmica
+lavaland-ruin-flesh = Cueva de carne
+lavaland-ruin-flora = Cueva de flora
+lavaland-ruin-ice = Cueva de hielo
+lavaland-ruin-rock = Cueva de roca
+lavaland-ruin-slime = Cueva de slime
+lavaland-ruin-hunt = Casa del cazador
+lavaland-ruin-stash = Escondrijo
+lavaland-ruin-cargo2 = Restos de carga
+lavaland-ruin-murder = Cueva del crimen
+lavaland-ruin-crash = Cápsula de escape estrellada
+lavaland-ruin-desk = Restos de estación
+lavaland-ruin-generator = Cementerio de generadores
+lavaland-ruin-mug = Fábrica de tazas
+lavaland-ruin-temple = Templo de Nar'Sie
+lavaland-ruin-flock-large = Extrañas ruinas de cristal

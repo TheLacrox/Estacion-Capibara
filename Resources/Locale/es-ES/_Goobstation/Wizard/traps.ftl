@@ -4,11 +4,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-trap-revealed-message = You reveal {THE($trap)}!
-trap-flare-message = {CAPITALIZE(THE($trap))} flares brightly!
-trap-triggered-message = You step on {THE($trap)}!
+trap-revealed-message = ¡Revelas {THE($trap)}!
+trap-flare-message = ¡{CAPITALIZE(THE($trap))} brilla intensamente!
+trap-triggered-message = ¡Pisas {THE($trap)}!
 
-ice-cube-break-free-start = You start breaking out of the ice cube...
-ice-cube-melt = The cube melts!
-admin-smite-ice-cube-name = Ice Cube
-admin-smite-ice-cube-description = Freezes the target into an ice cube.
+ice-cube-break-free-start = Empiezas a liberarte del cubo de hielo...
+ice-cube-melt = ¡El cubo se derrite!
+admin-smite-ice-cube-name = Cubo de Hielo
+admin-smite-ice-cube-description = Congela al objetivo en un cubo de hielo.

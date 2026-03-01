@@ -4,17 +4,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-uplink-night-vision-name = Night Vision Goggles
-uplink-night-vision-desc = They allow you to see in the dark, with a built in medical scanner.
+uplink-night-vision-name = Gafas de Visión Nocturna
+uplink-night-vision-desc = Te permiten ver en la oscuridad, con un escáner médico integrado.
 
-uplink-thermal-vision-name = Thermal Vision Goggles
-uplink-thermal-vision-desc = They allow you to see living creatures regardless of obstacles.
+uplink-thermal-vision-name = Gafas de Visión Térmica
+uplink-thermal-vision-desc = Te permiten ver criaturas vivas independientemente de los obstáculos.
 
-uplink-betrayal-knife-name = Betrayal Knife
+uplink-betrayal-knife-name = Cuchillo de la Traición
 uplink-betrayal-knife-desc =
-    Betrayal knife allows the user to blink a short distance, knocking down people in a small radius around blink position.
-    Deals significant damage when target is lying down or facing away from you.
-    Use it in your hand to toggle blink mode.
+    El cuchillo de la traición permite al usuario teletransportarse una corta distancia, derribando a las personas en un pequeño radio alrededor de la posición de teletransporte.
+    Inflige daño significativo cuando el objetivo está tumbado o de espaldas a ti.
+    Úsalo en tu mano para activar o desactivar el modo de teletransporte.
 
-uplink-experimental-syndicate-teleporter-name = Experimental Syndicate Teleporter
-uplink-experimental-syndicate-teleporter-desc = A self-recharging device that teleports the user forward. In case of teleportation into a wall, uses emergency teleportation. Or gibs the user if it's out of charges.
+uplink-experimental-syndicate-teleporter-name = Teletransportador Experimental del Sindicato
+uplink-experimental-syndicate-teleporter-desc = Un dispositivo auto-recargable que teletransporta al usuario hacia adelante. En caso de teletransporte a una pared, usa teletransportación de emergencia. O destruye al usuario si no tiene carga.

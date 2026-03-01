@@ -1,44 +1,44 @@
-objective-condition-slaughter-devour-title = DEVOUR
-objective-condition-slaughter-devour-desc = Devour {$count} crewmembers.
+objective-condition-slaughter-devour-title = DEVORAR
+objective-condition-slaughter-devour-desc = Devora a {$count} miembros de la tripulación.
 
-objective-condition-kill-wizard-first = [color=#FF0000]FIRST,[/color]
-objective-condition-kill-everyone-else = [color=#FF0000]SECOND,[/color]
-objective-condition-kill-wizard-title = KILL THE WIZARD WHO SUMMONED YOU
-objective-condition-kill-everyone-else-title = KILL EVERYONE ELSE
-objective-condition-kill-everyone-title = KILL EVERYONE
+objective-condition-kill-wizard-first = [color=#FF0000]PRIMERO,[/color]
+objective-condition-kill-everyone-else = [color=#FF0000]SEGUNDO,[/color]
+objective-condition-kill-wizard-title = MATA AL MAGO QUE TE INVOCÓ
+objective-condition-kill-everyone-else-title = MATA A TODOS LOS DEMÁS
+objective-condition-kill-everyone-title = MATA A TODOS
 
-objective-condition-hug-and-tickle-title = HUG THEM ALL
-objective-condition-hug-and-tickle-desc = The crew love it so much they spread ketchup everywhere! Good thing you love ketchup! Yupeee!
+objective-condition-hug-and-tickle-title = ABRÁZALOS A TODOS
+objective-condition-hug-and-tickle-desc = ¡A la tripulación le encanta tanto que esparcen ketchup por todos lados! ¡Por suerte a ti te encanta el ketchup! ¡Yupeee!
 
 objective-kill-wizard-desc =
-    The one who dared summon you must pay the ultimate price.
-    Their arcane blood calls to you, find them, hunt them, and send their soul screaming into the void.
-    Their magic ends here.
+    El que se atrevió a invocarte debe pagar el precio máximo.
+    Su sangre arcana te llama, encuéntralo, acéchalo y envía su alma gritando al vacío.
+    Su magia termina aquí.
 
 objective-kill-everyone-desc =
-    This realm reeks of mortal flesh.
-    Paint these halls crimson, let every heartbeat be silenced.
-    Leave nothing but echoes of terror and rivers of blood.
+    Este reino huele a carne mortal.
+    Pinta estos pasillos de carmesí, que cada latido sea silenciado.
+    No dejes más que ecos de terror y ríos de sangre.
 
 # true fluff
 objective-annihilate-janitors-title =
-    Annihilate all Janitors and their robotic replacements.
+    Aniquila a todos los Conserjes y sus reemplazos robóticos.
 
 objective-spare-crew-title =
-    Spare a few of the crew to make them bleed before the final strike.
+    Perdona a algunos miembros de la tripulación para hacerles sangrar antes del golpe final.
 
 objective-hunt-for-brave-title =
-    Hunt for the brave that try to hunt for you first.
+    Caza a los valientes que intenten cazarte primero.
 
 objective-hunt-the-cowards-title =
-    Hunt the cowards who are fleeing from you.
+    Caza a los cobardes que huyen de ti.
 
 # almost fluff
 objective-spread-blood =
-    Spread blood across {$area}.
+    Extiende sangre por {$area}.
 
 objective-show-power-title =
-    Show {$targetName} the true power of blood.
+    Muéstrale a {$targetName} el verdadero poder de la sangre.
 
 objective-drive-insane-title =
-    Drive {$targetName} insane with your demonic whispers.
+    Vuelve loco a {$targetName} con tus susurros demoníacos.

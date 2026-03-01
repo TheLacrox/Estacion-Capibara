@@ -1,12 +1,12 @@
-cmd-equipto-hint = Slot name.
+cmd-equipto-hint = Nombre del hueco.
 
-cmd-equipto-desc = Equip a given entity to a specified entity.
-cmd-equipto-help = Usage: equipto <target> <itemUid/ProtoId> <bool-DeletePrevious> / equipto <target> <itemUid/ProtoId> <bool-DeletePrevious> <slot>
+cmd-equipto-desc = Equipa una entidad dada a una entidad específica.
+cmd-equipto-help = Uso: equipto <objetivo> <itemUid/ProtoId> <bool-EliminarAnterior> / equipto <objetivo> <itemUid/ProtoId> <bool-EliminarAnterior> <hueco>
 
-cmd-equipto-args-error = Invalid arguments. { cmd-equipto-help }
-cmd-equipto-bad-target = Unable to find entity '{$target}'.
-cmd-equipto-bad-proto = Invalid item UID/prototype: '{$item}'
+cmd-equipto-args-error = Argumentos no válidos. { cmd-equipto-help }
+cmd-equipto-bad-target = No se puede encontrar la entidad '{$target}'.
+cmd-equipto-bad-proto = UID/prototipo de objeto no válido: '{$item}'
 
-cmd-equipto-success = Equipped {$item} to {$target} in slot {$targetSlot}.
-cmd-equipto-failure = Failed to equip {$item} to {$target} in slot {$targetSlot}.
-cmd-equipto-total-failure= Failed to equip {$item} to any slot on {$target}.
+cmd-equipto-success = Se equipó {$item} a {$target} en el hueco {$targetSlot}.
+cmd-equipto-failure = Error al equipar {$item} a {$target} en el hueco {$targetSlot}.
+cmd-equipto-total-failure= Error al equipar {$item} en cualquier hueco de {$target}.

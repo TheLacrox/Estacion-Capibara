@@ -5,24 +5,24 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-snack-1 = Try our new nougat bar!
-advertisement-snack-2 = Twice the calories for half the price!
-advertisement-snack-3 = The healthiest!
-advertisement-snack-4 = Award-winning chocolate bars!
-advertisement-snack-5 = Mmm! So good!
-advertisement-snack-6 = Oh my god it's so juicy!
-advertisement-snack-7 = Have a snack.
-advertisement-snack-8 = Snacks are good for you!
-advertisement-snack-9 = Have some more Getmore!
-advertisement-snack-10 = Best quality snacks straight from mars.
-advertisement-snack-11 = We love chocolate!
-advertisement-snack-12 = Try our new jerky!
-advertisement-snack-13 = Our suspicious jerky is totally not going to get you ejected into space!
-advertisement-snack-14 = Available to eat for most species!
-advertisement-snack-15 = Perfect for when you're on the verge of starvation!
-thankyou-snack-1 = Eat up!
-thankyou-snack-2 = Enjoy your product!
-thankyou-snack-3 = Have a nice snack.
-thankyou-snack-4 = Delicious!
-thankyou-snack-5 = Yummy!
-thankyou-snack-6 = Thank you for purchasing our snacks!
+advertisement-snack-1 = ¡Prueba nuestra nueva barra de turrón!
+advertisement-snack-2 = ¡El doble de calorías por la mitad de precio!
+advertisement-snack-3 = ¡El más saludable!
+advertisement-snack-4 = ¡Tabletas de chocolate galardonadas!
+advertisement-snack-5 = ¡Mmm! ¡Está buenísimo!
+advertisement-snack-6 = ¡Dios mío, está jugosísimo!
+advertisement-snack-7 = Cómete algo.
+advertisement-snack-8 = ¡Los aperitivos son buenos para ti!
+advertisement-snack-9 = ¡Hazte con más Getmore!
+advertisement-snack-10 = Los mejores aperitivos de calidad directamente desde Marte.
+advertisement-snack-11 = ¡Nos encanta el chocolate!
+advertisement-snack-12 = ¡Prueba nuestra nueva cecina!
+advertisement-snack-13 = ¡Nuestra sospechosa cecina no va a hacer que te expulsen al espacio, para nada!
+advertisement-snack-14 = ¡Apto para la mayoría de especies!
+advertisement-snack-15 = ¡Perfecto para cuando estás al borde de la inanición!
+thankyou-snack-1 = ¡Que aproveche!
+thankyou-snack-2 = ¡Disfruta de tu producto!
+thankyou-snack-3 = Que disfrutes del aperitivo.
+thankyou-snack-4 = ¡Delicioso!
+thankyou-snack-5 = ¡Qué rico!
+thankyou-snack-6 = ¡Gracias por comprar nuestros aperitivos!

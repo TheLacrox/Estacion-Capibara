@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-battery-drinker-verb-drink = Drain
-battery-drinker-empty = {CAPITALIZE(THE($target))} is already empty!
+battery-drinker-verb-drink = Drenar
+battery-drinker-empty = ¡{CAPITALIZE(THE($target))} ya está vacío/a!

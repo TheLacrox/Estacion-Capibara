@@ -5,22 +5,22 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-credits-window-title = Credits
-credits-window-patrons-tab = Patrons
-credits-window-ss14contributorslist-tab = Credits
-credits-window-licenses-tab = Open Source Licenses
-credits-window-attributions-tab = Attributions
-credits-window-become-patron-button = Become a Patron
-credits-window-contributor-encouragement-label = Want to get on this list?
-credits-window-contribute-button = Contribute!
-credits-window-contributors-section-title = Space Station 14 Contributors
-credits-window-codebases-section-title = Space Station 13 Codebases
-credits-window-original-remake-team-section-title = Original Space Station 13 Remake Team
-credits-window-special-thanks-section-title = Special Thanks
+credits-window-title = Créditos
+credits-window-patrons-tab = Patrocinadores
+credits-window-ss14contributorslist-tab = Créditos
+credits-window-licenses-tab = Licencias de código abierto
+credits-window-attributions-tab = Atribuciones
+credits-window-become-patron-button = Conviértete en patrocinador
+credits-window-contributor-encouragement-label = ¿Quieres aparecer en esta lista?
+credits-window-contribute-button = ¡Contribuye!
+credits-window-contributors-section-title = Colaboradores de Space Station 14
+credits-window-codebases-section-title = Bases de código de Space Station 13
+credits-window-original-remake-team-section-title = Equipo original del remake de Space Station 13
+credits-window-special-thanks-section-title = Agradecimientos especiales
 
-credits-window-attributions-directory = [color=white]Directory:[/color] {$directory}
-credits-window-attributions-files = [color=white]Files:[/color] {$files}
+credits-window-attributions-directory = [color=white]Directorio:[/color] {$directory}
+credits-window-attributions-files = [color=white]Archivos:[/color] {$files}
 credits-window-attributions-copyright = [color=white]Copyright:[/color] {$copyright}
-credits-window-attributions-license = [color=white]License:[/color] {$license}
-credits-window-attributions-source = [color=white]Source:[/color] {$source}
-credits-window-attributions-failed = [color=red]Failed to read file:[/color] {$file}
+credits-window-attributions-license = [color=white]Licencia:[/color] {$license}
+credits-window-attributions-source = [color=white]Fuente:[/color] {$source}
+credits-window-attributions-failed = [color=red]Error al leer el archivo:[/color] {$file}

@@ -30,361 +30,361 @@
 
 # Surplus Voidsuits
 
-uplink-hardsuit-syndiemedic-name = Gorlex Agent Hardsuit
-uplink-hardsuit-syndiemedic-desc = A bundle with a surplus combat medic hardsuit, from the Gorlex Marauders.
+uplink-hardsuit-syndiemedic-name = Traje duro de Agente Gorlex
+uplink-hardsuit-syndiemedic-desc = Un paquete con un traje duro de médico de combate de excedentes, de los Merodeadores Gorlex.
 
-uplink-hardsuit-syndiecommander-name = Gorlex Commander Hardsuit
-uplink-hardsuit-syndiecommander-desc = A surplus commander hardsuit, from the Gorlex Marauders. Too bulky to put in a bundle, so no tanks included!
+uplink-hardsuit-syndiecommander-name = Traje duro de Comandante Gorlex
+uplink-hardsuit-syndiecommander-desc = Un traje duro de comandante de excedentes, de los Merodeadores Gorlex. ¡Demasiado voluminoso para meter en un paquete, así que no se incluyen tanques!
 
 # Cybersun Stealth
 
-uplink-hardsuit-cybersun-stealth-name = Cybersun Stealth Hardsuit
-uplink-hardsuit-cybersun-stealth-desc = Reverse-engineered from Spider Clan technology, this hardsuit has stealth plating in it for those special ops. Slightly slower and less armored than other hardsuits.
+uplink-hardsuit-cybersun-stealth-name = Traje duro sigiloso Cybersun
+uplink-hardsuit-cybersun-stealth-desc = Diseñado a partir de ingeniería inversa de tecnología del Clan Araña, este traje duro tiene blindaje de sigilo para esas operaciones especiales. Algo más lento y con menos armadura que otros trajes duros.
 
 # Cybersun Dreadnought suit
-uplink-hardsuit-cybersun-dreadnought-name = Cybersun Dreadnought suit
-uplink-hardsuit-cybersun-dreadnought-desc = An insanely tough combat hardsuit utilizing hyper-bluespace enhanced plasteel to make an almost impenetrable wall out of the wearer. However, only the absolutely insane syndicate followers will put this on. Because of its weight, it must be tightened very hard, to the point of impaling the user and being unable to be taken off without completely ripping off their skin. The syndicate sends their regards.
+uplink-hardsuit-cybersun-dreadnought-name = Traje acorazado Cybersun
+uplink-hardsuit-cybersun-dreadnought-desc = Un traje duro de combate increíblemente resistente que utiliza plastiacero mejorado con hiper-espacio azul para hacer una pared casi impenetrable del portador. Sin embargo, solo los seguidores absolutamente dementes del sindicato se pondrían esto. Debido a su peso, debe apretarse con mucha fuerza, hasta el punto de empalar al usuario y no poder quitarse sin arrancarle completamente la piel. El sindicato manda saludos.
 
 # Misc
 
-uplink-gondola-name = Gondola Crate
-uplink-gondola-desc = Crate containing one standard issue gondola.
+uplink-gondola-name = Cajón de Góndola
+uplink-gondola-desc = Cajón con una góndola estándar incluida.
 
-uplink-operative-radio-name = Nuclear Operative Teleporter
-uplink-operative-radio-desc = Radio in a nuclear operative of extremely questionable quality. No off button, buy this if you're ready to party. They have basic nuclear operative gear.
+uplink-operative-radio-name = Teletransportador de Operativo Nuclear
+uplink-operative-radio-desc = Llama a un operativo nuclear de calidad extremadamente cuestionable. Sin botón de apagado; cómpralo si estás listo para la fiesta. Tienen equipo básico de operativo nuclear.
 
-uplink-mobroach-microbomb-name = SyndiRoach Teleporter
-uplink-mobroach-microbomb-desc = Call in a handy mothroach equipped with a microbomb implant. Explodes when seriously injured.
+uplink-mobroach-microbomb-name = Teletransportador SyndiCucaracha
+uplink-mobroach-microbomb-desc = Llama a una práctica cucaracha equipada con un implante de microbomba. Explota cuando está gravemente herida.
 
-uplink-signaller-name = Advanced Remote Signaller
-uplink-signaller-desc = A device that can trigger signals at any distance. You can link items with a multitool or network configurator.
+uplink-signaller-name = Señalizador Remoto Avanzado
+uplink-signaller-desc = Un dispositivo que puede activar señales a cualquier distancia. Puedes vincular objetos con un multitool o configurador de red.
 
 # bang bang pew pew eat it up i gota go
 
-uplink-miniature-energy-crossbow-name = Miniature Energy Crossbow
-uplink-miniature-energy-crossbow-desc = The syndicate's energy crossbow, small, silent and deadly.
+uplink-miniature-energy-crossbow-name = Ballesta de Energía Miniatura
+uplink-miniature-energy-crossbow-desc = La ballesta de energía del sindicato, pequeña, silenciosa y letal.
 
-uplink-hardlight-bow-name = Hardlight Bow
-uplink-hardlight-bow-desc = This folding bow can generate a multitude of arrow types to fit the user's needs.
+uplink-hardlight-bow-name = Arco de Luz Sólida
+uplink-hardlight-bow-desc = Este arco plegable puede generar múltiples tipos de flechas para adaptarse a las necesidades del usuario.
 
 # Job-specific
 
-uplink-pie-cannon-name = Regenerating Pie Cannon
-uplink-pie-cannon-desc = A pie cannon that automatically regenerates pies, one every ten seconds.
+uplink-pie-cannon-name = Cañón de Tartas Regenerable
+uplink-pie-cannon-desc = Un cañón de tartas que regenera tartas automáticamente, una cada diez segundos.
 
-uplink-beenades-name = Beenades
-uplink-beenades-desc = A non-explosive grenade full of... bees?! NOT THE BEES!!!
+uplink-beenades-name = Abejanadas
+uplink-beenades-desc = Una granada no explosiva llena de... ¿abejas? ¡¡NO LAS ABEJAS!!!
 
-uplink-dart-gun-name = Dart Gun
-uplink-dart-gun-desc = This gun applies inside chemicals to its regenerating dart supply, allowing to distantly heal allies or to commit war crimes by poisoning foes.
+uplink-dart-gun-name = Pistola de Dardos
+uplink-dart-gun-desc = Esta pistola aplica los químicos internos a su suministro regenerable de dardos, permitiendo curar aliados a distancia o cometer crímenes de guerra envenenando enemigos.
 
-uplink-his-grace-name = His Grace
-uplink-his-grace-desc = An otherworldly entity trapping in a toolbox. Grows in power for every kill, but will consume you if not fed. Activate in-hand to bind yourself.
+uplink-his-grace-name = Su Gracia
+uplink-his-grace-desc = Una entidad de otro mundo atrapada en una caja de herramientas. Crece en poder con cada muerte, pero te consumirá si no la alimentas. Actívala en mano para vincularte.
 
-uplink-magazine-nailgun-name = Nail Gun Magazine (AP)
-uplink-magazine-nailgun-desc = Almost like a normal magazine for your nail gun. The only difference is that this one is armor-piercing.
+uplink-magazine-nailgun-name = Cargador de Pistola de Clavos (AP)
+uplink-magazine-nailgun-desc = Casi como un cargador normal para tu pistola de clavos. La única diferencia es que este perfora armadura.
 
-uplink-pressure-modkit-name = Pressure Modkit
-uplink-pressure-modkit-desc = This illegal modkit takes 30 capacity of your proto-kinetic accelerator and overclocks it to deal full damage even in unsuitable pressure.
+uplink-pressure-modkit-name = Modkit de Presión
+uplink-pressure-modkit-desc = Este modkit ilegal consume 30 unidades de capacidad de tu acelerador proto-cinético y lo hace funcionar a pleno rendimiento incluso en condiciones de presión inadecuada.
 
-uplink-grey-tide-name = Grey Tide
-uplink-grey-tide-desc = An ancient artifact with magical properties. Identical to plasma spear but capable of summoning illusions upon hitting living mob if wielder is an Assistant.
+uplink-grey-tide-name = Marea Gris
+uplink-grey-tide-desc = Un antiguo artefacto con propiedades mágicas. Idéntico a una lanza de plasma pero capaz de invocar ilusiones al golpear a un mob vivo si el portador es un Asistente.
 
-uplink-adv-mimery-name = Guide to Advanced Mimery Series
-uplink-adv-mimery-desc = The classical two part series on how to further hone your mime skills. Upon studying the series, the user should be able to make 3x1 invisible walls, and shoot bullets out of their fingers.
+uplink-adv-mimery-name = Guía de Mímica Avanzada (Serie)
+uplink-adv-mimery-desc = La clásica serie de dos partes sobre cómo perfeccionar tus habilidades de mímica. Tras estudiar la serie, el usuario debería ser capaz de crear paredes invisibles 3x1 y disparar balas con los dedos.
 
 # Weapons
 
-uplink-contractor-baton-name = Contractor Baton
-uplink-contractor-baton-desc = A compact, specialised baton assigned to Syndicate contractors. Applies light electrical shocks to targets. These shocks are capable of affecting the inner circuitry of most robots as well, applying a short stun.
+uplink-contractor-baton-name = Porra de Contratista
+uplink-contractor-baton-desc = Una porra compacta y especializada asignada a los contratistas del Sindicato. Aplica ligeras descargas eléctricas a los objetivos. Estas descargas también son capaces de afectar los circuitos internos de la mayoría de robots, aplicando un breve aturdimiento.
 
-uplink-weapon-burner-name = Burner
-uplink-weapon-burner-desc = A fully-automatic anti-materiel rifle that slings .50 downrange as long as you can shoulder it. Feeds from .50 Anti-Materiel magazines.
+uplink-weapon-burner-name = Quemador
+uplink-weapon-burner-desc = Un rifle antivehículo totalmente automático que dispara .50 mientras puedas cargarlo. Se alimenta de cargadores Anti-Materiel .50.
 
 uplink-weapon-heavy-shotgun-name = NZ CSG-242
-uplink-weapon-heavy-shotgun-desc = A portable human rights violation. Burst fire, high explosive, and will literally push you back six feet when fired. Feeds from 2 Gauge drum magazines.
+uplink-weapon-heavy-shotgun-desc = Una violación portátil de los derechos humanos. Disparo en ráfaga, alta explosividad, y literalmente te empujará hacia atrás seis pies al disparar. Se alimenta de cargadores de tambor calibre 2.
 
 uplink-WSPR-name = WSPR
-uplink-WSPR-desc = A silenced, subsonic, and caseless rifle for the operative that leaves no trace. More effective against unarmoured targets. Feeds from 9.5mm SMG magazines.
+uplink-WSPR-desc = Un rifle silenciado, subsónico y sin casquillo para el operativo que no deja rastros. Más efectivo contra objetivos sin armadura. Se alimenta de cargadores SMG 9.5mm.
 
 uplink-c20r-name = C-20R
-uplink-c20r-desc = A one-handed, bullpup SMG that sacrifices accuracy for pure firerate. Feeds from .35 Auto SMG magazines.
+uplink-c20r-desc = Un SMG bullpup de una mano que sacrifica precisión por pura cadencia de fuego. Se alimenta de cargadores SMG .35 Auto.
 
 uplink-buldog-name = Bulldog
-uplink-buldog-desc = A fully automatic, bullpup shotgun for when you have three seconds to turn eight people into pasta sauce.
+uplink-buldog-desc = Una escopeta bullpup totalmente automática para cuando tienes tres segundos para convertir a ocho personas en salsa de pasta.
 
 uplink-l6-saw-name = L6 SAW
-uplink-l6-saw-desc = A bulky light machine gun excellent at suppressive, sustained fire. Feeds from .30 Rifle box magazines.
+uplink-l6-saw-desc = Una ametralladora ligera voluminosa excelente para fuego supresivo y sostenido. Se alimenta de cajas de cargadores Rifle .30.
 
 uplink-m90-name = M-90
-uplink-m90-desc = A rugged assault rifle that maintains its accuracy across extreme distances. Feeds from .20 Rifle magazines.
+uplink-m90-desc = Un rifle de asalto robusto que mantiene su precisión a distancias extremas. Se alimenta de cargadores Rifle .20.
 
 uplink-estoc-name = Estoc
-uplink-estoc-desc = A burst-fire designated marksman rifle fitted with an expensive tritium optic. Feeds from .20 Rifle magazines.
+uplink-estoc-desc = Un rifle de francotirador en ráfaga equipado con una costosa óptica de tritio. Se alimenta de cargadores Rifle .20.
 
-uplink-syndicate-disabler-name = Syndicate Disabler
-uplink-syndicate-disabler-desc = A sleek disabler designed from a reverse-engineered NanoTrasen prototype. While it lacks stopping power, it makes up for it with a self-recharging cell.
+uplink-syndicate-disabler-name = Desactivador Sindical
+uplink-syndicate-disabler-desc = Un elegante desactivador diseñado a partir de un prototipo NanoTrasen de ingeniería inversa. Aunque le falta poder de detención, lo compensa con una célula de autocarga.
 
-uplink-dualetta-bundle-name = Dualetta Bundle
-uplink-dualetta-bundle-desc = Comes with 2 Dualetta pistols, 2 machine pistol magazines, combat gloves, noir suit, detectives trenchcoat, and laceup shoes.
+uplink-dualetta-bundle-name = Paquete Dualetta
+uplink-dualetta-bundle-desc = Incluye 2 pistolas Dualetta, 2 cargadores de pistola ametralladora, guantes de combate, traje noir, gabardina de detective y zapatos con cordones.
 
 uplink-anaconda-name = Anaconda
-uplink-anaconda-desc = A bulky hand cannon with an ammo fabricator built into the grip. Prints ammunition for itself over time.
+uplink-anaconda-desc = Un cañón de mano voluminoso con un fabricador de munición integrado en la empuñadura. Imprime munición para sí mismo con el tiempo.
 
-uplink-bulk-mosin-name = Syndicate bulk rifle crate
-uplink-bulk-mosin-desc = 10 WW4-era rifles to arm you, your friends, and your cat. Saves 40% on shipping costs by buying in bulk.
+uplink-bulk-mosin-name = Cajón de rifles en masa del Sindicato
+uplink-bulk-mosin-desc = 10 rifles de la era GM4 para armarte a ti, tus amigos y tu gato. Ahorra un 40% en gastos de envío comprando al por mayor.
 
-uplink-whimsy-bundle-name = Syndicate Joy & Whimsy Bundle
-uplink-whimsy-bundle-desc = Do YOU like spreading joy & whimsy? Well, Donk Co. has the solution for you! Contains a LIMITED EDITION axe and enough candy to kill a man.
+uplink-whimsy-bundle-name = Paquete de Alegría y Fantasía Sindical
+uplink-whimsy-bundle-desc = ¿TE gusta difundir alegría y fantasía? ¡Pues Donk Co. tiene la solución para ti! Contiene un hacha de EDICIÓN LIMITADA y suficientes dulces para matar a un hombre.
 
-uplink-m7s-name = M7S Ventilator
-uplink-m7s-desc = The spread of this submachine gun gets tighter the longer you suppress your foes with it. The gunshots are suppressed too. Feeds from side-loading 5x23mm magazines.
+uplink-m7s-name = M7S Ventilador
+uplink-m7s-desc = La dispersión de este subfusil se estrecha cuanto más tiempo suprimes a tus enemigos con él. Los disparos también están suprimidos. Se alimenta de cargadores de carga lateral 5x23mm.
 
 uplink-combat-shotgun-name = Bojevic
-uplink-combat-shotgun-desc = A pump action shotgun when you need to repel targets that are behind two plasteel walls, a fridge, and a car door. Loads 5 rounds of 8 Gauge.
+uplink-combat-shotgun-desc = Una escopeta de acción de palanca cuando necesitas repeler objetivos que están detrás de dos paredes de plastiacero, una nevera y una puerta de coche. Carga 5 cartuchos calibre 8.
 
-uplink-he1sg8-bundle-name = HE1S-G8 Bundle
-uplink-he1sg8-bundle-desc = High Energy One-Shell rifle bundle. Comes with 10 demolishing and 9 hypercharged Gauss-8 cartridges for some extra funny.
+uplink-he1sg8-bundle-name = Paquete HE1S-G8
+uplink-he1sg8-bundle-desc = Paquete de rifle de un cartucho de Alta Energía. Incluye 10 cartuchos demoledores y 9 hipercargados Gauss-8 para extra diversión.
 
 # Ammo
 
-uplink-blast-grenade-name = Blast Grenade (40mm)
-uplink-blast-grenade-desc = Higher damage, smaller radius. Compatible with the China-Lake.
+uplink-blast-grenade-name = Granada de Explosión (40mm)
+uplink-blast-grenade-desc = Mayor daño, radio más pequeño. Compatible con el China-Lake.
 
-uplink-frag-grenade-name = Frag Grenade (40mm)
-uplink-frag-grenade-desc = Lower damage, bigger radius. Compatible with the China-Lake.
+uplink-frag-grenade-name = Granada de Fragmentación (40mm)
+uplink-frag-grenade-desc = Menor daño, radio más grande. Compatible con el China-Lake.
 
-uplink-mpapers-grenade-name = MP-APERS shell (40mm)
-uplink-mpapers-grenade-desc = Fires out 20 small pellets to turn your grenade launcher into a shotgun. Compatible with the China-Lake.
+uplink-mpapers-grenade-name = Proyectil MP-APERS (40mm)
+uplink-mpapers-grenade-desc = Dispara 20 pequeños perdigones para convertir tu lanzagranadas en escopeta. Compatible con el China-Lake.
 
-uplink-rifle-caseless-mag-name = Rifle Magazine (9.5mm HP)
-uplink-rifle-caseless-mag-desc = A 30 round rifle magazine filled with 9.5mm caseless magnum hollow-point bullets. Compatible with the WSPR.
+uplink-rifle-caseless-mag-name = Cargador de Rifle (9.5mm HP)
+uplink-rifle-caseless-mag-desc = Un cargador de rifle de 30 cartuchos relleno con balas de punta hueca magnum sin casquillo 9.5mm. Compatible con el WSPR.
 
-uplink-pistol-magazine-caseless-saphe-name = Pistol Magazine (9.5mm SAP-HE)
-uplink-pistol-magazine-caseless-saphe-desc = 10 rounds of 9.5mm caseless magnum semi-armor-piercing high-explosive ammunition. It is exactly what you have read. Compatible with the Cobra.
+uplink-pistol-magazine-caseless-saphe-name = Cargador de Pistola (9.5mm SAP-HE)
+uplink-pistol-magazine-caseless-saphe-desc = 10 cartuchos de munición magnum semiperforante de alto explosivo sin casquillo 9.5mm. Es exactamente lo que has leído. Compatible con el Cobra.
 
-uplink-l6-box-name = Magazine Box (.30 rifle)
-uplink-l6-box-desc = Magazine box with 100 catridges. Compatible with the L6 SAW.
+uplink-l6-box-name = Caja de Cargador (.30 rifle)
+uplink-l6-box-desc = Caja de cargador con 100 cartuchos. Compatible con el L6 SAW.
 
-uplink-shotgun-magazine-name = Shotgun Drum (12 gauge pellet)
-uplink-shotgun-magazine-desc = Shotgun drum with 8 pellet shells. Compatible with the Bulldog.
+uplink-shotgun-magazine-name = Tambor de Escopeta (12 gauge perdigón)
+uplink-shotgun-magazine-desc = Tambor de escopeta con 8 cartuchos de perdigones. Compatible con el Bulldog.
 
-uplink-shotgun-magazine-slug-name = Shotgun Drum (12 gauge slug)
-uplink-shotgun-magazine-slug-desc = Shotgun drum with 8 slug shells. Compatible with the Bulldog.
+uplink-shotgun-magazine-slug-name = Tambor de Escopeta (12 gauge slug)
+uplink-shotgun-magazine-slug-desc = Tambor de escopeta con 8 cartuchos slug. Compatible con el Bulldog.
 
-uplink-high-caliber-magazine-name = Rifle Magazine (.50 anti-materiel)
-uplink-high-caliber-magazine-desc = Heavy rifle magazine with 15 cartridges. Compatible with the Burner.
+uplink-high-caliber-magazine-name = Cargador de Rifle (.50 anti-materiel)
+uplink-high-caliber-magazine-desc = Cargador de rifle pesado con 15 cartuchos. Compatible con el Quemador.
 
-uplink-high-caliber-explosive-magazine-name = Rifle Magazine (.50 HEI)
-uplink-high-caliber-explosive-magazine-desc = Heavy rifle magazine with 15 High Explosive Incendiary cartridges. Compatible with the Burner.
+uplink-high-caliber-explosive-magazine-name = Cargador de Rifle (.50 HEI)
+uplink-high-caliber-explosive-magazine-desc = Cargador de rifle pesado con 15 cartuchos Incendiarios de Alto Explosivo. Compatible con el Quemador.
 
-uplink-high-caliber-box-name = .50 Ammo box
-uplink-high-caliber-box-desc = A box of 30 .50 caliber anti-materiel rounds.
+uplink-high-caliber-box-name = Caja de munición .50
+uplink-high-caliber-box-desc = Una caja de 30 cartuchos anti-materiel calibre .50.
 
-uplink-highcap-pistol-mag-name = High Capacity Pistol Magazine (.35 auto)
-uplink-highcap-pistol-mag-desc = High capacity pistol magazine holds 4 extra bullets for a total of 16 rounds.
+uplink-highcap-pistol-mag-name = Cargador de Pistola de Alta Capacidad (.35 auto)
+uplink-highcap-pistol-mag-desc = El cargador de pistola de alta capacidad tiene 4 balas extra para un total de 16 cartuchos.
 
-uplink-heavy-shotgun-magazine-name = Heavy Shotgun Drum (2 gauge HE pellet)
-uplink-heavy-shotgun-magazine-desc = Shotgun magazine with 15 high-explosive pellet shells. Compatible with the NZ CSG-242.
+uplink-heavy-shotgun-magazine-name = Tambor de Escopeta Pesada (2 gauge HE perdigón)
+uplink-heavy-shotgun-magazine-desc = Cargador de escopeta con 15 cartuchos de perdigones de alto explosivo. Compatible con el NZ CSG-242.
 
-uplink-heavy-shotgun-magazine-slug-name = Heavy Shotgun Drum (2 gauge HE slug)
-uplink-heavy-shotgun-magazine-slug-desc = Shotgun magazine with 15 high-eplosive shrapnel slug shells. Compatible with the NZ CSG-242.
+uplink-heavy-shotgun-magazine-slug-name = Tambor de Escopeta Pesada (2 gauge HE slug)
+uplink-heavy-shotgun-magazine-slug-desc = Cargador de escopeta con 15 cartuchos slug de metralla de alto explosivo. Compatible con el NZ CSG-242.
 
-uplink-m7s-mag-name = Side-mounted SMG Magazine (5x23mm)
-uplink-m7s-mag-desc = A 48 round 5x23mm rifle magazine. Compatible with M7S.
+uplink-m7s-mag-name = Cargador SMG de Carga Lateral (5x23mm)
+uplink-m7s-mag-desc = Un cargador de rifle 5x23mm de 48 cartuchos. Compatible con el M7S.
 
-uplink-cartridge-G8-demolishing-name = G8 demolishing cartridge
-uplink-cartridge-G8-demolishing-desc = This cartridge shots "The Spear of Ares" bullet, demolishing whole lines of walls, dealing massive stamina damage to people and overcharging energy vortexes. Used by HE1S-G8.
+uplink-cartridge-G8-demolishing-name = Cartucho demoledor G8
+uplink-cartridge-G8-demolishing-desc = Este cartucho dispara la bala "La Lanza de Ares", demoliendo líneas enteras de paredes, causando daño masivo de stamina a personas y sobrecargando vórtices de energía. Usado por el HE1S-G8.
 
-uplink-cartridge-G8-hypercharged-name = G8 hypercharged cartridge
-uplink-cartridge-G8-hypercharged-desc = This cartridge shots "The Bolt of Zeus" bullet, shocking everyone on its way and creating an energy vortex at its destination point, that creates a massive explosion on overcharge. Used by HE1S-G8.
+uplink-cartridge-G8-hypercharged-name = Cartucho hipercargado G8
+uplink-cartridge-G8-hypercharged-desc = Este cartucho dispara la bala "El Rayo de Zeus", electrocutando a todos en su camino y creando un vórtice de energía en su punto de destino, que crea una explosión masiva al sobrecargarse. Usado por el HE1S-G8.
 
-uplink-high-caliber-shotgun-box-name = 8 Gauge shell box
-uplink-high-caliber-shotgun-box-desc = 16 shells of 8 Gauge shells, for the combat shotgun.
+uplink-high-caliber-shotgun-box-name = Caja de cartuchos calibre 8
+uplink-high-caliber-shotgun-box-desc = 16 cartuchos calibre 8, para la escopeta de combate.
 
-uplink-high-caliber-shotgun-box-slug-name = 8 Gauge slug box
-uplink-high-caliber-shotgun-box-slug-desc = 16 shells of 8 Gauge slugs, for the combat shotgun.
+uplink-high-caliber-shotgun-box-slug-name = Caja de slugs calibre 8
+uplink-high-caliber-shotgun-box-slug-desc = 16 slugs calibre 8, para la escopeta de combate.
 
-uplink-high-caliber-shotgun-box-flash-slug-name = 8 Gauge flash shell box
-uplink-high-caliber-shotgun-box-flash-slug-desc = 16 shells of 8 Gauge flashbang shells, for the combat shotgun. Doesn't down those with flash protection.
+uplink-high-caliber-shotgun-box-flash-slug-name = Caja de cartuchos flash calibre 8
+uplink-high-caliber-shotgun-box-flash-slug-desc = 16 cartuchos de flash calibre 8, para la escopeta de combate. No derriba a quienes tengan protección contra flash.
 
-uplink-high-caliber-shotgun-box-sarin-name = 8 Gauge sarin gas shell box
-uplink-high-caliber-shotgun-box-sarin-desc = 16 shells of 8 Gauge sarin shells for the combat shotgun, which release a small plus-shaped cloud of sarin gas.
+uplink-high-caliber-shotgun-box-sarin-name = Caja de cartuchos de sarín calibre 8
+uplink-high-caliber-shotgun-box-sarin-desc = 16 cartuchos de sarín calibre 8 para la escopeta de combate, que liberan una pequeña nube de gas sarín en forma de cruz.
 
-uplink-estoc-ammo-name = Rifle Magazine (.30 rifle)
-uplink-estoc-ammo-desc = Rifle magazine with 30 rounds. Compatible with the Estoc.
+uplink-estoc-ammo-name = Cargador de Rifle (.30 rifle)
+uplink-estoc-ammo-desc = Cargador de rifle con 30 cartuchos. Compatible con el Estoc.
 
-uplink-m90-ammo-name = Rifle Magazine (.20 rifle)
-uplink-m90-ammo-desc = Rifle magazine with 25 rounds. Compatible with the M-90 and Lecter.
+uplink-m90-ammo-name = Cargador de Rifle (.20 rifle)
+uplink-m90-ammo-desc = Cargador de rifle con 25 cartuchos. Compatible con el M-90 y el Lecter.
 
 # Grenades
 
-uplink-sarin-gas-grenade-name = Sarin Gas Grenade
-uplink-sarin-gas-grenade-desc = A brutal neurotoxin gas that stuns, blinds, and poisons anybody unlucky enough to catch a whiff as well as burning anyone not in a voidsuit, leaving them writhing on the floor begging to be finished off.
+uplink-sarin-gas-grenade-name = Granada de Gas Sarín
+uplink-sarin-gas-grenade-desc = Un brutal gas neurotóxico que aturde, ciega y envenena a cualquiera con la mala suerte de olerlo, además de quemar a quienes no lleven traje espacial, dejándolos retorciéndose en el suelo suplicando que les rematen.
 
-uplink-M172LAW-name = M172 Light Anti-structure Weapon
-uplink-M172LAW-desc = A single shot disposable rocket launcher for taking out singular walls/machines with minimal collateral damage. can be stored in your backpack conveniently.
+uplink-M172LAW-name = M172 Arma Antiblindaje Ligera
+uplink-M172LAW-desc = Un lanzacohetes desechable de un solo disparo para eliminar paredes o máquinas individuales con daños colaterales mínimos. Se puede guardar convenientemente en la mochila.
 
 uplink-RPOA-name = RPO-A 'Shmel'
-uplink-RPOA-desc = A single shot disposable thermobaric rocket launcher, which lights hostiles and hostages on fire in a wide radius. can be stored in your backpack.
+uplink-RPOA-desc = Un lanzacohetes termoabárico desechable de un solo disparo, que prende fuego a hostiles y rehenes en un gran radio. Se puede guardar en la mochila.
 
-uplink-ExplosivePayloadBlueprint-name = Explosive Payload Blueprint
-uplink-ExplosivePayloadBlueprint-desc = A blueprint that will allow a single lathe to print explosive payloads, an illegal and dangerous device that can be used in grenades.
+uplink-ExplosivePayloadBlueprint-name = Plano de Carga Explosiva
+uplink-ExplosivePayloadBlueprint-desc = Un plano que permitirá a una sola torno imprimir cargas explosivas, un dispositivo ilegal y peligroso que puede usarse en granadas.
 
 # Mechs
 
-uplink-mech-teleporter-heavy-name = Heavy Mech teleporter
-uplink-mech-teleporter-heavy-desc = Contains a heavily armored Cybersun mech with an integrated chainsword, Ultra AC-2, LBX AC 10 "Scattershot", BRM-6 Missile Rack and P-X Tesla Cannon.
+uplink-mech-teleporter-heavy-name = Teletransportador de Meca Pesado
+uplink-mech-teleporter-heavy-desc = Contiene una meca Cybersun fuertemente blindada con una espadacadenas integrada, Ultra AC-2, LBX AC 10 "Dispersor", Lanzamisiles BRM-6 y Cañón Tesla P-X.
 
-uplink-mech-teleporter-assault-name = Assault Mech teleporter
-uplink-mech-teleporter-assault-desc = Contains a lightly armored Cybersun mech with an integrated chainsword, LBX AC 10 "Scattershot", SRM-8 Light Missile Rack and P-X Tesla Cannon.
+uplink-mech-teleporter-assault-name = Teletransportador de Meca de Asalto
+uplink-mech-teleporter-assault-desc = Contiene una meca Cybersun ligeramente blindada con una espadacadenas integrada, LBX AC 10 "Dispersor", Lanzamisiles Ligero SRM-8 y Cañón Tesla P-X.
 
 # Chemicals
 
-uplink-lollypop-bundle-name = Donk Co. Lollypop Box
-uplink-lollypop-bundle-desc = Contains 9 completely random lollypops. What could they contain?
+uplink-lollypop-bundle-name = Caja de Piruletas Donk Co.
+uplink-lollypop-bundle-desc = Contiene 9 piruletas completamente aleatorias. ¿Qué podrán contener?
 
-uplink-lollypop-bundle-big-name = Donk Co. Candy Bundle
-uplink-lollypop-bundle-big-desc = Contains an ungodly amount of candy. What could they contain?
+uplink-lollypop-bundle-big-name = Paquete de Dulces Donk Co.
+uplink-lollypop-bundle-big-desc = Contiene una cantidad obscena de dulces. ¿Qué podrán contener?
 
-uplink-medical-beam-gun-name = Medical Beam Gun
-uplink-medical-beam-gun-desc = Heal your teammates with this new device! Runs on internal battery, and automatically recharges after discharging. You can heal only one teammate at once.
+uplink-medical-beam-gun-name = Pistola de Haz Médico
+uplink-medical-beam-gun-desc = ¡Cura a tus compañeros de equipo con este nuevo dispositivo! Funciona con batería interna y se recarga automáticamente tras disparar. Solo puedes curar a un compañero a la vez.
 
-uplink-advanced-combat-medipen-name = Advanced Combat Medipen
-uplink-advanced-combat-medipen-desc = An advanced single-use medipen containing chemicals that will rapidly heal most types of damage taken in a fight.
+uplink-advanced-combat-medipen-name = Medipen de Combate Avanzado
+uplink-advanced-combat-medipen-desc = Un medipen avanzado de un solo uso con sustancias que curan rápidamente la mayoría de tipos de daño sufrido en combate.
 
-uplink-syringe-pistol-name = Syringe Pistol
-uplink-syringe-pistol-desc = A gun that takes syringes as ammunition, and injects their contents to its victims. Injects faster than normal syringe guns and can fit in pockets.
+uplink-syringe-pistol-name = Pistola de Jeringa
+uplink-syringe-pistol-desc = Una pistola que usa jeringas como munición e inyecta su contenido a las víctimas. Inyecta más rápido que las pistolas de jeringa normales y cabe en bolsillos.
 
-uplink-combat-medkit-pills-name = Combat Medical Kit (Pills)
-uplink-combat-medkit-pills-desc = Contains most medicines you need to recover from injuries and illnesses, all in a convenient pill form.
+uplink-combat-medkit-pills-name = Botiquín Médico de Combate (Píldoras)
+uplink-combat-medkit-pills-desc = Contiene la mayoría de los medicamentos que necesitas para recuperarte de heridas y enfermedades, todo en cómoda forma de píldoras.
 
-uplink-combat-medkit-ipc-name = Combat Medical Kit (IPC)
-uplink-combat-medkit-ipc-desc = Contains everything you need to heal an IPC; includes LV wire, industrial welder, a high capacity cell and meson goggles.
+uplink-combat-medkit-ipc-name = Botiquín Médico de Combate (IPC)
+uplink-combat-medkit-ipc-desc = Contiene todo lo que necesitas para curar un IPC; incluye cable LV, soldador industrial, una célula de alta capacidad y gafas meson.
 
 # Implants
 
-uplink-smoke-implant-name = Smoke Implant
-uplink-smoke-implant-desc = Releases a cloud of smoke when activated.
+uplink-smoke-implant-name = Implante de Humo
+uplink-smoke-implant-desc = Libera una nube de humo cuando se activa.
 
-uplink-nutriment-implant-name = Nutriment Pump Implant
-uplink-nutriment-implant-desc = Removes the users need to consume food and/or drinks.
+uplink-nutriment-implant-name = Implante de Bomba de Nutrientes
+uplink-nutriment-implant-desc = Elimina la necesidad del usuario de consumir alimentos y/o bebidas.
 
-uplink-krav-maga-implant-name = Krav Maga Implanter
-uplink-krav-maga-implant-desc = Allows the user to perform various Krav Maga moves.
+uplink-krav-maga-implant-name = Implantador de Krav Maga
+uplink-krav-maga-implant-desc = Permite al usuario realizar varios movimientos de Krav Maga.
 
-uplink-binary-implant-name = Binary Decoder Implanter
-uplink-binary-implant-desc = Lets the user tap into the silicons' binary channel. Talking on it is ill-advised though, at least until the AI goes malf.
+uplink-binary-implant-name = Implantador de Decodificador Binario
+uplink-binary-implant-desc = Permite al usuario acceder al canal binario de los silicios. Sin embargo, hablar en él es desaconsejable, al menos hasta que la IA se vuelva maliciosa.
 
-uplink-autosurgeon-right-mantis-blade-name = Right Mantis Blade Autosurgeon
-uplink-autosurgeon-left-mantis-blade-name = Left Mantis Blade Autosurgeon
-uplink-autosurgeon-mantis-blade-desc = Modifies the user's arm to include the Mantis Blade cyberware extending from it at will, works best when paired. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-right-mantis-blade-name = Autocirujano de Hoja Mantis Derecha
+uplink-autosurgeon-left-mantis-blade-name = Autocirujano de Hoja Mantis Izquierda
+uplink-autosurgeon-mantis-blade-desc = Modifica el brazo del usuario para incluir el cyberware de Hoja Mantis que se extiende a voluntad, funciona mejor en pareja. Requiere demasiado ajuste fino para que un humano lo proporcione; incluye un autocirujano de un solo uso para la instalación.
 
-uplink-autosurgeon-sandevistan-name = Sandevistan Autosurgeon
-uplink-autosurgeon-sandevistan-desc = Replaces the user's heart with Sandevistan, a synthetic organ that drastically increases the user's speed at the cost of their endurance. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-sandevistan-name = Autocirujano Sandevistan
+uplink-autosurgeon-sandevistan-desc = Reemplaza el corazón del usuario con un Sandevistan, un órgano sintético que aumenta drásticamente la velocidad del usuario a costa de su resistencia. Requiere demasiado ajuste fino para que un humano lo proporcione; incluye un autocirujano de un solo uso para la instalación.
 
-uplink-davids-jacket-name = Edgerunner Jacket
-uplink-davids-jacket-desc = A jacket for those particularly interested in improving their bodies, just like you.
+uplink-davids-jacket-name = Chaqueta Edgerunner
+uplink-davids-jacket-desc = Una chaqueta para quienes están particularmente interesados en mejorar sus cuerpos, igual que tú.
 
-uplink-autosurgeon-smartlink-name = Smartlink Autosurgeon
-uplink-autosurgeon-smartlink-desc = Modifies the user's arms to include smartlink cyberware, improving aim with ranged weapons. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-smartlink-name = Autocirujano Smartlink
+uplink-autosurgeon-smartlink-desc = Modifica los brazos del usuario para incluir el cyberware smartlink, mejorando la puntería con armas a distancia. Requiere demasiado ajuste fino para que un humano lo proporcione; incluye un autocirujano de un solo uso para la instalación.
 
-uplink-autosurgeon-recoil-absorbing-name = Recoil Absorbing Arms Autosurgeon
-uplink-autosurgeon-recoil-absorbing-desc = Modifies the user's arms to include recoil absorbing cyberware, drastically reducing recoil when firing ranged weapons. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-recoil-absorbing-name = Autocirujano de Brazos Absorbentes de Retroceso
+uplink-autosurgeon-recoil-absorbing-desc = Modifica los brazos del usuario para incluir cyberware absorbente de retroceso, reduciendo drásticamente el retroceso al disparar armas a distancia. Requiere demasiado ajuste fino para que un humano lo proporcione; incluye un autocirujano de un solo uso para la instalación.
 
-uplink-autosurgeon-berserker-heart-name = Berserker Heart Autosurgeon
-uplink-autosurgeon-berserker-heart-desc = Replaces the user's heart with a berserker implant, that allows them to enter a berserk state, greatly increasing their melee damage, speed and preventing from critical damage. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-berserker-heart-name = Autocirujano de Corazón Berserker
+uplink-autosurgeon-berserker-heart-desc = Reemplaza el corazón del usuario con un implante berserker, que le permite entrar en estado de furia, aumentando enormemente el daño cuerpo a cuerpo, la velocidad y previniendo el daño crítico. Requiere demasiado ajuste fino para que un humano lo proporcione; incluye un autocirujano de un solo uso para la instalación.
 
-uplink-autosurgeon-jumpstarter-heart-name = Jumpstarter Heart Autosurgeon
-uplink-autosurgeon-jumpstarter-heart-desc = Replaces the user's heart with a jumpstarter implant, that injects enough omnizine to get up once you got critical damage. Has a 3 minutes cooldown. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-jumpstarter-heart-name = Autocirujano de Corazón Iniciador
+uplink-autosurgeon-jumpstarter-heart-desc = Reemplaza el corazón del usuario con un implante iniciador, que inyecta suficiente omnizina para levantarse una vez que sufres daño crítico. Tiene un tiempo de recarga de 3 minutos. Requiere demasiado ajuste fino para que un humano lo proporcione; incluye un autocirujano de un solo uso para la instalación.
 
 # Wearables
 
-uplink-helmet-swat-name = Syndicate SWAT Helmet
-uplink-helmet-swat-desc = Robust helmet that offers good protection and also suppresses flashbang sounds to some extent.
+uplink-helmet-swat-name = Casco SWAT Sindical
+uplink-helmet-swat-desc = Casco robusto que ofrece buena protección y también suprime los sonidos de las granadas de destello hasta cierto punto.
 
-uplink-reverse-bear-trap-name = Reverse Bear Trap
-uplink-reverse-bear-trap-desc = An ingenious execution device worn on (or forced onto) the head. Arming it starts a configurable timer (30-120 seconds) mounted on the bear trap. When it goes off, the trap's jaws will violently open, instantly killing anyone wearing it by tearing their jaws in half. To arm, attack someone with it while they're not wearing headgear.
+uplink-reverse-bear-trap-name = Trampa de Oso Inversa
+uplink-reverse-bear-trap-desc = Un ingenioso dispositivo de ejecución que se lleva en (o se fuerza en) la cabeza. Armarlo inicia un temporizador configurable (30-120 segundos) montado en la trampa de oso. Cuando se activa, las mandíbulas de la trampa se abren violentamente, matando instantáneamente a quien la lleve al desgarrar sus mandíbulas por la mitad. Para armarlo, ataca a alguien con él mientras no lleve protección para la cabeza.
 
-uplink-belt-rig-name = Grenadier Belt
-uplink-belt-rig-desc = A specialised belt rig to hold so many grenades that your arm gets tired from throwing them all. Can also store a sidearm and magazines for it.
+uplink-belt-rig-name = Cinturón de Granadero
+uplink-belt-rig-desc = Un arnés de cinturón especializado para cargar tantas granadas que se te cansa el brazo de lanzarlas todas. También puede guardar un arma secundaria y cargadores.
 
-uplink-guerrilla-gloves-name = Guerrilla Gloves
-uplink-guerrilla-gloves-desc = A special shock resistant pair of gloves that make you hard grab by default, reduce your slowdown when actively grabbing and make it harder for victims to escape your grabs.
+uplink-guerrilla-gloves-name = Guantes de Guerrilla
+uplink-guerrilla-gloves-desc = Un par especial de guantes resistentes a impactos que te hacen agarrar fuerte por defecto, reducen tu ralentización al agarrar activamente y dificultan que las víctimas escapen de tus agarres.
 
 # Deception
 
-uplink-clothing-explosive-gloves-name = Explosive Insulated Gloves
-uplink-clothing-explosive-gloves-desc = Gloves that look just like normal insulated gloves, but explode a second after being shocked, disabling the user's hands.
+uplink-clothing-explosive-gloves-name = Guantes Aislantes Explosivos
+uplink-clothing-explosive-gloves-desc = Guantes que parecen guantes aislantes normales, pero explotan un segundo después de recibir una descarga eléctrica, deshabilitando las manos del usuario.
 
 # Disruption
 
-uplink-syndicate-weapon-module-advanced-name = Advanced Weapons Module
-uplink-syndicate-weapon-module-advanced-desc = Upgrades a cyborg with an energy sword and an anaconda pistol.
+uplink-syndicate-weapon-module-advanced-name = Módulo de Armas Avanzado
+uplink-syndicate-weapon-module-advanced-desc = Mejora un cyborg con una espada de energía y una pistola anaconda.
 
-uplink-carpcaller-name = Space Carp Caller
-uplink-carpcaller-desc = A device exploiting carp psychology that, when anchored, powered, and exposed to open space, will attract wild space carp. Keep in mind you're not their friend.
+uplink-carpcaller-name = Llamador de Carpas Espaciales
+uplink-carpcaller-desc = Un dispositivo que explota la psicología de las carpas que, cuando está anclado, alimentado y expuesto al espacio abierto, atraerá carpas espaciales salvajes. Ten en cuenta que no eres su amigo.
 
 # Martial Arts
 
-uplink-cqc-name = CQC Manual
-uplink-cqc-desc = A manual that teaches a single user tactical Close-Quarters Combat before self-destructing. CQC is primarily an aggressive fighting style that focuses on dealing stamina damage to targets - designed to quickly subdue opponents and overpower them with pressure technique and crushing blows.
+uplink-cqc-name = Manual de CQC
+uplink-cqc-desc = Un manual que enseña a un usuario tácticas de Combate a Corta Distancia antes de autodestruirse. El CQC es principalmente un estilo de lucha agresivo que se centra en causar daño de stamina a los objetivos, diseñado para someter rápidamente a los oponentes y abrumarlos con técnicas de presión y golpes aplastantes.
 
-uplink-capoeira-name = Capoeira Manual
-uplink-capoeira-desc = A manual that teaches a single user Capoeira before self-destructing. Capoeira focuses on swift attacks that link into flowing combos, with each move faster and harder than the last one, fueled by relentless momentum.
+uplink-capoeira-name = Manual de Capoeira
+uplink-capoeira-desc = Un manual que enseña a un usuario Capoeira antes de autodestruirse. La Capoeira se centra en ataques veloces que se encadenan en combos fluidos, con cada movimiento más rápido y duro que el anterior, impulsado por un impulso implacable.
 
-uplink-sleeping-carp-name = Way of the Sleeping Carp Scroll
-uplink-sleeping-carp-desc = This single-use scroll contains the secrets of an ancient martial arts technique. You will master unarmed combat, deflecting ranged weapon fire, and space carp will become friendly to you. Learning this art means you will also refuse to use dishonorable ranged weaponry. Unable to be understood by changelings.
+uplink-sleeping-carp-name = Pergamino del Camino de la Carpa Durmiente
+uplink-sleeping-carp-desc = Este pergamino de un solo uso contiene los secretos de una antigua técnica de artes marciales. Dominarás el combate sin armas, desviarás disparos de armas a distancia, y las carpas espaciales se volverán amigables contigo. Aprender este arte significa que también rechazarás usar deshonrosas armas a distancia. No puede ser comprendido por cambiaformas.
 
 
 # Misc
 
-uplink-dimension-pot-name = Dimension Pot
-uplink-dimension-pot-desc = A portal to your own pocket dimension disguised in the form of a potted plant, for when stashing one item isn't quite enough.
+uplink-dimension-pot-name = Maceta Dimensional
+uplink-dimension-pot-desc = Un portal a tu propia dimensión de bolsillo disfrazado de maceta, para cuando esconder un objeto no es suficiente.
 
-uplink-pizza-bomb-name = Nefarious Pizza bomb
-uplink-pizza-bomb-desc = First pioneered by terrorists, now is used by the syndicate for eliminating high value targets. Do not open before explosion.
+uplink-pizza-bomb-name = Pizza Bomba Nefaria
+uplink-pizza-bomb-desc = Pionera primero entre terroristas, ahora la usa el sindicato para eliminar objetivos de alto valor. No abrir antes de la explosión.
 
-uplink-pizza-party-crate-name = Pizza Party Crate
-uplink-pizza-party-crate-desc = A crate coming in the form of disaster pizza delivery. Filled with pizzas and pizza bombs to throw the most explosive pizza party ever. Unfortunately you can't seem to remember which one is which.
+uplink-pizza-party-crate-name = Cajón de Pizza Party
+uplink-pizza-party-crate-desc = Un cajón que llega en forma de desastre de entrega de pizza. Lleno de pizzas y pizza bombas para organizar la fiesta de pizza más explosiva de la historia. Desgraciadamente no puedes recordar cuál es cuál.
 
-uplink-undetermined-bundle-name = Undetermined Bundle Crate
-uplink-undetermined-bundle-desc = This crate comes with three random bundles and allows to choose one of them. Guaranteed to include Syndicate encryption key.
+uplink-undetermined-bundle-name = Cajón de Paquete Indeterminado
+uplink-undetermined-bundle-desc = Este cajón incluye tres paquetes aleatorios y permite elegir uno. Garantizado que incluye llave de cifrado del Sindicato.
 
-uplink-energy-pickaxe-name = Energy Pickaxe
-uplink-energy-pickaxe-desc = A holographic mining tool with blades comprised of hard light that also serves a deadly melee weapon. Rock and stone!
+uplink-energy-pickaxe-name = Pico de Energía
+uplink-energy-pickaxe-desc = Una herramienta de minería holográfica con cuchillas de luz sólida que también sirve como arma cuerpo a cuerpo letal. ¡Roca y piedra!
 
-uplink-bloodred-cassette-name = Bloodred Casette Player
-uplink-bloodred-cassette-desc = Provided by the most egotistical fashion designers of Cybersun, a portable music player!
+uplink-bloodred-cassette-name = Reproductor de Casete Rojo Sangre
+uplink-bloodred-cassette-desc = Proporcionado por los diseñadores de moda más egocéntricos de Cybersun, ¡un reproductor de música portátil!
 
-uplink-syndiedrobe-name = Syndiedrobe
-uplink-syndiedrobe-desc = A vending machine stocked with Syndicate-branded clothing. Simple, sharp, and unmistakably red-and-black, it offers operatives a way to dress with Syndicate style.
+uplink-syndiedrobe-name = Sindieropatraje
+uplink-syndiedrobe-desc = Una máquina expendedora repleta de ropa de marca Sindicato. Sencillo, elegante e inconfundiblemente rojo y negro, ofrece a los operativos una forma de vestirse con estilo sindical.
 
-uplink-customboard-name = Custom Syndicate Lawboard
-uplink-customboard-desc = A modified lawboard that allows the user to change the laws to anything they want. Comes with Antimov pre-installed.
+uplink-customboard-name = Placa de Leyes Sindicales Personalizada
+uplink-customboard-desc = Una placa de leyes modificada que permite al usuario cambiar las leyes a lo que quiera. Viene con Antimov preinstalado.
 
-uplink-cddisksyndicate-name = Syndicate Advertisement CD
-uplink-cddisksyndicate-desc = 102.9 Syndicate radio
+uplink-cddisksyndicate-name = CD de Publicidad del Sindicato
+uplink-cddisksyndicate-desc = Radio Sindicato 102.9
 
-uplink-cddisknumber-name = Number Station CD
-uplink-cddisknumber-desc = Call in a threat to distract the station... good luck playing the whole thing.
+uplink-cddisknumber-name = CD de Estación de Números
+uplink-cddisknumber-desc = Llama a una amenaza para distraer a la estación... buena suerte reproduciendo todo el CD.
 
-uplink-box-xenobio-name = Xenobiology slimes box
-uplink-box-xenobio-desc = Slimes for your xenobiology needs. Contains 9 random T1 slimes.
+uplink-box-xenobio-name = Caja de slimes de xenobiología
+uplink-box-xenobio-desc = Slimes para tus necesidades de xenobiología. Contiene 9 slimes T1 aleatorios.
 
 #Contractor
 
-uplink-moduist-contractor-name = Contractor Modsuit
-uplink-moduist-contractor-desc = This lightweight modsuit was made specifically for The Guild! Made using plastitanium for extreme durability but light-weight, comes packed with servos to to help you grab harder, critical damage detecting injectors, and a built in chameleon tech! To keep it ultra light-weight this modsuit has no storage capabilities.
+uplink-moduist-contractor-name = Traje Modular de Contratista
+uplink-moduist-contractor-desc = ¡Este traje modular ligero fue hecho específicamente para El Gremio! Fabricado con plasti-titanio para una durabilidad extrema pero liviano, viene equipado con servos para ayudarte a agarrar con más fuerza, inyectores detectores de daño crítico y tecnología camaleón integrada. Para mantenerlo ultraligero, este traje modular no tiene capacidad de almacenamiento.
 
-uplink-hardsuit-contractor-name = Contractor Hardsuit Bundle
-uplink-hardsuit-contractor-desc = This lightweight hardsuit was made specifically for The Guild! Can easily be folded up into backpacks.
+uplink-hardsuit-contractor-name = Paquete de Traje Duro de Contratista
+uplink-hardsuit-contractor-desc = ¡Este traje duro ligero fue hecho específicamente para El Gremio! Se puede doblar fácilmente para caber en mochilas.
 
-uplink-webbing-contractor-name = Contractor Webbing
-uplink-webbing-contractor-desc = A chest rig with deep pockets and explosion resistance, often used by contractors and bounty hunters.
+uplink-webbing-contractor-name = Arnés de Contratista
+uplink-webbing-contractor-desc = Un arnés pectoral con bolsillos profundos y resistencia a explosiones, frecuentemente utilizado por contratistas y cazarrecompensas.
 
-uplink-jetpack-contractor-name = Contractor Jetpack
-uplink-jetpack-contractor-desc = This Jetpack was made specifically for The Guild! Boasts high maneuverability and a decent fuel capacity, perfect for quick getaways. Has built-in straps for suit storage compatibility.
+uplink-jetpack-contractor-name = Jetpack de Contratista
+uplink-jetpack-contractor-desc = ¡Este Jetpack fue hecho específicamente para El Gremio! Presume de alta maniobrabilidad y una capacidad de combustible decente, perfecto para escapadas rápidas. Tiene correas integradas para compatibilidad con almacenamiento de trajes.
 
-uplink-cuffs-contractor-name = Handcuffs
-uplink-cuffs-contractor-desc = Used to detain criminals and other assholes.
+uplink-cuffs-contractor-name = Esposas
+uplink-cuffs-contractor-desc = Usadas para detener a criminales y otros indeseables.

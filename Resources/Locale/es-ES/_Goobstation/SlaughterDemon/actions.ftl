@@ -1,5 +1,5 @@
-slaughter-devour-humanoid = You devoured someone... You feel amazing!
-slaughter-devour-robot = You devoured someone... You feel alright.
-slaughter-devour-other = You devoured something... It's disgusting!
+slaughter-devour-humanoid = Has devorado a alguien... ¡Te sientes increíble!
+slaughter-devour-robot = Has devorado a alguien... Te sientes bien.
+slaughter-devour-other = Has devorado algo... ¡Es asqueroso!
 
-slaughter-blood-jaunt-fail = You must stand on blood
+slaughter-blood-jaunt-fail = Debes estar sobre sangre

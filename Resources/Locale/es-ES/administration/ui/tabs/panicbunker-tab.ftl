@@ -5,27 +5,28 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-ui-panic-bunker-window-title = Panic Bunker
+admin-ui-panic-bunker-window-title = Búnker de Pánico
 
-admin-ui-panic-bunker-enabled = Panic Bunker Enabled
-admin-ui-panic-bunker-disabled = Panic Bunker Disabled
-admin-ui-panic-bunker-tooltip = The panic bunker restricts players from joining if their account is too new or they do not have enough overall playtime on this server.
+admin-ui-panic-bunker-enabled = Búnker de Pánico Activado
+admin-ui-panic-bunker-disabled = Búnker de Pánico Desactivado
+admin-ui-panic-bunker-tooltip = El búnker de pánico restringe la entrada de jugadores si su cuenta es demasiado nueva o no tienen suficiente tiempo de juego total en este servidor.
 
-admin-ui-panic-bunker-disable-automatically = Disable Automatically
-admin-ui-panic-bunker-disable-automatically-tooltip = Disables the panic bunker automatically when an admin connects.
-admin-ui-panic-bunker-enable-automatically = Enable Automatically
-admin-ui-panic-bunker-enable-automatically-tooltip = Enables the panic bunker automatically when no admins are online.
+admin-ui-panic-bunker-disable-automatically = Desactivar Automáticamente
+admin-ui-panic-bunker-disable-automatically-tooltip = Desactiva el búnker de pánico automáticamente cuando se conecta un administrador.
+admin-ui-panic-bunker-enable-automatically = Activar Automáticamente
+admin-ui-panic-bunker-enable-automatically-tooltip = Activa el búnker de pánico automáticamente cuando no hay administradores en línea.
 
-admin-ui-panic-bunker-count-deadminned-admins = Count Deadmins
-admin-ui-panic-bunker-count-deadminned-admins-tooltip = Count deadminned admins when automatically enabling and disabling the panic bunker.
+admin-ui-panic-bunker-count-deadminned-admins = Contar Admins Desadminados
+admin-ui-panic-bunker-count-deadminned-admins-tooltip = Contar los admins desadminados al activar y desactivar automáticamente el búnker de pánico.
 
-admin-ui-panic-bunker-show-reason = Show Reason
-admin-ui-panic-bunker-show-reason-tooltip = Show the user why they were blocked from connecting by the panic bunker.
+admin-ui-panic-bunker-show-reason = Mostrar Motivo
+admin-ui-panic-bunker-show-reason-tooltip = Muestra al usuario por qué fue bloqueado al conectarse por el búnker de pánico.
 
-admin-ui-panic-bunker-min-account-age = Min. Account Age
-admin-ui-panic-bunker-min-overall-minutes = Min. Overall Playtime
+admin-ui-panic-bunker-min-account-age = Edad Mín. de Cuenta
+admin-ui-panic-bunker-min-overall-minutes = Tiempo de Juego Mín. Total
 
-admin-ui-panic-bunker-is-enabled = The panic bunker is currently enabled.
+admin-ui-panic-bunker-is-enabled = El búnker de pánico está actualmente activado.
 
-admin-ui-panic-bunker-enabled-admin-alert = The panic bunker has been enabled.
-admin-ui-panic-bunker-disabled-admin-alert = The panic bunker has been disabled.
+admin-ui-panic-bunker-enabled-admin-alert = El búnker de pánico ha sido activado.
+admin-ui-panic-bunker-disabled-admin-alert = El búnker de pánico ha sido desactivado.
+

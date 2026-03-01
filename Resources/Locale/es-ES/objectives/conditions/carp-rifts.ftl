@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-carp-rifts-title = Open {$count} carp rifts
-objective-carp-rifts-description = Use the rift action to open {$count} rifts and ensure they do not get destroyed. If you don't open a rift after 5 minutes, you get killed.
+objective-carp-rifts-title = Abrir {$count} fisuras de carp
+objective-carp-rifts-description = Usa la acción de fisura para abrir {$count} fisuras y asegúrate de que no sean destruidas. Si no abres una fisura en 5 minutos, mueres.

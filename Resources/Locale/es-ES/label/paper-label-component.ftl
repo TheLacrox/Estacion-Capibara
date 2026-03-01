@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-paper-label-has-label = There is a label attached, it reads:
-comp-paper-label-has-label-blank = There is a label attached, but it's blank.
-comp-paper-label-has-label-cant-read = There is a label attached, but you can't read it from this distance.
-comp-paper-label-insert = Attach label
-comp-paper-label-eject = Detach label
+comp-paper-label-has-label = Hay una etiqueta adjunta que dice:
+comp-paper-label-has-label-blank = Hay una etiqueta adjunta, pero está en blanco.
+comp-paper-label-has-label-cant-read = Hay una etiqueta adjunta, pero no puedes leerla desde esta distancia.
+comp-paper-label-insert = Adjuntar etiqueta
+comp-paper-label-eject = Quitar etiqueta

@@ -4,14 +4,14 @@
 #
 # SPDX-License-Identifier: MIT
 
-shuttle-timer-eta = ETA
-shuttle-timer-etd = ETD
-shuttle-timer-shuttle-time = ShuttleTime
-shuttle-timer-source-time = SourceTime
-shuttle-timer-dest-time = DestTime
-shuttle-timer-shuttle-map = ShuttleMap
-shuttle-timer-source-map = SourceMap
-shuttle-timer-dest-map = DestMap
-shuttle-timer-docked = Docked
-shuttle-timer-bye = BYE!
-shuttle-timer-kill = KILL
+shuttle-timer-eta = HLL
+shuttle-timer-etd = HLS
+shuttle-timer-shuttle-time = TiempoLanzadera
+shuttle-timer-source-time = TiempoOrigen
+shuttle-timer-dest-time = TiempoDestino
+shuttle-timer-shuttle-map = MapaLanzadera
+shuttle-timer-source-map = MapaOrigen
+shuttle-timer-dest-map = MapaDestino
+shuttle-timer-docked = Atracada
+shuttle-timer-bye = ¡ADIOS!
+shuttle-timer-kill = MATAR

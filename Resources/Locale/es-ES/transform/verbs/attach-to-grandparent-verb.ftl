@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-attach-to-grandparent-verb-get-data-text = Attach to grid
+attach-to-grandparent-verb-get-data-text = Anclar a la cuadrícula

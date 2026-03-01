@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-clothing-modify-stun-time-examine = Stun and knockdown time is reduced by [color=yellow]{$mod}%[/color]
+clothing-modify-stun-time-examine = El tiempo de aturdimiento y derribo se reduce en [color=yellow]{$mod}%[/color]

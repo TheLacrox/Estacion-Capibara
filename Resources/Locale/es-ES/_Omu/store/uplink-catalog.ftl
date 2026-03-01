@@ -1,2 +1,2 @@
 uplink-dislippler-name = Dislippler
-uplink-dislippler-desc = Standard-issue security disabler on Honk! Co. stations. Ultimate proof that God has abandoned us.
+uplink-dislippler-desc = Desactivador de seguridad estándar en las estaciones de Honk! Co. La prueba definitiva de que Dios nos ha abandonado.

@@ -6,4 +6,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-flammable-component-resist-message = You stop, drop, and roll!
+flammable-component-resist-message = ¡Te paras, te tiras al suelo y ruedas!

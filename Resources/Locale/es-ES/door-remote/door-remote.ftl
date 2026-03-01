@@ -8,17 +8,16 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## UI
-door-remote-open-close-text = Opens and Closes Doors
-door-remote-toggle-bolt-text = Toggles Bolts
-door-remote-emergency-access-text = Toggles Emergency Access
-door-remote-invalid-text = Invalid
-door-remote-mode-label = Mode: [color=white]{$modeString}[/color]
+door-remote-open-close-text = Abre y cierra puertas
+door-remote-toggle-bolt-text = Alterna pernos
+door-remote-emergency-access-text = Alterna acceso de emergencia
+door-remote-invalid-text = Inválido
+door-remote-mode-label = Modo: [color=white]{$modeString}[/color]
 
-## Entity
+## Entidad
 
-door-remote-switch-state-open-close = You switch the remote to open and close doors
-door-remote-switch-state-toggle-bolts = You switch the remote to toggle bolts
-door-remote-switch-state-toggle-emergency-access = You switch the remote to toggle emergency access
-door-remote-no-power = The door is not powered
-door-remote-denied = Access denied
-
+door-remote-switch-state-open-close = Cambias el mando a distancia para abrir y cerrar puertas
+door-remote-switch-state-toggle-bolts = Cambias el mando a distancia para alternar pernos
+door-remote-switch-state-toggle-emergency-access = Cambias el mando a distancia para alternar acceso de emergencia
+door-remote-no-power = La puerta no tiene energía
+door-remote-denied = Acceso denegado

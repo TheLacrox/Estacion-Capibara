@@ -11,198 +11,198 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ghost-role-information-nukie-reinforcement-name = Nuclear Operative
-ghost-role-information-nukie-reinforcement-description = The nuclear operatives need reinforcements. You, a reserve agent, will help them.
-ghost-role-information-nukie-reinforcement-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with the nuclear operatives who summoned you.
+ghost-role-information-nukie-reinforcement-name = Operativo Nuclear
+ghost-role-information-nukie-reinforcement-description = Los operativos nucleares necesitan refuerzos. Tú, un agente de reserva, los ayudarás.
+ghost-role-information-nukie-reinforcement-rules = Eres un [color=red][bold]Antagonista de Equipo[/bold][/color] con los operativos nucleares que te convocaron.
 
-ghost-role-information-SyndiRoach-name = SyndiRoach
-ghost-role-information-SyndiRoach-description = You're the faithful trained pet of nuclear operatives with a microbomb. Serve your master to the death!
-ghost-role-information-SyndiRoach-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with the agent who summoned you.
+ghost-role-information-SyndiRoach-name = CucarachasSindi
+ghost-role-information-SyndiRoach-description = Eres la fiel mascota entrenada de los operativos nucleares con una microbomba. ¡Sirve a tu amo hasta la muerte!
+ghost-role-information-SyndiRoach-rules = Eres un [color=red][bold]Antagonista de Equipo[/bold][/color] con el agente que te convocó.
 
-ghost-role-information-skibidi-toilet-name = Skibidi Toilet
-ghost-role-information-skibidi-toilet-description = Unalive people with your skibidi ohio rizz.
-ghost-role-information-skibidi-toilet-rules = You are a [color=red][bold]Antagonist[/bold][/color] with the objective of unaliving as many ohioans as you can.
+ghost-role-information-skibidi-toilet-name = Inodoro Skibidi
+ghost-role-information-skibidi-toilet-description = Mata gente con tu rizz skibidi ohio.
+ghost-role-information-skibidi-toilet-rules = Eres un [color=red][bold]Antagonista[/bold][/color] con el objetivo de matar a tantos ohioanos como puedas.
 
-ghost-role-information-Hecu-name = HECU Operative
-ghost-role-information-Hecu-description = Central Command needs something done.
-ghost-role-information-Hecu-rules = You are required to obey orders given by your superior, you are effectively their [color=#6495ed][bold]Familiar[/bold][/color].
+ghost-role-information-Hecu-name = Operativo HECU
+ghost-role-information-Hecu-description = El Comando Central necesita que algo se haga.
+ghost-role-information-Hecu-rules = Estás obligado a obedecer las órdenes de tu superior, eres efectivamente su [color=#6495ed][bold]Familiar[/bold][/color].
 
-ghost-role-information-lootbug-name = LootBug
-ghost-role-information-lootbug-description = Try not to be butchered by tiders.
+ghost-role-information-lootbug-name = Bicho del Botín
+ghost-role-information-lootbug-description = Intenta no ser despiezado por los tiders.
 
-ghost-role-information-homunculus-name = homunculus
-ghost-role-information-homunculus-description = Obey the one who has created you, if there are nowhere to be found, do as you will.
+ghost-role-information-homunculus-name = homúnculo
+ghost-role-information-homunculus-description = Obedece a quien te ha creado; si no se encuentra en ningún lugar, actúa como quieras.
 
-ghost-role-information-fillbot-name = fillbot
-ghost-role-information-fillbot-description = Serve the one who has created you, if there are nowhere to be found, do as you will.
+ghost-role-information-fillbot-name = rellenador
+ghost-role-information-fillbot-description = Sirve a quien te ha creado; si no se encuentra en ningún lugar, actúa como quieras.
 
 ghost-role-information-huborg-name = Urist McBorg
-ghost-role-information-huborg-description = You are a disgusting abomination of a cyborg.
+ghost-role-information-huborg-description = Eres una abominable mezcla de ser vivo y cyborg.
 
-ghost-role-information-c4-name = Composition C-4
-ghost-role-information-c4-description = Assist your user with bombing things.
+ghost-role-information-c4-name = Composición C-4
+ghost-role-information-c4-description = Ayuda a tu usuario a hacer explotar cosas.
 
-ghost-role-information-derelict-cyborg-syndicate-name = Derelict Syndicate Cyborg
-ghost-role-information-derelict-cyborg-syndicate-description = You were lost during an assault on a station. After years of exposure to ion storms you find yourself near a space station.
+ghost-role-information-derelict-cyborg-syndicate-name = Cyborg Sindical Abandonado
+ghost-role-information-derelict-cyborg-syndicate-description = Te perdiste durante un asalto a una estación. Tras años de exposición a tormentas iónicas te encuentras cerca de una estación espacial.
 
-ghost-role-information-navy-captain-name = Navy Captain
-ghost-role-information-navy-captain-description = Classified.
-ghost-role-information-navy-captain-rules = You are beholden to no rules.
+ghost-role-information-navy-captain-name = Capitán de la Marina
+ghost-role-information-navy-captain-description = Clasificado.
+ghost-role-information-navy-captain-rules = No estás sujeto a ninguna regla.
 
-ghost-role-information-special-operations-officer-name = Special Operations Officer
-ghost-role-information-special-operations-officer-description = Send, brief, and direct emergency response teams or other Nanotrasen forces. Release the nuclear codes, or don't.
-ghost-role-information-special-operations-officer-rules = Bring the Nanotrasen Representative in alive, the rest are just collateral. [color=#yellow][bold]Navy Captain[/bold][/color] orders may change this.
+ghost-role-information-special-operations-officer-name = Oficial de Operaciones Especiales
+ghost-role-information-special-operations-officer-description = Envía, instruye y dirige equipos de respuesta de emergencia u otras fuerzas de Nanotrasen. Revela los códigos nucleares, o no.
+ghost-role-information-special-operations-officer-rules = Trae al Representante de Nanotrasen con vida, el resto es daño colateral. Las órdenes del [color=#yellow][bold]Capitán de la Marina[/bold][/color] pueden cambiar esto.
 
-ghost-role-information-navy-officer-name = Navy Officer
-ghost-role-information-navy-officer-description = Answer faxes and radio communications directed at Central Command. Perform investigations on the station and it's crew.
-ghost-role-information-navy-officer-rules = Follow the orders of the [color=#yellow][bold]Navy Captain[/bold][/color]. In the absence of one, make your own judgements.
+ghost-role-information-navy-officer-name = Oficial de la Marina
+ghost-role-information-navy-officer-description = Responde faxes y comunicaciones de radio dirigidos al Comando Central. Realiza investigaciones en la estación y su tripulación.
+ghost-role-information-navy-officer-rules = Sigue las órdenes del [color=#yellow][bold]Capitán de la Marina[/bold][/color]. En su ausencia, toma tus propias decisiones.
 
-ghost-role-information-navy-officer-undercover-name = Undercover Navy officer
-ghost-role-information-navy-officer-undercover-description = Complete your assigned tasks and terminate the given targets. Good luck.
-ghost-role-information-navy-officer-undercover-rules = Follow the orders of the [color=#yellow][bold]Navy Captain[/bold][/color], or other Central Command official.
+ghost-role-information-navy-officer-undercover-name = Oficial de Marina Encubierto
+ghost-role-information-navy-officer-undercover-description = Completa tus tareas asignadas y elimina a los objetivos dados. Buena suerte.
+ghost-role-information-navy-officer-undercover-rules = Sigue las órdenes del [color=#yellow][bold]Capitán de la Marina[/bold][/color] u otro oficial del Comando Central.
 
-ghost-role-information-diplomat-name = Diplomat
-ghost-role-information-diplomat-description = Represent Central Command, managing relationships with other factions aboard the station. Cleanup the issues the captain has likely caused.
+ghost-role-information-diplomat-name = Diplomático
+ghost-role-information-diplomat-description = Representa al Comando Central, gestionando las relaciones con otras facciones a bordo de la estación. Soluciona los problemas que probablemente ha causado el capitán.
 
-ghost-role-information-inspector-name = Central Command Auditor
-ghost-role-information-inspector-description = Perform inspections on the stations assets and its crew. Probably die in a horrific accident and get a deathsquad called.
+ghost-role-information-inspector-name = Auditor del Comando Central
+ghost-role-information-inspector-description = Realiza inspecciones de los activos de la estación y su tripulación. Probablemente muere en un accidente horrible y se llama a un escuadrón de la muerte.
 
-ghost-role-information-sentient-shark-name = Sentient Sharkminnow
-ghost-role-information-plague-mouse-name = Plague Mouse
-ghost-role-information-plague-mouse-description = A hungry and mischievous mouse. This one carries a disease and will spread it on bite.
+ghost-role-information-sentient-shark-name = Tiburón Pez Sintiente
+ghost-role-information-plague-mouse-name = Ratón de la Plaga
+ghost-role-information-plague-mouse-description = Un ratón hambriento y travieso. Este lleva una enfermedad y la propagará al morder.
 
 ghost-role-information-trevor-name = Trevor
-ghost-role-information-trevor-description = Securities trusted battle steed.
+ghost-role-information-trevor-description = El fiel corcel de batalla de seguridad.
 
 # Half Life
 
-ghost-role-information-Gman-name = The G-Man
-ghost-role-information-Gman-description = The right man in the wrong place can make all the difference in the world.
-ghost-role-information-Gman-rules = You are beholden to no rules or boundaries. Death cannot hold you, and neither can Nanotrasen.
+ghost-role-information-Gman-name = El G-Man
+ghost-role-information-Gman-description = El hombre correcto en el lugar equivocado puede marcar la diferencia en el mundo.
+ghost-role-information-Gman-rules = No estás sujeto a ninguna regla o límite. La muerte no puede retenerte, ni tampoco Nanotrasen.
 
 # Blueshild Deputy
 
-ghost-role-information-bsd-name = Blueshield Deputy
-ghost-role-information-bsd-description = You were called onto the station by the NTR, obey him, protect Command, follow the law.
-ghost-role-information-bsd-rules = Follow the orders given you by the [color=yellow][bold]NanoTrasen Representative[/bold][/color], protect command.
+ghost-role-information-bsd-name = Diputado Escudo Azul
+ghost-role-information-bsd-description = Fuiste llamado a la estación por el RNT, obedécele, protege el Mando, sigue la ley.
+ghost-role-information-bsd-rules = Sigue las órdenes que te da el [color=yellow][bold]Representante de NanoTrasen[/bold][/color], protege el mando.
 
 # interns
-ghost-role-intern-name = CentComm intern
-ghost-role-nerd-intern-name = CentComm Nerd Intern
-ghost-role-lead-intern-name = CentComm Lead Intern
-ghost-role-intern-desc = You are a CentComm intern, you're underpaid, hungry, with a large student debt to pay off, but you have no other options so you better listen up!
-ghost-role-intern-rules = Follow the orders given you by the [color=yellow][bold]NanoTrasen Representative[/bold][/color] & CentComm, protect command, listen to the Lead intern.
-ghost-role-lead-intern-rules = Follow the orders given you by the [color=yellow][bold]NanoTrasen Representative[/bold][/color] & CentComm, protect command, give orders to other interns.
+ghost-role-intern-name = Interno del ComCen
+ghost-role-nerd-intern-name = Interno Nerd del ComCen
+ghost-role-lead-intern-name = Interno Jefe del ComCen
+ghost-role-intern-desc = Eres un interno del ComCen, mal pagado, con hambre, con una gran deuda estudiantil que pagar, pero no tienes otras opciones así que ¡más vale que escuches!
+ghost-role-intern-rules = Sigue las órdenes que te da el [color=yellow][bold]Representante de NanoTrasen[/bold][/color] y el ComCen, protege el mando, escucha al Interno Jefe.
+ghost-role-lead-intern-rules = Sigue las órdenes que te da el [color=yellow][bold]Representante de NanoTrasen[/bold][/color] y el ComCen, protege el mando, da órdenes a los demás internos.
 
 # cargo bingle
-ghost-role-cargo-bingle-name = Cargo bingle
-ghost-role-cargo-bingle-desc = Serve the Nanotrasen Representative and their interests, do not injure crew members, help cargo and the station.
+ghost-role-cargo-bingle-name = Bingle de carga
+ghost-role-cargo-bingle-desc = Sirve al Representante de Nanotrasen y sus intereses, no lastimes a los miembros de la tripulación, ayuda a carga y a la estación.
 
 # shuttle roles
 
-ghost-role-information-alien-tourist-name = Alien Tourist
-ghost-role-information-alien-tourist-description = Look around the station. Glorp at people. Get shot by a trigger-happy officer.
+ghost-role-information-alien-tourist-name = Turista Alienígena
+ghost-role-information-alien-tourist-description = Mira alrededor de la estación. Glorp a la gente. Que te dispare un oficial gatillo fácil.
 
 # Conquest?
 
-ghost-role-information-conquest-name = Conquest
-ghost-role-information-conquest-description = This station was given orders, they were given time. They were given more leeway than most.
-ghost-role-information-conquest-rules = Prepare this station for the arrival of the Viltrum Empire.
+ghost-role-information-conquest-name = Conquista
+ghost-role-information-conquest-description = A esta estación se le dieron órdenes, se les dio tiempo. Se les dio más margen que a la mayoría.
+ghost-role-information-conquest-rules = Prepara esta estación para la llegada del Imperio Viltrum.
 
 # Justice Persona Role
-justice-role-name = Justice Persona
-justice-role-description = Help the HOS carry out arrests by shouting phrases for them while they deliver Justice.
+justice-role-name = Persona Justicia
+justice-role-description = Ayuda al JdS a realizar arrestos gritando frases por él mientras imparte Justicia.
 
 # Ancient Xenos
 
-ghost-role-information-ancient-queen-name = Ancient Xeno Queen
-ghost-role-information-ancient-king-name = Ancient Xeno King
-ghost-role-information-ancient-rogue-king-name = Ancient Rogue Xeno King
+ghost-role-information-ancient-queen-name = Reina Xeno Antigua
+ghost-role-information-ancient-king-name = Rey Xeno Antiguo
+ghost-role-information-ancient-rogue-king-name = Rey Xeno Renegado Antiguo
 
-ghost-role-information-ancient-xeno-description = A creature thought to be extinct, and yet...
-ghost-role-information-ancient-rogue-king-description = The lone king, with only vengeance in its eyes. Show them no mercy!
+ghost-role-information-ancient-xeno-description = Una criatura que se creía extinta, y sin embargo...
+ghost-role-information-ancient-rogue-king-description = El rey solitario, con solo venganza en sus ojos. ¡No les muestres misericordia!
 
-ghost-role-information-ancient-rogue-king-rules = You bow to no one. Kill anything that stands in your way.
+ghost-role-information-ancient-rogue-king-rules = No te inclinas ante nadie. Mata a cualquiera que se interponga en tu camino.
 
-ghost-role-information-rules-default-xeno = You are a [color={role-type-team-antagonist-color}][bold]Xenomorph[/bold][/color].
-                                            Your objective is to protect your Queen and expand your Hive.
-                                            Achieve this by bringing your Queen crewmembers to infest.
+ghost-role-information-rules-default-xeno = Eres un [color={role-type-team-antagonist-color}][bold]Xenomorfo[/bold][/color].
+                                            Tu objetivo es proteger a tu Reina y expandir tu Colmena.
+                                            Logra esto llevando miembros de la tripulación a tu Reina para infectar.
 
 # Token Roles
 
-ghost-role-information-description-token-generic = Don't take this role unless you redeemed the token!
+ghost-role-information-description-token-generic = ¡No tomes este rol a menos que hayas canjeado el token!
 
-ghost-role-information-space-ninja-name-token = Space Ninja (Token)
-ghost-role-information-space-dragon-name-token = Space Dragon (Token)
-ghost-role-information-revenant-name-token = Revenant (Token)
-ghost-role-information-loneop-name-token = Lone Operative (Token)
-ghost-role-information-derelict-cyborg-syndicate-name-token = Derelict Assault Cyborg (Token)
+ghost-role-information-space-ninja-name-token = Ninja Espacial (Token)
+ghost-role-information-space-dragon-name-token = Dragón Espacial (Token)
+ghost-role-information-revenant-name-token = Revenante (Token)
+ghost-role-information-loneop-name-token = Operativo Solitario (Token)
+ghost-role-information-derelict-cyborg-syndicate-name-token = Cyborg de Asalto Abandonado (Token)
 ghost-role-information-bingle-name-token = Bingle (Token)
-blob-carrier-role-name-token = Blob Carrier (Token)
-abductor-lone-ghost-role-name-token = Lone Abductor (Token)
-roles-wizard-name-token = Wizard (Token)
-roles-slaughter-demon-name-token = Slaughter Demon (Token)
-roles-laughter-demon-name-token = Laughter Demon (Token)
-ghost-role-information-ancient-rogue-king-name-token = Ancient Rogue King (Token)
-ghost-role-information-wraith-name-token = Wraith (Token)
+blob-carrier-role-name-token = Portador del Blob (Token)
+abductor-lone-ghost-role-name-token = Abductor Solitario (Token)
+roles-wizard-name-token = Mago (Token)
+roles-slaughter-demon-name-token = Demonio de la Masacre (Token)
+roles-laughter-demon-name-token = Demonio de la Risa (Token)
+ghost-role-information-ancient-rogue-king-name-token = Rey Renegado Antiguo (Token)
+ghost-role-information-wraith-name-token = Espectro (Token)
 
 # Misc-Midround Antags
 
-ghost-role-information-grey-tide-name = The Grey Tide
-ghost-role-information-grey-tide-description = Against all the evil that shitsec can conjure, all the wickedness that sci can produce, we will send unto them only you. Robust and shit until it is done.
-grey-tide-role-greeting = Long forgotten in the depths of maints, you are [color=#880808]THE GREY-TIDE [/color], the clothes you wear have fused with your body from extensive robusting, this station isn't theirs to conquer...
-tide-objective-kill-everyone-desc = This station has wronged you for the last time, robust and tide until they are all dead.
-tide-objective-condition-kill-everyone-else-title = Robust everyone.
+ghost-role-information-grey-tide-name = La Marea Gris
+ghost-role-information-grey-tide-description = Contra todo el mal que la secta puede conjurar, toda la maldad que ciencia puede producir, te enviaremos solo a ti. Robusto e inundador hasta que termine.
+grey-tide-role-greeting = Olvidado hace mucho en las profundidades del mantenimiento, eres [color=#880808]LA MAREA GRIS[/color], la ropa que llevas se ha fusionado con tu cuerpo por el extenso robusting, esta estación no es suya para conquistar...
+tide-objective-kill-everyone-desc = Esta estación te ha agraviado por última vez, robusto y marea hasta que todos estén muertos.
+tide-objective-condition-kill-everyone-else-title = Robustar a todos.
 
-ghost-role-information-tunnel-clown-name = Tunnel Clown
-ghost-role-information-tunnel-clown-description = A clown gang member whos made their home in maintenance.
-tunnel-clown-role-greeting = You are a [color=#880808]tunnel clown[/color], a clown gang member who has made their home in maintenance, see your character sheet for your objectives.
-tunnel-clown-objective-maints-slasher-desc = This stations maintenance has been your home for as long as you can remember, hiding from the crew in lockers is all that you knew until now. Thoses station goers have invaded your home for the last time, kill anyone who dares to distrupt your home.
-tunnel-clown-objective-condition-maints-slasher-title = Protect maintenance.
-tunnel-clown-business-card = Tunnel Clown, licensed to kill.
+ghost-role-information-tunnel-clown-name = Payaso del Túnel
+ghost-role-information-tunnel-clown-description = Un miembro de la pandilla de payasos que ha hecho su hogar en el mantenimiento.
+tunnel-clown-role-greeting = Eres un [color=#880808]payaso del túnel[/color], un miembro de la pandilla de payasos que ha hecho su hogar en el mantenimiento, consulta tu hoja de personaje para tus objetivos.
+tunnel-clown-objective-maints-slasher-desc = El mantenimiento de esta estación ha sido tu hogar durante todo el tiempo que puedes recordar, esconderte de la tripulación en taquillas era todo lo que conocías hasta ahora. Esos visitantes de la estación han invadido tu hogar por última vez, mata a cualquiera que se atreva a perturbar tu hogar.
+tunnel-clown-objective-condition-maints-slasher-title = Proteger el mantenimiento.
+tunnel-clown-business-card = Payaso del Túnel, con licencia para matar.
 
-ghost-role-information-Singuloth-Knight-name = Singuloth Knight
-ghost-role-information-Singuloth-Knight-description = Once master engineers, now followers of Lord Singuloth. Wielding a singularity hammer they are a force to be reckoned with!
-Singuloth-Knight-role-greeting = Thou art a [color=#880808]Singuloth Knight[/color], a devout followeth'r of Lord Singuloth, checketh thy charact'r sheet f'r thy objectives.
-objective-issuer-lord-singuloth = [color=#320022]Lord Singuloth[/color]
+ghost-role-information-Singuloth-Knight-name = Caballero de Singuloth
+ghost-role-information-Singuloth-Knight-description = Otrora ingenieros maestros, ahora seguidores del Señor Singuloth. ¡Blandiendo un martillo de singularidad son una fuerza a tener en cuenta!
+Singuloth-Knight-role-greeting = Tú eres un [color=#880808]Caballero de Singuloth[/color], un devoto seguidor del Señor Singuloth, consulta tu hoja de personaje para tus objetivos.
+objective-issuer-lord-singuloth = [color=#320022]Señor Singuloth[/color]
 
-ghost-role-information-dark-lord-name = Dark Lord
-ghost-role-information-dark-lord-description = A syndicate agent themed after a sith lord, use your lightning powers and energy sword to complete your objectives!
-dark-lord-role-greeting = You are a [color=#880808]Dark Lord[/color] sent by the syndicate to this station to do their dirty work, check your character sheet for your objectives.
+ghost-role-information-dark-lord-name = Señor Oscuro
+ghost-role-information-dark-lord-description = Un agente sindical con temática de señor sith, ¡usa tus poderes de rayo y espada de energía para completar tus objetivos!
+dark-lord-role-greeting = Eres un [color=#880808]Señor Oscuro[/color] enviado por el sindicato a esta estación para hacer su trabajo sucio, consulta tu hoja de personaje para tus objetivos.
 
-ghost-role-information-chosen-one-name = The Chosen One
-ghost-role-information-chosen-one-description = A special agent sent to the station by Nanotrasen to defeat a dark lord.
-chosen-one-role-greeting = You are the [color=#0087FF]Chosen One[/color], you have been sent to this station to defeat a Dark Lord sent by the syndicate, check your character sheet for your objectives.
-objective-condition-dark-lord-kill-title = Ensure Dark Lord {$targetName} dies.
+ghost-role-information-chosen-one-name = El Elegido
+ghost-role-information-chosen-one-description = Un agente especial enviado a la estación por Nanotrasen para derrotar a un señor oscuro.
+chosen-one-role-greeting = Eres el [color=#0087FF]Elegido[/color], has sido enviado a esta estación para derrotar a un Señor Oscuro enviado por el sindicato, consulta tu hoja de personaje para tus objetivos.
+objective-condition-dark-lord-kill-title = Asegúrate de que el Señor Oscuro {$targetName} muera.
 
-ghost-role-information-mime-Assassin-name = Mime Assassin
-ghost-role-information-mime-Assassin-description = An assassin that uses mime clothes and favors silent kills, their name? well they probably can't tell you, but thats what makes then so good!
-mime-Assassin-role-greeting = You are a [color=#880808]Mime Assassin[/color], you have been sent to this station by the syndicate to kill some members of command that they need taken out of the equation, the syndicate have supplied you with some tools to get the job done, quietly... check your character sheet for your objectives, and don't get caught.
+ghost-role-information-mime-Assassin-name = Asesino Mimo
+ghost-role-information-mime-Assassin-description = Un asesino que usa ropa de mimo y prefiere las muertes silenciosas, ¿su nombre? bueno, probablemente no puede decírtelo, ¡pero eso es lo que los hace tan buenos!
+mime-Assassin-role-greeting = Eres un [color=#880808]Asesino Mimo[/color], has sido enviado a esta estación por el sindicato para matar a algunos miembros del mando que necesitan ser eliminados de la ecuación, el sindicato te ha proporcionado algunas herramientas para hacer el trabajo, en silencio... consulta tu hoja de personaje para tus objetivos, y no te atrapen.
 
-ghost-role-information-dark-priest-name = Dark Priest
-ghost-role-information-dark-priest-description = An agent of the dark gods, sent to kill someone, protect someone and hire someone who has roused their interest as their apprentice, Carries the "blessing of the reaper".
-dark-priest-role-greeting = You are a [color=#880808]Dark Priest[/color], you have been sent to this station to pick someone to become your apprentice, kill someone and protect someone, check your character sheet for your objectives.
-objective-condition-other-alive-title = Ensure crew member {$targetName}, {CAPITALIZE($job)} stays alive.
-objective-issuer-self = [color=#7851A9]For your own interests[/color]
+ghost-role-information-dark-priest-name = Sacerdote Oscuro
+ghost-role-information-dark-priest-description = Un agente de los dioses oscuros, enviado para matar a alguien, proteger a alguien y contratar a alguien que ha despertado su interés como aprendiz. Lleva la "bendición del segador".
+dark-priest-role-greeting = Eres un [color=#880808]Sacerdote Oscuro[/color], has sido enviado a esta estación para elegir a alguien como aprendiz, matar a alguien y proteger a alguien, consulta tu hoja de personaje para tus objetivos.
+objective-condition-other-alive-title = Asegúrate de que el miembro de la tripulación {$targetName}, {CAPITALIZE($job)} siga vivo.
+objective-issuer-self = [color=#7851A9]Por tus propios intereses[/color]
 
-ghost-role-information-vox-raider-name = Vox Raider
-ghost-role-information-vox-raider-description = Vox that swear their loyalty to the Shoal. It is unclear what their intentions or whether they plan on trading or thieving from the station. It is always best to use caution when they show up.
-vox-raider-role-greeting = You are a [color=#7851A9]Vox Raider[/color], a Vox that has sworn their loyalty to the Shoal, you are tasked with stealing items from the station or trading for them, it doesn't matter which you decide to do, all that matters is that you obtain all the items you need to complete your objectives and complete "The Heist", check your character sheet for your objectives.
+ghost-role-information-vox-raider-name = Incursor Vox
+ghost-role-information-vox-raider-description = Un Vox que juró lealtad al Shoal. No está claro cuáles son sus intenciones ni si planea comerciar o robar de la estación. Siempre es mejor usar precaución cuando aparecen.
+vox-raider-role-greeting = Eres un [color=#7851A9]Incursor Vox[/color], un Vox que ha jurado lealtad al Shoal, tienes la tarea de robar objetos de la estación o comerciar por ellos, no importa cuál elijas hacer, lo único que importa es que obtengas todos los objetos que necesitas para completar tus objetivos y completar "El Golpe", consulta tu hoja de personaje para tus objetivos.
 
-ghost-role-information-clown-goblin-name = Clown goblin
-ghost-role-information-clown-goblin-description = A terrible creature, born out of hell.
+ghost-role-information-clown-goblin-name = Duende payaso
+ghost-role-information-clown-goblin-description = Una criatura terrible, nacida del infierno.
 
-ghost-role-information-santa-name = Santa Claus
-ghost-role-information-santa-description = Spread christmas cheer around the station!
+ghost-role-information-santa-name = Papá Noel
+ghost-role-information-santa-description = ¡Extiende el espíritu navideño por la estación!
 
-ghost-role-information-slasher-token = The Slasher (Token)
- 
-ghost-role-information-sentientanimal-rules = You are a [color={role-type-sentient-animal-color}][bold]{role-type-sentient-animal-name}[/bold][/color]. You are a neutral animal who may act in self defense but otherwise not seek to harm crew.
-                                              You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
-                                              You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc, however you are not knowledgeable in advanced roles.
-                                              You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
+ghost-role-information-slasher-token = El Asesino (Token)
 
-ghost-role-information-contractor-name = Syndicate Contractor
-ghost-role-information-contractor-token = Syndicate Contractor (Token)
-ghost-role-information-contractor-description = GET DA... tider..?
-contractor-role-greeting = You are a [color=#611b2b]Syndicate Contractor[/color], a bounty hunter, you are tasked with retreving targets from the station, dead or alive.
+ghost-role-information-sentientanimal-rules = Eres un [color={role-type-sentient-animal-color}][bold]{role-type-sentient-animal-name}[/bold][/color]. Eres un animal neutral que puede actuar en defensa propia pero que de otro modo no busca dañar a la tripulación.
+                                              No recuerdas nada de tu vida anterior, y no recuerdas nada que aprendiste como fantasma.
+                                              Se te permite recordar conocimientos sobre el juego en general, como cocinar, usar objetos, etc., sin embargo no tienes conocimiento en roles avanzados.
+                                              No tienes [color=red]ABSOLUTAMENTE[/color] permitido recordar, decir, el nombre, apariencia, etc. de tu personaje anterior.
+
+ghost-role-information-contractor-name = Contratista Sindical
+ghost-role-information-contractor-token = Contratista Sindical (Token)
+ghost-role-information-contractor-description = ATRAPA AL... ¿tider..?
+contractor-role-greeting = Eres un [color=#611b2b]Contratista Sindical[/color], un cazarrecompensas, tienes la tarea de recuperar objetivos de la estación, vivos o muertos.

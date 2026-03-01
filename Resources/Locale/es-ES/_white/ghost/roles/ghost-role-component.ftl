@@ -1,20 +1,20 @@
-ghost-role-information-xenomorph-drone-name = xenomorph drone
-ghost-role-information-xenomorph-drone-description = You're a xenomorph drone. Make your hive grow.
+ghost-role-information-xenomorph-drone-name = obrero xenomorfo
+ghost-role-information-xenomorph-drone-description = Eres un obrero xenomorfo. Haz crecer tu colmena.
 
-ghost-role-information-xenomorph-hunter-name = xenomorph hunter
-ghost-role-information-xenomorph-hunter-description = You're a xenomorph hunter. Hunt humanoids and infect them with facehuggers.
+ghost-role-information-xenomorph-hunter-name = cazador xenomorfo
+ghost-role-information-xenomorph-hunter-description = Eres un cazador xenomorfo. Caza humanoides e inféctalos con facehuggers.
 
-ghost-role-information-xenomorph-larva-name = xenomorph larva
-ghost-role-information-xenomorph-larva-description = You're a xenomorph larva. Help your hive expand and evolve into a higher caste.
+ghost-role-information-xenomorph-larva-name = larva xenomorfa
+ghost-role-information-xenomorph-larva-description = Eres una larva xenomorfa. Ayuda a tu colmena a expandirse y evoluciona a una casta superior.
 
-ghost-role-information-xenomorph-maid-name = xenomorph maid
-ghost-role-information-xenomorph-maid-description = You're a xeno-maid. Do the most important job in your hive - clean the hive.
+ghost-role-information-xenomorph-maid-name = doncella xenomorfa
+ghost-role-information-xenomorph-maid-description = Eres una doncella xenomorfa. Realiza el trabajo más importante de tu colmena: limpiarla.
 
-ghost-role-information-xenomorph-praetorian-name = xenomorph praetorian
-ghost-role-information-xenomorph-praetorian-description = You're a xenomorph praetorian. Protect the hive and the queen. Strike fear into your enemies.
+ghost-role-information-xenomorph-praetorian-name = pretoriano xenomorfo
+ghost-role-information-xenomorph-praetorian-description = Eres un pretoriano xenomorfo. Protege la colmena y a la reina. Infunde miedo en tus enemigos.
 
-ghost-role-information-xenomorph-queen-name = xenomorph queen
-ghost-role-information-xenomorph-queen-description = You're a xenomorph queen. Produce offspring and manage the hive, and most importantly DON'T DIE.
+ghost-role-information-xenomorph-queen-name = reina xenomorfa
+ghost-role-information-xenomorph-queen-description = Eres una reina xenomorfa. Produce descendencia y gestiona la colmena, y sobre todo NO MUERAS.
 
-ghost-role-information-xenomorph-sentinel-name = xenomorph sentinel
-ghost-role-information-xenomorph-sentinel-description = You're a xenomorph sentinel. Help the praetorian defend the hive and attack the humanoids if necessary.
+ghost-role-information-xenomorph-sentinel-name = centinela xenomorfo
+ghost-role-information-xenomorph-sentinel-description = Eres un centinela xenomorfo. Ayuda al pretoriano a defender la colmena y ataca a los humanoides si es necesario.

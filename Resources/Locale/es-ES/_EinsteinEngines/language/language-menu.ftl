@@ -1,5 +1,5 @@
 # Touching for REUSE Headers
-language-menu-window-title = Language Menu
-language-menu-current-language = Current Language: {$language}
-language-menu-description-header = Description
-ui-options-function-open-language-menu = Open language Menu
+language-menu-window-title = Menú de Idiomas
+language-menu-current-language = Idioma actual: {$language}
+language-menu-description-header = Descripción
+ui-options-function-open-language-menu = Abrir menú de idiomas

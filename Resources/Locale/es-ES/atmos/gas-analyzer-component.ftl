@@ -12,23 +12,23 @@
 
 ## Entity
 
-gas-analyzer-object-out-of-range = The object went out of range.
-gas-analyzer-shutoff = The gas analyzer shuts off.
+gas-analyzer-object-out-of-range = El objeto se alejó demasiado.
+gas-analyzer-shutoff = El analizador de gas se apaga.
 
 ## UI
 
-gas-analyzer-window-name = Gas Analyzer
-gas-analyzer-window-environment-tab-label = Environment
+gas-analyzer-window-name = Analizador de Gas
+gas-analyzer-window-environment-tab-label = Entorno
 gas-analyzer-window-tab-title-capitalized = {CAPITALIZE($title)}
-gas-analyzer-window-refresh-button = Refresh
-gas-analyzer-window-no-data = No Data
-gas-analyzer-window-no-gas-text = No Gases
+gas-analyzer-window-refresh-button = Actualizar
+gas-analyzer-window-no-data = Sin datos
+gas-analyzer-window-no-gas-text = Sin gases
 gas-analyzer-window-error-text = Error: {$errorText}
-gas-analyzer-window-volume-text = Volume:
+gas-analyzer-window-volume-text = Volumen:
 gas-analyzer-window-volume-val-text = {$volume} L
-gas-analyzer-window-pressure-text = Pressure:
+gas-analyzer-window-pressure-text = Presión:
 gas-analyzer-window-pressure-val-text = {$pressure} kPa
-gas-analyzer-window-temperature-text = Temperature:
+gas-analyzer-window-temperature-text = Temperatura:
 gas-analyzer-window-temperature-val-text = {$tempK}K ({$tempC}°C)
 gas-analyzer-window-gas-column-name = Gas
 gas-analyzer-window-molarity-column-name = mol
@@ -41,6 +41,6 @@ gas-analyzer-window-molarity-percentage-text = {$gasName}: {$amount} mol ({$perc
 gas-entry-info = {$gasName}: {$gasAmount} mol
 
 # overrides for trinary devices to have saner names
-gas-analyzer-window-text-inlet = Inlet
-gas-analyzer-window-text-outlet = Outlet
-gas-analyzer-window-text-filter = Filter
+gas-analyzer-window-text-inlet = Entrada
+gas-analyzer-window-text-outlet = Salida
+gas-analyzer-window-text-filter = Filtro

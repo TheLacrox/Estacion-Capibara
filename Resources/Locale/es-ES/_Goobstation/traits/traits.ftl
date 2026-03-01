@@ -9,29 +9,29 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-trait-scottish-name = Scottish accent
-trait-scottish-desc = Your scottish pride is as strong as your accent!
+trait-scottish-name = Acento escocés
+trait-scottish-desc = ¡Tu orgullo escocés es tan fuerte como tu acento!
 
-trait-wheelchair-bound-name = Wheelchair Bound
-trait-wheelchair-bound-desc = You cannot move without your wheelchair. Wheelchair included.
+trait-wheelchair-bound-name = En silla de ruedas
+trait-wheelchair-bound-desc = No puedes moverte sin tu silla de ruedas. Silla incluida.
 
-trait-bogan-name = Bogan accent
-trait-bogan-desc = You learned this from a mythical creature.
+trait-bogan-name = Acento bogan
+trait-bogan-desc = Aprendiste esto de una criatura mítica.
 
-poor-vision-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} eyes are unfocused. It doesn't seem like {SUBJECT($target)} can see you very well without glasses..[/color]
+poor-vision-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} ojos están desenfocados. Parece que {SUBJECT($target)} no puede verte muy bien sin gafas..[/color]
 
-trait-medieval-accent-name = Medieval accent
-trait-medieval-accent-desc = Hark! Thy manner o' speech, 'tis most unusual!
-trait-tile-movement-name = Inner peace
-trait-tile-movement-desc = You are always in touch with your roots. And by your roots, I mean the center of the tile you're standing on.
+trait-medieval-accent-name = Acento medieval
+trait-medieval-accent-desc = ¡Escucha! ¡Tu manera de hablar es de lo más inusual!
+trait-tile-movement-name = Paz interior
+trait-tile-movement-desc = Siempre estás en contacto con tus raíces. Y por raíces me refiero al centro del azulejo en el que estás de pie.
 
-trait-movement-impaired-name = Movement Impaired
-trait-movement-impaired-desc = You can't quite seem to walk very well without some assistance. Cane included.
+trait-movement-impaired-name = Movilidad reducida
+trait-movement-impaired-desc = Parece que no puedes caminar muy bien sin ayuda. Bastón incluido.
 
-movement-impaired-trait-examined = [color=yellow]{CAPITALIZE(SUBJECT($target))} seems to walk with a slight limp. It doesn't seem like {SUBJECT($target)} can walk very well without assistance[/color]
+movement-impaired-trait-examined = [color=yellow]{CAPITALIZE(SUBJECT($target))} parece caminar con un leve cojeo. No parece que {SUBJECT($target)} pueda caminar muy bien sin ayuda[/color]
 
-trait-social-anxiety-name = Social Anxiety
-trait-social-anxiety-disc = You have crippling social anxiety, you're freaked out by affectionate things, such as hugs.
+trait-social-anxiety-name = Ansiedad social
+trait-social-anxiety-disc = Tienes una ansiedad social paralizante; te alteran las cosas afectuosas, como los abrazos.
 
-trait-deaf-name = Deaf
-trait-deaf-disc =  You're completly deaf, you can't hear anything, including yourself!
+trait-deaf-name = Sordo/a
+trait-deaf-disc =  Eres completamente sordo/a, no puedes oír nada, ¡ni siquiera tu propia voz!

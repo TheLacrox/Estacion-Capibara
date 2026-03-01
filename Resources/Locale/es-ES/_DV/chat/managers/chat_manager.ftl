@@ -10,31 +10,31 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 chat-speech-verb-name-vulpkanin = Vulpkanin
-chat-speech-verb-vulpkanin-1 = rawrs
-chat-speech-verb-vulpkanin-2 = barks
-chat-speech-verb-vulpkanin-3 = rurs
-chat-speech-verb-vulpkanin-4 = yaps
+chat-speech-verb-vulpkanin-1 = ruge
+chat-speech-verb-vulpkanin-2 = ladra
+chat-speech-verb-vulpkanin-3 = ronronea
+chat-speech-verb-vulpkanin-4 = chilla
 
-chat-speech-verb-name-felinid = Felinid
-chat-speech-verb-felinid-1 = mraows
-chat-speech-verb-felinid-2 = mews
-chat-speech-verb-felinid-3 = meows
-chat-speech-verb-felinid-4 = purrs out
+chat-speech-verb-name-felinid = Félino
+chat-speech-verb-felinid-1 = maúlla
+chat-speech-verb-felinid-2 = mía
+chat-speech-verb-felinid-3 = ronronea
+chat-speech-verb-felinid-4 = ronronea suavemente
 
-chat-speech-verb-name-harpy = Harpy
-chat-speech-verb-harpy-1 = chirps
-chat-speech-verb-harpy-2 = tweets
-chat-speech-verb-harpy-3 = caws
-chat-speech-verb-harpy-4 = trills
+chat-speech-verb-name-harpy = Harpia
+chat-speech-verb-harpy-1 = gorjea
+chat-speech-verb-harpy-2 = pía
+chat-speech-verb-harpy-3 = grazna
+chat-speech-verb-harpy-4 = trina
 
-chat-speech-verb-name-rodentia = Rodentia
-chat-speech-verb-rodentia-1 = squeaks
-chat-speech-verb-rodentia-2 = pieps
-chat-speech-verb-rodentia-3 = chatters
-chat-speech-verb-rodentia-4 = squeals
+chat-speech-verb-name-rodentia = Roedor
+chat-speech-verb-rodentia-1 = chilla
+chat-speech-verb-rodentia-2 = pía
+chat-speech-verb-rodentia-3 = castañetea
+chat-speech-verb-rodentia-4 = chillotea
 
-chat-speech-verb-name-chitinid = Chitinid
-chat-speech-verb-chitinid-1 = clicks
-chat-speech-verb-chitinid-2 = chitters
-chat-speech-verb-chitinid-3 = hisses
-chat-speech-verb-chitinid-4 = buzzes
+chat-speech-verb-name-chitinid = Chitínido
+chat-speech-verb-chitinid-1 = chasquea
+chat-speech-verb-chitinid-2 = crepita
+chat-speech-verb-chitinid-3 = sisea
+chat-speech-verb-chitinid-4 = zumba

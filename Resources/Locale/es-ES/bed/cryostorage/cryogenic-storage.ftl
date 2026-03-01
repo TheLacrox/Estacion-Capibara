@@ -7,11 +7,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 
-### Announcement
+### Anuncio
 
-earlyleave-cryo-job-unknown = Unknown
-# {$entity} available for GENDER function purposes
-earlyleave-cryo-announcement = {$character} ({$job}) has entered cryogenic storage!
-earlyleave-cryo-sender = Station
+earlyleave-cryo-job-unknown = Desconocido
+# {$entity} disponible para propósitos de la función GENDER
+earlyleave-cryo-announcement = ¡{$character} ({$job}) ha entrado en almacenamiento criogénico!
+earlyleave-cryo-sender = Estación
 
-cryostorage-paused-map-name = Cryosleeper body storage map
+cryostorage-paused-map-name = Mapa de almacenamiento de cuerpos en criosueño

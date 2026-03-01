@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-VoxFacialHairBeard = Vox Beard (Quills)
-marking-VoxFacialHairColonel = Vox Moustache (Colonel)
-marking-VoxFacialHairFu = Vox Moustache (Quill Fu)
-marking-VoxFacialHairNeck = Vox Beard (Neck Quills)
-marking-VoxFacialHairMane = Vox Beard (Mane)
-marking-VoxFacialHairManeSmall = Vox Beard (Small Mane)
-marking-VoxFacialHairTufts = Vox Sideburns (Tufts)
+marking-VoxFacialHairBeard = Barba Vox (Púas)
+marking-VoxFacialHairColonel = Bigote Vox (Coronel)
+marking-VoxFacialHairFu = Bigote Vox (Púa Fu)
+marking-VoxFacialHairNeck = Barba Vox (Púas de cuello)
+marking-VoxFacialHairMane = Barba Vox (Melena)
+marking-VoxFacialHairManeSmall = Barba Vox (Melena pequeña)
+marking-VoxFacialHairTufts = Patillas Vox (Mechones)

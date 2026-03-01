@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-rename-desc = Renames an entity and its cloner entries, ID cards, and PDAs.
-cmd-rename-help = rename <Username|EntityUid> <New character name>
-cmd-rename-too-long = Name is too long.
-cmd-rename-not-found = Can't find username/uid: {$target}
-cmd-rename-no-entity = {$target} does not have an entity.
+cmd-rename-desc = Cambia el nombre de una entidad y sus entradas en la clonadora, tarjetas de identificación y PDAs.
+cmd-rename-help = rename <NombreDeUsuario|UidDeEntidad> <Nuevo nombre de personaje>
+cmd-rename-too-long = El nombre es demasiado largo.
+cmd-rename-not-found = No se puede encontrar el nombre de usuario/uid: {$target}
+cmd-rename-no-entity = {$target} no tiene una entidad.

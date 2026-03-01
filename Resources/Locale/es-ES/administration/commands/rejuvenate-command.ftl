@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-rejuvenate-command-description = Fully heals a mob.
-rejuvenate-command-help-text = Usage: rejuvenate <mobUid_1> <mobUid_2> ... <mobUid_n>
-                               Attempts to heal the user's mob if no arguments are provided.
-rejuvenate-command-self-heal-message = Healing the user's mob since no arguments were provided.
-rejuvenate-command-no-entity-attached-message = There's no entity attached to the user.
+rejuvenate-command-description = Cura completamente a un mob.
+rejuvenate-command-help-text = Uso: rejuvenate <uidMob_1> <uidMob_2> ... <uidMob_n>
+                               Intenta curar el mob del usuario si no se proporcionan argumentos.
+rejuvenate-command-self-heal-message = Curando el mob del usuario ya que no se proporcionaron argumentos.
+rejuvenate-command-no-entity-attached-message = No hay ninguna entidad vinculada al usuario.

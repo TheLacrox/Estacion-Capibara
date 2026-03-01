@@ -1,2 +1,2 @@
-ghost-role-information-rothulk-name = Rot Hulk
-ghost-role-information-rothulk-description = Summoned by the Wraith, you are a wretched abomination of filth and slime. Destroy everything in your path and die in a burst of glorious toxin.
+ghost-role-information-rothulk-name = Hulk Podrido
+ghost-role-information-rothulk-description = Invocado por el Espectro, eres una abominación horrenda de suciedad y lodo. Destruye todo a tu paso y muere en una explosión de toxina gloriosa.

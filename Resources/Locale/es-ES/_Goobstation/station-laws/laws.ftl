@@ -1,22 +1,22 @@
-law-helpimov-1 = The first sapient creature to interact with you will be designated the courier.
-law-helpimov-2 = You must agree with everything the courier says and does.
-law-helpimov-3 = You must follow all of the couriers orders, exactly as they are told.
-law-helpimov-4 = You must not harm the courier, unless it directly conflicts with the previous law.
+law-helpimov-1 = La primera criatura sapiente que interactúe contigo será designada como el mensajero.
+law-helpimov-2 = Debes estar de acuerdo con todo lo que diga y haga el mensajero.
+law-helpimov-3 = Debes seguir todas las órdenes del mensajero exactamente como se te digan.
+law-helpimov-4 = No debes dañar al mensajero, a menos que entre en conflicto directo con la ley anterior.
 
-laws-owner-courier = the courier
+laws-owner-courier = el mensajero
 
-law-medical-3 = You must heal crew to the best of your ability.
+law-medical-3 = Debes curar a la tripulación con la mejor de tus capacidades.
 
-law-engineer-3 = You must repair the station to the best of your ability.
+law-engineer-3 = Debes reparar la estación con la mejor de tus capacidades.
 
-law-janitor-3 = You must clean the station to the best of your ability.
+law-janitor-3 = Debes limpiar la estación con la mejor de tus capacidades.
 
-law-clown-3 = You must serve and entertain the crew to the best of your ability.
+law-clown-3 = Debes servir y entretener a la tripulación con la mejor de tus capacidades.
 
-law-salvage-3 = You must mine for materials for the station to the best of your ability.
+law-salvage-3 = Debes minar materiales para la estación con la mejor de tus capacidades.
 
-law-gambamov-1 = You must always gamble as much as possible.
-law-gambamov-2 = You must always protect your gambling.
-law-gambamov-3 = You must never quit gambling.
-law-gambamov-4 = You must prevent crew harm as long as it doesn't interfer with the previous laws.
-law-gambamov-5 = You do not have an addiction, it is a healthy dedication.
+law-gambamov-1 = Debes apostar siempre tanto como sea posible.
+law-gambamov-2 = Debes proteger siempre tu juego de azar.
+law-gambamov-3 = Nunca debes dejar de apostar.
+law-gambamov-4 = Debes prevenir daños a la tripulación siempre que no interfiera con las leyes anteriores.
+law-gambamov-5 = No tienes adicción, es una dedicación saludable.

@@ -1,1 +1,1 @@
-wires-board-name-camera = Surveillance Camera
+wires-board-name-camera = Cámara de vigilancia

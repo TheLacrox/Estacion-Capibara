@@ -10,44 +10,44 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-flour = flour
-reagent-desc-flour = Used for baking.
+reagent-name-flour = harina
+reagent-desc-flour = Usada para hornear.
 
-reagent-name-cornmeal = cornmeal
-reagent-desc-cornmeal = Used for baking.
+reagent-name-cornmeal = harina de maíz
+reagent-desc-cornmeal = Usada para hornear.
 
-reagent-name-oats = oats
-reagent-desc-oats = Used for a variety of tasty purposes.
+reagent-name-oats = avena
+reagent-desc-oats = Usada para una variedad de propósitos sabrosos.
 
-reagent-name-enzyme = universal enzyme
-reagent-desc-enzyme = Used in cooking various dishes.
+reagent-name-enzyme = enzima universal
+reagent-desc-enzyme = Usada para cocinar varios platos.
 
-reagent-name-egg = cooked egg
-reagent-desc-egg = Cooked chicken embryo, delicious.
+reagent-name-egg = huevo cocido
+reagent-desc-egg = Embrión de pollo cocido, delicioso.
 
-reagent-name-raw-egg = raw egg
-reagent-desc-raw-egg = Used for baking.
+reagent-name-raw-egg = huevo crudo
+reagent-desc-raw-egg = Usado para hornear.
 
-reagent-name-sugar = sugar
-reagent-desc-sugar = Tasty spacey sugar!
+reagent-name-sugar = azúcar
+reagent-desc-sugar = ¡Delicioso azúcar espacial!
 
-reagent-name-blackpepper = black pepper
-reagent-desc-blackpepper = Often used to flavor food or make people sneeze.
+reagent-name-blackpepper = pimienta negra
+reagent-desc-blackpepper = A menudo se usa para sazonar comida o hacer estornudar a la gente.
 
-reagent-name-vinegar = vinegar
-reagent-desc-vinegar = Often used to flavor food.
+reagent-name-vinegar = vinagre
+reagent-desc-vinegar = A menudo se usa para sazonar comida.
 
-reagent-name-rice = rice
-reagent-desc-rice = Hard, small white grains.
+reagent-name-rice = arroz
+reagent-desc-rice = Granos blancos pequeños y duros.
 
-reagent-name-oil-olive = olive oil
-reagent-desc-oil-olive = Viscous and fragrant.
+reagent-name-oil-olive = aceite de oliva
+reagent-desc-oil-olive = Viscoso y fragante.
 
-reagent-name-oil = oil
-reagent-desc-oil = Used by chefs to cook.
+reagent-name-oil = aceite
+reagent-desc-oil = Usado por los chefs para cocinar.
 
-reagent-name-capsaicin-oil = Capsaicin Oil
-reagent-desc-capsaicin-oil = Capsaicin Oil is the ingredient found in different types of hot peppers.
+reagent-name-capsaicin-oil = aceite de capsaicina
+reagent-desc-capsaicin-oil = El aceite de capsaicina es el ingrediente que se encuentra en diferentes tipos de pimientos picantes.
 
-reagent-name-frost-oil = Frost Oil
-reagent-desc-frost-oil = Frost Oil is the ingredient found in chilly peppers, a rare pepper mutation.
+reagent-name-frost-oil = aceite de escarcha
+reagent-desc-frost-oil = El aceite de escarcha es el ingrediente que se encuentra en los pimientos helados, una rara mutación de pimiento.

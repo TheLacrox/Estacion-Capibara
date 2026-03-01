@@ -1,2 +1,2 @@
-fingerprint-reader-fail = Your fingerprint does not match!
-fingerprint-reader-fail-gloves = The fingerprint reader cannot read through your {$blocker}!
+fingerprint-reader-fail = ¡Tu huella dactilar no coincide!
+fingerprint-reader-fail-gloves = ¡El lector de huellas no puede leer a través de tu {$blocker}!

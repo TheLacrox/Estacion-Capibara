@@ -4,15 +4,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-nutrition-error-player = You cannot use this command unless you are a player.
-cmd-nutrition-error-entity = You cannot use this command without an entity.
-cmd-nutrition-error-component = Your entity does not have a {$comp} component.
+cmd-nutrition-error-player = No puedes usar este comando a menos que seas un jugador.
+cmd-nutrition-error-entity = No puedes usar este comando sin una entidad.
+cmd-nutrition-error-component = Tu entidad no tiene el componente {$comp}.
 
-cmd-hungry-desc = makes you hungry
-cmd-hungry-help = sets your hungry level to starving
-cmd-setnutrit-desc = modify hunger and thirst
-cmd-setnutrit-help = set your hunger or thirst to one of the built-in thresholds
-cmd-setnutrit-error-invalid-threshold = invalid {$thresholdType} `{$thresholdString}`
+cmd-hungry-desc = te da hambre
+cmd-hungry-help = establece tu nivel de hambre en morirse de hambre
+cmd-setnutrit-desc = modifica el hambre y la sed
+cmd-setnutrit-help = establece tu nivel de hambre o sed a uno de los umbrales predefinidos
+cmd-setnutrit-error-invalid-threshold = {$thresholdType} `{$thresholdString}` no válido
 
-cmd-thirsty-desc = makes you thirsty
-cmd-thirsty-help = sets your thirst level to partched
+cmd-thirsty-desc = te da sed
+cmd-thirsty-help = establece tu nivel de sed en sediento

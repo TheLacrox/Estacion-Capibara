@@ -4,33 +4,33 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mail-recipient-mismatch = Recipient name or job does not match.
-mail-invalid-access = Recipient name and job match, but access isn't as expected.
-mail-locked = The anti-tamper lock hasn't been removed. Tap the recipient's ID.
-mail-desc-far = A parcel of mail. You can't make out who it's addressed to from this distance.
-mail-desc-close = A parcel of mail addressed to {CAPITALIZE($name)}, {$job}.
-mail-desc-fragile = It has a [color=red]red fragile label[/color].
-mail-desc-priority = The anti-tamper lock's [color=yellow]yellow priority tape[/color] is active. Better deliver it on time!
-mail-desc-priority-inactive = The anti-tamper lock's [color=#886600]yellow priority tape[/color] is inactive.
-mail-unlocked = Anti-tamper system unlocked.
-mail-unlocked-by-emag = Anti-tamper system *BZZT*.
-mail-unlocked-reward = Anti-tamper system unlocked. {$bounty} spesos have been added to logistics' account.
-mail-penalty-lock = ANTI-TAMPER LOCK BROKEN. LOGISTICS BANK ACCOUNT PENALIZED BY {$credits} SPESOS.
-mail-penalty-fragile = INTEGRITY COMPROMISED. LOGISTICS BANK ACCOUNT PENALIZED BY {$credits} SPESOS.
-mail-penalty-expired = DELIVERY PAST DUE. LOGISTICS BANK ACCOUNT PENALIZED BY {$credits} SPESOS.
-mail-item-name-addressed = mail ({$recipient})
+mail-recipient-mismatch = El nombre o el trabajo del destinatario no coinciden.
+mail-invalid-access = El nombre y el trabajo del destinatario coinciden, pero el acceso no es el esperado.
+mail-locked = El bloqueo antifraude no se ha retirado. Acerca el ID del destinatario.
+mail-desc-far = Un paquete de correo. Desde esta distancia no puedes distinguir a quién va dirigido.
+mail-desc-close = Un paquete de correo dirigido a {CAPITALIZE($name)}, {$job}.
+mail-desc-fragile = Tiene una [color=red]etiqueta roja de frágil[/color].
+mail-desc-priority = La [color=yellow]cinta amarilla de prioridad[/color] del bloqueo antifraude está activa. ¡Mejor entrégalo a tiempo!
+mail-desc-priority-inactive = La [color=#886600]cinta amarilla de prioridad[/color] del bloqueo antifraude está inactiva.
+mail-unlocked = Sistema antifraude desbloqueado.
+mail-unlocked-by-emag = Sistema antifraude *BZZT*.
+mail-unlocked-reward = Sistema antifraude desbloqueado. Se han añadido {$bounty} spesos a la cuenta de logística.
+mail-penalty-lock = BLOQUEO ANTIFRAUDE ROTO. CUENTA BANCARIA DE LOGÍSTICA PENALIZADA CON {$credits} SPESOS.
+mail-penalty-fragile = INTEGRIDAD COMPROMETIDA. CUENTA BANCARIA DE LOGÍSTICA PENALIZADA CON {$credits} SPESOS.
+mail-penalty-expired = ENTREGA FUERA DE PLAZO. CUENTA BANCARIA DE LOGÍSTICA PENALIZADA CON {$credits} SPESOS.
+mail-item-name-addressed = correo ({$recipient})
 
-command-mailto-description = Queue a parcel to be delivered to an entity. Example usage: `mailto 1234 5678 false false`. The target container's contents will be transferred to an actual mail parcel.
+command-mailto-description = Pone en cola un paquete para entregarlo a una entidad. Ejemplo de uso: `mailto 1234 5678 false false`. El contenido del contenedor objetivo será transferido a un paquete de correo real.
 ### Frontier: add is-large description
-command-mailto-help = Usage: {$command} <recipient entityUid> <container entityUid> [is-fragile: true or false] [is-priority: true or false] [is-large: true or false, optional]
-command-mailto-no-mailreceiver = Target recipient entity does not have a {$requiredComponent}.
-command-mailto-no-blankmail = The {$blankMail} prototype doesn't exist. Something is very wrong. Contact a programmer.
-command-mailto-bogus-mail = {$blankMail} did not have {$requiredMailComponent}. Something is very wrong. Contact a programmer.
-command-mailto-invalid-container = Target container entity does not have a {$requiredContainer} container.
-command-mailto-unable-to-receive = Target recipient entity was unable to be setup for receiving mail. ID may be missing.
-command-mailto-no-teleporter-found = Target recipient entity was unable to be matched to any station's mail teleporter. Recipient may be off-station.
-command-mailto-success = Success! Mail parcel has been queued for next teleport in {$timeToTeleport} seconds.
+command-mailto-help = Uso: {$command} <entityUid del destinatario> <entityUid del contenedor> [es-frágil: true o false] [es-prioritario: true o false] [es-grande: true o false, opcional]
+command-mailto-no-mailreceiver = La entidad destinataria objetivo no tiene un {$requiredComponent}.
+command-mailto-no-blankmail = El prototipo {$blankMail} no existe. Algo está muy mal. Contacta a un programador.
+command-mailto-bogus-mail = {$blankMail} no tenía {$requiredMailComponent}. Algo está muy mal. Contacta a un programador.
+command-mailto-invalid-container = La entidad contenedor objetivo no tiene un contenedor {$requiredContainer}.
+command-mailto-unable-to-receive = No se pudo configurar la entidad destinataria objetivo para recibir correo. Puede que falte el ID.
+command-mailto-no-teleporter-found = No se pudo asociar la entidad destinataria objetivo con ningún teletransportador de correo de la estación. El destinatario puede estar fuera de la estación.
+command-mailto-success = ¡Éxito! El paquete de correo ha sido puesto en cola para el siguiente teletransporte en {$timeToTeleport} segundos.
 
-command-mailnow = Force all mail teleporters to deliver another round of mail as soon as possible. This will not bypass the undelivered mail limit.
-command-mailnow-help = Usage: {$command}
-command-mailnow-success = Success! All mail teleporters will be delivering another round of mail soon.
+command-mailnow = Fuerza a todos los teletransportadores de correo a entregar otra ronda de correo lo antes posible. Esto no ignorará el límite de correo sin entregar.
+command-mailnow-help = Uso: {$command}
+command-mailnow-success = ¡Éxito! Todos los teletransportadores de correo pronto entregarán otra ronda de correo.

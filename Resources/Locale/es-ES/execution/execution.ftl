@@ -9,20 +9,20 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-execution-verb-name = Execute
-execution-verb-message = Use your weapon to execute someone.
+execution-verb-name = Ejecutar
+execution-verb-message = Usa tu arma para ejecutar a alguien.
 
-# All the below localisation strings have access to the following variables
-# attacker (the person committing the execution)
-# victim (the person being executed)
-# weapon (the weapon used for the execution)
+# Todas las cadenas de localización a continuación tienen acceso a las siguientes variables
+# attacker (la persona que comete la ejecución)
+# victim (la persona que es ejecutada)
+# weapon (el arma usada para la ejecución)
 
-execution-popup-melee-initial-internal = You ready {THE($weapon)} against {THE($victim)}'s throat.
-execution-popup-melee-initial-external = { CAPITALIZE(THE($attacker)) } readies {POSS-ADJ($attacker)} {$weapon} against the throat of {THE($victim)}.
-execution-popup-melee-complete-internal = You slit the throat of {THE($victim)}!
-execution-popup-melee-complete-external = { CAPITALIZE(THE($attacker)) } slits the throat of {THE($victim)}!
+execution-popup-melee-initial-internal = Preparas {THE($weapon)} contra la garganta de {THE($victim)}.
+execution-popup-melee-initial-external = { CAPITALIZE(THE($attacker)) } prepara su {$weapon} contra la garganta de {THE($victim)}.
+execution-popup-melee-complete-internal = ¡Le cortas la garganta a {THE($victim)}!
+execution-popup-melee-complete-external = ¡{ CAPITALIZE(THE($attacker)) } le corta la garganta a {THE($victim)}!
 
-execution-popup-self-initial-internal = You ready {THE($weapon)} against your own throat.
-execution-popup-self-initial-external = { CAPITALIZE(THE($attacker)) } readies {POSS-ADJ($attacker)} {$weapon} against their own throat.
-execution-popup-self-complete-internal = You slit your own throat!
-execution-popup-self-complete-external = { CAPITALIZE(THE($attacker)) } slits their own throat!
+execution-popup-self-initial-internal = Preparas {THE($weapon)} contra tu propia garganta.
+execution-popup-self-initial-external = { CAPITALIZE(THE($attacker)) } prepara su {$weapon} contra su propia garganta.
+execution-popup-self-complete-internal = ¡Te cortas tu propia garganta!
+execution-popup-self-complete-external = ¡{ CAPITALIZE(THE($attacker)) } se corta su propia garganta!

@@ -1,31 +1,31 @@
-curse-weakness-slow = You suddenly feel very tired.
-curse-weakness-pale-1 = Your muscles tense up.
-curse-weakness-pale-2 = You feel light-headed.
-curse-weakness-pale-3 = Your legs almost give in.
-curse-weakness-drowsy-1 = Your conscience slips.
-curse-weakness-drowsy-2 = You feel awfully drowsy.
+curse-weakness-slow = De repente te sientes muy cansado.
+curse-weakness-pale-1 = Tus músculos se tensan.
+curse-weakness-pale-2 = Te sientes mareado.
+curse-weakness-pale-3 = Tus piernas casi ceden.
+curse-weakness-drowsy-1 = Tu conciencia se desliza.
+curse-weakness-drowsy-2 = Te sientes terriblemente somnoliento.
 
-curse-blood-1 = {CAPITALIZE(THE($entity))} vomits a lot of blood!
+curse-blood-1 = ¡{CAPITALIZE(THE($entity))} vomita mucha sangre!
 
-curse-rot-cant-eat = You feel too sick to eat...
+curse-rot-cant-eat = Te sientes demasiado enfermo para comer...
 
-curse-blindness-1 = A shadowy veil falls over your vision.
-curse-blindness-2 = You can't seem to be able to see things clearly anymore.
-curse-blindness-3 = You blink and notice that your vision is blurier than before.
+curse-blindness-1 = Un velo oscuro cae sobre tu visión.
+curse-blindness-2 = Ya no pareces ser capaz de ver las cosas con claridad.
+curse-blindness-3 = Parpadeas y notas que tu visión está más borrosa que antes.
 
-curse-death-1 = You feel netherworldly hands grasping at your soul!
-curse-death-2 = IT'S COMING FOR YOU!
-curse-death-3 = {CAPITALIZE(THE($entity))}'s flesh tears open before your very eyes!!
+curse-death-1 = ¡Sientes manos del más allá aferrándose a tu alma!
+curse-death-2 = ¡ESTÁ VINIENDO A POR TI!
+curse-death-3 = ¡¡La carne de {CAPITALIZE(THE($entity))} se desgarra ante tus propios ojos!!
 
-curse-popup-weakness = Their strength crumbles under your will.
-curse-popup-blood = Their veins weep at your command.
-curse-popup-rot = Their hunger turns to ash in their mouth.
-curse-popup-blindness = Darkness swallows their sight.
-curse-popup-death = Their soul kneels before your final judgment.
+curse-popup-weakness = Su fuerza se desmorona ante tu voluntad.
+curse-popup-blood = Sus venas lloran ante tu mandato.
+curse-popup-rot = Su hambre se convierte en cenizas en su boca.
+curse-popup-blindness = La oscuridad devora su visión.
+curse-popup-death = Su alma se arrodilla ante tu juicio final.
 
-curse-fail-require-all = You must apply the four other curses first.
+curse-fail-require-all = Primero debes aplicar las otras cuatro maldiciones.
 
-curse-immune-fail = A strange force prevents you from cursing this being, your energy is wasted.
-curse-fail-robot = You cannot curse a machine.
+curse-immune-fail = Una fuerza extraña te impide maldecir a este ser, tu energía se desperdicia.
+curse-fail-robot = No puedes maldecir a una máquina.
 
-curse-not-anymore = You have been cured from the curses of an unknown spirit!
+curse-not-anymore = ¡Has sido curado de las maldiciones de un espíritu desconocido!

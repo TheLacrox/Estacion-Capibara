@@ -4,15 +4,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-tippy-desc = Broadcast a message as Tippy the clown.
-cmd-tippy-help = tippy <user | all> <message> [entity prototype] [speak time] [slide time] [waddle interval]
-cmd-tippy-auto-1 = <user | all>
-cmd-tippy-auto-2 = message
-cmd-tippy-auto-3 = entity prototype
-cmd-tippy-auto-4 = speak time, in seconds
-cmd-tippy-auto-5 = slide time, in seconds
-cmd-tippy-auto-6 = waddle interval, in seconds
-cmd-tippy-error-no-user = User not found.
-cmd-tippy-error-no-prototype = Prototype not found: {$proto}
+cmd-tippy-desc = Transmite un mensaje como Tippy el payaso.
+cmd-tippy-help = tippy <usuario | all> <mensaje> [prototipo de entidad] [tiempo de habla] [tiempo de deslizamiento] [intervalo de balanceo]
+cmd-tippy-auto-1 = <usuario | all>
+cmd-tippy-auto-2 = mensaje
+cmd-tippy-auto-3 = prototipo de entidad
+cmd-tippy-auto-4 = tiempo de habla, en segundos
+cmd-tippy-auto-5 = tiempo de deslizamiento, en segundos
+cmd-tippy-auto-6 = intervalo de balanceo, en segundos
+cmd-tippy-error-no-user = Usuario no encontrado.
+cmd-tippy-error-no-prototype = Prototipo no encontrado: {$proto}
 
-cmd-tip-desc = Spawn a random game tip.
+cmd-tip-desc = Genera un consejo de juego aleatorio.

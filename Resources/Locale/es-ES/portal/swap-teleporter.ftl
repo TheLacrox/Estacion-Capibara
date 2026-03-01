@@ -6,22 +6,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-swap-teleporter-popup-link-create = Quantum link established!
-swap-teleporter-popup-link-fail-already = Quantum link failed! Link already present on device.
-swap-teleporter-popup-link-fail-already-other = Quantum link failed! Link already present on secondary device.
-swap-teleporter-popup-link-destroyed = Quantum link destroyed!
-swap-teleporter-popup-teleport-cancel-time = It's still recharging!
-swap-teleporter-popup-teleport-cancel-link = It's not linked with another device!
-swap-teleporter-popup-teleport-other = {CAPITALIZE(THE($entity))} activates, and you find yourself somewhere else.
+swap-teleporter-popup-link-create = ¡Enlace cuántico establecido!
+swap-teleporter-popup-link-fail-already = ¡Error en el enlace cuántico! El dispositivo ya tiene un enlace.
+swap-teleporter-popup-link-fail-already-other = ¡Error en el enlace cuántico! El dispositivo secundario ya tiene un enlace.
+swap-teleporter-popup-link-destroyed = ¡Enlace cuántico destruido!
+swap-teleporter-popup-teleport-cancel-time = ¡Todavía está recargando!
+swap-teleporter-popup-teleport-cancel-link = ¡No está vinculado a otro dispositivo!
+swap-teleporter-popup-teleport-other = {CAPITALIZE(THE($entity))} se activa, y te encuentras en otro lugar.
 # Goobstation - QSIs don't teleport across maps
-swap-teleporter-popup-teleport-fail = {CAPITALIZE(THE($entity))} seems to do nothing...
+swap-teleporter-popup-teleport-fail = {CAPITALIZE(THE($entity))} parece no hacer nada...
 
-swap-teleporter-verb-destroy-link = Destroy Quantum Link
+swap-teleporter-verb-destroy-link = Destruir enlace cuántico
 
-swap-teleporter-examine-link-present = [color=forestgreen]It is linked to another device.[/color] Alt-Click to break the quantum link.
-swap-teleporter-examine-link-absent = [color=yellow]It is not currently linked.[/color] Use on another device to establish a quantum link.
-swap-teleporter-examine-time-remaining = Time left to recharge: [color=purple]{$second} second{$second ->
+swap-teleporter-examine-link-present = [color=forestgreen]Está vinculado a otro dispositivo.[/color] Alt-clic para romper el enlace cuántico.
+swap-teleporter-examine-link-absent = [color=yellow]Actualmente no está vinculado.[/color] Úsalo en otro dispositivo para establecer un enlace cuántico.
+swap-teleporter-examine-time-remaining = Tiempo restante para recargarse: [color=purple]{$second} segundo{$second ->
     [one].
     *[other]s.
 }[/color]
-

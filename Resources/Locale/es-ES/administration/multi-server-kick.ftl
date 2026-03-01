@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-multi-server-kick-reason = Connected to different server in this community.
+multi-server-kick-reason = Conectado a otro servidor de esta comunidad.

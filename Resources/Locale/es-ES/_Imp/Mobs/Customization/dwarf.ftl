@@ -1,30 +1,30 @@
-﻿# Chest
+# Chest
 
-marking-DwarfConstellationChest = Chest Constellation
-marking-DwarfConstellationChest-constellation = Chest Constellation
+marking-DwarfConstellationChest = Constelación de Pecho
+marking-DwarfConstellationChest-constellation = Constelación de Pecho
 
-marking-DwarfMarkBear = Mark of the Bear
-marking-DwarfMarkBear-markbear = Mark of the Bear
+marking-DwarfMarkBear = Marca del Oso
+marking-DwarfMarkBear-markbear = Marca del Oso
 
-marking-DwarfMarkCobra = Mark of the Cobra
-marking-DwarfMarkCobra-markcobra = Mark of the Cobra
+marking-DwarfMarkCobra = Marca de la Cobra
+marking-DwarfMarkCobra-markcobra = Marca de la Cobra
 
-marking-DwarfMarkSpider = Mark of the Spider
-marking-DwarfMarkSpider-markspider = Mark of the Spider
+marking-DwarfMarkSpider = Marca de la Araña
+marking-DwarfMarkSpider-markspider = Marca de la Araña
 
-marking-DwarfTattooShootingStar = Shooting Star Tattoo
-marking-DwarfTattooShootingStar-shootingstar = Shooting Star Tattoo
+marking-DwarfTattooShootingStar = Tatuaje de Estrella Fugaz
+marking-DwarfTattooShootingStar-shootingstar = Tatuaje de Estrella Fugaz
 
 # Head
 
-marking-DwarfBearCheeks = Glowing Cheeks
-marking-DwarfBearCheeks-bearcheeks = Glowing Cheeks
+marking-DwarfBearCheeks = Mejillas Brillantes
+marking-DwarfBearCheeks-bearcheeks = Mejillas Brillantes
 
-marking-DwarfConstellationHead = Head Constellation
-marking-DwarfConstellationHead-constellation = Head Constellation
+marking-DwarfConstellationHead = Constelación de Cabeza
+marking-DwarfConstellationHead-constellation = Constelación de Cabeza
 
-marking-DwarfHeadGlow = Glowing Star
-marking-DwarfHeadGlow-glow = Glowing Star
+marking-DwarfHeadGlow = Estrella Brillante
+marking-DwarfHeadGlow-glow = Estrella Brillante
 
 # Snout
 
@@ -32,24 +32,24 @@ marking-DwarfHeadGlow-glow = Glowing Star
 
 # RArm
 
-marking-DwarfConstellationRArm = Arm Constellation (Right)
-marking-DwarfConstellationRArm-constellation = Arm Constellation (Right)
+marking-DwarfConstellationRArm = Constelación de Brazo (Derecho)
+marking-DwarfConstellationRArm-constellation = Constelación de Brazo (Derecho)
 
 # LArm
 
 
-marking-DwarfConstellationLArm = Arm Constellation (Left)
-marking-DwarfConstellationLArm-constellation = Arm Constellation (Left)
+marking-DwarfConstellationLArm = Constelación de Brazo (Izquierdo)
+marking-DwarfConstellationLArm-constellation = Constelación de Brazo (Izquierdo)
 
 # RLeg
 
-marking-DwarfConstellationRLeg = Leg Constellation (Right)
-marking-DwarfConstellationRLeg-constellation = Leg Constellation (Right)
+marking-DwarfConstellationRLeg = Constelación de Pierna (Derecha)
+marking-DwarfConstellationRLeg-constellation = Constelación de Pierna (Derecha)
 
 # LLeg
 
-marking-DwarfConstellationLLeg = Leg Constellation (Left)
-marking-DwarfConstellationLLeg-constellation = Leg Constellation (Left)
+marking-DwarfConstellationLLeg = Constelación de Pierna (Izquierda)
+marking-DwarfConstellationLLeg-constellation = Constelación de Pierna (Izquierda)
 
 
 # UndergarmentBottom
@@ -58,29 +58,29 @@ marking-DwarfConstellationLLeg-constellation = Leg Constellation (Left)
 
 # LFoot
 
-marking-DwarfConstellationLFoot = Foot Constellation (Left)
-marking-DwarfConstellationLFoot-constellation = Foot Constellation (Left)
+marking-DwarfConstellationLFoot = Constelación de Pie (Izquierdo)
+marking-DwarfConstellationLFoot-constellation = Constelación de Pie (Izquierdo)
 
 # RFoot
 
-marking-DwarfConstellationRFoot = Foot Constellation (Right)
-marking-DwarfConstellationRFoot-constellation = Foot Constellation (Right)
+marking-DwarfConstellationRFoot = Constelación de Pie (Derecho)
+marking-DwarfConstellationRFoot-constellation = Constelación de Pie (Derecho)
 
 # LHand
 
-marking-DwarfConstellationLHand = Hand Constellation (Left)
-marking-DwarfConstellationLHand-constellation = Hand Constellation (Left)
+marking-DwarfConstellationLHand = Constelación de Mano (Izquierda)
+marking-DwarfConstellationLHand-constellation = Constelación de Mano (Izquierda)
 
-marking-DwarfMarkKangarooLHand = Mark of the Kangaroo (Left)
-marking-DwarfMarkKangarooLHand-markkangaroo = Mark of the Kangaroo (Left)
+marking-DwarfMarkKangarooLHand = Marca del Canguro (Izquierda)
+marking-DwarfMarkKangarooLHand-markkangaroo = Marca del Canguro (Izquierda)
 
 # RHand
 
-marking-DwarfConstellationRHand = Hand Constellation (Right)
-marking-DwarfConstellationRHand-constellation = Hand Constellation (Right)
+marking-DwarfConstellationRHand = Constelación de Mano (Derecha)
+marking-DwarfConstellationRHand-constellation = Constelación de Mano (Derecha)
 
-marking-DwarfMarkKangarooRHand = Mark of the Kangaroo (Right)
-marking-DwarfMarkKangarooRHand-markkangaroo = Mark of the Kangaroo (Right)
+marking-DwarfMarkKangarooRHand = Marca del Canguro (Derecha)
+marking-DwarfMarkKangarooRHand-markkangaroo = Marca del Canguro (Derecha)
 
 # HeadSide
 

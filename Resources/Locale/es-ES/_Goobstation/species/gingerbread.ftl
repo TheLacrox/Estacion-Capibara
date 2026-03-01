@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-species-name-gingerbread = Gingerbread
-gingerbread-hurt-by-water-popup = The water melts some of you away!
+species-name-gingerbread = Pan de jengibre
+gingerbread-hurt-by-water-popup = ¡El agua te va derritiendo!

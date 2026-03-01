@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-setadminooc-desc = Sets the color of your OOC messages. Color must be in hex format, example: setadminooc #c43b23
-cmd-setadminooc-help = Usage: setadminooc <color>
+cmd-setadminooc-desc = Establece el color de tus mensajes OOC. El color debe estar en formato hexadecimal, ejemplo: setadminooc #c43b23
+cmd-setadminooc-help = Uso: setadminooc <color>

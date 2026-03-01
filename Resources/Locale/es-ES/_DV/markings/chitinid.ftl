@@ -1,164 +1,164 @@
-marking-ChitinidAntennasDefault-default = Antennae
-marking-ChitinidAntennasDefault = Antennae (Default)
+marking-ChitinidAntennasDefault-default = Antenas
+marking-ChitinidAntennasDefault = Antenas (Por defecto)
 
-marking-ChitinidAntennasCurly-curly = Antennae
-marking-ChitinidAntennasCurly = Antennae (Curly)
+marking-ChitinidAntennasCurly-curly = Antenas
+marking-ChitinidAntennasCurly = Antenas (Rizadas)
 
-marking-ChitinidAntennasGray-gray = Antennae
-marking-ChitinidAntennasGray = Antennae (Gray)
+marking-ChitinidAntennasGray-gray = Antenas
+marking-ChitinidAntennasGray = Antenas (Grises)
 
-marking-ChitinidAntennasSlick-slick = Antennae
-marking-ChitinidAntennasSlick = Antennae (Slick)
+marking-ChitinidAntennasSlick-slick = Antenas
+marking-ChitinidAntennasSlick = Antenas (Lisas)
 
-marking-ChitinidAntennasShort-short = Antennae
-marking-ChitinidAntennasShort = Antennae (short)
+marking-ChitinidAntennasShort-short = Antenas
+marking-ChitinidAntennasShort = Antenas (Cortas)
 
-marking-ChitinidAntennasLong-long = Antennae
-marking-ChitinidAntennasLong = Antennae (Long)
+marking-ChitinidAntennasLong-long = Antenas
+marking-ChitinidAntennasLong = Antenas (Largas)
 
-marking-ChitinidAntennasBee-bee = Antennae
-marking-ChitinidAntennasBee = Antennae (Bee)
+marking-ChitinidAntennasBee-bee = Antenas
+marking-ChitinidAntennasBee = Antenas (Abeja)
 
-marking-ChitinidAntennasFirefly-firefly_primary = Primary
-marking-ChitinidAntennasFirefly-firefly_secondary = Secondary
-marking-ChitinidAntennasFirefly = Antennae (Firefly)
+marking-ChitinidAntennasFirefly-firefly_primary = Primario
+marking-ChitinidAntennasFirefly-firefly_secondary = Secundario
+marking-ChitinidAntennasFirefly = Antenas (Luciérnaga)
 
-marking-ChitinidAntennasRadar-radar = Antennae
-marking-ChitinidAntennasRadar = Antennae (Radar)
+marking-ChitinidAntennasRadar-radar = Antenas
+marking-ChitinidAntennasRadar = Antenas (Radar)
 
-marking-ChitinidAntennasSpeed-speed = Antennae
-marking-ChitinidAntennasSpeed = Antennae (Speed)
-
-
-
-marking-ChitinidWingsDefault-default = Wing
-marking-ChitinidWingsDefault = Tail (Default)
-
-marking-ChitinidWingsSmooth-smooth = Wing
-marking-ChitinidWingsSmooth = Tail (Smooth)
-
-marking-ChitinidWingsHoneypot-honeypot_primary = Primary
-marking-ChitinidWingsHoneypot-honeypot_secondary = Secondary
-marking-ChitinidWingsHoneypot = Tail (Honeypot)
-
-marking-ChitinidWingsStubby-stubby = Wing
-marking-ChitinidWingsStubby = Tail (Stubby)
-
-marking-ChitinidWingsBee-bee_primary = Primary
-marking-ChitinidWingsBee-bee_secondary = Secondary
-marking-ChitinidWingsBee = Tail (Bee)
-
-marking-ChitinidWingsFirefly-firefly_primary = Primary
-marking-ChitinidWingsFirefly-firefly_secondary = Secondary
-marking-ChitinidWingsFirefly = Tail (Firefly)
+marking-ChitinidAntennasSpeed-speed = Antenas
+marking-ChitinidAntennasSpeed = Antenas (Velocidad)
 
 
 
-marking-ChitinidChestCharred-charred_chest = Chest
-marking-ChitinidChestCharred = Chitinid Chest (Charred)
+marking-ChitinidWingsDefault-default = Ala
+marking-ChitinidWingsDefault = Cola (Por defecto)
 
-marking-ChitinidHeadCharred-charred_head = Head
-marking-ChitinidHeadCharred = Chitinid Head (Charred)
+marking-ChitinidWingsSmooth-smooth = Ala
+marking-ChitinidWingsSmooth = Cola (Lisa)
 
-marking-ChitinidLLegCharred-charred_l_leg =  Left Leg
-marking-ChitinidLLegCharred = Chitinid Left Leg (Charred)
+marking-ChitinidWingsHoneypot-honeypot_primary = Primario
+marking-ChitinidWingsHoneypot-honeypot_secondary = Secundario
+marking-ChitinidWingsHoneypot = Cola (Melero)
 
-marking-ChitinidRLegCharred-charred_r_leg = Right Leg
-marking-ChitinidRLegCharred = Chitinid Right Leg (Charred)
+marking-ChitinidWingsStubby-stubby = Ala
+marking-ChitinidWingsStubby = Cola (Corta)
 
-marking-ChitinidLArmCharred-charred_l_arm = Left Arm
-marking-ChitinidLArmCharred = Chitinid Left Arm (Charred)
+marking-ChitinidWingsBee-bee_primary = Primario
+marking-ChitinidWingsBee-bee_secondary = Secundario
+marking-ChitinidWingsBee = Cola (Abeja)
 
-marking-ChitinidRArmCharred-charred_r_arm = Right Arm
-marking-ChitinidRArmCharred = Chitinid Right Arm (Charred)
-
-
-
-marking-ChitinidChestPlated-plated_chest = Chest
-marking-ChitinidChestPlated = Chitinid Chest (Plated)
-
-marking-ChitinidLArmPlated-plated_l_arm = Left Arm
-marking-ChitinidLArmPlated = Chitinid Left Arm (Plated)
-
-marking-ChitinidRArmPlated-plated_r_arm = Right Arm
-marking-ChitinidRArmPlated = Chitinid Right Arm (Plated)
+marking-ChitinidWingsFirefly-firefly_primary = Primario
+marking-ChitinidWingsFirefly-firefly_secondary = Secundario
+marking-ChitinidWingsFirefly = Cola (Luciérnaga)
 
 
 
-marking-ChitinidChestStripes-stripes_chest = Chest
-marking-ChitinidChestStripes = Chitinid Chest (Stripes)
+marking-ChitinidChestCharred-charred_chest = Pecho
+marking-ChitinidChestCharred = Pecho Chitínido (Carbonizado)
 
-marking-ChitinidHeadStripes-stripes_head = Head
-marking-ChitinidHeadStripes = Chitinid Head (Stripes)
+marking-ChitinidHeadCharred-charred_head = Cabeza
+marking-ChitinidHeadCharred = Cabeza Chitínido (Carbonizada)
 
-marking-ChitinidLLegStripes-stripes_l_leg = Left Leg
-marking-ChitinidLLegStripes = Chitinid Left Leg (Stripes)
+marking-ChitinidLLegCharred-charred_l_leg = Pierna Izquierda
+marking-ChitinidLLegCharred = Pierna Izquierda Chitínido (Carbonizada)
 
-marking-ChitinidRLegStripes-stripes_r_leg = Right Leg
-marking-ChitinidRLegStripes = Chitinid Right Leg (Stripes)
+marking-ChitinidRLegCharred-charred_r_leg = Pierna Derecha
+marking-ChitinidRLegCharred = Pierna Derecha Chitínido (Carbonizada)
 
-marking-ChitinidLArmStripes-stripes_l_arm = Left Arm
-marking-ChitinidLArmStripes = Chitinid Left Arm (Stripes)
+marking-ChitinidLArmCharred-charred_l_arm = Brazo Izquierdo
+marking-ChitinidLArmCharred = Brazo Izquierdo Chitínido (Carbonizado)
 
-marking-ChitinidRArmStripes-stripes_r_arm = Right Arm
-marking-ChitinidRArmStripes = Chitinid Right Arm (Stripes)
-
-
-
-marking-ChitinidChestRadiant-radiant_chest = Chest
-marking-ChitinidChestRadiant = Chitinid Chest (Radiant)
-
-marking-ChitinidHeadRadiant-radiant_head = Head
-marking-ChitinidHeadRadiant = Chitinid Head (Radiant)
-
-marking-ChitinidLLegRadiant-radiant_l_leg = Left Leg
-marking-ChitinidLLegRadiant = Chitinid Left Leg (Radiant)
-
-marking-ChitinidRLegRadiant-radiant_r_leg = Right Leg
-marking-ChitinidRLegRadiant = Chitinid Right Leg (Radiant)
-
-marking-ChitinidLArmRadiant-radiant_l_arm = Left Arm
-marking-ChitinidLArmRadiant = Chitinid Left Arm (Radiant)
-
-marking-ChitinidRArmRadiant-radiant_r_arm = Right Arm
-marking-ChitinidRArmRadiant = Chitinid Right Arm (Radiant)
+marking-ChitinidRArmCharred-charred_r_arm = Brazo Derecho
+marking-ChitinidRArmCharred = Brazo Derecho Chitínido (Carbonizado)
 
 
 
-marking-ChitinidChestToxic-toxic_chest = Chest
-marking-ChitinidChestToxic = Chitinid Chest (Toxic)
+marking-ChitinidChestPlated-plated_chest = Pecho
+marking-ChitinidChestPlated = Pecho Chitínido (Blindado)
 
-marking-ChitinidHeadToxic-toxic_head = Head 
-marking-ChitinidHeadToxic = Chitinid Head (Toxic)
+marking-ChitinidLArmPlated-plated_l_arm = Brazo Izquierdo
+marking-ChitinidLArmPlated = Brazo Izquierdo Chitínido (Blindado)
 
-marking-ChitinidLLegToxic-toxic_l_leg = Left Leg
-marking-ChitinidLLegToxic = Chitinid Left Leg (Toxic)
-
-marking-ChitinidRLegToxic-toxic_r_leg = Right Leg
-marking-ChitinidRLegToxic = Chitinid Right Leg (Toxic)
-
-marking-ChitinidLArmToxic-toxic_l_arm = Left Arm
-marking-ChitinidLArmToxic = Chitinid Left Arm (Toxic)
-
-marking-ChitinidRArmToxic-toxic_r_arm = Right Arm
-marking-ChitinidRArmToxic = Chitinid Right Arm (Toxic)
+marking-ChitinidRArmPlated-plated_r_arm = Brazo Derecho
+marking-ChitinidRArmPlated = Brazo Derecho Chitínido (Blindado)
 
 
 
-marking-ChitinidChestSpotted-spotted_chest = Chest
-marking-ChitinidChestSpotted = Chitinid Chest (Spotted)
+marking-ChitinidChestStripes-stripes_chest = Pecho
+marking-ChitinidChestStripes = Pecho Chitínido (Rayado)
 
-marking-ChitinidHeadSpotted-spotted_head = Head
-marking-ChitinidHeadSpotted = Chitinid Head (Spotted)
+marking-ChitinidHeadStripes-stripes_head = Cabeza
+marking-ChitinidHeadStripes = Cabeza Chitínido (Rayada)
 
-marking-ChitinidLLegSpotted-spotted_l_leg = Left Leg
-marking-ChitinidLLegSpotted = Chitinid Left Leg (Spotted)
+marking-ChitinidLLegStripes-stripes_l_leg = Pierna Izquierda
+marking-ChitinidLLegStripes = Pierna Izquierda Chitínido (Rayada)
 
-marking-ChitinidRLegSpotted-spotted_r_leg = Right Leg
-marking-ChitinidRLegSpotted = Chitinid Right Leg (Spotted)
+marking-ChitinidRLegStripes-stripes_r_leg = Pierna Derecha
+marking-ChitinidRLegStripes = Pierna Derecha Chitínido (Rayada)
 
-marking-ChitinidLArmSpotted-spotted_l_arm = Left Arm
-marking-ChitinidLArmSpotted = Chitinid Left Arm (Spotted)
+marking-ChitinidLArmStripes-stripes_l_arm = Brazo Izquierdo
+marking-ChitinidLArmStripes = Brazo Izquierdo Chitínido (Rayado)
 
-marking-ChitinidRArmSpotted-spotted_r_arm = Right Arm
-marking-ChitinidRArmSpotted = Chitinid Right Arm (Spotted)
+marking-ChitinidRArmStripes-stripes_r_arm = Brazo Derecho
+marking-ChitinidRArmStripes = Brazo Derecho Chitínido (Rayado)
+
+
+
+marking-ChitinidChestRadiant-radiant_chest = Pecho
+marking-ChitinidChestRadiant = Pecho Chitínido (Radiante)
+
+marking-ChitinidHeadRadiant-radiant_head = Cabeza
+marking-ChitinidHeadRadiant = Cabeza Chitínido (Radiante)
+
+marking-ChitinidLLegRadiant-radiant_l_leg = Pierna Izquierda
+marking-ChitinidLLegRadiant = Pierna Izquierda Chitínido (Radiante)
+
+marking-ChitinidRLegRadiant-radiant_r_leg = Pierna Derecha
+marking-ChitinidRLegRadiant = Pierna Derecha Chitínido (Radiante)
+
+marking-ChitinidLArmRadiant-radiant_l_arm = Brazo Izquierdo
+marking-ChitinidLArmRadiant = Brazo Izquierdo Chitínido (Radiante)
+
+marking-ChitinidRArmRadiant-radiant_r_arm = Brazo Derecho
+marking-ChitinidRArmRadiant = Brazo Derecho Chitínido (Radiante)
+
+
+
+marking-ChitinidChestToxic-toxic_chest = Pecho
+marking-ChitinidChestToxic = Pecho Chitínido (Tóxico)
+
+marking-ChitinidHeadToxic-toxic_head = Cabeza
+marking-ChitinidHeadToxic = Cabeza Chitínido (Tóxica)
+
+marking-ChitinidLLegToxic-toxic_l_leg = Pierna Izquierda
+marking-ChitinidLLegToxic = Pierna Izquierda Chitínido (Tóxica)
+
+marking-ChitinidRLegToxic-toxic_r_leg = Pierna Derecha
+marking-ChitinidRLegToxic = Pierna Derecha Chitínido (Tóxica)
+
+marking-ChitinidLArmToxic-toxic_l_arm = Brazo Izquierdo
+marking-ChitinidLArmToxic = Brazo Izquierdo Chitínido (Tóxico)
+
+marking-ChitinidRArmToxic-toxic_r_arm = Brazo Derecho
+marking-ChitinidRArmToxic = Brazo Derecho Chitínido (Tóxico)
+
+
+
+marking-ChitinidChestSpotted-spotted_chest = Pecho
+marking-ChitinidChestSpotted = Pecho Chitínido (Moteado)
+
+marking-ChitinidHeadSpotted-spotted_head = Cabeza
+marking-ChitinidHeadSpotted = Cabeza Chitínido (Moteada)
+
+marking-ChitinidLLegSpotted-spotted_l_leg = Pierna Izquierda
+marking-ChitinidLLegSpotted = Pierna Izquierda Chitínido (Moteada)
+
+marking-ChitinidRLegSpotted-spotted_r_leg = Pierna Derecha
+marking-ChitinidRLegSpotted = Pierna Derecha Chitínido (Moteada)
+
+marking-ChitinidLArmSpotted-spotted_l_arm = Brazo Izquierdo
+marking-ChitinidLArmSpotted = Brazo Izquierdo Chitínido (Moteado)
+
+marking-ChitinidRArmSpotted-spotted_r_arm = Brazo Derecho
+marking-ChitinidRArmSpotted = Brazo Derecho Chitínido (Moteado)

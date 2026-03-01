@@ -6,41 +6,41 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-supermatter-announcer = Automatic Supermatter Engine
+supermatter-announcer = Motor de Supermateria Automático
 
 supermatter-examine-integrity =
-    It's integrity is [color=yellow]{$integrity}%[/color].
+    Su integridad es [color=yellow]{$integrity}%[/color].
 
 supermatter-warning =
-    Warning! Crystal hyperstructure integrity faltering! Integrity: {$integrity}%.
+    ¡Advertencia! ¡La integridad de la hipestructura cristalina está fallando! Integridad: {$integrity}%.
 
 supermatter-emergency =
-    DANGER! Crystal hyperstructure integrity reaching critical levels! Integrity: {$integrity}%.
+    ¡PELIGRO! ¡La integridad de la hiperestructura cristalina está alcanzando niveles críticos! Integridad: {$integrity}%.
 
 supermatter-delam-explosion =
-    CRYSTAL DELAMINATION IMMINENT! The crystal has reached critical integrity failure! Emergency causality destabilization field has been engaged.
+    ¡DESINTEGRACIÓN CRISTALINA INMINENTE! ¡El cristal ha alcanzado el fallo de integridad crítico! El campo de desestabilización de causalidad de emergencia ha sido activado.
 
 supermatter-delam-overmass =
-    CRYSTAL DELAMINATION IMMINENT! Crystal hyperstructure integrity has reached critical mass failure! Singularity formation imminent!
+    ¡DESINTEGRACIÓN CRISTALINA INMINENTE! ¡La integridad de la hiperestructura cristalina ha alcanzado masa crítica! ¡Formación de singularidad inminente!
 
 supermatter-delam-tesla =
-    CRYSTAL DELAMINATION IMMINENT! Crystal hyperstructure integrity has reached critical power surge failure! Energy ball formation imminent!
+    ¡DESINTEGRACIÓN CRISTALINA INMINENTE! ¡La integridad de la hiperestructura cristalina ha alcanzado fallo crítico de sobretensión! ¡Formación de bola de energía inminente!
 
 supermatter-delam-cascade =
-    CRYSTAL DELAMINATION IMMINENT! Harmonic frequency limits exceeded, casualty destabilization field could not be engaged!
+    ¡DESINTEGRACIÓN CRISTALINA INMINENTE! ¡Límites de frecuencia armónica superados, el campo de desestabilización de casualidades no pudo activarse!
 
 supermatter-delam-cancel =
-    Crystalline hyperstructure returning to safe operating parameters. Failsafe has been Disengaged. Integrity: {$integrity}%.
+    La hiperestructura cristalina vuelve a parámetros de operación seguros. El sistema de seguridad ha sido desactivado. Integridad: {$integrity}%.
 
 supermatter-seconds-before-delam =
-    Estimated time before delamination: {$seconds} seconds.
+    Tiempo estimado antes de la desintegración: {$seconds} segundos.
 
 supermatter-tamper-begin =
-    You begin carefully cutting a piece off the supermatter crystal...
+    Empiezas a cortar cuidadosamente un trozo del cristal de supermateria...
 
 supermatter-tamper-end =
-    You feel the power of a thousand suns laying on your palms. Or is it all the radiation?
+    Sientes el poder de mil soles en la palma de tus manos. ¿O es toda la radiación?
 
 supermatter-announcement-cc-tamper =
-    Our automatic casualty system has detected that the supermatter crystal structural integrity was compromised by an external force.
-    Engineering department, report to the supermatter engine immediately.
+    Nuestro sistema automático de bajas ha detectado que la integridad estructural del cristal de supermateria fue comprometida por una fuerza externa.
+    Departamento de Ingeniería, preséntense al motor de supermateria inmediatamente.

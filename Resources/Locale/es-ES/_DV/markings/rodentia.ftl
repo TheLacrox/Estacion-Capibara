@@ -11,202 +11,202 @@
 
 ## patterns
 
-marking-RodentiaHeadBlaze = Head - Blaze
-marking-RodentiaHeadBlaze-head_m = Head
-marking-RodentiaHeadBlaze-blaze = Pattern
+marking-RodentiaHeadBlaze = Cabeza - Blaze
+marking-RodentiaHeadBlaze-head_m = Cabeza
+marking-RodentiaHeadBlaze-blaze = Patrón
 
-marking-RodentiaHeadRound = Head - Face Color
-marking-RodentiaHeadRound-head_m = Head
-marking-RodentiaHeadRound-round = Pattern
+marking-RodentiaHeadRound = Cabeza - Color de cara
+marking-RodentiaHeadRound-head_m = Cabeza
+marking-RodentiaHeadRound-round = Patrón
 
 ## ears
 
-marking-RodentiaHeadTopEarDefault = Rodentia Ears
+marking-RodentiaHeadTopEarDefault = Orejas de Roedor
 
-marking-RodentiaHeadTopEarBat = Ears - Bat
-marking-RodentiaHeadTopEarBat-bat = Outer ear
+marking-RodentiaHeadTopEarBat = Orejas - Murciélago
+marking-RodentiaHeadTopEarBat-bat = Oreja exterior
 
-marking-RodentiaHeadTopEarBatLarge = Ears - Bat (Large)
-marking-RodentiaHeadTopEarBatLarge-bat_large = Outer ear
+marking-RodentiaHeadTopEarBatLarge = Orejas - Murciélago (Grande)
+marking-RodentiaHeadTopEarBatLarge-bat_large = Oreja exterior
 
-marking-RodentiaHeadTopEarHamster = Ears - Hamster
-marking-RodentiaHeadTopEarHamster-hamster = Outer ear
-marking-RodentiaHeadTopEarHamster-hamster_overlay = Inner ear
+marking-RodentiaHeadTopEarHamster = Orejas - Hámster
+marking-RodentiaHeadTopEarHamster-hamster = Oreja exterior
+marking-RodentiaHeadTopEarHamster-hamster_overlay = Oreja interior
 
-marking-RodentiaHeadTopEarLong = Ears - Long
-marking-RodentiaHeadTopEarLong-long = Outer ear
-marking-RodentiaHeadTopEarLong-long_overlay = Inner ear
+marking-RodentiaHeadTopEarLong = Orejas - Largas
+marking-RodentiaHeadTopEarLong-long = Oreja exterior
+marking-RodentiaHeadTopEarLong-long_overlay = Oreja interior
 
-marking-RodentiaHeadTopEarMouse = Ears - Mouse
-marking-RodentiaHeadTopEarMouse-mouse = Outer ear
-marking-RodentiaHeadTopEarMouse-mouse_overlay = Inner ear
+marking-RodentiaHeadTopEarMouse = Orejas - Ratón
+marking-RodentiaHeadTopEarMouse-mouse = Oreja exterior
+marking-RodentiaHeadTopEarMouse-mouse_overlay = Oreja interior
 
-marking-RodentiaHeadTopEarMouseLarge = Ears - Mouse (Large)
-marking-RodentiaHeadTopEarMouseLarge-mouse_large = Outer 
-marking-RodentiaHeadTopEarMouseLarge-mouse_large_overlay = Inner ear
+marking-RodentiaHeadTopEarMouseLarge = Orejas - Ratón (Grande)
+marking-RodentiaHeadTopEarMouseLarge-mouse_large = Exterior
+marking-RodentiaHeadTopEarMouseLarge-mouse_large_overlay = Oreja interior
 
-marking-RodentiaHeadTopEarNone = Ears - Hidden
-marking-RodentiaHeadTopEarNone-none = None
+marking-RodentiaHeadTopEarNone = Orejas - Ocultas
+marking-RodentiaHeadTopEarNone-none = Ninguna
 
-marking-RodentiaHeadTopEarPointy = Ears - Pointy
-marking-RodentiaHeadTopEarPointy-pointy = Outer ear
+marking-RodentiaHeadTopEarPointy = Orejas - Puntiagudas
+marking-RodentiaHeadTopEarPointy-pointy = Oreja exterior
 
-marking-RodentiaHeadTopEarRabbit = Ears - Rabbit
-marking-RodentiaHeadTopEarRabbit-rabbit = Outer ear
-marking-RodentiaHeadTopEarRabbit-rabbit_overlay = Inner ear
+marking-RodentiaHeadTopEarRabbit = Orejas - Conejo
+marking-RodentiaHeadTopEarRabbit-rabbit = Oreja exterior
+marking-RodentiaHeadTopEarRabbit-rabbit_overlay = Oreja interior
 
-marking-RodentiaHeadTopEarSmall = Ears - Small
-marking-RodentiaHeadTopEarSmall-small = Outer Ear
+marking-RodentiaHeadTopEarSmall = Orejas - Pequeñas
+marking-RodentiaHeadTopEarSmall-small = Oreja exterior
 
 ## snout
 
-marking-RodentiaSnoutBat = Snout - Bat
-marking-RodentiaSnoutBat-bat = Snout
-marking-RodentiaSnoutBat-bat_nose = Nose
+marking-RodentiaSnoutBat = Hocico - Murciélago
+marking-RodentiaSnoutBat-bat = Hocico
+marking-RodentiaSnoutBat-bat_nose = Nariz
 
-marking-RodentiaSnoutBatCounter = Snout - Bat, Two-tone
-marking-RodentiaSnoutBatCounter-bat = Snout
-marking-RodentiaSnoutBatCounter-bat_nose = Nose
-marking-RodentiaSnoutBatCounter-bat_overlay = Countershade
+marking-RodentiaSnoutBatCounter = Hocico - Murciélago, bicolor
+marking-RodentiaSnoutBatCounter-bat = Hocico
+marking-RodentiaSnoutBatCounter-bat_nose = Nariz
+marking-RodentiaSnoutBatCounter-bat_overlay = Contrasombreado
 
-marking-RodentiaSnoutFlat = Snout - Flat
-marking-RodentiaSnoutFlat-flat = Snout
-marking-RodentiaSnoutFlat-flat_nose = Nose
+marking-RodentiaSnoutFlat = Hocico - Plano
+marking-RodentiaSnoutFlat-flat = Hocico
+marking-RodentiaSnoutFlat-flat_nose = Nariz
 
-marking-RodentiaSnoutFlatCounter = Snout - Flat, Two-tone
-marking-RodentiaSnoutFlatCounter-flat = Snout
-marking-RodentiaSnoutFlatCounter-flat_nose = Nose
-marking-RodentiaSnoutFlatCounter-flat_overlay = Countershade
+marking-RodentiaSnoutFlatCounter = Hocico - Plano, bicolor
+marking-RodentiaSnoutFlatCounter-flat = Hocico
+marking-RodentiaSnoutFlatCounter-flat_nose = Nariz
+marking-RodentiaSnoutFlatCounter-flat_overlay = Contrasombreado
 
-marking-RodentiaSnoutRound = Snout - Round
-marking-RodentiaSnoutRound-round = Snout
-marking-RodentiaSnoutRound-round_nose = Nose
+marking-RodentiaSnoutRound = Hocico - Redondo
+marking-RodentiaSnoutRound-round = Hocico
+marking-RodentiaSnoutRound-round_nose = Nariz
 
-marking-RodentiaSnoutRoundCounter = Snout - Round, Two-tone
-marking-RodentiaSnoutRoundCounter-round = Snout
-marking-RodentiaSnoutRoundCounter-round_nose = Nose
-marking-RodentiaSnoutRoundCounter-round_overlay = Countershade
+marking-RodentiaSnoutRoundCounter = Hocico - Redondo, bicolor
+marking-RodentiaSnoutRoundCounter-round = Hocico
+marking-RodentiaSnoutRoundCounter-round_nose = Nariz
+marking-RodentiaSnoutRoundCounter-round_overlay = Contrasombreado
 
 ## cheeks
 
-marking-RodentiaCheeksRound = Cheeks - Round
-marking-RodentiaCheeksRound-cheeks = Cheek
+marking-RodentiaCheeksRound = Mejillas - Redondas
+marking-RodentiaCheeksRound-cheeks = Mejilla
 
-marking-RodentiaCheeksRoundCounter = Cheeks - Round, Two-tone
-marking-RodentiaCheeksRoundCounter-cheeks = Cheek
-marking-RodentiaCheeksRoundCounter-cheeks_overlay = Countershade
+marking-RodentiaCheeksRoundCounter = Mejillas - Redondas, bicolor
+marking-RodentiaCheeksRoundCounter-cheeks = Mejilla
+marking-RodentiaCheeksRoundCounter-cheeks_overlay = Contrasombreado
 
-marking-RodentiaCheeksFluff = Cheeks - Fluff
-marking-RodentiaCheeksFluff-fluff = Cheek fluff
+marking-RodentiaCheeksFluff = Mejillas - Esponjosas
+marking-RodentiaCheeksFluff-fluff = Pelusa de mejilla
 
-marking-RodentiaCheeksFluffCounter = Cheeks - Fluff, Two-tone
-marking-RodentiaCheeksFluffCounter-fluff = Cheek fluff
-marking-RodentiaCheeksFluffCounter-fluff_overlay = Countershade
+marking-RodentiaCheeksFluffCounter = Mejillas - Esponjosas, bicolor
+marking-RodentiaCheeksFluffCounter-fluff = Pelusa de mejilla
+marking-RodentiaCheeksFluffCounter-fluff_overlay = Contrasombreado
 
-marking-RodentiaCheeksFluffAlt = Cheeks - Fluff, Alt
-marking-RodentiaCheeksFluffAlt-fluff_alt = Cheek fluff
+marking-RodentiaCheeksFluffAlt = Mejillas - Esponjosas, alternativo
+marking-RodentiaCheeksFluffAlt-fluff_alt = Pelusa de mejilla
 
-marking-RodentiaCheeksFluffAltCounter = Cheeks - Fluff, Alt, Two-tone
-marking-RodentiaCheeksFluffAltCounter-fluff_alt = Cheek fluff
-marking-RodentiaCheeksFluffAltCounter-fluff_alt_overlay = Countershade
+marking-RodentiaCheeksFluffAltCounter = Mejillas - Esponjosas, alternativo, bicolor
+marking-RodentiaCheeksFluffAltCounter-fluff_alt = Pelusa de mejilla
+marking-RodentiaCheeksFluffAltCounter-fluff_alt_overlay = Contrasombreado
 
-marking-RodentiaCheeksWhiskers = Whiskers
-marking-RodentiaCheeksWhiskers-whiskers = Whiskers
+marking-RodentiaCheeksWhiskers = Bigotes
+marking-RodentiaCheeksWhiskers-whiskers = Bigotes
 
 # body markings
 
 ## tail
 
-marking-RodentiaTailDefault = Rodentia Tail
+marking-RodentiaTailDefault = Cola de Roedor
 
-marking-RodentiaTailBeaver = Tail - Beaver
-marking-RodentiaTailBeaver-beaver = Tail
+marking-RodentiaTailBeaver = Cola - Castor
+marking-RodentiaTailBeaver-beaver = Cola
 
-marking-RodentiaTailHamster = Tail - Hamster
-marking-RodentiaTailHamster-hamster = Tail
+marking-RodentiaTailHamster = Cola - Hámster
+marking-RodentiaTailHamster-hamster = Cola
 
-marking-RodentiaTailLong = Tail - Long
-marking-RodentiaTailLong-long = Tail
+marking-RodentiaTailLong = Cola - Larga
+marking-RodentiaTailLong-long = Cola
 
-marking-RodentiaTailLongCounter = Tail - Long, Two-tone
-marking-RodentiaTailLongCounter-long = Tail
-marking-RodentiaTailLongCounter-long_overlay = Countershade
+marking-RodentiaTailLongCounter = Cola - Larga, bicolor
+marking-RodentiaTailLongCounter-long = Cola
+marking-RodentiaTailLongCounter-long_overlay = Contrasombreado
 
-marking-RodentiaTailLongCounterTip = Tail - Long, Three-tone
-marking-RodentiaTailLongCounterTip-long = Tail
-marking-RodentiaTailLongCounterTip-long_overlay = Countershade
-marking-RodentiaTailLongCounterTip-long_tip = Tip
+marking-RodentiaTailLongCounterTip = Cola - Larga, tricolor
+marking-RodentiaTailLongCounterTip-long = Cola
+marking-RodentiaTailLongCounterTip-long_overlay = Contrasombreado
+marking-RodentiaTailLongCounterTip-long_tip = Punta
 
-marking-RodentiaTailMouse = Tail - Mouse
-marking-RodentiaTailMouse-mouse = Tail
+marking-RodentiaTailMouse = Cola - Ratón
+marking-RodentiaTailMouse-mouse = Cola
 
-marking-RodentiaTailRabbit = Tail - Rabbit
-marking-RodentiaTailRabbit-rabbit = Tail
+marking-RodentiaTailRabbit = Cola - Conejo
+marking-RodentiaTailRabbit-rabbit = Cola
 
-marking-RodentiaTailRabbitCounter = Tail - Rabbit, Two-tone
-marking-RodentiaTailRabbitCounter-rabbit = Tail
-marking-RodentiaTailRabbitCounter-rabbit_overlay = Countershade
+marking-RodentiaTailRabbitCounter = Cola - Conejo, bicolor
+marking-RodentiaTailRabbitCounter-rabbit = Cola
+marking-RodentiaTailRabbitCounter-rabbit_overlay = Contrasombreado
 
-marking-RodentiaTailShort = Tail - Short
-marking-RodentiaTailShort-short = Tail
+marking-RodentiaTailShort = Cola - Corta
+marking-RodentiaTailShort-short = Cola
 
-marking-RodentiaTailSquirrel = Tail - Squirrel
-marking-RodentiaTailSquirrel-squirrel = Tail
+marking-RodentiaTailSquirrel = Cola - Ardilla
+marking-RodentiaTailSquirrel-squirrel = Cola
 
-marking-RodentiaTailSquirrelBicolor = Tail - Squirrel, Two-tone
-marking-RodentiaTailSquirrelBicolor-squirrel = Tail
-marking-RodentiaTailSquirrelBicolor-squirrel_overlay = Secondary
+marking-RodentiaTailSquirrelBicolor = Cola - Ardilla, bicolor
+marking-RodentiaTailSquirrelBicolor-squirrel = Cola
+marking-RodentiaTailSquirrelBicolor-squirrel_overlay = Secundario
 
 ## patterns
 
-marking-RodentiaChestCountershade = Chest - Countershade
-marking-RodentiaChestCountershade-countershade = Countershade
+marking-RodentiaChestCountershade = Pecho - Contrasombreado
+marking-RodentiaChestCountershade-countershade = Contrasombreado
 
-marking-RodentiaChestCountershadeF = Chest - Countershade
-marking-RodentiaChestCountershadeF-countershade_f = Countershade
+marking-RodentiaChestCountershadeF = Pecho - Contrasombreado
+marking-RodentiaChestCountershadeF-countershade_f = Contrasombreado
 
-marking-RodentiaLegLeftCountershade = Left Leg - Countershade
-marking-RodentiaLegLeftCountershade-l_leg = Leg
-marking-RodentiaLegLeftCountershade-countershade_lleg = Countershade
+marking-RodentiaLegLeftCountershade = Pierna izquierda - Contrasombreado
+marking-RodentiaLegLeftCountershade-l_leg = Pierna
+marking-RodentiaLegLeftCountershade-countershade_lleg = Contrasombreado
 
-marking-RodentiaLegRightCountershade = Right Leg - Countershade
-marking-RodentiaLegRightCountershade-r_leg = Leg
-marking-RodentiaLegRightCountershade-countershade_rleg = Countershade
+marking-RodentiaLegRightCountershade = Pierna derecha - Contrasombreado
+marking-RodentiaLegRightCountershade-r_leg = Pierna
+marking-RodentiaLegRightCountershade-countershade_rleg = Contrasombreado
 
-marking-RodentiaChestFawn = Chest - Fawn
-marking-RodentiaChestFawn-fawn = Pattern
+marking-RodentiaChestFawn = Pecho - Cervato
+marking-RodentiaChestFawn-fawn = Patrón
 
-marking-RodentiaChestHooded = Chest - Hooded
-marking-RodentiaChestHooded-hooded = Pattern
+marking-RodentiaChestHooded = Pecho - Con capucha
+marking-RodentiaChestHooded-hooded = Patrón
 
-marking-RodentiaChestHoodedF = Chest - Hooded
-marking-RodentiaChestHoodedF-hooded_f = Pattern
+marking-RodentiaChestHoodedF = Pecho - Con capucha
+marking-RodentiaChestHoodedF-hooded_f = Patrón
 
 # base parts
 
-marking-RodentiaHeadBasic = Head - Basic
-marking-RodentiaHeadBasic-head_m = Head
+marking-RodentiaHeadBasic = Cabeza - Básica
+marking-RodentiaHeadBasic-head_m = Cabeza
 
-marking-RodentiaArmLeftBasic = Left Arm - Basic
-marking-RodentiaArmLeftBasic-l_arm = Arm
+marking-RodentiaArmLeftBasic = Brazo izquierdo - Básico
+marking-RodentiaArmLeftBasic-l_arm = Brazo
 
-marking-RodentiaArmRightBasic = Right Arm - Basic
-marking-RodentiaArmRightBasic-r_arm = Arm
+marking-RodentiaArmRightBasic = Brazo derecho - Básico
+marking-RodentiaArmRightBasic-r_arm = Brazo
 
-marking-RodentiaLegLeftBasic = Left Leg - Basic
-marking-RodentiaLegLeftBasic-l_leg = Leg
+marking-RodentiaLegLeftBasic = Pierna izquierda - Básica
+marking-RodentiaLegLeftBasic-l_leg = Pierna
 
-marking-RodentiaLegRightBasic = Right Leg - Basic
-marking-RodentiaLegRightBasic-r_leg = Leg
+marking-RodentiaLegRightBasic = Pierna derecha - Básica
+marking-RodentiaLegRightBasic-r_leg = Pierna
 
-marking-RodentiaHandLeftBasic = Left Hand - Basic
-marking-RodentiaHandLeftBasic-l_hand = Hand
+marking-RodentiaHandLeftBasic = Mano izquierda - Básica
+marking-RodentiaHandLeftBasic-l_hand = Mano
 
-marking-RodentiaHandRightBasic = Right Hand - Basic
-marking-RodentiaHandRightBasic-r_hand = Hand
+marking-RodentiaHandRightBasic = Mano derecha - Básica
+marking-RodentiaHandRightBasic-r_hand = Mano
 
-marking-RodentiaFootLeftBasic = Left Foot - Basic
-marking-RodentiaFootLeftBasic-l_foot = Foot
+marking-RodentiaFootLeftBasic = Pie izquierdo - Básico
+marking-RodentiaFootLeftBasic-l_foot = Pie
 
-marking-RodentiaFootRightBasic = Right Foot - Basic
-marking-RodentiaFootRightBasic-r_foot = Foot
+marking-RodentiaFootRightBasic = Pie derecho - Básico
+marking-RodentiaFootRightBasic-r_foot = Pie

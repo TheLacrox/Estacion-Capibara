@@ -1,29 +1,29 @@
 clone-projector-examined-status = { $cloneStatus ->
-[true] The clone is currently active.
-*[false] The clone is currently inactive.
+[true] El clon está actualmente activo.
+*[false] El clon está actualmente inactivo.
 }
-clone-projector-examined-health = {$cloneHealth}% Integrity
+clone-projector-examined-health = {$cloneHealth}% de Integridad
 
-gemini-projector-clone-created = A swarm of nanites appears from {$user}'s projector.
-gemini-projector-clone-retrieved = The {$target} dematerializes.
+gemini-projector-clone-created = Un enjambre de nanitas aparece del proyector de {$user}.
+gemini-projector-clone-retrieved = {$target} se desmaterializa.
 
-gemini-projector-clone-flavor-text = [color=cyan]It's composed of a swarm of nanomachines.[/color]
-gemini-projector-clone-name-suffix = - Gemini
+gemini-projector-clone-flavor-text = [color=cyan]Está compuesto de un enjambre de nanomáquinas.[/color]
+gemini-projector-clone-name-suffix = - Géminis
 
-gemini-projector-installed = You feel a sharp pain in your lower back.
-gemini-projector-removed = You feel your vision widen, and an extremely sharp pain in your lower back.
-gemini-projector-clone-destroyed = Every muscle in your body aches as the projector malfunctions.
+gemini-projector-installed = Sientes un dolor agudo en la parte baja de la espalda.
+gemini-projector-removed = Sientes que tu visión se amplía y un dolor extremadamente agudo en la parte baja de la espalda.
+gemini-projector-clone-destroyed = Cada músculo de tu cuerpo duele mientras el proyector falla.
 
-gemini-projector-regenerate-verb = Regenerate Clone
-gemini-projector-regenerate-verb-text = Regenerate the current clone, keeping its mind but setting its body back to default.
+gemini-projector-regenerate-verb = Regenerar Clon
+gemini-projector-regenerate-verb-text = Regenera el clon actual, conservando su mente pero restableciendo su cuerpo al estado predeterminado.
 
-gemini-projector-reboot-verb = Recalibrate Personality
-gemini-projector-reboot-verb-text = Recalibrate the personality of the current clone, giving it a brand new mind. This cannot be undone.
+gemini-projector-reboot-verb = Recalibrar Personalidad
+gemini-projector-reboot-verb-text = Recalibra la personalidad del clon actual, dándole una mente completamente nueva. Esto no se puede deshacer.
 
-ghost-role-information-gemini-clone-name = Gemini Hologram
-ghost-role-information-gemini-clone-description = Assist the Research Director in any and all of their tasks. Maybe burn a city or two if they want.
+ghost-role-information-gemini-clone-name = Holograma Géminis
+ghost-role-information-gemini-clone-description = Asiste al Director de Investigación en todas y cada una de sus tareas. Quizás quema una ciudad o dos si quiere.
 
-ghost-role-information-monozygotic-clone-name = Monozygotic Hologram
-ghost-role-information-monozygotic-clone-description = Assist Central Command in any and all of their tasks.
+ghost-role-information-monozygotic-clone-name = Holograma Monocigótico
+ghost-role-information-monozygotic-clone-description = Asiste al Mando Central en todas y cada una de sus tareas.
 
-monozygotic-projector-clone-name-suffix = - Zygote
+monozygotic-projector-clone-name-suffix = - Cigoto

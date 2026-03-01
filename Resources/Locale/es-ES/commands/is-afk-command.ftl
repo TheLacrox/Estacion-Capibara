@@ -1,4 +1,4 @@
-﻿cmd-isafk-desc = Checks if a specified player is AFK.
-cmd-isafk-help = Usage: isafk <playerName>
-cmd-isafk-true = They are indeed AFK.
-cmd-isafk-false = They are not AFK.
+cmd-isafk-desc = Comprueba si un jugador especificado está AFK.
+cmd-isafk-help = Uso: isafk <nombreDeJugador>
+cmd-isafk-true = Efectivamente está AFK.
+cmd-isafk-false = No está AFK.
