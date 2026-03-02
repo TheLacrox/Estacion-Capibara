@@ -1,30 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
   <defs>
+    <pattern id="hazardStripe" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="20" height="40" fill="#F1C40F" />
+      <rect x="20" width="20" height="40" fill="#111111" />
+    </pattern>
+
+    <pattern id="techGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect width="40" height="40" fill="none" stroke="#1c2331" stroke-width="1" />
+    </pattern>
+
     <radialGradient id="glassGlow" cx="350" cy="350" r="200" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.5"/>
       <stop offset="70%" stop-color="#00ffff" stop-opacity="0.1"/>
       <stop offset="100%" stop-color="#0088ff" stop-opacity="0.4"/>
     </radialGradient>
+    
     <clipPath id="innerCircle">
       <circle cx="400" cy="400" r="335" />
     </clipPath>
   </defs>
 
-  <!-- Stars (transparent background) -->
-  <circle cx="100" cy="80" r="1.5" fill="#ffffff" opacity="0.8"/>
-  <circle cx="280" cy="180" r="2" fill="#ffffff" opacity="0.5"/>
-  <circle cx="750" cy="60" r="1" fill="#ffffff" opacity="0.9"/>
-  <circle cx="850" cy="150" r="2" fill="#ffffff" opacity="0.4"/>
-  <circle cx="1100" cy="200" r="1.5" fill="#ffffff" opacity="0.7"/>
-  <circle cx="1150" cy="80" r="2" fill="#ffffff" opacity="0.6"/>
+  <rect x="0" y="0" width="1200" height="400" fill="#0d111a" />
+  <rect x="0" y="0" width="1200" height="400" fill="url(#techGrid)" />
 
-  <!-- Small planets -->
-  <circle cx="950" cy="70" r="40" fill="#8E44AD" opacity="0.4" />
-  <path d="M 900 90 Q 950 40 1000 90" fill="none" stroke="#D2B4DE" stroke-width="4" opacity="0.3" />
+  <rect x="0" y="380" width="1200" height="20" fill="url(#hazardStripe)" />
+  <rect x="0" y="375" width="1200" height="5" fill="#E67E22" />
 
-  <g transform="translate(80, 10) scale(0.35)">
-    <!-- Inserted ico.svg content (fully circular capybara badge) -->
+  <polygon points="400,0 1200,0 1200,400 320,400" fill="#121824" opacity="0.8" />
+  <path d="M 380 -10 L 300 410" fill="none" stroke="#2980B9" stroke-width="8" opacity="0.7" />
+  <path d="M 400 -10 L 320 410" fill="none" stroke="#E67E22" stroke-width="3" opacity="0.9" />
+  
+  <path d="M 1150 50 L 1180 50 L 1180 100" fill="none" stroke="#34495E" stroke-width="4" />
+  <path d="M 1150 330 L 1180 330 L 1180 280" fill="none" stroke="#34495E" stroke-width="4" />
+
+  <g transform="translate(20, 30) scale(0.4)">
     <circle cx="400" cy="400" r="380" fill="#1e1e24" />
+    
     <circle cx="400" cy="400" r="360" fill="none" stroke="#F1C40F" stroke-width="40" />
     <circle cx="400" cy="400" r="360" fill="none" stroke="#111111" stroke-width="40" stroke-dasharray="56.5 56.5" />
     <circle cx="400" cy="400" r="340" fill="none" stroke="#2b2d31" stroke-width="15" />
@@ -34,7 +45,6 @@
       <circle cx="650" cy="200" r="120" fill="#8E44AD" opacity="0.6" />
       <circle cx="620" cy="180" r="100" fill="#9B59B6" opacity="0.5" />
       <path d="M 500 250 Q 650 150 800 250" fill="none" stroke="#D2B4DE" stroke-width="8" opacity="0.4" />
-      
       <circle cx="150" cy="250" r="3" fill="#ffffff" opacity="0.8"/>
       <circle cx="280" cy="120" r="2" fill="#ffffff" opacity="0.5"/>
       <circle cx="500" cy="90" r="4" fill="#ffffff" opacity="0.9"/>
@@ -45,44 +55,37 @@
 
     <g id="capybara-astronaut">
       <path d="M 220 750 L 220 540 C 220 470 580 470 580 540 L 580 750 Z" fill="#E67E22" stroke="#D35400" stroke-width="8" />
-      
       <rect x="290" y="580" width="40" height="170" fill="#F1C40F" rx="5" />
       <rect x="470" y="580" width="40" height="170" fill="#F1C40F" rx="5" />
       <path d="M 370 580 L 430 580 L 430 750 L 370 750 Z" fill="#2C3E50" opacity="0.3" />
-
       <circle cx="400" cy="630" r="35" fill="#2980B9" stroke="#ECF0F1" stroke-width="5" />
       <polygon points="400,605 420,645 380,645" fill="#ECF0F1" />
-
       <ellipse cx="400" cy="530" rx="200" ry="45" fill="#BDC3C7" stroke="#7F8C8D" stroke-width="10" />
       <ellipse cx="400" cy="520" rx="180" ry="30" fill="#34495E" />
       <circle cx="260" cy="530" r="10" fill="#E74C3C" />
       <circle cx="540" cy="530" r="10" fill="#2ECC71" />
-
       <rect x="290" y="280" width="220" height="230" rx="80" fill="#8B5A2B" />
-      
       <path d="M 290 330 C 260 330 260 380 290 380 Z" fill="#6B4226" />
       <path d="M 510 330 C 540 330 540 380 510 380 Z" fill="#6B4226" />
-
       <path d="M 320 410 L 480 410 C 480 480 450 510 400 510 C 350 510 320 480 320 410 Z" fill="#654321" />
-
       <ellipse cx="370" cy="430" rx="10" ry="5" fill="#2A170F" />
       <ellipse cx="430" cy="430" rx="10" ry="5" fill="#2A170F" />
-
       <path d="M 315 370 Q 335 360 355 370" fill="none" stroke="#1A0F0A" stroke-width="6" stroke-linecap="round" />
       <path d="M 445 370 Q 465 360 485 370" fill="none" stroke="#1A0F0A" stroke-width="6" stroke-linecap="round" />
-
       <path d="M 400 450 L 400 480 M 400 480 Q 380 480 370 470 M 400 480 Q 420 480 430 470" fill="none" stroke="#2A170F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
-
       <circle cx="400" cy="360" r="190" fill="url(#glassGlow)" stroke="#E0F7FA" stroke-width="6" />
-      
       <path d="M 230 300 A 190 190 0 0 1 360 175 A 170 170 0 0 0 250 340 Z" fill="#ffffff" opacity="0.6" />
     </g>
   </g>
-
-  <!-- Text Section -->
-  <g transform="translate(500, 140)">
-    <text x="0" y="0" font-family="'Impact', 'Arial Black', sans-serif" font-size="75" font-weight="900" fill="#ffffff" font-style="italic" letter-spacing="4">ESTACIÓN</text>
-    <text x="0" y="55" font-family="'Courier New', 'Consolas', monospace" font-size="40" font-weight="bold" fill="#E67E22" letter-spacing="6">CAPIBARA 14</text>
-    <text x="0" y="95" font-family="'Courier New', 'Consolas', monospace" font-size="16" fill="#3498DB" letter-spacing="2">>> PROTOCOLOS DE RELAJACIÓN ACTIVOS</text>
+  <g transform="translate(420, 200)">
+    <text x="0" y="0" font-family="'Impact', 'Arial Black', sans-serif" font-size="95" font-weight="900" fill="#ffffff" font-style="italic" letter-spacing="4">CAPYBARA</text>
+    
+    <text x="5" y="70" font-family="'Courier New', 'Consolas', monospace" font-size="50" font-weight="bold" fill="#E67E22" letter-spacing="8">STATION 14</text>
+    
+    <text x="5" y="110" font-family="sans-serif" font-size="14" fill="#7F8C8D" letter-spacing="3">SERVER STATUS: ONLINE // CHILL LEVELS: CRITICAL</text>
   </g>
+
+  <path d="M 420 220 L 1050 220" fill="none" stroke="#34495E" stroke-width="2" />
+  <circle cx="1050" cy="220" r="4" fill="#E67E22" />
+
 </svg>
