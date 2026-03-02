@@ -134,6 +134,11 @@ namespace Content.Client.VendingMachines.UI
         /// </summary>
         private bool _enabled;
 
+        // Hispania: price display support
+        private Dictionary<string, int>? _prices;
+        private int _defaultPrice;
+        private int? _playerBalance;
+
         public event Action<GUIBoundKeyEventArgs, ListData>? OnItemSelected;
 
         public VendingMachineMenu()
@@ -184,7 +189,9 @@ namespace Content.Client.VendingMachines.UI
             _listItems[protoID] = (button, item);
             button.AddChild(item);
             button.AddStyleClass("ButtonSquare");
-            button.Disabled = !_enabled || _amounts[protoID] == 0;
+            // Hispania: also disable if player can't afford the item
+            var cantAfford = _playerBalance != null && _prices != null && GetItemPrice(protoID) > _playerBalance.Value;
+            button.Disabled = !_enabled || _amounts[protoID] == 0 || cantAfford;
         }
 
         /// <summary>
@@ -237,8 +244,7 @@ namespace Content.Client.VendingMachines.UI
                     _dummies.Add(entry.ID, dummy);
                 }
 
-                var itemName = Identity.Name(dummy, _entityManager);
-                var itemText = $"{itemName} [{entry.Amount}]";
+                var itemText = GetItemText(dummy, entry.Amount, entry.ID);
                 _amounts[entry.ID] = entry.Amount;
 
                 if (itemText.Length > longestEntry.Length)
@@ -272,17 +278,62 @@ namespace Content.Client.VendingMachines.UI
                     continue;
                 var amount = entry.Amount;
                 // Could be better? Problem is all inventory entries get squashed.
-                var text = GetItemText(dummy, amount);
+                var text = GetItemText(dummy, amount, proto);
 
                 button.Item.SetText(text);
-                button.Button.Disabled = !enabled || amount == 0;
+
+                // Hispania: also disable if player can't afford the item
+                var cantAfford = _playerBalance != null && _prices != null && GetItemPrice(proto) > _playerBalance.Value;
+                button.Button.Disabled = !enabled || amount == 0 || cantAfford;
             }
         }
 
-        private string GetItemText(EntityUid dummy, uint amount)
+        private string GetItemText(EntityUid dummy, uint amount, string? protoId = null)
         {
             var itemName = Identity.Name(dummy, _entityManager);
-            return $"{itemName} [{amount}]";
+            var text = $"{itemName} [{amount}]";
+
+            // Hispania: append price if prices are set
+            if (_prices != null && protoId != null)
+            {
+                var price = GetItemPrice(protoId);
+                if (price > 0)
+                    text += $" - {price} Sp";
+            }
+
+            return text;
+        }
+
+        // Hispania: get price for an item
+        private int GetItemPrice(string protoId)
+        {
+            if (_prices == null)
+                return 0;
+
+            if (_prices.TryGetValue(protoId, out var price))
+                return price;
+
+            return _defaultPrice;
+        }
+
+        /// <summary>
+        /// Hispania: Set price information for the vendor display.
+        /// </summary>
+        public void SetPrices(Dictionary<string, int>? prices, int defaultPrice, int? balance)
+        {
+            _prices = prices;
+            _defaultPrice = defaultPrice;
+            _playerBalance = balance;
+
+            if (balance != null)
+            {
+                BalanceLabel.Text = Loc.GetString("hispania-vending-balance", ("balance", balance.Value));
+                BalanceLabel.Visible = true;
+            }
+            else
+            {
+                BalanceLabel.Visible = false;
+            }
         }
 
         private void SetSizeAfterUpdate(int longestEntryLength, int contentCount)

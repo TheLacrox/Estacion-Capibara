@@ -590,6 +590,8 @@
     - MedicalBoardsStaticGoob
     - SecurityBoardsStaticGoob
     - ServiceBoardsStaticGoob
+    # Hispania Packs
+    - HispaniaBoardsStatic
     dynamicPacks:
     - EngineeringBoards
     - CargoBoards

@@ -16,6 +16,7 @@
 //
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using Content.Shared._Hispania.Economy;
 using Content.Shared.Emag.Components;
 using Robust.Shared.Prototypes;
 using System.Linq;
@@ -314,6 +315,15 @@ public abstract partial class SharedVendingMachineSystem : EntitySystem
     {
         if (IsAuthorized(uid, sender, component))
         {
+            // Hispania: raise cancellable purchase event for economy integration
+            var attemptEv = new AttemptVendingPurchaseEvent(uid, sender, type, itemId);
+            RaiseLocalEvent(uid, ref attemptEv);
+            if (attemptEv.Cancelled)
+            {
+                Deny((uid, component), sender);
+                return;
+            }
+
             TryEjectVendorItem(uid, type, itemId, component.CanShoot, sender, component);
         }
     }
