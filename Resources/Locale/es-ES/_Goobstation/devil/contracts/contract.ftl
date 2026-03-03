@@ -46,3 +46,35 @@ default-contract-content = Este contrato vinculante hecho este día entre:
 
             {"["}italic]Todas las cláusulas entran en vigor al firmar este papel por ambas partes.{"["}/italic]
             {"["}italic]{"["}color=#ac3a0d]Las cláusulas no pueden romperse. Nunca.{"["}/color]{"["}/italic]
+
+devil-clause-soulownership = Propiedad del alma
+devil-clause-weakness = Debilidad
+devil-clause-fearoffire = Miedo al fuego
+devil-clause-brokeness = Pobreza
+devil-clause-fearofdeath = Miedo a la muerte
+devil-clause-fearoflight = Miedo a la luz
+devil-clause-fearofelectricity = Miedo a la electricidad
+devil-clause-gluttony = Glotonería
+devil-clause-fearofdrowning = Miedo a ahogarse
+devil-clause-fearofclowns = Miedo a los payasos
+devil-clause-fearofcrushing = Miedo al aplastamiento
+devil-clause-fearoffreezing = Miedo a congelarse
+devil-clause-greed = Avaricia
+devil-clause-pain = Dolor
+devil-clause-chance = Oportunidad
+devil-clause-shadows = Sombras
+devil-clause-humanity = Humanidad
+devil-clause-strength = Fuerza
+devil-clause-willtofight = Voluntad de luchar
+devil-clause-sight = Vista
+devil-clause-coherence = Coherencia
+devil-clause-voice = Voz
+devil-clause-aleg = Una pierna
+devil-clause-ahand = Una mano
+devil-clause-awake = Despierto
+devil-clause-anorgan = Un órgano
+devil-clause-legs = Piernas
+devil-clause-innerpeace = Paz interior
+devil-clause-death = Muerte
+devil-clause-mortality = Mortalidad
+devil-clause-time = Tiempo

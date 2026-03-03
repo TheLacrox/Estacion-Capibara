@@ -7,7 +7,10 @@
 //
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using System.Diagnostics.CodeAnalysis;
+using System.Globalization;
 using System.Linq;
+using System.Text;
 using System.Text.RegularExpressions;
 using Content.Shared._Shitmed.Medical.Surgery.Wounds.Systems;
 using Content.Goobstation.Common.Paper;
@@ -57,11 +60,13 @@ public sealed partial class DevilContractSystem : EntitySystem
     [Dependency] private readonly MindSystem _mind = null!;
 
     private ISawmill _sawmill = null!;
+    private Dictionary<string, string> _clauseNameToId = new();
 
     public override void Initialize()
     {
         base.Initialize();
         InitializeRegex();
+        BuildClauseLookup();
         InitializeSpecialActions();
 
         SubscribeLocalEvent<DevilContractComponent, BeingSignedAttemptEvent>(OnContractSignAttempt);
@@ -90,6 +95,56 @@ public sealed partial class DevilContractSystem : EntitySystem
 
         _clauseRegex = new Regex($@"^\s*(?<target>{targetPattern})\s*:\s*(?<clause>.+?)\s*$",
             RegexOptions.IgnoreCase | RegexOptions.Compiled | RegexOptions.Multiline);
+    }
+
+    private void BuildClauseLookup()
+    {
+        _clauseNameToId.Clear();
+
+        foreach (var clause in _prototypeManager.EnumeratePrototypes<DevilClausePrototype>())
+        {
+            // Map the localized clause name (normalized) to the prototype ID
+            var locKey = $"devil-clause-{clause.ID}";
+            var localizedName = NormalizeClauseName(Loc.GetString(locKey));
+            _clauseNameToId[localizedName] = clause.ID;
+
+            // Also map the raw prototype ID as a fallback
+            _clauseNameToId[clause.ID] = clause.ID;
+        }
+    }
+
+    private bool TryResolveClause(string parsedName, [NotNullWhen(true)] out DevilClausePrototype? clause)
+    {
+        var normalized = NormalizeClauseName(parsedName);
+
+        if (_clauseNameToId.TryGetValue(normalized, out var prototypeId))
+            return _prototypeManager.TryIndex(prototypeId, out clause);
+
+        return _prototypeManager.TryIndex(parsedName, out clause);
+    }
+
+    /// <summary>
+    /// Normalizes a clause name by trimming, lowercasing, removing spaces, and stripping diacritics
+    /// so that e.g. "organo" matches "órgano" and "Glotoneria" matches "Glotonería".
+    /// </summary>
+    private static string NormalizeClauseName(string name)
+    {
+        var stripped = RemoveDiacritics(name);
+        return stripped.Trim().ToLowerInvariant().Replace(" ", "");
+    }
+
+    private static string RemoveDiacritics(string text)
+    {
+        var normalized = text.Normalize(NormalizationForm.FormD);
+        var sb = new StringBuilder(normalized.Length);
+
+        foreach (var c in normalized)
+        {
+            if (UnicodeCategory.NonSpacingMark != char.GetUnicodeCategory(c))
+                sb.Append(c);
+        }
+
+        return sb.ToString().Normalize(NormalizationForm.FormC);
     }
     private void OnGetVerbs(Entity<DevilContractComponent> contract, ref GetVerbsEvent<AlternativeVerb> args)
     {
@@ -302,7 +357,7 @@ public sealed partial class DevilContractSystem : EntitySystem
 
             var clauseKey = match.Groups["clause"].Value.Trim().ToLowerInvariant().Replace(" ", "");
 
-            if (!_prototypeManager.TryIndex(clauseKey, out DevilClausePrototype? clauseProto)
+            if (!TryResolveClause(clauseKey, out var clauseProto)
                 || !contract.Comp.CurrentClauses.Add(clauseProto))
                 continue;
 
@@ -339,7 +394,7 @@ public sealed partial class DevilContractSystem : EntitySystem
                 continue;
             }
 
-            if (!_prototypeManager.TryIndex(clauseKey, out DevilClausePrototype? clause))
+            if (!TryResolveClause(clauseKey, out var clause))
             {
                 _sawmill.Warning($"Unknown contract clause: {clauseKey}");
                 continue;

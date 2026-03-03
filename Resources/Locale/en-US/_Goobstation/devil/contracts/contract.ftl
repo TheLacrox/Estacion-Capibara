@@ -46,3 +46,35 @@ default-contract-content = This binding contract made this day between:
 
             {"["}italic]All clauses come into effect upon signing of this paper by both parties.{"["}/italic]
             {"["}italic]{"["}color=#ac3a0d]Clauses may not be broken. Ever.{"["}/color]{"["}/italic]
+
+devil-clause-soulownership = Soul Ownership
+devil-clause-weakness = Weakness
+devil-clause-fearoffire = Fear of Fire
+devil-clause-brokeness = Brokeness
+devil-clause-fearofdeath = Fear of Death
+devil-clause-fearoflight = Fear of Light
+devil-clause-fearofelectricity = Fear of Electricity
+devil-clause-gluttony = Gluttony
+devil-clause-fearofdrowning = Fear of Drowning
+devil-clause-fearofclowns = Fear of Clowns
+devil-clause-fearofcrushing = Fear of Crushing
+devil-clause-fearoffreezing = Fear of Freezing
+devil-clause-greed = Greed
+devil-clause-pain = Pain
+devil-clause-chance = Chance
+devil-clause-shadows = Shadows
+devil-clause-humanity = Humanity
+devil-clause-strength = Strength
+devil-clause-willtofight = Will to Fight
+devil-clause-sight = Sight
+devil-clause-coherence = Coherence
+devil-clause-voice = Voice
+devil-clause-aleg = A Leg
+devil-clause-ahand = A Hand
+devil-clause-awake = Awake
+devil-clause-anorgan = An Organ
+devil-clause-legs = Legs
+devil-clause-innerpeace = Inner Peace
+devil-clause-death = Death
+devil-clause-mortality = Mortality
+devil-clause-time = Time
