@@ -30,6 +30,7 @@ ent-PaperCNCSheet = hoja de personaje
     .desc = Una hoja para tus personajes de Carpas y Criptas.
 
 ent-NukeCodePaper = códigos de autenticación nuclear
+    .desc = Un trozo de papel blanco.
 
 ent-TraitorCodePaper = contraseña del Syndicate
     .desc = Una contraseña filtrada para posiblemente ponerse en contacto con el Syndicate.

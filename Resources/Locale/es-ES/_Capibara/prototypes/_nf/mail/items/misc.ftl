@@ -3,10 +3,13 @@ ent-DelayedSmoke = humo retardado
 ent-DelayedEMP = EMP retardado (7 metros)
 
 ent-SyringeCognizine = jeringa de cognizina
+    .desc = Utilizada para extraer muestras de sangre de criaturas o para inyectarles reactivos.
 
 ent-SyringeOpporozidone = jeringa de oporrozidona
+    .desc = Utilizada para extraer muestras de sangre de criaturas o para inyectarles reactivos.
 
 ent-NecrosolChemistryBottle = botella de necrosol
+    .desc = Una pequeña botella.
 
 ent-DrinkPremiumVodkaBottleFull = botella de vodka Momento de Claridad
     .desc = Cuando las cosas se ponen un poco caóticas, todo lo que necesitas es un Momento de Claridad.

@@ -5,6 +5,7 @@ ent-MegaSprayBottle = botella de spray mega
     .desc = Una enorme botella de spray, capaz de un poder de conserjería sin rival.
 
 ent-SprayBottleWater = botella de spray
+    .desc = Una botella de spray con tapa desenroscable.
 
 ent-SprayBottleSpaceCleaner = limpiador espacial
     .desc = ¡Limpiador espacial sin espuma de la marca BLAM!!

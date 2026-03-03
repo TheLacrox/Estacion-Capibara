@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0109_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "LockerSecurity",
+      "raw_en": "ent-LockerSecurity =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "GunSafe",
+      "raw_en": "ent-GunSafe =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerClown",
+      "raw_en": "ent-LockerClown =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerMime",
+      "raw_en": "ent-LockerMime =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerRepresentative",
+      "raw_en": "ent-LockerRepresentative =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "ClosetWallOrange",
+      "raw_en": "ent-ClosetWallOrange =\n    .desc = A standard-issue Nanotrasen storage unit, now on walls.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wall_lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wall_lockers.ftl"
+    },
+    {
+      "id": "ClosetWallAtmospherics",
+      "raw_en": "ent-ClosetWallAtmospherics =\n    .desc = A standard-issue Nanotrasen storage unit, now on walls.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wall_lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wall_lockers.ftl"
+    },
+    {
+      "id": "LockerWallMedical",
+      "raw_en": "ent-LockerWallMedical =\n    .desc = A standard-issue Nanotrasen storage unit, now on walls.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wall_lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wall_lockers.ftl"
+    },
+    {
+      "id": "WardrobePrison",
+      "raw_en": "ent-WardrobePrison =\n    .desc = It's a storage unit for standard-issue Nanotrasen attire.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeSecurity",
+      "raw_en": "ent-WardrobeSecurity =\n    .desc = It's a storage unit for standard-issue Nanotrasen attire.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeAtmospherics",
+      "raw_en": "ent-WardrobeAtmospherics =\n    .desc = It's a storage unit for standard-issue Nanotrasen attire.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeCargo",
+      "raw_en": "ent-WardrobeCargo =\n    .desc = It's a storage unit for standard-issue Nanotrasen attire.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeEngineering",
+      "raw_en": "ent-WardrobeEngineering =\n    .desc = A wardrobe packed with stylish yellow clothing.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeMedicalDoctor",
+      "raw_en": "ent-WardrobeMedicalDoctor =\n    .desc = A wardrobe packed with stylish white clothing.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeRobotics",
+      "raw_en": "ent-WardrobeRobotics =\n    .desc = A wardrobe packed with stylish black clothing.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeChemistry",
+      "raw_en": "ent-WardrobeChemistry =\n    .desc = A wardrobe packed with stylish white clothing.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeGenetics",
+      "raw_en": "ent-WardrobeGenetics =\n    .desc = A wardrobe packed with stylish white clothing.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeVirology",
+      "raw_en": "ent-WardrobeVirology =\n    .desc = A wardrobe packed with stylish white clothing.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeScience",
+      "raw_en": "ent-WardrobeScience =\n    .desc = A wardrobe packed with stylish white clothing.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "WardrobeBotanist",
+      "raw_en": "ent-WardrobeBotanist =\n    .desc = A wardrobe packed with stylish green clothing.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/wardrobe.ftl"
+    },
+    {
+      "id": "CrateGenericSteel",
+      "raw_en": "ent-CrateGenericSteel =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CratePlastic",
+      "raw_en": "ent-CratePlastic =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateFreezer",
+      "raw_en": "ent-CrateFreezer =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateHydroponics",
+      "raw_en": "ent-CrateHydroponics =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateMedical",
+      "raw_en": "ent-CrateMedical =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateInternals",
+      "raw_en": "ent-CrateInternals =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateElectrical",
+      "raw_en": "ent-CrateElectrical =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateEngineering",
+      "raw_en": "ent-CrateEngineering =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateScience",
+      "raw_en": "ent-CrateScience =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateSurgery",
+      "raw_en": "ent-CrateSurgery =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateWeb",
+      "raw_en": "ent-CrateWeb =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateSecgear",
+      "raw_en": "ent-CrateSecgear =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateEngineeringSecure",
+      "raw_en": "ent-CrateEngineeringSecure =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateMedicalSecure",
+      "raw_en": "ent-CrateMedicalSecure =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateChemistrySecure",
+      "raw_en": "ent-CrateChemistrySecure =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CratePrivateSecure",
+      "raw_en": "ent-CratePrivateSecure =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateScienceSecure",
+      "raw_en": "ent-CrateScienceSecure =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CratePlasma",
+      "raw_en": "ent-CratePlasma =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateSecure",
+      "raw_en": "ent-CrateSecure =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateHydroSecure",
+      "raw_en": "ent-CrateHydroSecure =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateWeaponSecure",
+      "raw_en": "ent-CrateWeaponSecure =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateCommandSecure",
+      "raw_en": "ent-CrateCommandSecure =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateLivestock",
+      "raw_en": "ent-CrateLivestock =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateRodentCage",
+      "raw_en": "ent-CrateRodentCage =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateLockBoxEngineering",
+      "raw_en": "ent-CrateLockBoxEngineering =\n    .desc = A secure lock box. Funds from its sale will be distributed back to the department. Just remember: Cargo always takes a cut.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateLockBoxMedical",
+      "raw_en": "ent-CrateLockBoxMedical =\n    .desc = A secure lock box. Funds from its sale will be distributed back to the department. Just remember: Cargo always takes a cut.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateLockBoxScience",
+      "raw_en": "ent-CrateLockBoxScience =\n    .desc = A secure lock box. Funds from its sale will be distributed back to the department. Just remember: Cargo always takes a cut.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateLockBoxSecurity",
+      "raw_en": "ent-CrateLockBoxSecurity =\n    .desc = A secure lock box. Funds from its sale will be distributed back to the department. Just remember: Cargo always takes a cut.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateLockBoxService",
+      "raw_en": "ent-CrateLockBoxService =\n    .desc = A secure lock box. Funds from its sale will be distributed back to the department. Just remember: Cargo always takes a cut.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "CrateTrashCart",
+      "raw_en": "ent-CrateTrashCart =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    }
+  ]
+}

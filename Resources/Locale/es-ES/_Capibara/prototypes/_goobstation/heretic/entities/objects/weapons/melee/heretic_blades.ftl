@@ -11,6 +11,7 @@ ent-HereticBladeFleshGhoul = hoja espectral
     .desc = Una hoja en forma de media luna nacida de una criatura con la carne deformada. Agudamente consciente, busca extender a otros el sufrimiento que ha soportado de sus terribles orígenes.
 
 ent-HereticBladeFlesh = hoja sangrienta
+    .desc = Una hoja en forma de media luna nacida de una criatura con la carne deformada. Agudamente consciente, busca extender a otros el sufrimiento que ha soportado de sus terribles orígenes.
 
 ent-HereticBladeLock = hoja-llave
     .desc = Una hoja y una llave. ¿Llave de qué? ¿Qué grandes puertas abre?

@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0103_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "FloorTileItemRCircuit",
+      "raw_en": "ent-FloorTileItemRCircuit =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemGrass",
+      "raw_en": "ent-FloorTileItemGrass =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemGrassJungle",
+      "raw_en": "ent-FloorTileItemGrassJungle =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSnow",
+      "raw_en": "ent-FloorTileItemSnow =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWoodPattern",
+      "raw_en": "ent-FloorTileItemWoodPattern =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemFlesh",
+      "raw_en": "ent-FloorTileItemFlesh =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelMaint",
+      "raw_en": "ent-FloorTileItemSteelMaint =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemGratingMaint",
+      "raw_en": "ent-FloorTileItemGratingMaint =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWeb",
+      "raw_en": "ent-FloorTileItemWeb =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWoodLarge",
+      "raw_en": "ent-FloorTileItemWoodLarge =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "LightTubeCrystalCyan",
+      "raw_en": "ent-LightTubeCrystalCyan =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightTubeCrystalBlue",
+      "raw_en": "ent-LightTubeCrystalBlue =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightTubeCrystalYellow",
+      "raw_en": "ent-LightTubeCrystalYellow =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightTubeCrystalPink",
+      "raw_en": "ent-LightTubeCrystalPink =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightTubeCrystalOrange",
+      "raw_en": "ent-LightTubeCrystalOrange =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightTubeCrystalRed",
+      "raw_en": "ent-LightTubeCrystalRed =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightTubeCrystalGreen",
+      "raw_en": "ent-LightTubeCrystalGreen =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightBulbCrystalCyan",
+      "raw_en": "ent-LightBulbCrystalCyan =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightBulbCrystalBlue",
+      "raw_en": "ent-LightBulbCrystalBlue =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightBulbCrystalYellow",
+      "raw_en": "ent-LightBulbCrystalYellow =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightBulbCrystalPink",
+      "raw_en": "ent-LightBulbCrystalPink =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightBulbCrystalOrange",
+      "raw_en": "ent-LightBulbCrystalOrange =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightBulbCrystalRed",
+      "raw_en": "ent-LightBulbCrystalRed =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "LightBulbCrystalGreen",
+      "raw_en": "ent-LightBulbCrystalGreen =\n    .desc = A high power high energy bulb which has a small colored crystal inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/power/lights.ftl"
+    },
+    {
+      "id": "SprayBottleWater",
+      "raw_en": "ent-SprayBottleWater =\n    .desc = A spray bottle with an unscrewable top.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Janitorial/spray.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/janitorial/spray.ftl"
+    },
+    {
+      "id": "PillDexalin",
+      "raw_en": "ent-PillDexalin =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterDexalin",
+      "raw_en": "ent-PillCanisterDexalin =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillDylovene",
+      "raw_en": "ent-PillDylovene =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterDylovene",
+      "raw_en": "ent-PillCanisterDylovene =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillHyronalin",
+      "raw_en": "ent-PillHyronalin =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterHyronalin",
+      "raw_en": "ent-PillCanisterHyronalin =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillPotassiumIodide",
+      "raw_en": "ent-PillPotassiumIodide =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterPotassiumIodide",
+      "raw_en": "ent-PillCanisterPotassiumIodide =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillIron",
+      "raw_en": "ent-PillIron =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCopper",
+      "raw_en": "ent-PillCopper =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterIron",
+      "raw_en": "ent-PillCanisterIron =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterCopper",
+      "raw_en": "ent-PillCanisterCopper =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillKelotane",
+      "raw_en": "ent-PillKelotane =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterKelotane",
+      "raw_en": "ent-PillCanisterKelotane =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillDermaline",
+      "raw_en": "ent-PillDermaline =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterDermaline",
+      "raw_en": "ent-PillCanisterDermaline =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillSpaceDrugs",
+      "raw_en": "ent-PillSpaceDrugs =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillTricordrazine",
+      "raw_en": "ent-PillTricordrazine =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterTricordrazine",
+      "raw_en": "ent-PillCanisterTricordrazine =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillBicaridine",
+      "raw_en": "ent-PillBicaridine =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterBicaridine",
+      "raw_en": "ent-PillCanisterBicaridine =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCharcoal",
+      "raw_en": "ent-PillCharcoal =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterCharcoal",
+      "raw_en": "ent-PillCanisterCharcoal =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillRomerol",
+      "raw_en": "ent-PillRomerol =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillAmbuzol",
+      "raw_en": "ent-PillAmbuzol =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    }
+  ]
+}

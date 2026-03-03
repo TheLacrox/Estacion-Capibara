@@ -5,3 +5,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ent-ClothingUnderSocksCoder = calcetines linq
+    .desc = ¡Es hora de programar, hermanas!!11!

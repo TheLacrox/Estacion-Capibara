@@ -17,8 +17,10 @@ ent-AugmentStrengthElectronics = electrónica del aumento de fuerza
     .desc = Una placa electrónica que controla un aumento de fuerza.
 
 ent-AugmentToolPanelCasing = carcasa del aumento de panel de herramientas
+    .desc = Puede implantarse en un cuerpo para dar acceso a herramientas específicas. Esta está incompleta.
 
 ent-AugmentToolPanelCables = carcasa del aumento de panel de herramientas con cables
+    .desc = Puede implantarse en un cuerpo para dar acceso a herramientas específicas. Esta está incompleta.
 
 ent-AugmentToolsPanel = aumento de panel de herramientas utilitarias
     .desc = Un panel que puede aumentarse en el brazo de un paciente para darle acceso a su contenido. Este puede contener herramientas básicas.
@@ -33,8 +35,10 @@ ent-AugmentSurgicalPanel = aumento de panel de herramientas quirúrgicas
     .desc = Un panel que puede aumentarse en el brazo de un paciente para darle acceso a su contenido. Este puede contener herramientas quirúrgicas.
 
 ent-AugmentStrengthCasing = carcasa del aumento de fuerza
+    .desc = Puede implantarse en un cuerpo para aumentar la fuerza física. Esta está incompleta.
 
 ent-AugmentStrengthCables = carcasa del aumento de fuerza con cables
+    .desc = Puede implantarse en un cuerpo para aumentar la fuerza física. Esta está incompleta.
 
 ent-ActionAugmentToggleStrength = Alternar aumento de fuerza
     .desc = Aumenta tu daño cuerpo a cuerpo en un 25%, consume 30W mientras está activo.

@@ -107,5 +107,7 @@ ent-RMCPlatformSandstoneCornerSmall = esquina de plataforma de arenisca
     .desc = La esquina de lo que parece ser un trozo de metal elevado, a menudo usado para simular la ilusión de elevación en espacios 2D no euclidianos. Pero tú no sabes eso, eres solo un astronauta con un rifle.
 
 ent-RMCPlatformSandstoneStairRight = escalera de plataforma de arenisca
+    .desc = Una superficie metálica cuadrada sobre cuatro patas.
 
 ent-RMCPlatformSandstoneStairLeft = escalera de plataforma de arenisca
+    .desc = Una superficie metálica cuadrada sobre cuatro patas.

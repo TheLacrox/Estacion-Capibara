@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0043_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "MaterialDurathread1",
+      "raw_en": "ent-MaterialDurathread1 = durathread\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialWoodPlank10",
+      "raw_en": "ent-MaterialWoodPlank10 = wood\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialWoodPlank1",
+      "raw_en": "ent-MaterialWoodPlank1 = wood\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialBiomass1",
+      "raw_en": "ent-MaterialBiomass1 = biomass\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialDiamond1",
+      "raw_en": "ent-MaterialDiamond1 = refined diamond\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialCotton1",
+      "raw_en": "ent-MaterialCotton1 = cotton\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialPyrotton1",
+      "raw_en": "ent-MaterialPyrotton1 = pyrotton\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialBananium1",
+      "raw_en": "ent-MaterialBananium1 = bananium\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialWebSilk25",
+      "raw_en": "ent-MaterialWebSilk25 = silk\n    .desc = A webby material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialWebSilk1",
+      "raw_en": "ent-MaterialWebSilk1 = silk\n    .desc = A webby material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialToothSpaceCarp1",
+      "raw_en": "ent-MaterialToothSpaceCarp1 = space carp tooth\n    .desc = Pretty small but plenty nasty. You like them best when they're not sinking into you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialToothSharkminnow1",
+      "raw_en": "ent-MaterialToothSharkminnow1 = sharkminnow tooth\n    .desc = Looks sharp. Sharp enough to poke someone's eye out. Holy fuck it's big.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialBones1",
+      "raw_en": "ent-MaterialBones1 = bones\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialGoliathHide1",
+      "raw_en": "ent-MaterialGoliathHide1 = goliath hide plates\n    .desc = Pieces of a goliath's rocky hide, these might be able to make your suit a bit more durable to attack from the local fauna.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OreBase",
+      "raw_en": "ent-OreBase = item\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GoldOre1",
+      "raw_en": "ent-GoldOre1 = gold ore\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DiamondOre1",
+      "raw_en": "ent-DiamondOre1 = diamond ore\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SteelOre1",
+      "raw_en": "ent-SteelOre1 = iron ore\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaOre1",
+      "raw_en": "ent-PlasmaOre1 = plasma ore\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SilverOre1",
+      "raw_en": "ent-SilverOre1 = silver ore\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceQuartz1",
+      "raw_en": "ent-SpaceQuartz1 = space quartz\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UraniumOre1",
+      "raw_en": "ent-UraniumOre1 = uranium ore\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BananiumOre1",
+      "raw_en": "ent-BananiumOre1 = bananium ore\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Coal1",
+      "raw_en": "ent-Coal1 = coal\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Coal5",
+      "raw_en": "ent-Coal5 = coal\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Coal10",
+      "raw_en": "ent-Coal10 = coal\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Coal15",
+      "raw_en": "ent-Coal15 = coal\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Salt1",
+      "raw_en": "ent-Salt1 = salt\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartBase",
+      "raw_en": "ent-PartBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/parts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/parts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartRodMetalLingering0",
+      "raw_en": "ent-PartRodMetalLingering0 = metal rod",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/parts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/parts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorTileItemSteelLingering0",
+      "raw_en": "ent-FloorTileItemSteelLingering0 = steel tile\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/parts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/parts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorTileItemWhiteLingering0",
+      "raw_en": "ent-FloorTileItemWhiteLingering0 = white tile\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/parts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/parts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorTileItemDarkLingering0",
+      "raw_en": "ent-FloorTileItemDarkLingering0 = dark tile\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/parts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/parts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShardBase",
+      "raw_en": "ent-ShardBase = item\n    .desc = It's a shard of some unknown material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/shards.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/shards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetGlass",
+      "raw_en": "ent-SheetGlass = glass\n    .desc = A sheet of glass, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/glass.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetGlass10",
+      "raw_en": "ent-SheetGlass10 = glass\n    .desc = A sheet of glass, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/glass.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetGlass1",
+      "raw_en": "ent-SheetGlass1 = glass\n    .desc = A sheet of glass, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/glass.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetGlassLingering0",
+      "raw_en": "ent-SheetGlassLingering0 = glass\n    .desc = A sheet of glass, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/glass.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetRGlassLingering0",
+      "raw_en": "ent-SheetRGlassLingering0 = reinforced glass\n    .desc = A reinforced sheet of glass.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/glass.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetRPGlassLingering0",
+      "raw_en": "ent-SheetRPGlassLingering0 = reinforced plasma glass\n    .desc = A reinforced sheet of translucent plasma.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/glass.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetMetalBase",
+      "raw_en": "ent-SheetMetalBase = item\n    .desc = A sheet of metal, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/metal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetSteelLingering0",
+      "raw_en": "ent-SheetSteelLingering0 = steel\n    .desc = A sheet of metal, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/metal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetPlasteelLingering0",
+      "raw_en": "ent-SheetPlasteelLingering0 = plasteel\n    .desc = A sheet of metal, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/metal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetOtherBase",
+      "raw_en": "ent-SheetOtherBase = item\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/other.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SheetPlasma10",
+      "raw_en": "ent-SheetPlasma10 = plasma\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/other.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialSheetMeat1",
+      "raw_en": "ent-MaterialSheetMeat1 = meat sheet\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/Sheets/other.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperAcquisitionSlipMedical",
+      "raw_en": "ent-PaperAcquisitionSlipMedical = acquisition slip\n    .desc = A slip with order details on it. It can be given to Cargo to complete the order.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/acquisition_slips.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/acquisition_slips.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperAcquisitionSlipScience",
+      "raw_en": "ent-PaperAcquisitionSlipScience = acquisition slip\n    .desc = A slip with order details on it. It can be given to Cargo to complete the order.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/acquisition_slips.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/acquisition_slips.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperAcquisitionSlipSecurity",
+      "raw_en": "ent-PaperAcquisitionSlipSecurity = acquisition slip\n    .desc = A slip with order details on it. It can be given to Cargo to complete the order.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/acquisition_slips.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/acquisition_slips.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperAcquisitionSlipService",
+      "raw_en": "ent-PaperAcquisitionSlipService = acquisition slip\n    .desc = A slip with order details on it. It can be given to Cargo to complete the order.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/acquisition_slips.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/acquisition_slips.ftl",
+      "file_exists": false
+    }
+  ]
+}

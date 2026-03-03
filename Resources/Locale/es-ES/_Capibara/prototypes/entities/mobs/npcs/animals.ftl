@@ -50,6 +50,7 @@ ent-MobKangaroo = canguro
     .desc = Un gran herbívoro marsupial. Tiene poderosas patas traseras, con uñas que parecen largas garras.
 
 ent-MobBoxingKangaroo = canguro boxeador
+    .desc = Un gran herbívoro marsupial. Tiene poderosas patas traseras, con uñas que parecen largas garras.
 
 ent-MobBaseAncestor = ancestro genético
     .desc = El ancestro bípedo genético de... Eh... Algo. Sí, definitivamente hay algo en la estación que desciende de lo que sea que sea esto.
@@ -112,6 +113,7 @@ ent-MobPossum = zarigüeya
     .desc = "¡Oh Zarigüeya! ¡Mi Zarigüeya!" -- Walt Whitman, 1865
 
 ent-MobPossumOld = zarigüeya
+    .desc = "¡Oh Zarigüeya! ¡Mi Zarigüeya!" -- Walt Whitman, 1865
 
 ent-MobRaccoon = mapache
     .desc = ¡Panda de la basura!
@@ -165,6 +167,7 @@ ent-MobReindeerBuck = reno macho
     .desc = ¿Crees que puede tirar de un trineo?
 
 ent-MobReindeerDoe = reno hembra
+    .desc = ¿Crees que puede tirar de un trineo?
 
 ent-MobCorgiSmart = corgi inteligente
     .desc = Un perro inusualmente inteligente.

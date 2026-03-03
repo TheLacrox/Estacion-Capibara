@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0059_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "AlwaysPoweredLightSodium",
+      "raw_en": "ent-AlwaysPoweredLightSodium = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredLEDSmallLight",
+      "raw_en": "ent-PoweredLEDSmallLight = small light\n    .desc = A light fixture. Draws power and produces light when equipped with a light bulb.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredDimSmallLight",
+      "raw_en": "ent-PoweredDimSmallLight = small light\n    .desc = A light fixture. Draws power and produces light when equipped with a light bulb.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredWarmSmallLight",
+      "raw_en": "ent-PoweredWarmSmallLight = small light\n    .desc = A light fixture. Draws power and produces light when equipped with a light bulb.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredSmallLight",
+      "raw_en": "ent-PoweredSmallLight = small light\n    .desc = A light fixture. Draws power and produces light when equipped with a light bulb.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightCyan",
+      "raw_en": "ent-PoweredlightCyan = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredlightCyan",
+      "raw_en": "ent-AlwaysPoweredlightCyan = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightBlue",
+      "raw_en": "ent-PoweredlightBlue = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredlightBlue",
+      "raw_en": "ent-AlwaysPoweredlightBlue = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightYellow",
+      "raw_en": "ent-PoweredlightYellow = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredlightYellow",
+      "raw_en": "ent-AlwaysPoweredlightYellow = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightPink",
+      "raw_en": "ent-PoweredlightPink = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredlightPink",
+      "raw_en": "ent-AlwaysPoweredlightPink = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightOrange",
+      "raw_en": "ent-PoweredlightOrange = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredlightOrange",
+      "raw_en": "ent-AlwaysPoweredlightOrange = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightBlack",
+      "raw_en": "ent-PoweredlightBlack = light\n    .desc = components:",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredlightBlack",
+      "raw_en": "ent-AlwaysPoweredlightBlack = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightRed",
+      "raw_en": "ent-PoweredlightRed = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredlightRed",
+      "raw_en": "ent-AlwaysPoweredlightRed = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightGreen",
+      "raw_en": "ent-PoweredlightGreen = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredlightGreen",
+      "raw_en": "ent-AlwaysPoweredlightGreen = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredStrobeLightPolice",
+      "raw_en": "ent-PoweredStrobeLightPolice = strobe\n    .desc = UH?! Sorry, all I can hear is WEE-OOO-WEE-OOO!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/strobe_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/strobe_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredStrobeLightSiren",
+      "raw_en": "ent-PoweredStrobeLightSiren = strobe\n    .desc = UH?! Sorry, all I can hear is WEE-OOO-WEE-OOO!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/strobe_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/strobe_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredStrobeLightEpsilon",
+      "raw_en": "ent-PoweredStrobeLightEpsilon = strobe\n    .desc = UH?! Sorry, all I can hear is WEE-OOO-WEE-OOO!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/strobe_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/strobe_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyndicateBombFake",
+      "raw_en": "ent-SyndicateBombFake = syndicate bomb\n    .desc = A bomb for Syndicate operatives and agents alike. The real deal, no more training, get to it!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/bombs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/bombs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceVillainArcadeFilled",
+      "raw_en": "ent-SpaceVillainArcadeFilled = space villain arcade\n    .desc = An arcade cabinet.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/Computers/arcades.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/Computers/arcades.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseComputerAiAccess",
+      "raw_en": "ent-BaseComputerAiAccess = computer",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/Computers/base_structurecomputers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/Computers/base_structurecomputers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Gateway",
+      "raw_en": "ent-Gateway = gateway\n    .desc = A mysterious gateway built by unknown hands, it allows for faster than light travel to far-flung locations.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/gateway.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/gateway.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadGeneralTools",
+      "raw_en": "ent-HolopadGeneralTools = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadGeneralCryosleep",
+      "raw_en": "ent-HolopadGeneralCryosleep = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadGeneralTheater",
+      "raw_en": "ent-HolopadGeneralTheater = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadGeneralDisposals",
+      "raw_en": "ent-HolopadGeneralDisposals = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadGeneralEVAStorage",
+      "raw_en": "ent-HolopadGeneralEVAStorage = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadGeneralLounge",
+      "raw_en": "ent-HolopadGeneralLounge = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadGeneralArcade",
+      "raw_en": "ent-HolopadGeneralArcade = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadGeneralEvac",
+      "raw_en": "ent-HolopadGeneralEvac = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadGeneralArrivals",
+      "raw_en": "ent-HolopadGeneralArrivals = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandBridge",
+      "raw_en": "ent-HolopadCommandBridge = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandVault",
+      "raw_en": "ent-HolopadCommandVault = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandBridgeHallway",
+      "raw_en": "ent-HolopadCommandBridgeHallway = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandMeetingRoom",
+      "raw_en": "ent-HolopadCommandMeetingRoom = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandLounge",
+      "raw_en": "ent-HolopadCommandLounge = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandCaptain",
+      "raw_en": "ent-HolopadCommandCaptain = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandHop",
+      "raw_en": "ent-HolopadCommandHop = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandCmo",
+      "raw_en": "ent-HolopadCommandCmo = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandQm",
+      "raw_en": "ent-HolopadCommandQm = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandCe",
+      "raw_en": "ent-HolopadCommandCe = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandRd",
+      "raw_en": "ent-HolopadCommandRd = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandHos",
+      "raw_en": "ent-HolopadCommandHos = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadScienceAnomaly",
+      "raw_en": "ent-HolopadScienceAnomaly = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    }
+  ]
+}

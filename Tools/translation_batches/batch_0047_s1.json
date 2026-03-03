@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0047_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "ChemistryBottleSilicon",
+      "raw_en": "ent-ChemistryBottleSilicon = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleSodium",
+      "raw_en": "ent-ChemistryBottleSodium = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleSugar",
+      "raw_en": "ent-ChemistryBottleSugar = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleSulfur",
+      "raw_en": "ent-ChemistryBottleSulfur = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VestineChemistryVial",
+      "raw_en": "ent-VestineChemistryVial = vial\n    .desc = A small vial.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-vials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-vials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RadiumChemistryVial",
+      "raw_en": "ent-RadiumChemistryVial = vial\n    .desc = A small vial.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-vials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-vials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChlorineChemistryVial",
+      "raw_en": "ent-ChlorineChemistryVial = vial\n    .desc = A small vial.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-vials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-vials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaChemistryVial",
+      "raw_en": "ent-PlasmaChemistryVial = vial\n    .desc = A small vial.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-vials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-vials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBeaker",
+      "raw_en": "ent-BaseBeaker = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBeakerMetallic",
+      "raw_en": "ent-BaseBeakerMetallic = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CryoxadoneBeakerSmall",
+      "raw_en": "ent-CryoxadoneBeakerSmall = beaker\n    .desc = Used to contain a moderate amount of chemicals and solutions.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Syringe",
+      "raw_en": "ent-Syringe = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PrefilledSyringe",
+      "raw_en": "ent-PrefilledSyringe = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SeedBase",
+      "raw_en": "ent-SeedBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Hydroponics/seeds.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Hydroponics/seeds.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FakeCapfruitSeeds",
+      "raw_en": "ent-FakeCapfruitSeeds = packet of capfruit seeds\n    .desc = Is it real, or is it fake?",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Hydroponics/seeds.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Hydroponics/seeds.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WetFloorSignMineExplosive",
+      "raw_en": "ent-WetFloorSignMineExplosive = wet floor sign\n    .desc = Caution! Wet Floor!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Janitorial/janitor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Janitorial/janitor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BigVapor",
+      "raw_en": "ent-BigVapor = vapor",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Janitorial/spray.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Janitorial/spray.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMechEquipment",
+      "raw_en": "ent-BaseMechEquipment = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Mech/mecha_equipment.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Mech/mecha_equipment.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechRipleyBattery",
+      "raw_en": "ent-MechRipleyBattery = Ripley APLU\n    .desc = Versatile and lightly armored, the Ripley is useful for almost any heavy work scenario. The \"APLU\" stands for Autonomous Power Loading Unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechHonkerBattery",
+      "raw_en": "ent-MechHonkerBattery = H.O.N.K.\n    .desc = Produced by \\\"Tyranny of Honk, INC\\\", this exosuit is designed as heavy clown-support. Used to spread the fun and joy of life. HONK!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechHamtrBattery",
+      "raw_en": "ent-MechHamtrBattery = HAMTR\n    .desc = An experimental mech which uses a brain–computer interface to connect directly to a hamsters brain.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechVimBattery",
+      "raw_en": "ent-MechVimBattery = Vim\n    .desc = A miniature exosuit from Nanotrasen, developed to let the irreplaceable station pets live a little longer.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Defibrillator",
+      "raw_en": "ent-Defibrillator = defibrillator\n    .desc = CLEAR! Zzzzat!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/defib.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/defib.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefibrillatorEmpty",
+      "raw_en": "ent-DefibrillatorEmpty = defibrillator\n    .desc = CLEAR! Zzzzat!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/defib.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/defib.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefibrillatorOneHandedUnpowered",
+      "raw_en": "ent-DefibrillatorOneHandedUnpowered = defibrillator\n    .desc = CLEAR! Zzzzat!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/defib.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/defib.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HandheldCrewMonitorEmpty",
+      "raw_en": "ent-HandheldCrewMonitorEmpty = handheld crew monitor\n    .desc = A hand-held crew monitor displaying the status of suit sensors.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/handheld_crew_monitor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/handheld_crew_monitor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseHealingItem",
+      "raw_en": "ent-BaseHealingItem = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Ointment1",
+      "raw_en": "ent-Ointment1 = ointment\n    .desc = Used to treat those nasty burns. Less effective on caustic burns.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Ointment10Lingering",
+      "raw_en": "ent-Ointment10Lingering = ointment\n    .desc = Used to treat those nasty burns. Less effective on caustic burns.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OintmentAdvanced1",
+      "raw_en": "ent-OintmentAdvanced1 = regenerative mesh\n    .desc = Used to treat even the nastiest burns. Also effective against caustic burns.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RegenerativeMeshLingering0",
+      "raw_en": "ent-RegenerativeMeshLingering0 = regenerative mesh\n    .desc = Used to treat even the nastiest burns. Also effective against caustic burns.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Brutepack1",
+      "raw_en": "ent-Brutepack1 = bruise pack\n    .desc = A therapeutic gel pack and bandages designed to treat blunt-force trauma.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Brutepack10Lingering",
+      "raw_en": "ent-Brutepack10Lingering = bruise pack\n    .desc = A therapeutic gel pack and bandages designed to treat blunt-force trauma.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BrutepackAdvanced1",
+      "raw_en": "ent-BrutepackAdvanced1 = medicated suture\n    .desc = A suture soaked in medicine, treats blunt-force trauma effectively and closes wounds.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedicatedSutureLingering0",
+      "raw_en": "ent-MedicatedSutureLingering0 = medicated suture\n    .desc = A suture soaked in medicine, treats blunt-force trauma effectively and closes wounds.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Bloodpack10Lingering",
+      "raw_en": "ent-Bloodpack10Lingering = blood pack\n    .desc = Contains a groundbreaking universal blood replacement created by Nanotrasen's advanced medical science.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Gauze1",
+      "raw_en": "ent-Gauze1 = roll of gauze\n    .desc = Some sterile gauze to wrap around bloody stumps.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Gauze10Lingering",
+      "raw_en": "ent-Gauze10Lingering = roll of gauze\n    .desc = Some sterile gauze to wrap around bloody stumps.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PillCanisterRandom",
+      "raw_en": "ent-PillCanisterRandom = pill canister\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeEphedrine",
+      "raw_en": "ent-SyringeEphedrine = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeInaprovaline",
+      "raw_en": "ent-SyringeInaprovaline = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeTranexamicAcid",
+      "raw_en": "ent-SyringeTranexamicAcid = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeBicaridine",
+      "raw_en": "ent-SyringeBicaridine = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeDermaline",
+      "raw_en": "ent-SyringeDermaline = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeHyronalin",
+      "raw_en": "ent-SyringeHyronalin = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeIpecac",
+      "raw_en": "ent-SyringeIpecac = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeAmbuzol",
+      "raw_en": "ent-SyringeAmbuzol = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeSigynate",
+      "raw_en": "ent-SyringeSigynate = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeEthylredoxrazine",
+      "raw_en": "ent-SyringeEthylredoxrazine = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringePhalanximine",
+      "raw_en": "ent-SyringePhalanximine = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    }
+  ]
+}

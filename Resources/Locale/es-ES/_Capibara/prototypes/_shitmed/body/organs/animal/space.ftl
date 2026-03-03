@@ -7,5 +7,6 @@ ent-OrganGoliathHeart = corazón de goliath
 ent-OrganDragonLungs = pulmones de dragón
 
 ent-OrganLaserEyes = ojos de raptor láser
+    .desc = ¡Te veo!
 
 ent-OrganCobraHeart = glándula de cobra

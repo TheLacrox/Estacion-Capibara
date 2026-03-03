@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0064_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "AnomalyRockBase",
+      "raw_en": "ent-AnomalyRockBase = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyRockUranium",
+      "raw_en": "ent-AnomalyRockUranium = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyRockBananium",
+      "raw_en": "ent-AnomalyRockBananium = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyRockQuartz",
+      "raw_en": "ent-AnomalyRockQuartz = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyRockSilver",
+      "raw_en": "ent-AnomalyRockSilver = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyRockGold",
+      "raw_en": "ent-AnomalyRockGold = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyRockIron",
+      "raw_en": "ent-AnomalyRockIron = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyRockCoal",
+      "raw_en": "ent-AnomalyRockCoal = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyFlora",
+      "raw_en": "ent-AnomalyFlora = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyLiquid",
+      "raw_en": "ent-AnomalyLiquid = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyShadow",
+      "raw_en": "ent-AnomalyShadow = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTech",
+      "raw_en": "ent-AnomalyTech = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalySanta",
+      "raw_en": "ent-AnomalySanta = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapPyroclastic",
+      "raw_en": "ent-AnomalyTrapPyroclastic = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapElectricity",
+      "raw_en": "ent-AnomalyTrapElectricity = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapShadow",
+      "raw_en": "ent-AnomalyTrapShadow = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapIce",
+      "raw_en": "ent-AnomalyTrapIce = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapFlora",
+      "raw_en": "ent-AnomalyTrapFlora = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapBluespace",
+      "raw_en": "ent-AnomalyTrapBluespace = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapFlesh",
+      "raw_en": "ent-AnomalyTrapFlesh = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapGravity",
+      "raw_en": "ent-AnomalyTrapGravity = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapTech",
+      "raw_en": "ent-AnomalyTrapTech = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapRock",
+      "raw_en": "ent-AnomalyTrapRock = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyTrapSanta",
+      "raw_en": "ent-AnomalyTrapSanta = anomaly injector",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomaly_injectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomaly_injectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseAnomalyInertCore",
+      "raw_en": "ent-BaseAnomalyInertCore = anomaly core\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/cores.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirSensorFreezer",
+      "raw_en": "ent-AirSensorFreezer = air sensor\n    .desc = Air sensor. It senses air.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Atmospherics/freezer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Atmospherics/freezer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasVentPumpFreezer",
+      "raw_en": "ent-GasVentPumpFreezer = air vent\n    .desc = Has a valve and a pump attached to it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Atmospherics/freezer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Atmospherics/freezer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasVentScrubberFreezer",
+      "raw_en": "ent-GasVentScrubberFreezer = air scrubber\n    .desc = Has a valve and pump attached to it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Atmospherics/freezer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Atmospherics/freezer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirAlarmFreezer",
+      "raw_en": "ent-AirAlarmFreezer = air alarm\n    .desc = An air alarm. Alarms... air?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Atmospherics/freezer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Atmospherics/freezer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirSensorVox",
+      "raw_en": "ent-AirSensorVox = air sensor\n    .desc = Air sensor. It senses air.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Atmospherics/vox.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Atmospherics/vox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasVentPumpVox",
+      "raw_en": "ent-GasVentPumpVox = air vent\n    .desc = Has a valve and a pump attached to it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Atmospherics/vox.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Atmospherics/vox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasVentScrubberVox",
+      "raw_en": "ent-GasVentScrubberVox = air scrubber\n    .desc = Has a valve and pump attached to it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Atmospherics/vox.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Atmospherics/vox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirAlarmVox",
+      "raw_en": "ent-AirAlarmVox = air alarm\n    .desc = An air alarm. Alarms... air?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Atmospherics/vox.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Atmospherics/vox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpStatueEmpty",
+      "raw_en": "ent-CarpStatueEmpty = carp statue\n    .desc = A lump of precious metals, soon to be a brilliant carp statue.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/xeno.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/xeno.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpStatueEyes",
+      "raw_en": "ent-CarpStatueEyes = carp statue\n    .desc = A statue of one of the brave carp that got us where we are today. This one needs a dentist...",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/xeno.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/xeno.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StairStage",
+      "raw_en": "ent-StairStage = stairs\n    .desc = The greatest invention since rocket-propelled grenades.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/stairs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/stairs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StairWhite",
+      "raw_en": "ent-StairWhite = stairs\n    .desc = The greatest invention since rocket-propelled grenades.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/stairs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/stairs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StairStageWhite",
+      "raw_en": "ent-StairStageWhite = stairs\n    .desc = The greatest invention since rocket-propelled grenades.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/stairs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/stairs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StairDark",
+      "raw_en": "ent-StairDark = stairs\n    .desc = The greatest invention since rocket-propelled grenades.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/stairs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/stairs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StairStageDark",
+      "raw_en": "ent-StairStageDark = stairs\n    .desc = The greatest invention since rocket-propelled grenades.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/stairs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/stairs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StairWood",
+      "raw_en": "ent-StairWood = stairs\n    .desc = The greatest invention since rocket-propelled grenades.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/stairs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/stairs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StairStageWood",
+      "raw_en": "ent-StairStageWood = stairs\n    .desc = The greatest invention since rocket-propelled grenades.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/stairs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/stairs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarrelChemEmpty",
+      "raw_en": "ent-BarrelChemEmpty = chemical barrel\n    .desc = A small metal drum. How tropical.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarrelChemFilledIodine",
+      "raw_en": "ent-BarrelChemFilledIodine = chemical barrel\n    .desc = A small metal drum. How tropical.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarrelChemFilledFluorine",
+      "raw_en": "ent-BarrelChemFilledFluorine = chemical barrel\n    .desc = A small metal drum. How tropical.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarrelChemFilledChlorine",
+      "raw_en": "ent-BarrelChemFilledChlorine = chemical barrel\n    .desc = A small metal drum. How tropical.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarrelChemFilledEthanol",
+      "raw_en": "ent-BarrelChemFilledEthanol = chemical barrel\n    .desc = A small metal drum. How tropical.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarrelChemFilledPhosphorus",
+      "raw_en": "ent-BarrelChemFilledPhosphorus = chemical barrel\n    .desc = A small metal drum. How tropical.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarrelChemFilledMercury",
+      "raw_en": "ent-BarrelChemFilledMercury = chemical barrel\n    .desc = A small metal drum. How tropical.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarrelChemFilledSilicon",
+      "raw_en": "ent-BarrelChemFilledSilicon = chemical barrel\n    .desc = A small metal drum. How tropical.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    }
+  ]
+}

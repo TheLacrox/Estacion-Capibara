@@ -71,5 +71,7 @@ ent-WeaponTemperatureGun = pistola de temperatura # Goobstation
     .desc = Una pistola de energía versátil que dispara proyectiles que modifican la temperatura corporal interna, diseñada originalmente para usarse contra adversarios con trajes duros blindados. Probablemente constituye algún tipo de crimen de guerra en el espacio corporativo. # Goobstation
 
 ent-XenoborgLaserGun = pistola láser de xenoborg
+    .desc = Una pistola láser experimental equipada con una batería nuclear de autocarga.
 
 ent-XenoborgHeavyLaserGun = pistola láser pesada de xenoborg
+    .desc = Una pistola láser experimental equipada con una batería nuclear de autocarga.

@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0104_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "PillAmbuzolPlus",
+      "raw_en": "ent-PillAmbuzolPlus =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "MonkeyCube",
+      "raw_en": "ent-MonkeyCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "KoboldCube",
+      "raw_en": "ent-KoboldCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "CowCube",
+      "raw_en": "ent-CowCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "GoatCube",
+      "raw_en": "ent-GoatCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "MothroachCube",
+      "raw_en": "ent-MothroachCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "MoproachCube",
+      "raw_en": "ent-MoproachCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "MouseCube",
+      "raw_en": "ent-MouseCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "BorgModuleTool",
+      "raw_en": "ent-BorgModuleTool =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleAppraisal",
+      "raw_en": "ent-BorgModuleAppraisal =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleMining",
+      "raw_en": "ent-BorgModuleMining =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleTraversal",
+      "raw_en": "ent-BorgModuleTraversal =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleConstruction",
+      "raw_en": "ent-BorgModuleConstruction =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleRCD",
+      "raw_en": "ent-BorgModuleRCD =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleCustodial",
+      "raw_en": "ent-BorgModuleCustodial =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleCleaning",
+      "raw_en": "ent-BorgModuleCleaning =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleDiagnosis",
+      "raw_en": "ent-BorgModuleDiagnosis =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleTopicals",
+      "raw_en": "ent-BorgModuleTopicals =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleRescue",
+      "raw_en": "ent-BorgModuleRescue =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleChemical",
+      "raw_en": "ent-BorgModuleChemical =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleArtifact",
+      "raw_en": "ent-BorgModuleArtifact =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleAnomaly",
+      "raw_en": "ent-BorgModuleAnomaly =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleService",
+      "raw_en": "ent-BorgModuleService =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleMusique",
+      "raw_en": "ent-BorgModuleMusique =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleGardening",
+      "raw_en": "ent-BorgModuleGardening =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleHarvesting",
+      "raw_en": "ent-BorgModuleHarvesting =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleClowning",
+      "raw_en": "ent-BorgModuleClowning =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleSyndicateWeapon",
+      "raw_en": "ent-BorgModuleSyndicateWeapon =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleSurgery",
+      "raw_en": "ent-BorgModuleSurgery =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleAdvancedSurgery",
+      "raw_en": "ent-BorgModuleAdvancedSurgery =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "CowToolboxFilled",
+      "raw_en": "ent-CowToolboxFilled =\n    .desc = A weirdly shaped box, stocked with... tools?",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/cowtools.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/cowtools.ftl"
+    },
+    {
+      "id": "Fulton1",
+      "raw_en": "ent-Fulton1 =\n    .desc = Used to extract containers, items, or forcibly recruit people into your base of operations.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/fulton.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/fulton.ftl"
+    },
+    {
+      "id": "GlowstickRed",
+      "raw_en": "ent-GlowstickRed =\n    .desc = Useful for raves and emergencies.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/glowstick.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/glowstick.ftl"
+    },
+    {
+      "id": "GlowstickPurple",
+      "raw_en": "ent-GlowstickPurple =\n    .desc = Useful for raves and emergencies.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/glowstick.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/glowstick.ftl"
+    },
+    {
+      "id": "GlowstickYellow",
+      "raw_en": "ent-GlowstickYellow =\n    .desc = Useful for raves and emergencies.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/glowstick.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/glowstick.ftl"
+    },
+    {
+      "id": "GlowstickBlue",
+      "raw_en": "ent-GlowstickBlue =\n    .desc = Useful for raves and emergencies.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/glowstick.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/glowstick.ftl"
+    },
+    {
+      "id": "XenoborgRadioJammer",
+      "raw_en": "ent-XenoborgRadioJammer =\n    .desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jammer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jammer.ftl"
+    },
+    {
+      "id": "JetpackBlue",
+      "raw_en": "ent-JetpackBlue =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackBlueFilled",
+      "raw_en": "ent-JetpackBlueFilled =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackBlack",
+      "raw_en": "ent-JetpackBlack =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackBlackFilled",
+      "raw_en": "ent-JetpackBlackFilled =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackCaptain",
+      "raw_en": "ent-JetpackCaptain =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackCaptainFilled",
+      "raw_en": "ent-JetpackCaptainFilled =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackMiniFilled",
+      "raw_en": "ent-JetpackMiniFilled =\n    .desc = It's a jetpack. It can hold 1.5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackSecurity",
+      "raw_en": "ent-JetpackSecurity =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackSecurityFilled",
+      "raw_en": "ent-JetpackSecurityFilled =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackVoid",
+      "raw_en": "ent-JetpackVoid =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackVoidFilled",
+      "raw_en": "ent-JetpackVoidFilled =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackXenoborg",
+      "raw_en": "ent-JetpackXenoborg =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "MagazineFoamBox",
+      "raw_en": "ent-MagazineFoamBox =\n    .desc = Box containing a 100-round belt of linked .30 rifle rounds, used by light machine guns such as the L6. Intended to hold general-purpose kinetic ammunition.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Magazines/toy.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/magazines/toy.ftl"
+    }
+  ]
+}

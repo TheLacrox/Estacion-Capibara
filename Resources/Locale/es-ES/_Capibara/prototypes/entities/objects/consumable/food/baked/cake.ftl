@@ -8,6 +8,7 @@ ent-FoodCakePlain = tarta
     .desc = Una tarta sencilla, no una mentira.
 
 ent-FoodCakePlainSlice = porción de tarta
+    .desc = Solo una porción de tarta, es suficiente para todos.
 
 ent-FoodCakeCarrot = tarta de zanahoria
     .desc = El postre favorito de cierto conejo travieso.
@@ -31,16 +32,19 @@ ent-FoodCakeOrange = tarta de naranja
     .desc = Una tarta con naranja añadida.
 
 ent-FoodCakeOrangeSlice = porción de tarta de naranja
+    .desc = Solo una porción de tarta, es suficiente para todos.
 
 ent-FoodCakeLime = tarta de lima
     .desc = Una tarta con lima añadida.
 
 ent-FoodCakeLimeSlice = porción de tarta de lima
+    .desc = Solo una porción de tarta, es suficiente para todos.
 
 ent-FoodCakeLemon = tarta de limón
     .desc = Una tarta con limón añadido.
 
 ent-FoodCakeLemonSlice = porción de tarta de limón
+    .desc = Solo una porción de tarta, es suficiente para todos.
 
 ent-FoodCakeLemoon = tarta lemoon
     .desc = Una tarta que representa la luna de la Tierra.
@@ -52,6 +56,7 @@ ent-FoodCakeChocolate = tarta de chocolate
     .desc = Una tarta con chocolate añadido.
 
 ent-FoodCakeChocolateSlice = porción de tarta de chocolate
+    .desc = Solo una porción de tarta, es suficiente para todos.
 
 ent-FoodCakeApple = tarta de manzana
     .desc = Una tarta centrada en manzana.
@@ -75,6 +80,7 @@ ent-FoodCakeChristmas = tarta de navidad
     .desc = Una tarta hecha de navidad.
 
 ent-FoodCakeChristmasSlice = porción de tarta de navidad
+    .desc = Solo una porción de tarta, es suficiente para todos.
 
 ent-FoodCakeBirthday = tarta de cumpleaños
     .desc = Feliz cumpleaños pequeño payaso...

@@ -8,6 +8,7 @@ ent-SupermatterHalberd = alabarda de supermateria
     .desc = El arma venerada de los Ejecutores del Olvido, usada para hacer cumplir la voluntad de la Orden.
 
 ent-GoheiWizard = gohei
+    .desc = Un palo de madera con cintas blancas en la punta. Originalmente usado por sacerdotisas para purificar las cosas. Ahora lo usan los weeaboos de la estación.
 
 ent-StaffTape = bastón de cinta adhesiva
     .desc = Un rollo de cinta firmemente unido a un palo.

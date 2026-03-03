@@ -8,12 +8,16 @@ ent-BoxLightbulb = caja de bombillas
     .desc = Esta caja está diseñada por dentro para que solo quepan tubos y bombillas de luz.
 
 ent-BoxWarmLightbulb = caja de bombillas cálidas
+    .desc = Esta caja está diseñada por dentro para que solo quepan tubos y bombillas de luz.
 
 ent-BoxLighttube = caja de tubos de luz
+    .desc = Esta caja está diseñada por dentro para que solo quepan tubos y bombillas de luz.
 
 ent-BoxLightMixed = caja de luces mixtas
+    .desc = Esta caja está diseñada por dentro para que solo quepan tubos y bombillas de luz.
 
 ent-BoxLighttubeHoliday = caja de tubos de luz navideños
+    .desc = Esta caja está diseñada por dentro para que solo quepan tubos y bombillas de luz.
 
 ent-BoxPDA = caja de PDA
     .desc = Una caja de microcomputadoras PDA de repuesto.
@@ -46,20 +50,28 @@ ent-BoxEncryptionKeyPassenger = caja de claves de cifrado de pasajero
     .desc = Una caja de claves de cifrado de repuesto.
 
 ent-BoxEncryptionKeyCargo = caja de claves de cifrado de carga
+    .desc = Una caja de claves de cifrado de repuesto.
 
 ent-BoxEncryptionKeyEngineering = caja de claves de cifrado de ingeniería
+    .desc = Una caja de claves de cifrado de repuesto.
 
 ent-BoxEncryptionKeyMedicalScience = caja de claves de cifrado de medicina-ciencia
+    .desc = Una caja de claves de cifrado de repuesto.
 
 ent-BoxEncryptionKeyMedical = caja de claves de cifrado médico
+    .desc = Una caja de claves de cifrado de repuesto.
 
 ent-BoxEncryptionKeyRobo = caja de claves de cifrado de robótica
+    .desc = Una caja de claves de cifrado de repuesto.
 
 ent-BoxEncryptionKeyScience = caja de claves de cifrado de ciencia
+    .desc = Una caja de claves de cifrado de repuesto.
 
 ent-BoxEncryptionKeySecurity = caja de claves de cifrado de seguridad
+    .desc = Una caja de claves de cifrado de repuesto.
 
 ent-BoxEncryptionKeyService = caja de claves de cifrado de servicio
+    .desc = Una caja de claves de cifrado de repuesto.
 
 ent-BoxEncryptionKeySyndie = caja de claves de cifrado del sindicato
     .desc = Dos claves de cifrado del sindicato por el precio de una. Miniaturizadas para mayor comodidad.
@@ -71,6 +83,7 @@ ent-BoxCandle = caja de velas
     .desc = Esta caja está moldeada específicamente para solo transportar velas.
 
 ent-BoxCandleSmall = caja de velas pequeñas
+    .desc = Esta caja está moldeada específicamente para solo transportar velas.
 
 ent-BoxDarts = caja de dardos
     .desc = Una caja llena de dardos coloridos.

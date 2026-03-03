@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0111_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "WallSolid",
+      "raw_en": "ent-WallSolid =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallSolidDiagonal",
+      "raw_en": "ent-WallSolidDiagonal =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallUranium",
+      "raw_en": "ent-WallUranium =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallNecropolis",
+      "raw_en": "ent-WallNecropolis =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallMining",
+      "raw_en": "ent-WallMining =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallMiningDiagonal",
+      "raw_en": "ent-WallMiningDiagonal =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallVaultRock",
+      "raw_en": "ent-WallVaultRock =\n    .desc = A mysterious ornate looking wall. There may be ancient dangers inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallVaultSandstone",
+      "raw_en": "ent-WallVaultSandstone =\n    .desc = A mysterious ornate looking wall. There may be ancient dangers inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallBasaltCobblebrick",
+      "raw_en": "ent-WallBasaltCobblebrick =\n    .desc = Stone by stone, perfectly fitted together to form a wall.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallAsteroidCobblebrick",
+      "raw_en": "ent-WallAsteroidCobblebrick =\n    .desc = Stone by stone, perfectly fitted together to form a wall.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallSandCobblebrick",
+      "raw_en": "ent-WallSandCobblebrick =\n    .desc = Stone by stone, perfectly fitted together to form a wall.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallChromiteCobblebrick",
+      "raw_en": "ent-WallChromiteCobblebrick =\n    .desc = Stone by stone, perfectly fitted together to form a wall.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallAndesiteCobblebrick",
+      "raw_en": "ent-WallAndesiteCobblebrick =\n    .desc = Stone by stone, perfectly fitted together to form a wall.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "MiningWindow",
+      "raw_en": "ent-MiningWindow =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/mining.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/mining.ftl"
+    },
+    {
+      "id": "PlasmaWindow",
+      "raw_en": "ent-PlasmaWindow =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/plasma.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/plasma.ftl"
+    },
+    {
+      "id": "PlastitaniumWindowSquareBase",
+      "raw_en": "ent-PlastitaniumWindowSquareBase =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/plastitanium.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/plastitanium.ftl"
+    },
+    {
+      "id": "PlastitaniumWindowIndestructible",
+      "raw_en": "ent-PlastitaniumWindowIndestructible =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/plastitanium.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/plastitanium.ftl"
+    },
+    {
+      "id": "PlastitaniumWindow",
+      "raw_en": "ent-PlastitaniumWindow =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/plastitanium.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/plastitanium.ftl"
+    },
+    {
+      "id": "PlastitaniumWindowDiagonalBase",
+      "raw_en": "ent-PlastitaniumWindowDiagonalBase =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/plastitanium.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/plastitanium.ftl"
+    },
+    {
+      "id": "PlastitaniumWindowDiagonalIndestructible",
+      "raw_en": "ent-PlastitaniumWindowDiagonalIndestructible =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/plastitanium.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/plastitanium.ftl"
+    },
+    {
+      "id": "PlastitaniumWindowDiagonal",
+      "raw_en": "ent-PlastitaniumWindowDiagonal =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/plastitanium.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/plastitanium.ftl"
+    },
+    {
+      "id": "ReinforcedWindow",
+      "raw_en": "ent-ReinforcedWindow =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/reinforced.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/reinforced.ftl"
+    },
+    {
+      "id": "ReinforcedPlasmaWindow",
+      "raw_en": "ent-ReinforcedPlasmaWindow =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/rplasma.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/rplasma.ftl"
+    },
+    {
+      "id": "ReinforcedUraniumWindow",
+      "raw_en": "ent-ReinforcedUraniumWindow =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/ruranium.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/ruranium.ftl"
+    },
+    {
+      "id": "ShuttleWindow",
+      "raw_en": "ent-ShuttleWindow =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/shuttle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/shuttle.ftl"
+    },
+    {
+      "id": "UraniumWindow",
+      "raw_en": "ent-UraniumWindow =\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/uranium.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/windows/uranium.ftl"
+    },
+    {
+      "id": "CardBoxBase",
+      "raw_en": "ent-CardBoxBase =\n    .desc = A cardboard box for storing things.",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/estacaopirata/entities/objects/misc/black_cards.ftl"
+    },
+    {
+      "id": "CardBoxBlack",
+      "raw_en": "ent-CardBoxBlack =\n    .desc = A cardboard box for storing things.",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/estacaopirata/entities/objects/misc/black_cards.ftl"
+    },
+    {
+      "id": "CardBoxNanotrasen",
+      "raw_en": "ent-CardBoxNanotrasen =\n    .desc = A cardboard box for storing things.",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/estacaopirata/entities/objects/misc/nt_cards.ftl"
+    },
+    {
+      "id": "CardBoxSyndicate",
+      "raw_en": "ent-CardBoxSyndicate =\n    .desc = A cardboard box for storing things.",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/estacaopirata/entities/objects/misc/syndicate_cards.ftl"
+    },
+    {
+      "id": "MindRoleObserver",
+      "raw_en": "ent-MindRoleObserver =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhostRoleNeutral",
+      "raw_en": "ent-MindRoleGhostRoleNeutral =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhostRoleFamiliar",
+      "raw_en": "ent-MindRoleGhostRoleFamiliar =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhostRoleFreeAgent",
+      "raw_en": "ent-MindRoleGhostRoleFreeAgent =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhostRoleFreeAgentHarmless",
+      "raw_en": "ent-MindRoleGhostRoleFreeAgentHarmless =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhostRoleSilicon",
+      "raw_en": "ent-MindRoleGhostRoleSilicon =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhostRoleSiliconAntagonist",
+      "raw_en": "ent-MindRoleGhostRoleSiliconAntagonist =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhostRoleSoloAntagonist",
+      "raw_en": "ent-MindRoleGhostRoleSoloAntagonist =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhostRoleTeamAntagonist",
+      "raw_en": "ent-MindRoleGhostRoleTeamAntagonist =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhostRoleTeamAntagonistFlock",
+      "raw_en": "ent-MindRoleGhostRoleTeamAntagonistFlock =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleJob",
+      "raw_en": "ent-MindRoleJob =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleSiliconBrain",
+      "raw_en": "ent-MindRoleSiliconBrain =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleDragon",
+      "raw_en": "ent-MindRoleDragon =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleNinja",
+      "raw_en": "ent-MindRoleNinja =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleParadoxClone",
+      "raw_en": "ent-MindRoleParadoxClone =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleNukeops",
+      "raw_en": "ent-MindRoleNukeops =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleNukeopsMedic",
+      "raw_en": "ent-MindRoleNukeopsMedic =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleNukeopsCommander",
+      "raw_en": "ent-MindRoleNukeopsCommander =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleHeadRevolutionary",
+      "raw_en": "ent-MindRoleHeadRevolutionary =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleRevolutionary",
+      "raw_en": "ent-MindRoleRevolutionary =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    }
+  ]
+}

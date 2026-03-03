@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0068_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "IronRockQuartz",
+      "raw_en": "ent-IronRockQuartz = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockSilver",
+      "raw_en": "ent-IronRockSilver = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockIron",
+      "raw_en": "ent-IronRockIron = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockUranium",
+      "raw_en": "ent-IronRockUranium = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockBananium",
+      "raw_en": "ent-IronRockBananium = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockSalt",
+      "raw_en": "ent-IronRockSalt = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockArtifactFragment",
+      "raw_en": "ent-IronRockArtifactFragment = ironrock\n    .desc = A rock wall. What's that sticking out of it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockGibtonite",
+      "raw_en": "ent-IronRockGibtonite = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockDiamond",
+      "raw_en": "ent-IronRockDiamond = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockCoal",
+      "raw_en": "ent-WallRockCoal = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockGold",
+      "raw_en": "ent-WallRockGold = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockDiamond",
+      "raw_en": "ent-WallRockDiamond = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockPlasma",
+      "raw_en": "ent-WallRockPlasma = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockQuartz",
+      "raw_en": "ent-WallRockQuartz = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSilver",
+      "raw_en": "ent-WallRockSilver = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockTin",
+      "raw_en": "ent-WallRockTin = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockUranium",
+      "raw_en": "ent-WallRockUranium = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBananium",
+      "raw_en": "ent-WallRockBananium = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockArtifactFragment",
+      "raw_en": "ent-WallRockArtifactFragment = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSalt",
+      "raw_en": "ent-WallRockSalt = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltCoal",
+      "raw_en": "ent-WallRockBasaltCoal = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltGold",
+      "raw_en": "ent-WallRockBasaltGold = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltDiamond",
+      "raw_en": "ent-WallRockBasaltDiamond = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltPlasma",
+      "raw_en": "ent-WallRockBasaltPlasma = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltQuartz",
+      "raw_en": "ent-WallRockBasaltQuartz = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltSilver",
+      "raw_en": "ent-WallRockBasaltSilver = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltTin",
+      "raw_en": "ent-WallRockBasaltTin = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltUranium",
+      "raw_en": "ent-WallRockBasaltUranium = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltBananium",
+      "raw_en": "ent-WallRockBasaltBananium = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltArtifactFragment",
+      "raw_en": "ent-WallRockBasaltArtifactFragment = basalt\n    .desc = A rock wall. What's that sticking out of it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltSalt",
+      "raw_en": "ent-WallRockBasaltSalt = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowCoal",
+      "raw_en": "ent-WallRockSnowCoal = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowGold",
+      "raw_en": "ent-WallRockSnowGold = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowDiamond",
+      "raw_en": "ent-WallRockSnowDiamond = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowPlasma",
+      "raw_en": "ent-WallRockSnowPlasma = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowQuartz",
+      "raw_en": "ent-WallRockSnowQuartz = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowSilver",
+      "raw_en": "ent-WallRockSnowSilver = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowTin",
+      "raw_en": "ent-WallRockSnowTin = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowUranium",
+      "raw_en": "ent-WallRockSnowUranium = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowBananium",
+      "raw_en": "ent-WallRockSnowBananium = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowArtifactFragment",
+      "raw_en": "ent-WallRockSnowArtifactFragment = snowdrift\n    .desc = A rock wall. What's that sticking out of it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowSalt",
+      "raw_en": "ent-WallRockSnowSalt = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSandCoal",
+      "raw_en": "ent-WallRockSandCoal = sandstone\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSandGold",
+      "raw_en": "ent-WallRockSandGold = sandstone\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSandDiamond",
+      "raw_en": "ent-WallRockSandDiamond = sandstone\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSandPlasma",
+      "raw_en": "ent-WallRockSandPlasma = sandstone\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSandQuartz",
+      "raw_en": "ent-WallRockSandQuartz = sandstone\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSandSilver",
+      "raw_en": "ent-WallRockSandSilver = sandstone\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSandTin",
+      "raw_en": "ent-WallRockSandTin = sandstone\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSandUranium",
+      "raw_en": "ent-WallRockSandUranium = sandstone\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    }
+  ]
+}

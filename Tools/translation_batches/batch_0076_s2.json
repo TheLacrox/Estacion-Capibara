@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0076_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "OrganOniLiver",
+      "raw_en": "ent-OrganOniLiver =\n    .desc = Pairing suggestion: chianti and fava beans.",
+      "source_yaml": "Resources/Prototypes/_DV/Body/Organs/oni.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/body/organs/oni.ftl"
+    },
+    {
+      "id": "CosmicGlyphTruth",
+      "raw_en": "ent-CosmicGlyphTruth =\n    .desc = A strange, otherworldly marking.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/glyphs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/glyphs.ftl"
+    },
+    {
+      "id": "CosmicGlyphKnowledge",
+      "raw_en": "ent-CosmicGlyphKnowledge =\n    .desc = A strange, otherworldly marking.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/glyphs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/glyphs.ftl"
+    },
+    {
+      "id": "CosmicGlyphCessation",
+      "raw_en": "ent-CosmicGlyphCessation =\n    .desc = A strange, otherworldly marking.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/glyphs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/glyphs.ftl"
+    },
+    {
+      "id": "CosmicGlyphBlades",
+      "raw_en": "ent-CosmicGlyphBlades =\n    .desc = A strange, otherworldly marking.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/glyphs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/glyphs.ftl"
+    },
+    {
+      "id": "CosmicGlyphWarding",
+      "raw_en": "ent-CosmicGlyphWarding =\n    .desc = A strange, otherworldly marking.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/glyphs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/glyphs.ftl"
+    },
+    {
+      "id": "CosmicGlyphProjection",
+      "raw_en": "ent-CosmicGlyphProjection =\n    .desc = A strange, otherworldly marking.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/glyphs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/glyphs.ftl"
+    },
+    {
+      "id": "MindRoleCosmicCult",
+      "raw_en": "ent-MindRoleCosmicCult =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleCosmicAscended",
+      "raw_en": "ent-MindRoleCosmicAscended =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/mind_roles.ftl"
+    },
+    {
+      "id": "MaterialCosmicCultEntropy5",
+      "raw_en": "ent-MaterialCosmicCultEntropy5 =\n    .desc = A solidified mote of entropic essence. Feels numbing to the touch.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Objects/entropymote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/objects/entropymote.ftl"
+    },
+    {
+      "id": "ProjectileRogueCosmicNova",
+      "raw_en": "ent-ProjectileRogueCosmicNova =\n    .desc = Uh oh.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/projectiles.ftl"
+    },
+    {
+      "id": "CosmicChair",
+      "raw_en": "ent-CosmicChair =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Tileset/structures.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/tileset/structures.ftl"
+    },
+    {
+      "id": "WallCosmicCultTrimmed",
+      "raw_en": "ent-WallCosmicCultTrimmed =\n    .desc = A strange-looking wall. Staring at it for too long instills a sense of discomfort.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Tileset/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/tileset/walls.ftl"
+    },
+    {
+      "id": "WindowCosmicCultDark",
+      "raw_en": "ent-WindowCosmicCultDark =\n    .desc = An odd-looking window. Something about it unnerves you.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Tileset/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/tileset/walls.ftl"
+    },
+    {
+      "id": "WindowCosmicCultDiagonalDark",
+      "raw_en": "ent-WindowCosmicCultDiagonalDark =\n    .desc = An odd-looking window. Something about it unnerves you.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Tileset/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/cosmiccult/tileset/walls.ftl"
+    },
+    {
+      "id": "TapeRecorderTranscript",
+      "raw_en": "ent-TapeRecorderTranscript =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_DV/Entities/Objects/Misc/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_dv/entities/objects/misc/paper.ftl"
+    },
+    {
+      "id": "OrganPlasmamanEyes",
+      "raw_en": "ent-OrganPlasmamanEyes =\n    .desc = I see you!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/plasmaman.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/body/organs/plasmaman.ftl"
+    },
+    {
+      "id": "OrganPlasmamanLiver",
+      "raw_en": "ent-OrganPlasmamanLiver =\n    .desc = Pairing suggestion: chianti and fava beans.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/plasmaman.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/body/organs/plasmaman.ftl"
+    },
+    {
+      "id": "OrganPlasmamanTongue",
+      "raw_en": "ent-OrganPlasmamanTongue =\n    .desc = A fleshy muscle mostly used for lying.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/plasmaman.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/body/organs/plasmaman.ftl"
+    },
+    {
+      "id": "OrganPlasmamanKidneys",
+      "raw_en": "ent-OrganPlasmamanKidneys =\n    .desc = Filters toxins from the bloodstream.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/plasmaman.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/body/organs/plasmaman.ftl"
+    },
+    {
+      "id": "OrganPlasmamanBrain",
+      "raw_en": "ent-OrganPlasmamanBrain =\n    .desc = The source of incredible, unending intelligence. Honk.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/plasmaman.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/body/organs/plasmaman.ftl"
+    },
+    {
+      "id": "PlasmaTankFilledInternals",
+      "raw_en": "ent-PlasmaTankFilledInternals =\n    .desc = Contains dangerous plasma. Do not inhale, unless you're a plasmaman. Extremely flammable. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Catalog/Fills/Items/gas_tanks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/catalog/fills/items/gas_tanks.ftl"
+    },
+    {
+      "id": "BulletGrenadeSlug",
+      "raw_en": "ent-BulletGrenadeSlug =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "PelletShotgunBirdshot",
+      "raw_en": "ent-PelletShotgunBirdshot =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/entities/objects/weapons/guns/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletShotgun00Buckshot",
+      "raw_en": "ent-PelletShotgun00Buckshot =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/entities/objects/weapons/guns/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletShotgun0000Buckshot",
+      "raw_en": "ent-PelletShotgun0000Buckshot =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/entities/objects/weapons/guns/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "BaseTranslatorImplanter",
+      "raw_en": "ent-BaseTranslatorImplanter =\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/objects/misc/translator_implanters.ftl"
+    },
+    {
+      "id": "MindRoleShadowling",
+      "raw_en": "ent-MindRoleShadowling =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Roles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/roles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleThrall",
+      "raw_en": "ent-MindRoleThrall =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Roles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_einsteinengines/roles/mind_roles.ftl"
+    },
+    {
+      "id": "IngotPlutonium",
+      "raw_en": "ent-IngotPlutonium =\n    .desc = A heavy metal ingot stamped with the Nanotrasen logo.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Objects/Materials/ingots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/objects/materials/ingots.ftl"
+    },
+    {
+      "id": "IngotPlutonium1",
+      "raw_en": "ent-IngotPlutonium1 =\n    .desc = A heavy metal ingot stamped with the Nanotrasen logo.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Objects/Materials/ingots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/objects/materials/ingots.ftl"
+    },
+    {
+      "id": "NuclearReactorSmall",
+      "raw_en": "ent-NuclearReactorSmall =\n    .desc = A nuclear reactor vessel, with slots for fuel rods and other components. Hey wait, didn't one of these explode once?",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/nuclear_reactor.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/nuclear_reactor.ftl"
+    },
+    {
+      "id": "CerenkiteReactorFuelRod",
+      "raw_en": "ent-CerenkiteReactorFuelRod =\n    .desc = A fuel rod for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "UraniumReactorFuelRod",
+      "raw_en": "ent-UraniumReactorFuelRod =\n    .desc = A fuel rod for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "PlutoniumReactorFuelRod",
+      "raw_en": "ent-PlutoniumReactorFuelRod =\n    .desc = A fuel rod for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "PlasmaReactorFuelRod",
+      "raw_en": "ent-PlasmaReactorFuelRod =\n    .desc = A fuel rod for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "UraniumGlassReactorFuelRod",
+      "raw_en": "ent-UraniumGlassReactorFuelRod =\n    .desc = A fuel rod for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "BohrumReactorControlRod",
+      "raw_en": "ent-BohrumReactorControlRod =\n    .desc = A control rod assembly for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "SteelReactorControlRod",
+      "raw_en": "ent-SteelReactorControlRod =\n    .desc = A control rod assembly for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "GoldReactorControlRod",
+      "raw_en": "ent-GoldReactorControlRod =\n    .desc = A control rod assembly for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "SilverReactorControlRod",
+      "raw_en": "ent-SilverReactorControlRod =\n    .desc = A control rod assembly for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "BrassReactorControlRod",
+      "raw_en": "ent-BrassReactorControlRod =\n    .desc = A control rod assembly for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "PlasteelReactorControlRod",
+      "raw_en": "ent-PlasteelReactorControlRod =\n    .desc = A control rod assembly for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "GlassReactorControlRod",
+      "raw_en": "ent-GlassReactorControlRod =\n    .desc = A control rod assembly for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "PlasmaGlassReactorControlRod",
+      "raw_en": "ent-PlasmaGlassReactorControlRod =\n    .desc = A control rod assembly for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "DiamondReactorControlRod",
+      "raw_en": "ent-DiamondReactorControlRod =\n    .desc = A control rod assembly for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "SteelReactorGasChannel",
+      "raw_en": "ent-SteelReactorGasChannel =\n    .desc = A gas channel for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "GoldReactorGasChannel",
+      "raw_en": "ent-GoldReactorGasChannel =\n    .desc = A gas channel for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "SilverReactorGasChannel",
+      "raw_en": "ent-SilverReactorGasChannel =\n    .desc = A gas channel for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "BrassReactorGasChannel",
+      "raw_en": "ent-BrassReactorGasChannel =\n    .desc = A gas channel for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    }
+  ]
+}

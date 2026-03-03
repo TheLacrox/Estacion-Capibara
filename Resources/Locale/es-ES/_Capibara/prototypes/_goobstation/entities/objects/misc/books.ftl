@@ -8,3 +8,4 @@ ent-AdvMimeryVol2 = Guía de mímica avanzada vol 2
     .desc = No hay ninguna palabra escrita...
 
 ent-BoxAdvMimery = caja de la serie Guía de mímica avanzada
+    .desc = Una caja de cartón para guardar cosas.

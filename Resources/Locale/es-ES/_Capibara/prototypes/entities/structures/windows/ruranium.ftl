@@ -1,4 +1,5 @@
 ent-ReinforcedUraniumWindow = ventana de uranio reforzada
+    .desc = No ensucies el cristal de ahí abajo.
 
 ent-UraniumReinforcedWindowDirectional = ventana direccional de uranio reforzada
     .desc = No ensucies el cristal de ahí abajo.

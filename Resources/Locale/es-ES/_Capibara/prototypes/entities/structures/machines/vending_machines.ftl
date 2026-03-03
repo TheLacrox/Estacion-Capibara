@@ -128,6 +128,7 @@ ent-VendingBarDrobe = BarDrobe
     .desc = ¡Una expendedora elegante para dispensar la ropa de bar más estilosa!
 
 ent-VendingMachineChapel = PietyVend
+    .desc = ¡Solo añade capitalismo!
 
 ent-VendingMachineCargoDrobe = CargoDrobe
     .desc = Una máquina expendedora muy avanzada para comprar ropa relacionada con carga de forma gratuita.

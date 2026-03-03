@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0046_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "JugLithium",
+      "raw_en": "ent-JugLithium = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugSodium",
+      "raw_en": "ent-JugSodium = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugPotassium",
+      "raw_en": "ent-JugPotassium = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugRadium",
+      "raw_en": "ent-JugRadium = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugIron",
+      "raw_en": "ent-JugIron = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugCopper",
+      "raw_en": "ent-JugCopper = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugGold",
+      "raw_en": "ent-JugGold = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugMercury",
+      "raw_en": "ent-JugMercury = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugSilver",
+      "raw_en": "ent-JugSilver = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugEthanol",
+      "raw_en": "ent-JugEthanol = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugSugar",
+      "raw_en": "ent-JugSugar = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugNitrogen",
+      "raw_en": "ent-JugNitrogen = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugOxygen",
+      "raw_en": "ent-JugOxygen = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugPlantBGone",
+      "raw_en": "ent-JugPlantBGone = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugWeldingFuel",
+      "raw_en": "ent-JugWeldingFuel = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugHolyWater",
+      "raw_en": "ent-JugHolyWater = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryEmptyBottle01",
+      "raw_en": "ent-ChemistryEmptyBottle01 = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryEmptyBottle02",
+      "raw_en": "ent-ChemistryEmptyBottle02 = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryEmptyBottle03",
+      "raw_en": "ent-ChemistryEmptyBottle03 = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryEmptyBottle04",
+      "raw_en": "ent-ChemistryEmptyBottle04 = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseChemistryBottleFilled",
+      "raw_en": "ent-BaseChemistryBottleFilled = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleEpinephrine",
+      "raw_en": "ent-ChemistryBottleEpinephrine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleRobustHarvest",
+      "raw_en": "ent-ChemistryBottleRobustHarvest = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleEZNutrient",
+      "raw_en": "ent-ChemistryBottleEZNutrient = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleLeft4Zed",
+      "raw_en": "ent-ChemistryBottleLeft4Zed = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleUnstableMutagen",
+      "raw_en": "ent-ChemistryBottleUnstableMutagen = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleNocturine",
+      "raw_en": "ent-ChemistryBottleNocturine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleEphedrine",
+      "raw_en": "ent-ChemistryBottleEphedrine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleOmnizine",
+      "raw_en": "ent-ChemistryBottleOmnizine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleCognizine",
+      "raw_en": "ent-ChemistryBottleCognizine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottlePax",
+      "raw_en": "ent-ChemistryBottlePax = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleMuteToxin",
+      "raw_en": "ent-ChemistryBottleMuteToxin = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleLead",
+      "raw_en": "ent-ChemistryBottleLead = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleToxin",
+      "raw_en": "ent-ChemistryBottleToxin = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleAluminium",
+      "raw_en": "ent-ChemistryBottleAluminium = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleCarbon",
+      "raw_en": "ent-ChemistryBottleCarbon = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleChlorine",
+      "raw_en": "ent-ChemistryBottleChlorine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleCopper",
+      "raw_en": "ent-ChemistryBottleCopper = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleEthanol",
+      "raw_en": "ent-ChemistryBottleEthanol = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleFluorine",
+      "raw_en": "ent-ChemistryBottleFluorine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleHydrogen",
+      "raw_en": "ent-ChemistryBottleHydrogen = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleIodine",
+      "raw_en": "ent-ChemistryBottleIodine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleIron",
+      "raw_en": "ent-ChemistryBottleIron = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleLithium",
+      "raw_en": "ent-ChemistryBottleLithium = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleMercury",
+      "raw_en": "ent-ChemistryBottleMercury = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleNitrogen",
+      "raw_en": "ent-ChemistryBottleNitrogen = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleOxygen",
+      "raw_en": "ent-ChemistryBottleOxygen = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottlePhosphorus",
+      "raw_en": "ent-ChemistryBottlePhosphorus = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottlePotassium",
+      "raw_en": "ent-ChemistryBottlePotassium = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleRadium",
+      "raw_en": "ent-ChemistryBottleRadium = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemistry-bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemistry-bottles.ftl",
+      "file_exists": false
+    }
+  ]
+}

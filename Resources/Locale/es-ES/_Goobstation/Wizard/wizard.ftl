@@ -37,3 +37,5 @@ lich-greeting =
     Eres un lich.
 
 objective-condition-wizard-alive-title = Asegurarte de que el mago {$targetName} siga con vida.
+
+ent-SpawnPointWizard = punto de aparición de rol fantasma

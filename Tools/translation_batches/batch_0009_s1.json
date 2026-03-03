@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0009_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "MailSmoke",
+      "raw_en": "ent-MailSmoke = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailPAI",
+      "raw_en": "ent-MailPAI = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailPlushie",
+      "raw_en": "ent-MailPlushie = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailNFVagueThreat",
+      "raw_en": "ent-MailNFVagueThreat = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailFigurines",
+      "raw_en": "ent-MailFigurines = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailPlushieThrongler",
+      "raw_en": "ent-MailPlushieThrongler = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailInstrumentSmall",
+      "raw_en": "ent-MailInstrumentSmall = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailCritters",
+      "raw_en": "ent-MailCritters = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailFlowers",
+      "raw_en": "ent-MailFlowers = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailCrayons",
+      "raw_en": "ent-MailCrayons = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailLowMoney",
+      "raw_en": "ent-MailLowMoney = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailMedicalBasicSupplies",
+      "raw_en": "ent-MailMedicalBasicSupplies = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_medical.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_medical.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailMedicalMedicinePills",
+      "raw_en": "ent-MailMedicalMedicinePills = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_medical.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_medical.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailMedicalEmergencyPens",
+      "raw_en": "ent-MailMedicalEmergencyPens = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_medical.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_medical.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailMedicalStabilizers",
+      "raw_en": "ent-MailMedicalStabilizers = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_medical.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_medical.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailMedicalChemistrySupplement",
+      "raw_en": "ent-MailMedicalChemistrySupplement = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_medical.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_medical.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailScienceRareMaterials",
+      "raw_en": "ent-MailScienceRareMaterials = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_science.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_science.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailRestraints",
+      "raw_en": "ent-MailRestraints = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_security.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailSecurityDonuts",
+      "raw_en": "ent-MailSecurityDonuts = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_security.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailSecurityFlashlight",
+      "raw_en": "ent-MailSecurityFlashlight = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_security.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailSecurityNonlethalsKit",
+      "raw_en": "ent-MailSecurityNonlethalsKit = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_security.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailSecuritySpaceLaw",
+      "raw_en": "ent-MailSecuritySpaceLaw = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_security.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailWardenCrowdControl",
+      "raw_en": "ent-MailWardenCrowdControl = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_security.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailDetectiveForensicSupplement",
+      "raw_en": "ent-MailDetectiveForensicSupplement = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_security.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailBooksGuide",
+      "raw_en": "ent-MailBooksGuide = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailBooksAuthor",
+      "raw_en": "ent-MailBooksAuthor = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailLuxuryPen",
+      "raw_en": "ent-MailLuxuryPen = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailWitchery",
+      "raw_en": "ent-MailWitchery = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailBikehorn",
+      "raw_en": "ent-MailBikehorn = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailClownHonkSupplement",
+      "raw_en": "ent-MailClownHonkSupplement = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailMimeArtsCrafts",
+      "raw_en": "ent-MailMimeArtsCrafts = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailMimeBottleOfNothing",
+      "raw_en": "ent-MailMimeBottleOfNothing = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailMutatedProduce",
+      "raw_en": "ent-MailMutatedProduce = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailBotanistChemicalBottles",
+      "raw_en": "ent-MailBotanistChemicalBottles = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailBotanistSeeds",
+      "raw_en": "ent-MailBotanistSeeds = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailKudzuDeterrent",
+      "raw_en": "ent-MailKudzuDeterrent = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailSoaps",
+      "raw_en": "ent-MailSoaps = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailSoapsOmega",
+      "raw_en": "ent-MailSoapsOmega = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailInstrumentLarge",
+      "raw_en": "ent-MailInstrumentLarge = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_service.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailSignallerKit",
+      "raw_en": "ent-MailSignallerKit = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_tools.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_tools.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailFlashlight",
+      "raw_en": "ent-MailFlashlight = mail",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_tools.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_tools.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailKnife",
+      "raw_en": "ent-MailKnife = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_weapons.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_weapons.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailSword",
+      "raw_en": "ent-MailSword = package",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mail/mail_weapons.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mail/mail_weapons.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechRipley2Battery",
+      "raw_en": "ent-MechRipley2Battery = Ripley APLU MK-II\n    .desc = The \"MK-II\" has a pressurized cabin for space operations, but the added weight has slowed it down.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechClarkeBattery",
+      "raw_en": "ent-MechClarkeBattery = Clarke\n    .desc = A fast-moving mech for space travel. It has built-in trusts.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechHonkerFilled",
+      "raw_en": "ent-MechHonkerFilled = H.O.N.K.\n    .desc = Produced by \\\"Tyranny of Honk, INC\\\", this exosuit is designed as heavy clown-support. Used to spread the fun and joy of life. HONK!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechGygaxBattery",
+      "raw_en": "ent-MechGygaxBattery = Gygax\n    .desc = While lightly armored, the Gygax has incredible mobility thanks to its ability that lets it smash through walls at high speeds.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechDurandBattery",
+      "raw_en": "ent-MechDurandBattery = Durand\n    .desc = A slow but beefy combat exosuit that is extra scary in confined spaces due to its punches. Xenos hate it!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechMarauderBattery",
+      "raw_en": "ent-MechMarauderBattery = Marauder\n    .desc = Looks like we're all saved.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechMarauderFilled",
+      "raw_en": "ent-MechMarauderFilled = Marauder\n    .desc = Looks like we're all saved.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    }
+  ]
+}

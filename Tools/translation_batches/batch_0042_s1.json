@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0042_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "DefaultStationBeaconDorms",
+      "raw_en": "ent-DefaultStationBeaconDorms = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconToolRoom",
+      "raw_en": "ent-DefaultStationBeaconToolRoom = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconDisposals",
+      "raw_en": "ent-DefaultStationBeaconDisposals = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconCryosleep",
+      "raw_en": "ent-DefaultStationBeaconCryosleep = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconEscapePod",
+      "raw_en": "ent-DefaultStationBeaconEscapePod = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconEscapePodN",
+      "raw_en": "ent-DefaultStationBeaconEscapePodN = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconEscapePodNE",
+      "raw_en": "ent-DefaultStationBeaconEscapePodNE = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconEscapePodE",
+      "raw_en": "ent-DefaultStationBeaconEscapePodE = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconEscapePodSE",
+      "raw_en": "ent-DefaultStationBeaconEscapePodSE = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconEscapePodS",
+      "raw_en": "ent-DefaultStationBeaconEscapePodS = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconEscapePodSW",
+      "raw_en": "ent-DefaultStationBeaconEscapePodSW = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconEscapePodW",
+      "raw_en": "ent-DefaultStationBeaconEscapePodW = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconEscapePodNW",
+      "raw_en": "ent-DefaultStationBeaconEscapePodNW = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconVox",
+      "raw_en": "ent-DefaultStationBeaconVox = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HandheldStationMapUnpowered",
+      "raw_en": "ent-HandheldStationMapUnpowered = station map\n    .desc = Displays a readout of the current station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_map.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_map.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReinforcementRadioSyndicateAncestorNukeops",
+      "raw_en": "ent-ReinforcementRadioSyndicateAncestorNukeops = syndicate genetic ancestor reinforcement radio\n    .desc = Calls in a specially trained ancestor of your choosing to assist you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Syndicate_Gadgets/reinforcement_teleporter.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Syndicate_Gadgets/reinforcement_teleporter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DartBlue",
+      "raw_en": "ent-DartBlue = dart\n    .desc = Light throwing dart for playing darts. Don't get in the eye!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/darts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/darts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DartPurple",
+      "raw_en": "ent-DartPurple = dart\n    .desc = Light throwing dart for playing darts. Don't get in the eye!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/darts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/darts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DartYellow",
+      "raw_en": "ent-DartYellow = dart\n    .desc = Light throwing dart for playing darts. Don't get in the eye!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/darts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/darts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HypoDart",
+      "raw_en": "ent-HypoDart = dart\n    .desc = Light throwing dart for playing darts. Don't get in the eye!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/darts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/darts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseDice",
+      "raw_en": "ent-BaseDice = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/dice.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/dice.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UplinkLighterBox",
+      "raw_en": "ent-UplinkLighterBox = Novelty lighter mystery box\n    .desc = A box of discontinued promotional lighters, many of which have since been declared \"contraband\".",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/figurine_boxes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/figurine_boxes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ImmovableRodDespawn",
+      "raw_en": "ent-ImmovableRodDespawn = immovable rod\n    .desc = You can sense that it's hungry. That's usually a bad sign.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/immovable_rod.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/immovable_rod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ImmovableRodSlow",
+      "raw_en": "ent-ImmovableRodSlow = immovable rod\n    .desc = You can sense that it's hungry. That's usually a bad sign.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/immovable_rod.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/immovable_rod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ImmovableRodKeepTiles",
+      "raw_en": "ent-ImmovableRodKeepTiles = immovable rod\n    .desc = You can sense that it's hungry. That's usually a bad sign.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/immovable_rod.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/immovable_rod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ImmovableRodWizard",
+      "raw_en": "ent-ImmovableRodWizard = immovable rod\n    .desc = You can sense that it's hungry. That's usually a bad sign.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/immovable_rod.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/immovable_rod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ImmovableRodKeepTilesStill",
+      "raw_en": "ent-ImmovableRodKeepTilesStill = immovable rod\n    .desc = You can sense that it's hungry. That's usually a bad sign.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/immovable_rod.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/immovable_rod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseHandheldInstrument",
+      "raw_en": "ent-BaseHandheldInstrument = item\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/base_instruments.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/Instruments/base_instruments.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseKeyedInstrument",
+      "raw_en": "ent-BaseKeyedInstrument = item\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instrument_keyed.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/Instruments/instrument_keyed.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBrassInstrument",
+      "raw_en": "ent-BaseBrassInstrument = item\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instruments_brass.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/Instruments/instruments_brass.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasePercussionInstrument",
+      "raw_en": "ent-BasePercussionInstrument = item\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instruments_percussion.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/Instruments/instruments_percussion.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseStringInstrument",
+      "raw_en": "ent-BaseStringInstrument = item\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instruments_string.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/Instruments/instruments_string.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseStringInstrumentClothing",
+      "raw_en": "ent-BaseStringInstrumentClothing = item\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instruments_string.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/Instruments/instruments_string.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseWoodwindInstrument",
+      "raw_en": "ent-BaseWoodwindInstrument = item\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instruments_wind.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/Instruments/instruments_wind.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasePlushie",
+      "raw_en": "ent-BasePlushie = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/plushies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/plushies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlushieLizardMirrored",
+      "raw_en": "ent-PlushieLizardMirrored = lizard plushie\n    .desc = An adorable stuffed toy that resembles a lizardperson. Made by CentComm as a token initiative to combat speciesism in work environments. \"Welcome your new colleagues as you do this plush, with open arms!\"",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/plushies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/plushies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpectralLocator",
+      "raw_en": "ent-SpectralLocator = spectral locator\n    .desc = Appears to be a modified anomaly locator. Seems very old.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/spectral_locator.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/spectral_locator.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpectralLocatorEmpty",
+      "raw_en": "ent-SpectralLocatorEmpty = spectral locator\n    .desc = Appears to be a modified anomaly locator. Seems very old.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/spectral_locator.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/spectral_locator.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseTabletopPiece",
+      "raw_en": "ent-BaseTabletopPiece = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Tabletop/base.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/Tabletop/base.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseGenericTabletopPiece",
+      "raw_en": "ent-BaseGenericTabletopPiece = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Tabletop/tabletopGeneric.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/Tabletop/tabletopGeneric.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseRubberToy",
+      "raw_en": "ent-BaseRubberToy = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/toys.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/toys.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoamWeaponBase",
+      "raw_en": "ent-FoamWeaponBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/toys.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/toys.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Whistle",
+      "raw_en": "ent-Whistle = whistle\n    .desc = Someone forgot to turn off kettle?",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/whistles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/whistles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SecurityWhistle",
+      "raw_en": "ent-SecurityWhistle = whistle\n    .desc = Sound of it make you feel fear.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/whistles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Fun/whistles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IngotBase",
+      "raw_en": "ent-IngotBase = item\n    .desc = A heavy metal ingot stamped with the Nanotrasen logo.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ingots.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/ingots.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialBase",
+      "raw_en": "ent-MaterialBase = item\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialCardboard10",
+      "raw_en": "ent-MaterialCardboard10 = cardboard\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialCardboard1",
+      "raw_en": "ent-MaterialCardboard1 = cardboard\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialCloth10",
+      "raw_en": "ent-MaterialCloth10 = cloth\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialCloth1",
+      "raw_en": "ent-MaterialCloth1 = cloth\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    }
+  ]
+}

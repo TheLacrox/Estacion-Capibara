@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0060_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "HolopadScienceArtifact",
+      "raw_en": "ent-HolopadScienceArtifact = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadScienceArtifactNorth",
+      "raw_en": "ent-HolopadScienceArtifactNorth = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadScienceArtifactSouth",
+      "raw_en": "ent-HolopadScienceArtifactSouth = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadScienceRobotics",
+      "raw_en": "ent-HolopadScienceRobotics = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadScienceRnd",
+      "raw_en": "ent-HolopadScienceRnd = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadScienceFront",
+      "raw_en": "ent-HolopadScienceFront = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadScienceBreakroom",
+      "raw_en": "ent-HolopadScienceBreakroom = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadMedicalMedbay",
+      "raw_en": "ent-HolopadMedicalMedbay = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadMedicalChemistry",
+      "raw_en": "ent-HolopadMedicalChemistry = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadMedicalCryopods",
+      "raw_en": "ent-HolopadMedicalCryopods = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadMedicalMorgue",
+      "raw_en": "ent-HolopadMedicalMorgue = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadMedicalSurgery",
+      "raw_en": "ent-HolopadMedicalSurgery = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadMedicalParamed",
+      "raw_en": "ent-HolopadMedicalParamed = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadMedicalVirology",
+      "raw_en": "ent-HolopadMedicalVirology = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadMedicalFront",
+      "raw_en": "ent-HolopadMedicalFront = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadMedicalBreakroom",
+      "raw_en": "ent-HolopadMedicalBreakroom = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadMedicalClinic",
+      "raw_en": "ent-HolopadMedicalClinic = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCargoFront",
+      "raw_en": "ent-HolopadCargoFront = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCargoBay",
+      "raw_en": "ent-HolopadCargoBay = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCargoSalvageBay",
+      "raw_en": "ent-HolopadCargoSalvageBay = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCargoBreakroom",
+      "raw_en": "ent-HolopadCargoBreakroom = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCargoMailroom",
+      "raw_en": "ent-HolopadCargoMailroom = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringAtmosFront",
+      "raw_en": "ent-HolopadEngineeringAtmosFront = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringAtmosMain",
+      "raw_en": "ent-HolopadEngineeringAtmosMain = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringAtmosTeg",
+      "raw_en": "ent-HolopadEngineeringAtmosTeg = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringStorage",
+      "raw_en": "ent-HolopadEngineeringStorage = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringBreakroom",
+      "raw_en": "ent-HolopadEngineeringBreakroom = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringFront",
+      "raw_en": "ent-HolopadEngineeringFront = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringTelecoms",
+      "raw_en": "ent-HolopadEngineeringTelecoms = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringTechVault",
+      "raw_en": "ent-HolopadEngineeringTechVault = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringAME",
+      "raw_en": "ent-HolopadEngineeringAME = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringPower",
+      "raw_en": "ent-HolopadEngineeringPower = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadEngineeringMain",
+      "raw_en": "ent-HolopadEngineeringMain = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityFront",
+      "raw_en": "ent-HolopadSecurityFront = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityBrig",
+      "raw_en": "ent-HolopadSecurityBrig = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityWarden",
+      "raw_en": "ent-HolopadSecurityWarden = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityInterrogation",
+      "raw_en": "ent-HolopadSecurityInterrogation = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityBreakroom",
+      "raw_en": "ent-HolopadSecurityBreakroom = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityDetective",
+      "raw_en": "ent-HolopadSecurityDetective = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityPerma",
+      "raw_en": "ent-HolopadSecurityPerma = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityCourtroom",
+      "raw_en": "ent-HolopadSecurityCourtroom = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityLawyer",
+      "raw_en": "ent-HolopadSecurityLawyer = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityArmory",
+      "raw_en": "ent-HolopadSecurityArmory = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityLockerRoom",
+      "raw_en": "ent-HolopadSecurityLockerRoom = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityBrigMed",
+      "raw_en": "ent-HolopadSecurityBrigMed = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityEvacCheckpoint",
+      "raw_en": "ent-HolopadSecurityEvacCheckpoint = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadSecurityArrivalsCheckpoint",
+      "raw_en": "ent-HolopadSecurityArrivalsCheckpoint = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadServiceJanitor",
+      "raw_en": "ent-HolopadServiceJanitor = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadServiceBar",
+      "raw_en": "ent-HolopadServiceBar = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadServiceKitchen",
+      "raw_en": "ent-HolopadServiceKitchen = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    }
+  ]
+}

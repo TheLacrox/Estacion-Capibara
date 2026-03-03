@@ -3,6 +3,7 @@ ent-BulletKinetic = proyectil cinético
 
 # Used for PK repeater and pistol
 ent-RapidBulletKinetic = proyectil cinético rápido
+    .desc = No está mal, pero igual no quieres que te golpee.
 
 ent-BulletCharge = proyectil de carga
     .desc = Marca un objetivo para recibir daño adicional.

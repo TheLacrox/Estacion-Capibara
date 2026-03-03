@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0097_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "CigarettePhlogiston",
+      "raw_en": "ent-CigarettePhlogiston =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteBanana",
+      "raw_en": "ent-CigaretteBanana =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteBlackPepper",
+      "raw_en": "ent-CigaretteBlackPepper =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "FloraTree",
+      "raw_en": "ent-FloraTree =\n    .desc = Yep, it's a tree.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/decoration/flora.ftl"
+    },
+    {
+      "id": "FloraTreeSnow",
+      "raw_en": "ent-FloraTreeSnow =\n    .desc = Yep, it's a tree.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/decoration/flora.ftl"
+    },
+    {
+      "id": "FloraTreeStump",
+      "raw_en": "ent-FloraTreeStump =\n    .desc = Yep, it's a tree.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/decoration/flora.ftl"
+    },
+    {
+      "id": "FloraTreeLarge",
+      "raw_en": "ent-FloraTreeLarge =\n    .desc = Yep, it's a tree.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/decoration/flora.ftl"
+    },
+    {
+      "id": "FloraTreeConifer",
+      "raw_en": "ent-FloraTreeConifer =\n    .desc = Yep, it's a tree.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/decoration/flora.ftl"
+    },
+    {
+      "id": "FloraTreeChristmas01",
+      "raw_en": "ent-FloraTreeChristmas01 =\n    .desc = Yep, it's a tree.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/decoration/flora.ftl"
+    },
+    {
+      "id": "FloraTreeChristmas02",
+      "raw_en": "ent-FloraTreeChristmas02 =\n    .desc = Yep, it's a tree.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/decoration/flora.ftl"
+    },
+    {
+      "id": "FloraTreeChristmas03",
+      "raw_en": "ent-FloraTreeChristmas03 =\n    .desc = Yep, it's a tree.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/decoration/flora.ftl"
+    },
+    {
+      "id": "FloraTreeStumpConifer",
+      "raw_en": "ent-FloraTreeStumpConifer =\n    .desc = Yep, it's a tree.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/decoration/flora.ftl"
+    },
+    {
+      "id": "WoodenSupportBeam",
+      "raw_en": "ent-WoodenSupportBeam =\n    .desc = Increases your confidence that a rock won't fall on your head.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/mining.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/decoration/mining.ftl"
+    },
+    {
+      "id": "DoorRemoteCommand",
+      "raw_en": "ent-DoorRemoteCommand =\n    .desc = A gadget which can open and bolt doors remotely.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/door_remote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/door_remote.ftl"
+    },
+    {
+      "id": "DoorRemoteSecurity",
+      "raw_en": "ent-DoorRemoteSecurity =\n    .desc = A gadget which can open and bolt doors remotely.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/door_remote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/door_remote.ftl"
+    },
+    {
+      "id": "DoorRemoteArmory",
+      "raw_en": "ent-DoorRemoteArmory =\n    .desc = A gadget which can open and bolt doors remotely.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/door_remote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/door_remote.ftl"
+    },
+    {
+      "id": "DoorRemoteService",
+      "raw_en": "ent-DoorRemoteService =\n    .desc = A gadget which can open and bolt doors remotely.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/door_remote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/door_remote.ftl"
+    },
+    {
+      "id": "DoorRemoteResearch",
+      "raw_en": "ent-DoorRemoteResearch =\n    .desc = A gadget which can open and bolt doors remotely.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/door_remote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/door_remote.ftl"
+    },
+    {
+      "id": "DoorRemoteCargo",
+      "raw_en": "ent-DoorRemoteCargo =\n    .desc = A gadget which can open and bolt doors remotely.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/door_remote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/door_remote.ftl"
+    },
+    {
+      "id": "DoorRemoteMedical",
+      "raw_en": "ent-DoorRemoteMedical =\n    .desc = A gadget which can open and bolt doors remotely.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/door_remote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/door_remote.ftl"
+    },
+    {
+      "id": "DoorRemoteEngineering",
+      "raw_en": "ent-DoorRemoteEngineering =\n    .desc = A gadget which can open and bolt doors remotely.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/door_remote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/door_remote.ftl"
+    },
+    {
+      "id": "DoorRemoteAll",
+      "raw_en": "ent-DoorRemoteAll =\n    .desc = A gadget which can open and bolt doors remotely.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/door_remote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/door_remote.ftl"
+    },
+    {
+      "id": "DoorRemoteXenoborg",
+      "raw_en": "ent-DoorRemoteXenoborg =\n    .desc = A gadget which can open and bolt doors remotely.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/door_remote.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/door_remote.ftl"
+    },
+    {
+      "id": "ScreenTimerElectronics",
+      "raw_en": "ent-ScreenTimerElectronics =\n    .desc = An electronics board used in timer circuitry. Looks like you could use a screwdriver to change the board type.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/timer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/electronics/timer.ftl"
+    },
+    {
+      "id": "BrigTimerElectronics",
+      "raw_en": "ent-BrigTimerElectronics =\n    .desc = An electronics board used in timer circuitry. Looks like you could use a screwdriver to change the board type.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/timer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/electronics/timer.ftl"
+    },
+    {
+      "id": "PinpointerNuclear",
+      "raw_en": "ent-PinpointerNuclear =\n    .desc = A handheld tracking device. While typically far more capable, this one has been configured to lock onto certain signals. Keep upright to retain accuracy.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pinpointer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/devices/pinpointer.ftl"
+    },
+    {
+      "id": "CrayonWhite",
+      "raw_en": "ent-CrayonWhite =\n    .desc = A colourful crayon. Looks tasty. Mmmm...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/crayons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/crayons.ftl"
+    },
+    {
+      "id": "CrayonMime",
+      "raw_en": "ent-CrayonMime =\n    .desc = A colourful crayon. Looks tasty. Mmmm...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/crayons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/crayons.ftl"
+    },
+    {
+      "id": "CrayonRainbow",
+      "raw_en": "ent-CrayonRainbow =\n    .desc = A colourful crayon. Looks tasty. Mmmm...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/crayons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/crayons.ftl"
+    },
+    {
+      "id": "CrayonBlack",
+      "raw_en": "ent-CrayonBlack =\n    .desc = A colourful crayon. Looks tasty. Mmmm...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/crayons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/crayons.ftl"
+    },
+    {
+      "id": "CrayonRed",
+      "raw_en": "ent-CrayonRed =\n    .desc = A colourful crayon. Looks tasty. Mmmm...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/crayons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/crayons.ftl"
+    },
+    {
+      "id": "CrayonOrange",
+      "raw_en": "ent-CrayonOrange =\n    .desc = A colourful crayon. Looks tasty. Mmmm...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/crayons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/crayons.ftl"
+    },
+    {
+      "id": "CrayonYellow",
+      "raw_en": "ent-CrayonYellow =\n    .desc = A colourful crayon. Looks tasty. Mmmm...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/crayons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/crayons.ftl"
+    },
+    {
+      "id": "CrayonGreen",
+      "raw_en": "ent-CrayonGreen =\n    .desc = A colourful crayon. Looks tasty. Mmmm...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/crayons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/crayons.ftl"
+    },
+    {
+      "id": "CrayonBlue",
+      "raw_en": "ent-CrayonBlue =\n    .desc = A colourful crayon. Looks tasty. Mmmm...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/crayons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/crayons.ftl"
+    },
+    {
+      "id": "CrayonPurple",
+      "raw_en": "ent-CrayonPurple =\n    .desc = A colourful crayon. Looks tasty. Mmmm...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/crayons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/crayons.ftl"
+    },
+    {
+      "id": "MagicDiceBag",
+      "raw_en": "ent-MagicDiceBag =\n    .desc = Contains all the luck you'll ever need.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/dice_bag.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/dice_bag.ftl"
+    },
+    {
+      "id": "SynthesizerInstrument",
+      "raw_en": "ent-SynthesizerInstrument =\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instrument_keyed.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/instruments/instrument_keyed.ftl"
+    },
+    {
+      "id": "AccordionInstrument",
+      "raw_en": "ent-AccordionInstrument =\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instrument_keyed.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/instruments/instrument_keyed.ftl"
+    },
+    {
+      "id": "GlockenspielInstrument",
+      "raw_en": "ent-GlockenspielInstrument =\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instruments_percussion.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/instruments/instruments_percussion.ftl"
+    },
+    {
+      "id": "BanjoInstrument",
+      "raw_en": "ent-BanjoInstrument =\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instruments_string.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/instruments/instruments_string.ftl"
+    },
+    {
+      "id": "HarmonicaInstrument",
+      "raw_en": "ent-HarmonicaInstrument =\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/Instruments/instruments_wind.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/instruments/instruments_wind.ftl"
+    },
+    {
+      "id": "MrDips",
+      "raw_en": "ent-MrDips =\n    .desc = It's a dummy, dummy!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Fun/puppet.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/fun/puppet.ftl"
+    },
+    {
+      "id": "ShardCrystalBlue",
+      "raw_en": "ent-ShardCrystalBlue =\n    .desc = A small piece of crystal.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/crystal_shard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/crystal_shard.ftl"
+    },
+    {
+      "id": "ShardCrystalYellow",
+      "raw_en": "ent-ShardCrystalYellow =\n    .desc = A small piece of crystal.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/crystal_shard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/crystal_shard.ftl"
+    },
+    {
+      "id": "ShardCrystalOrange",
+      "raw_en": "ent-ShardCrystalOrange =\n    .desc = A small piece of crystal.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/crystal_shard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/crystal_shard.ftl"
+    },
+    {
+      "id": "ShardCrystalBlack",
+      "raw_en": "ent-ShardCrystalBlack =\n    .desc = A small piece of crystal.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/crystal_shard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/crystal_shard.ftl"
+    },
+    {
+      "id": "ShardCrystalPink",
+      "raw_en": "ent-ShardCrystalPink =\n    .desc = A small piece of crystal.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/crystal_shard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/crystal_shard.ftl"
+    },
+    {
+      "id": "ShardCrystalGreen",
+      "raw_en": "ent-ShardCrystalGreen =\n    .desc = A small piece of crystal.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/crystal_shard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/crystal_shard.ftl"
+    },
+    {
+      "id": "ShardCrystalRed",
+      "raw_en": "ent-ShardCrystalRed =\n    .desc = A small piece of crystal.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/crystal_shard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/crystal_shard.ftl"
+    }
+  ]
+}

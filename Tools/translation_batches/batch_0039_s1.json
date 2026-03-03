@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0039_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "PresentRandom",
+      "raw_en": "ent-PresentRandom = present\n    .desc = A little box with incredible surprises inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/present.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/present.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PresentRandomCoal",
+      "raw_en": "ent-PresentRandomCoal = present\n    .desc = A little box with incredible surprises inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/present.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/present.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PresentRandomCash",
+      "raw_en": "ent-PresentRandomCash = present\n    .desc = A little box with incredible surprises inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/present.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/present.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseHandheldComputer",
+      "raw_en": "ent-BaseHandheldComputer = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/base_handheld.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/base_handheld.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponEnergyTurretAIMachineCircuitboard",
+      "raw_en": "ent-WeaponEnergyTurretAIMachineCircuitboard = sentry turret machine board\n    .desc = A machine printed circuit board for a sentry turret.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Circuitboards/Machine/turrets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Circuitboards/Machine/turrets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponEnergyTurretSecurityMachineCircuitboard",
+      "raw_en": "ent-WeaponEnergyTurretSecurityMachineCircuitboard = sentry turret machine board\n    .desc = A machine printed circuit board for a sentry turret.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Circuitboards/Machine/turrets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Circuitboards/Machine/turrets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsCaptain",
+      "raw_en": "ent-DoorElectronicsCaptain = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsHeadOfPersonnel",
+      "raw_en": "ent-DoorElectronicsHeadOfPersonnel = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsCommand",
+      "raw_en": "ent-DoorElectronicsCommand = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsBar",
+      "raw_en": "ent-DoorElectronicsBar = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsBarKitchen",
+      "raw_en": "ent-DoorElectronicsBarKitchen = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsHydroponics",
+      "raw_en": "ent-DoorElectronicsHydroponics = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsChapel",
+      "raw_en": "ent-DoorElectronicsChapel = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsTheatre",
+      "raw_en": "ent-DoorElectronicsTheatre = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsKitchen",
+      "raw_en": "ent-DoorElectronicsKitchen = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsKitchenHydroponics",
+      "raw_en": "ent-DoorElectronicsKitchenHydroponics = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsJanitor",
+      "raw_en": "ent-DoorElectronicsJanitor = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsLawyer",
+      "raw_en": "ent-DoorElectronicsLawyer = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsService",
+      "raw_en": "ent-DoorElectronicsService = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsServiceTheatre",
+      "raw_en": "ent-DoorElectronicsServiceTheatre = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsQuartermaster",
+      "raw_en": "ent-DoorElectronicsQuartermaster = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsSalvage",
+      "raw_en": "ent-DoorElectronicsSalvage = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsCargo",
+      "raw_en": "ent-DoorElectronicsCargo = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsChiefEngineer",
+      "raw_en": "ent-DoorElectronicsChiefEngineer = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsAtmospherics",
+      "raw_en": "ent-DoorElectronicsAtmospherics = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsEngineering",
+      "raw_en": "ent-DoorElectronicsEngineering = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsMorgue",
+      "raw_en": "ent-DoorElectronicsMorgue = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsResearchDirector",
+      "raw_en": "ent-DoorElectronicsResearchDirector = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsMedicalResearch",
+      "raw_en": "ent-DoorElectronicsMedicalResearch = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsResearch",
+      "raw_en": "ent-DoorElectronicsResearch = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsHeadOfSecurity",
+      "raw_en": "ent-DoorElectronicsHeadOfSecurity = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsArmory",
+      "raw_en": "ent-DoorElectronicsArmory = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsDetective",
+      "raw_en": "ent-DoorElectronicsDetective = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsSecurity",
+      "raw_en": "ent-DoorElectronicsSecurity = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsSecurityLawyer",
+      "raw_en": "ent-DoorElectronicsSecurityLawyer = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsBrig",
+      "raw_en": "ent-DoorElectronicsBrig = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsChiefMedicalOfficer",
+      "raw_en": "ent-DoorElectronicsChiefMedicalOfficer = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsChemistry",
+      "raw_en": "ent-DoorElectronicsChemistry = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsMedical",
+      "raw_en": "ent-DoorElectronicsMedical = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsNukeop",
+      "raw_en": "ent-DoorElectronicsNukeop = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsSyndicateAgent",
+      "raw_en": "ent-DoorElectronicsSyndicateAgent = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsCentralCommand",
+      "raw_en": "ent-DoorElectronicsCentralCommand = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsExternal",
+      "raw_en": "ent-DoorElectronicsExternal = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsMaintenance",
+      "raw_en": "ent-DoorElectronicsMaintenance = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsVault",
+      "raw_en": "ent-DoorElectronicsVault = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HoloprojectorEmpty",
+      "raw_en": "ent-HoloprojectorEmpty = holographic sign projector\n    .desc = A handy-dandy holographic projector that displays a janitorial sign.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/holoprojectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/holoprojectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolofanProjectorEmpty",
+      "raw_en": "ent-HolofanProjectorEmpty = holofan projector\n    .desc = Stop suicidal passengers from killing everyone during atmos emergencies.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/holoprojectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/holoprojectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HoloprojectorFieldEmpty",
+      "raw_en": "ent-HoloprojectorFieldEmpty = force field projector\n    .desc = Creates an impassable forcefield that won't let anything through. Close proximity may or may not cause cancer.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/holoprojectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/holoprojectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HoloprojectorSecurityEmpty",
+      "raw_en": "ent-HoloprojectorSecurityEmpty = holobarrier projector\n    .desc = Creates a solid but fragile holographic barrier.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/holoprojectors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/holoprojectors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasePayload",
+      "raw_en": "ent-BasePayload = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/payload.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/payload.ftl",
+      "file_exists": false
+    }
+  ]
+}

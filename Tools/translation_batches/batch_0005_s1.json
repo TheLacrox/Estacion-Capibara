@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0005_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "SpawnPointGhostDragonToken",
+      "raw_en": "ent-SpawnPointGhostDragonToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointLoneNukeOperativeToken",
+      "raw_en": "ent-SpawnPointLoneNukeOperativeToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostDerelictCyborgSyndicateToken",
+      "raw_en": "ent-SpawnPointGhostDerelictCyborgSyndicateToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostBinglePrimeToken",
+      "raw_en": "ent-SpawnPointGhostBinglePrimeToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LoneAbductorSpawnerToken",
+      "raw_en": "ent-LoneAbductorSpawnerToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointWizardToken",
+      "raw_en": "ent-SpawnPointWizardToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointSlaughterDemonToken",
+      "raw_en": "ent-SpawnPointSlaughterDemonToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointLaughterDemonToken",
+      "raw_en": "ent-SpawnPointLaughterDemonToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AncientRogueKingToken",
+      "raw_en": "ent-AncientRogueKingToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WraithToken",
+      "raw_en": "ent-WraithToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HasturToken",
+      "raw_en": "ent-HasturToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ContractorTokenSpawner",
+      "raw_en": "ent-ContractorTokenSpawner = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgChassisDerelictSyndicate",
+      "raw_en": "ent-BaseBorgChassisDerelictSyndicate = cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/base_borg_chassis.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Cyborgs/base_borg_chassis.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgUrist",
+      "raw_en": "ent-PlayerBorgUrist = Urist McBorg\n    .desc = An abomination that supposedly assists in station activity.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgUristGhostRole",
+      "raw_en": "ent-PlayerBorgUristGhostRole = Urist McBorg\n    .desc = An abomination that supposedly assists in station activity.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAngryBeeWeak",
+      "raw_en": "ent-MobAngryBeeWeak = bee\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCarpCaller",
+      "raw_en": "ent-MobCarpCaller = space carp\n    .desc = It's a space carp.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/NPCs/carp.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/NPCs/carp.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobBinglePrime",
+      "raw_en": "ent-MobBinglePrime = bingle\n    .desc = bingle",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Player/bingle.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Player/bingle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobBingleUpgraded",
+      "raw_en": "ent-MobBingleUpgraded = bingle\n    .desc = bingle",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Player/bingle.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Player/bingle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobTurkleUpgraded",
+      "raw_en": "ent-MobTurkleUpgraded = bingle\n    .desc = bingle",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Player/bingle.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Player/bingle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ContractorSpawner",
+      "raw_en": "ent-ContractorSpawner = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Player/contractor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Player/contractor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgDerelictSyndicateAssaultBattery",
+      "raw_en": "ent-PlayerBorgDerelictSyndicateAssaultBattery = derelict syndicate assasult cyborg\n    .desc = A lean, mean killing machine with access to a variety of deadly modules. This one is in a state of great disrepair.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Player/silicon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Player/silicon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgDerelictSyndicateAssaultGhostRole",
+      "raw_en": "ent-PlayerBorgDerelictSyndicateAssaultGhostRole = derelict syndicate assasult cyborg\n    .desc = A lean, mean killing machine with access to a variety of deadly modules. This one is in a state of great disrepair.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Player/silicon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Player/silicon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMMobXenoDroneSentient",
+      "raw_en": "ent-CMMobXenoDroneSentient = ancient drone\n    .desc = An alien drone.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Xenos/xeno.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Xenos/xeno.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMMobXenoBurrowerSentient",
+      "raw_en": "ent-CMMobXenoBurrowerSentient = ancient Burrower\n    .desc = A beefy alien with sharp claws.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Xenos/xeno.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Xenos/xeno.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMMobXenoWarriorSentient",
+      "raw_en": "ent-CMMobXenoWarriorSentient = ancient warrior\n    .desc = A beefy alien with an armored carapace.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Xenos/xeno.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Xenos/xeno.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMMobXenoCrusherSentient",
+      "raw_en": "ent-CMMobXenoCrusherSentient = ancient crusher\n    .desc = A huge alien with an enormous armored crest.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Xenos/xeno.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Xenos/xeno.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMMobXenoRavagerSentient",
+      "raw_en": "ent-CMMobXenoRavagerSentient = ancient ravager\n    .desc = A huge, nasty red alien with enormous scythed claws.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Xenos/xeno.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Xenos/xeno.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMMobXenoKingSentient",
+      "raw_en": "ent-CMMobXenoKingSentient = ancient king\n    .desc = A massive alien covered in spines and armoured plates.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Xenos/xeno.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Xenos/xeno.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMMobXenoQueenSentient",
+      "raw_en": "ent-CMMobXenoQueenSentient = ancient queen\n    .desc = The Queen, in all her glory.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Xenos/xeno.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Xenos/xeno.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMMobXenoRogueKingSentient",
+      "raw_en": "ent-CMMobXenoRogueKingSentient = ancient rogue king\n    .desc = Driven into isolation, after all these years, this King has grown to be an unstoppable killing machine.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Xenos/xeno.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Mobs/Xenos/xeno.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageCorporate",
+      "raw_en": "ent-SuitStorageCorporate = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Modsuits/corporate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Modsuits/corporate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingModsuitCorporateFilled",
+      "raw_en": "ent-ClothingModsuitCorporateFilled = Corporate modsuit control unit\n    .desc = The main controller for a Corporate modsuit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Modsuits/corporate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Modsuits/corporate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageTrainer",
+      "raw_en": "ent-SuitStorageTrainer = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Modsuits/corporate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Modsuits/corporate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingModsuitTrainerFilled",
+      "raw_en": "ent-ClothingModsuitTrainerFilled = Career Trainer modsuit control unit\n    .desc = The main controller for a Career Trainer modsuit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Modsuits/corporate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Modsuits/corporate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkCartonBaseSmallFull",
+      "raw_en": "ent-DrinkCartonBaseSmallFull = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Drinks/drinks-cartons.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Drinks/drinks-cartons.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkBasePlastic",
+      "raw_en": "ent-DrinkBasePlastic = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkFitnessShakerRed",
+      "raw_en": "ent-DrinkFitnessShakerRed = fitness shaker\n    .desc = Big enough to contain enough protein to get perfectly swole. Don't mind the bits.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodSnackLollypopWrappedBase",
+      "raw_en": "ent-FoodSnackLollypopWrappedBase = item\n    .desc = A plain old lollypop. It's still in a wrapper.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Food/lollypops.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodSnackLollypopBase",
+      "raw_en": "ent-FoodSnackLollypopBase = item\n    .desc = A plain old lollypop. It's cherry flavoured.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Food/lollypops.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleDylovene",
+      "raw_en": "ent-ChemistryBottleDylovene = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleEthylredoxrazine",
+      "raw_en": "ent-ChemistryBottleEthylredoxrazine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleCryptobiolin",
+      "raw_en": "ent-ChemistryBottleCryptobiolin = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleArithrazine",
+      "raw_en": "ent-ChemistryBottleArithrazine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleBicaridine",
+      "raw_en": "ent-ChemistryBottleBicaridine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleCryoxadone",
+      "raw_en": "ent-ChemistryBottleCryoxadone = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleDoxarubixadone",
+      "raw_en": "ent-ChemistryBottleDoxarubixadone = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleDermaline",
+      "raw_en": "ent-ChemistryBottleDermaline = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleDexalin",
+      "raw_en": "ent-ChemistryBottleDexalin = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleDexalinPlus",
+      "raw_en": "ent-ChemistryBottleDexalinPlus = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    }
+  ]
+}

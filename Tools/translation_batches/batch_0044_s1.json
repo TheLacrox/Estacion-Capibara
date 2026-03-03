@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0044_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "PaperAcquisitionSlipCargo",
+      "raw_en": "ent-PaperAcquisitionSlipCargo = acquisition slip\n    .desc = A slip with order details on it. It can be given to Cargo to complete the order.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/acquisition_slips.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/acquisition_slips.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperAcquisitionSlipEngineering",
+      "raw_en": "ent-PaperAcquisitionSlipEngineering = acquisition slip\n    .desc = A slip with order details on it. It can be given to Cargo to complete the order.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/acquisition_slips.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/acquisition_slips.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseGuidebook",
+      "raw_en": "ent-BaseGuidebook = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/books.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/books.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BookRandom",
+      "raw_en": "ent-BookRandom = book\n    .desc = Each book is unique! What is hidden in this one?",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/books.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/books.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BookRandomStory",
+      "raw_en": "ent-BookRandomStory = book\n    .desc = Each book is unique! What is hidden in this one?",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/books.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/books.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxBase",
+      "raw_en": "ent-BoxBase = storage item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/box.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BriefcaseBase",
+      "raw_en": "ent-BriefcaseBase = storage item\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/briefcases.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/briefcases.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BriefcaseSyndie",
+      "raw_en": "ent-BriefcaseSyndie = brown briefcase\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/briefcases.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/briefcases.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorCarpetItemBlack",
+      "raw_en": "ent-FloorCarpetItemBlack = carpet\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorCarpetItemBlue",
+      "raw_en": "ent-FloorCarpetItemBlue = carpet\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorCarpetItemGreen",
+      "raw_en": "ent-FloorCarpetItemGreen = carpet\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorCarpetItemOrange",
+      "raw_en": "ent-FloorCarpetItemOrange = carpet\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorCarpetItemSkyBlue",
+      "raw_en": "ent-FloorCarpetItemSkyBlue = carpet\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorCarpetItemPurple",
+      "raw_en": "ent-FloorCarpetItemPurple = carpet\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorCarpetItemPink",
+      "raw_en": "ent-FloorCarpetItemPink = carpet\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorCarpetItemCyan",
+      "raw_en": "ent-FloorCarpetItemCyan = carpet\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorCarpetItemWhite",
+      "raw_en": "ent-FloorCarpetItemWhite = carpet\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxFolderRed",
+      "raw_en": "ent-BoxFolderRed = folder\n    .desc = A folder filled with top secret paperwork.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/folders.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/folders.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxFolderBlue",
+      "raw_en": "ent-BoxFolderBlue = folder\n    .desc = A folder filled with top secret paperwork.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/folders.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/folders.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxFolderYellow",
+      "raw_en": "ent-BoxFolderYellow = folder\n    .desc = A folder filled with top secret paperwork.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/folders.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/folders.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxFolderWhite",
+      "raw_en": "ent-BoxFolderWhite = folder\n    .desc = A folder filled with top secret paperwork.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/folders.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/folders.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxFolderGrey",
+      "raw_en": "ent-BoxFolderGrey = folder\n    .desc = A folder filled with top secret paperwork.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/folders.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/folders.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxFolderBlack",
+      "raw_en": "ent-BoxFolderBlack = folder\n    .desc = A folder filled with top secret paperwork.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/folders.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/folders.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxFolderGreen",
+      "raw_en": "ent-BoxFolderGreen = folder\n    .desc = A folder filled with top secret paperwork.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/folders.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/folders.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseHandcuffsBroken",
+      "raw_en": "ent-BaseHandcuffsBroken = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/handcuffs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/handcuffs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Implanter",
+      "raw_en": "ent-Implanter = implanter\n    .desc = A disposable syringe exclusively designed for the injection and extraction of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ImplanterAdmeme",
+      "raw_en": "ent-ImplanterAdmeme = implanter\n    .desc = A disposable syringe exclusively designed for the injection and extraction of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseImplantOnlyImplanter",
+      "raw_en": "ent-BaseImplantOnlyImplanter = implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SadTromboneImplanter",
+      "raw_en": "ent-SadTromboneImplanter = implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LightImplanter",
+      "raw_en": "ent-LightImplanter = implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BikeHornImplanter",
+      "raw_en": "ent-BikeHornImplanter = implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TrackingImplanter",
+      "raw_en": "ent-TrackingImplanter = implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StorageImplanter",
+      "raw_en": "ent-StorageImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FreedomImplanter",
+      "raw_en": "ent-FreedomImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RadioImplanter",
+      "raw_en": "ent-RadioImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UplinkImplanter",
+      "raw_en": "ent-UplinkImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EmpImplanter",
+      "raw_en": "ent-EmpImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ScramImplanter",
+      "raw_en": "ent-ScramImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DnaScramblerImplanter",
+      "raw_en": "ent-DnaScramblerImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChameleonControllerImplanter",
+      "raw_en": "ent-ChameleonControllerImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MicroBombImplanter",
+      "raw_en": "ent-MicroBombImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MacroBombImplanter",
+      "raw_en": "ent-MacroBombImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DeathRattleImplanter",
+      "raw_en": "ent-DeathRattleImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DeathAcidifierImplanter",
+      "raw_en": "ent-DeathAcidifierImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FakeMindShieldImplanter",
+      "raw_en": "ent-FakeMindShieldImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MindShieldImplanter",
+      "raw_en": "ent-MindShieldImplanter = implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RadioImplanterCentcomm",
+      "raw_en": "ent-RadioImplanterCentcomm = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DeathRattleImplanterCentcomm",
+      "raw_en": "ent-DeathRattleImplanterCentcomm = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeakKudzu",
+      "raw_en": "ent-WeakKudzu = kudzu\n    .desc = A rapidly growing, dangerous plant. WHY ARE YOU STOPPING TO LOOK AT IT?!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/kudzu.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/kudzu.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "KudzuFlowerAngry",
+      "raw_en": "ent-KudzuFlowerAngry = floral carpet\n    .desc = A colorful carpet of flowers sprawling in every direction. You're not sure whether to take it down or leave it up.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/kudzu.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/kudzu.ftl",
+      "file_exists": false
+    }
+  ]
+}

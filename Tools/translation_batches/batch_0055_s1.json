@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0055_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "AirlockCommandGlass",
+      "raw_en": "ent-AirlockCommandGlass = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/airlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockSecurityGlass",
+      "raw_en": "ent-AirlockSecurityGlass = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/airlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockSyndicateGlass",
+      "raw_en": "ent-AirlockSyndicateGlass = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/airlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMiningGlass",
+      "raw_en": "ent-AirlockMiningGlass = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/airlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockCentralCommandGlass",
+      "raw_en": "ent-AirlockCentralCommandGlass = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/airlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockStandardGlass",
+      "raw_en": "ent-AirlockStandardGlass = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/airlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyAtmospherics",
+      "raw_en": "ent-AirlockAssemblyAtmospherics = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyAtmosphericsGlass",
+      "raw_en": "ent-AirlockAssemblyAtmosphericsGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyCargo",
+      "raw_en": "ent-AirlockAssemblyCargo = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyCargoGlass",
+      "raw_en": "ent-AirlockAssemblyCargoGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PinionAirlockAssemblyGlass",
+      "raw_en": "ent-PinionAirlockAssemblyGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyCommand",
+      "raw_en": "ent-AirlockAssemblyCommand = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyCommandGlass",
+      "raw_en": "ent-AirlockAssemblyCommandGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyEngineering",
+      "raw_en": "ent-AirlockAssemblyEngineering = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyEngineeringGlass",
+      "raw_en": "ent-AirlockAssemblyEngineeringGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyExternal",
+      "raw_en": "ent-AirlockAssemblyExternal = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyExternalGlass",
+      "raw_en": "ent-AirlockAssemblyExternalGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyGlass",
+      "raw_en": "ent-AirlockAssemblyGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyFreezer",
+      "raw_en": "ent-AirlockAssemblyFreezer = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyHydroponics",
+      "raw_en": "ent-AirlockAssemblyHydroponics = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyHydroponicsGlass",
+      "raw_en": "ent-AirlockAssemblyHydroponicsGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyMaintenance",
+      "raw_en": "ent-AirlockAssemblyMaintenance = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyMaintenanceGlass",
+      "raw_en": "ent-AirlockAssemblyMaintenanceGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyMedical",
+      "raw_en": "ent-AirlockAssemblyMedical = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyMedicalGlass",
+      "raw_en": "ent-AirlockAssemblyMedicalGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblySalvage",
+      "raw_en": "ent-AirlockAssemblySalvage = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblySalvageGlass",
+      "raw_en": "ent-AirlockAssemblySalvageGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyScience",
+      "raw_en": "ent-AirlockAssemblyScience = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyScienceGlass",
+      "raw_en": "ent-AirlockAssemblyScienceGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblySecurity",
+      "raw_en": "ent-AirlockAssemblySecurity = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblySecurityGlass",
+      "raw_en": "ent-AirlockAssemblySecurityGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyShuttle",
+      "raw_en": "ent-AirlockAssemblyShuttle = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyShuttleGlass",
+      "raw_en": "ent-AirlockAssemblyShuttleGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyVirology",
+      "raw_en": "ent-AirlockAssemblyVirology = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyVirologyGlass",
+      "raw_en": "ent-AirlockAssemblyVirologyGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyCentralCommand",
+      "raw_en": "ent-AirlockAssemblyCentralCommand = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyCentralCommandGlass",
+      "raw_en": "ent-AirlockAssemblyCentralCommandGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyMining",
+      "raw_en": "ent-AirlockAssemblyMining = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyMiningGlass",
+      "raw_en": "ent-AirlockAssemblyMiningGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblySyndicate",
+      "raw_en": "ent-AirlockAssemblySyndicate = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblySyndicateGlass",
+      "raw_en": "ent-AirlockAssemblySyndicateGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyShuttleSyndicate",
+      "raw_en": "ent-AirlockAssemblyShuttleSyndicate = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyShuttleSyndicateGlass",
+      "raw_en": "ent-AirlockAssemblyShuttleSyndicateGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAssemblyHighSec",
+      "raw_en": "ent-AirlockAssemblyHighSec = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/assembly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockRCDResistant",
+      "raw_en": "ent-AirlockRCDResistant = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/base_structureairlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/base_structureairlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PinionAirlock",
+      "raw_en": "ent-PinionAirlock = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/clockwork.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/clockwork.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PinionAirlockGlass",
+      "raw_en": "ent-PinionAirlockGlass = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/clockwork.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/clockwork.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockExternal",
+      "raw_en": "ent-AirlockExternal = airlock\n    .desc = It opens, it closes, it might crush you, and there might be only space behind it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/external.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/external.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockExternalGlass",
+      "raw_en": "ent-AirlockExternalGlass = airlock\n    .desc = It opens, it closes, it might crush you, and there might be only space behind it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/external.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/external.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Firelock",
+      "raw_en": "ent-Firelock = firelock\n    .desc = Apply crowbar.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Firelocks/firelock.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Firelocks/firelock.ftl",
+      "file_exists": false
+    }
+  ]
+}

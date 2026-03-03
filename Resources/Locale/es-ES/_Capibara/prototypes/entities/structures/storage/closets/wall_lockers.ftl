@@ -23,6 +23,7 @@ ent-ClosetWallGreen = armario de pared verde
     .desc = Un ropero con ropa verde elegante.
 
 ent-ClosetWallOrange = armario de pared carcelario
+    .desc = Una unidad de almacenamiento estándar de Nanotrasen, ahora en paredes.
 
 ent-ClosetWallYellow = armario de pared amarillo
     .desc = Un ropero con ropa amarilla elegante.
@@ -37,8 +38,10 @@ ent-ClosetWallMixed = armario de pared mixto
     .desc = Un ropero con una mezcla de ropa colorida.
 
 ent-ClosetWallAtmospherics = armario de pared de atmosférica
+    .desc = Una unidad de almacenamiento estándar de Nanotrasen, ahora en paredes.
 
 ent-LockerWallMedical = taquilla de pared médica
+    .desc = Una unidad de almacenamiento estándar de Nanotrasen, ahora en paredes.
 
 ent-LockerWallEvacRepair = taquilla de pared de emergencia de la lanzadera de evacuación
     .desc = Son emergencias hasta el fondo.

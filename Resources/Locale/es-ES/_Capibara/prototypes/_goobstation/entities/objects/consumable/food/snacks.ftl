@@ -74,30 +74,43 @@ ent-FoodSnackAncientTaco = taco espacial
     .desc = Curiosamente, la tortilla se ha ablandado y el relleno se ha quedado rancio.
 
 ent-FoodPacketLunacakeTrash = envoltorio de lunacake
+    .desc = Esto es basura.
 
 ent-FoodPacketMochicakeTrash = envoltorio de mochicake
+    .desc = Esto es basura.
 
 ent-FoodPacketMooncakeTrash = envoltorio de mooncake
+    .desc = Esto es basura.
 
 ent-FoodPacketTidegobsTrash = basura de tidegobs
+    .desc = Esto es basura.
 
 ent-FoodPacketSaturnosTrash = basura de saturn-os
+    .desc = Esto es basura.
 
 ent-FoodPacketJoveGelloTrash = basura de jove gello
+    .desc = Esto es basura.
 
 ent-FoodPacketPlutoniumrodsTrash = basura de barras de plutonio
+    .desc = Esto es basura.
 
 ent-FoodPacketMarsFroukaTrash = basura de mars frouka
+    .desc = Esto es basura.
 
 ent-FoodPacketVenusTrash = basura de tortitas de Venus
+    .desc = Esto es basura.
 
 ent-FoodPacketOortrocksTrash = basura de rocas de Oort
+    .desc = Esto es basura.
 
 ent-FoodSnackMothdogTrash = palito de perrito polilla
     .desc = Ya no está en su mejor momento.
 
 ent-FoodPacketRedalertnutsTrash = sobre de frutos secos alerta roja
+    .desc = Esto es basura.
 
 ent-FoodPacketStickTrash = palito
+    .desc = Esto es basura.
 
 ent-FoodPacketProteinbarTrash = envoltorio de barra de proteínas
+    .desc = Esto es basura.

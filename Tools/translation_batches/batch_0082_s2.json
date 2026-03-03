@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0082_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "VinylDiskAI",
+      "raw_en": "ent-VinylDiskAI =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskRed",
+      "raw_en": "ent-VinylDiskRed =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskLightBlue",
+      "raw_en": "ent-VinylDiskLightBlue =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskCyan",
+      "raw_en": "ent-VinylDiskCyan =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskBlue",
+      "raw_en": "ent-VinylDiskBlue =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskYellow",
+      "raw_en": "ent-VinylDiskYellow =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskGreen",
+      "raw_en": "ent-VinylDiskGreen =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskOrange",
+      "raw_en": "ent-VinylDiskOrange =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskWhite",
+      "raw_en": "ent-VinylDiskWhite =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskDarkBlue",
+      "raw_en": "ent-VinylDiskDarkBlue =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskFloaty",
+      "raw_en": "ent-VinylDiskFloaty =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskLime",
+      "raw_en": "ent-VinylDiskLime =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskPink",
+      "raw_en": "ent-VinylDiskPink =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskBurnTheWorld",
+      "raw_en": "ent-VinylDiskBurnTheWorld =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskFeralAngel",
+      "raw_en": "ent-VinylDiskFeralAngel =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskAlsoSprach",
+      "raw_en": "ent-VinylDiskAlsoSprach =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskValkyries",
+      "raw_en": "ent-VinylDiskValkyries =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskRomeoJuliet",
+      "raw_en": "ent-VinylDiskRomeoJuliet =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskRussian",
+      "raw_en": "ent-VinylDiskRussian =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskFlowerDuet",
+      "raw_en": "ent-VinylDiskFlowerDuet =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskWinterVivaldi",
+      "raw_en": "ent-VinylDiskWinterVivaldi =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskBachCello",
+      "raw_en": "ent-VinylDiskBachCello =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskGetThatAntag",
+      "raw_en": "ent-VinylDiskGetThatAntag =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskWantYouGone",
+      "raw_en": "ent-VinylDiskWantYouGone =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskLaw2",
+      "raw_en": "ent-VinylDiskLaw2 =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskEphedrine",
+      "raw_en": "ent-VinylDiskEphedrine =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskRunningOut",
+      "raw_en": "ent-VinylDiskRunningOut =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskJourney",
+      "raw_en": "ent-VinylDiskJourney =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskTraitorousIntent",
+      "raw_en": "ent-VinylDiskTraitorousIntent =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskViolet",
+      "raw_en": "ent-VinylDiskViolet =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskEgg",
+      "raw_en": "ent-VinylDiskEgg =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskWeAreNumberTwo",
+      "raw_en": "ent-VinylDiskWeAreNumberTwo =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylDiskExtraMetal",
+      "raw_en": "ent-VinylDiskExtraMetal =\n    .desc = A vinyl disk containing music.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveAI",
+      "raw_en": "ent-VinylSleeveAI =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveDevil",
+      "raw_en": "ent-VinylSleeveDevil =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleevePizza",
+      "raw_en": "ent-VinylSleevePizza =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveFart",
+      "raw_en": "ent-VinylSleeveFart =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveLavaLand",
+      "raw_en": "ent-VinylSleeveLavaLand =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveHockey",
+      "raw_en": "ent-VinylSleeveHockey =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveRat",
+      "raw_en": "ent-VinylSleeveRat =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveWeird",
+      "raw_en": "ent-VinylSleeveWeird =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveVampire",
+      "raw_en": "ent-VinylSleeveVampire =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveShulker",
+      "raw_en": "ent-VinylSleeveShulker =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveRedSun",
+      "raw_en": "ent-VinylSleeveRedSun =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveFisherman",
+      "raw_en": "ent-VinylSleeveFisherman =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveReactor",
+      "raw_en": "ent-VinylSleeveReactor =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleevePda",
+      "raw_en": "ent-VinylSleevePda =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveEye",
+      "raw_en": "ent-VinylSleeveEye =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveCoffee",
+      "raw_en": "ent-VinylSleeveCoffee =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveJapan",
+      "raw_en": "ent-VinylSleeveJapan =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    }
+  ]
+}

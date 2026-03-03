@@ -2,6 +2,7 @@ ent-CosmicShuttleCore = instrumento maligno
     .desc = Su superficie brilla con una miríada de glifos inescrutables que comunican una sola palabra a tu mente: "Vuelo".
 
 ent-CosmicChair = sofá maligno
+    .desc = Te sientas en esto. Ya sea por voluntad o por la fuerza.
 
 ent-CosmicObelisk = obelisco maligno
     .desc = Una estructura misteriosa pero inerte. Inquietante.

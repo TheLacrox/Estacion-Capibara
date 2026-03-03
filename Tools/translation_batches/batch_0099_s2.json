@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0099_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "SheetUranium1",
+      "raw_en": "ent-SheetUranium1 =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    },
+    {
+      "id": "MaterialSheetMeat",
+      "raw_en": "ent-MaterialSheetMeat =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    },
+    {
+      "id": "BedsheetBlack",
+      "raw_en": "ent-BedsheetBlack =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetBlue",
+      "raw_en": "ent-BedsheetBlue =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetBrown",
+      "raw_en": "ent-BedsheetBrown =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetGreen",
+      "raw_en": "ent-BedsheetGreen =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetGrey",
+      "raw_en": "ent-BedsheetGrey =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetIan",
+      "raw_en": "ent-BedsheetIan =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetOrange",
+      "raw_en": "ent-BedsheetOrange =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetPurple",
+      "raw_en": "ent-BedsheetPurple =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetQM",
+      "raw_en": "ent-BedsheetQM =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetRainbow",
+      "raw_en": "ent-BedsheetRainbow =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetRed",
+      "raw_en": "ent-BedsheetRed =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetUSA",
+      "raw_en": "ent-BedsheetUSA =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetWhite",
+      "raw_en": "ent-BedsheetWhite =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BedsheetYellow",
+      "raw_en": "ent-BedsheetYellow =\n    .desc = A surprisingly soft linen bedsheet.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/bedsheets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/bedsheets.ftl"
+    },
+    {
+      "id": "BriefcaseBrown",
+      "raw_en": "ent-BriefcaseBrown =\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/briefcases.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/briefcases.ftl"
+    },
+    {
+      "id": "CandleRed",
+      "raw_en": "ent-CandleRed =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleBlue",
+      "raw_en": "ent-CandleBlue =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleBlack",
+      "raw_en": "ent-CandleBlack =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleGreen",
+      "raw_en": "ent-CandleGreen =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandlePurple",
+      "raw_en": "ent-CandlePurple =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleSmall",
+      "raw_en": "ent-CandleSmall =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleRedSmall",
+      "raw_en": "ent-CandleRedSmall =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleBlueSmall",
+      "raw_en": "ent-CandleBlueSmall =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleBlackSmall",
+      "raw_en": "ent-CandleBlackSmall =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleGreenSmall",
+      "raw_en": "ent-CandleGreenSmall =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandlePurpleSmall",
+      "raw_en": "ent-CandlePurpleSmall =\n    .desc = A thin wick threaded through fat.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleRedInfinite",
+      "raw_en": "ent-CandleRedInfinite =\n    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleBlueInfinite",
+      "raw_en": "ent-CandleBlueInfinite =\n    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleBlackInfinite",
+      "raw_en": "ent-CandleBlackInfinite =\n    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleGreenInfinite",
+      "raw_en": "ent-CandleGreenInfinite =\n    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandlePurpleInfinite",
+      "raw_en": "ent-CandlePurpleInfinite =\n    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleRedSmallInfinite",
+      "raw_en": "ent-CandleRedSmallInfinite =\n    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleBlueSmallInfinite",
+      "raw_en": "ent-CandleBlueSmallInfinite =\n    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleBlackSmallInfinite",
+      "raw_en": "ent-CandleBlackSmallInfinite =\n    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandleGreenSmallInfinite",
+      "raw_en": "ent-CandleGreenSmallInfinite =\n    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "CandlePurpleSmallInfinite",
+      "raw_en": "ent-CandlePurpleSmallInfinite =\n    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/candles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/candles.ftl"
+    },
+    {
+      "id": "FloorCarpetItemRed",
+      "raw_en": "ent-FloorCarpetItemRed =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/carpets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/carpets.ftl"
+    },
+    {
+      "id": "PassengerIDCard",
+      "raw_en": "ent-PassengerIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "TechnicalAssistantIDCard",
+      "raw_en": "ent-TechnicalAssistantIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "MedicalInternIDCard",
+      "raw_en": "ent-MedicalInternIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ResearchAssistantIDCard",
+      "raw_en": "ent-ResearchAssistantIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "SecurityCadetIDCard",
+      "raw_en": "ent-SecurityCadetIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ServiceWorkerIDCard",
+      "raw_en": "ent-ServiceWorkerIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CaptainIDCard",
+      "raw_en": "ent-CaptainIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "SecurityIDCard",
+      "raw_en": "ent-SecurityIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "WardenIDCard",
+      "raw_en": "ent-WardenIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "EngineeringIDCard",
+      "raw_en": "ent-EngineeringIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "MedicalIDCard",
+      "raw_en": "ent-MedicalIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    }
+  ]
+}

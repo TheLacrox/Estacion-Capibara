@@ -23,3 +23,4 @@ ent-CowToolbox = caja de herramientas muuna
     .desc = Una caja de forma peculiar, repleta de... ¿herramientas?
 
 ent-CowToolboxFilled = caja de herramientas muuna
+    .desc = Una caja de forma peculiar, repleta de... ¿herramientas?

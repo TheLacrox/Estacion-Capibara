@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0110_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "CrateTrashCartJani",
+      "raw_en": "ent-CrateTrashCartJani =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/crates/crates.ftl"
+    },
+    {
+      "id": "filingCabinet",
+      "raw_en": "ent-filingCabinet =\n    .desc = A cabinet for all your filing needs.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/filing_cabinets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/filing_cabinets.ftl"
+    },
+    {
+      "id": "filingCabinetTall",
+      "raw_en": "ent-filingCabinetTall =\n    .desc = A cabinet for all your filing needs.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/filing_cabinets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/filing_cabinets.ftl"
+    },
+    {
+      "id": "SignalSwitchDirectional",
+      "raw_en": "ent-SignalSwitchDirectional =\n    .desc = It's a switch for toggling power to things.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/switches/switch.ftl"
+    },
+    {
+      "id": "SignalButtonDirectional",
+      "raw_en": "ent-SignalButtonDirectional =\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/switches/switch.ftl"
+    },
+    {
+      "id": "ApcNetSwitchDirectional",
+      "raw_en": "ent-ApcNetSwitchDirectional =\n    .desc = It's a switch for toggling lights that are connected to the same apc.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/switches/switch.ftl"
+    },
+    {
+      "id": "LockableButton",
+      "raw_en": "ent-LockableButton =\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/switches/switch.ftl"
+    },
+    {
+      "id": "SignalButtonExt1",
+      "raw_en": "ent-SignalButtonExt1 =\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch_autolink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/switches/switch_autolink.ftl"
+    },
+    {
+      "id": "SignalButtonExt2",
+      "raw_en": "ent-SignalButtonExt2 =\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch_autolink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/switches/switch_autolink.ftl"
+    },
+    {
+      "id": "SignalButtonExt3",
+      "raw_en": "ent-SignalButtonExt3 =\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch_autolink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/switches/switch_autolink.ftl"
+    },
+    {
+      "id": "SignalButtonBridge",
+      "raw_en": "ent-SignalButtonBridge =\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch_autolink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/switches/switch_autolink.ftl"
+    },
+    {
+      "id": "SignalButtonWindows",
+      "raw_en": "ent-SignalButtonWindows =\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch_autolink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/switches/switch_autolink.ftl"
+    },
+    {
+      "id": "SurveillanceCameraConstructed",
+      "raw_en": "ent-SurveillanceCameraConstructed =\n    .desc = A surveillance camera. It's watching you. Kinda.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/surveillance_camera.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/wallmountmachines/surveillance_camera.ftl"
+    },
+    {
+      "id": "SurveillanceCameraEngineering",
+      "raw_en": "ent-SurveillanceCameraEngineering =\n    .desc = A surveillance camera. It's watching you. Kinda.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/surveillance_camera.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/wallmountmachines/surveillance_camera.ftl"
+    },
+    {
+      "id": "SurveillanceCameraSecurity",
+      "raw_en": "ent-SurveillanceCameraSecurity =\n    .desc = A surveillance camera. It's watching you. Kinda.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/surveillance_camera.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/wallmountmachines/surveillance_camera.ftl"
+    },
+    {
+      "id": "SurveillanceCameraScience",
+      "raw_en": "ent-SurveillanceCameraScience =\n    .desc = A surveillance camera. It's watching you. Kinda.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/surveillance_camera.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/wallmountmachines/surveillance_camera.ftl"
+    },
+    {
+      "id": "SurveillanceCameraSupply",
+      "raw_en": "ent-SurveillanceCameraSupply =\n    .desc = A surveillance camera. It's watching you. Kinda.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/surveillance_camera.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/wallmountmachines/surveillance_camera.ftl"
+    },
+    {
+      "id": "SurveillanceCameraCommand",
+      "raw_en": "ent-SurveillanceCameraCommand =\n    .desc = A surveillance camera. It's watching you. Kinda.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/surveillance_camera.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/wallmountmachines/surveillance_camera.ftl"
+    },
+    {
+      "id": "SurveillanceCameraService",
+      "raw_en": "ent-SurveillanceCameraService =\n    .desc = A surveillance camera. It's watching you. Kinda.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/surveillance_camera.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/wallmountmachines/surveillance_camera.ftl"
+    },
+    {
+      "id": "SurveillanceCameraMedical",
+      "raw_en": "ent-SurveillanceCameraMedical =\n    .desc = A surveillance camera. It's watching you. Kinda.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/surveillance_camera.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/wallmountmachines/surveillance_camera.ftl"
+    },
+    {
+      "id": "SurveillanceCameraGeneral",
+      "raw_en": "ent-SurveillanceCameraGeneral =\n    .desc = A surveillance camera. It's watching you. Kinda.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/surveillance_camera.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/wallmounts/wallmountmachines/surveillance_camera.ftl"
+    },
+    {
+      "id": "WallRock",
+      "raw_en": "ent-WallRock =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/asteroid.ftl"
+    },
+    {
+      "id": "WallRockBasalt",
+      "raw_en": "ent-WallRockBasalt =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/asteroid.ftl"
+    },
+    {
+      "id": "WallRockSnow",
+      "raw_en": "ent-WallRockSnow =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/asteroid.ftl"
+    },
+    {
+      "id": "WallRockSand",
+      "raw_en": "ent-WallRockSand =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/asteroid.ftl"
+    },
+    {
+      "id": "WallRockChromite",
+      "raw_en": "ent-WallRockChromite =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/asteroid.ftl"
+    },
+    {
+      "id": "WallRockAndesite",
+      "raw_en": "ent-WallRockAndesite =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/asteroid.ftl"
+    },
+    {
+      "id": "GrilleDiagonal",
+      "raw_en": "ent-GrilleDiagonal =\n    .desc = A flimsy framework of iron rods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/grille.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/grille.ftl"
+    },
+    {
+      "id": "ClockworkGrilleDiagonal",
+      "raw_en": "ent-ClockworkGrilleDiagonal =\n    .desc = A flimsy framework of iron rods assembled in traditional Ratvarian fashion.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/grille.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/grille.ftl"
+    },
+    {
+      "id": "WallBrick",
+      "raw_en": "ent-WallBrick =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallClock",
+      "raw_en": "ent-WallClock =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallClown",
+      "raw_en": "ent-WallClown =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallCult",
+      "raw_en": "ent-WallCult =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallDebug",
+      "raw_en": "ent-WallDebug =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallDiamond",
+      "raw_en": "ent-WallDiamond =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallGold",
+      "raw_en": "ent-WallGold =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallIce",
+      "raw_en": "ent-WallIce =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallPlasma",
+      "raw_en": "ent-WallPlasma =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallPlastic",
+      "raw_en": "ent-WallPlastic =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallPlastitaniumIndestructible",
+      "raw_en": "ent-WallPlastitaniumIndestructible =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallPlastitanium",
+      "raw_en": "ent-WallPlastitanium =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallPlastitaniumDiagonalIndestructible",
+      "raw_en": "ent-WallPlastitaniumDiagonalIndestructible =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallPlastitaniumDiagonal",
+      "raw_en": "ent-WallPlastitaniumDiagonal =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallReinforced",
+      "raw_en": "ent-WallReinforced =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallReinforcedDiagonal",
+      "raw_en": "ent-WallReinforcedDiagonal =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallRiveted",
+      "raw_en": "ent-WallRiveted =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallSandstone",
+      "raw_en": "ent-WallSandstone =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallSilver",
+      "raw_en": "ent-WallSilver =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallShuttleDiagonal",
+      "raw_en": "ent-WallShuttleDiagonal =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    },
+    {
+      "id": "WallShuttle",
+      "raw_en": "ent-WallShuttle =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/walls/walls.ftl"
+    }
+  ]
+}

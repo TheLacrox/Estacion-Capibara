@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0087_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "PurpleSlimeExtract",
+      "raw_en": "ent-PurpleSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t1/purple.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t1/purple.ftl"
+    },
+    {
+      "id": "CeruleanSlimeExtract",
+      "raw_en": "ent-CeruleanSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t2/cerulean.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t2/cerulean.ftl"
+    },
+    {
+      "id": "DarkBlueSlimeExtract",
+      "raw_en": "ent-DarkBlueSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t2/dark_blue.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t2/dark_blue.ftl"
+    },
+    {
+      "id": "DarkPurpleSlimeExtract",
+      "raw_en": "ent-DarkPurpleSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t2/dark_purple.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t2/dark_purple.ftl"
+    },
+    {
+      "id": "SilverSlimeExtract",
+      "raw_en": "ent-SilverSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t2/silver.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t2/silver.ftl"
+    },
+    {
+      "id": "YellowSlimeExtract",
+      "raw_en": "ent-YellowSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t2/yellow.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t2/yellow.ftl"
+    },
+    {
+      "id": "BluespaceSlimeExtract",
+      "raw_en": "ent-BluespaceSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t3/bluespace.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t3/bluespace.ftl"
+    },
+    {
+      "id": "GoldSlimeExtract",
+      "raw_en": "ent-GoldSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t3/gold.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t3/gold.ftl"
+    },
+    {
+      "id": "GreenSlimeExtract",
+      "raw_en": "ent-GreenSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t3/green.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t3/green.ftl"
+    },
+    {
+      "id": "PinkSlimeExtract",
+      "raw_en": "ent-PinkSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t3/pink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t3/pink.ftl"
+    },
+    {
+      "id": "PyriteSlimeExtract",
+      "raw_en": "ent-PyriteSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t3/pyrite.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t3/pyrite.ftl"
+    },
+    {
+      "id": "RedSlimeExtract",
+      "raw_en": "ent-RedSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t3/red.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t3/red.ftl"
+    },
+    {
+      "id": "SepiaSlimeExtract",
+      "raw_en": "ent-SepiaSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t3/sepia.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t3/sepia.ftl"
+    },
+    {
+      "id": "AdamantineSlimeExtract",
+      "raw_en": "ent-AdamantineSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t4/adamantine.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t4/adamantine.ftl"
+    },
+    {
+      "id": "BlackSlimeExtract",
+      "raw_en": "ent-BlackSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t4/black.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t4/black.ftl"
+    },
+    {
+      "id": "LightPinkSlimeExtract",
+      "raw_en": "ent-LightPinkSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t4/light_pink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t4/light_pink.ftl"
+    },
+    {
+      "id": "OilSlimeExtract",
+      "raw_en": "ent-OilSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t4/oil.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t4/oil.ftl"
+    },
+    {
+      "id": "SlimeCube",
+      "raw_en": "ent-SlimeCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/xenobiocubes.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/xenobiocubes.ftl"
+    },
+    {
+      "id": "MobLavalandGoliathAncient",
+      "raw_en": "ent-MobLavalandGoliathAncient =\n    .desc = A massive beast that uses long tentacles to ensnare its prey, threatening them is not advised under any conditions.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Mobs/goliath.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/mobs/goliath.ftl"
+    },
+    {
+      "id": "FloraAshtree",
+      "raw_en": "ent-FloraAshtree =\n    .desc = Yep, it's a tree.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Decoration/trees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/decoration/trees.ftl"
+    },
+    {
+      "id": "ArtifactFragmentOre",
+      "raw_en": "ent-ArtifactFragmentOre =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "GoldOreUnprocessed",
+      "raw_en": "ent-GoldOreUnprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "GoldOre1Unprocessed",
+      "raw_en": "ent-GoldOre1Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "DiamondOreUnprocessed",
+      "raw_en": "ent-DiamondOreUnprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "DiamondOre1Unprocessed",
+      "raw_en": "ent-DiamondOre1Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SteelOreUnprocessed",
+      "raw_en": "ent-SteelOreUnprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SteelOre1Unprocessed",
+      "raw_en": "ent-SteelOre1Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SteelOre60Unprocessed",
+      "raw_en": "ent-SteelOre60Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SteelOre90Unprocessed",
+      "raw_en": "ent-SteelOre90Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "PlasmaOreUnprocessed",
+      "raw_en": "ent-PlasmaOreUnprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "PlasmaOre1Unprocessed",
+      "raw_en": "ent-PlasmaOre1Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SilverOreUnprocessed",
+      "raw_en": "ent-SilverOreUnprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SilverOre1Unprocessed",
+      "raw_en": "ent-SilverOre1Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SpaceQuartzUnprocessed",
+      "raw_en": "ent-SpaceQuartzUnprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SpaceQuartz1Unprocessed",
+      "raw_en": "ent-SpaceQuartz1Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SpaceQuartz60Unprocessed",
+      "raw_en": "ent-SpaceQuartz60Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SpaceQuartz90Unprocessed",
+      "raw_en": "ent-SpaceQuartz90Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "UraniumOreUnprocessed",
+      "raw_en": "ent-UraniumOreUnprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "UraniumOre1Unprocessed",
+      "raw_en": "ent-UraniumOre1Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "BananiumOreUnprocessed",
+      "raw_en": "ent-BananiumOreUnprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "BananiumOre1Unprocessed",
+      "raw_en": "ent-BananiumOre1Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "CoalUnprocessed",
+      "raw_en": "ent-CoalUnprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "Coal1Unprocessed",
+      "raw_en": "ent-Coal1Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "Coal5Unprocessed",
+      "raw_en": "ent-Coal5Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "Coal10Unprocessed",
+      "raw_en": "ent-Coal10Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "Coal15Unprocessed",
+      "raw_en": "ent-Coal15Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "Coal60Unprocessed",
+      "raw_en": "ent-Coal60Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "Coal90Unprocessed",
+      "raw_en": "ent-Coal90Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "ArtifactFragmentOreUnprocessed",
+      "raw_en": "ent-ArtifactFragmentOreUnprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "ArtifactFragmentOre1Unprocessed",
+      "raw_en": "ent-ArtifactFragmentOre1Unprocessed =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/materials/ore.ftl"
+    }
+  ]
+}

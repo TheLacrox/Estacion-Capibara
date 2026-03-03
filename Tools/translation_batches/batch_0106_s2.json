@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0106_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "AnomalousParticleDelta",
+      "raw_en": "ent-AnomalousParticleDelta =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "AnomalousParticleEpsilon",
+      "raw_en": "ent-AnomalousParticleEpsilon =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "AnomalousParticleZeta",
+      "raw_en": "ent-AnomalousParticleZeta =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "AnomalousParticleOmegaStrong",
+      "raw_en": "ent-AnomalousParticleOmegaStrong =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "AnomalousParticleSigma",
+      "raw_en": "ent-AnomalousParticleSigma =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "AnomalousParticleSigmaStrong",
+      "raw_en": "ent-AnomalousParticleSigmaStrong =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletRocket",
+      "raw_en": "ent-BulletRocket =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletWeakRocket",
+      "raw_en": "ent-BulletWeakRocket =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletGrenadeBaton",
+      "raw_en": "ent-BulletGrenadeBaton =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletGrenadeBlast",
+      "raw_en": "ent-BulletGrenadeBlast =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletGrenadeFlash",
+      "raw_en": "ent-BulletGrenadeFlash =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletGrenadeFrag",
+      "raw_en": "ent-BulletGrenadeFrag =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletGrenadeCleanade",
+      "raw_en": "ent-BulletGrenadeCleanade =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletGrenadeEMP",
+      "raw_en": "ent-BulletGrenadeEMP =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletCap",
+      "raw_en": "ent-BulletCap =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletAcid",
+      "raw_en": "ent-BulletAcid =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletHivebot",
+      "raw_en": "ent-BulletHivebot =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletCannonBall",
+      "raw_en": "ent-BulletCannonBall =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "TeslaGunBullet",
+      "raw_en": "ent-TeslaGunBullet =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletLaser",
+      "raw_en": "ent-BulletLaser =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletLaserSpread",
+      "raw_en": "ent-BulletLaserSpread =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletLaserSpreadNarrow",
+      "raw_en": "ent-BulletLaserSpreadNarrow =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletDisablerSmgSpread",
+      "raw_en": "ent-BulletDisablerSmgSpread =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "WeaponShotgunDoubleBarreledRubber",
+      "raw_en": "ent-WeaponShotgunDoubleBarreledRubber =\n    .desc = An immortal classic. Uses 12 Gauge shotgun shells.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Shotguns/shotguns.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/shotguns/shotguns.ftl"
+    },
+    {
+      "id": "WeaponShotgunSawnEmpty",
+      "raw_en": "ent-WeaponShotgunSawnEmpty =\n    .desc = Groovy! Uses 12 Gauge shotgun shells.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Shotguns/shotguns.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/shotguns/shotguns.ftl"
+    },
+    {
+      "id": "WeaponShotgunImprovisedLoaded",
+      "raw_en": "ent-WeaponShotgunImprovisedLoaded =\n    .desc = A shitty, hand-made shotgun that uses 12 Gauge shotgun shells. It can only hold one round in the chamber.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Shotguns/shotguns.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/shotguns/shotguns.ftl"
+    },
+    {
+      "id": "WeaponTurretSyndicateDisposable",
+      "raw_en": "ent-WeaponTurretSyndicateDisposable =\n    .desc = A ballistic machine gun auto-turret.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Turrets/turrets_ballistic.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/turrets/turrets_ballistic.ftl"
+    },
+    {
+      "id": "SciFlash",
+      "raw_en": "ent-SciFlash =\n    .desc = An ultrabright flashbulb with a trigger, which causes the victim to be dazed and lose their eyesight for a moment. Useless when burnt out.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/security.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/security.ftl"
+    },
+    {
+      "id": "Bola",
+      "raw_en": "ent-Bola =\n    .desc = Linked together with some spare cuffs and metal.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Throwable/bola.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/throwable/bola.ftl"
+    },
+    {
+      "id": "ThrowingStarNinja",
+      "raw_en": "ent-ThrowingStarNinja =\n    .desc = An ancient weapon still used to this day, due to its ease of lodging itself into its victim's body parts.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Throwable/throwing_stars.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/throwable/throwing_stars.ftl"
+    },
+    {
+      "id": "AirlockMaint",
+      "raw_en": "ent-AirlockMaint =\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/doors/airlocks/airlocks.ftl"
+    },
+    {
+      "id": "AirlockHatch",
+      "raw_en": "ent-AirlockHatch =\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/doors/airlocks/airlocks.ftl"
+    },
+    {
+      "id": "AirlockHatchMaintenance",
+      "raw_en": "ent-AirlockHatchMaintenance =\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/doors/airlocks/airlocks.ftl"
+    },
+    {
+      "id": "PinionAirlockAssembly",
+      "raw_en": "ent-PinionAirlockAssembly =\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/assembly.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/doors/airlocks/assembly.ftl"
+    },
+    {
+      "id": "AirlockGlass",
+      "raw_en": "ent-AirlockGlass =\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/base_structureairlocks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/doors/airlocks/base_structureairlocks.ftl"
+    },
+    {
+      "id": "FirelockGlass",
+      "raw_en": "ent-FirelockGlass =\n    .desc = Apply crowbar.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Firelocks/firelock.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/doors/firelocks/firelock.ftl"
+    },
+    {
+      "id": "FirelockEdge",
+      "raw_en": "ent-FirelockEdge =\n    .desc = Apply crowbar.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Firelocks/firelock.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/doors/firelocks/firelock.ftl"
+    },
+    {
+      "id": "MetalDoor",
+      "raw_en": "ent-MetalDoor =\n    .desc = A door, where will it lead?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/MaterialDoors/material_doors.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/doors/materialdoors/material_doors.ftl"
+    },
+    {
+      "id": "ReinforcedSecretDoor",
+      "raw_en": "ent-ReinforcedSecretDoor =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/SecretDoor/reinforced_secret_door.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/doors/secretdoor/reinforced_secret_door.ftl"
+    },
+    {
+      "id": "SolidSecretDoor",
+      "raw_en": "ent-SolidSecretDoor =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/SecretDoor/secret_door.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/doors/secretdoor/secret_door.ftl"
+    },
+    {
+      "id": "AltarNanotrasen",
+      "raw_en": "ent-AltarNanotrasen =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarChaos",
+      "raw_en": "ent-AltarChaos =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarDruid",
+      "raw_en": "ent-AltarDruid =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarToolbox",
+      "raw_en": "ent-AltarToolbox =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarSpaceChristian",
+      "raw_en": "ent-AltarSpaceChristian =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarSatana",
+      "raw_en": "ent-AltarSatana =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarTechnology",
+      "raw_en": "ent-AltarTechnology =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarConvertFestival",
+      "raw_en": "ent-AltarConvertFestival =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarConvertMaint",
+      "raw_en": "ent-AltarConvertMaint =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarConvertBlue",
+      "raw_en": "ent-AltarConvertBlue =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0089_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "BulletDislippler",
+      "raw_en": "ent-BulletDislippler =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Omu/Entities/Objects/Weapons/Guns/Battery/dislippler.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_omu/entities/objects/weapons/guns/battery/dislippler.ftl"
+    },
+    {
+      "id": "RMCStreetlight",
+      "raw_en": "ent-RMCStreetlight =\n    .desc = A pillar of light in the darkness.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Objects/Misc/floodlights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_rmc14/entities/objects/misc/floodlights.ftl"
+    },
+    {
+      "id": "RMCStreetlightOff",
+      "raw_en": "ent-RMCStreetlightOff =\n    .desc = A pillar of light in the darkness.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Objects/Misc/floodlights.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_rmc14/entities/objects/misc/floodlights.ftl"
+    },
+    {
+      "id": "RMCCatwalkHybrisa",
+      "raw_en": "ent-RMCCatwalkHybrisa =\n    .desc = A catwalk for easier EVA maneuvering and cable placement.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_rmc14/entities/structures/catwalk.ftl"
+    },
+    {
+      "id": "RMCCatwalkHybrisaLattice",
+      "raw_en": "ent-RMCCatwalkHybrisaLattice =\n    .desc = A catwalk for easier EVA maneuvering and cable placement.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_rmc14/entities/structures/catwalk.ftl"
+    },
+    {
+      "id": "RMCCatwalkHybrisaElevator",
+      "raw_en": "ent-RMCCatwalkHybrisaElevator =\n    .desc = A catwalk for easier EVA maneuvering and cable placement.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_rmc14/entities/structures/catwalk.ftl"
+    },
+    {
+      "id": "RMCPlatformSandstoneStairRight",
+      "raw_en": "ent-RMCPlatformSandstoneStairRight =\n    .desc = A square metal surface resting on four legs.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_rmc14/entities/structures/platforms/platform.ftl"
+    },
+    {
+      "id": "RMCPlatformSandstoneStairLeft",
+      "raw_en": "ent-RMCPlatformSandstoneStairLeft =\n    .desc = A square metal surface resting on four legs.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_rmc14/entities/structures/platforms/platform.ftl"
+    },
+    {
+      "id": "XenoTunnelMaintHybrisa",
+      "raw_en": "ent-XenoTunnelMaintHybrisa =\n    .desc = An entrance to a maintenance tunnel. You can see bits of slime and resin within. Pieces of debris keep you from getting a closer look.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Xeno/xeno_tunnel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_rmc14/entities/structures/xeno/xeno_tunnel.ftl"
+    },
+    {
+      "id": "XenoTunnelMaintHybrisaNoXenoDesc",
+      "raw_en": "ent-XenoTunnelMaintHybrisaNoXenoDesc =\n    .desc = An entrance to a maintenance tunnel. Pieces of debris keep you from getting a closer look.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Xeno/xeno_tunnel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_rmc14/entities/structures/xeno/xeno_tunnel.ftl"
+    },
+    {
+      "id": "OrganLaserEyes",
+      "raw_en": "ent-OrganLaserEyes =\n    .desc = I see you!",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/Animal/space.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/body/organs/animal/space.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltAbductor",
+      "raw_en": "ent-ClothingHeadsetAltAbductor =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "MeleeDebugSever100",
+      "raw_en": "ent-MeleeDebugSever100 =\n    .desc = sever yer parts a week from now",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Debugging/debug_sweps.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/debugging/debug_sweps.ftl"
+    },
+    {
+      "id": "MeleeDebugSever200",
+      "raw_en": "ent-MeleeDebugSever200 =\n    .desc = sever yer parts a week from now",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Debugging/debug_sweps.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/debugging/debug_sweps.ftl"
+    },
+    {
+      "id": "MeleeDebugBurner200",
+      "raw_en": "ent-MeleeDebugBurner200 =\n    .desc = burn yer parts",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Debugging/debug_sweps.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/debugging/debug_sweps.ftl"
+    },
+    {
+      "id": "AugmentToolPanelCasing",
+      "raw_en": "ent-AugmentToolPanelCasing =\n    .desc = Can be implanted into a body to provide access to specific tools. This one is incomplete.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Objects/Augments/arm.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/objects/augments/arm.ftl"
+    },
+    {
+      "id": "AugmentToolPanelCables",
+      "raw_en": "ent-AugmentToolPanelCables =\n    .desc = Can be implanted into a body to provide access to specific tools. This one is incomplete.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Objects/Augments/arm.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/objects/augments/arm.ftl"
+    },
+    {
+      "id": "AugmentStrengthCasing",
+      "raw_en": "ent-AugmentStrengthCasing =\n    .desc = Can be implanted into a body to increase physical strength. This one is incomplete.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Objects/Augments/arm.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/objects/augments/arm.ftl"
+    },
+    {
+      "id": "AugmentStrengthCables",
+      "raw_en": "ent-AugmentStrengthCables =\n    .desc = Can be implanted into a body to increase physical strength. This one is incomplete.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Objects/Augments/arm.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/objects/augments/arm.ftl"
+    },
+    {
+      "id": "OmnimedToolDebug",
+      "raw_en": "ent-OmnimedToolDebug =\n    .desc = A compact surgical omnitool conveniently packed like a Swiss Army knife, except that its user has probably violated a couple of Swiss conventions. Can perform surgery through clothing.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Objects/Specific/Medical/surgery.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/objects/specific/medical/surgery.ftl"
+    },
+    {
+      "id": "BulletDeclone",
+      "raw_en": "ent-BulletDeclone =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Objects/Weapons/Guns/Battery/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/objects/weapons/guns/battery/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "AbductorOperatingTable",
+      "raw_en": "ent-AbductorOperatingTable =\n    .desc = Used for advanced medical procedures.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Structures/Furniture/Tables/tables.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/entities/structures/furniture/tables/tables.ftl"
+    },
+    {
+      "id": "MindRoleLoneAbductor",
+      "raw_en": "ent-MindRoleLoneAbductor =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Roles/Antags/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/roles/antags/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleAbductorAgent",
+      "raw_en": "ent-MindRoleAbductorAgent =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Roles/Antags/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/roles/antags/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleAbductorScientist",
+      "raw_en": "ent-MindRoleAbductorScientist =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Roles/Antags/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/roles/antags/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleAbductorVictim",
+      "raw_en": "ent-MindRoleAbductorVictim =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Roles/Antags/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_shitmed/roles/antags/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "BenchParkMiddle",
+      "raw_en": "ent-BenchParkMiddle =\n    .desc = Multiple seats spanning a single object. Truly a marvel of science.",
+      "source_yaml": "Resources/Prototypes/_SimpleStation/Entities/Furniture/benches.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_simplestation/entities/furniture/benches.ftl"
+    },
+    {
+      "id": "BenchParkBambooMiddle",
+      "raw_en": "ent-BenchParkBambooMiddle =\n    .desc = Multiple seats spanning a single object. Truly a marvel of science.",
+      "source_yaml": "Resources/Prototypes/_SimpleStation/Entities/Furniture/benches.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_simplestation/entities/furniture/benches.ftl"
+    },
+    {
+      "id": "BenchPewMiddle",
+      "raw_en": "ent-BenchPewMiddle =\n    .desc = Multiple seats spanning a single object. Truly a marvel of science.",
+      "source_yaml": "Resources/Prototypes/_SimpleStation/Entities/Furniture/benches.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_simplestation/entities/furniture/benches.ftl"
+    },
+    {
+      "id": "BenchSteelMiddle",
+      "raw_en": "ent-BenchSteelMiddle =\n    .desc = Multiple seats spanning a single object. Truly a marvel of science.",
+      "source_yaml": "Resources/Prototypes/_SimpleStation/Entities/Furniture/benches.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_simplestation/entities/furniture/benches.ftl"
+    },
+    {
+      "id": "BenchSteelWhiteMiddle",
+      "raw_en": "ent-BenchSteelWhiteMiddle =\n    .desc = Multiple seats spanning a single object. Truly a marvel of science.",
+      "source_yaml": "Resources/Prototypes/_SimpleStation/Entities/Furniture/benches.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_simplestation/entities/furniture/benches.ftl"
+    },
+    {
+      "id": "BenchSofaMiddle",
+      "raw_en": "ent-BenchSofaMiddle =\n    .desc = Multiple seats spanning a single object. Truly a marvel of science.",
+      "source_yaml": "Resources/Prototypes/_SimpleStation/Entities/Furniture/benches.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_simplestation/entities/furniture/benches.ftl"
+    },
+    {
+      "id": "BenchSofaCorpMiddle",
+      "raw_en": "ent-BenchSofaCorpMiddle =\n    .desc = Multiple seats spanning a single object. Truly a marvel of science.",
+      "source_yaml": "Resources/Prototypes/_SimpleStation/Entities/Furniture/benches.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_simplestation/entities/furniture/benches.ftl"
+    },
+    {
+      "id": "OrganXenomorphPlasmaVesselLarge",
+      "raw_en": "ent-OrganXenomorphPlasmaVesselLarge =\n    .desc = A reservoir containing concentrated and highly active plasma - the main source of energy and raw material for the xenomorph's biological weapons.",
+      "source_yaml": "Resources/Prototypes/_White/Body/Organs/Animal/xenomorph.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_white/body/organs/animal/xenomorph.ftl"
+    },
+    {
+      "id": "OrganXenomorphPlasmaVesselSmall",
+      "raw_en": "ent-OrganXenomorphPlasmaVesselSmall =\n    .desc = A reservoir containing concentrated and highly active plasma - the main source of energy and raw material for the xenomorph's biological weapons.",
+      "source_yaml": "Resources/Prototypes/_White/Body/Organs/Animal/xenomorph.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_white/body/organs/animal/xenomorph.ftl"
+    },
+    {
+      "id": "OrganXenomorphPlasmaVesselTiny",
+      "raw_en": "ent-OrganXenomorphPlasmaVesselTiny =\n    .desc = A reservoir containing concentrated and highly active plasma - the main source of energy and raw material for the xenomorph's biological weapons.",
+      "source_yaml": "Resources/Prototypes/_White/Body/Organs/Animal/xenomorph.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_white/body/organs/animal/xenomorph.ftl"
+    },
+    {
+      "id": "BulletNeurotoxin",
+      "raw_en": "ent-BulletNeurotoxin =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_White/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_white/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "MindRoleXenomorph",
+      "raw_en": "ent-MindRoleXenomorph =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_White/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_white/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "OrganDwarfHeart",
+      "raw_en": "ent-OrganDwarfHeart =\n    .desc = I feel bad for the heartless bastard who lost this.",
+      "source_yaml": "Resources/Prototypes/Body/Organs/dwarf.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/body/organs/dwarf.ftl"
+    },
+    {
+      "id": "OrganDwarfLiver",
+      "raw_en": "ent-OrganDwarfLiver =\n    .desc = Pairing suggestion: chianti and fava beans.",
+      "source_yaml": "Resources/Prototypes/Body/Organs/dwarf.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/body/organs/dwarf.ftl"
+    },
+    {
+      "id": "OrganDwarfStomach",
+      "raw_en": "ent-OrganDwarfStomach =\n    .desc = Gross. This is hard to stomach.",
+      "source_yaml": "Resources/Prototypes/Body/Organs/dwarf.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/body/organs/dwarf.ftl"
+    },
+    {
+      "id": "BoxWarmLightbulb",
+      "raw_en": "ent-BoxWarmLightbulb =\n    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxLighttube",
+      "raw_en": "ent-BoxLighttube =\n    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxLightMixed",
+      "raw_en": "ent-BoxLightMixed =\n    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxLighttubeHoliday",
+      "raw_en": "ent-BoxLighttubeHoliday =\n    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxEncryptionKeyCargo",
+      "raw_en": "ent-BoxEncryptionKeyCargo =\n    .desc = A box of spare encryption keys.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxEncryptionKeyEngineering",
+      "raw_en": "ent-BoxEncryptionKeyEngineering =\n    .desc = A box of spare encryption keys.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxEncryptionKeyMedicalScience",
+      "raw_en": "ent-BoxEncryptionKeyMedicalScience =\n    .desc = A box of spare encryption keys.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxEncryptionKeyMedical",
+      "raw_en": "ent-BoxEncryptionKeyMedical =\n    .desc = A box of spare encryption keys.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxEncryptionKeyRobo",
+      "raw_en": "ent-BoxEncryptionKeyRobo =\n    .desc = A box of spare encryption keys.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    }
+  ]
+}

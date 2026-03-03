@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0086_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "AirlockUraniumAssembly",
+      "raw_en": "ent-AirlockUraniumAssembly =\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/airlock.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/airlock.ftl"
+    },
+    {
+      "id": "ClothingHeadHatPaperWizard",
+      "raw_en": "ent-ClothingHeadHatPaperWizard =\n    .desc = A hat made of paper.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "ClothingHeadHatWizardReal",
+      "raw_en": "ent-ClothingHeadHatWizardReal =\n    .desc = A strange-looking blue hat that most certainly belongs to a powerful magic-user.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "ClothingOuterWizardReal",
+      "raw_en": "ent-ClothingOuterWizardReal =\n    .desc = A bizarre gem-encrusted blue robe that radiates magical energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "ClothingHeadHatRedwizardReal",
+      "raw_en": "ent-ClothingHeadHatRedwizardReal =\n    .desc = A strange-looking red hat that most certainly belongs to a powerful magic-user.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "ClothingOuterWizardRedReal",
+      "raw_en": "ent-ClothingOuterWizardRedReal =\n    .desc = A bizarre gem-encrusted red robe that radiates magical energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "ClothingHeadHatVioletwizardReal",
+      "raw_en": "ent-ClothingHeadHatVioletwizardReal =\n    .desc = A strange-looking violet hat that most certainly belongs to a powerful magic-user.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "ClothingOuterWizardVioletReal",
+      "raw_en": "ent-ClothingOuterWizardVioletReal =\n    .desc = A bizarre gem-encrusted violet robe that radiates magical energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "ClothingHeadHatWitchReal",
+      "raw_en": "ent-ClothingHeadHatWitchReal =\n    .desc = Strange-looking hat-wear. Makes you want to cast fireballs.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "ClothingOuterSuitWitchRobesReal",
+      "raw_en": "ent-ClothingOuterSuitWitchRobesReal =\n    .desc = Magic is all about the spell power, ZE!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "ClothingHeadHatShrineMaidenWigReal",
+      "raw_en": "ent-ClothingHeadHatShrineMaidenWigReal =\n    .desc = The tag reads \"All proceeds go to the Hakurei Shrine.\"",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "ClothingOuterSuitShrineMaidenReal",
+      "raw_en": "ent-ClothingOuterSuitShrineMaidenReal =\n    .desc = Makes you want to go deal with some troublesome youkai.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/clothing/wizard.ftl"
+    },
+    {
+      "id": "WizardIDCard",
+      "raw_en": "ent-WizardIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Items/misc.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/items/misc.ftl"
+    },
+    {
+      "id": "GoheiWizard",
+      "raw_en": "ent-GoheiWizard =\n    .desc = A wooden stick with white streamers at the end. Originally used by shrine maidens to purify things. Now used by the station's weeaboos.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Items/weapons.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/items/weapons.ftl"
+    },
+    {
+      "id": "BeeLicoxide",
+      "raw_en": "ent-BeeLicoxide =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeAmatoxin",
+      "raw_en": "ent-BeeAmatoxin =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeLexorin",
+      "raw_en": "ent-BeeLexorin =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeChloralHydrate",
+      "raw_en": "ent-BeeChloralHydrate =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeUnstableMutagen",
+      "raw_en": "ent-BeeUnstableMutagen =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeMindbreakerToxin",
+      "raw_en": "ent-BeeMindbreakerToxin =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeePax",
+      "raw_en": "ent-BeePax =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeLead",
+      "raw_en": "ent-BeeLead =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeLipolicide",
+      "raw_en": "ent-BeeLipolicide =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeImpedrezene",
+      "raw_en": "ent-BeeImpedrezene =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeRazorium",
+      "raw_en": "ent-BeeRazorium =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeMuteToxin",
+      "raw_en": "ent-BeeMuteToxin =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeBuzzochloricBees",
+      "raw_en": "ent-BeeBuzzochloricBees =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeLaughter",
+      "raw_en": "ent-BeeLaughter =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "BeeToxin",
+      "raw_en": "ent-BeeToxin =\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/bees.ftl"
+    },
+    {
+      "id": "MobIPCRandom",
+      "raw_en": "ent-MobIPCRandom =\n    .desc = A positronic brain in a metal body.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/random.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/mobs/random.ftl"
+    },
+    {
+      "id": "ProjectileMagicMissile",
+      "raw_en": "ent-ProjectileMagicMissile =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/projectiles.ftl"
+    },
+    {
+      "id": "ProjectileToolboxHoming",
+      "raw_en": "ent-ProjectileToolboxHoming =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/projectiles.ftl"
+    },
+    {
+      "id": "ProjectileSpellCardRedSpread",
+      "raw_en": "ent-ProjectileSpellCardRedSpread =\n    .desc = A piece of paper enchanted to give it extreme durability and stiffness, along with a very hot burn to anyone unfortunate enough to get hit by a charged one.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/projectiles.ftl"
+    },
+    {
+      "id": "ProjectileSpellCardPurpleSpread",
+      "raw_en": "ent-ProjectileSpellCardPurpleSpread =\n    .desc = A piece of paper enchanted to give it extreme durability and stiffness, along with a very hot burn to anyone unfortunate enough to get hit by a charged one.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/projectiles.ftl"
+    },
+    {
+      "id": "ProjectileArcaneBarrage",
+      "raw_en": "ent-ProjectileArcaneBarrage =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/projectiles.ftl"
+    },
+    {
+      "id": "BulletMagic",
+      "raw_en": "ent-BulletMagic =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/projectiles.ftl"
+    },
+    {
+      "id": "ProjectileMagicMissileLesser",
+      "raw_en": "ent-ProjectileMagicMissileLesser =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/projectiles.ftl"
+    },
+    {
+      "id": "MindRoleWizard",
+      "raw_en": "ent-MindRoleWizard =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/wizard.ftl"
+    },
+    {
+      "id": "MindRoleApprentice",
+      "raw_en": "ent-MindRoleApprentice =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/wizard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wizard/wizard.ftl"
+    },
+    {
+      "id": "MobRotHulkBuff",
+      "raw_en": "ent-MobRotHulkBuff =\n    .desc = A rotting, walking mass of flesh.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/RotHulk/rothulk.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wraith/mobs/rothulk/rothulk.ftl"
+    },
+    {
+      "id": "MobWraithPlague",
+      "raw_en": "ent-MobWraithPlague =\n    .desc = A VERY spooky ghostie.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/wraith.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wraith/mobs/wraith.ftl"
+    },
+    {
+      "id": "MobWraithHarbinger",
+      "raw_en": "ent-MobWraithHarbinger =\n    .desc = A VERY spooky ghostie.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/wraith.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wraith/mobs/wraith.ftl"
+    },
+    {
+      "id": "MobWraithTrickster",
+      "raw_en": "ent-MobWraithTrickster =\n    .desc = A VERY spooky ghostie.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/wraith.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/wraith/mobs/wraith.ftl"
+    },
+    {
+      "id": "XenoExtractChronofield",
+      "raw_en": "ent-XenoExtractChronofield =\n    .desc = ZA WARUDO!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/effect_spawns.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/effect_spawns.ftl"
+    },
+    {
+      "id": "FloorTileItemBluespace",
+      "raw_en": "ent-FloorTileItemBluespace =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/extract_items.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extract_items.ftl"
+    },
+    {
+      "id": "FloorTileItemSepia",
+      "raw_en": "ent-FloorTileItemSepia =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/extract_items.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extract_items.ftl"
+    },
+    {
+      "id": "GreySlimeExtract",
+      "raw_en": "ent-GreySlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t0/grey.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t0/grey.ftl"
+    },
+    {
+      "id": "BlueSlimeExtract",
+      "raw_en": "ent-BlueSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t1/blue.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t1/blue.ftl"
+    },
+    {
+      "id": "MetalSlimeExtract",
+      "raw_en": "ent-MetalSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t1/metal.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t1/metal.ftl"
+    },
+    {
+      "id": "OrangeSlimeExtract",
+      "raw_en": "ent-OrangeSlimeExtract =\n    .desc = Goo extracted from a slime. Legends claim these to have \"magical powers\".",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Specific/Xenobiology/Extracts/t1/orange.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/xenobiology/entities/objects/specific/xenobiology/extracts/t1/orange.ftl"
+    }
+  ]
+}

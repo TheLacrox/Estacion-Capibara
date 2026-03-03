@@ -14,8 +14,10 @@ ent-RMCEngineerShipLight = luz circular
     .desc = Una enorme luz circular
 
 ent-RMCStreetlight = farola de colonia
+    .desc = Un pilar de luz en la oscuridad.
 
 ent-RMCStreetlightOff = farola de colonia
+    .desc = Un pilar de luz en la oscuridad.
 
 ent-RMCStreetlightBroken = farola de colonia averiada
     .desc = Esto es una antigüedad, ¿cómo lo vas a arreglar ahora? Bien hecho, listillo.

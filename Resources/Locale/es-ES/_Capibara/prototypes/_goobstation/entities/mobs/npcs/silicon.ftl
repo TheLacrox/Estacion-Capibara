@@ -5,6 +5,7 @@ ent-MobGunbotBase = robot armado
     .desc = Un robot de seguridad, algo parece un poco raro.
 
 ent-GunBot = robot armado
+    .desc = Un robot de seguridad; algo parece un poco raro.
 
 ent-NukeBot = robot armado del Syndicate
     .desc = Un modelo antiguo del cyborg de asalto del Syndicate, especializado para combate en espacios reducidos.

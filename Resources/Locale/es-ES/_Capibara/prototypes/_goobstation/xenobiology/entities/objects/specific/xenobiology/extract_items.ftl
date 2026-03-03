@@ -5,8 +5,10 @@ ent-XenobioGoopBall = bola de goo
     .desc = No es tan pegajosa como parece. Probado para capturar fuegos al mismo nivel que el ventilador holográfico. ¡Gritos incluidos!
 
 ent-FloorTileItemBluespace = baldosa de alfombra de bluespace a medida
+    .desc = El suelo fue hecho para sostener esto, no a ti.
 
 ent-FloorTileItemSepia = baldosa de alfombra sepia a medida
+    .desc = El suelo fue hecho para sostener esto, no a ti.
 
 ent-XenobioVolatileRedExtractJelly = gelatina de extracto de slime rojo volátil
     .desc = Usarlo en una prenda de ropa parece eliminar cualquier ralentización potencial. Sin embargo, los sujetos que llevaban esa ropa acabaron carbonizados después de que un científico encendiera su cigarrillo.

@@ -143,26 +143,31 @@ ent-FoodSnackLollypopWrappedLexorin = piruleta del Syndicate envuelta
     .desc = Una piruleta que contiene lexorin. Parece completamente normal sin el envoltorio.
 
 ent-FoodSnackLollypopLexorin = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedRomerol = piruleta del Syndicate envuelta
     .desc = Una piruleta que contiene romerol. Parece completamente normal sin el envoltorio.
 
 ent-FoodSnackLollypopRomerol = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedNocturine = piruleta del Syndicate envuelta
     .desc = Una piruleta rellena de nocturine. Parece completamente normal sin el envoltorio.
 
 ent-FoodSnackLollypopNocturine = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedHyperzine = piruleta del Syndicate envuelta
     .desc = Una piruleta rellena de hyperzine. Parece completamente normal sin el envoltorio.
 
 ent-FoodSnackLollypopHyperzine = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedSynaptizine = piruleta del Syndicate envuelta
     .desc = Una piruleta de synaptizine. Parece completamente normal sin el envoltorio.
 
 ent-FoodSnackLollypopSynaptizine = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedCarpoToxin = piruleta del Syndicate envuelta
     .desc = ¿Quién diablos es Audrey White?
@@ -174,31 +179,37 @@ ent-FoodSnackLollypopWrappedFentanyl = piruleta de fentanilo envuelta
     .desc = Por eso tus padres te avisaban de no aceptar dulces de extraños. Parece normal sin el envoltorio.
 
 ent-FoodSnackLollypopFentanyl = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedPhlogiston = piruleta del Syndicate envuelta
     .desc = Una piruleta que contiene flogisto. Parece completamente normal sin el envoltorio.
 
 ent-FoodSnackLollypopPhlogiston = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedCyanide = piruleta del Syndicate envuelta
     .desc = Una piruleta que contiene cianuro. Parece completamente normal sin el envoltorio.
 
 ent-FoodSnackLollypopCyanide = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedTirizene = piruleta del Syndicate envuelta
     .desc = Una piruleta que contiene tirizene. Parece completamente normal sin el envoltorio.
 
 ent-FoodSnackLollypopTirizene = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedAnacea = piruleta del Syndicate envuelta
     .desc = Una piruleta que contiene anacea. Parece completamente normal sin el envoltorio.
 
 ent-FoodSnackLollypopAnacea = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedPotassiumBomb = piruleta del Syndicate envuelta
     .desc = Una piruleta explosiva. Parece completamente normal sin el envoltorio.
 
 ent-FoodSnackLollypopPotassiumBomb = piruleta
+    .desc = Una piruleta de toda la vida. Esta te da mala espina.
 
 ent-FoodSnackLollypopWrappedCognizine = piruleta de cognizine envuelta
     .desc = Una piruleta rellena de cognizine. Todavía está en el envoltorio.
@@ -234,6 +245,7 @@ ent-FoodPacketLollypopTrash = palo de piruleta
     .desc = Está un poco mordisqueado.
 
 ent-FoodSnackLollypopTrash = envoltorio de piruleta
+    .desc = Esto es basura.
 
 ent-FoodSnackLollypopTrashSyndicate = envoltorio de piruleta del Syndicate
     .desc = Alguien ha sido travieso...

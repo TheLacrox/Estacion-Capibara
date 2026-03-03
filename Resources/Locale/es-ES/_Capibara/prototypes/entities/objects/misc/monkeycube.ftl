@@ -17,3 +17,4 @@ ent-SyndicateSpongeBox = caja de cubos de mono
     .desc = Cubos de mono marca Drymate. ¡Solo añade agua!
 
 ent-SyndicateSpongeWrapped = cubo de mono
+    .desc = Desenvuelve esto para obtener un cubo de mono.

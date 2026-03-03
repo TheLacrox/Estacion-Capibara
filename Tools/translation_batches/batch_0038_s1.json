@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0038_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "FoodPieSliceBase",
+      "raw_en": "ent-FoodPieSliceBase = item\n    .desc = A slice of pie. Tasty!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pie.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/Baked/pie.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodPizzaBase",
+      "raw_en": "ent-FoodPizzaBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pizza.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/Baked/pizza.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodPizzaSliceBase",
+      "raw_en": "ent-FoodPizzaSliceBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pizza.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/Baked/pizza.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodBreakfastBase",
+      "raw_en": "ent-FoodBreakfastBase = item\n    .desc = A full breakfast, rise and shine!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/breakfast.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/breakfast.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodBurgerBase",
+      "raw_en": "ent-FoodBurgerBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/burger.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/burger.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EggBoxBroken",
+      "raw_en": "ent-EggBoxBroken = egg carton\n    .desc = Don't drop 'em!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/Containers/box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HappyHonkMime",
+      "raw_en": "ent-HappyHonkMime = happy honk meal\n    .desc = A limited mime edition of the happy honk meal.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/Containers/box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodMealHappyHonkClown",
+      "raw_en": "ent-FoodMealHappyHonkClown = happy honk meal\n    .desc = The toy is more edible than the food.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/Containers/box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseFoodCondiment",
+      "raw_en": "ent-BaseFoodCondiment = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/condiments.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/Containers/condiments.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodPlateSmallTrash",
+      "raw_en": "ent-FoodPlateSmallTrash = broken plate\n    .desc = A broken plate. Useless.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/plate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/Containers/plate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodTinPeachesMaintOpen",
+      "raw_en": "ent-FoodTinPeachesMaintOpen = maintenance peaches\n    .desc = Just a nice can of ripe peaches swimming in their own juices.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/tin.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/Containers/tin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodEggBase",
+      "raw_en": "ent-FoodEggBase = item\n    .desc = An egg!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/egg.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/egg.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EdibleBase",
+      "raw_en": "ent-EdibleBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/food_base.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/food_base.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodBase",
+      "raw_en": "ent-FoodBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/food_base.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/food_base.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodInjectableBase",
+      "raw_en": "ent-FoodInjectableBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/food_base.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/food_base.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodFrozenBase",
+      "raw_en": "ent-FoodFrozenBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/frozen.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/frozen.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentContainerBase",
+      "raw_en": "ent-ReagentContainerBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/ingredients.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/ingredients.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentPacketBase",
+      "raw_en": "ent-ReagentPacketBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/ingredients.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/ingredients.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodBakingBase",
+      "raw_en": "ent-FoodBakingBase = item\n    .desc = Used in various recipes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/ingredients.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/ingredients.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodMealBase",
+      "raw_en": "ent-FoodMealBase = item\n    .desc = A delicious meal, cooked with love.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/meals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/meals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodMeatBase",
+      "raw_en": "ent-FoodMeatBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/meat.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/meat.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodMeatRawBase",
+      "raw_en": "ent-FoodMeatRawBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/meat.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/meat.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodNoodlesBase",
+      "raw_en": "ent-FoodNoodlesBase = item\n    .desc = Now that's a nice pasta!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/noodles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/noodles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ProduceBase",
+      "raw_en": "ent-ProduceBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/produce.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/produce.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodProduceBase",
+      "raw_en": "ent-FoodProduceBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/produce.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/produce.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ProduceSliceBase",
+      "raw_en": "ent-ProduceSliceBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/produce.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/produce.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodSnackBase",
+      "raw_en": "ent-FoodSnackBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/snacks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodPacketTrash",
+      "raw_en": "ent-FoodPacketTrash = item\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/snacks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodBowlBase",
+      "raw_en": "ent-FoodBowlBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/soup.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/soup.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodTacoBase",
+      "raw_en": "ent-FoodTacoBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/taco.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Food/taco.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseSmokable",
+      "raw_en": "ent-BaseSmokable = item\n    .desc = If you want to get cancer, might as well do it in style.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/base_smokeables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Smokeables/base_smokeables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseCigar",
+      "raw_en": "ent-BaseCigar = item\n    .desc = If you want to get cancer, might as well do it in style.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/base_smokeables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Smokeables/base_smokeables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseSmokingPipe",
+      "raw_en": "ent-BaseSmokingPipe = item\n    .desc = If you want to get cancer, might as well do it in style.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/base_smokeables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Smokeables/base_smokeables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseVape",
+      "raw_en": "ent-BaseVape = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/base_smokeables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Smokeables/base_smokeables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CigaretteSpent",
+      "raw_en": "ent-CigaretteSpent = cigarette\n    .desc = A roll of tobacco and nicotine.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperRolling1",
+      "raw_en": "ent-PaperRolling1 = rolling paper\n    .desc = A thin piece of paper used to make fine smokeables.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/rolling_paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Smokeables/Cigarettes/rolling_paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CigaretteFilter1",
+      "raw_en": "ent-CigaretteFilter1 = cigarette filter\n    .desc = A strip of firm paper used as a filter for handmade cigarettes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/rolling_paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Smokeables/Cigarettes/rolling_paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CigarSpent",
+      "raw_en": "ent-CigarSpent = cigar\n    .desc = A brown roll of tobacco and... well, you're not quite sure.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigars/cigar.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Smokeables/Cigars/cigar.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CigarGoldSpent",
+      "raw_en": "ent-CigarGoldSpent = premium Havanian cigar\n    .desc = A cigar fit for only the best of the best.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigars/cigar.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Smokeables/Cigars/cigar.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloraRockSolid",
+      "raw_en": "ent-FloraRockSolid = boulder\n    .desc = Heavy as a really heavy thing.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/flora.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloraGreyStalagmite",
+      "raw_en": "ent-FloraGreyStalagmite = stalagmite\n    .desc = Natural stone spikes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/flora.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/flora.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarvedPumpkinSmall",
+      "raw_en": "ent-CarvedPumpkinSmall = carved pumpkin\n    .desc = A traditional spooky decoration.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/jackolantern.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/jackolantern.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarvedPumpkinLarge",
+      "raw_en": "ent-CarvedPumpkinLarge = carved pumpkin\n    .desc = A traditional spooky decoration.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/jackolantern.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/jackolantern.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PumpkinLanternSmall",
+      "raw_en": "ent-PumpkinLanternSmall = jack o' lantern\n    .desc = A carved pumpkin, emitting an eerie glow.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/jackolantern.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/jackolantern.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PumpkinLanternLarge",
+      "raw_en": "ent-PumpkinLanternLarge = jack o' lantern\n    .desc = A carved pumpkin, emitting an eerie glow.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/jackolantern.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/jackolantern.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WoodenSignRight",
+      "raw_en": "ent-WoodenSignRight = wooden sign\n    .desc = He's pointing somewhere.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/mining.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/mining.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WoodenSupportWallBroken",
+      "raw_en": "ent-WoodenSupportWallBroken = wooden support wall\n    .desc = An old, rotten wall.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/mining.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/mining.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Present",
+      "raw_en": "ent-Present = present\n    .desc = A little box with incredible surprises inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/present.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/present.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PresentRandomUnsafe",
+      "raw_en": "ent-PresentRandomUnsafe = present\n    .desc = A little box with incredible surprises inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/present.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/present.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PresentRandomInsane",
+      "raw_en": "ent-PresentRandomInsane = present\n    .desc = A little box with incredible surprises inside.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Decoration/present.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Decoration/present.ftl",
+      "file_exists": false
+    }
+  ]
+}

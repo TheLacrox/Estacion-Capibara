@@ -2,6 +2,7 @@ ent-ClothingHeadset = auricular
     .desc = Un intercomunicador modular actualizado que se ajusta a la cabeza. Acepta claves de cifrado.
 
 ent-ClothingHeadsetGrey = auricular de pasajero
+    .desc = Un intercomunicador modular actualizado que se ajusta a la cabeza. Acepta claves de cifrado.
 
 ent-ClothingHeadsetCargo = auricular de carga
     .desc = Un auricular usado por los empleados de suministros.

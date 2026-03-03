@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0079_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "ActionSummonSimiansIII",
+      "raw_en": "ent-ActionSummonSimiansIII =\n    .desc = This spell reaches deep into the elemental plane of bananas (the monkey one, not the clown one), and summons lesser monkeys and gorillas in front of you that will promptly flip out and attack everything in sight. Fun!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSummonSimiansIV",
+      "raw_en": "ent-ActionSummonSimiansIV =\n    .desc = This spell reaches deep into the elemental plane of bananas (the monkey one, not the clown one), and summons lesser monkeys and gorillas in front of you that will promptly flip out and attack everything in sight. Fun!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSummonSimiansV",
+      "raw_en": "ent-ActionSummonSimiansV =\n    .desc = This spell reaches deep into the elemental plane of bananas (the monkey one, not the clown one), and summons lesser monkeys and gorillas in front of you that will promptly flip out and attack everything in sight. Fun!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "MindRoleBlob",
+      "raw_en": "ent-MindRoleBlob =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Blob/misc_blob.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/blob/misc_blob.ftl"
+    },
+    {
+      "id": "OrganYowieStomach",
+      "raw_en": "ent-OrganYowieStomach =\n    .desc = Gross. This is hard to stomach.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Body/Organs/yowie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/body/organs/yowie.ftl"
+    },
+    {
+      "id": "OrganYowieLiver",
+      "raw_en": "ent-OrganYowieLiver =\n    .desc = Pairing suggestion: chianti and fava beans.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Body/Organs/yowie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/body/organs/yowie.ftl"
+    },
+    {
+      "id": "OrganYowieHeart",
+      "raw_en": "ent-OrganYowieHeart =\n    .desc = I feel bad for the heartless bastard who lost this.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Body/Organs/yowie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/body/organs/yowie.ftl"
+    },
+    {
+      "id": "MachinePowerTransmissionLaserCrate",
+      "raw_en": "ent-MachinePowerTransmissionLaserCrate =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Crates/engineering.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/catalog/fills/crates/engineering.ftl"
+    },
+    {
+      "id": "CrateFunBingleLoot",
+      "raw_en": "ent-CrateFunBingleLoot =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Crates/fun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/catalog/fills/crates/fun.ftl"
+    },
+    {
+      "id": "CrateFunBingleAdmeme",
+      "raw_en": "ent-CrateFunBingleAdmeme =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Crates/fun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/catalog/fills/crates/fun.ftl"
+    },
+    {
+      "id": "GunSafeLauncherNonLethal",
+      "raw_en": "ent-GunSafeLauncherNonLethal =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Lockers/security.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/catalog/fills/lockers/security.ftl"
+    },
+    {
+      "id": "ChangelingDartMute",
+      "raw_en": "ent-ChangelingDartMute =\n    .desc = A needle thin dart formed of bone.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Changeling/Entities/Objects/Weapons/Guns/changeling_dartgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/changeling/entities/objects/weapons/guns/changeling_dartgun.ftl"
+    },
+    {
+      "id": "ChangelingDartBlind",
+      "raw_en": "ent-ChangelingDartBlind =\n    .desc = A needle thin dart formed of bone.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Changeling/Entities/Objects/Weapons/Guns/changeling_dartgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/changeling/entities/objects/weapons/guns/changeling_dartgun.ftl"
+    },
+    {
+      "id": "ChangelingDartCryo",
+      "raw_en": "ent-ChangelingDartCryo =\n    .desc = A needle thin dart formed of bone.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Changeling/Entities/Objects/Weapons/Guns/changeling_dartgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/changeling/entities/objects/weapons/guns/changeling_dartgun.ftl"
+    },
+    {
+      "id": "ChangelingDartLethargic",
+      "raw_en": "ent-ChangelingDartLethargic =\n    .desc = A needle thin dart formed of bone.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Changeling/Entities/Objects/Weapons/Guns/changeling_dartgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/changeling/entities/objects/weapons/guns/changeling_dartgun.ftl"
+    },
+    {
+      "id": "ThrowingStarChangeling",
+      "raw_en": "ent-ThrowingStarChangeling =\n    .desc = An ancient weapon still used to this day, due to its ease of lodging itself into its victim's body parts.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Changeling/Entities/Objects/Weapons/Throwable/throwing_stars.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/changeling/entities/objects/weapons/throwable/throwing_stars.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltSyndicateCommander",
+      "raw_en": "ent-ClothingHeadsetAltSyndicateCommander =\n    .desc = An updated, modular syndicate intercom that fits over the head and takes encryption keys (there are 5 key slots.).",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetDeathsquad",
+      "raw_en": "ent-ClothingHeadsetDeathsquad =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltSecurityRegular",
+      "raw_en": "ent-ClothingHeadsetAltSecurityRegular =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltBlueshield",
+      "raw_en": "ent-ClothingHeadsetAltBlueshield =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterBso",
+      "raw_en": "ent-ClothingHeadHatHoodWinterBso =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterCapFancy",
+      "raw_en": "ent-ClothingHeadHatHoodWinterCapFancy =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingMaskClownUnremoveable",
+      "raw_en": "ent-ClothingMaskClownUnremoveable =\n    .desc = A true prankster's facial attire. A clown is incomplete without his wig and mask.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Masks/masks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/clothing/masks/masks.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatRDPurpleOpened",
+      "raw_en": "ent-ClothingOuterCoatRDPurpleOpened =\n    .desc = Woven with top of the line technology, this labcoat helps protect against radiation in similar way to the experimental hardsuit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "BorgChassisMiningBasic",
+      "raw_en": "ent-BorgChassisMiningBasic =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMiningAdvanced",
+      "raw_en": "ent-BorgChassisMiningAdvanced =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMiningCoffin",
+      "raw_en": "ent-BorgChassisMiningCoffin =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMiningLavaland",
+      "raw_en": "ent-BorgChassisMiningLavaland =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMiningCricket",
+      "raw_en": "ent-BorgChassisMiningCricket =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMiningSquat",
+      "raw_en": "ent-BorgChassisMiningSquat =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMiningNoble",
+      "raw_en": "ent-BorgChassisMiningNoble =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisEngineerBasic",
+      "raw_en": "ent-BorgChassisEngineerBasic =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisEngineerAntique",
+      "raw_en": "ent-BorgChassisEngineerAntique =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisEngineerStandart",
+      "raw_en": "ent-BorgChassisEngineerStandart =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisEngineerNoble",
+      "raw_en": "ent-BorgChassisEngineerNoble =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisEngineerCricket",
+      "raw_en": "ent-BorgChassisEngineerCricket =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisEngineerRover",
+      "raw_en": "ent-BorgChassisEngineerRover =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisJanitorBasic",
+      "raw_en": "ent-BorgChassisJanitorBasic =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisJanitorMopbot",
+      "raw_en": "ent-BorgChassisJanitorMopbot =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisJanitorStandart",
+      "raw_en": "ent-BorgChassisJanitorStandart =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisJanitorCustodi",
+      "raw_en": "ent-BorgChassisJanitorCustodi =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisJanitorNoble",
+      "raw_en": "ent-BorgChassisJanitorNoble =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisJanitorCricket",
+      "raw_en": "ent-BorgChassisJanitorCricket =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisJanitorRover",
+      "raw_en": "ent-BorgChassisJanitorRover =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMedicalStandart",
+      "raw_en": "ent-BorgChassisMedicalStandart =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMedicalMedbot",
+      "raw_en": "ent-BorgChassisMedicalMedbot =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMedicalNeedles",
+      "raw_en": "ent-BorgChassisMedicalNeedles =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMedicalAdvanced",
+      "raw_en": "ent-BorgChassisMedicalAdvanced =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMedicalQualified",
+      "raw_en": "ent-BorgChassisMedicalQualified =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMedicalNoble",
+      "raw_en": "ent-BorgChassisMedicalNoble =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    }
+  ]
+}

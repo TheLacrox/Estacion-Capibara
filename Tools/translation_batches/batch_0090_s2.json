@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0090_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "BoxEncryptionKeyScience",
+      "raw_en": "ent-BoxEncryptionKeyScience =\n    .desc = A box of spare encryption keys.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxEncryptionKeySecurity",
+      "raw_en": "ent-BoxEncryptionKeySecurity =\n    .desc = A box of spare encryption keys.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxEncryptionKeyService",
+      "raw_en": "ent-BoxEncryptionKeyService =\n    .desc = A box of spare encryption keys.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxCandleSmall",
+      "raw_en": "ent-BoxCandleSmall =\n    .desc = This box is specifically moulded to only carry candles.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/general.ftl"
+    },
+    {
+      "id": "BoxLightbulbColorfulMixed",
+      "raw_en": "ent-BoxLightbulbColorfulMixed =\n    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/service.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/service.ftl"
+    },
+    {
+      "id": "BoxLighttubeColorfulMixed",
+      "raw_en": "ent-BoxLighttubeColorfulMixed =\n    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/service.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/service.ftl"
+    },
+    {
+      "id": "ElectricalDisruptionKit",
+      "raw_en": "ent-ElectricalDisruptionKit =\n    .desc = A cardboard box for storing things.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/syndicate.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/boxes/syndicate.ftl"
+    },
+    {
+      "id": "CratePirateChestCaptain",
+      "raw_en": "ent-CratePirateChestCaptain =\n    .desc = A space pirate chest, not for station lubbers.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/antag.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/crates/antag.ftl"
+    },
+    {
+      "id": "CratePirateChest",
+      "raw_en": "ent-CratePirateChest =\n    .desc = A space pirate chest, not for station lubbers.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/antag.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/crates/antag.ftl"
+    },
+    {
+      "id": "CrateEngineeringGenerator",
+      "raw_en": "ent-CrateEngineeringGenerator =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/engines.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/crates/engines.ftl"
+    },
+    {
+      "id": "ClothingBeltMilitaryWebbingGrenadeFilled",
+      "raw_en": "ent-ClothingBeltMilitaryWebbingGrenadeFilled =\n    .desc = A set of tactical webbing worn by Syndicate boarding parties.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/belt.ftl"
+    },
+    {
+      "id": "NitrogenTankFilled",
+      "raw_en": "ent-NitrogenTankFilled =\n    .desc = A standard cylindrical gas tank for nitrogen. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/gas_tanks.ftl"
+    },
+    {
+      "id": "NitrousOxideTankFilled",
+      "raw_en": "ent-NitrousOxideTankFilled =\n    .desc = Contains a mixture of air and nitrous oxide. Make sure you don't refill it with pure N2O. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/gas_tanks.ftl"
+    },
+    {
+      "id": "PlasmaTankFilled",
+      "raw_en": "ent-PlasmaTankFilled =\n    .desc = Contains dangerous plasma. Do not inhale, unless you're a plasmaman. Extremely flammable. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/gas_tanks.ftl"
+    },
+    {
+      "id": "ToolboxEmergencyFilled",
+      "raw_en": "ent-ToolboxEmergencyFilled =\n    .desc = A bright red toolbox, stocked with emergency tools.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/toolboxes.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/toolboxes.ftl"
+    },
+    {
+      "id": "ToolboxElectricalFilled",
+      "raw_en": "ent-ToolboxElectricalFilled =\n    .desc = A toolbox typically stocked with electrical gear.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/toolboxes.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/toolboxes.ftl"
+    },
+    {
+      "id": "ToolboxElectricalTurretFilled",
+      "raw_en": "ent-ToolboxElectricalTurretFilled =\n    .desc = A toolbox typically stocked with electrical gear.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/toolboxes.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/toolboxes.ftl"
+    },
+    {
+      "id": "ToolboxArtisticFilled",
+      "raw_en": "ent-ToolboxArtisticFilled =\n    .desc = A toolbox typically stocked with artistic supplies.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/toolboxes.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/toolboxes.ftl"
+    },
+    {
+      "id": "ToolboxMechanicalFilled",
+      "raw_en": "ent-ToolboxMechanicalFilled =\n    .desc = A blue box, stocked with mechanical tools.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/toolboxes.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/toolboxes.ftl"
+    },
+    {
+      "id": "ToolboxMechanicalFilledAllTools",
+      "raw_en": "ent-ToolboxMechanicalFilledAllTools =\n    .desc = A blue box, stocked with mechanical tools.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/toolboxes.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/toolboxes.ftl"
+    },
+    {
+      "id": "ToolboxGoldFilled",
+      "raw_en": "ent-ToolboxGoldFilled =\n    .desc = A solid gold toolbox. A rapper would kill for this.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/toolboxes.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/items/toolboxes.ftl"
+    },
+    {
+      "id": "LockerWallMedicalFilled",
+      "raw_en": "ent-LockerWallMedicalFilled =\n    .desc = A standard-issue Nanotrasen storage unit, now on walls.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/medical.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/medical.ftl"
+    },
+    {
+      "id": "LockerWallMedicalDoctorFilled",
+      "raw_en": "ent-LockerWallMedicalDoctorFilled =\n    .desc = A standard-issue Nanotrasen storage unit, now on walls.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/medical.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/medical.ftl"
+    },
+    {
+      "id": "GunSafeDisabler",
+      "raw_en": "ent-GunSafeDisabler =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/security.ftl"
+    },
+    {
+      "id": "GunSafePistolMk58",
+      "raw_en": "ent-GunSafePistolMk58 =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/security.ftl"
+    },
+    {
+      "id": "GunSafeRifleLecter",
+      "raw_en": "ent-GunSafeRifleLecter =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/security.ftl"
+    },
+    {
+      "id": "GunSafeSubMachineGunDrozd",
+      "raw_en": "ent-GunSafeSubMachineGunDrozd =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/security.ftl"
+    },
+    {
+      "id": "GunSafeShotgunEnforcer",
+      "raw_en": "ent-GunSafeShotgunEnforcer =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/security.ftl"
+    },
+    {
+      "id": "GunSafeShotgunKammerer",
+      "raw_en": "ent-GunSafeShotgunKammerer =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/security.ftl"
+    },
+    {
+      "id": "GunSafeSubMachineGunWt550",
+      "raw_en": "ent-GunSafeSubMachineGunWt550 =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/security.ftl"
+    },
+    {
+      "id": "GunSafeLaserCarbine",
+      "raw_en": "ent-GunSafeLaserCarbine =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/security.ftl"
+    },
+    {
+      "id": "LockerOldAISat",
+      "raw_en": "ent-LockerOldAISat =\n    .desc = It's a storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/space_ruin.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/catalog/fills/lockers/space_ruin.ftl"
+    },
+    {
+      "id": "BriefcaseSmugglerCash",
+      "raw_en": "ent-BriefcaseSmugglerCash =\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Back/smuggler.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/back/smuggler.ftl"
+    },
+    {
+      "id": "ClothingBackpackDuffelClownSmuggler",
+      "raw_en": "ent-ClothingBackpackDuffelClownSmuggler =\n    .desc = A large duffel bag for holding extra honk goods.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Back/smuggler.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/back/smuggler.ftl"
+    },
+    {
+      "id": "ClothingBeltSuspendersBlack",
+      "raw_en": "ent-ClothingBeltSuspendersBlack =\n    .desc = For holding your pants up.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Belt/belts.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/belt/belts.ftl"
+    },
+    {
+      "id": "ClothingHeadsetGrey",
+      "raw_en": "ent-ClothingHeadsetGrey =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Ears/headsets.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/ears/headsets.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltCargo",
+      "raw_en": "ent-ClothingHeadsetAltCargo =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltCentCom",
+      "raw_en": "ent-ClothingHeadsetAltCentCom =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltCommand",
+      "raw_en": "ent-ClothingHeadsetAltCommand =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltEngineering",
+      "raw_en": "ent-ClothingHeadsetAltEngineering =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltMedical",
+      "raw_en": "ent-ClothingHeadsetAltMedical =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltSecurity",
+      "raw_en": "ent-ClothingHeadsetAltSecurity =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltScience",
+      "raw_en": "ent-ClothingHeadsetAltScience =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltFreelancer",
+      "raw_en": "ent-ClothingHeadsetAltFreelancer =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingHeadsetAltWizard",
+      "raw_en": "ent-ClothingHeadsetAltWizard =\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Ears/headsets_alt.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/ears/headsets_alt.ftl"
+    },
+    {
+      "id": "ClothingEyesEyepatchHudMedicalFlipped",
+      "raw_en": "ent-ClothingEyesEyepatchHudMedicalFlipped =\n    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status. For true patriots.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Eyes/hud.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/eyes/hud.ftl"
+    },
+    {
+      "id": "ClothingEyesEyepatchHudSecurityFlipped",
+      "raw_en": "ent-ClothingEyesEyepatchHudSecurityFlipped =\n    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records. For true patriots.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Eyes/hud.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/eyes/hud.ftl"
+    },
+    {
+      "id": "ClothingEyesEyepatchHudBeerFlipped",
+      "raw_en": "ent-ClothingEyesEyepatchHudBeerFlipped =\n    .desc = A pair of sunHud outfitted with apparatus to scan reagents, as well as providing an innate understanding of liquid viscosity while in motion. For true patriots.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Eyes/hud.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/eyes/hud.ftl"
+    },
+    {
+      "id": "ClothingEyesEyepatchHudDiagFlipped",
+      "raw_en": "ent-ClothingEyesEyepatchHudDiagFlipped =\n    .desc = A heads-up display capable of analyzing the integrity and status of robotics and exosuits. Made out of see-borg-ium.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Eyes/hud.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/eyes/hud.ftl"
+    },
+    {
+      "id": "ClothingHeadBandBlack",
+      "raw_en": "ent-ClothingHeadBandBlack =\n    .desc = A black bandana to make you look cool.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/bandanas.ftl"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0024_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "RMCOverheadBillboardWallmount26",
+      "raw_en": "ent-RMCOverheadBillboardWallmount26 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount27",
+      "raw_en": "ent-RMCOverheadBillboardWallmount27 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount28",
+      "raw_en": "ent-RMCOverheadBillboardWallmount28 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount29",
+      "raw_en": "ent-RMCOverheadBillboardWallmount29 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount30",
+      "raw_en": "ent-RMCOverheadBillboardWallmount30 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoTunnelMaintNoXenoDesc",
+      "raw_en": "ent-XenoTunnelMaintNoXenoDesc = Maintenance Hatch\n    .desc = An entrance to a maintenance tunnel. Pieces of debris keep you from getting a closer look.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Xeno/xeno_tunnel.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Xeno/xeno_tunnel.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoHardyWeeds",
+      "raw_en": "ent-XenoHardyWeeds = weeds\n    .desc = Weird black weeds...",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Xeno/xeno_weeds.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Xeno/xeno_weeds.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganAbductorBrain",
+      "raw_en": "ent-OrganAbductorBrain = brain\n    .desc = The source of incredible, unending intelligence. Honk.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganAbductorEyes",
+      "raw_en": "ent-OrganAbductorEyes = eyes\n    .desc = I see you!",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganAbductorEars",
+      "raw_en": "ent-OrganAbductorEars = ears\n    .desc = There are three parts to the ear. Inner, middle and outer. Only one of these parts should normally be visible.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganAbductorLungs",
+      "raw_en": "ent-OrganAbductorLungs = lungs\n    .desc = Filters oxygen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganAbductorHeart",
+      "raw_en": "ent-OrganAbductorHeart = heart\n    .desc = I feel bad for the heartless bastard who lost this.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganAbductorStomach",
+      "raw_en": "ent-OrganAbductorStomach = stomach\n    .desc = Gross. This is hard to stomach.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganAbductorLiver",
+      "raw_en": "ent-OrganAbductorLiver = liver\n    .desc = Pairing suggestion: chianti and fava beans.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganAbductorKidneys",
+      "raw_en": "ent-OrganAbductorKidneys = kidneys\n    .desc = Filters toxins from the bloodstream.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseCyberneticOrgan",
+      "raw_en": "ent-BaseCyberneticOrgan = item",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/cybernetic.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/cybernetic.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousHealth",
+      "raw_en": "ent-OrganDubiousHealth = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousAA",
+      "raw_en": "ent-OrganDubiousAA = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousShock",
+      "raw_en": "ent-OrganDubiousShock = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousInvisible",
+      "raw_en": "ent-OrganDubiousInvisible = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousGoliath",
+      "raw_en": "ent-OrganDubiousGoliath = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousSpaceAdaptation",
+      "raw_en": "ent-OrganDubiousSpaceAdaptation = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousArtifact",
+      "raw_en": "ent-OrganDubiousArtifact = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousScrambleDna",
+      "raw_en": "ent-OrganDubiousScrambleDna = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousScrambleLocation",
+      "raw_en": "ent-OrganDubiousScrambleLocation = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousSpiderEggs",
+      "raw_en": "ent-OrganDubiousSpiderEggs = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousSlimeEggs",
+      "raw_en": "ent-OrganDubiousSlimeEggs = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousEMP",
+      "raw_en": "ent-OrganDubiousEMP = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousGravityWell",
+      "raw_en": "ent-OrganDubiousGravityWell = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousFlash",
+      "raw_en": "ent-OrganDubiousFlash = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousSmoke",
+      "raw_en": "ent-OrganDubiousSmoke = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousGas",
+      "raw_en": "ent-OrganDubiousGas = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousSteptriggerImmune",
+      "raw_en": "ent-OrganDubiousSteptriggerImmune = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousVentcrawler",
+      "raw_en": "ent-OrganDubiousVentcrawler = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganDubiousRepairable",
+      "raw_en": "ent-OrganDubiousRepairable = mysterious gland\n    .desc = Suspicious alien gland, replaces the heart.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Organs/dubious.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Organs/dubious.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartAbductorBase",
+      "raw_en": "ent-PartAbductorBase = body part",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Parts/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Parts/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartCarpBase",
+      "raw_en": "ent-PartCarpBase = item",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Parts/Animal/carp.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Parts/Animal/carp.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartKobold",
+      "raw_en": "ent-PartKobold = body part",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Parts/Animal/kobold.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Parts/Animal/kobold.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartMonkey",
+      "raw_en": "ent-PartMonkey = body part",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Parts/Animal/monkey.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Parts/Animal/monkey.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartScurret",
+      "raw_en": "ent-PartScurret = body part",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Parts/Animal/scurret.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Parts/Animal/scurret.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasePart",
+      "raw_en": "ent-BasePart = body part",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Parts/base.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Parts/base.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseChest",
+      "raw_en": "ent-BaseChest = chest",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Parts/base.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Parts/base.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseGroin",
+      "raw_en": "ent-BaseGroin = groin",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Parts/base.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Parts/base.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CyberneticPartBase",
+      "raw_en": "ent-CyberneticPartBase = body part",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Body/Parts/cybernetic.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Body/Parts/cybernetic.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingAbductorBeltFilled",
+      "raw_en": "ent-ClothingAbductorBeltFilled = alien belt\n    .desc = Can hold various OUR things.",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAbductorAntag",
+      "raw_en": "ent-MobAbductorAntag = Urist McAlien",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Mobs/Player/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Entities/Mobs/Player/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LoneAbductorSpawner",
+      "raw_en": "ent-LoneAbductorSpawner = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Mobs/Player/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Entities/Mobs/Player/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AbductorAgentSpawner",
+      "raw_en": "ent-AbductorAgentSpawner = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Mobs/Player/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Entities/Mobs/Player/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AbductorScientistSpawner",
+      "raw_en": "ent-AbductorScientistSpawner = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Mobs/Player/abductor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Entities/Mobs/Player/abductor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseArmAugment",
+      "raw_en": "ent-BaseArmAugment = item",
+      "source_yaml": "Resources/Prototypes/_Shitmed/Entities/Objects/Augments/arm.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Shitmed/Entities/Objects/Augments/arm.ftl",
+      "file_exists": false
+    }
+  ]
+}

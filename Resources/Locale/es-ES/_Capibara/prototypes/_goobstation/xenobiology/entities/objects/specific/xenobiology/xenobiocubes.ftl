@@ -11,3 +11,4 @@ ent-SlimeCubeWrappedSyndie = cubo de slime del Syndicate envuelto
     .desc = Desenvuélvelo para obtener un cubo de slime.
 
 ent-SlimeCube = cubo de slime
+    .desc = ¡Solo añade agua!

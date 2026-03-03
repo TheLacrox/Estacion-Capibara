@@ -44,6 +44,7 @@ ent-ScrapFirelock2 = puerta de bloqueo antiincendio
     .desc = ¡OH! ¡Ahí estaba la otra mitad!
 
 ent-ScrapFirelock3 = marco de bloqueo antiincendio
+    .desc = Chatarra inservible. Aunque probablemente puedas extraer algo de materiales de ella.
 
 ent-ScrapIntercom = chatarra de intercomunicador
     .desc = Ojalá al menos viniera con algunas claves de cifrado.

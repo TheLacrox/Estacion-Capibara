@@ -2,6 +2,7 @@ ent-PinpointerBase = localizador
     .desc = Un dispositivo de rastreo de mano. Aunque normalmente es mucho más capaz, este ha sido configurado para rastrear ciertas señales. Mantenlo vertical para conservar la precisión.
 
 ent-PinpointerNuclear = localizador
+    .desc = Un dispositivo de rastreo de mano. Aunque normalmente es mucho más capaz, este ha sido configurado para rastrear ciertas señales. Mantenlo vertical para conservar la precisión.
 
 ent-PinpointerSyndicateNuclear = localizador del Syndicate
     .desc = Producido específicamente para misiones de operativos nucleares. ¡Consigue ese disco!

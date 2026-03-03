@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0063_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "GasFilterFlipped",
+      "raw_en": "ent-GasFilterFlipped = gas filter\n    .desc = Very useful for filtering gases.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/trinary.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/trinary.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasUnaryBase",
+      "raw_en": "ent-GasUnaryBase = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/unary.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/unary.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasThermoMachineFreezerEnabled",
+      "raw_en": "ent-GasThermoMachineFreezerEnabled = freezer\n    .desc = Cools gas in connected pipes.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/unary.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/unary.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasThermoMachineHeaterEnabled",
+      "raw_en": "ent-GasThermoMachineHeaterEnabled = heater\n    .desc = Heats gas in connected pipes.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/unary.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/unary.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DisposalRouterFlipped",
+      "raw_en": "ent-DisposalRouterFlipped = disposal router\n    .desc = A three-way router. Entities with matching tags get routed to the side.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Disposal/pipes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Disposal/pipes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DisposalJunctionFlipped",
+      "raw_en": "ent-DisposalJunctionFlipped = disposal junction\n    .desc = A three-way junction. The arrow indicates where items exit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Disposal/pipes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Disposal/pipes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DisposalSignalRouterFlipped",
+      "raw_en": "ent-DisposalSignalRouterFlipped = disposal signal router\n    .desc = A signal-controlled three-way router.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Disposal/pipes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Disposal/pipes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "APCConstructed",
+      "raw_en": "ent-APCConstructed = APC\n    .desc = A control terminal for the area's electrical systems.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/apc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/apc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "APCBasic",
+      "raw_en": "ent-APCBasic = APC\n    .desc = A control terminal for the area's electrical systems.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/apc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/apc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "APCHighCapacity",
+      "raw_en": "ent-APCHighCapacity = APC\n    .desc = A control terminal for the area's electrical systems.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/apc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/apc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "APCSuperCapacity",
+      "raw_en": "ent-APCSuperCapacity = APC\n    .desc = A control terminal for the area's electrical systems.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/apc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/apc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "APCHyperCapacity",
+      "raw_en": "ent-APCHyperCapacity = APC\n    .desc = A control terminal for the area's electrical systems.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/apc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/apc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableTerminalUncuttable",
+      "raw_en": "ent-CableTerminalUncuttable = cable terminal\n    .desc = You see a small warning on the red cables in grungy black ink. \"CONNECT RED TO BATTERY FOR CHARGE.\"",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/cable_terminal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/cable_terminal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableHVUncuttable",
+      "raw_en": "ent-CableHVUncuttable = HV power cable\n    .desc = An orange high voltage power cable.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/cables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/cables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableMVUncuttable",
+      "raw_en": "ent-CableMVUncuttable = MV power cable\n    .desc = A medium voltage power cable.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/cables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/cables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableApcExtensionUncuttable",
+      "raw_en": "ent-CableApcExtensionUncuttable = LV power cable\n    .desc = A cable used to connect machines to an APC.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/cables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/cables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugGenerator",
+      "raw_en": "ent-DebugGenerator = generator\n    .desc = A high efficiency thermoelectric generator.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/debug_power.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/debug_power.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugSMES",
+      "raw_en": "ent-DebugSMES = SMES\n    .desc = A high-capacity superconducting magnetic energy storage (SMES) unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/debug_power.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/debug_power.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugSMESRecharging",
+      "raw_en": "ent-DebugSMESRecharging = SMES\n    .desc = A high-capacity superconducting magnetic energy storage (SMES) unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/debug_power.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/debug_power.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugSubstation",
+      "raw_en": "ent-DebugSubstation = substation\n    .desc = Reduces the voltage of electricity put into it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/debug_power.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/debug_power.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugSubstationRecharging",
+      "raw_en": "ent-DebugSubstationRecharging = substation\n    .desc = Reduces the voltage of electricity put into it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/debug_power.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/debug_power.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugSubstationWall",
+      "raw_en": "ent-DebugSubstationWall = wallmount substation\n    .desc = A substation designed for compact shuttles and spaces.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/debug_power.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/debug_power.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugSubstationWallRecharging",
+      "raw_en": "ent-DebugSubstationWallRecharging = wallmount substation\n    .desc = A substation designed for compact shuttles and spaces.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/debug_power.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/debug_power.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugAPC",
+      "raw_en": "ent-DebugAPC = APC\n    .desc = A control terminal for the area's electrical systems.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/debug_power.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/debug_power.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugAPCRecharging",
+      "raw_en": "ent-DebugAPCRecharging = APC\n    .desc = A control terminal for the area's electrical systems.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/debug_power.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/debug_power.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AmeControllerUnanchored",
+      "raw_en": "ent-AmeControllerUnanchored = AME controller\n    .desc = It's a controller for the antimatter engine.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/Generation/ame.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/Generation/ame.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GeneratorBasic",
+      "raw_en": "ent-GeneratorBasic = generator\n    .desc = A high efficiency thermoelectric generator.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/Generation/generators.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/Generation/generators.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GeneratorBasic15kW",
+      "raw_en": "ent-GeneratorBasic15kW = generator\n    .desc = A high efficiency thermoelectric generator.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/Generation/generators.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/Generation/generators.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GeneratorWallmountBasic",
+      "raw_en": "ent-GeneratorWallmountBasic = wallmount generator\n    .desc = A high efficiency thermoelectric generator stuffed in a wall cabinet.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/Generation/generators.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/Generation/generators.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RadiationCollectorNoTank",
+      "raw_en": "ent-RadiationCollectorNoTank = radiation collector\n    .desc = A machine that collects radiation and turns it into power. Requires plasma gas to function.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/Generation/Singularity/collector.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/Generation/Singularity/collector.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RadiationCollectorFullTank",
+      "raw_en": "ent-RadiationCollectorFullTank = radiation collector\n    .desc = A machine that collects radiation and turns it into power. Requires plasma gas to function.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/Generation/Singularity/collector.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/Generation/Singularity/collector.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SMESBasic",
+      "raw_en": "ent-SMESBasic = SMES\n    .desc = A high-capacity superconducting magnetic energy storage (SMES) unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/smes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/smes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SMESBasicEmpty",
+      "raw_en": "ent-SMESBasicEmpty = SMES\n    .desc = A high-capacity superconducting magnetic energy storage (SMES) unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/smes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/smes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SMESAdvancedEmpty",
+      "raw_en": "ent-SMESAdvancedEmpty = advanced SMES\n    .desc = An even-higher-capacity superconducting magnetic energy storage (SMES) unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/smes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/smes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SubstationBasic",
+      "raw_en": "ent-SubstationBasic = substation\n    .desc = Reduces the voltage of electricity put into it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/substation.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/substation.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SubstationBasicEmpty",
+      "raw_en": "ent-SubstationBasicEmpty = substation\n    .desc = Reduces the voltage of electricity put into it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/substation.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/substation.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SubstationWallBasic",
+      "raw_en": "ent-SubstationWallBasic = wallmount substation\n    .desc = A substation designed for compact shuttles and spaces.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Power/substation.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Power/substation.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StationAnchorIndestructible",
+      "raw_en": "ent-StationAnchorIndestructible = station anchor\n    .desc = Prevents stations from moving.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Shuttles/station_anchor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Shuttles/station_anchor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StationAnchor",
+      "raw_en": "ent-StationAnchor = station anchor\n    .desc = Prevents stations from moving.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Shuttles/station_anchor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Shuttles/station_anchor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StationAnchorOff",
+      "raw_en": "ent-StationAnchorOff = station anchor\n    .desc = Prevents stations from moving.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Shuttles/station_anchor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Shuttles/station_anchor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ThrusterUnanchored",
+      "raw_en": "ent-ThrusterUnanchored = thruster\n    .desc = A thruster that allows a shuttle to move.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Shuttles/thrusters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Shuttles/thrusters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugThruster",
+      "raw_en": "ent-DebugThruster = thruster\n    .desc = A thruster that allows a shuttle to move.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Shuttles/thrusters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Shuttles/thrusters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GyroscopeUnanchored",
+      "raw_en": "ent-GyroscopeUnanchored = gyroscope\n    .desc = Increases the shuttle's potential angular rotation.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Shuttles/thrusters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Shuttles/thrusters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DebugGyroscope",
+      "raw_en": "ent-DebugGyroscope = thruster\n    .desc = A thruster that allows a shuttle to move.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Shuttles/thrusters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Shuttles/thrusters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyPyroclastic",
+      "raw_en": "ent-AnomalyPyroclastic = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyGravity",
+      "raw_en": "ent-AnomalyGravity = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyElectricity",
+      "raw_en": "ent-AnomalyElectricity = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyFlesh",
+      "raw_en": "ent-AnomalyFlesh = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyBluespace",
+      "raw_en": "ent-AnomalyBluespace = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyIce",
+      "raw_en": "ent-AnomalyIce = anomaly\n    .desc = An impossible object. Should you be standing this close to it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/anomalies.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Specific/Anomaly/anomalies.ftl",
+      "file_exists": false
+    }
+  ]
+}

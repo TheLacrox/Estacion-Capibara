@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0056_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "BaseMaterialDoorNavMap",
+      "raw_en": "ent-BaseMaterialDoorNavMap = door\n    .desc = A door, where will it lead?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/MaterialDoors/material_doors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/MaterialDoors/material_doors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorCentralCommand",
+      "raw_en": "ent-BlastDoorCentralCommand = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorOpenCentralCommand",
+      "raw_en": "ent-BlastDoorOpenCentralCommand = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShuttersWindowCentralCommand",
+      "raw_en": "ent-ShuttersWindowCentralCommand = window shutters\n    .desc = The Best (TM) place to see your friends explode!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorOpen",
+      "raw_en": "ent-BlastDoorOpen = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorExterior1",
+      "raw_en": "ent-BlastDoorExterior1 = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorExterior1Open",
+      "raw_en": "ent-BlastDoorExterior1Open = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorExterior2",
+      "raw_en": "ent-BlastDoorExterior2 = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorExterior2Open",
+      "raw_en": "ent-BlastDoorExterior2Open = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorExterior3",
+      "raw_en": "ent-BlastDoorExterior3 = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorExterior3Open",
+      "raw_en": "ent-BlastDoorExterior3Open = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorBridge",
+      "raw_en": "ent-BlastDoorBridge = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorBridgeOpen",
+      "raw_en": "ent-BlastDoorBridgeOpen = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorEngineering",
+      "raw_en": "ent-BlastDoorEngineering = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorEngineeringOpen",
+      "raw_en": "ent-BlastDoorEngineeringOpen = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorScience",
+      "raw_en": "ent-BlastDoorScience = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorScienceOpen",
+      "raw_en": "ent-BlastDoorScienceOpen = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorWindows",
+      "raw_en": "ent-BlastDoorWindows = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlastDoorWindowsOpen",
+      "raw_en": "ent-BlastDoorWindowsOpen = blast door\n    .desc = This one says 'BLAST DONGER'.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/blast_door_autolink.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/blast_door_autolink.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShuttersNormal",
+      "raw_en": "ent-ShuttersNormal = shutter\n    .desc = One shudders to think about what might be behind this shutter.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/shutters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/shutters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShuttersNormalOpen",
+      "raw_en": "ent-ShuttersNormalOpen = shutter\n    .desc = One shudders to think about what might be behind this shutter.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/shutters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/shutters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShuttersRadiationOpen",
+      "raw_en": "ent-ShuttersRadiationOpen = radiation shutters\n    .desc = Why did they make these shutters radioactive?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/shutters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/shutters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShuttersWindowOpen",
+      "raw_en": "ent-ShuttersWindowOpen = window shutters\n    .desc = The Best (TM) place to see your friends explode!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Shutter/shutters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Shutter/shutters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TurnstileGenpopEnter",
+      "raw_en": "ent-TurnstileGenpopEnter = turnstile\n    .desc = A mechanical door that permits one-way access and prevents tailgating.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/turnstile.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/turnstile.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TurnstileGenpopLeave",
+      "raw_en": "ent-TurnstileGenpopLeave = turnstile\n    .desc = A mechanical door that permits one-way access and prevents tailgating.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/turnstile.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/turnstile.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorBarLocked",
+      "raw_en": "ent-WindoorBarLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorBarKitchenLocked",
+      "raw_en": "ent-WindoorBarKitchenLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorCargoLocked",
+      "raw_en": "ent-WindoorCargoLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorChapelLocked",
+      "raw_en": "ent-WindoorChapelLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorHydroponicsLocked",
+      "raw_en": "ent-WindoorHydroponicsLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorJanitorLocked",
+      "raw_en": "ent-WindoorJanitorLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorJanitorLocked",
+      "raw_en": "ent-PlasmaWindoorJanitorLocked = plasma windoor\n    .desc = It's a pink window *and* a sliding door. Amazing!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorKitchenLocked",
+      "raw_en": "ent-WindoorKitchenLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorKitchenHydroponicsLocked",
+      "raw_en": "ent-WindoorKitchenHydroponicsLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorServiceLocked",
+      "raw_en": "ent-WindoorServiceLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorTheatreLocked",
+      "raw_en": "ent-WindoorTheatreLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureArmoryLocked",
+      "raw_en": "ent-WindoorSecureArmoryLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorSecureArmoryLocked",
+      "raw_en": "ent-PlasmaWindoorSecureArmoryLocked = secure plasma windoor\n    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureAtmosphericsLocked",
+      "raw_en": "ent-WindoorSecureAtmosphericsLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorSecureAtmosphericsLocked",
+      "raw_en": "ent-PlasmaWindoorSecureAtmosphericsLocked = secure plasma windoor\n    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureBarLocked",
+      "raw_en": "ent-WindoorSecureBarLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureBrigLocked",
+      "raw_en": "ent-WindoorSecureBrigLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureCargoLocked",
+      "raw_en": "ent-WindoorSecureCargoLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureChapelLocked",
+      "raw_en": "ent-WindoorSecureChapelLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureChemistryLocked",
+      "raw_en": "ent-WindoorSecureChemistryLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorSecureChemistryLocked",
+      "raw_en": "ent-PlasmaWindoorSecureChemistryLocked = secure plasma windoor\n    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureCentralCommandLocked",
+      "raw_en": "ent-WindoorSecureCentralCommandLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorSecureCentralCommandLocked",
+      "raw_en": "ent-PlasmaWindoorSecureCentralCommandLocked = secure plasma windoor\n    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UraniumWindoorSecureCentralCommandLocked",
+      "raw_en": "ent-UraniumWindoorSecureCentralCommandLocked = secure uranium windoor\n    .desc = It's a sturdy window and a sliding door. It's so neon green, it might even taste like limes!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureCommandLocked",
+      "raw_en": "ent-WindoorSecureCommandLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    }
+  ]
+}

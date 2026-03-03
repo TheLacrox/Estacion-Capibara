@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0107_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "AltarConvertBurden",
+      "raw_en": "ent-AltarConvertBurden =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarConvert",
+      "raw_en": "ent-AltarConvert =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarConvertOrange",
+      "raw_en": "ent-AltarConvertOrange =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarConvertRed",
+      "raw_en": "ent-AltarConvertRed =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarConvertWhite",
+      "raw_en": "ent-AltarConvertWhite =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarConvertYellow",
+      "raw_en": "ent-AltarConvertYellow =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarHeaven",
+      "raw_en": "ent-AltarHeaven =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "AltarFangs",
+      "raw_en": "ent-AltarFangs =\n    .desc = Altar of the Gods.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/altar.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/altar.ftl"
+    },
+    {
+      "id": "UnanchoredChairBase",
+      "raw_en": "ent-UnanchoredChairBase =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "ChairBase",
+      "raw_en": "ent-ChairBase =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "OfficeChairBase",
+      "raw_en": "ent-OfficeChairBase =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "StoolBase",
+      "raw_en": "ent-StoolBase =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "Chair",
+      "raw_en": "ent-Chair =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "ChairGreyscale",
+      "raw_en": "ent-ChairGreyscale =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "StoolBar",
+      "raw_en": "ent-StoolBar =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "ChairBrass",
+      "raw_en": "ent-ChairBrass =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "ChairOfficeLight",
+      "raw_en": "ent-ChairOfficeLight =\n    .desc = Scoot from desk to desk because standing is for interns.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "ChairOfficeDark",
+      "raw_en": "ent-ChairOfficeDark =\n    .desc = Scoot from desk to desk because standing is for interns.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "ChairWood",
+      "raw_en": "ent-ChairWood =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "Sink",
+      "raw_en": "ent-Sink =\n    .desc = The faucets have been tightened to the maximum possible torque but are still known to drip.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/sink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/sink.ftl"
+    },
+    {
+      "id": "SinkWide",
+      "raw_en": "ent-SinkWide =\n    .desc = The faucets have been tightened to the maximum possible torque but are still known to drip.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/sink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/sink.ftl"
+    },
+    {
+      "id": "SinkStemless",
+      "raw_en": "ent-SinkStemless =\n    .desc = The faucets have been tightened to the maximum possible torque but are still known to drip.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/sink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/sink.ftl"
+    },
+    {
+      "id": "SinkStemlessWater",
+      "raw_en": "ent-SinkStemlessWater =\n    .desc = The faucets have been tightened to the maximum possible torque but are still known to drip.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/sink.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/sink.ftl"
+    },
+    {
+      "id": "CounterBase",
+      "raw_en": "ent-CounterBase =\n    .desc = A square piece of metal standing on four metal legs.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/Tables/base_structuretables.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/furniture/tables/base_structuretables.ftl"
+    },
+    {
+      "id": "SpaceVillainArcade",
+      "raw_en": "ent-SpaceVillainArcade =\n    .desc = An arcade cabinet.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/Computers/arcades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/computers/arcades.ftl"
+    },
+    {
+      "id": "FaxMachineCentcom",
+      "raw_en": "ent-FaxMachineCentcom =\n    .desc = Bluespace technologies on the application of bureaucracy.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/fax_machine.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/fax_machine.ftl"
+    },
+    {
+      "id": "FaxMachineSyndie",
+      "raw_en": "ent-FaxMachineSyndie =\n    .desc = Bluespace technologies on the application of bureaucracy.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/fax_machine.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/fax_machine.ftl"
+    },
+    {
+      "id": "FaxMachineCaptain",
+      "raw_en": "ent-FaxMachineCaptain =\n    .desc = Bluespace technologies on the application of bureaucracy.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/fax_machine.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/fax_machine.ftl"
+    },
+    {
+      "id": "SurveillanceCameraRouterEngineering",
+      "raw_en": "ent-SurveillanceCameraRouterEngineering =\n    .desc = A surveillance camera router. It routes. Perhaps.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/surveillance_camera_routers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/surveillance_camera_routers.ftl"
+    },
+    {
+      "id": "SurveillanceCameraRouterSecurity",
+      "raw_en": "ent-SurveillanceCameraRouterSecurity =\n    .desc = A surveillance camera router. It routes. Perhaps.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/surveillance_camera_routers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/surveillance_camera_routers.ftl"
+    },
+    {
+      "id": "SurveillanceCameraRouterScience",
+      "raw_en": "ent-SurveillanceCameraRouterScience =\n    .desc = A surveillance camera router. It routes. Perhaps.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/surveillance_camera_routers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/surveillance_camera_routers.ftl"
+    },
+    {
+      "id": "SurveillanceCameraRouterSupply",
+      "raw_en": "ent-SurveillanceCameraRouterSupply =\n    .desc = A surveillance camera router. It routes. Perhaps.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/surveillance_camera_routers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/surveillance_camera_routers.ftl"
+    },
+    {
+      "id": "SurveillanceCameraRouterCommand",
+      "raw_en": "ent-SurveillanceCameraRouterCommand =\n    .desc = A surveillance camera router. It routes. Perhaps.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/surveillance_camera_routers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/surveillance_camera_routers.ftl"
+    },
+    {
+      "id": "SurveillanceCameraRouterService",
+      "raw_en": "ent-SurveillanceCameraRouterService =\n    .desc = A surveillance camera router. It routes. Perhaps.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/surveillance_camera_routers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/surveillance_camera_routers.ftl"
+    },
+    {
+      "id": "SurveillanceCameraRouterMedical",
+      "raw_en": "ent-SurveillanceCameraRouterMedical =\n    .desc = A surveillance camera router. It routes. Perhaps.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/surveillance_camera_routers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/surveillance_camera_routers.ftl"
+    },
+    {
+      "id": "SurveillanceCameraRouterGeneral",
+      "raw_en": "ent-SurveillanceCameraRouterGeneral =\n    .desc = A surveillance camera router. It routes. Perhaps.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/surveillance_camera_routers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/surveillance_camera_routers.ftl"
+    },
+    {
+      "id": "SurveillanceCameraWirelessRouterEntertainment",
+      "raw_en": "ent-SurveillanceCameraWirelessRouterEntertainment =\n    .desc = A wireless surveillance camera router. It routes. Perhaps.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/surveillance_camera_routers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/surveillance_camera_routers.ftl"
+    },
+    {
+      "id": "VendingMachineChapel",
+      "raw_en": "ent-VendingMachineChapel =\n    .desc = Just add capitalism!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Machines/vending_machines.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/machines/vending_machines.ftl"
+    },
+    {
+      "id": "GasMinerOxygen",
+      "raw_en": "ent-GasMinerOxygen =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerOxygenStation",
+      "raw_en": "ent-GasMinerOxygenStation =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerOxygenStationLarge",
+      "raw_en": "ent-GasMinerOxygenStationLarge =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerNitrogen",
+      "raw_en": "ent-GasMinerNitrogen =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerNitrogenStation",
+      "raw_en": "ent-GasMinerNitrogenStation =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerNitrogenStationLarge",
+      "raw_en": "ent-GasMinerNitrogenStationLarge =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerCarbonDioxide",
+      "raw_en": "ent-GasMinerCarbonDioxide =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerPlasma",
+      "raw_en": "ent-GasMinerPlasma =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerTritium",
+      "raw_en": "ent-GasMinerTritium =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerFrezon",
+      "raw_en": "ent-GasMinerFrezon =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerWaterVapor",
+      "raw_en": "ent-GasMinerWaterVapor =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMinerAmmonia",
+      "raw_en": "ent-GasMinerAmmonia =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    }
+  ]
+}

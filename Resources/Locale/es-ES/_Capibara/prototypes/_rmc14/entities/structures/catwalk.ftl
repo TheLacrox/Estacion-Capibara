@@ -2,10 +2,13 @@ ent-CMCatwalk = pasarela
     .desc = Una pasarela para facilitar la maniobra en EVA y la colocación de cables.
 
 ent-RMCCatwalkHybrisa = rejilla metálica sólida
+    .desc = Una pasarela para facilitar la maniobra en EVA y la colocación de cables.
 
 ent-RMCCatwalkHybrisaLattice = celosía estructural
+    .desc = Una pasarela para facilitar la maniobra en EVA y la colocación de cables.
 
 ent-RMCCatwalkHybrisaElevator = rejilla metálica sólida
+    .desc = Una pasarela para facilitar la maniobra en EVA y la colocación de cables.
 
 ent-RMCMonorailStraight = vía de monorraíl
     .desc = El sistema de raíles del monorraíl de CORSAT.

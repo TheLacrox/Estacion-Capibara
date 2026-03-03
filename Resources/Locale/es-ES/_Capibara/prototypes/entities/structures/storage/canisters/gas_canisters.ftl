@@ -2,6 +2,7 @@ ent-GasCanister = cánister de gas
     .desc = Un cánister que puede contener cualquier tipo de gas. Se puede conectar a puertos conectores con una llave inglesa.
 
 ent-StorageCanister = cánister de almacenamiento
+    .desc = Un cánister que puede contener cualquier tipo de gas. Se puede conectar a puertos conectores con una llave inglesa.
 
 ent-AirCanister = cánister de aire
     .desc = Un cánister que puede contener cualquier tipo de gas. Este supone que contiene mezcla de aire. Se puede conectar a puertos conectores con una llave inglesa.
@@ -46,3 +47,4 @@ ent-GasCanisterBrokenBase = cánister de gas roto
     .desc = Un cánister de gas roto. Aún no es inútil, ya que se puede recuperar para obtener materiales de alta calidad.
 
 ent-WaterVaporCanisterBroken = cánister de vapor de agua roto
+    .desc = Un cánister de gas roto. Aún no es inútil, ya que se puede recuperar para obtener materiales de alta calidad.

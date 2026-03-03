@@ -5,3 +5,4 @@ ent-PaperFugitiveReport = informe de fugitivo
     .desc = Una orden de arresto para un fugitivo espacial enviada por GALPOL.
 
 ent-TapeRecorderTranscript = transcripción de grabación
+    .desc = Un trozo de papel blanco.

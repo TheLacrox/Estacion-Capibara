@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0012_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "NitriumCanisterBroken",
+      "raw_en": "ent-NitriumCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PluoxiumCanisterBroken",
+      "raw_en": "ent-PluoxiumCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageHEVFilled",
+      "raw_en": "ent-SuitStorageHEVFilled = H.E.V suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing H.E.V suit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/closets.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Storage/closets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GlassBoxLawbringer",
+      "raw_en": "ent-GlassBoxLawbringer = glass box\n    .desc = A sturdy showcase for an expensive exhibit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/glass_box.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Storage/glass_box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GlassBoxLawbringerFilled",
+      "raw_en": "ent-GlassBoxLawbringerFilled = glass box\n    .desc = A sturdy showcase for an expensive exhibit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/glass_box.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Storage/glass_box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MeteorRockBSCrystal",
+      "raw_en": "ent-MeteorRockBSCrystal = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockBSCrystal",
+      "raw_en": "ent-IronRockBSCrystal = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBSCrystal",
+      "raw_en": "ent-WallRockBSCrystal = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltBSCrystal",
+      "raw_en": "ent-WallRockBasaltBSCrystal = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowBSCrystal",
+      "raw_en": "ent-WallRockSnowBSCrystal = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSandBSCrystal",
+      "raw_en": "ent-WallRockSandBSCrystal = sandstone\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockChromiteBSCrystal",
+      "raw_en": "ent-WallRockChromiteBSCrystal = chromite\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockAndesiteBSCrystal",
+      "raw_en": "ent-WallRockAndesiteBSCrystal = andesite\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UniqueLockerNanorepFilled",
+      "raw_en": "ent-UniqueLockerNanorepFilled = nanotrasen representative locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Unique/lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Unique/lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UniqueLockerBlueshieldOfficerFilled",
+      "raw_en": "ent-UniqueLockerBlueshieldOfficerFilled = blueshield officer locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Unique/lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Unique/lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FeatherzoneWing2",
+      "raw_en": "ent-FeatherzoneWing2 = sparking blade\n    .desc = It looks very fragile from here. And dangerously live. Best not get too close.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Machines/featherzone.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Machines/featherzone.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FeatherzoneWingOff2",
+      "raw_en": "ent-FeatherzoneWingOff2 = sparking blade\n    .desc = It looks very fragile from here. And dangerously live. Best not get too close.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Machines/featherzone.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Machines/featherzone.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FeatherzoneWingBroken2",
+      "raw_en": "ent-FeatherzoneWingBroken2 = broken sparking blade\n    .desc = A delapidated wing.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Machines/featherzone.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Machines/featherzone.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CenterTableFlock",
+      "raw_en": "ent-CenterTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "middleTableFlock",
+      "raw_en": "ent-middleTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "middleVTableFlock",
+      "raw_en": "ent-middleVTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "northTableFlock",
+      "raw_en": "ent-northTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "southTableFlock",
+      "raw_en": "ent-southTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "leftTableFlock",
+      "raw_en": "ent-leftTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "rightTableFlock",
+      "raw_en": "ent-rightTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TNorthTableFlock",
+      "raw_en": "ent-TNorthTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TSouthTableFlock",
+      "raw_en": "ent-TSouthTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TLeftTableFlock",
+      "raw_en": "ent-TLeftTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TRightTableFlock",
+      "raw_en": "ent-TRightTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NECornerTableFlock",
+      "raw_en": "ent-NECornerTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NWCornerTableFlock",
+      "raw_en": "ent-NWCornerTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SECornerTableFlock",
+      "raw_en": "ent-SECornerTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SWCornerTableFlock",
+      "raw_en": "ent-SWCornerTableFlock = humming surface\n    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Furnitures/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Furnitures/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredFlockFloorLight",
+      "raw_en": "ent-AlwaysPoweredFlockFloorLight = shining cabochon\n    .desc = It pulses and flares to a strange rhythm.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/light.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/light.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FlockFloorLight",
+      "raw_en": "ent-FlockFloorLight = shining cabochon\n    .desc = It pulses and flares to a strange rhythm.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/light.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/light.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FlockPoleEnd",
+      "raw_en": "ent-FlockPoleEnd = fibrous pole\n    .desc = Huh. Weird.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Misc/poles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Misc/poles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseFlockPoleBroken",
+      "raw_en": "ent-BaseFlockPoleBroken = fibrous pole\n    .desc = Huh. Weird.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Misc/poles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Misc/poles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FlockPoleBroken2",
+      "raw_en": "ent-FlockPoleBroken2 = fibrous pole\n    .desc = Huh. Weird.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/Misc/poles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/Misc/poles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "fullWallFlock",
+      "raw_en": "ent-fullWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "fullCenterWallFlock",
+      "raw_en": "ent-fullCenterWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "fullLeftWallFlock",
+      "raw_en": "ent-fullLeftWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "fullNorthWallFlock",
+      "raw_en": "ent-fullNorthWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "fullRightWallFlock",
+      "raw_en": "ent-fullRightWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "gridfullWallFlock",
+      "raw_en": "ent-gridfullWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "InnerNECornerWallFlock",
+      "raw_en": "ent-InnerNECornerWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "InnerNWCornerWallFlock",
+      "raw_en": "ent-InnerNWCornerWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "InnerSECornerWallFlock",
+      "raw_en": "ent-InnerSECornerWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "InnerSWCornerWallFlock",
+      "raw_en": "ent-InnerSWCornerWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "leftWallFlock",
+      "raw_en": "ent-leftWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "middleWallFlock",
+      "raw_en": "ent-middleWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    }
+  ]
+}

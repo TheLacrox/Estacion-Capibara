@@ -2,6 +2,7 @@ ent-MopBucket = cubo de fregona
     .desc = Contiene agua y las lágrimas del conserje.
 
 ent-MopBucketFull = cubo de fregona
+    .desc = Contiene agua y las lágrimas del conserje.
 
 ent-MopBucketCubeWrapped = cubo de fregona comprimido
     .desc = Desenvuelve esto para obtener un cubo de cubo de fregona.

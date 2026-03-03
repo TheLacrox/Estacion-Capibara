@@ -17,3 +17,4 @@ ent-MobSnail = caracol
     .desc = Repugnante a menos que seas francés.
 
 ent-MobSnailMoth = Snoth
+    .desc = Repugnante a menos que seas francés.

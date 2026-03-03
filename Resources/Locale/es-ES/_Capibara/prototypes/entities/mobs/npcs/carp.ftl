@@ -11,6 +11,7 @@ ent-MobCarpRainbow = carpa arcoíris
     .desc = ¡Qué pececillo tan brillante!
 
 ent-MobCarpDragon = carpa espacial
+    .desc = Es una carpa espacial.
 
 ent-MobShark = tiburón menudo
     .desc = Un peligroso tiburón de la oscuridad del espacio infinito, que ama beber sangre.

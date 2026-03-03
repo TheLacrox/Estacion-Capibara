@@ -56,6 +56,7 @@ ent-ClothingUniformJumpsuitClown = traje de payaso
     .desc = ¡HONK!
 
 ent-ClothingUniformJumpsuitClownBanana = traje de payaso plátano
+    .desc = ¡HONK!
 
 ent-ClothingUniformJumpsuitJester = traje de bufón
     .desc = Un vestido alegre, muy adecuado para entretener a tu amo, tío.

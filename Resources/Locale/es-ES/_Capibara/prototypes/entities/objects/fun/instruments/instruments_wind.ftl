@@ -2,6 +2,7 @@ ent-SaxophoneInstrument = saxofón
     .desc = Un instrumento. Probablemente podrías molerlo en jazz puro.
 
 ent-HarmonicaInstrument = armónica
+    .desc = Eso es un instrumento.
 
 ent-ClarinetInstrument = clarinete
     .desc = Skweedward tintacklays.

@@ -5,9 +5,13 @@ ent-ChangelingDart = dardo orgánico
     .desc = Un dardo fino como una aguja formado de hueso.
 
 ent-ChangelingDartMute = dardo orgánico silenciador
+    .desc = Un dardo fino como una aguja formado de hueso.
 
 ent-ChangelingDartBlind = dardo orgánico cegador
+    .desc = Un dardo fino como una aguja formado de hueso.
 
 ent-ChangelingDartCryo = dardo orgánico criogénico
+    .desc = Un dardo fino como una aguja formado de hueso.
 
 ent-ChangelingDartLethargic = dardo orgánico letárgico
+    .desc = Un dardo fino como una aguja formado de hueso.

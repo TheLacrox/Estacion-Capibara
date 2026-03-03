@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0015_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "ProjectileSpellCardPurpleNoHoming",
+      "raw_en": "ent-ProjectileSpellCardPurpleNoHoming = enchanted card\n    .desc = A piece of paper enchanted to give it extreme durability and stiffness, along with a very hot burn to anyone unfortunate enough to get hit by a charged one.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletMagicNoMuzzleFlash",
+      "raw_en": "ent-BulletMagicNoMuzzleFlash = magic bullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloraRockSolidFading",
+      "raw_en": "ent-FloraRockSolidFading = boulder\n    .desc = A volcanic rock. Pioneers used to ride these babies for miles.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/rock.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/rock.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointWizard",
+      "raw_en": "ent-SpawnPointWizard = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/wizard.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/wizard.ftl",
+      "file_exists": true
+    },
+    {
+      "id": "SpawnPointGhostWraith",
+      "raw_en": "ent-SpawnPointGhostWraith = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/GameRules/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/GameRules/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAncientRobot2",
+      "raw_en": "ent-MobAncientRobot2 = ???\n    .desc = What the hell is that?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAncientRobot3",
+      "raw_en": "ent-MobAncientRobot3 = ???\n    .desc = What the hell is that?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAncientLegs",
+      "raw_en": "ent-MobAncientLegs = ???\n    .desc = What the hell is that?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobSkeletonGoonLesser",
+      "raw_en": "ent-MobSkeletonGoonLesser = malicious skeleton\n    .desc = A hostile skeleton summoned by a wraith.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobSkeletonGoonWraith",
+      "raw_en": "ent-MobSkeletonGoonWraith = malicious skeleton\n    .desc = A hostile skeleton summoned by a wraith.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCrunchedWraith",
+      "raw_en": "ent-MobCrunchedWraith = transposed scientist\n    .desc = A fellow who seems to have been shunted between dimensions. Not a good state to be in.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobShadeWraith",
+      "raw_en": "ent-MobShadeWraith = darkness\n    .desc = Oh god.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobMonstrosityHeadWraith",
+      "raw_en": "ent-MobMonstrosityHeadWraith = mechanical monstrosity\n    .desc = A severely disfigured human torso which is forcibly kept alive by the mechanical parts...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobMonstrosityBodyWraith",
+      "raw_en": "ent-MobMonstrosityBodyWraith = mechanical monstrosity\n    .desc = A severely disfigured human torso which is forcibly kept alive by the mechanical parts...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobLionWraith",
+      "raw_en": "ent-MobLionWraith = lion\n    .desc = Oh christ.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAncientRepairBotWraith",
+      "raw_en": "ent-MobAncientRepairBotWraith = strange robot\n    .desc = It looks like some sort of floating repair bot or something?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAncientGuardBotWraith",
+      "raw_en": "ent-MobAncientGuardBotWraith = strange robot\n    .desc = A Security Robot, something seems a bit off.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAncientRobot1Wraith",
+      "raw_en": "ent-MobAncientRobot1Wraith = ???\n    .desc = What the hell is that?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAncientRobot2Wraith",
+      "raw_en": "ent-MobAncientRobot2Wraith = ???\n    .desc = What the hell is that?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAncientRobot3Wraith",
+      "raw_en": "ent-MobAncientRobot3Wraith = ???\n    .desc = What the hell is that?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAncientLegsWraith",
+      "raw_en": "ent-MobAncientLegsWraith = ???\n    .desc = What the hell is that?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobBearGoonWraith",
+      "raw_en": "ent-MobBearGoonWraith = bear\n    .desc = Why are you staring? Never seen a bear before?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobBrullbarWraith",
+      "raw_en": "ent-MobBrullbarWraith = brullbar\n    .desc = Oh god.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobBGunbotWraith",
+      "raw_en": "ent-MobBGunbotWraith = gunbot\n    .desc = A Security Robot, something seems a bit off.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobNukebotWraith",
+      "raw_en": "ent-MobNukebotWraith = syndicate gunbot\n    .desc = An older model of the syndicate assault borg, specialized for close quarter combat.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/mobs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/mobs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobSkeletonCommanderWraith",
+      "raw_en": "ent-MobSkeletonCommanderWraith = skeleton commander\n    .desc = A bulky skeleton here to encourage his friends.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/VoidSummons/void.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/VoidSummons/void.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobVoidSpikerWraith",
+      "raw_en": "ent-MobVoidSpikerWraith = Tentacle fiend\n    .desc = Standing still is probably not a good idea.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/VoidSummons/void.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/VoidSummons/void.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobVoidHoundWraith",
+      "raw_en": "ent-MobVoidHoundWraith = Voidhound\n    .desc = You probably shouldn't be staring at this thing.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Mobs/VoidSummons/void.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Mobs/VoidSummons/void.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RitualCircle1",
+      "raw_en": "ent-RitualCircle1 = Summoning portal\n    .desc = It hums and thrums as you stare at it. Dark shadows weave in and out of sight within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Objects/ritualcircle.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Objects/ritualcircle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RitualCircle2",
+      "raw_en": "ent-RitualCircle2 = Summoning portal\n    .desc = It hums and thrums as you stare at it. Dark shadows weave in and out of sight within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Objects/ritualcircle.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Objects/ritualcircle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RitualCircle3",
+      "raw_en": "ent-RitualCircle3 = Summoning portal\n    .desc = It hums and thrums as you stare at it. Dark shadows weave in and out of sight within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Objects/ritualcircle.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Objects/ritualcircle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RitualCircle4",
+      "raw_en": "ent-RitualCircle4 = Summoning portal\n    .desc = It hums and thrums as you stare at it. Dark shadows weave in and out of sight within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Objects/ritualcircle.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Objects/ritualcircle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RitualCircle5",
+      "raw_en": "ent-RitualCircle5 = Summoning portal\n    .desc = It hums and thrums as you stare at it. Dark shadows weave in and out of sight within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wraith/Objects/ritualcircle.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wraith/Objects/ritualcircle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackXenoBioTankFilled",
+      "raw_en": "ent-ClothingBackpackXenoBioTankFilled = xenovac containment tank\n    .desc = Holds xenofauna. Also contains a vacuum nozzle on it's side. It's just like slime rancher.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Xenobiology/Entities/Objects/Devices/xenovac.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Xenobiology/Entities/Objects/Devices/xenovac.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DroneSatchelUnremovable",
+      "raw_en": "ent-DroneSatchelUnremovable = satchel\n    .desc = A trendy looking satchel.",
+      "source_yaml": "Resources/Prototypes/_Imp/_Drone/drone_tools.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Imp/_Drone/drone_tools.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "trayScannerUnremoveable",
+      "raw_en": "ent-trayScannerUnremoveable = t-ray scanner\n    .desc = A high-tech scanning device that uses Terahertz Radiation to detect subfloor infrastructure.",
+      "source_yaml": "Resources/Prototypes/_Imp/_Drone/drone_tools.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Imp/_Drone/drone_tools.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OmnitoolUnremoveable",
+      "raw_en": "ent-OmnitoolUnremoveable = omnitool\n    .desc = A drone's best friend.",
+      "source_yaml": "Resources/Prototypes/_Imp/_Drone/drone_tools.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Imp/_Drone/drone_tools.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WelderExperimentalUnremoveable",
+      "raw_en": "ent-WelderExperimentalUnremoveable = experimental welding tool\n    .desc = An experimental welder capable of self-fuel generation and less harmful to the eyes.",
+      "source_yaml": "Resources/Prototypes/_Imp/_Drone/drone_tools.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Imp/_Drone/drone_tools.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RCDRechargingUnremoveable",
+      "raw_en": "ent-RCDRechargingUnremoveable = experimental RCD\n    .desc = Cyborg-mounted Rapid Construction Device which creates compressed matter on the fly using an internal fabricator.",
+      "source_yaml": "Resources/Prototypes/_Imp/_Drone/drone_tools.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Imp/_Drone/drone_tools.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NetworkConfiguratorUnremoveable",
+      "raw_en": "ent-NetworkConfiguratorUnremoveable = network configurator\n    .desc = A tool for linking devices together. Has two modes, a list mode for mass linking devices and a linking mode for advanced device linking.",
+      "source_yaml": "Resources/Prototypes/_Imp/_Drone/drone_tools.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Imp/_Drone/drone_tools.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PinpointerStationUnremoveable",
+      "raw_en": "ent-PinpointerStationUnremoveable = station pinpointer\n    .desc = You are the station. Find yourself. Press E to activate.",
+      "source_yaml": "Resources/Prototypes/_Imp/_Drone/drone_tools.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Imp/_Drone/drone_tools.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackSatchelDrone",
+      "raw_en": "ent-ClothingBackpackSatchelDrone = satchel\n    .desc = A trendy looking satchel.",
+      "source_yaml": "Resources/Prototypes/_Imp/_Drone/satchel.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Imp/_Drone/satchel.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerSalvageSpecialistFilledHardsuit",
+      "raw_en": "ent-LockerSalvageSpecialistFilledHardsuit = salvage specialist's locker\n    .desc = Contains equipment useful for space exploration.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Catalog/Fills/Lockers/salvage.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Catalog/Fills/Lockers/salvage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerSalvageSpecialistFilled",
+      "raw_en": "ent-LockerSalvageSpecialistFilled = salvage specialist's locker\n    .desc = Contains equipment useful for space exploration.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Catalog/Fills/Lockers/salvage.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Catalog/Fills/Lockers/salvage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerShaftMinerFilledHardsuit",
+      "raw_en": "ent-LockerShaftMinerFilledHardsuit = shaft miner's locker\n    .desc = Contains equipment useful for planet exploration.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Catalog/Fills/Lockers/salvage.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Catalog/Fills/Lockers/salvage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerShaftMinerFilled",
+      "raw_en": "ent-LockerShaftMinerFilled = shaft miner's locker\n    .desc = Contains equipment useful for planet exploration.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Catalog/Fills/Lockers/salvage.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Catalog/Fills/Lockers/salvage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobLavalandGoliath",
+      "raw_en": "ent-MobLavalandGoliath = goliath\n    .desc = A massive beast that uses long tentacles to ensnare its prey, threatening them is not advised under any conditions.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Mobs/goliath.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Mobs/goliath.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconLavalandRuin",
+      "raw_en": "ent-DefaultStationBeaconLavalandRuin = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRuinAbductor",
+      "raw_en": "ent-DefaultStationBeaconRuinAbductor = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRuinArrivals",
+      "raw_en": "ent-DefaultStationBeaconRuinArrivals = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0088_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "MinerIDCard",
+      "raw_en": "ent-MinerIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "LavalandJaunterRecharging",
+      "raw_en": "ent-LavalandJaunterRecharging =\n    .desc = A complex device running on bluespace technology, that can teleport you out of danger spaces. You should have this on you when walking near a chasm.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Specific/Salvage/jaunter.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/specific/salvage/jaunter.ftl"
+    },
+    {
+      "id": "LavalandVampirismCrystal",
+      "raw_en": "ent-LavalandVampirismCrystal =\n    .desc = A modkit for a proto-kinetic accelerator.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Specific/Salvage/lavaland_loot.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/specific/salvage/lavaland_loot.ftl"
+    },
+    {
+      "id": "RapidBulletKinetic",
+      "raw_en": "ent-RapidBulletKinetic =\n    .desc = Not too bad, but you still don't want to get hit by it.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "PKAUpgradeDamage",
+      "raw_en": "ent-PKAUpgradeDamage =\n    .desc = A modkit for a proto-kinetic accelerator.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Upgrades/pka_upgrade.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/weapons/upgrades/pka_upgrade.ftl"
+    },
+    {
+      "id": "PKAUpgradeRange",
+      "raw_en": "ent-PKAUpgradeRange =\n    .desc = A modkit for a proto-kinetic accelerator.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Upgrades/pka_upgrade.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/weapons/upgrades/pka_upgrade.ftl"
+    },
+    {
+      "id": "PKAUpgradeFireRate",
+      "raw_en": "ent-PKAUpgradeFireRate =\n    .desc = A modkit for a proto-kinetic accelerator.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Upgrades/pka_upgrade.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/weapons/upgrades/pka_upgrade.ftl"
+    },
+    {
+      "id": "PKAUpgradePressure",
+      "raw_en": "ent-PKAUpgradePressure =\n    .desc = A modkit for a proto-kinetic accelerator.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Upgrades/pka_upgrade.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/weapons/upgrades/pka_upgrade.ftl"
+    },
+    {
+      "id": "PKAUpgradeSpace",
+      "raw_en": "ent-PKAUpgradeSpace =\n    .desc = A modkit for a proto-kinetic accelerator.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Upgrades/pka_upgrade.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/objects/weapons/upgrades/pka_upgrade.ftl"
+    },
+    {
+      "id": "LavalandCrateNecropolisFilled",
+      "raw_en": "ent-LavalandCrateNecropolisFilled =\n    .desc = Steel and strong.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/Storage/Crates/necropolis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/structures/storage/crates/necropolis.ftl"
+    },
+    {
+      "id": "WallHierophantArena",
+      "raw_en": "ent-WallHierophantArena =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/structures/walls.ftl"
+    },
+    {
+      "id": "WallNecropolisIndestructible",
+      "raw_en": "ent-WallNecropolisIndestructible =\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_lavaland/entities/structures/walls.ftl"
+    },
+    {
+      "id": "ShipMediumPlasmaProjectile",
+      "raw_en": "ent-ShipMediumPlasmaProjectile =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Energy/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/energy/projectiles.ftl"
+    },
+    {
+      "id": "ShipRubiconProjectile",
+      "raw_en": "ent-ShipRubiconProjectile =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Energy/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/energy/projectiles.ftl"
+    },
+    {
+      "id": "ShipDymereProjectile",
+      "raw_en": "ent-ShipDymereProjectile =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Energy/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/energy/projectiles.ftl"
+    },
+    {
+      "id": "ShipRailgunProjectile",
+      "raw_en": "ent-ShipRailgunProjectile =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/kinetic/projectiles.ftl"
+    },
+    {
+      "id": "20mmBulletArmorPiercing",
+      "raw_en": "ent-20mmBulletArmorPiercing =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/kinetic/projectiles.ftl"
+    },
+    {
+      "id": "ShipDravonProjectile",
+      "raw_en": "ent-ShipDravonProjectile =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/kinetic/projectiles.ftl"
+    },
+    {
+      "id": "90mmBulletBase",
+      "raw_en": "ent-90mmBulletBase =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/kinetic/projectiles.ftl"
+    },
+    {
+      "id": "ShipTarnyxProjectile",
+      "raw_en": "ent-ShipTarnyxProjectile =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/kinetic/projectiles.ftl"
+    },
+    {
+      "id": "ShipCyrexaProjectile",
+      "raw_en": "ent-ShipCyrexaProjectile =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/kinetic/projectiles.ftl"
+    },
+    {
+      "id": "ShipBoforsProjectile",
+      "raw_en": "ent-ShipBoforsProjectile =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/kinetic/projectiles.ftl"
+    },
+    {
+      "id": "ShipKargilProjectile",
+      "raw_en": "ent-ShipKargilProjectile =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/kinetic/projectiles.ftl"
+    },
+    {
+      "id": "ShipMissileASM417",
+      "raw_en": "ent-ShipMissileASM417 =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/missile/projectiles.ftl"
+    },
+    {
+      "id": "ShipMissileASM302",
+      "raw_en": "ent-ShipMissileASM302 =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/missile/projectiles.ftl"
+    },
+    {
+      "id": "ShipMissileASM501",
+      "raw_en": "ent-ShipMissileASM501 =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/missile/projectiles.ftl"
+    },
+    {
+      "id": "ShipMissileASM557",
+      "raw_en": "ent-ShipMissileASM557 =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/spaceartillery/spaceartillery/missile/projectiles.ftl"
+    },
+    {
+      "id": "GunneryServerLow",
+      "raw_en": "ent-GunneryServerLow =\n    .desc = Manages the remote operation of ship weapons.",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/Structures/Machines/FireControl/gunnery.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/structures/machines/firecontrol/gunnery.ftl"
+    },
+    {
+      "id": "GunneryServerMedium",
+      "raw_en": "ent-GunneryServerMedium =\n    .desc = Manages the remote operation of ship weapons.",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/Structures/Machines/FireControl/gunnery.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/structures/machines/firecontrol/gunnery.ftl"
+    },
+    {
+      "id": "GunneryServerHigh",
+      "raw_en": "ent-GunneryServerHigh =\n    .desc = Manages the remote operation of ship weapons.",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/Structures/Machines/FireControl/gunnery.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/structures/machines/firecontrol/gunnery.ftl"
+    },
+    {
+      "id": "GunneryServerUltra",
+      "raw_en": "ent-GunneryServerUltra =\n    .desc = Manages the remote operation of ship weapons.",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/Structures/Machines/FireControl/gunnery.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_mono/entities/structures/machines/firecontrol/gunnery.ftl"
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryHoP",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryHoP =\n    .desc = Rather bland and inoffensive. Perfect for vanishing off the face of the universe.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/entities/clothing/uniforms/military_jumpsuits.ftl"
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryTurtleneckMercenaryMedic",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryMedic =\n    .desc = Clothing for real mercenaries who have gone through fire, water and the jungle of planets flooded with dangerous monsters or targets for which a reward has been assigned.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/entities/clothing/uniforms/military_jumpsuits.ftl"
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryTurtleneckMercenaryCaptain",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryCaptain =\n    .desc = Clothing for real mercenaries who have gone through fire, water and the jungle of planets flooded with dangerous monsters or targets for which a reward has been assigned.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/entities/clothing/uniforms/military_jumpsuits.ftl"
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryMedic",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryMedic =\n    .desc = Clothing for real mercenaries who have gone through fire, water and the jungle of planets flooded with dangerous monsters or targets for which a reward has been assigned.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/entities/clothing/uniforms/military_jumpsuits.ftl"
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryCaptain",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryCaptain =\n    .desc = Clothing for real mercenaries who have gone through fire, water and the jungle of planets flooded with dangerous monsters or targets for which a reward has been assigned.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/entities/clothing/uniforms/military_jumpsuits.ftl"
+    },
+    {
+      "id": "ShelfWallFreezerDark",
+      "raw_en": "ent-ShelfWallFreezerDark =\n    .desc = A convenient place to store perishables.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Structures/shelfs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/entities/structures/shelfs.ftl"
+    },
+    {
+      "id": "SyringeCognizine",
+      "raw_en": "ent-SyringeCognizine =\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/misc.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/misc.ftl"
+    },
+    {
+      "id": "SyringeOpporozidone",
+      "raw_en": "ent-SyringeOpporozidone =\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/misc.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/misc.ftl"
+    },
+    {
+      "id": "NecrosolChemistryBottle",
+      "raw_en": "ent-NecrosolChemistryBottle =\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/misc.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/misc.ftl"
+    },
+    {
+      "id": "PaperMailNFPowerTool",
+      "raw_en": "ent-PaperMailNFPowerTool =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/paper.ftl"
+    },
+    {
+      "id": "PaperMailNFPwrGameAd",
+      "raw_en": "ent-PaperMailNFPwrGameAd =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/paper.ftl"
+    },
+    {
+      "id": "PaperMailNFRedBoolAd",
+      "raw_en": "ent-PaperMailNFRedBoolAd =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/paper.ftl"
+    },
+    {
+      "id": "PaperMailNFSpaceColaAd",
+      "raw_en": "ent-PaperMailNFSpaceColaAd =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/paper.ftl"
+    },
+    {
+      "id": "PaperMailNFSpaceMountainWindAd",
+      "raw_en": "ent-PaperMailNFSpaceMountainWindAd =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/paper.ftl"
+    },
+    {
+      "id": "PaperMailNFSpaceUpAd",
+      "raw_en": "ent-PaperMailNFSpaceUpAd =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/paper.ftl"
+    },
+    {
+      "id": "PaperMailNFPetBedAssemblyManual",
+      "raw_en": "ent-PaperMailNFPetBedAssemblyManual =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/paper.ftl"
+    },
+    {
+      "id": "PaperMailNFAntivirus",
+      "raw_en": "ent-PaperMailNFAntivirus =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/paper.ftl"
+    },
+    {
+      "id": "PaperMailNFEMPPreparedness",
+      "raw_en": "ent-PaperMailNFEMPPreparedness =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/paper.ftl"
+    },
+    {
+      "id": "PaperMailNFBuildABuddy",
+      "raw_en": "ent-PaperMailNFBuildABuddy =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_nf/mail/items/paper.ftl"
+    }
+  ]
+}

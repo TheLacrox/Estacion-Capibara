@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0003_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "MarishTranslatorImplanter",
+      "raw_en": "ent-MarishTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SchechiTranslatorImplanter",
+      "raw_en": "ent-SchechiTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NewKinPidginTranslatorImplanter",
+      "raw_en": "ent-NewKinPidginTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GruntishTranslatorImplanter",
+      "raw_en": "ent-GruntishTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SlingEggHatch",
+      "raw_en": "ent-SlingEggHatch = Shadowling Egg\n    .desc = An irregular lump of organic matter, its cracked surface twitching now and then.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Shadowling/Entities/egg.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Shadowling/Entities/egg.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SlingEggAscension",
+      "raw_en": "ent-SlingEggAscension = Shadowling Egg\n    .desc = A dark, armored cocoon pulsing with eerie energy, heralding the shadowling’s ascension.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Shadowling/Entities/egg.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Shadowling/Entities/egg.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NuclearReactorEmpty",
+      "raw_en": "ent-NuclearReactorEmpty = nuclear reactor\n    .desc = A nuclear reactor vessel, with slots for fuel rods and other components. Hey wait, didn't one of these explode once?",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/nuclear_reactor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/nuclear_reactor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NuclearReactorMeltdown",
+      "raw_en": "ent-NuclearReactorMeltdown = nuclear reactor\n    .desc = A nuclear reactor vessel, with slots for fuel rods and other components. Hey wait, didn't one of these explode once?",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/nuclear_reactor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/nuclear_reactor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseReactorItem",
+      "raw_en": "ent-BaseReactorItem = item",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "target_ftl": "Resources/Locale/es-ES/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseReactorPart",
+      "raw_en": "ent-BaseReactorPart = item",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "target_ftl": "Resources/Locale/es-ES/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartResomi",
+      "raw_en": "ent-PartResomi = human body part",
+      "source_yaml": "Resources/Prototypes/_Floofstation/Body/Parts/resomi.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Floofstation/Body/Parts/resomi.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GoobSuitStorageSpirate",
+      "raw_en": "ent-GoobSuitStorageSpirate = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/_Pirates/drip.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/_Pirates/drip.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BikeHornRansom",
+      "raw_en": "ent-BikeHornRansom = bike horn\n    .desc = A horn off of a bicycle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/_Pirates/game_ticking.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/_Pirates/game_ticking.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ActionRepulseNoRobes",
+      "raw_en": "ent-ActionRepulseNoRobes = Repulse\n    .desc = Throws everything around the user away.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Actions/wizard.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobMouseBlob",
+      "raw_en": "ent-MobMouseBlob = mouse\n    .desc = Squeak!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Blob/misc_blob.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Blob/misc_blob.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganRatKingStomach",
+      "raw_en": "ent-OrganRatKingStomach = stomach\n    .desc = How hungry?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Body/Organs/ratking.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Body/Organs/ratking.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartYowie",
+      "raw_en": "ent-PartYowie = human body part",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Body/Parts/yowie.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Body/Parts/yowie.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackSyndicateFilledGrenadier",
+      "raw_en": "ent-ClothingBackpackSyndicateFilledGrenadier = syndicate backpack\n    .desc = components:",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Backpacks/backpack.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Backpacks/backpack.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackSatchelLeatherFilledNavyOfficer",
+      "raw_en": "ent-ClothingBackpackSatchelLeatherFilledNavyOfficer = leather satchel\n    .desc = A trend-setting satchel from a bygone era.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Backpacks/satchels.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Backpacks/satchels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackSatchelLeatherFilledSpecOps",
+      "raw_en": "ent-ClothingBackpackSatchelLeatherFilledSpecOps = leather satchel\n    .desc = A trend-setting satchel from a bygone era.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Backpacks/satchels.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Backpacks/satchels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackChameleonFilledUndercover",
+      "raw_en": "ent-ClothingBackpackChameleonFilledUndercover = backpack\n    .desc = You wear this on your back and put items into it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Backpacks/satchels.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Backpacks/satchels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackSatchelLeatherFilledInspector",
+      "raw_en": "ent-ClothingBackpackSatchelLeatherFilledInspector = leather satchel\n    .desc = A trend-setting satchel from a bygone era.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Backpacks/satchels.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Backpacks/satchels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltMilitaryWebbingCMOFilled",
+      "raw_en": "ent-ClothingBeltMilitaryWebbingCMOFilled = chief medical officer's chest rig\n    .desc = A medical chest rig with deep pockets, for use by health professionals.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltHolsterFilledCentComm",
+      "raw_en": "ent-ClothingBeltHolsterFilledCentComm = shoulder holster\n    .desc = A holster to carry a handgun and ammo. WARNING: Badasses only.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltSecurityWebbingFilledMedical",
+      "raw_en": "ent-ClothingBeltSecurityWebbingFilledMedical = ert doctor's chest rig\n    .desc = A medical chest rig with deep pockets, for use by ERT operatives.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltSheathFilledNavyOfficer",
+      "raw_en": "ent-ClothingBeltSheathFilledNavyOfficer = sabre sheath\n    .desc = An ornate sheath designed to hold an officer's blade.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltSheathHeadOfSecurityFilled",
+      "raw_en": "ent-ClothingBeltSheathHeadOfSecurityFilled = head of security's sheath\n    .desc = A rugged sheath, designed to hold the Head of Security's custom energy sword.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltCorporateJudoFilled",
+      "raw_en": "ent-ClothingBeltCorporateJudoFilled = Corporate Judo Belt\n    .desc = Teaches the wearer NT Corporate Judo.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltAssaultFilled",
+      "raw_en": "ent-ClothingBeltAssaultFilled = assault belt\n    .desc = A tactical assault belt.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemBagFilled",
+      "raw_en": "ent-ChemBagFilled = chemistry bag\n    .desc = A bag for storing chemistry products, such as pills, pill canisters, bottles, and syringes.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltChemBagSyndiFilled",
+      "raw_en": "ent-ClothingBeltChemBagSyndiFilled = syndicate medical pouch\n    .desc = A robust pouch for medical supplies worn by Gorlex Marauder operatives. It smells of desoxyephedrine.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltHolsterFilledBlueshield",
+      "raw_en": "ent-ClothingBeltHolsterFilledBlueshield = shoulder holster\n    .desc = A holster to carry a handgun and ammo. WARNING: Badasses only.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltMilitaryRigGrenadierFilled",
+      "raw_en": "ent-ClothingBeltMilitaryRigGrenadierFilled = grenadier belt\n    .desc = A specialised belt rig to hold so many grenades that your arm gets tired from throwing them all. Can also store a sidearm and magazines for it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BriefcaseSyndieDualettaBundleFilled",
+      "raw_en": "ent-BriefcaseSyndieDualettaBundleFilled = brown briefcase\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Briefcases/briefcase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Briefcases/briefcase.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BriefcaseCentcomm",
+      "raw_en": "ent-BriefcaseCentcomm = brown briefcase\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Briefcases/briefcase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Briefcases/briefcase.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CdRackFilled",
+      "raw_en": "ent-CdRackFilled = CD rack\n    .desc = Mostly filled with CDs.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/CDs/cdrack.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/CDs/cdrack.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitBSOFilled",
+      "raw_en": "ent-MedkitBSOFilled = tactical medical kit\n    .desc = Contains everything you need to get a person back up quickly.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Items/firstaidkit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Items/firstaidkit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitBSOIPCFilled",
+      "raw_en": "ent-MedkitBSOIPCFilled = tactical repairing kit\n    .desc = Contains everything you need to get a silicon back up quickly.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Items/firstaidkit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Items/firstaidkit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitCombatBlueFilled",
+      "raw_en": "ent-MedkitCombatBlueFilled = combat medical kit\n    .desc = Contains most medicines you need to recover from injuries and illnesses, all in a convenient pill form.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Items/firstaidkit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Items/firstaidkit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitCombatPurpleFilled",
+      "raw_en": "ent-MedkitCombatPurpleFilled = combat medical kit\n    .desc = For the IPCs among us.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Items/firstaidkit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Items/firstaidkit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CandyBowlFilledLollypopsMystery",
+      "raw_en": "ent-CandyBowlFilledLollypopsMystery = candy bowl\n    .desc = Grab as much as you can fit in your pockets!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Items/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Items/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DeterrentCaseFilled",
+      "raw_en": "ent-DeterrentCaseFilled = deterrent case\n    .desc = A small green case filled with a Central Command members best friends. Warm to the touch.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Items/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Items/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserBlueshieldOfficerFilled",
+      "raw_en": "ent-DresserBlueshieldOfficerFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Lockers/dressers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Lockers/dressers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserNanorepFilled",
+      "raw_en": "ent-DresserNanorepFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Lockers/dressers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Lockers/dressers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerNanorepFilled",
+      "raw_en": "ent-LockerNanorepFilled = nanotrasen representative locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerBlueshieldOfficerFilled",
+      "raw_en": "ent-LockerBlueshieldOfficerFilled = blueshield officer locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerScienceFilledXenobiology",
+      "raw_en": "ent-LockerScienceFilledXenobiology = scientist's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Lockers/science.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Lockers/science.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerDetectiveFilledHardsuit",
+      "raw_en": "ent-LockerDetectiveFilledHardsuit = detective's cabinet\n    .desc = Usually cold and empty... like your heart.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Lockers/security.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Lockers/security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageBlueshield",
+      "raw_en": "ent-SuitStorageBlueshield = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageDetective",
+      "raw_en": "ent-SuitStorageDetective = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    }
+  ]
+}

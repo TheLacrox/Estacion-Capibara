@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0023_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "RMCOverheadBillboard2G",
+      "raw_en": "ent-RMCOverheadBillboard2G = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard2H",
+      "raw_en": "ent-RMCOverheadBillboard2H = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard3A",
+      "raw_en": "ent-RMCOverheadBillboard3A = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard3B",
+      "raw_en": "ent-RMCOverheadBillboard3B = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard3C",
+      "raw_en": "ent-RMCOverheadBillboard3C = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard3D",
+      "raw_en": "ent-RMCOverheadBillboard3D = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard3E",
+      "raw_en": "ent-RMCOverheadBillboard3E = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard3F",
+      "raw_en": "ent-RMCOverheadBillboard3F = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard3G",
+      "raw_en": "ent-RMCOverheadBillboard3G = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard3H",
+      "raw_en": "ent-RMCOverheadBillboard3H = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard4A",
+      "raw_en": "ent-RMCOverheadBillboard4A = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard4B",
+      "raw_en": "ent-RMCOverheadBillboard4B = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard4C",
+      "raw_en": "ent-RMCOverheadBillboard4C = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard4D",
+      "raw_en": "ent-RMCOverheadBillboard4D = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard4E",
+      "raw_en": "ent-RMCOverheadBillboard4E = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard4F",
+      "raw_en": "ent-RMCOverheadBillboard4F = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard4G",
+      "raw_en": "ent-RMCOverheadBillboard4G = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard4H",
+      "raw_en": "ent-RMCOverheadBillboard4H = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard5A",
+      "raw_en": "ent-RMCOverheadBillboard5A = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard5B",
+      "raw_en": "ent-RMCOverheadBillboard5B = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard5C",
+      "raw_en": "ent-RMCOverheadBillboard5C = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard5D",
+      "raw_en": "ent-RMCOverheadBillboard5D = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard5E",
+      "raw_en": "ent-RMCOverheadBillboard5E = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard5F",
+      "raw_en": "ent-RMCOverheadBillboard5F = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard5G",
+      "raw_en": "ent-RMCOverheadBillboard5G = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard5H",
+      "raw_en": "ent-RMCOverheadBillboard5H = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount2",
+      "raw_en": "ent-RMCOverheadBillboardWallmount2 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount3",
+      "raw_en": "ent-RMCOverheadBillboardWallmount3 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount4",
+      "raw_en": "ent-RMCOverheadBillboardWallmount4 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount5",
+      "raw_en": "ent-RMCOverheadBillboardWallmount5 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount6",
+      "raw_en": "ent-RMCOverheadBillboardWallmount6 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount7",
+      "raw_en": "ent-RMCOverheadBillboardWallmount7 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount8",
+      "raw_en": "ent-RMCOverheadBillboardWallmount8 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount9",
+      "raw_en": "ent-RMCOverheadBillboardWallmount9 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount10",
+      "raw_en": "ent-RMCOverheadBillboardWallmount10 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount11",
+      "raw_en": "ent-RMCOverheadBillboardWallmount11 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount12",
+      "raw_en": "ent-RMCOverheadBillboardWallmount12 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount13",
+      "raw_en": "ent-RMCOverheadBillboardWallmount13 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount14",
+      "raw_en": "ent-RMCOverheadBillboardWallmount14 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount15",
+      "raw_en": "ent-RMCOverheadBillboardWallmount15 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount16",
+      "raw_en": "ent-RMCOverheadBillboardWallmount16 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount17",
+      "raw_en": "ent-RMCOverheadBillboardWallmount17 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount18",
+      "raw_en": "ent-RMCOverheadBillboardWallmount18 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount19",
+      "raw_en": "ent-RMCOverheadBillboardWallmount19 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount20",
+      "raw_en": "ent-RMCOverheadBillboardWallmount20 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount21",
+      "raw_en": "ent-RMCOverheadBillboardWallmount21 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount22",
+      "raw_en": "ent-RMCOverheadBillboardWallmount22 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount23",
+      "raw_en": "ent-RMCOverheadBillboardWallmount23 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount24",
+      "raw_en": "ent-RMCOverheadBillboardWallmount24 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardWallmount25",
+      "raw_en": "ent-RMCOverheadBillboardWallmount25 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    }
+  ]
+}

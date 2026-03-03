@@ -2,14 +2,19 @@ ent-PartModsuit = pieza MOD
     .desc = Una pieza usada en la construcción de un MOD.
 
 ent-ModsuitChestplate = peto MOD
+    .desc = Una pieza usada en la construcción de un MOD.
 
 ent-ModsuitBoots = botas MOD
+    .desc = Una pieza usada en la construcción de un MOD.
 
 ent-ModsuitHelmet = casco MOD
+    .desc = Una pieza usada en la construcción de un MOD.
 
 ent-ModsuitGauntlets = guanteletes MOD
+    .desc = Una pieza usada en la construcción de un MOD.
 
 ent-ModsuitShell = carcasa MOD
+    .desc = Una pieza usada en la construcción de un MOD.
 
 ent-ModsuitPlatingExternal = blindaje externo estándar MOD
     .desc = Una pieza usada en la construcción de un MOD.

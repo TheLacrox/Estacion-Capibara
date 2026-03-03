@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0077_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "PlasteelReactorGasChannel",
+      "raw_en": "ent-PlasteelReactorGasChannel =\n    .desc = A gas channel for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "GlassReactorGasChannel",
+      "raw_en": "ent-GlassReactorGasChannel =\n    .desc = A gas channel for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "PlasmaGlassReactorGasChannel",
+      "raw_en": "ent-PlasmaGlassReactorGasChannel =\n    .desc = A gas channel for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "DiamondReactorGasChannel",
+      "raw_en": "ent-DiamondReactorGasChannel =\n    .desc = A gas channel for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "SteelReactorHeatExchanger",
+      "raw_en": "ent-SteelReactorHeatExchanger =\n    .desc = A heat exchanger for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "GoldReactorHeatExchanger",
+      "raw_en": "ent-GoldReactorHeatExchanger =\n    .desc = A heat exchanger for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "SilverReactorHeatExchanger",
+      "raw_en": "ent-SilverReactorHeatExchanger =\n    .desc = A heat exchanger for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "BrassReactorHeatExchanger",
+      "raw_en": "ent-BrassReactorHeatExchanger =\n    .desc = A heat exchanger for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "PlasteelReactorHeatExchanger",
+      "raw_en": "ent-PlasteelReactorHeatExchanger =\n    .desc = A heat exchanger for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "GlassReactorHeatExchanger",
+      "raw_en": "ent-GlassReactorHeatExchanger =\n    .desc = A heat exchanger for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "PlasmaGlassReactorHeatExchanger",
+      "raw_en": "ent-PlasmaGlassReactorHeatExchanger =\n    .desc = A heat exchanger for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "DiamondReactorHeatExchanger",
+      "raw_en": "ent-DiamondReactorHeatExchanger =\n    .desc = A heat exchanger for a nuclear reactor.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/reactor_components.ftl"
+    },
+    {
+      "id": "TurbineSmall",
+      "raw_en": "ent-TurbineSmall =\n    .desc = A large turbine used for generating power using hot gas.",
+      "source_yaml": "Resources/Prototypes/_FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/turbine.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_farhorizons/entities/structures/power/generation/fissiongenerator/turbine.ftl"
+    },
+    {
+      "id": "MindRolePirate",
+      "raw_en": "ent-MindRolePirate =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/_Pirates/antagdef.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/_pirates/antagdef.ftl"
+    },
+    {
+      "id": "ActionMimeMalaiseII",
+      "raw_en": "ent-ActionMimeMalaiseII =\n    .desc = ...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionMimeMalaiseIII",
+      "raw_en": "ent-ActionMimeMalaiseIII =\n    .desc = ...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionMimeMalaiseIV",
+      "raw_en": "ent-ActionMimeMalaiseIV =\n    .desc = ...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionMimeMalaiseV",
+      "raw_en": "ent-ActionMimeMalaiseV =\n    .desc = ...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionCluwneCurseII",
+      "raw_en": "ent-ActionCluwneCurseII =\n    .desc = It's time to start cluwning around.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionCluwneCurseIII",
+      "raw_en": "ent-ActionCluwneCurseIII =\n    .desc = It's time to start cluwning around.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBananaTouchII",
+      "raw_en": "ent-ActionBananaTouchII =\n    .desc = It's time to start clowning around.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBananaTouchIII",
+      "raw_en": "ent-ActionBananaTouchIII =\n    .desc = It's time to start clowning around.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBananaTouchIV",
+      "raw_en": "ent-ActionBananaTouchIV =\n    .desc = It's time to start clowning around.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBananaTouchV",
+      "raw_en": "ent-ActionBananaTouchV =\n    .desc = It's time to start clowning around.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionMagicMissileII",
+      "raw_en": "ent-ActionMagicMissileII =\n    .desc = Fires several stunning, slow moving, homing magic projectiles at nearby targets.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionMagicMissileIII",
+      "raw_en": "ent-ActionMagicMissileIII =\n    .desc = Fires several stunning, slow moving, homing magic projectiles at nearby targets.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionDisableTechII",
+      "raw_en": "ent-ActionDisableTechII =\n    .desc = Disables all weapons, cameras and most other technology in range.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionDisableTechIII",
+      "raw_en": "ent-ActionDisableTechIII =\n    .desc = Disables all weapons, cameras and most other technology in range.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionDisableTechIV",
+      "raw_en": "ent-ActionDisableTechIV =\n    .desc = Disables all weapons, cameras and most other technology in range.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionDisableTechV",
+      "raw_en": "ent-ActionDisableTechV =\n    .desc = Disables all weapons, cameras and most other technology in range.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSmokeII",
+      "raw_en": "ent-ActionSmokeII =\n    .desc = Spawns a cloud of choking smoke at your location.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSmokeIII",
+      "raw_en": "ent-ActionSmokeIII =\n    .desc = Spawns a cloud of choking smoke at your location.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionRepulseII",
+      "raw_en": "ent-ActionRepulseII =\n    .desc = Throws everything around the user away.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionRepulseIII",
+      "raw_en": "ent-ActionRepulseIII =\n    .desc = Throws everything around the user away.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionRepulseIV",
+      "raw_en": "ent-ActionRepulseIV =\n    .desc = Throws everything around the user away.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionRepulseV",
+      "raw_en": "ent-ActionRepulseV =\n    .desc = Throws everything around the user away.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionStopTimeII",
+      "raw_en": "ent-ActionStopTimeII =\n    .desc = Stops time around you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionStopTimeIII",
+      "raw_en": "ent-ActionStopTimeIII =\n    .desc = Stops time around you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBlindII",
+      "raw_en": "ent-ActionBlindII =\n    .desc = Temporarily blinds a single target.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBlindIII",
+      "raw_en": "ent-ActionBlindIII =\n    .desc = Temporarily blinds a single target.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBlindIV",
+      "raw_en": "ent-ActionBlindIV =\n    .desc = Temporarily blinds a single target.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBlindV",
+      "raw_en": "ent-ActionBlindV =\n    .desc = Temporarily blinds a single target.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionMutateII",
+      "raw_en": "ent-ActionMutateII =\n    .desc = Causes you to turn into a hulk and gain laser vision for a short while.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionTeslaBlastII",
+      "raw_en": "ent-ActionTeslaBlastII =\n    .desc = Charge up a tesla arc and release it at random nearby targets.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionTeslaBlastIII",
+      "raw_en": "ent-ActionTeslaBlastIII =\n    .desc = Charge up a tesla arc and release it at random nearby targets.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionTeslaBlastIV",
+      "raw_en": "ent-ActionTeslaBlastIV =\n    .desc = Charge up a tesla arc and release it at random nearby targets.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionTeslaBlastV",
+      "raw_en": "ent-ActionTeslaBlastV =\n    .desc = Charge up a tesla arc and release it at random nearby targets.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionLightningBoltII",
+      "raw_en": "ent-ActionLightningBoltII =\n    .desc = Fire a lightning bolt at your foes.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionLightningBoltIII",
+      "raw_en": "ent-ActionLightningBoltIII =\n    .desc = Fire a lightning bolt at your foes.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionLightningBoltIV",
+      "raw_en": "ent-ActionLightningBoltIV =\n    .desc = Fire a lightning bolt at your foes.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 ent-ElectricalDisruptionKit = kit de disrupción eléctrica
+    .desc = Una caja de cartón para guardar cosas.
 
 ent-ChemicalSynthesisKit = kit de síntesis química
     .desc = Un kit inicial para el aspirante a químico; incluye notablemente una carga química y temporizador, una jeringa de hyperzine y dos viales de vestine para todas tus necesidades criminales. # Goobstation

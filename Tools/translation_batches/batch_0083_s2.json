@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0083_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "VinylSleeveChristmas",
+      "raw_en": "ent-VinylSleeveChristmas =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveFlash",
+      "raw_en": "ent-VinylSleeveFlash =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveBeige",
+      "raw_en": "ent-VinylSleeveBeige =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveBlack",
+      "raw_en": "ent-VinylSleeveBlack =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "VinylSleeveWhite",
+      "raw_en": "ent-VinylSleeveWhite =\n    .desc = A vinyl sleeve, perfect for storing your vinyls.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/vinyls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/vinyls.ftl"
+    },
+    {
+      "id": "MaterialBSCrystal",
+      "raw_en": "ent-MaterialBSCrystal =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialBSCrystalUnprocessed",
+      "raw_en": "ent-MaterialBSCrystalUnprocessed =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialBSCrystal1Unprocessed",
+      "raw_en": "ent-MaterialBSCrystal1Unprocessed =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "BoxAdvMimery",
+      "raw_en": "ent-BoxAdvMimery =\n    .desc = A cardboard box for storing things.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/books.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/books.ftl"
+    },
+    {
+      "id": "TunnelClownBusinessCard",
+      "raw_en": "ent-TunnelClownBusinessCard =\n    .desc = A green card with nanotrasen's logo. There's something written on the back.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/business_card.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/business_card.ftl"
+    },
+    {
+      "id": "WoodenHandleHammer",
+      "raw_en": "ent-WoodenHandleHammer =\n    .desc = A normal wooden handle that can be used in crafting.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/Crafting/tools.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/crafting/tools.ftl"
+    },
+    {
+      "id": "HelldiverIDCard",
+      "raw_en": "ent-HelldiverIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "HecuIDCard",
+      "raw_en": "ent-HecuIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "BlueshieldIDCard",
+      "raw_en": "ent-BlueshieldIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "NanotrasenRepresentativeIDCard",
+      "raw_en": "ent-NanotrasenRepresentativeIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "NanotrasenCareerTrainerIDCard",
+      "raw_en": "ent-NanotrasenCareerTrainerIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CentcomIDCardNavyCaptain",
+      "raw_en": "ent-CentcomIDCardNavyCaptain =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CentcomIDCardNavyOfficer",
+      "raw_en": "ent-CentcomIDCardNavyOfficer =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CentcomIDCardSpecialOperationsOfficer",
+      "raw_en": "ent-CentcomIDCardSpecialOperationsOfficer =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CentcomIDCardInspector",
+      "raw_en": "ent-CentcomIDCardInspector =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CentcomIDCardDiplomat",
+      "raw_en": "ent-CentcomIDCardDiplomat =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "SecurityClownIDCard",
+      "raw_en": "ent-SecurityClownIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CommandMaidIDCard",
+      "raw_en": "ent-CommandMaidIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "PartyMakerIDCard",
+      "raw_en": "ent-PartyMakerIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "RoboticistIDCard",
+      "raw_en": "ent-RoboticistIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "RadioHostIDCard",
+      "raw_en": "ent-RadioHostIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "VirologistIDCard",
+      "raw_en": "ent-VirologistIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "OuterCommandIDCard",
+      "raw_en": "ent-OuterCommandIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "BaseAntagImplantOnlyImplanter",
+      "raw_en": "ent-BaseAntagImplantOnlyImplanter =\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/implanters.ftl"
+    },
+    {
+      "id": "RubberStampNanorep",
+      "raw_en": "ent-RubberStampNanorep =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "ShardCrystalStyptic",
+      "raw_en": "ent-ShardCrystalStyptic =\n    .desc = A small piece of crystal.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Chemistry/chemistry-created.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/chemistry/chemistry-created.ftl"
+    },
+    {
+      "id": "PillTramadol",
+      "raw_en": "ent-PillTramadol =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterTramadol",
+      "raw_en": "ent-PillCanisterTramadol =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillOxycodone",
+      "raw_en": "ent-PillOxycodone =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterOxycodone",
+      "raw_en": "ent-PillCanisterOxycodone =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillIbuprofen",
+      "raw_en": "ent-PillIbuprofen =\n    .desc = It's not a suppository.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "PillCanisterIbuprofen",
+      "raw_en": "ent-PillCanisterIbuprofen =\n    .desc = Holds up to 15 pills.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/healing.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/healing.ftl"
+    },
+    {
+      "id": "UsedMedicalPatchMakeshift",
+      "raw_en": "ent-UsedMedicalPatchMakeshift =\n    .desc = ...ew.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/medical_patch.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/medical_patch.ftl"
+    },
+    {
+      "id": "MedicalPatchPrefilledBicaridine",
+      "raw_en": "ent-MedicalPatchPrefilledBicaridine =\n    .desc = Medical patch filled with chemicals",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/medical_patch_prefilled.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/medical_patch_prefilled.ftl"
+    },
+    {
+      "id": "MedicalPatchPrefilledDermaline",
+      "raw_en": "ent-MedicalPatchPrefilledDermaline =\n    .desc = Medical patch filled with chemicals",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/medical_patch_prefilled.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/medical_patch_prefilled.ftl"
+    },
+    {
+      "id": "MedicalBeamGunSyndicate",
+      "raw_en": "ent-MedicalBeamGunSyndicate =\n    .desc = Delivers volatile medical nanites in a focused beam. Uber mode heals the patient much more powerfully, but makes them suffocate. Don't cross the beams! Recharges in 60 or 90 seconds.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/medigun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/medigun.ftl"
+    },
+    {
+      "id": "ChemistryBottleFormaldehyde",
+      "raw_en": "ent-ChemistryBottleFormaldehyde =\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/morgue.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medical/morgue.ftl"
+    },
+    {
+      "id": "SprayBottleSilverSulfadiazine",
+      "raw_en": "ent-SprayBottleSilverSulfadiazine =\n    .desc = A spray bottle with an unscrewable top.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/medicalsprays.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/medicalsprays.ftl"
+    },
+    {
+      "id": "HumanCube",
+      "raw_en": "ent-HumanCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "DionaCube",
+      "raw_en": "ent-DionaCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "FelinidCube",
+      "raw_en": "ent-FelinidCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "GingerbreadCube",
+      "raw_en": "ent-GingerbreadCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "MothCube",
+      "raw_en": "ent-MothCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "DwarfCube",
+      "raw_en": "ent-DwarfCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "HarpyCube",
+      "raw_en": "ent-HarpyCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    }
+  ]
+}

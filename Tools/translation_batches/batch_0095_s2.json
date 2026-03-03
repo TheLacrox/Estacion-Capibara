@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0095_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "DrinkBottleAle",
+      "raw_en": "ent-DrinkBottleAle =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleBeer",
+      "raw_en": "ent-DrinkBottleBeer =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleCognac",
+      "raw_en": "ent-DrinkBottleCognac =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleGin",
+      "raw_en": "ent-DrinkBottleGin =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleGildlager",
+      "raw_en": "ent-DrinkBottleGildlager =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleCoffeeLiqueur",
+      "raw_en": "ent-DrinkBottleCoffeeLiqueur =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleNTCahors",
+      "raw_en": "ent-DrinkBottleNTCahors =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottlePatron",
+      "raw_en": "ent-DrinkBottlePatron =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottlePoisonWine",
+      "raw_en": "ent-DrinkBottlePoisonWine =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleRum",
+      "raw_en": "ent-DrinkBottleRum =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleTequila",
+      "raw_en": "ent-DrinkBottleTequila =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleVermouth",
+      "raw_en": "ent-DrinkBottleVermouth =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleVodka",
+      "raw_en": "ent-DrinkBottleVodka =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleWhiskey",
+      "raw_en": "ent-DrinkBottleWhiskey =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkBottleWine",
+      "raw_en": "ent-DrinkBottleWine =\n    .desc = An empty bottle.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkCartonLime",
+      "raw_en": "ent-DrinkCartonLime =\n    .desc = An empty carton.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkCartonOrange",
+      "raw_en": "ent-DrinkCartonOrange =\n    .desc = An empty carton.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkCartonTomato",
+      "raw_en": "ent-DrinkCartonTomato =\n    .desc = An empty carton.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkCartonCream",
+      "raw_en": "ent-DrinkCartonCream =\n    .desc = An empty carton.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkCartonMilk",
+      "raw_en": "ent-DrinkCartonMilk =\n    .desc = An empty carton.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkCartonSoyMilk",
+      "raw_en": "ent-DrinkCartonSoyMilk =\n    .desc = An empty carton.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "DrinkCartonOatMilk",
+      "raw_en": "ent-DrinkCartonOatMilk =\n    .desc = An empty carton.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/trash_drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/drinks/trash_drinks.ftl"
+    },
+    {
+      "id": "FoodBagel",
+      "raw_en": "ent-FoodBagel =\n    .desc = A delicious bagel.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/bagel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/bagel.ftl"
+    },
+    {
+      "id": "FoodCakePlainSlice",
+      "raw_en": "ent-FoodCakePlainSlice =\n    .desc = Just a slice of cake, it is enough for everyone.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/cake.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/cake.ftl"
+    },
+    {
+      "id": "FoodCakeOrangeSlice",
+      "raw_en": "ent-FoodCakeOrangeSlice =\n    .desc = Just a slice of cake, it is enough for everyone.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/cake.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/cake.ftl"
+    },
+    {
+      "id": "FoodCakeLimeSlice",
+      "raw_en": "ent-FoodCakeLimeSlice =\n    .desc = Just a slice of cake, it is enough for everyone.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/cake.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/cake.ftl"
+    },
+    {
+      "id": "FoodCakeLemonSlice",
+      "raw_en": "ent-FoodCakeLemonSlice =\n    .desc = Just a slice of cake, it is enough for everyone.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/cake.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/cake.ftl"
+    },
+    {
+      "id": "FoodCakeChocolateSlice",
+      "raw_en": "ent-FoodCakeChocolateSlice =\n    .desc = Just a slice of cake, it is enough for everyone.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/cake.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/cake.ftl"
+    },
+    {
+      "id": "FoodCakeChristmasSlice",
+      "raw_en": "ent-FoodCakeChristmasSlice =\n    .desc = Just a slice of cake, it is enough for everyone.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/cake.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/cake.ftl"
+    },
+    {
+      "id": "FoodDonkpocketStonkWarm",
+      "raw_en": "ent-FoodDonkpocketStonkWarm =\n    .desc = Tasty, but a sad reminder of the great crash of '24.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/donkpocket.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/donkpocket.ftl"
+    },
+    {
+      "id": "FoodDonkpocketCarpWarm",
+      "raw_en": "ent-FoodDonkpocketCarpWarm =\n    .desc = A long-lost edition of donk pocket, made specifically for hard-working salvagers.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/donkpocket.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/donkpocket.ftl"
+    },
+    {
+      "id": "FoodDonkpocketMothWarm",
+      "raw_en": "ent-FoodDonkpocketMothWarm =\n    .desc = Buzzy edition of donk-pocket that was created during mass protests ab-... Actually who cares? Just donk-pockets for moths.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/donkpocket.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/donkpocket.ftl"
+    },
+    {
+      "id": "FoodDonutPlain",
+      "raw_en": "ent-FoodDonutPlain =\n    .desc = Goes great with robust coffee.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/donut.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/donut.ftl"
+    },
+    {
+      "id": "FoodDonutJellyPlain",
+      "raw_en": "ent-FoodDonutJellyPlain =\n    .desc = Goes great with robust coffee.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/donut.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/donut.ftl"
+    },
+    {
+      "id": "FoodDonutHomer",
+      "raw_en": "ent-FoodDonutHomer =\n    .desc = Goes great with robust coffee.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/donut.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/donut.ftl"
+    },
+    {
+      "id": "FoodPieAppleSlice",
+      "raw_en": "ent-FoodPieAppleSlice =\n    .desc = A slice of pie. Tasty!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/pie.ftl"
+    },
+    {
+      "id": "FoodPieClafoutisSlice",
+      "raw_en": "ent-FoodPieClafoutisSlice =\n    .desc = A slice of pie. Tasty!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/pie.ftl"
+    },
+    {
+      "id": "FoodPieCherrySlice",
+      "raw_en": "ent-FoodPieCherrySlice =\n    .desc = A slice of pie. Tasty!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/pie.ftl"
+    },
+    {
+      "id": "FoodPieMeatSlice",
+      "raw_en": "ent-FoodPieMeatSlice =\n    .desc = A slice of pie. Tasty!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/pie.ftl"
+    },
+    {
+      "id": "FoodPiePumpkinSlice",
+      "raw_en": "ent-FoodPiePumpkinSlice =\n    .desc = A slice of pie. Tasty!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/pie.ftl"
+    },
+    {
+      "id": "FoodPieXenoSlice",
+      "raw_en": "ent-FoodPieXenoSlice =\n    .desc = A slice of pie. Tasty!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/pie.ftl"
+    },
+    {
+      "id": "FoodPieFrostySlice",
+      "raw_en": "ent-FoodPieFrostySlice =\n    .desc = A slice of pie. Tasty!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/pie.ftl"
+    },
+    {
+      "id": "FoodTartMimeSlice",
+      "raw_en": "ent-FoodTartMimeSlice =\n    .desc = A slice of pie. Tasty!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Baked/pie.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/baked/pie.ftl"
+    },
+    {
+      "id": "FoodBoxPizza",
+      "raw_en": "ent-FoodBoxPizza =\n    .desc = A cardboard box for storing things.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "FoodBoxPizzaFilled",
+      "raw_en": "ent-FoodBoxPizzaFilled =\n    .desc = A cardboard box for storing things.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "FoodBoxPizzaCotton",
+      "raw_en": "ent-FoodBoxPizzaCotton =\n    .desc = A cardboard box for storing things.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "FoodBoxDonkpocketSpicy",
+      "raw_en": "ent-FoodBoxDonkpocketSpicy =\n    .desc = Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "FoodBoxDonkpocketTeriyaki",
+      "raw_en": "ent-FoodBoxDonkpocketTeriyaki =\n    .desc = Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "FoodBoxDonkpocketPizza",
+      "raw_en": "ent-FoodBoxDonkpocketPizza =\n    .desc = Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "FoodBoxDonkpocketStonk",
+      "raw_en": "ent-FoodBoxDonkpocketStonk =\n    .desc = Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    }
+  ]
+}

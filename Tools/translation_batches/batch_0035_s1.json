@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0035_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "DrinkChocolateGlass",
+      "raw_en": "ent-DrinkChocolateGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RubberneckGlass",
+      "raw_en": "ent-RubberneckGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkCoconutRum",
+      "raw_en": "ent-DrinkCoconutRum = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkCoconutWaterGlass",
+      "raw_en": "ent-DrinkCoconutWaterGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkCoffee",
+      "raw_en": "ent-DrinkCoffee = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkCognacGlass",
+      "raw_en": "ent-DrinkCognacGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkCosmopolitan",
+      "raw_en": "ent-DrinkCosmopolitan = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkCream",
+      "raw_en": "ent-DrinkCream = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkCrushDepthGlass",
+      "raw_en": "ent-DrinkCrushDepthGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkCubaLibreGlass",
+      "raw_en": "ent-DrinkCubaLibreGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkDarkandStormyGlass",
+      "raw_en": "ent-DrinkDarkandStormyGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkDeadRumGlass",
+      "raw_en": "ent-DrinkDeadRumGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkDemonsBlood",
+      "raw_en": "ent-DrinkDemonsBlood = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkDevilsKiss",
+      "raw_en": "ent-DrinkDevilsKiss = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkDoctorsDelightGlass",
+      "raw_en": "ent-DrinkDoctorsDelightGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkDriestMartiniGlass",
+      "raw_en": "ent-DrinkDriestMartiniGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkDrGibbGlass",
+      "raw_en": "ent-DrinkDrGibbGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkEggnog",
+      "raw_en": "ent-DrinkEggnog = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkElectricSharkGlass",
+      "raw_en": "ent-DrinkElectricSharkGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkErikaSurprise",
+      "raw_en": "ent-DrinkErikaSurprise = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkFourteenLokoGlass",
+      "raw_en": "ent-DrinkFourteenLokoGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGargleBlasterGlass",
+      "raw_en": "ent-DrinkGargleBlasterGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGinGlass",
+      "raw_en": "ent-DrinkGinGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGinFizzGlass",
+      "raw_en": "ent-DrinkGinFizzGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGinTonicglass",
+      "raw_en": "ent-DrinkGinTonicglass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGildlagerGlass",
+      "raw_en": "ent-DrinkGildlagerGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGrapeJuice",
+      "raw_en": "ent-DrinkGrapeJuice = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGrapeSodaGlass",
+      "raw_en": "ent-DrinkGrapeSodaGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGreenTeaGlass",
+      "raw_en": "ent-DrinkGreenTeaGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGrenadineGlass",
+      "raw_en": "ent-DrinkGrenadineGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGrogGlass",
+      "raw_en": "ent-DrinkGrogGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkHippiesDelightGlass",
+      "raw_en": "ent-DrinkHippiesDelightGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkHoochGlass",
+      "raw_en": "ent-DrinkHoochGlass = metamorphic glass\n    .desc = You've really hit rock bottom now... your liver packed its bags and left last night.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkIcedCoffeeGlass",
+      "raw_en": "ent-DrinkIcedCoffeeGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkIcedGreenTeaGlass",
+      "raw_en": "ent-DrinkIcedGreenTeaGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkIcedTeaGlass",
+      "raw_en": "ent-DrinkIcedTeaGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkIcedBeerGlass",
+      "raw_en": "ent-DrinkIcedBeerGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkIceGlass",
+      "raw_en": "ent-DrinkIceGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkIceCreamGlass",
+      "raw_en": "ent-DrinkIceCreamGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IrishBoolGlass",
+      "raw_en": "ent-IrishBoolGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkIrishCarBomb",
+      "raw_en": "ent-DrinkIrishCarBomb = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkIrishCoffeeGlass",
+      "raw_en": "ent-DrinkIrishCoffeeGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkIrishCreamGlass",
+      "raw_en": "ent-DrinkIrishCreamGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkCoffeeLiqueurGlass",
+      "raw_en": "ent-DrinkCoffeeLiqueurGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkJackRoseGlass",
+      "raw_en": "ent-DrinkJackRoseGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkJungleBirdGlass",
+      "raw_en": "ent-DrinkJungleBirdGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkKalimotxoGlass",
+      "raw_en": "ent-DrinkKalimotxoGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkKiraSpecial",
+      "raw_en": "ent-DrinkKiraSpecial = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkLemonadeGlass",
+      "raw_en": "ent-DrinkLemonadeGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkLemonJuice",
+      "raw_en": "ent-DrinkLemonJuice = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Consumable/Drinks/drinks.ftl",
+      "file_exists": false
+    }
+  ]
+}

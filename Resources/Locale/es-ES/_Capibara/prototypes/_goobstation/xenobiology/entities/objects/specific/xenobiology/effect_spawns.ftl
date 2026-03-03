@@ -1,4 +1,5 @@
 ent-XenoExtractChronofield = cronocampo sepia
+    .desc = ¡ZA WARUDO!
 
 ent-XenoGooWall = crecimiento gelatinoso
     .desc = Esto podría ser muy bien el blob del LIDL espacial.

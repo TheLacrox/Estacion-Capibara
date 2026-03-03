@@ -26,6 +26,7 @@ ent-ClothingOuterWizardPaperReal = túnicas de papel maché
     .desc = Una túnica sostenida con varios trozos de cinta transparente y pegamento.
 
 ent-ClothingHeadHatPaperWizard = sombrero mágico de papel
+    .desc = Un sombrero hecho de papel.
 
 ent-ClothingHeadHatMimeReal = boina mágica
     .desc = Una boina roja mágica.
@@ -55,24 +56,34 @@ ent-ClothingMaskGasOblivionEnforcer = máscara del ejecutor del olvido
     .desc = La máscara de un Ejecutor del Olvido. ¡No olvides ponértela antes de soltar tus frases impactantes!
 
 ent-ClothingHeadHatWizardReal = sombrero de mago
+    .desc = Un extraño sombrero azul que sin duda pertenece a un poderoso usuario de magia.
 
 ent-ClothingOuterWizardReal = túnicas de mago
+    .desc = Una extravagante túnica azul bordeada de gemas que irradia energías mágicas.
 
 ent-ClothingHeadHatRedwizardReal = sombrero de mago rojo
+    .desc = Un extraño sombrero rojo que sin duda pertenece a un poderoso usuario de magia.
 
 ent-ClothingOuterWizardRedReal = túnicas de mago rojo
+    .desc = Una extravagante túnica roja bordeada de gemas que irradia energías mágicas.
 
 ent-ClothingHeadHatVioletwizardReal = sombrero de mago violeta
+    .desc = Un extraño sombrero violeta que sin duda pertenece a un poderoso usuario de magia.
 
 ent-ClothingOuterWizardVioletReal = túnicas de mago violeta
+    .desc = Una extravagante túnica violeta bordeada de gemas que irradia energías mágicas.
 
 ent-ClothingHeadHatWitchReal = sombrero de bruja
+    .desc = Un sombrero de aspecto peculiar. Te dan ganas de lanzar bolas de fuego.
 
 ent-ClothingOuterSuitWitchRobesReal = túnicas de bruja
+    .desc = La magia se basa en el poder del hechizo, ¡ZE!
 
 ent-ClothingHeadHatShrineMaidenWigReal = peluca de sacerdotisa
+    .desc = La etiqueta dice: «Todos los beneficios van al Santuario de Hakurei.»
 
 ent-ClothingOuterSuitShrineMaidenReal = atuendo de sacerdotisa
+    .desc = Te dan ganas de ir a lidiar con algún youkai problemático.
 
 ent-ClothingHeadHatCentCommwizardReal = sombrero de mago de CentCom
     .desc = Un impecable sombrero de mago verde y dorado, de emisión reglamentaria para los operativos arcanos del Mando Central. Usado solo por quienes están autorizados a empuñar instrumentos taumatúrgicos clasificados.

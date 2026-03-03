@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0006_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "ChemistryBottleHyronalin",
+      "raw_en": "ent-ChemistryBottleHyronalin = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleInaprovaline",
+      "raw_en": "ent-ChemistryBottleInaprovaline = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleIpecac",
+      "raw_en": "ent-ChemistryBottleIpecac = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleTranexamicAcid",
+      "raw_en": "ent-ChemistryBottleTranexamicAcid = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleKelotane",
+      "raw_en": "ent-ChemistryBottleKelotane = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleLeporazine",
+      "raw_en": "ent-ChemistryBottleLeporazine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottlePhalanximine",
+      "raw_en": "ent-ChemistryBottlePhalanximine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleAmbuzol",
+      "raw_en": "ent-ChemistryBottleAmbuzol = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleAmbuzolPlus",
+      "raw_en": "ent-ChemistryBottleAmbuzolPlus = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleSynaptizine",
+      "raw_en": "ent-ChemistryBottleSynaptizine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleTricordrazine",
+      "raw_en": "ent-ChemistryBottleTricordrazine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleHeartbreakerToxin",
+      "raw_en": "ent-ChemistryBottleHeartbreakerToxin = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleImpedrezene",
+      "raw_en": "ent-ChemistryBottleImpedrezene = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleLexorin",
+      "raw_en": "ent-ChemistryBottleLexorin = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleMannitol",
+      "raw_en": "ent-ChemistryBottleMannitol = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleMindbreakerToxin",
+      "raw_en": "ent-ChemistryBottleMindbreakerToxin = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleSpaceDrugs",
+      "raw_en": "ent-ChemistryBottleSpaceDrugs = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleUltravasculine",
+      "raw_en": "ent-ChemistryBottleUltravasculine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleOculine",
+      "raw_en": "ent-ChemistryBottleOculine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleSiderlac",
+      "raw_en": "ent-ChemistryBottleSiderlac = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleSigynate",
+      "raw_en": "ent-ChemistryBottleSigynate = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleSaline",
+      "raw_en": "ent-ChemistryBottleSaline = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleLacerinol",
+      "raw_en": "ent-ChemistryBottleLacerinol = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottlePuncturase",
+      "raw_en": "ent-ChemistryBottlePuncturase = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleBruizine",
+      "raw_en": "ent-ChemistryBottleBruizine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleRazorium",
+      "raw_en": "ent-ChemistryBottleRazorium = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleDiphenhydramine",
+      "raw_en": "ent-ChemistryBottleDiphenhydramine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottlePyrazine",
+      "raw_en": "ent-ChemistryBottlePyrazine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleInsuzine",
+      "raw_en": "ent-ChemistryBottleInsuzine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleOpporozidone",
+      "raw_en": "ent-ChemistryBottleOpporozidone = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleNecrosol",
+      "raw_en": "ent-ChemistryBottleNecrosol = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleAloxadone",
+      "raw_en": "ent-ChemistryBottleAloxadone = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottlePsicodine",
+      "raw_en": "ent-ChemistryBottlePsicodine = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleLipolicide",
+      "raw_en": "ent-ChemistryBottleLipolicide = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleHappiness",
+      "raw_en": "ent-ChemistryBottleHappiness = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottlePotassiumIodide",
+      "raw_en": "ent-ChemistryBottlePotassiumIodide = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemistryBottleHaloperidol",
+      "raw_en": "ent-ChemistryBottleHaloperidol = bottle\n    .desc = A small bottle.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Consumable/Medicine/bottles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsCentralCommandCaptain",
+      "raw_en": "ent-DoorElectronicsCentralCommandCaptain = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsNTR",
+      "raw_en": "ent-DoorElectronicsNTR = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsBSO",
+      "raw_en": "ent-DoorElectronicsBSO = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsRobotics",
+      "raw_en": "ent-DoorElectronicsRobotics = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsAllService",
+      "raw_en": "ent-DoorElectronicsAllService = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsJournalism",
+      "raw_en": "ent-DoorElectronicsJournalism = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/Electronics/door_access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Devices/Electronics/door_access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconCentcommOffice",
+      "raw_en": "ent-DefaultStationBeaconCentcommOffice = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRadioStation",
+      "raw_en": "ent-DefaultStationBeaconRadioStation = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UniqueBlueshieldOfficerLockerTeleporter",
+      "raw_en": "ent-UniqueBlueshieldOfficerLockerTeleporter = blueshield locker teleporter\n    .desc = Device that allows you to request delivery of blueshield officer locker.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/unique_teleporters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Devices/unique_teleporters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UniqueNanorepLockerTeleporter",
+      "raw_en": "ent-UniqueNanorepLockerTeleporter = nanotrasen representative locker teleporter\n    .desc = Device that allows you to request delivery of nanotrasen representative locker.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/unique_teleporters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Devices/unique_teleporters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JVNECdDisk",
+      "raw_en": "ent-JVNECdDisk = cd disk\n    .desc = The June and Eels show!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Fun/cds.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyndiCdDisk",
+      "raw_en": "ent-SyndiCdDisk = cd disk\n    .desc = Get da disk!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Fun/cds.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseCassette",
+      "raw_en": "ent-BaseCassette = item\n    .desc = That's an instrument.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/instruments_misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Fun/instruments_misc.ftl",
+      "file_exists": false
+    }
+  ]
+}

@@ -2,6 +2,7 @@ ent-BaseMaterialDoor = puerta
     .desc = Una puerta, ¿adónde llevará?
 
 ent-MetalDoor = puerta de metal
+    .desc = Una puerta, ¿adónde llevará?
 
 ent-WoodDoor = puerta de madera
     .desc = Una puerta, ¿adónde llevará?

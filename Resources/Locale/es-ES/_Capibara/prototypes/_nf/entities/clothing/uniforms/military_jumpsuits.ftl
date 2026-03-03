@@ -51,14 +51,19 @@ ent-ClothingUniformJumpsuitMilitaryContractorTac = mono de contratista
 
 # goob - no SR
 ent-ClothingUniformJumpsuitMilitaryHoP = mono del JdeP
+    .desc = Bastante soso e inofensivo. Perfecto para desaparecer de la faz del universo.
 
 ent-ClothingUniformJumpsuitMilitaryService = mono de trabajador de servicios
     .desc = Un mono de emisión estándar para trabajadores de servicios de NT.
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryMedic = mono de médico mercenario
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la selva de planetas repletos de monstruos peligrosos o de objetivos a los que se ha asignado una recompensa.
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryCaptain = mono de capitán mercenario
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la selva de planetas repletos de monstruos peligrosos o de objetivos a los que se ha asignado una recompensa.
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryMedic = mono de médico mercenario
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la selva de planetas repletos de monstruos peligrosos o de objetivos a los que se ha asignado una recompensa.
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryCaptain = mono de capitán mercenario
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la selva de planetas repletos de monstruos peligrosos o de objetivos a los que se ha asignado una recompensa.

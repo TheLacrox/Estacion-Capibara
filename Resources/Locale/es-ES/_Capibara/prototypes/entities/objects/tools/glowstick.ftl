@@ -2,12 +2,16 @@ ent-GlowstickBase = palo de luz verde
     .desc = Útil para raves y emergencias.
 
 ent-GlowstickRed = palo de luz rojo
+    .desc = Útil para raves y emergencias.
 
 ent-GlowstickPurple = palo de luz morado
+    .desc = Útil para raves y emergencias.
 
 ent-GlowstickYellow = palo de luz amarillo
+    .desc = Útil para raves y emergencias.
 
 ent-GlowstickBlue = palo de luz azul
+    .desc = Útil para raves y emergencias.
 
 ent-LightBehaviourTest1 = prueba de pulso de luz
 

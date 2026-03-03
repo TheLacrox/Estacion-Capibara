@@ -8,6 +8,7 @@ ent-UsedMedicalPatch = parche usado
     .desc = ...qué asco.
 
 ent-UsedMedicalPatchMakeshift = parche usado
+    .desc = ...qué asco.
 
 ent-MedicalPatchRapid = parche rápido
     .desc = Un parche para una aplicación más rápida de medicamentos. Tiene cochecitos de carreras dibujados.

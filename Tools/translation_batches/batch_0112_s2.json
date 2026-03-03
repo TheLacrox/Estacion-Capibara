@@ -1,0 +1,42 @@
+{
+  "batch_id": "batch_0112_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "MindRoleThief",
+      "raw_en": "ent-MindRoleThief =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleTraitor",
+      "raw_en": "ent-MindRoleTraitor =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleTraitorSleeper",
+      "raw_en": "ent-MindRoleTraitorSleeper =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleTraitorReinforcement",
+      "raw_en": "ent-MindRoleTraitorReinforcement =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleInitialInfected",
+      "raw_en": "ent-MindRoleInitialInfected =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleZombie",
+      "raw_en": "ent-MindRoleZombie =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/Roles/MindRoles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/roles/mindroles/mind_roles.ftl"
+    }
+  ]
+}

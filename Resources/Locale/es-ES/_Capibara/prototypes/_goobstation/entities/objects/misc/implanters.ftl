@@ -5,3 +5,4 @@ ent-BaseImplantOnlyImplanterCentcomm = implantador de CentComm
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos. La aguja de inserción está recubierta con un analgésico.
 
 ent-BaseAntagImplantOnlyImplanter = implantador para antagonistas
+    .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos. La aguja de inserción está recubierta con un analgésico.

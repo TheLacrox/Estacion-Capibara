@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0057_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "PlasmaWindoorSecureCommandLocked",
+      "raw_en": "ent-PlasmaWindoorSecureCommandLocked = secure plasma windoor\n    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureDetectiveLocked",
+      "raw_en": "ent-WindoorSecureDetectiveLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureEngineeringLocked",
+      "raw_en": "ent-WindoorSecureEngineeringLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorSecureEngineeringLocked",
+      "raw_en": "ent-PlasmaWindoorSecureEngineeringLocked = secure plasma windoor\n    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UraniumWindoorSecureEngineeringLocked",
+      "raw_en": "ent-UraniumWindoorSecureEngineeringLocked = secure uranium windoor\n    .desc = It's a sturdy window and a sliding door. It's so neon green, it might even taste like limes!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureExternalLocked",
+      "raw_en": "ent-WindoorSecureExternalLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureJanitorLocked",
+      "raw_en": "ent-WindoorSecureJanitorLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorSecureJanitorLocked",
+      "raw_en": "ent-PlasmaWindoorSecureJanitorLocked = secure plasma windoor\n    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureKitchenLocked",
+      "raw_en": "ent-WindoorSecureKitchenLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureSecurityLawyerLocked",
+      "raw_en": "ent-WindoorSecureSecurityLawyerLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureMedicalLocked",
+      "raw_en": "ent-WindoorSecureMedicalLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureResearchDirectorLocked",
+      "raw_en": "ent-WindoorSecureResearchDirectorLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureSalvageLocked",
+      "raw_en": "ent-WindoorSecureSalvageLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureSecurityLocked",
+      "raw_en": "ent-WindoorSecureSecurityLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorSecureSecurityLocked",
+      "raw_en": "ent-PlasmaWindoorSecureSecurityLocked = secure plasma windoor\n    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureScienceLocked",
+      "raw_en": "ent-WindoorSecureScienceLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorSecureScienceLocked",
+      "raw_en": "ent-PlasmaWindoorSecureScienceLocked = secure plasma windoor\n    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureServiceLocked",
+      "raw_en": "ent-WindoorSecureServiceLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureHeadOfPersonnelLocked",
+      "raw_en": "ent-WindoorSecureHeadOfPersonnelLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSyndicateLocked",
+      "raw_en": "ent-WindoorSyndicateLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureSyndicateLocked",
+      "raw_en": "ent-WindoorSecureSyndicateLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorSyndicateLocked",
+      "raw_en": "ent-PlasmaWindoorSyndicateLocked = plasma windoor\n    .desc = It's a pink window *and* a sliding door. Amazing!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UraniumWindoorSyndicateLocked",
+      "raw_en": "ent-UraniumWindoorSyndicateLocked = uranium windoor\n    .desc = It's a window and a sliding door. Huh? Oh, and it's green!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UraniumWindoorSecureSyndicateLocked",
+      "raw_en": "ent-UraniumWindoorSecureSyndicateLocked = secure uranium windoor\n    .desc = It's a sturdy window and a sliding door. It's so neon green, it might even taste like limes!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorNukeopLocked",
+      "raw_en": "ent-WindoorNukeopLocked = windoor\n    .desc = It's a window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindoorSecureNukeopLocked",
+      "raw_en": "ent-WindoorSecureNukeopLocked = secure windoor\n    .desc = It's a sturdy window and a sliding door. Wow!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorNukeopLocked",
+      "raw_en": "ent-PlasmaWindoorNukeopLocked = plasma windoor\n    .desc = It's a pink window *and* a sliding door. Amazing!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindoorSecureNukeopLocked",
+      "raw_en": "ent-PlasmaWindoorSecureNukeopLocked = secure plasma windoor\n    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UraniumWindoorNukeopLocked",
+      "raw_en": "ent-UraniumWindoorNukeopLocked = uranium windoor\n    .desc = It's a window and a sliding door. Huh? Oh, and it's green!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UraniumWindoorSecureNukeopLocked",
+      "raw_en": "ent-UraniumWindoorSecureNukeopLocked = secure uranium windoor\n    .desc = It's a sturdy window and a sliding door. It's so neon green, it might even taste like limes!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Windoors/windoor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Windoors/windoor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BenchColorfulComfy",
+      "raw_en": "ent-BenchColorfulComfy = comfortable bench\n    .desc = A bench with an extremely comfortable backrest.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/bench.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/bench.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BenchRedComfy",
+      "raw_en": "ent-BenchRedComfy = comfortable bench\n    .desc = A bench with an extremely comfortable backrest.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/bench.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/bench.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BenchBlueComfy",
+      "raw_en": "ent-BenchBlueComfy = comfortable bench\n    .desc = A bench with an extremely comfortable backrest.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/bench.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/bench.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Carpet",
+      "raw_en": "ent-Carpet = carpet\n    .desc = Fancy walking surface.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpetBlack",
+      "raw_en": "ent-CarpetBlack = carpet\n    .desc = Fancy walking surface.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpetPink",
+      "raw_en": "ent-CarpetPink = carpet\n    .desc = Fancy walking surface.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpetBlue",
+      "raw_en": "ent-CarpetBlue = carpet\n    .desc = Fancy walking surface.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpetGreen",
+      "raw_en": "ent-CarpetGreen = carpet\n    .desc = Fancy walking surface.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpetOrange",
+      "raw_en": "ent-CarpetOrange = carpet\n    .desc = Fancy walking surface.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpetSBlue",
+      "raw_en": "ent-CarpetSBlue = carpet\n    .desc = Fancy walking surface.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpetPurple",
+      "raw_en": "ent-CarpetPurple = carpet\n    .desc = Fancy walking surface.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpetCyan",
+      "raw_en": "ent-CarpetCyan = carpet\n    .desc = Fancy walking surface.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarpetWhite",
+      "raw_en": "ent-CarpetWhite = carpet\n    .desc = Fancy walking surface.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/carpets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/carpets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChairFoldingSpawnFolded",
+      "raw_en": "ent-ChairFoldingSpawnFolded = folding chair\n    .desc = If you carry six of these you become the coolest kid at church.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/chairs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/chairs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserFilled",
+      "raw_en": "ent-DresserFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/dresser.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/dresser.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant0",
+      "raw_en": "ent-PottedPlant0 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant1",
+      "raw_en": "ent-PottedPlant1 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant2",
+      "raw_en": "ent-PottedPlant2 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant3",
+      "raw_en": "ent-PottedPlant3 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant4",
+      "raw_en": "ent-PottedPlant4 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    }
+  ]
+}

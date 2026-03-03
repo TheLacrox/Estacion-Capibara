@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0018_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "CMCatwalkPrison",
+      "raw_en": "ent-CMCatwalkPrison = catwalk\n    .desc = A catwalk for easier EVA maneuvering and cable placement.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/catwalk.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCCatwalkKutjevo",
+      "raw_en": "ent-RMCCatwalkKutjevo = catwalk\n    .desc = A catwalk for easier EVA maneuvering and cable placement.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/catwalk.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCCatwalkStrata",
+      "raw_en": "ent-RMCCatwalkStrata = catwalk\n    .desc = A catwalk for easier EVA maneuvering and cable placement.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/catwalk.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMonorailBend",
+      "raw_en": "ent-RMCMonorailBend = monorail track\n    .desc = The rail system for the CORSAT monorail.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/catwalk.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCRailroadBend",
+      "raw_en": "ent-RMCRailroadBend = rails\n    .desc = Minecarts and rail vehicles go on these.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/catwalk.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerBlueLeft",
+      "raw_en": "ent-RMCContainerBlueLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerBlueMiddle",
+      "raw_en": "ent-RMCContainerBlueMiddle = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerBlueRight",
+      "raw_en": "ent-RMCContainerBlueRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerGreenLeft",
+      "raw_en": "ent-RMCContainerGreenLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerGreenMiddle",
+      "raw_en": "ent-RMCContainerGreenMiddle = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerGreenRight",
+      "raw_en": "ent-RMCContainerGreenRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerRedLeft",
+      "raw_en": "ent-RMCContainerRedLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerRedMiddle",
+      "raw_en": "ent-RMCContainerRedMiddle = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerRedRight",
+      "raw_en": "ent-RMCContainerRedRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerFujinMiddle",
+      "raw_en": "ent-RMCContainerFujinMiddle = Fujin Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from Fujin, a manufacturer of a variety of electronical and mechanical products.\\nAt least, that is what is says on the container. You have literally never heard of this company before.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerApocraphyMiddle",
+      "raw_en": "ent-RMCContainerApocraphyMiddle = Apocraphy Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Apocrahpy Corporation, a manufacturer of medical and biotechnological parts.\\nYou remember hearing about one of their latest drugs, and how dangerous it was... though they claimed to be close to finding a solution.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerPathosMiddle",
+      "raw_en": "ent-RMCContainerPathosMiddle = Pathos Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from Pathos, a computer parts and motion detector manufacturer.\\nYou still wonder why we have a container of old Motion Detectors, and if they even still work.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaMiddle",
+      "raw_en": "ent-RMCContainerWeYaMiddle = Weston-Yamada Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Weston-Yamada Corporation, you have probably heard of them before.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaRight",
+      "raw_en": "ent-RMCContainerWeYaRight = Weston-Yamada Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Weston-Yamada Corporation, you have probably heard of them before.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaAltLeft",
+      "raw_en": "ent-RMCContainerWeYaAltLeft = Weston-Yamada Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Weston-Yamada Corporation, you have probably heard of them before.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaAltMiddle",
+      "raw_en": "ent-RMCContainerWeYaAltMiddle = Weston-Yamada Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Weston-Yamada Corporation, you have probably heard of them before.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaAltRight",
+      "raw_en": "ent-RMCContainerWeYaAltRight = Weston-Yamada Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Weston-Yamada Corporation, you have probably heard of them before.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerTrijentMiddle",
+      "raw_en": "ent-RMCContainerTrijentMiddle = Trijent Corporation Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Trijent Corporation's mining operations.\\nIf this breaks open, you figure you probably shouldn't breathe in what's inside.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerTrijentRight",
+      "raw_en": "ent-RMCContainerTrijentRight = Trijent Corporation Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Trijent Corporation's mining operations.\\nIf this breaks open, you figure you probably shouldn't breathe in what's inside.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerTrijentAltLeft",
+      "raw_en": "ent-RMCContainerTrijentAltLeft = Trijent Corporation Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Trijent Corporation's mining operations.\\nIf this breaks open, you figure you probably shouldn't breathe in what's inside.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerTrijentAltMiddle",
+      "raw_en": "ent-RMCContainerTrijentAltMiddle = Trijent Corporation Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Trijent Corporation's mining operations.\\nIf this breaks open, you figure you probably shouldn't breathe in what's inside.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerTrijentAltRight",
+      "raw_en": "ent-RMCContainerTrijentAltRight = Trijent Corporation Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from The Trijent Corporation's mining operations.\\nIf this breaks open, you figure you probably shouldn't breathe in what's inside.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerFerretMiddle",
+      "raw_en": "ent-RMCContainerFerretMiddle = Ferret Heavy Industries Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from Ferret Heavy Industries, a manufacturer of terrestrial crawlers and powerloaders.\\nUnfortunately, the company went bankrupt. Fortunately, these containers are really cheap now.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerFerretRight",
+      "raw_en": "ent-RMCContainerFerretRight = Ferret Heavy Industries Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from Ferret Heavy Industries, a manufacturer of terrestrial crawlers and powerloaders.\\nUnfortunately, the company went bankrupt. Fortunately, these containers are really cheap now.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerNovarisMiddle",
+      "raw_en": "ent-RMCContainerNovarisMiddle = Novaris Cargo Container\n    .desc = A huge industrial shipping containerThis one is from Novaris, they makes just about anything and everything.\\nYou notice this container has a peeling note on it, saying all contents were transferred from another station decades ago, how long has it been here?",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerNovarisRight",
+      "raw_en": "ent-RMCContainerNovarisRight = Novaris Cargo Container\n    .desc = A huge industrial shipping containerThis one is from Novaris, they makes just about anything and everything.\\nYou notice this container has a peeling note on it, saying all contents were transferred from another station decades ago, how long has it been here?",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerSPPMiddle",
+      "raw_en": "ent-RMCContainerSPPMiddle = SPP Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from the Socailists Progressive Peoples, as indicated by the massive symbol on the side.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerSPPRight",
+      "raw_en": "ent-RMCContainerSPPRight = SPP Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from the Socailists Progressive Peoples, as indicated by the massive symbol on the side.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerSPPAltLeft",
+      "raw_en": "ent-RMCContainerSPPAltLeft = SPP Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from the Socailists Progressive Peoples, as indicated by the massive symbol on the side.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerSPPAltMiddle",
+      "raw_en": "ent-RMCContainerSPPAltMiddle = SPP Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from the Socailists Progressive Peoples, as indicated by the massive symbol on the side.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerSPPAltRight",
+      "raw_en": "ent-RMCContainerSPPAltRight = SPP Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from the Socailists Progressive Peoples, as indicated by the massive symbol on the side.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerMSPMiddle",
+      "raw_en": "ent-RMCContainerMSPMiddle = Ministry of Space Protection Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one belongs to the SPP's Ministry of Space Protection.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerMSPRight",
+      "raw_en": "ent-RMCContainerMSPRight = Ministry of Space Protection Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one belongs to the SPP's Ministry of Space Protection.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerUNMCMiddle",
+      "raw_en": "ent-RMCContainerUNMCMiddle = United Nations Marine Corps Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one belongs to the UN's United Nations Marine Corps.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerUNMCRight",
+      "raw_en": "ent-RMCContainerUNMCRight = United Nations Marine Corps Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one belongs to the UN's United Nations Marine Corps.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerAegisMiddle",
+      "raw_en": "ent-RMCContainerAegisMiddle = AEGIS Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from AEGIS, the defense contractors behind the M54C and other marine weaponry.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerAegisRight",
+      "raw_en": "ent-RMCContainerAegisRight = AEGIS Cargo Container\n    .desc = A huge industrial shipping container.\\nThis one is from AEGIS, the defense contractors behind the M54C and other marine weaponry.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerTartarusLeft",
+      "raw_en": "ent-RMCContainerTartarusLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerTartarusRight",
+      "raw_en": "ent-RMCContainerTartarusRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortBlueLeft",
+      "raw_en": "ent-RMCContainerShortBlueLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortBlueRight",
+      "raw_en": "ent-RMCContainerShortBlueRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortGreenLeft",
+      "raw_en": "ent-RMCContainerShortGreenLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortGreenRight",
+      "raw_en": "ent-RMCContainerShortGreenRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortRedLeft",
+      "raw_en": "ent-RMCContainerShortRedLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortRedRight",
+      "raw_en": "ent-RMCContainerShortRedRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    }
+  ]
+}

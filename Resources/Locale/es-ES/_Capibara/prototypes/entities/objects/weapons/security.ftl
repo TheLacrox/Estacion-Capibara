@@ -8,6 +8,7 @@ ent-Flash = destello
     .desc = Un flash ultrabrilante con gatillo, que hace que la víctima quede aturdida y pierda la visión por un momento. Inútil cuando se quema.
 
 ent-SciFlash = destello
+    .desc = Un flash ultrabrilante con gatillo, que hace que la víctima quede aturdida y pierda la visión por un momento. Inútil cuando se quema.
 
 ent-PortableFlasher = destellador portátil
     .desc = Un flash ultrabrilante con sensor de proximidad, útil para hacer un área de solo seguridad.

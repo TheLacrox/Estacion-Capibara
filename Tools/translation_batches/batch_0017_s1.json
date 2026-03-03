@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0017_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "ClothingUniformJumpsuitMilitaryAtmospherics",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryAtmospherics = atmospheric technician jumpsuit\n    .desc = I am at work. I can't leave work. Work is breathing. I am testing air quality.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryEngineering",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryEngineering = engineering jumpsuit\n    .desc = If this suit was non-conductive, maybe engineers would actually do their damn job.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryEngineeringChief",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryEngineeringChief = chief engineer's jumpsuit\n    .desc = It's a high visibility jumpsuit given to those engineers insane enough to achieve the rank of Chief Engineer.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitarySalvageSpecialist",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitarySalvageSpecialist = salvage specialist's jumpsuit\n    .desc = It's a snappy jumpsuit with a sturdy set of overalls. It's very dirty.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryCargo",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryCargo = cargo tech jumpsuit\n    .desc = A sturdy jumpsuit, issued to members of the Cargo department.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryQM",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryQM = quartermaster's jumpsuit\n    .desc = What can brown do for you?",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryParamedic",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryParamedic = paramedic jumpsuit\n    .desc = It's got a plus on it, that's a good thing right?",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryMedicalDoctor",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryMedicalDoctor = medical doctor jumpsuit\n    .desc = It's made of a special fiber that provides minor protection against biohazards. It has a cross on the chest denoting that the wearer is trained medical personnel.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryCMO",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryCMO = chief medical officer's jumpsuit\n    .desc = It's a jumpsuit worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryChemistry",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryChemistry = chemistry jumpsuit\n    .desc = There's some odd stains on this jumpsuit. Hm.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryVirology",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryVirology = virology jumpsuit\n    .desc = It's made of a special fiber that gives special protection against biohazards. It has a virologist rank stripe on it.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryGenetics",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryGenetics = genetics jumpsuit\n    .desc = It's made of a special fiber that gives special protection against biohazards. It has a geneticist rank stripe on it.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryScientist",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryScientist = scientist jumpsuit\n    .desc = It's made of a special fiber that increases perceived intelligence and decreases personal ethics. It has markings that denote the wearer as a scientist.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryResearchDirector",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryResearchDirector = research director's turtleneck\n    .desc = It's a jumpsuit worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryHydroponics",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryHydroponics = hydroponics jumpsuit\n    .desc = Has a strong earthy smell to it. Hopefully it's merely dirty as opposed to soiled.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryTurtleneckMercenary",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenary = mercenary jumpsuit\n    .desc = Clothing for real mercenaries who have gone through fire, water and the jungle of planets flooded with dangerous monsters or targets for which a reward has been assigned.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenary",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenary = mercenary jumpsuit\n    .desc = Clothing for real mercenaries who have gone through fire, water and the jungle of planets flooded with dangerous monsters or targets for which a reward has been assigned.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGinAndSonic",
+      "raw_en": "ent-DrinkGinAndSonic = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Objects/Comsumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Objects/Comsumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkGoldenCat",
+      "raw_en": "ent-DrinkGoldenCat = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Objects/Comsumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Objects/Comsumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkPineappleBlast",
+      "raw_en": "ent-DrinkPineappleBlast = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Objects/Comsumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Objects/Comsumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkTorpedoJuice",
+      "raw_en": "ent-DrinkTorpedoJuice = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Objects/Comsumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Objects/Comsumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkBeesKnees",
+      "raw_en": "ent-DrinkBeesKnees = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Objects/Comsumable/Drinks/drinks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Objects/Comsumable/Drinks/drinks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MailLargeAdminFun",
+      "raw_en": "ent-MailLargeAdminFun = package",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Objects/Specific/Mail/base_mail_large.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Objects/Specific/Mail/base_mail_large.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdminInstantEffectEMP7",
+      "raw_en": "ent-AdminInstantEffectEMP7 = instant effect",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat1",
+      "raw_en": "ent-PaperMailNFVagueThreat1 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat2",
+      "raw_en": "ent-PaperMailNFVagueThreat2 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat3",
+      "raw_en": "ent-PaperMailNFVagueThreat3 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat4",
+      "raw_en": "ent-PaperMailNFVagueThreat4 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat5",
+      "raw_en": "ent-PaperMailNFVagueThreat5 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat6",
+      "raw_en": "ent-PaperMailNFVagueThreat6 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat7",
+      "raw_en": "ent-PaperMailNFVagueThreat7 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat8",
+      "raw_en": "ent-PaperMailNFVagueThreat8 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat9",
+      "raw_en": "ent-PaperMailNFVagueThreat9 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat10",
+      "raw_en": "ent-PaperMailNFVagueThreat10 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat11",
+      "raw_en": "ent-PaperMailNFVagueThreat11 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFVagueThreat12",
+      "raw_en": "ent-PaperMailNFVagueThreat12 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNTSoapAd1",
+      "raw_en": "ent-PaperMailNTSoapAd1 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNTSoapAd2",
+      "raw_en": "ent-PaperMailNTSoapAd2 = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNTConscript",
+      "raw_en": "ent-PaperMailNTConscript = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNTMusket",
+      "raw_en": "ent-PaperMailNTMusket = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFPaperPusherAd",
+      "raw_en": "ent-PaperMailNFPaperPusherAd = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNTBoxer",
+      "raw_en": "ent-PaperMailNTBoxer = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFPipebombIntern",
+      "raw_en": "ent-PaperMailNFPipebombIntern = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperMailNFSpaceLaw",
+      "raw_en": "ent-PaperMailNFSpaceLaw = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/_NF/Mail/Items/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Mail/Items/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCTrafficLight",
+      "raw_en": "ent-RMCTrafficLight = traffic light\n    .desc = A traffic light.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Objects/Misc/floodlights.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Objects/Misc/floodlights.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCTrafficLightAlt",
+      "raw_en": "ent-RMCTrafficLightAlt = traffic light\n    .desc = A traffic light.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Objects/Misc/floodlights.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Objects/Misc/floodlights.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCTrafficLightBrokenAlt",
+      "raw_en": "ent-RMCTrafficLightBrokenAlt = broken traffic light\n    .desc = This thing is ancient, how are you gonna fix it now? Good job, smartass.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Objects/Misc/floodlights.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Objects/Misc/floodlights.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCCatwalkAI",
+      "raw_en": "ent-RMCCatwalkAI = catwalk\n    .desc = A catwalk for easier EVA maneuvering and cable placement.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/catwalk.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCCatwalkAIWhite",
+      "raw_en": "ent-RMCCatwalkAIWhite = catwalk\n    .desc = A catwalk for easier EVA maneuvering and cable placement.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/catwalk.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMCatwalkShiva",
+      "raw_en": "ent-CMCatwalkShiva = catwalk\n    .desc = A catwalk for easier EVA maneuvering and cable placement.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/catwalk.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/catwalk.ftl",
+      "file_exists": false
+    }
+  ]
+}

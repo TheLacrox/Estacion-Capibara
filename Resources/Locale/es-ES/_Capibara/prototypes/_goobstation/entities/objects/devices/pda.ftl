@@ -26,12 +26,16 @@ ent-NavyCaptainPDA = PDA del capitán de marina
     .desc = El diablo está en los detalles.
 
 ent-NavyOfficerPDA = PDA del oficial de marina
+    .desc = El diablo está en los detalles.
 
 ent-SpecialOperationsOfficerPDA = PDA del oficial de operaciones especiales
+    .desc = El diablo está en los detalles.
 
 ent-DiplomatPDA = PDA del diplomático
+    .desc = El diablo está en los detalles.
 
 ent-InspectorPDA = PDA del auditor
+    .desc = El diablo está en los detalles.
 
 ent-SyndiPDANukie = PDA del Syndicate
     .desc = Ok, hora de ser un miembro productivo de... oh genial soy el malo, ¡hora de matar gente!
@@ -46,6 +50,7 @@ ent-SecurityClownPDA = PDA del payaso de seguridad
     .desc = ¿Quién tiene un PDA rosa en seguridad?
 
 ent-CommandMaidPDA = PDA de la doncella de mando
+    .desc = Huele a lejía.
 
 ent-PartyMakerPDA = PDA del organizador de fiestas
     .desc = El mejor ayudante para organizar una fiesta.

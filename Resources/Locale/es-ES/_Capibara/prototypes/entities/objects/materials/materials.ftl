@@ -1,25 +1,35 @@
 ent-MaterialCardboard = cartón
+    .desc = Un material en bruto.
 
 ent-MaterialCloth = tela
+    .desc = Un material en bruto.
 
 ent-MaterialDurathread = durathread
+    .desc = Un material en bruto.
 
 ent-MaterialWoodPlank = madera
+    .desc = Un material en bruto.
 
 ent-MaterialBiomass = biomasa
+    .desc = Un material en bruto.
 
 ent-MaterialHideBear = piel de oso
+    .desc = Un material en bruto.
 
 ent-MaterialHideCorgi = piel de corgi
     .desc = Pelaje de lujo usado solo en la moda más exclusiva. Los rumores dicen que se consigue cuando a un corgi lo mandan a la granja bonita.
 
 ent-MaterialDiamond = diamante refinado
+    .desc = Un material en bruto.
 
 ent-MaterialCotton = algodón
+    .desc = Un material en bruto.
 
 ent-MaterialPyrotton = pyrotton
+    .desc = Un material en bruto.
 
 ent-MaterialBananium = bananio
+    .desc = Un material en bruto.
 
 ent-MaterialWebSilk = seda
     .desc = Un material parecido a una tela de araña.
@@ -31,6 +41,7 @@ ent-MaterialToothSharkminnow = diente de tiburoncillo
     .desc = Parece afilado. Suficientemente afilado para sacarle un ojo a alguien. Dios mío qué grande es.
 
 ent-MaterialBones = huesos
+    .desc = Un material en bruto.
 
 ent-MaterialGunpowder = pólvora
     .desc = Un compuesto explosivo.

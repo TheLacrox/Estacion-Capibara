@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0049_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "BaseUplinkRadioDebug",
+      "raw_en": "ent-BaseUplinkRadioDebug = syndicate uplink\n    .desc = Suspiciously looking old radio...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ComplexXenoArtifactItem",
+      "raw_en": "ent-ComplexXenoArtifactItem = artifact\n    .desc = A strange artifact from time unknown. Looks like a good time. Fits in hand perfectly.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Xenoarchaeology/item_xenoartifacts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Xenoarchaeology/item_xenoartifacts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ArtifactFragment1",
+      "raw_en": "ent-ArtifactFragment1 = artifact fragment\n    .desc = A broken piece of an artifact. You could probably repair it if you had more.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Xenoarchaeology/item_xenoartifacts.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Xenoarchaeology/item_xenoartifacts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AccessBreaker",
+      "raw_en": "ent-AccessBreaker = authentication disruptor\n    .desc = A hacked access configurator, specialized to unlock and erase access from digital locks.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/access_breaker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/access_breaker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableHVStack10",
+      "raw_en": "ent-CableHVStack10 = HV cable coil\n    .desc = HV cables for connecting engines to heavy duty machinery, SMESes, and substations.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/cable_coils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/cable_coils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableHVStackLingering10",
+      "raw_en": "ent-CableHVStackLingering10 = HV cable coil\n    .desc = HV cables for connecting engines to heavy duty machinery, SMESes, and substations.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/cable_coils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/cable_coils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableHVStack1",
+      "raw_en": "ent-CableHVStack1 = HV cable coil\n    .desc = HV cables for connecting engines to heavy duty machinery, SMESes, and substations.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/cable_coils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/cable_coils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableMVStack10",
+      "raw_en": "ent-CableMVStack10 = MV cable coil\n    .desc = MV cables for connecting substations to APCs, and also powering a select few things like emitters.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/cable_coils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/cable_coils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableMVStackLingering10",
+      "raw_en": "ent-CableMVStackLingering10 = MV cable coil\n    .desc = MV cables for connecting substations to APCs, and also powering a select few things like emitters.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/cable_coils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/cable_coils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableMVStack1",
+      "raw_en": "ent-CableMVStack1 = MV cable coil\n    .desc = MV cables for connecting substations to APCs, and also powering a select few things like emitters.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/cable_coils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/cable_coils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableApcStack10",
+      "raw_en": "ent-CableApcStack10 = LV cable coil\n    .desc = Low-Voltage stack of wires for connecting APCs to machines and other purposes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/cable_coils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/cable_coils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableApcStackLingering10",
+      "raw_en": "ent-CableApcStackLingering10 = LV cable coil\n    .desc = Low-Voltage stack of wires for connecting APCs to machines and other purposes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/cable_coils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/cable_coils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CableApcStack1",
+      "raw_en": "ent-CableApcStack1 = LV cable coil\n    .desc = Low-Voltage stack of wires for connecting APCs to machines and other purposes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/cable_coils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/cable_coils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Crowbar",
+      "raw_en": "ent-Crowbar = crowbar\n    .desc = A multipurpose tool to pry open doors and fight interdimensional invaders.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/crowbars.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/crowbars.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrowbarGreen",
+      "raw_en": "ent-CrowbarGreen = crowbar\n    .desc = A multipurpose tool to pry open doors and fight interdimensional invaders, printed from an autolathe.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/crowbars.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/crowbars.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrowbarOrange",
+      "raw_en": "ent-CrowbarOrange = crowbar\n    .desc = A multipurpose tool to pry open doors and fight interdimensional invaders, found in toolboxes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/crowbars.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/crowbars.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrowbarYellow",
+      "raw_en": "ent-CrowbarYellow = crowbar\n    .desc = A multipurpose tool to pry open doors and fight interdimensional invaders, dispensed from Engineering.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/crowbars.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/crowbars.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseDecoy",
+      "raw_en": "ent-BaseDecoy = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/decoys.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/decoys.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Emag",
+      "raw_en": "ent-Emag = cryptographic sequencer\n    .desc = The all-in-one hacking solution. Friend of any syndicate. The iconic EMAG.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/emag.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/emag.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EmptyFlashlightLantern",
+      "raw_en": "ent-EmptyFlashlightLantern = flashlight\n    .desc = It lights the way to freedom.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/flashlights.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/flashlights.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasTankBase",
+      "raw_en": "ent-GasTankBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasTankRoundBase",
+      "raw_en": "ent-GasTankRoundBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HandHeldMassScannerEmpty",
+      "raw_en": "ent-HandHeldMassScannerEmpty = handheld mass scanner\n    .desc = A hand-held mass scanner.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/handheld_mass_scanner.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/handheld_mass_scanner.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HandHeldMassScannerBorg",
+      "raw_en": "ent-HandHeldMassScannerBorg = handheld mass scanner\n    .desc = A hand-held mass scanner.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/handheld_mass_scanner.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/handheld_mass_scanner.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "InflatableWallStack5",
+      "raw_en": "ent-InflatableWallStack5 = inflatable barricade\n    .desc = A folded membrane which rapidly expands into a large cubical shape on activation.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/inflatable_wall.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/inflatable_wall.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "InflatableWallStack1",
+      "raw_en": "ent-InflatableWallStack1 = inflatable barricade\n    .desc = A folded membrane which rapidly expands into a large cubical shape on activation.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/inflatable_wall.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/inflatable_wall.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "InflatableDoorStack1",
+      "raw_en": "ent-InflatableDoorStack1 = inflatable door\n    .desc = A folded membrane which rapidly expands into a large cubical shape on activation.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/inflatable_wall.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/inflatable_wall.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LanternFlash",
+      "raw_en": "ent-LanternFlash = lantern\n    .desc = The holy light guides the way.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/lantern.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/lantern.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LightReplacerEmpty",
+      "raw_en": "ent-LightReplacerEmpty = light replacer\n    .desc = An item which uses magnets to easily replace broken lights. Refill by adding more lights into the replacer.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/light_replacer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/light_replacer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBrandedLighter",
+      "raw_en": "ent-BaseBrandedLighter = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/lighters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/lighters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SmallboxItem",
+      "raw_en": "ent-SmallboxItem = storage item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/matches.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/matches.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MatchstickSpent",
+      "raw_en": "ent-MatchstickSpent = match stick\n    .desc = A simple match stick, used for lighting fine smokables.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/matches.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/matches.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SprayPainterRecharging",
+      "raw_en": "ent-SprayPainterRecharging = spray painter\n    .desc = A spray painter for painting airlocks, pipes, and other items.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/spray_painter.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/spray_painter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SprayPainterEmpty",
+      "raw_en": "ent-SprayPainterEmpty = spray painter\n    .desc = A spray painter for painting airlocks, pipes, and other items.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/spray_painter.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/spray_painter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ToolboxBase",
+      "raw_en": "ent-ToolboxBase = storage item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/toolbox.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/toolbox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RCDEmpty",
+      "raw_en": "ent-RCDEmpty = RCD\n    .desc = The rapid construction device can be used to quickly place and remove various station structures and fixtures. Requires compressed matter to function.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Tools/tools.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Tools/tools.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FireBombFuel",
+      "raw_en": "ent-FireBombFuel = fire bomb\n    .desc = A weak, improvised incendiary device. This one is missing wires.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Bombs/firebomb.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Bombs/firebomb.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasePlasticExplosive",
+      "raw_en": "ent-BasePlasticExplosive = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Bombs/plastic.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Bombs/plastic.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMagazineBoxMagnum",
+      "raw_en": "ent-BaseMagazineBoxMagnum = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Boxes/magnum.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Boxes/magnum.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMagazineBoxRifle",
+      "raw_en": "ent-BaseMagazineBoxRifle = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Boxes/rifle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Boxes/rifle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseAmmoProvider",
+      "raw_en": "ent-BaseAmmoProvider = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Boxes/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Boxes/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AmmoProviderShotgunShell",
+      "raw_en": "ent-AmmoProviderShotgunShell = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Boxes/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Boxes/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseCartridge",
+      "raw_en": "ent-BaseCartridge = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/base_cartridge.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/base_cartridge.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletShotgunSpread",
+      "raw_en": "ent-PelletShotgunSpread = pellet (.50)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletShotgunIncendiarySpread",
+      "raw_en": "ent-PelletShotgunIncendiarySpread = pellet (.50 incendiary)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletShotgunPracticeSpread",
+      "raw_en": "ent-PelletShotgunPracticeSpread = pellet (.50 practice)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletShotgunImprovisedSpread",
+      "raw_en": "ent-PelletShotgunImprovisedSpread = improvised pellet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletShotgunUraniumSpread",
+      "raw_en": "ent-PelletShotgunUraniumSpread = pellet (.50 uranium)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletGrapeshotSpread",
+      "raw_en": "ent-PelletGrapeshotSpread = grapeshot pellet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletGlassSpread",
+      "raw_en": "ent-PelletGlassSpread = glass shard\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    }
+  ]
+}

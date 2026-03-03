@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0022_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "RMCPropVehicleMonoSupronBrownDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBrownDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBrownDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBrownDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronCopDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronCopDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronCopDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronCopDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronDesatBlueDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronDesatBlueDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronDesatBlueDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronDesatBlueDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronGreenDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronGreenDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronGreenDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronGreenDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronLightBlueDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronLightBlueDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronLightBlueDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronLightBlueDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronPinkDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronPinkDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronPinkDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronPinkDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronPurpleDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronPurpleDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronPurpleDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronPurpleDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronRedDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronRedDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronRedDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronRedDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronTaxiDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronTaxiDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronTaxiDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronTaxiDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronTurquoiseDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronTurquoiseDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronTurquoiseDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronTurquoiseDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronWYDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronWYDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronWYDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronWYDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBlueOffset",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBlueOffset = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronRedOffset",
+      "raw_en": "ent-RMCPropVehicleMonoSupronRedOffset = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronTurquoiseOffset",
+      "raw_en": "ent-RMCPropVehicleMonoSupronTurquoiseOffset = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleCargoCraneAltHitbox",
+      "raw_en": "ent-RMCPropVehicleCargoCraneAltHitbox = cargo crane\n    .desc = A crane used for loading and unloading cargo.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles2.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles2.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleCargoCraneAltHitboxWest",
+      "raw_en": "ent-RMCPropVehicleCargoCraneAltHitboxWest = cargo crane\n    .desc = A crane used for loading and unloading cargo.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles2.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles2.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCFiltrationDistributionDamaged",
+      "raw_en": "ent-RMCFiltrationDistributionDamaged = waste distribution system\n    .desc = This machine separates the leftover waste from the purification processes to be discarded into space, recycled for supplies, or used for research.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/rmc_filtration_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/rmc_filtration_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCFiltrationSedimentationAlt",
+      "raw_en": "ent-RMCFiltrationSedimentationAlt = sedimentation filter\n    .desc = A water filter specifically designed to capture and remove sediment, such as sand, silt, dirt, and rust, from water without removing the nutritious minerals for that crisp, clean taste every time.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/rmc_filtration_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/rmc_filtration_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardBigger2",
+      "raw_en": "ent-RMCOverheadBillboardBigger2 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardBigger3",
+      "raw_en": "ent-RMCOverheadBillboardBigger3 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardBigger4",
+      "raw_en": "ent-RMCOverheadBillboardBigger4 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardBigger5",
+      "raw_en": "ent-RMCOverheadBillboardBigger5 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardBigger6",
+      "raw_en": "ent-RMCOverheadBillboardBigger6 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardBigger7",
+      "raw_en": "ent-RMCOverheadBillboardBigger7 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboardBigger8",
+      "raw_en": "ent-RMCOverheadBillboardBigger8 = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard1A",
+      "raw_en": "ent-RMCOverheadBillboard1A = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard1B",
+      "raw_en": "ent-RMCOverheadBillboard1B = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard1C",
+      "raw_en": "ent-RMCOverheadBillboard1C = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard1D",
+      "raw_en": "ent-RMCOverheadBillboard1D = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard1E",
+      "raw_en": "ent-RMCOverheadBillboard1E = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard1F",
+      "raw_en": "ent-RMCOverheadBillboard1F = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard1G",
+      "raw_en": "ent-RMCOverheadBillboard1G = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard1H",
+      "raw_en": "ent-RMCOverheadBillboard1H = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard2A",
+      "raw_en": "ent-RMCOverheadBillboard2A = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard2B",
+      "raw_en": "ent-RMCOverheadBillboard2B = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard2C",
+      "raw_en": "ent-RMCOverheadBillboard2C = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard2D",
+      "raw_en": "ent-RMCOverheadBillboard2D = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard2E",
+      "raw_en": "ent-RMCOverheadBillboard2E = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadBillboard2F",
+      "raw_en": "ent-RMCOverheadBillboard2F = billboard\n    .desc = An advertisement billboard.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/road_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/road_signs.ftl",
+      "file_exists": false
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0108_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "GasMinerNitrousOxide",
+      "raw_en": "ent-GasMinerNitrousOxide =\n    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/miners.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/miners.ftl"
+    },
+    {
+      "id": "GasMixerFlipped",
+      "raw_en": "ent-GasMixerFlipped =\n    .desc = Very useful for mixing gases.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/trinary.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/atmospherics/trinary.ftl"
+    },
+    {
+      "id": "DisposalUnit",
+      "raw_en": "ent-DisposalUnit =\n    .desc = A pneumatic waste disposal unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Disposal/units.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/piping/disposal/units.ftl"
+    },
+    {
+      "id": "Thruster",
+      "raw_en": "ent-Thruster =\n    .desc = A thruster that allows a shuttle to move.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Shuttles/thrusters.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/shuttles/thrusters.ftl"
+    },
+    {
+      "id": "AnomalyCorePyroclastic",
+      "raw_en": "ent-AnomalyCorePyroclastic =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreGravity",
+      "raw_en": "ent-AnomalyCoreGravity =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreIce",
+      "raw_en": "ent-AnomalyCoreIce =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreRock",
+      "raw_en": "ent-AnomalyCoreRock =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreLiquid",
+      "raw_en": "ent-AnomalyCoreLiquid =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreBluespace",
+      "raw_en": "ent-AnomalyCoreBluespace =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreElectricity",
+      "raw_en": "ent-AnomalyCoreElectricity =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreFlora",
+      "raw_en": "ent-AnomalyCoreFlora =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreShadow",
+      "raw_en": "ent-AnomalyCoreShadow =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreTech",
+      "raw_en": "ent-AnomalyCoreTech =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreSanta",
+      "raw_en": "ent-AnomalyCoreSanta =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCorePyroclasticInert",
+      "raw_en": "ent-AnomalyCorePyroclasticInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreGravityInert",
+      "raw_en": "ent-AnomalyCoreGravityInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreIceInert",
+      "raw_en": "ent-AnomalyCoreIceInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreRockInert",
+      "raw_en": "ent-AnomalyCoreRockInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreLiquidInert",
+      "raw_en": "ent-AnomalyCoreLiquidInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreBluespaceInert",
+      "raw_en": "ent-AnomalyCoreBluespaceInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreElectricityInert",
+      "raw_en": "ent-AnomalyCoreElectricityInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreFloraInert",
+      "raw_en": "ent-AnomalyCoreFloraInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreShadowInert",
+      "raw_en": "ent-AnomalyCoreShadowInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreTechInert",
+      "raw_en": "ent-AnomalyCoreTechInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "AnomalyCoreSantaInert",
+      "raw_en": "ent-AnomalyCoreSantaInert =\n    .desc = The core of a destroyed incomprehensible object.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Anomaly/cores.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/anomaly/cores.ftl"
+    },
+    {
+      "id": "MopBucketFull",
+      "raw_en": "ent-MopBucketFull =\n    .desc = Holds water and the tears of the janitor.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Specific/Janitor/janicart.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/specific/janitor/janicart.ftl"
+    },
+    {
+      "id": "StorageCanister",
+      "raw_en": "ent-StorageCanister =\n    .desc = A canister that can contain any type of gas. It can be attached to connector ports using a wrench.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/canisters/gas_canisters.ftl"
+    },
+    {
+      "id": "WaterVaporCanisterBroken",
+      "raw_en": "ent-WaterVaporCanisterBroken =\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/canisters/gas_canisters.ftl"
+    },
+    {
+      "id": "LockerSteel",
+      "raw_en": "ent-LockerSteel =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerQuarterMaster",
+      "raw_en": "ent-LockerQuarterMaster =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerCaptain",
+      "raw_en": "ent-LockerCaptain =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerHeadOfPersonnel",
+      "raw_en": "ent-LockerHeadOfPersonnel =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerChiefEngineer",
+      "raw_en": "ent-LockerChiefEngineer =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerElectricalSupplies",
+      "raw_en": "ent-LockerElectricalSupplies =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerWeldingSupplies",
+      "raw_en": "ent-LockerWeldingSupplies =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerAtmospherics",
+      "raw_en": "ent-LockerAtmospherics =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerEngineer",
+      "raw_en": "ent-LockerEngineer =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerFreezerBase",
+      "raw_en": "ent-LockerFreezerBase =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerFreezer",
+      "raw_en": "ent-LockerFreezer =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerBotanist",
+      "raw_en": "ent-LockerBotanist =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerMedical",
+      "raw_en": "ent-LockerMedical =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerParamedic",
+      "raw_en": "ent-LockerParamedic =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerChemistry",
+      "raw_en": "ent-LockerChemistry =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerChiefMedicalOfficer",
+      "raw_en": "ent-LockerChiefMedicalOfficer =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerResearchDirector",
+      "raw_en": "ent-LockerResearchDirector =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerScientist",
+      "raw_en": "ent-LockerScientist =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerHeadOfSecurity",
+      "raw_en": "ent-LockerHeadOfSecurity =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerWarden",
+      "raw_en": "ent-LockerWarden =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerBrigmedic",
+      "raw_en": "ent-LockerBrigmedic =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/structures/storage/closets/lockers/lockers.ftl"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0014_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "TaskVial",
+      "raw_en": "ent-TaskVial = vial\n    .desc = A special vial, that could be inserted inside a NTRs task console.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/task_specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/NTR/task_specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TaskBottle",
+      "raw_en": "ent-TaskBottle = metamorphic glass\n    .desc = A normal bottle, that could be inserted inside a NTRs task console.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/task_specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/NTR/task_specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TaskJug",
+      "raw_en": "ent-TaskJug = jug\n    .desc = A basic jug for sending a large ammount of chemicals to CentComm.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/task_specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/NTR/task_specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LibrarianTranslatorImplanter",
+      "raw_en": "ent-LibrarianTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChevalTranslatorImplanter",
+      "raw_en": "ent-ChevalTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasicSpaceItalianTranslatorImplanter",
+      "raw_en": "ent-BasicSpaceItalianTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdvancedSpaceItalianTranslatorImplanter",
+      "raw_en": "ent-AdvancedSpaceItalianTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "YowKriolTranslatorImplanter",
+      "raw_en": "ent-YowKriolTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostSlasher",
+      "raw_en": "ent-SpawnPointGhostSlasher = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/Antags/slasher.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Roles/Antags/slasher.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostSlasherToken",
+      "raw_en": "ent-SpawnPointGhostSlasherToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/Antags/slasher.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Roles/Antags/slasher.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltMercWebbingHelldiverFilled",
+      "raw_en": "ent-ClothingBeltMercWebbingHelldiverFilled = mercenary webbing\n    .desc = Ideal for storing everything from ammo to weapons and combat essentials.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/GhostRoles/Fun/helldiver.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Roles/GhostRoles/Fun/helldiver.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganMagicSlaughterHeart",
+      "raw_en": "ent-OrganMagicSlaughterHeart = demonic heart",
+      "source_yaml": "Resources/Prototypes/_Goobstation/SlaughterDemon/Body/Organs/slaughter_demon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/SlaughterDemon/Body/Organs/slaughter_demon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostSlaughterDemon",
+      "raw_en": "ent-SpawnPointGhostSlaughterDemon = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/SlaughterDemon/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/SlaughterDemon/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostLaughterDemon",
+      "raw_en": "ent-SpawnPointGhostLaughterDemon = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/SlaughterDemon/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/SlaughterDemon/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceLeviathanDespawn",
+      "raw_en": "ent-SpaceLeviathanDespawn = space whale\n    .desc = When the space becomes too quiet, there is no hope, there is no escape, but there is this.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/SpaceWhales/whale.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/SpaceWhales/whale.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoorElectronicsWizard",
+      "raw_en": "ent-DoorElectronicsWizard = door electronics\n    .desc = An electronics board used in doors and airlocks.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/airlock.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/airlock.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockUranium",
+      "raw_en": "ent-AirlockUranium = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/airlock.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/airlock.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockUraniumGlass",
+      "raw_en": "ent-AirlockUraniumGlass = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/airlock.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/airlock.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockUraniumWizardLocked",
+      "raw_en": "ent-AirlockUraniumWizardLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/airlock.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/airlock.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockUraniumGlassWizardLocked",
+      "raw_en": "ent-AirlockUraniumGlassWizardLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/airlock.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/airlock.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockUraniumAssemblyGlass",
+      "raw_en": "ent-AirlockUraniumAssemblyGlass = airlock assembly\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/airlock.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/airlock.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackWizardClownBundle",
+      "raw_en": "ent-ClothingBackpackWizardClownBundle = giggles von honkerton\n    .desc = It's a backpack made by Honk! Co.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/bundles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Clothing/bundles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackWizardMimeBundle",
+      "raw_en": "ent-ClothingBackpackWizardMimeBundle = mime backpack\n    .desc = A silent backpack made for those silent workers. Silence Co.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/bundles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Clothing/bundles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackOblivionEnforcerBundle",
+      "raw_en": "ent-ClothingBackpackOblivionEnforcerBundle = backpack\n    .desc = You wear this on your back and put items into it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/bundles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Clothing/bundles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ToolboxTider",
+      "raw_en": "ent-ToolboxTider = mechanical toolbox\n    .desc = Are you ready for the new tide order?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/bundles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Clothing/bundles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ToolboxTiderFilled",
+      "raw_en": "ent-ToolboxTiderFilled = mechanical toolbox\n    .desc = Are you ready for the new tide order?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Clothing/bundles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Clothing/bundles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ImmovableRodWizardII",
+      "raw_en": "ent-ImmovableRodWizardII = immovable rod\n    .desc = You can sense that it's hungry. That's usually a bad sign.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/immovable_rod.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/immovable_rod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ImmovableRodWizardIII",
+      "raw_en": "ent-ImmovableRodWizardIII = immovable rod\n    .desc = You can sense that it's hungry. That's usually a bad sign.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/immovable_rod.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/immovable_rod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ImmovableRodWizardIV",
+      "raw_en": "ent-ImmovableRodWizardIV = immovable rod\n    .desc = You can sense that it's hungry. That's usually a bad sign.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/immovable_rod.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/immovable_rod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ImmovableRodWizardV",
+      "raw_en": "ent-ImmovableRodWizardV = immovable rod\n    .desc = You can sense that it's hungry. That's usually a bad sign.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/immovable_rod.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/immovable_rod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DrinkMugwortTeaGlass",
+      "raw_en": "ent-DrinkMugwortTeaGlass = metamorphic glass\n    .desc = A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Items/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Items/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrowbarWizard",
+      "raw_en": "ent-CrowbarWizard = crowbar\n    .desc = A compact multipurpose tool to pry open doors and destroy stations.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Items/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Items/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MultiWandWizard",
+      "raw_en": "ent-MultiWandWizard = wizard wand\n    .desc = Apparently a wand used by the wizard.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Items/wands.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Items/wands.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobAngryBeeWizard",
+      "raw_en": "ent-MobAngryBeeWizard = bee\n    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/bees.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/bees.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgGeneric",
+      "raw_en": "ent-PlayerBorgGeneric = generic cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/borgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/borgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgMining",
+      "raw_en": "ent-PlayerBorgMining = salvage cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/borgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/borgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgEngineer",
+      "raw_en": "ent-PlayerBorgEngineer = engineer cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/borgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/borgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgJanitor",
+      "raw_en": "ent-PlayerBorgJanitor = janitor cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/borgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/borgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgMedical",
+      "raw_en": "ent-PlayerBorgMedical = medical cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/borgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/borgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgService",
+      "raw_en": "ent-PlayerBorgService = service cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/borgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/borgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlayerBorgSyndicateMedicalBattery",
+      "raw_en": "ent-PlayerBorgSyndicateMedicalBattery = syndicate medical cyborg\n    .desc = A combat medical cyborg. Has limited offensive potential, but makes more than up for it with its support capabilities.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/borgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/borgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobStickmanTemp",
+      "raw_en": "ent-MobStickmanTemp = angry stick man\n    .desc = A being from a realm with only 2 dimensions. At least it's trying to stay faced towards you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobObserverWizard",
+      "raw_en": "ent-MobObserverWizard = observer\n    .desc = Boo!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/observer.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/observer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCluwneRandom",
+      "raw_en": "ent-MobCluwneRandom = person\n    .desc = A polymorphed unfortunate.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/random.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/random.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobGorillaAngry",
+      "raw_en": "ent-MobGorillaAngry = gorilla\n    .desc = Smashes, roars, looks cool. Don't stand near one.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/simians.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/simians.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobGorillaAngryTemp",
+      "raw_en": "ent-MobGorillaAngryTemp = gorilla\n    .desc = Smashes, roars, looks cool. Don't stand near one.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/simians.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/simians.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobGorillaWizard",
+      "raw_en": "ent-MobGorillaWizard = gorilla\n    .desc = Smashes, roars, looks cool. Don't stand near one.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/simians.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/simians.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobMonkeyAngryTemp",
+      "raw_en": "ent-MobMonkeyAngryTemp = monkey\n    .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/Mobs/simians.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/Mobs/simians.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ProjectileSpellCardRed",
+      "raw_en": "ent-ProjectileSpellCardRed = enchanted card\n    .desc = A piece of paper enchanted to give it extreme durability and stiffness, along with a very hot burn to anyone unfortunate enough to get hit by a charged one.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ProjectileSpellCardPurple",
+      "raw_en": "ent-ProjectileSpellCardPurple = enchanted card\n    .desc = A piece of paper enchanted to give it extreme durability and stiffness, along with a very hot burn to anyone unfortunate enough to get hit by a charged one.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Wizard/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Wizard/projectiles.ftl",
+      "file_exists": false
+    }
+  ]
+}

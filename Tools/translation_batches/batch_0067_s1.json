@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0067_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "LockableButtonBar",
+      "raw_en": "ent-LockableButtonBar = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonChemistry",
+      "raw_en": "ent-LockableButtonChemistry = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonKitchen",
+      "raw_en": "ent-LockableButtonKitchen = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonChapel",
+      "raw_en": "ent-LockableButtonChapel = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonHydroponics",
+      "raw_en": "ent-LockableButtonHydroponics = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonAtmospherics",
+      "raw_en": "ent-LockableButtonAtmospherics = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonCentcomm",
+      "raw_en": "ent-LockableButtonCentcomm = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ButtonFrameGrey",
+      "raw_en": "ent-ButtonFrameGrey = button frame\n    .desc = It's a frame to help distinguish switches visually.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ButtonFrameCaution",
+      "raw_en": "ent-ButtonFrameCaution = button frame\n    .desc = It's a frame to help distinguish switches visually.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ButtonFrameCautionSecurity",
+      "raw_en": "ent-ButtonFrameCautionSecurity = button frame\n    .desc = It's a frame to help distinguish switches visually.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ButtonFrameExit",
+      "raw_en": "ent-ButtonFrameExit = button frame\n    .desc = It's a frame to help distinguish switches visually.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ButtonFrameJanitor",
+      "raw_en": "ent-ButtonFrameJanitor = button frame\n    .desc = It's a frame to help distinguish switches visually.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponEnergyTurretAIControlPanel",
+      "raw_en": "ent-WeaponEnergyTurretAIControlPanel = sentry turret control panel\n    .desc = A wall-mounted interface for remotely configuring the operational parameters of linked sentry turrets.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/turret_controls.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/turret_controls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponEnergyTurretSecurityControlPanel",
+      "raw_en": "ent-WeaponEnergyTurretSecurityControlPanel = sentry turret control panel\n    .desc = A wall-mounted interface for remotely configuring the operational parameters of linked sentry turrets.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/turret_controls.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/turret_controls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponEnergyTurretCommandControlPanel",
+      "raw_en": "ent-WeaponEnergyTurretCommandControlPanel = sentry turret control panel\n    .desc = A wall-mounted interface for remotely configuring the operational parameters of linked sentry turrets.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/turret_controls.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/turret_controls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomConstructed",
+      "raw_en": "ent-IntercomConstructed = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Intercom",
+      "raw_en": "ent-Intercom = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseIntercomSecure",
+      "raw_en": "ent-BaseIntercomSecure = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomCommon",
+      "raw_en": "ent-IntercomCommon = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomCommand",
+      "raw_en": "ent-IntercomCommand = intercom\n    .desc = An intercom. It's been reinforced with metal.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomEngineering",
+      "raw_en": "ent-IntercomEngineering = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomMedical",
+      "raw_en": "ent-IntercomMedical = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomScience",
+      "raw_en": "ent-IntercomScience = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomSecurity",
+      "raw_en": "ent-IntercomSecurity = intercom\n    .desc = An intercom. It's been reinforced with metal from security helmets, making it a bitch-and-a-half to open.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomService",
+      "raw_en": "ent-IntercomService = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomSupply",
+      "raw_en": "ent-IntercomSupply = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomAll",
+      "raw_en": "ent-IntercomAll = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IntercomFreelance",
+      "raw_en": "ent-IntercomFreelance = intercom\n    .desc = An intercom. For when the station just needs to know something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/WallmountMachines/intercom.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/WallmountMachines/intercom.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockCoal",
+      "raw_en": "ent-AsteroidRockCoal = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockCoalCrab",
+      "raw_en": "ent-AsteroidRockCoalCrab = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockGold",
+      "raw_en": "ent-AsteroidRockGold = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockGoldCrab",
+      "raw_en": "ent-AsteroidRockGoldCrab = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockDiamond",
+      "raw_en": "ent-AsteroidRockDiamond = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockPlasma",
+      "raw_en": "ent-AsteroidRockPlasma = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockQuartz",
+      "raw_en": "ent-AsteroidRockQuartz = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockQuartzCrab",
+      "raw_en": "ent-AsteroidRockQuartzCrab = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockSilver",
+      "raw_en": "ent-AsteroidRockSilver = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockSilverCrab",
+      "raw_en": "ent-AsteroidRockSilverCrab = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockTin",
+      "raw_en": "ent-AsteroidRockTin = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockTinCrab",
+      "raw_en": "ent-AsteroidRockTinCrab = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockUranium",
+      "raw_en": "ent-AsteroidRockUranium = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockUraniumCrab",
+      "raw_en": "ent-AsteroidRockUraniumCrab = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockBananium",
+      "raw_en": "ent-AsteroidRockBananium = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockBananiumCrab",
+      "raw_en": "ent-AsteroidRockBananiumCrab = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockSalt",
+      "raw_en": "ent-AsteroidRockSalt = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockArtifactFragment",
+      "raw_en": "ent-AsteroidRockArtifactFragment = asteroid rock\n    .desc = A rock wall. What's that sticking out of it?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AsteroidRockGibtonite",
+      "raw_en": "ent-AsteroidRockGibtonite = asteroid rock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockCoal",
+      "raw_en": "ent-IronRockCoal = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockGold",
+      "raw_en": "ent-IronRockGold = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "IronRockPlasma",
+      "raw_en": "ent-IronRockPlasma = ironrock\n    .desc = A rocky asteroid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    }
+  ]
+}

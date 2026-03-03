@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0040_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "BaseWidePDA",
+      "raw_en": "ent-BaseWidePDA = PDA\n    .desc = Personal Data Assistant.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseSecurityPDA",
+      "raw_en": "ent-BaseSecurityPDA = PDA\n    .desc = Personal Data Assistant.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMedicalPDA",
+      "raw_en": "ent-BaseMedicalPDA = PDA\n    .desc = Personal Data Assistant.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VisitorClownPDA",
+      "raw_en": "ent-VisitorClownPDA = clown PDA\n    .desc = Looks can be deceiving.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VisitorChaplainPDA",
+      "raw_en": "ent-VisitorChaplainPDA = chaplain PDA\n    .desc = God's chosen PDA.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VisitorLibrarianPDA",
+      "raw_en": "ent-VisitorLibrarianPDA = librarian PDA\n    .desc = Smells like books.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VisitorLawyerPDA",
+      "raw_en": "ent-VisitorLawyerPDA = lawyer PDA\n    .desc = For lawyers to poach dubious clients.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VisitorMedicalPDA",
+      "raw_en": "ent-VisitorMedicalPDA = medical PDA\n    .desc = Shiny and sterile.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VisitorMusicianPDA",
+      "raw_en": "ent-VisitorMusicianPDA = musician PDA\n    .desc = It fills you with inspiration.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VisitorPDA",
+      "raw_en": "ent-VisitorPDA = clear PDA\n    .desc = 99 and 44/100ths percent pure plastic.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ScurretPDA",
+      "raw_en": "ent-ScurretPDA = clear PDA\n    .desc = A temporary PDA granted to scurret temps. Doesn't do much. Wawa!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/pda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/pda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconUnanchored",
+      "raw_en": "ent-DefaultStationBeaconUnanchored = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconCommand",
+      "raw_en": "ent-DefaultStationBeaconCommand = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconBridge",
+      "raw_en": "ent-DefaultStationBeaconBridge = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconVault",
+      "raw_en": "ent-DefaultStationBeaconVault = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconGateway",
+      "raw_en": "ent-DefaultStationBeaconGateway = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconCaptainsQuarters",
+      "raw_en": "ent-DefaultStationBeaconCaptainsQuarters = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconHOPOffice",
+      "raw_en": "ent-DefaultStationBeaconHOPOffice = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconSecurity",
+      "raw_en": "ent-DefaultStationBeaconSecurity = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconBrig",
+      "raw_en": "ent-DefaultStationBeaconBrig = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconBrigMed",
+      "raw_en": "ent-DefaultStationBeaconBrigMed = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconWardensOffice",
+      "raw_en": "ent-DefaultStationBeaconWardensOffice = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconHOSRoom",
+      "raw_en": "ent-DefaultStationBeaconHOSRoom = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconArmory",
+      "raw_en": "ent-DefaultStationBeaconArmory = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconPermaBrig",
+      "raw_en": "ent-DefaultStationBeaconPermaBrig = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconDetectiveRoom",
+      "raw_en": "ent-DefaultStationBeaconDetectiveRoom = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconCourtroom",
+      "raw_en": "ent-DefaultStationBeaconCourtroom = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconLawOffice",
+      "raw_en": "ent-DefaultStationBeaconLawOffice = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconSecurityCheckpoint",
+      "raw_en": "ent-DefaultStationBeaconSecurityCheckpoint = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconSecurityGorlex",
+      "raw_en": "ent-DefaultStationBeaconSecurityGorlex = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconSecurityGorlexOffice",
+      "raw_en": "ent-DefaultStationBeaconSecurityGorlexOffice = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconSecurityGorlexBreak",
+      "raw_en": "ent-DefaultStationBeaconSecurityGorlexBreak = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconSecurityGorlexHos",
+      "raw_en": "ent-DefaultStationBeaconSecurityGorlexHos = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconSecurityCybersunLegal",
+      "raw_en": "ent-DefaultStationBeaconSecurityCybersunLegal = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconMedical",
+      "raw_en": "ent-DefaultStationBeaconMedical = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconMedbay",
+      "raw_en": "ent-DefaultStationBeaconMedbay = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconChemistry",
+      "raw_en": "ent-DefaultStationBeaconChemistry = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconCryonics",
+      "raw_en": "ent-DefaultStationBeaconCryonics = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconCMORoom",
+      "raw_en": "ent-DefaultStationBeaconCMORoom = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconMorgue",
+      "raw_en": "ent-DefaultStationBeaconMorgue = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconSurgery",
+      "raw_en": "ent-DefaultStationBeaconSurgery = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconPsychology",
+      "raw_en": "ent-DefaultStationBeaconPsychology = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconClinic",
+      "raw_en": "ent-DefaultStationBeaconClinic = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconParamedic",
+      "raw_en": "ent-DefaultStationBeaconParamedic = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconInterdyne",
+      "raw_en": "ent-DefaultStationBeaconInterdyne = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconInterdyneFront",
+      "raw_en": "ent-DefaultStationBeaconInterdyneFront = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconScience",
+      "raw_en": "ent-DefaultStationBeaconScience = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRND",
+      "raw_en": "ent-DefaultStationBeaconRND = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconServerRoom",
+      "raw_en": "ent-DefaultStationBeaconServerRoom = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRDRoom",
+      "raw_en": "ent-DefaultStationBeaconRDRoom = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0020_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "RMCContainerVerticalBottom",
+      "raw_en": "ent-RMCContainerVerticalBottom = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerVerticalMiddle",
+      "raw_en": "ent-RMCContainerVerticalMiddle = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerVerticalTop",
+      "raw_en": "ent-RMCContainerVerticalTop = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBaseWide",
+      "raw_en": "ent-RMCMachinePropBaseWide = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBaseOverheadFlipped",
+      "raw_en": "ent-RMCMachinePropBaseOverheadFlipped = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig1",
+      "raw_en": "ent-RMCMachinePropBig1 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig2",
+      "raw_en": "ent-RMCMachinePropBig2 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig3",
+      "raw_en": "ent-RMCMachinePropBig3 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig4",
+      "raw_en": "ent-RMCMachinePropBig4 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig5",
+      "raw_en": "ent-RMCMachinePropBig5 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig6",
+      "raw_en": "ent-RMCMachinePropBig6 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig7",
+      "raw_en": "ent-RMCMachinePropBig7 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig8",
+      "raw_en": "ent-RMCMachinePropBig8 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig9",
+      "raw_en": "ent-RMCMachinePropBig9 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig10",
+      "raw_en": "ent-RMCMachinePropBig10 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig11",
+      "raw_en": "ent-RMCMachinePropBig11 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig12",
+      "raw_en": "ent-RMCMachinePropBig12 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig13",
+      "raw_en": "ent-RMCMachinePropBig13 = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig11Flipped",
+      "raw_en": "ent-RMCMachinePropBig11Flipped = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig12Flipped",
+      "raw_en": "ent-RMCMachinePropBig12Flipped = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCMachinePropBig13Flipped",
+      "raw_en": "ent-RMCMachinePropBig13Flipped = machinery",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/hybrisa_machine_props.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/hybrisa_machine_props.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCTrijentSignAlt",
+      "raw_en": "ent-RMCTrijentSignAlt = Trijent landing sign\n    .desc = A large sign that reads 'Trijent mining colony', with half the sign written in Japanese.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Misc/landing_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Misc/landing_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCSorokyneSignAlt",
+      "raw_en": "ent-RMCSorokyneSignAlt = Sorokyne landing sign\n    .desc = A large sign that reads 'Sorokyne - СОРОКІНО - POP. 110' The Company logo is proudly emblazoned in the corner. Someone has crudely written 'FUCK OFF' in teal paint across the majority of the sign.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Misc/landing_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Misc/landing_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeon",
+      "raw_en": "ent-RMCOverheadSignNeon = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonArcade",
+      "raw_en": "ent-RMCOverheadSignNeonArcade = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonBar",
+      "raw_en": "ent-RMCOverheadSignNeonBar = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonCafe",
+      "raw_en": "ent-RMCOverheadSignNeonCafe = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonCafeAlt",
+      "raw_en": "ent-RMCOverheadSignNeonCafeAlt = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonCasino",
+      "raw_en": "ent-RMCOverheadSignNeonCasino = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonCoffee",
+      "raw_en": "ent-RMCOverheadSignNeonCoffee = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonHotel",
+      "raw_en": "ent-RMCOverheadSignNeonHotel = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonJacks",
+      "raw_en": "ent-RMCOverheadSignNeonJacks = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonMechanics",
+      "raw_en": "ent-RMCOverheadSignNeonMechanics = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonMisc",
+      "raw_en": "ent-RMCOverheadSignNeonMisc = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonMiscVert",
+      "raw_en": "ent-RMCOverheadSignNeonMiscVert = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonMiscVert2",
+      "raw_en": "ent-RMCOverheadSignNeonMiscVert2 = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonMiscVert3",
+      "raw_en": "ent-RMCOverheadSignNeonMiscVert3 = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonMiscVert4",
+      "raw_en": "ent-RMCOverheadSignNeonMiscVert4 = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonMiscVert5",
+      "raw_en": "ent-RMCOverheadSignNeonMiscVert5 = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonMiscVert6",
+      "raw_en": "ent-RMCOverheadSignNeonMiscVert6 = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonMiscVert7",
+      "raw_en": "ent-RMCOverheadSignNeonMiscVert7 = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonNightCasino",
+      "raw_en": "ent-RMCOverheadSignNeonNightCasino = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonOpen",
+      "raw_en": "ent-RMCOverheadSignNeonOpen = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonOpen2",
+      "raw_en": "ent-RMCOverheadSignNeonOpen2 = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonPharmacy",
+      "raw_en": "ent-RMCOverheadSignNeonPharmacy = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonPizza",
+      "raw_en": "ent-RMCOverheadSignNeonPizza = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonWeYaMart",
+      "raw_en": "ent-RMCOverheadSignNeonWeYaMart = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCOverheadSignNeonWeYaMartOffset",
+      "raw_en": "ent-RMCOverheadSignNeonWeYaMartOffset = sign",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/overhead_signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/overhead_signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMPlatformBaseDestructible",
+      "raw_en": "ent-CMPlatformBaseDestructible = platform\n    .desc = A square metal surface resting on four legs.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CMPlatformBroken",
+      "raw_en": "ent-CMPlatformBroken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    }
+  ]
+}

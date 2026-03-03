@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0013_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "northWallFlock",
+      "raw_en": "ent-northWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "middleFullWallFlock",
+      "raw_en": "ent-middleFullWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NECornerWallFlock",
+      "raw_en": "ent-NECornerWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NECornerAltWallFlock",
+      "raw_en": "ent-NECornerAltWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NECornerFullWallFlock",
+      "raw_en": "ent-NECornerFullWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NECornerFullAltWallFlock",
+      "raw_en": "ent-NECornerFullAltWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NWCornerWallFlock",
+      "raw_en": "ent-NWCornerWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NWCornerAltWallFlock",
+      "raw_en": "ent-NWCornerAltWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NWCornerFullWallFlock",
+      "raw_en": "ent-NWCornerFullWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NWCornerFullAltWallFlock",
+      "raw_en": "ent-NWCornerFullAltWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "rightWallFlock",
+      "raw_en": "ent-rightWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SECornerWallFlock",
+      "raw_en": "ent-SECornerWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SECornerAltWallFlock",
+      "raw_en": "ent-SECornerAltWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SECornerFullWallFlock",
+      "raw_en": "ent-SECornerFullWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SECornerFullAltWallFlock",
+      "raw_en": "ent-SECornerFullAltWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "southWallFlock",
+      "raw_en": "ent-southWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SWCornerWallFlock",
+      "raw_en": "ent-SWCornerWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SWCornerAltWallFlock",
+      "raw_en": "ent-SWCornerAltWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SWCornerFullWallFlock",
+      "raw_en": "ent-SWCornerFullWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SWCornerFullAltWallFlock",
+      "raw_en": "ent-SWCornerFullAltWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TCornerNEWallFlock",
+      "raw_en": "ent-TCornerNEWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TMiddleWallFlock",
+      "raw_en": "ent-TMiddleWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TNorthWallFlock",
+      "raw_en": "ent-TNorthWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TNorthFullWallFlock",
+      "raw_en": "ent-TNorthFullWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TRightWallFlock",
+      "raw_en": "ent-TRightWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TSouthWallFlock",
+      "raw_en": "ent-TSouthWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VMiddleWallFlock",
+      "raw_en": "ent-VMiddleWallFlock = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallFeatherZoneShuttle",
+      "raw_en": "ent-WallFeatherZoneShuttle = strange glass wall\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Flock/Structures/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TokenAncientRogueKingSpawn",
+      "raw_en": "ent-TokenAncientRogueKingSpawn = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/GameRules/Admeme/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/GameRules/Admeme/token.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostHastur",
+      "raw_en": "ent-SpawnPointGhostHastur = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Hastur/Gamerules/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Hastur/Gamerules/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHatHoodHereticVoid",
+      "raw_en": "ent-ClothingHeadHatHoodHereticVoid = ominous hood\n    .desc = A torn, dust-caked hood. Strange eyes line the inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Clothing/Head/hoods.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Clothing/Head/hoods.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHatHoodHereticAsh",
+      "raw_en": "ent-ClothingHeadHatHoodHereticAsh = ominous hood\n    .desc = A torn, dust-caked hood. Strange eyes line the inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Clothing/Head/hoods.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Clothing/Head/hoods.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHatHoodHereticFlesh",
+      "raw_en": "ent-ClothingHeadHatHoodHereticFlesh = ominous hood\n    .desc = A torn, dust-caked hood. Strange eyes line the inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Clothing/Head/hoods.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Clothing/Head/hoods.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHatHoodHereticBlade",
+      "raw_en": "ent-ClothingHeadHatHoodHereticBlade = ominous hood\n    .desc = A torn, dust-caked hood. Strange eyes line the inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Clothing/Head/hoods.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Clothing/Head/hoods.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHatHoodHereticCosmos",
+      "raw_en": "ent-ClothingHeadHatHoodHereticCosmos = ominous hood\n    .desc = A torn, dust-caked hood. Strange eyes line the inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Clothing/Head/hoods.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Clothing/Head/hoods.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterArmorHereticVoid",
+      "raw_en": "ent-ClothingOuterArmorHereticVoid = ominous armor\n    .desc = A ragged, dusty set of robes. Strange eyes line the inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Clothing/OuterClothing/armor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Clothing/OuterClothing/armor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterArmorHereticAsh",
+      "raw_en": "ent-ClothingOuterArmorHereticAsh = ominous armor\n    .desc = A ragged, dusty set of robes. Strange eyes line the inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Clothing/OuterClothing/armor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Clothing/OuterClothing/armor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterArmorHereticFlesh",
+      "raw_en": "ent-ClothingOuterArmorHereticFlesh = ominous armor\n    .desc = A ragged, dusty set of robes. Strange eyes line the inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Clothing/OuterClothing/armor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Clothing/OuterClothing/armor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterArmorHereticBlade",
+      "raw_en": "ent-ClothingOuterArmorHereticBlade = ominous armor\n    .desc = A ragged, dusty set of robes. Strange eyes line the inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Clothing/OuterClothing/armor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Clothing/OuterClothing/armor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterArmorHereticCosmos",
+      "raw_en": "ent-ClothingOuterArmorHereticCosmos = ominous armor\n    .desc = A ragged, dusty set of robes. Strange eyes line the inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Clothing/OuterClothing/armor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Clothing/OuterClothing/armor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HereticBladeBase",
+      "raw_en": "ent-HereticBladeBase = eldritch blade\n    .desc = A sickly green crescent blade, decorated with an ornamental eye. You feel like you're being watched...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Objects/Weapons/Melee/heretic_blades.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Objects/Weapons/Melee/heretic_blades.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TouchSpellMansusRust",
+      "raw_en": "ent-TouchSpellMansusRust = mansus grasp\n    .desc = The power of the Old Gods, channeled through your grip.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Objects/Weapons/Touchspell/mansus_grasp.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Objects/Weapons/Touchspell/mansus_grasp.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HereticRuneRitualDrawAnimationCicatrix",
+      "raw_en": "ent-HereticRuneRitualDrawAnimationCicatrix = unfinished transmutation rune\n    .desc = An unfinished ancient drawing used by sinister individuals for sacrifices.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Structures/Specific/Heretic/ritual_rune.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Heretic/Entities/Structures/Specific/Heretic/ritual_rune.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ServiceDocument",
+      "raw_en": "ent-ServiceDocument = Corporate Document\n    .desc = An official NanoTrasen document. Looks like a ton of spam, as always.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/docs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/NTR/docs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SecurityDocument",
+      "raw_en": "ent-SecurityDocument = Corporate Document\n    .desc = An official NanoTrasen document. Looks like a ton of spam, as always.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/docs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/NTR/docs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CargoDocument",
+      "raw_en": "ent-CargoDocument = Corporate Document\n    .desc = An official NanoTrasen document. Looks like a ton of spam, as always.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/docs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/NTR/docs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedicalDocument",
+      "raw_en": "ent-MedicalDocument = Corporate Document\n    .desc = An official NanoTrasen document. Looks like a ton of spam, as always.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/docs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/NTR/docs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EngineeringDocument",
+      "raw_en": "ent-EngineeringDocument = Corporate Document\n    .desc = An official NanoTrasen document. Looks like a ton of spam, as always.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/docs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/NTR/docs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ScienceDocument",
+      "raw_en": "ent-ScienceDocument = Corporate Document\n    .desc = An official NanoTrasen document. Looks like a ton of spam, as always.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/docs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/NTR/docs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ExecutiveBriefcaseDebug",
+      "raw_en": "ent-ExecutiveBriefcaseDebug = Executive briefcase\n    .desc = A standard-issue executive briefcase for secure NanoNeT access.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/Store/executive_briefcase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/NTR/Store/executive_briefcase.ftl",
+      "file_exists": false
+    }
+  ]
+}

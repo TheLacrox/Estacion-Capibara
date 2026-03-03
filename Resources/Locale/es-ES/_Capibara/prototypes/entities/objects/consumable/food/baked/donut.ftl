@@ -1,8 +1,11 @@
 ent-FoodDonutPlain = donut sin relleno
+    .desc = Va genial con un café robusto.
 
 ent-FoodDonutJellyPlain = donut de mermelada sin relleno
+    .desc = Va genial con un café robusto.
 
 ent-FoodDonutHomer = donut
+    .desc = Va genial con un café robusto.
 
 ent-FoodDonutChaos = donut del caos
     .desc = Como la vida, nunca sabe exactamente igual.

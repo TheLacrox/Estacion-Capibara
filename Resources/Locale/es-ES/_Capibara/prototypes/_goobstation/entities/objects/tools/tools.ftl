@@ -8,8 +8,10 @@ ent-HandheldFax = fax portátil
     .desc = Una herramienta que puede enviar montones de papeles al fax de Centcomm.
 
 ent-HandheldFaxNanorep = fax portátil del representante de Nanotrasen
+    .desc = Una herramienta que puede enviar montones de papeles al fax de Centcomm.
 
 ent-HandheldFaxOfficial = fax portátil oficial de CentComm
+    .desc = Una herramienta que puede enviar montones de papeles al fax de Centcomm.
 
 ent-MultitoolBorg = multitool ciborg
     .desc = Una herramienta avanzada para copiar, almacenar y enviar pulsos y señales eléctricas a través de cables y máquinas.

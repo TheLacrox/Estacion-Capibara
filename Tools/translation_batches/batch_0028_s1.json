@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0028_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "LockerAtmosphericsFilled",
+      "raw_en": "ent-LockerAtmosphericsFilled = atmospheric technician's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/engineer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/engineer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerEngineerFilledHardsuit",
+      "raw_en": "ent-LockerEngineerFilledHardsuit = engineer's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/engineer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/engineer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerEngineerFilled",
+      "raw_en": "ent-LockerEngineerFilled = engineer's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/engineer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/engineer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetRadiationSuitFilled",
+      "raw_en": "ent-ClosetRadiationSuitFilled = radiation suit closet\n    .desc = More comfortable than radiation poisioning.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/engineer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/engineer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerEvacRepairFilled",
+      "raw_en": "ent-LockerEvacRepairFilled = emergency shuttle emergency locker\n    .desc = It's emergencies all the way down.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/engineer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/engineer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWallEvacRepairFilled",
+      "raw_en": "ent-LockerWallEvacRepairFilled = emergency shuttle emergency wall locker\n    .desc = It's emergencies all the way down.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/engineer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/engineer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerQuarterMasterFilled",
+      "raw_en": "ent-LockerQuarterMasterFilled = quartermaster's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerCaptainFilledNoLaser",
+      "raw_en": "ent-LockerCaptainFilledNoLaser = captain's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerCaptainFilled",
+      "raw_en": "ent-LockerCaptainFilled = captain's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerCaptainFilledHardsuit",
+      "raw_en": "ent-LockerCaptainFilledHardsuit = captain's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerHeadOfPersonnelFilled",
+      "raw_en": "ent-LockerHeadOfPersonnelFilled = head of personnel's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerChiefEngineerFilled",
+      "raw_en": "ent-LockerChiefEngineerFilled = chief engineer's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerChiefEngineerFilledHardsuit",
+      "raw_en": "ent-LockerChiefEngineerFilledHardsuit = chief engineer's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerChiefMedicalOfficerFilled",
+      "raw_en": "ent-LockerChiefMedicalOfficerFilled = chief medical officer's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerChiefMedicalOfficerFilledHardsuit",
+      "raw_en": "ent-LockerChiefMedicalOfficerFilledHardsuit = chief medical officer's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerResearchDirectorFilled",
+      "raw_en": "ent-LockerResearchDirectorFilled = research director's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerResearchDirectorFilledHardsuit",
+      "raw_en": "ent-LockerResearchDirectorFilledHardsuit = research director's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerHeadOfSecurityFilled",
+      "raw_en": "ent-LockerHeadOfSecurityFilled = head of security's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerHeadOfSecurityFilledHardsuit",
+      "raw_en": "ent-LockerHeadOfSecurityFilledHardsuit = head of security's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerFreezerVaultFilled",
+      "raw_en": "ent-LockerFreezerVaultFilled = freezer\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/heads.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/heads.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerMedicineFilled",
+      "raw_en": "ent-LockerMedicineFilled = medicine locker\n    .desc = Filled to the brim with medical junk.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/medical.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/medical.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerMedicalFilled",
+      "raw_en": "ent-LockerMedicalFilled = medical doctor's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/medical.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/medical.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerChemistryFilled",
+      "raw_en": "ent-LockerChemistryFilled = chemical locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/medical.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/medical.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerParamedicFilled",
+      "raw_en": "ent-LockerParamedicFilled = paramedic's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/medical.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/medical.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerSyndicatePersonalFilled",
+      "raw_en": "ent-LockerSyndicatePersonalFilled = armory closet\n    .desc = It's a personal storage unit for operative gear.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetEmergencyFilledRandom",
+      "raw_en": "ent-ClosetEmergencyFilledRandom = emergency closet\n    .desc = It's a storage unit for emergency breath masks and O2 tanks.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallEmergencyFilledRandom",
+      "raw_en": "ent-ClosetWallEmergencyFilledRandom = emergency wall closet\n    .desc = It's a storage unit for emergency breath masks and O2 tanks.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetEmergencyN2FilledRandom",
+      "raw_en": "ent-ClosetEmergencyN2FilledRandom = emergency nitrogen closet\n    .desc = It's full of life-saving equipment. Assuming, that is, that you breathe nitrogen.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallEmergencyN2FilledRandom",
+      "raw_en": "ent-ClosetWallEmergencyN2FilledRandom = emergency nitrogen wall closet\n    .desc = It's full of life-saving equipment. Assuming, that is, that you breathe nitrogen.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetFireFilled",
+      "raw_en": "ent-ClosetFireFilled = fire-safety closet\n    .desc = It's a storage unit for fire-fighting supplies.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallFireFilledRandom",
+      "raw_en": "ent-ClosetWallFireFilledRandom = fire-safety wall closet\n    .desc = It's a storage unit for fire-fighting supplies.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetMaintenanceFilledRandom",
+      "raw_en": "ent-ClosetMaintenanceFilledRandom = maintenance closet\n    .desc = It's a storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallMaintenanceFilledRandom",
+      "raw_en": "ent-ClosetWallMaintenanceFilledRandom = maintenance wall closet\n    .desc = It's a storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerScienceFilled",
+      "raw_en": "ent-LockerScienceFilled = scientist's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/science.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/science.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWardenFilledHardsuit",
+      "raw_en": "ent-LockerWardenFilledHardsuit = warden's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWardenFilled",
+      "raw_en": "ent-LockerWardenFilled = warden's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerSecurityFilled",
+      "raw_en": "ent-LockerSecurityFilled = security officer's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerBrigmedicFilled",
+      "raw_en": "ent-LockerBrigmedicFilled = brigmedic locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerDetectiveFilled",
+      "raw_en": "ent-LockerDetectiveFilled = detective's cabinet\n    .desc = Usually cold and empty... like your heart.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetBombFilled",
+      "raw_en": "ent-ClosetBombFilled = EOD closet\n    .desc = It's a storage unit for explosion-protective suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/security.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/security.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerBoozeFilled",
+      "raw_en": "ent-LockerBoozeFilled = booze storage\n    .desc = This is where the bartender keeps the booze.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/service.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetChefFilled",
+      "raw_en": "ent-ClosetChefFilled = chef's closet\n    .desc = It's a storage unit for foodservice garments and mouse traps.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/service.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetJanitorFilled",
+      "raw_en": "ent-ClosetJanitorFilled = custodial closet\n    .desc = It's a storage unit for janitorial clothes and gear.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/service.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetLegalFilled",
+      "raw_en": "ent-ClosetLegalFilled = legal closet\n    .desc = It's a storage unit for courtroom apparel and items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/service.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerBotanistFilled",
+      "raw_en": "ent-LockerBotanistFilled = botanist's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/service.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerBotanistLoot",
+      "raw_en": "ent-LockerBotanistLoot = botanist's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/service.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetJanitorBombFilled",
+      "raw_en": "ent-ClosetJanitorBombFilled = janitorial bomb suit closet\n    .desc = It's a storage unit for janitorial explosion-protective suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/service.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerSyndicateShipGearBasic",
+      "raw_en": "ent-LockerSyndicateShipGearBasic = armory closet\n    .desc = It's a storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/space_ruin.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/space_ruin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerSyndicateShipGearBasicChameleonKit",
+      "raw_en": "ent-LockerSyndicateShipGearBasicChameleonKit = armory closet\n    .desc = It's a storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/space_ruin.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/space_ruin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageEVA",
+      "raw_en": "ent-SuitStorageEVA = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    }
+  ]
+}

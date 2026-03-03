@@ -17,6 +17,7 @@ ent-ClothingOuterCoatRDPurple = bata de laboratorio experimental del director de
     .desc = Tejida con tecnología experimental... esta bata de laboratorio no parece más protectora que la habitual. Al menos luce bien.
 
 ent-ClothingOuterCoatRDPurpleOpened = bata de laboratorio experimental del director de investigación
+    .desc = Tejida con tecnología de vanguardia, esta bata de laboratorio ayuda a proteger contra la radiación de manera similar al traje duro experimental.
 
 ent-ClothingOuterCoatHoPLong = abrigo largo del jefe de personal
     .desc = Un elegante abrigo largo para el Jefe de Personal.

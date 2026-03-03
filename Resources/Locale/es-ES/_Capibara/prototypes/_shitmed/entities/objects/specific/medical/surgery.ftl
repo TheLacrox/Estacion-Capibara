@@ -26,3 +26,4 @@ ent-OmnimedToolSyndie = omnitool quirúrgico Gorlex
     .desc = Un omnitool quirúrgico compacto convenientemente empaquetado como una navaja suiza, excepto que su usuario probablemente ha violado un par de convenciones suizas. Puede realizar cirugía a través de la ropa.
 
 ent-OmnimedToolDebug = omnitool quirúrgico experimental
+    .desc = Un omnitool quirúrgico compacto convenientemente empaquetado como una navaja suiza, excepto que su usuario probablemente ha violado un par de convenciones suizas. Puede realizar cirugía a través de la ropa.

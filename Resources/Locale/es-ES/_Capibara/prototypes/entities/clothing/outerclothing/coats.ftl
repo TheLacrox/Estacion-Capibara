@@ -23,41 +23,49 @@ ent-ClothingOuterCoatLab = bata de laboratorio
     .desc = Un traje que protege contra pequeños derrames de productos químicos.
 
 ent-ClothingOuterCoatLabOpened = bata de laboratorio
+    .desc = Un traje que protege contra pequeños derrames de productos químicos.
 
 ent-ClothingOuterCoatLabChem = bata de laboratorio del químico
     .desc = Un traje que protege contra pequeños derrames de productos químicos. Tiene una franja naranja en el hombro.
 
 ent-ClothingOuterCoatLabChemOpened = bata de laboratorio del químico
+    .desc = Un traje que protege contra pequeños derrames de productos químicos. Tiene una franja naranja en el hombro.
 
 ent-ClothingOuterCoatLabViro = bata de laboratorio del virólogo
     .desc = Un traje que protege contra bacterias y virus. Tiene una franja verde en el hombro.
 
 ent-ClothingOuterCoatLabViroOpened = bata de laboratorio del virólogo
+    .desc = Un traje que protege contra bacterias y virus. Tiene una franja verde en el hombro.
 
 ent-ClothingOuterCoatLabGene = bata de laboratorio del genetista
     .desc = Un traje que protege contra pequeños derrames de productos químicos. Tiene una franja azul en el hombro.
 
 ent-ClothingOuterCoatLabGeneOpened = bata de laboratorio del genetista
+    .desc = Un traje que protege contra pequeños derrames de productos químicos. Tiene una franja azul en el hombro.
 
 ent-ClothingOuterCoatLabCmo = bata de laboratorio del jefe médico
     .desc = Bata de laboratorio azul hecha a medida para el Jefe Médico, ofrece protección mejorada contra derrames de productos químicos y cortes menores.
 
 ent-ClothingOuterCoatLabCmoOpened = bata de laboratorio del jefe médico
+    .desc = Bata de laboratorio azul hecha a medida para el Jefe Médico, ofrece protección mejorada contra derrames de productos químicos y cortes menores.
 
 ent-ClothingOuterCoatRnd = bata de laboratorio del científico
     .desc = Un traje que protege contra pequeños derrames de productos químicos. Tiene una franja morada en el hombro.
 
 ent-ClothingOuterCoatRndOpened = bata de laboratorio del científico
+    .desc = Un traje que protege contra pequeños derrames de productos químicos. Tiene una franja morada en el hombro.
 
 ent-ClothingOuterCoatRobo = bata de laboratorio del roboticista
     .desc = Más una bata excéntrica que de laboratorio. Ayuda a disimular las manchas de sangre como parte de la estética. Viene con hombreras rojas.
 
 ent-ClothingOuterCoatRoboOpened = bata de laboratorio del roboticista
+    .desc = Más una bata excéntrica que de laboratorio. Ayuda a disimular las manchas de sangre como parte de la estética. Viene con hombreras rojas.
 
 ent-ClothingOuterCoatRD = bata de laboratorio del director de investigación
     .desc = Tejida con tecnología de primera línea, esta bata ayuda a proteger contra la radiación de manera similar al traje duro experimental.
 
 ent-ClothingOuterCoatRDOpened = bata de laboratorio del director de investigación
+    .desc = Tejida con tecnología de primera línea, esta bata ayuda a proteger contra la radiación de manera similar al traje duro experimental.
 
 ent-ClothingOuterCoatPirate = atuendo pirata
     .desc = Yarr.
@@ -90,11 +98,13 @@ ent-ClothingOuterCoatLabSeniorResearcher = bata de investigador senior
     .desc = Un traje que protege contra pequeños derrames de productos químicos. Tiene cuello morado y puños del mismo color.
 
 ent-ClothingOuterCoatLabSeniorResearcherOpened = bata de investigador senior
+    .desc = Un traje que protege contra pequeños derrames de productos químicos. Tiene cuello morado y puños del mismo color.
 
 ent-ClothingOuterCoatLabSeniorPhysician = bata de médico senior
     .desc = Un traje que protege contra pequeños derrames de productos químicos. Tiene mangas azul claro y ribete naranja en la cintura.
 
 ent-ClothingOuterCoatLabSeniorPhysicianOpened = bata de médico senior
+    .desc = Un traje que protege contra pequeños derrames de productos químicos. Tiene mangas azul claro y ribete naranja en la cintura.
 
 ent-ClothingOuterCoatSpaceAsshole = el abrigo del capullo espacial
     .desc = Y allí estaba...
@@ -103,3 +113,4 @@ ent-ClothingOuterCoatExpensive = abrigo caro
     .desc = Abrigo rosa muy esponjoso, hecho de piel muy cara (evidentemente).
 
 ent-ClothingOuterCoatExpensiveOpened = abrigo caro
+    .desc = Abrigo rosa muy esponjoso, hecho de piel muy cara (evidentemente).

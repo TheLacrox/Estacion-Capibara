@@ -23,16 +23,22 @@ ent-ClothingShoesBootsLaceup = zapatos con cordones
     .desc = La cima de la moda, ¡y vienen pre-lustrados!
 
 ent-ClothingShoesBootsWinter = botas de invierno
+    .desc = Botas mullidas para sobrevivir incluso los inviernos más fríos.
 
 ent-ClothingShoesBootsWinterCargo = botas de invierno de carga
+    .desc = Botas mullidas para sobrevivir incluso los inviernos más fríos.
 
 ent-ClothingShoesBootsWinterEngi = botas de invierno de ingeniería
+    .desc = Botas mullidas para sobrevivir incluso los inviernos más fríos.
 
 ent-ClothingShoesBootsWinterMed = botas de invierno médicas
+    .desc = Botas mullidas para sobrevivir incluso los inviernos más fríos.
 
 ent-ClothingShoesBootsWinterSci = botas de invierno de ciencias
+    .desc = Botas mullidas para sobrevivir incluso los inviernos más fríos.
 
 ent-ClothingShoesBootsWinterSec = botas de invierno de seguridad
+    .desc = Botas mullidas para sobrevivir incluso los inviernos más fríos.
 
 ent-ClothingShoesBootsWinterSyndicate = botas de invierno del Syndicate
     .desc = Botas pesadas y duraderas, parecen merchandising de "Syndieland".
@@ -44,7 +50,10 @@ ent-ClothingShoesBootsCowboyBrown = botas de vaquero marrones
     .desc = Tienen espuelas que tintinean.
 
 ent-ClothingShoesBootsCowboyBlack = botas de vaquero negras
+    .desc = Tienen espuelas que tintinean.
 
 ent-ClothingShoesBootsCowboyWhite = botas de vaquero blancas
+    .desc = Tienen espuelas que tintinean.
 
 ent-ClothingShoesBootsCowboyFancy = botas de vaquero elegantes
+    .desc = Tienen espuelas que tintinean.

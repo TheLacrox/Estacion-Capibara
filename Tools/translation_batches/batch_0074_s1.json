@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0074_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "XenoArtifactPhasing",
+      "raw_en": "ent-XenoArtifactPhasing = one-time-effect\n    .desc = Becomes phased",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactWandering",
+      "raw_en": "ent-XenoArtifactWandering = one-time-effect\n    .desc = Starts to move sporadically",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactSolutionStorage",
+      "raw_en": "ent-XenoArtifactSolutionStorage = one-time-effect\n    .desc = Obtains ability of container for chemical solutions",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactSpeedUp",
+      "raw_en": "ent-XenoArtifactSpeedUp = one-time-effect\n    .desc = Improves holder movement speed",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactDrill",
+      "raw_en": "ent-XenoArtifactDrill = one-time-effect\n    .desc = Obtains ability of drill",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactGenerateEnergy",
+      "raw_en": "ent-XenoArtifactGenerateEnergy = one-time-effect\n    .desc = Produces power",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactGun",
+      "raw_en": "ent-XenoArtifactGun = one-time-effect\n    .desc = Obtains ability of firearm",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactGhost",
+      "raw_en": "ent-XenoArtifactGhost = one-time-effect\n    .desc = Becomes sentient",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactOmnitool",
+      "raw_en": "ent-XenoArtifactOmnitool = one-time-effect\n    .desc = Obtains ability of omnitool",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEffectBadFeeling",
+      "raw_en": "ent-XenoArtifactEffectBadFeeling = effect\n    .desc = Broadcasts sublime message",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEffectGoodFeeling",
+      "raw_en": "ent-XenoArtifactEffectGoodFeeling = effect\n    .desc = Broadcasts sublime message",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEffectJunkSpawn",
+      "raw_en": "ent-XenoArtifactEffectJunkSpawn = effect\n    .desc = Create recyclable junk",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEffectLightFlicker",
+      "raw_en": "ent-XenoArtifactEffectLightFlicker = effect\n    .desc = Minor electromagnetic interference",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactPotassiumWave",
+      "raw_en": "ent-XenoArtifactPotassiumWave = effect\n    .desc = Produces potassium",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactFloraSpawn",
+      "raw_en": "ent-XenoArtifactFloraSpawn = effect\n    .desc = Produces flora",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactChemicalPuddle",
+      "raw_en": "ent-XenoArtifactChemicalPuddle = effect\n    .desc = Produces puddle of chemical mixture",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactThrowThingsAround",
+      "raw_en": "ent-XenoArtifactThrowThingsAround = effect\n    .desc = Minor implosion",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactColdWave",
+      "raw_en": "ent-XenoArtifactColdWave = effect\n    .desc = Cools down surrounding gas",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactHeatWave",
+      "raw_en": "ent-XenoArtifactHeatWave = effect\n    .desc = Heats up surrounding gas greatly",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactFoamMild",
+      "raw_en": "ent-XenoArtifactFoamMild = effect\n    .desc = Produces chemical foam",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactRandomInstrumentSpawn",
+      "raw_en": "ent-XenoArtifactRandomInstrumentSpawn = effect\n    .desc = Creates musical instrument",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactMonkeySpawn",
+      "raw_en": "ent-XenoArtifactMonkeySpawn = effect\n    .desc = Creates primate",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactRadioactive",
+      "raw_en": "ent-XenoArtifactRadioactive = one-time-effect\n    .desc = Becomes mildly radioactive",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactChargeBattery",
+      "raw_en": "ent-XenoArtifactChargeBattery = effect\n    .desc = Charges up batteries",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactKnock",
+      "raw_en": "ent-XenoArtifactKnock = effect\n    .desc = Mild electromagnetic interference",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactMagnet",
+      "raw_en": "ent-XenoArtifactMagnet = one-time-effect\n    .desc = Create small gravity well",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactMagnetNegative",
+      "raw_en": "ent-XenoArtifactMagnetNegative = one-time-effect\n    .desc = Create small gravity well",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactStealth",
+      "raw_en": "ent-XenoArtifactStealth = one-time-effect\n    .desc = Create light interference",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactRareMaterialSpawn",
+      "raw_en": "ent-XenoArtifactRareMaterialSpawn = effect\n    .desc = Create rare materials",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactRareMaterialSpawnSilver",
+      "raw_en": "ent-XenoArtifactRareMaterialSpawnSilver = effect\n    .desc = Create rare materials",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactRareMaterialSpawnPlasma",
+      "raw_en": "ent-XenoArtifactRareMaterialSpawnPlasma = effect\n    .desc = Create plasma",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactRareMaterialSpawnGold",
+      "raw_en": "ent-XenoArtifactRareMaterialSpawnGold = effect\n    .desc = Create gold",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactRareMaterialSpawnUranium",
+      "raw_en": "ent-XenoArtifactRareMaterialSpawnUranium = effect\n    .desc = Create uranium",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactAngryCarpSpawn",
+      "raw_en": "ent-XenoArtifactAngryCarpSpawn = effect\n    .desc = Create hostile fish",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactFaunaSpawn",
+      "raw_en": "ent-XenoArtifactFaunaSpawn = effect\n    .desc = Create friendly fauna",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactCashSpawn",
+      "raw_en": "ent-XenoArtifactCashSpawn = effect\n    .desc = Create money",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactShatterWindows",
+      "raw_en": "ent-XenoArtifactShatterWindows = effect\n    .desc = Break windows",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactFoamGood",
+      "raw_en": "ent-XenoArtifactFoamGood = effect\n    .desc = Creates wave of helpful foam",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactFoamDangerous",
+      "raw_en": "ent-XenoArtifactFoamDangerous = effect\n    .desc = Creates wave of harmful foam",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactPuddleRare",
+      "raw_en": "ent-XenoArtifactPuddleRare = effect\n    .desc = Creates puddle of helpful chemicals",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactAnomalySpawn",
+      "raw_en": "ent-XenoArtifactAnomalySpawn = one-time-effect\n    .desc = Creates anomaly",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactIgnite",
+      "raw_en": "ent-XenoArtifactIgnite = effect\n    .desc = Pyrokinesis",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactTeleport",
+      "raw_en": "ent-XenoArtifactTeleport = effect\n    .desc = Teleportation",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEmp",
+      "raw_en": "ent-XenoArtifactEmp = effect\n    .desc = Dangerous electromagnetic interference",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactPolyMonkey",
+      "raw_en": "ent-XenoArtifactPolyMonkey = effect\n    .desc = Temporarily reshape flesh to fur",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactPolyLizard",
+      "raw_en": "ent-XenoArtifactPolyLizard = effect\n    .desc = Temporarily reshape flesh to scale",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactPolyLuminous",
+      "raw_en": "ent-XenoArtifactPolyLuminous = effect\n    .desc = Temporarily reshape flesh to light",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactRadioactiveStrong",
+      "raw_en": "ent-XenoArtifactRadioactiveStrong = one-time-effect\n    .desc = Becomes highly radioactive",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactMaterialSpawnGlass",
+      "raw_en": "ent-XenoArtifactMaterialSpawnGlass = effect\n    .desc = Create glass",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactMaterialSpawnSteel",
+      "raw_en": "ent-XenoArtifactMaterialSpawnSteel = effect\n    .desc = Create steel",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    }
+  ]
+}

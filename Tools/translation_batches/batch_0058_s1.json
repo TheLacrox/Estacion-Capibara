@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0058_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "PottedPlant5",
+      "raw_en": "ent-PottedPlant5 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant6",
+      "raw_en": "ent-PottedPlant6 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant7",
+      "raw_en": "ent-PottedPlant7 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant8",
+      "raw_en": "ent-PottedPlant8 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant10",
+      "raw_en": "ent-PottedPlant10 = potted plant\n    .desc = A pretty piece of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant11",
+      "raw_en": "ent-PottedPlant11 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant12",
+      "raw_en": "ent-PottedPlant12 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant13",
+      "raw_en": "ent-PottedPlant13 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant14",
+      "raw_en": "ent-PottedPlant14 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant15",
+      "raw_en": "ent-PottedPlant15 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant16",
+      "raw_en": "ent-PottedPlant16 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant17",
+      "raw_en": "ent-PottedPlant17 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant18",
+      "raw_en": "ent-PottedPlant18 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant19",
+      "raw_en": "ent-PottedPlant19 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant20",
+      "raw_en": "ent-PottedPlant20 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant21",
+      "raw_en": "ent-PottedPlant21 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant22",
+      "raw_en": "ent-PottedPlant22 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant23",
+      "raw_en": "ent-PottedPlant23 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant24",
+      "raw_en": "ent-PottedPlant24 = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant26",
+      "raw_en": "ent-PottedPlant26 = potted plant\n    .desc = Is it just me, or is it blinking?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant28",
+      "raw_en": "ent-PottedPlant28 = plastic potted plant\n    .desc = A fake, cheap looking, plastic tree. Perfect for people who kill every plant they touch.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant29",
+      "raw_en": "ent-PottedPlant29 = plastic potted plant\n    .desc = A fake, cheap looking, plastic tree. Perfect for people who kill every plant they touch.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PottedPlant30",
+      "raw_en": "ent-PottedPlant30 = plastic potted plant\n    .desc = A fake, cheap looking, plastic tree. Perfect for people who kill every plant they touch.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/potted_plants.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/potted_plants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RollerBedSpawnFolded",
+      "raw_en": "ent-RollerBedSpawnFolded = rollerbed\n    .desc = Used to carry patients around without damaging them.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/rollerbeds.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/rollerbeds.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CheapRollerBedSpawnFolded",
+      "raw_en": "ent-CheapRollerBedSpawnFolded = rollerbed\n    .desc = A run-down rollerbed. Used to carry patients around.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/rollerbeds.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/rollerbeds.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EmergencyRollerBedSpawnFolded",
+      "raw_en": "ent-EmergencyRollerBedSpawnFolded = rollerbed\n    .desc = A robust looking rollerbed used for emergencies.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/rollerbeds.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/rollerbeds.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TableFancyBlue",
+      "raw_en": "ent-TableFancyBlue = fancy table\n    .desc = Expensive and rich.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/Tables/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/Tables/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TableFancyCyan",
+      "raw_en": "ent-TableFancyCyan = fancy table\n    .desc = Expensive and rich.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/Tables/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/Tables/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TableFancyBlack",
+      "raw_en": "ent-TableFancyBlack = fancy table\n    .desc = Expensive and rich.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/Tables/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/Tables/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TableFancyRed",
+      "raw_en": "ent-TableFancyRed = fancy table\n    .desc = Expensive and rich.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/Tables/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/Tables/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TableFancyPurple",
+      "raw_en": "ent-TableFancyPurple = fancy table\n    .desc = Expensive and rich.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/Tables/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/Tables/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TableFancyPink",
+      "raw_en": "ent-TableFancyPink = fancy table\n    .desc = Expensive and rich.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/Tables/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/Tables/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TableFancyGreen",
+      "raw_en": "ent-TableFancyGreen = fancy table\n    .desc = Expensive and rich.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/Tables/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/Tables/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TableFancyOrange",
+      "raw_en": "ent-TableFancyOrange = fancy table\n    .desc = Expensive and rich.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/Tables/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/Tables/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TableFancyWhite",
+      "raw_en": "ent-TableFancyWhite = fancy table\n    .desc = Expensive and rich.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/Tables/tables.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/Tables/tables.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ToiletDirtyWater",
+      "raw_en": "ent-ToiletDirtyWater = toilet\n    .desc = The HT-451, a torque rotation-based, waste disposal unit for small matter. This one seems remarkably clean.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/toilet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/toilet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ToiletGoldenDirtyWater",
+      "raw_en": "ent-ToiletGoldenDirtyWater = golden toilet\n    .desc = The HT-451G is the gold version of the device. It says on the side that it is made of the purest Mercurian gold and a real leather seat.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Furniture/toilet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Furniture/toilet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseLogicItem",
+      "raw_en": "ent-BaseLogicItem = empty circuit\n    .desc = Something seems to be missing.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/gates.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/gates.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LogicGateAnd",
+      "raw_en": "ent-LogicGateAnd = logic gate\n    .desc = A logic gate with two inputs and one output. Technicians can change its mode of operation using a screwdriver.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/gates.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/gates.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LogicGateXor",
+      "raw_en": "ent-LogicGateXor = logic gate\n    .desc = A logic gate with two inputs and one output. Technicians can change its mode of operation using a screwdriver.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/gates.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/gates.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LogicGateNor",
+      "raw_en": "ent-LogicGateNor = logic gate\n    .desc = A logic gate with two inputs and one output. Technicians can change its mode of operation using a screwdriver.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/gates.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/gates.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LogicGateNand",
+      "raw_en": "ent-LogicGateNand = logic gate\n    .desc = A logic gate with two inputs and one output. Technicians can change its mode of operation using a screwdriver.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/gates.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/gates.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LogicGateXnor",
+      "raw_en": "ent-LogicGateXnor = logic gate\n    .desc = A logic gate with two inputs and one output. Technicians can change its mode of operation using a screwdriver.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/gates.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/gates.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HydroponicsTrayEmpty",
+      "raw_en": "ent-HydroponicsTrayEmpty = hydroponics tray\n    .desc = An interstellar-grade space farmplot allowing for rapid growth and selective breeding of crops. Just... keep in mind the space weeds.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/hydro_tray.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/hydro_tray.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Poweredlight",
+      "raw_en": "ent-Poweredlight = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightLED",
+      "raw_en": "ent-PoweredlightLED = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredLightLED",
+      "raw_en": "ent-AlwaysPoweredLightLED = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightExterior",
+      "raw_en": "ent-PoweredlightExterior = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AlwaysPoweredLightExterior",
+      "raw_en": "ent-AlwaysPoweredLightExterior = light\n    .desc = An always powered light.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PoweredlightSodium",
+      "raw_en": "ent-PoweredlightSodium = light\n    .desc = A light fixture. Draws power and produces light when equipped with a light tube.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Lighting/base_lighting.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Lighting/base_lighting.ftl",
+      "file_exists": false
+    }
+  ]
+}

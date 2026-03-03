@@ -1,0 +1,111 @@
+{
+  "batch_id": "batch_0075_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "XenoArtifactMaterialSpawnPlastic",
+      "raw_en": "ent-XenoArtifactMaterialSpawnPlastic = effect\n    .desc = Create plastic",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactPortal",
+      "raw_en": "ent-XenoArtifactPortal = effect\n    .desc = Create short-living bluespace portal",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactArtifactSpawn",
+      "raw_en": "ent-XenoArtifactArtifactSpawn = effect\n    .desc = Create artifact",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactShuffle",
+      "raw_en": "ent-XenoArtifactShuffle = effect\n    .desc = Switch places of sentient beings",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactHealAll",
+      "raw_en": "ent-XenoArtifactHealAll = effect\n    .desc = Miraclous healing",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactTesla",
+      "raw_en": "ent-XenoArtifactTesla = one-time-effect\n    .desc = Mass destruction",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactSingularity",
+      "raw_en": "ent-XenoArtifactSingularity = one-time-effect\n    .desc = Imminent doom",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactExplosionScary",
+      "raw_en": "ent-XenoArtifactExplosionScary = one-time-effect\n    .desc = Small scale high-speed nuclear reaction",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactBoom",
+      "raw_en": "ent-XenoArtifactBoom = one-time-effect\n    .desc = Explosion",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEffectCreationGasPlasma",
+      "raw_en": "ent-XenoArtifactEffectCreationGasPlasma = effect\n    .desc = Expels plasma",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEffectCreationGasTritium",
+      "raw_en": "ent-XenoArtifactEffectCreationGasTritium = effect\n    .desc = Expels tritium",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEffectCreationGasAmmonia",
+      "raw_en": "ent-XenoArtifactEffectCreationGasAmmonia = effect\n    .desc = Expels ammonia",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEffectCreationGasFrezon",
+      "raw_en": "ent-XenoArtifactEffectCreationGasFrezon = effect\n    .desc = Expels frezon",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEffectCreationGasNitrousOxide",
+      "raw_en": "ent-XenoArtifactEffectCreationGasNitrousOxide = effect\n    .desc = Expels nitrous oxide",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoArtifactEffectCreationGasCarbonDioxide",
+      "raw_en": "ent-XenoArtifactEffectCreationGasCarbonDioxide = effect\n    .desc = Expels carbon dioxide",
+      "source_yaml": "Resources/Prototypes/XenoArch/effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/XenoArch/effects.ftl",
+      "file_exists": false
+    }
+  ]
+}

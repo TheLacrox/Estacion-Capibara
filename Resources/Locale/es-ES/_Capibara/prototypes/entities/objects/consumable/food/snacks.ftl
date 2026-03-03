@@ -71,34 +71,49 @@ ent-FoodSnackSwirlLollipop = piruleta de espiral
     .desc = Un círculo de azúcar puro concentrado. ¿Quién es el niño más grande del parque ahora?
 
 ent-FoodPacketBoritosTrash = bolsa de boritos
+    .desc = Esto es basura.
 
 ent-FoodPacketCnDsTrash = bolsa de C&Ds
+    .desc = Esto es basura.
 
 ent-FoodPacketCheesieTrash = cheesie honkers
+    .desc = Esto es basura.
 
 ent-FoodPacketChipsTrash = chips
+    .desc = Esto es basura.
 
 ent-FoodPacketChocolateTrash = envoltorio de chocolate
+    .desc = Esto es basura.
 
 ent-FoodPacketEnergyTrash = envoltorio de barrita energética
+    .desc = Esto es basura.
 
 ent-FoodPacketPistachioTrash = paquete de pistachos
+    .desc = Esto es basura.
 
 ent-FoodPacketPopcornTrash = caja de palomitas
+    .desc = Esto es basura.
 
 ent-FoodPacketRaisinsTrash = pasas 4no
+    .desc = Esto es basura.
 
 ent-FoodPacketSemkiTrash = paquete de semki
+    .desc = Esto es basura.
 
 ent-FoodPacketSusTrash = cecina sospechosa
+    .desc = Esto es basura.
 
 ent-FoodPacketSyndiTrash = caja de syndi-cakes
+    .desc = Esto es basura.
 
 ent-FoodPacketCupRamenTrash = vaso de ramen vacío
+    .desc = Esto es basura.
 
 ent-FoodPacketChowMeinTrash = caja de chow mein vacía
+    .desc = Esto es basura.
 
 ent-FoodPacketDanDanTrash = caja de dan dan vacía
+    .desc = Esto es basura.
 
 ent-FoodCookieFortune = fortuna de la galleta
     .desc = La fortuna dice: El fin está cerca... y es todo culpa tuya.

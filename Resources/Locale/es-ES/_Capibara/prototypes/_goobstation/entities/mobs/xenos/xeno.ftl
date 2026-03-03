@@ -2,6 +2,7 @@ ent-CMBaseXeno = xeno base antiguo
     .desc = Un dron alienígena.
 
 ent-CMMobXenoDrone = dron antiguo
+    .desc = Un dron alienígena.
 
 ent-CMMobXenoBurrower = excavador antiguo
     .desc = Un alienígena fornido con garras afiladas.

@@ -44,18 +44,22 @@ ent-ClothingEyesEyepatchHudMedical = parche con HUD médico
     .desc = Una pantalla de visión frontal que escanea a los humanoides en el campo de visión y proporciona datos precisos sobre su estado de salud. Para verdaderos patriotas.
 
 ent-ClothingEyesEyepatchHudMedicalFlipped = parche con HUD médico
+    .desc = Una pantalla de visión frontal que escanea a los humanoides en el campo de visión y proporciona datos precisos sobre su estado de salud. Para verdaderos patriotas.
 
 ent-ClothingEyesEyepatchHudSecurity = parche con HUD de seguridad
     .desc = Una pantalla de visión frontal que escanea a los humanoides en el campo de visión y proporciona datos precisos sobre su estado de identificación y registros de seguridad. Para verdaderos patriotas.
 
 ent-ClothingEyesEyepatchHudSecurityFlipped = parche con HUD de seguridad
+    .desc = Una pantalla de visión frontal que escanea a los humanoides en el campo de visión y proporciona datos precisos sobre su estado de identificación y registros de seguridad. Para verdaderos patriotas.
 
 ent-ClothingEyesEyepatchHudBeer = parche con HUD de cervecero
     .desc = Un par de gafas de sol equipadas con un aparato para escanear reactivos, además de proporcionar una comprensión innata de la viscosidad de los líquidos en movimiento. Para verdaderos patriotas.
 
 ent-ClothingEyesEyepatchHudBeerFlipped = parche con HUD de cervecero
+    .desc = Un par de gafas de sol equipadas con un aparato para escanear reactivos, además de proporcionar una comprensión innata de la viscosidad de los líquidos en movimiento. Para verdaderos patriotas.
 
 ent-ClothingEyesEyepatchHudDiag = parche con HUD de diagnóstico
     .desc = Una pantalla de visión frontal capaz de analizar la integridad y el estado de robots y exotrajes. Hecho de see-borg-ium.
 
 ent-ClothingEyesEyepatchHudDiagFlipped = parche con HUD de diagnóstico
+    .desc = Una pantalla de visión frontal capaz de analizar la integridad y el estado de robots y exotrajes. Hecho de see-borg-ium.

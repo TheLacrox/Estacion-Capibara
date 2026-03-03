@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0011_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "BaseHardlightEmbeddableArrow",
+      "raw_en": "ent-BaseHardlightEmbeddableArrow = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Bow/hardlight_arrows.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Bow/hardlight_arrows.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletPlasmaCutterStrong",
+      "raw_en": "ent-BulletPlasmaCutterStrong = cutter bolt\n    .desc = Not too bad, but you still don't want to get hit by it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletFlock",
+      "raw_en": "ent-BulletFlock = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponStasisGunBase",
+      "raw_en": "ent-WeaponStasisGunBase = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Stasis/stasis_gun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Stasis/stasis_gun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseSyringeGun",
+      "raw_en": "ent-BaseSyringeGun = storage item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/syringe_gun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/syringe_gun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CaneSheathFilledNanotrasen",
+      "raw_en": "ent-CaneSheathFilledNanotrasen = cane\n    .desc = A standard wooden cane. Can help disabled people move easier.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Melee/cane.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Melee/cane.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EnergySwordBlue",
+      "raw_en": "ent-EnergySwordBlue = energy sword\n    .desc = A very loud & dangerous sword with a beam made of pure, concentrated plasma. Cuts through unarmored targets like butter.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Melee/e_sword_banana.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Melee/e_sword_banana.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefibrillatorCompactEmpty",
+      "raw_en": "ent-DefibrillatorCompactEmpty = compact defibrillator\n    .desc = Now in fun size!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Specific/Medical/defib.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Specific/Medical/defib.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Ants1",
+      "raw_en": "ent-Ants1 = ant hill\n    .desc = Best not to provoke them.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/ants.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/ants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Ants2",
+      "raw_en": "ent-Ants2 = ant hill\n    .desc = Best not to provoke them.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/ants.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/ants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Ants3",
+      "raw_en": "ent-Ants3 = ant hill\n    .desc = Best not to provoke them.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/ants.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/ants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarrelPlanks",
+      "raw_en": "ent-BarrelPlanks = black barrel\n    .desc = Do a barrel roll!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VasePlant1",
+      "raw_en": "ent-VasePlant1 = vase\n    .desc = It's a vase. It holds flowers.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/vase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/vase.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VasePlant2",
+      "raw_en": "ent-VasePlant2 = vase\n    .desc = It's a vase. It holds flowers.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/vase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/vase.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VasePlant3",
+      "raw_en": "ent-VasePlant3 = vase\n    .desc = It's a vase. It holds flowers.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/vase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/vase.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VasePlant4",
+      "raw_en": "ent-VasePlant4 = vase\n    .desc = It's a vase. It holds flowers.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/vase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/vase.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VasePlant5",
+      "raw_en": "ent-VasePlant5 = vase\n    .desc = It's a vase. It holds flowers.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/vase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/vase.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VasePlant6",
+      "raw_en": "ent-VasePlant6 = vase\n    .desc = It's a vase. It holds flowers.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/vase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/vase.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VasePlant7",
+      "raw_en": "ent-VasePlant7 = vase\n    .desc = It's a vase. It holds flowers.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/vase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/vase.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VasePlant8",
+      "raw_en": "ent-VasePlant8 = vase\n    .desc = It's a vase. It holds flowers.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Decorations/vase.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Decorations/vase.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockCentralCommandCommandLocked",
+      "raw_en": "ent-AirlockCentralCommandCommandLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockCentralCommandCommandGlassLocked",
+      "raw_en": "ent-AirlockCentralCommandCommandGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockCommandCommandLocked",
+      "raw_en": "ent-AirlockCommandCommandLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockCommandCommandGlassLocked",
+      "raw_en": "ent-AirlockCommandCommandGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockBlueshieldOfficerCommandLocked",
+      "raw_en": "ent-AirlockBlueshieldOfficerCommandLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockBlueshieldOfficerCommandGlassLocked",
+      "raw_en": "ent-AirlockBlueshieldOfficerCommandGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockNanotrasenRepresentativeCommandLocked",
+      "raw_en": "ent-AirlockNanotrasenRepresentativeCommandLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockNanotrasenRepresentativeCommandGlassLocked",
+      "raw_en": "ent-AirlockNanotrasenRepresentativeCommandGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAllServiceLocked",
+      "raw_en": "ent-AirlockAllServiceLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockAllServiceGlassLocked",
+      "raw_en": "ent-AirlockAllServiceGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockRoboticsLocked",
+      "raw_en": "ent-AirlockRoboticsLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockJournalismLocked",
+      "raw_en": "ent-AirlockJournalismLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockJournalismGlassLocked",
+      "raw_en": "ent-AirlockJournalismGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintJournalismLocked",
+      "raw_en": "ent-AirlockMaintJournalismLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockJanitorGlass",
+      "raw_en": "ent-AirlockJanitorGlass = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/airlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockRobotics",
+      "raw_en": "ent-AirlockRobotics = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Doors/Airlocks/airlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Doors/Airlocks/airlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChairOfficeRocketBase",
+      "raw_en": "ent-ChairOfficeRocketBase = white office chair\n    .desc = Launch from department to department because walking is for interns.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Furniture/chairs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Furniture/chairs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandNTR",
+      "raw_en": "ent-HolopadCommandNTR = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCommandBSO",
+      "raw_en": "ent-HolopadCommandBSO = holopad\n    .desc = A floor-mounted device for projecting holographic images.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HolopadCentComm",
+      "raw_en": "ent-HolopadCentComm = bluespace holopad\n    .desc = An experimental floor-mounted device for projecting holographic images via bluespace.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Machines/holopad.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Machines/holopad.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorSMHot",
+      "raw_en": "ent-GasPipeSensorSMHot = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorSMCold",
+      "raw_en": "ent-GasPipeSensorSMCold = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HeatExchangerInlineBend",
+      "raw_en": "ent-HeatExchangerInlineBend = inline radiator\n    .desc = Transfers heat between the pipe and its surroundings. Doesn't need gas flow.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Piping/Atmospherics/unary.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Piping/Atmospherics/unary.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FitnessPunchingBagCaptain",
+      "raw_en": "ent-FitnessPunchingBagCaptain = punching bag\n    .desc = A fitness training bag with a captain printed on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Specific/bay12fitness.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Specific/bay12fitness.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FitnessPunchingBagSyndicate",
+      "raw_en": "ent-FitnessPunchingBagSyndicate = punching bag\n    .desc = A fitness training bag with a syndicate agent printed on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Specific/bay12fitness.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Specific/bay12fitness.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FitnessPunchingBagWizard",
+      "raw_en": "ent-FitnessPunchingBagWizard = punching bag\n    .desc = A fitness training bag with a wizard printed on it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Specific/bay12fitness.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Specific/bay12fitness.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BinglePitBingleless",
+      "raw_en": "ent-BinglePitBingleless = binglepit\n    .desc = Looks Hungry",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Specific/Binglepit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Specific/Binglepit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ContrabandDetectorSecure",
+      "raw_en": "ent-ContrabandDetectorSecure = contraband detector\n    .desc = Walk in with confidence, walk out with security chasing you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Specific/contraband_detector.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Specific/contraband_detector.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BZCanisterBroken",
+      "raw_en": "ent-BZCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HealiumCanisterBroken",
+      "raw_en": "ent-HealiumCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    }
+  ]
+}

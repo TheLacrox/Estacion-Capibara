@@ -20,3 +20,4 @@ ent-NTRBoardHolopad = caja de holoplataformas
     .desc = Una caja que contiene 2 placas de máquina para holoplataforma.
 
 ent-NTRBoardShuttle = caja del paquete para hacer transbordadores
+    .desc = Un gran contenedor para objetos.

@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0029_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "SuitStorageEVAAlternate",
+      "raw_en": "ent-SuitStorageEVAAlternate = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageEVAEmergency",
+      "raw_en": "ent-SuitStorageEVAEmergency = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageEVAPrisoner",
+      "raw_en": "ent-SuitStorageEVAPrisoner = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageEVASyndicate",
+      "raw_en": "ent-SuitStorageEVASyndicate = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageEVAPirate",
+      "raw_en": "ent-SuitStorageEVAPirate = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageNTSRA",
+      "raw_en": "ent-SuitStorageNTSRA = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageEngi",
+      "raw_en": "ent-SuitStorageEngi = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageAtmos",
+      "raw_en": "ent-SuitStorageAtmos = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageSec",
+      "raw_en": "ent-SuitStorageSec = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageCE",
+      "raw_en": "ent-SuitStorageCE = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageCMO",
+      "raw_en": "ent-SuitStorageCMO = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageRD",
+      "raw_en": "ent-SuitStorageRD = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageHOS",
+      "raw_en": "ent-SuitStorageHOS = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageWarden",
+      "raw_en": "ent-SuitStorageWarden = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageCaptain",
+      "raw_en": "ent-SuitStorageCaptain = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageSalv",
+      "raw_en": "ent-SuitStorageSalv = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageSyndie",
+      "raw_en": "ent-SuitStorageSyndie = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStoragePirateCap",
+      "raw_en": "ent-SuitStoragePirateCap = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageWizard",
+      "raw_en": "ent-SuitStorageWizard = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeGreyFilled",
+      "raw_en": "ent-WardrobeGreyFilled = grey wardrobe\n    .desc = A wardrobe packed with a tide of grey clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallWardrobeGreyFilled",
+      "raw_en": "ent-ClosetWallWardrobeGreyFilled = grey wall closet\n    .desc = A wardrobe packed with a tide of grey clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeMixedFilled",
+      "raw_en": "ent-WardrobeMixedFilled = mixed wardrobe\n    .desc = A wardrobe packed with a mix of colorful clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallWardrobeMixedFilled",
+      "raw_en": "ent-ClosetWallWardrobeMixedFilled = mixed wall closet\n    .desc = A wardrobe packed with a mix of colorful clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeYellowFilled",
+      "raw_en": "ent-WardrobeYellowFilled = yellow wardrobe\n    .desc = A wardrobe packed with stylish yellow clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallWardrobeYellowFilled",
+      "raw_en": "ent-ClosetWallWardrobeYellowFilled = yellow wall closet\n    .desc = A wardrobe packed with stylish yellow clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeWhiteFilled",
+      "raw_en": "ent-WardrobeWhiteFilled = white wardrobe\n    .desc = A wardrobe packed with stylish white clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallWardrobeWhiteFilled",
+      "raw_en": "ent-ClosetWallWardrobeWhiteFilled = white wall closet\n    .desc = A wardrobe packed with stylish white clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeBlueFilled",
+      "raw_en": "ent-WardrobeBlueFilled = blue wardrobe\n    .desc = A wardrobe packed with stylish blue clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallWardrobeBlueFilled",
+      "raw_en": "ent-ClosetWallWardrobeBlueFilled = blue wall closet\n    .desc = A wardrobe packed with stylish blue clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobePinkFilled",
+      "raw_en": "ent-WardrobePinkFilled = pink wardrobe\n    .desc = A wardrobe packed with fabulous pink clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallWardrobePinkFilled",
+      "raw_en": "ent-ClosetWallWardrobePinkFilled = pink wall closet\n    .desc = A wardrobe packed with fabulous pink clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeBlackFilled",
+      "raw_en": "ent-WardrobeBlackFilled = black wardrobe\n    .desc = A wardrobe packed with stylish black clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallWardrobeBlackFilled",
+      "raw_en": "ent-ClosetWallWardrobeBlackFilled = black wall closet\n    .desc = A wardrobe packed with stylish black clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeGreenFilled",
+      "raw_en": "ent-WardrobeGreenFilled = green wardrobe\n    .desc = A wardrobe packed with stylish green clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallWardrobeGreenFilled",
+      "raw_en": "ent-ClosetWallWardrobeGreenFilled = green wall closet\n    .desc = A wardrobe packed with stylish green clothing.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_colors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_colors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobePrisonFilled",
+      "raw_en": "ent-WardrobePrisonFilled = prison wardrobe\n    .desc = Contains a selection of nice orange clothes for people enjoying their stay in the brig.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallWardrobePrisonFilled",
+      "raw_en": "ent-ClosetWallWardrobePrisonFilled = prison wall closet\n    .desc = A standard-issue Nanotrasen storage unit, now on walls.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeRoboticsFilled",
+      "raw_en": "ent-WardrobeRoboticsFilled = robotics wardrobe\n    .desc = You can build a robot out of this locker.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeChemistryFilled",
+      "raw_en": "ent-WardrobeChemistryFilled = chemistry wardrobe\n    .desc = The sleek orange threads contained within make you much less likely to be thrown out of the chemistry lab.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeGeneticsFilled",
+      "raw_en": "ent-WardrobeGeneticsFilled = genetics wardrobe\n    .desc = The sleek blue threads contained within make you much less likely to be thrown out of the genetics lab.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeVirologyFilled",
+      "raw_en": "ent-WardrobeVirologyFilled = virology wardrobe\n    .desc = The sleek green threads contained within make you much less likely to be thrown out of the virology lab.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeScienceFilled",
+      "raw_en": "ent-WardrobeScienceFilled = science wardrobe\n    .desc = You've read a couple pop science articles, now it's time for the real deal.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeBotanistFilled",
+      "raw_en": "ent-WardrobeBotanistFilled = botanist wardrobe\n    .desc = Plant yourself among the plant men with these 100% natural plant-derived clothes.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeMedicalDoctorFilled",
+      "raw_en": "ent-WardrobeMedicalDoctorFilled = medical doctor's wardrobe\n    .desc = We've all played doctor before, now practice medicine.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeChapelFilled",
+      "raw_en": "ent-WardrobeChapelFilled = chaplain's wardrobe\n    .desc = You have to look presentable for your flock.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeSecurityFilled",
+      "raw_en": "ent-WardrobeSecurityFilled = security wardrobe\n    .desc = Cross the thin red line.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeCargoFilled",
+      "raw_en": "ent-WardrobeCargoFilled = cargo wardrobe\n    .desc = This locker? Maybe 500 spesos. Brotherhood? Priceless.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeSalvageFilled",
+      "raw_en": "ent-WardrobeSalvageFilled = salvage wardrobe\n    .desc = Notably not salvaged.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeAtmosphericsFilled",
+      "raw_en": "ent-WardrobeAtmosphericsFilled = atmospherics wardrobe\n    .desc = This locker contains a uniform for atmospheric technicians.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetWallWardrobeAtmosphericsFilled",
+      "raw_en": "ent-ClosetWallWardrobeAtmosphericsFilled = atmospherics wall closet\n    .desc = This locker contains a uniform for atmospheric technicians.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    }
+  ]
+}

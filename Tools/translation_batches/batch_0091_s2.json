@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0091_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "ClothingHeadBandBlue",
+      "raw_en": "ent-ClothingHeadBandBlue =\n    .desc = A blue bandana to make you look cool.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/bandanas.ftl"
+    },
+    {
+      "id": "ClothingHeadBandBotany",
+      "raw_en": "ent-ClothingHeadBandBotany =\n    .desc = A botany bandana to make you look cool, made from natural fibers.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/bandanas.ftl"
+    },
+    {
+      "id": "ClothingHeadBandGold",
+      "raw_en": "ent-ClothingHeadBandGold =\n    .desc = A gold bandana to make you look cool.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/bandanas.ftl"
+    },
+    {
+      "id": "ClothingHeadBandGreen",
+      "raw_en": "ent-ClothingHeadBandGreen =\n    .desc = A green bandana to make you look cool.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/bandanas.ftl"
+    },
+    {
+      "id": "ClothingHeadBandGrey",
+      "raw_en": "ent-ClothingHeadBandGrey =\n    .desc = A grey bandana to make you look cool.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/bandanas.ftl"
+    },
+    {
+      "id": "ClothingHeadBandRed",
+      "raw_en": "ent-ClothingHeadBandRed =\n    .desc = A red bandana to make you look cool.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/bandanas.ftl"
+    },
+    {
+      "id": "ClothingHeadBandSkull",
+      "raw_en": "ent-ClothingHeadBandSkull =\n    .desc = A bandana with a skull to make you look even cooler.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/bandanas.ftl"
+    },
+    {
+      "id": "ClothingHeadBandMerc",
+      "raw_en": "ent-ClothingHeadBandMerc =\n    .desc = To protect the head from the sun, insects and other dangers of the higher path.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/bandanas.ftl"
+    },
+    {
+      "id": "ClothingHeadBandBrown",
+      "raw_en": "ent-ClothingHeadBandBrown =\n    .desc = A brown bandana to make you look cool.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/bandanas.ftl"
+    },
+    {
+      "id": "ClothingHeadHatPartyYellow",
+      "raw_en": "ent-ClothingHeadHatPartyYellow =\n    .desc = Spread a joy!",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hats.ftl"
+    },
+    {
+      "id": "ClothingHeadHatPartyGreen",
+      "raw_en": "ent-ClothingHeadHatPartyGreen =\n    .desc = Spread a joy!",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hats.ftl"
+    },
+    {
+      "id": "ClothingHeadHatPartyBlue",
+      "raw_en": "ent-ClothingHeadHatPartyBlue =\n    .desc = Spread a joy!",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hats.ftl"
+    },
+    {
+      "id": "ClothingHeadHatCowboyBlack",
+      "raw_en": "ent-ClothingHeadHatCowboyBlack =\n    .desc = \\\"This hat ain't big enough for the two of us.\\\"",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hats.ftl"
+    },
+    {
+      "id": "ClothingHeadHatCowboyGrey",
+      "raw_en": "ent-ClothingHeadHatCowboyGrey =\n    .desc = \\\"This hat ain't big enough for the two of us.\\\"",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hats.ftl"
+    },
+    {
+      "id": "ClothingHeadHatCowboyRed",
+      "raw_en": "ent-ClothingHeadHatCowboyRed =\n    .desc = \\\"This hat ain't big enough for the two of us.\\\"",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hats.ftl"
+    },
+    {
+      "id": "ClothingHeadHatCowboyWhite",
+      "raw_en": "ent-ClothingHeadHatCowboyWhite =\n    .desc = \\\"This hat ain't big enough for the two of us.\\\"",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hats.ftl"
+    },
+    {
+      "id": "ClothingHeadHatCowboyBountyHunter",
+      "raw_en": "ent-ClothingHeadHatCowboyBountyHunter =\n    .desc = \\\"This hat ain't big enough for the two of us.\\\"",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hats.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterDefault",
+      "raw_en": "ent-ClothingHeadHatHoodWinterDefault =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterBartender",
+      "raw_en": "ent-ClothingHeadHatHoodWinterBartender =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterCargo",
+      "raw_en": "ent-ClothingHeadHatHoodWinterCargo =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterCE",
+      "raw_en": "ent-ClothingHeadHatHoodWinterCE =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterChem",
+      "raw_en": "ent-ClothingHeadHatHoodWinterChem =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterCMO",
+      "raw_en": "ent-ClothingHeadHatHoodWinterCMO =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterEngineer",
+      "raw_en": "ent-ClothingHeadHatHoodWinterEngineer =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterHOP",
+      "raw_en": "ent-ClothingHeadHatHoodWinterHOP =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterHOS",
+      "raw_en": "ent-ClothingHeadHatHoodWinterHOS =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterHydro",
+      "raw_en": "ent-ClothingHeadHatHoodWinterHydro =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterJani",
+      "raw_en": "ent-ClothingHeadHatHoodWinterJani =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterMed",
+      "raw_en": "ent-ClothingHeadHatHoodWinterMed =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterMime",
+      "raw_en": "ent-ClothingHeadHatHoodWinterMime =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterMiner",
+      "raw_en": "ent-ClothingHeadHatHoodWinterMiner =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterPara",
+      "raw_en": "ent-ClothingHeadHatHoodWinterPara =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterQM",
+      "raw_en": "ent-ClothingHeadHatHoodWinterQM =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterRD",
+      "raw_en": "ent-ClothingHeadHatHoodWinterRD =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterRobo",
+      "raw_en": "ent-ClothingHeadHatHoodWinterRobo =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterSci",
+      "raw_en": "ent-ClothingHeadHatHoodWinterSci =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterSec",
+      "raw_en": "ent-ClothingHeadHatHoodWinterSec =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterSyndie",
+      "raw_en": "ent-ClothingHeadHatHoodWinterSyndie =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterWarden",
+      "raw_en": "ent-ClothingHeadHatHoodWinterWarden =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterWeb",
+      "raw_en": "ent-ClothingHeadHatHoodWinterWeb =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterColorBlack",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorBlack =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterColorPurple",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorPurple =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterColorRed",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorRed =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterColorBlue",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorBlue =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterColorBrown",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorBrown =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterColorGray",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorGray =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterColorGreen",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorGreen =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterColorLightBrown",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorLightBrown =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterColorOrange",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorOrange =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatHoodWinterColorWhite",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorWhite =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    }
+  ]
+}

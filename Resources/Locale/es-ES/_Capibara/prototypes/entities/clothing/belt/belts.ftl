@@ -59,6 +59,7 @@ ent-ClothingBeltSuspendersRed = tirantes rojos
     .desc = Para sujetar los pantalones.
 
 ent-ClothingBeltSuspendersBlack = tirantes negros
+    .desc = Para sujetar los pantalones.
 
 ent-ClothingBeltWand = cinturón de varas
     .desc = Un cinturón diseñado para guardar varios bastones de poder. Un auténtico riñonera de magia exótica.

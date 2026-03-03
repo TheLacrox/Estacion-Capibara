@@ -1,4 +1,5 @@
 ent-GlockenspielInstrument = glockenspiel
+    .desc = Eso es un instrumento.
 
 ent-MusicBoxInstrument = caja de música
     .desc = Tocar esto te hace sentir seguro de los animatrónicos aterradores.

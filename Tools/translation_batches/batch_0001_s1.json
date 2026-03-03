@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0001_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "CapibaraATMMachineCircuitboard",
+      "raw_en": "ent-CapibaraATMMachineCircuitboard = ATM machine board\n    .desc = A machine printed circuit board for an ATM.",
+      "source_yaml": "Resources/Prototypes/_Capibara/Economy/construction.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Capibara/Economy/construction.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CapibaraATM",
+      "raw_en": "ent-CapibaraATM = ATM\n    .desc = A machine for managing your bank account. Withdraw and deposit Spesos.",
+      "source_yaml": "Resources/Prototypes/_Capibara/Economy/entities.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Capibara/Economy/entities.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganVulpkaninStomach",
+      "raw_en": "ent-OrganVulpkaninStomach = stomach",
+      "source_yaml": "Resources/Prototypes/_DV/Body/Organs/vulpkanin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Body/Organs/vulpkanin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartHarpyBase",
+      "raw_en": "ent-PartHarpyBase = body part",
+      "source_yaml": "Resources/Prototypes/_DV/Body/Parts/harpy.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Body/Parts/harpy.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartRodentiaBase",
+      "raw_en": "ent-PartRodentiaBase = body part",
+      "source_yaml": "Resources/Prototypes/_DV/Body/Parts/rodentia.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Body/Parts/rodentia.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartVulpkaninBase",
+      "raw_en": "ent-PartVulpkaninBase = body part",
+      "source_yaml": "Resources/Prototypes/_DV/Body/Parts/vulpkanin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Body/Parts/vulpkanin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalWaterVapor",
+      "raw_en": "ent-BoxSurvivalWaterVapor = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalEngineeringWaterVapor",
+      "raw_en": "ent-BoxSurvivalEngineeringWaterVapor = extended-capacity survival box\n    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSecurityWaterVapor",
+      "raw_en": "ent-BoxSurvivalSecurityWaterVapor = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalMedicalWaterVapor",
+      "raw_en": "ent-BoxSurvivalMedicalWaterVapor = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxHugWaterVapor",
+      "raw_en": "ent-BoxHugWaterVapor = box of hugs\n    .desc = A special box for sensitive people.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxMimeWaterVapor",
+      "raw_en": "ent-BoxMimeWaterVapor = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSyndicateWaterVapor",
+      "raw_en": "ent-BoxSurvivalSyndicateWaterVapor = extended-capacity survival box\n    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsWaterVapor",
+      "raw_en": "ent-BoxSurvivalSlotsWaterVapor = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsEngineeringWaterVapor",
+      "raw_en": "ent-BoxSurvivalSlotsEngineeringWaterVapor = extended-capacity survival box\n    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsSecurityWaterVapor",
+      "raw_en": "ent-BoxSurvivalSlotsSecurityWaterVapor = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsMedicalWaterVapor",
+      "raw_en": "ent-BoxSurvivalSlotsMedicalWaterVapor = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxHugSlotsWaterVapor",
+      "raw_en": "ent-BoxHugSlotsWaterVapor = box of hugs\n    .desc = A special box for sensitive people.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsSyndicateWaterVapor",
+      "raw_en": "ent-BoxSurvivalSlotsSyndicateWaterVapor = extended-capacity survival box\n    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxMimeSlotsWaterVapor",
+      "raw_en": "ent-BoxMimeSlotsWaterVapor = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Boxes/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Boxes/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WaterVaporTankFilled",
+      "raw_en": "ent-WaterVaporTankFilled = water vapor tank\n    .desc = A standard cylindrical gas tank for water vapor. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EmergencyWaterVaporTankFilled",
+      "raw_en": "ent-EmergencyWaterVaporTankFilled = emergency water vapor tank\n    .desc = An easily portable tank for emergencies. Contains very little water vapor, rated for survival use only. It can hold 0.66 L of gas.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ExtendedEmergencyWaterVaporTankFilled",
+      "raw_en": "ent-ExtendedEmergencyWaterVaporTankFilled = extended-capacity emergency water vapor tank\n    .desc = An emergency tank with extended capacity. Technically rated for prolonged use. It can hold 1.5 L of gas.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoubleEmergencyWaterVaporTankFilled",
+      "raw_en": "ent-DoubleEmergencyWaterVaporTankFilled = double emergency water vapor tank\n    .desc = A high-grade dual-tank emergency life support container. It holds a decent amount of water vapor for its small size. It can hold 2.5 L of gas.",
+      "source_yaml": "Resources/Prototypes/_DV/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointRogueAscended",
+      "raw_en": "ent-SpawnPointRogueAscended = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/events.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/events.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCosmicGodSpawn",
+      "raw_en": "ent-MobCosmicGodSpawn = The Unknown\n    .desc = Your mind begins to fracture and break as it fails to comprehend what looms before you.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Mobs/cosmicgod.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/Mobs/cosmicgod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCosmicGod",
+      "raw_en": "ent-MobCosmicGod = The Unknown\n    .desc = Your mind begins to fracture and break as it fails to comprehend what looms before you.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Mobs/cosmicgod.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/Mobs/cosmicgod.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialCosmicCultEntropy1",
+      "raw_en": "ent-MaterialCosmicCultEntropy1 = mote of entropy\n    .desc = A solidified mote of entropic essence. Feels numbing to the touch.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Objects/entropymote.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/Objects/entropymote.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialCosmicCultEntropy2",
+      "raw_en": "ent-MaterialCosmicCultEntropy2 = mote of entropy\n    .desc = A solidified mote of entropic essence. Feels numbing to the touch.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Objects/entropymote.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/Objects/entropymote.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialCosmicCultEntropy3",
+      "raw_en": "ent-MaterialCosmicCultEntropy3 = mote of entropy\n    .desc = A solidified mote of entropic essence. Feels numbing to the touch.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Objects/entropymote.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/Objects/entropymote.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialCosmicCultEntropy4",
+      "raw_en": "ent-MaterialCosmicCultEntropy4 = mote of entropy\n    .desc = A solidified mote of entropic essence. Feels numbing to the touch.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Objects/entropymote.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/Objects/entropymote.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CosmicPolymorphEntHuman",
+      "raw_en": "ent-CosmicPolymorphEntHuman = \"Unknown\" # The question marks crash regex gg\n    .desc = Trapped in a lapse between here and there.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/polymorphs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/polymorphs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CosmicPolymorphEntArachnid",
+      "raw_en": "ent-CosmicPolymorphEntArachnid = \"Unknown\" # The question marks crash regex gg\n    .desc = Trapped in a lapse between here and there.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/polymorphs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/polymorphs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CosmicPolymorphEntDiona",
+      "raw_en": "ent-CosmicPolymorphEntDiona = \"Unknown\" # The question marks crash regex gg\n    .desc = Trapped in a lapse between here and there.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/polymorphs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/polymorphs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CosmicPolymorphEntMoth",
+      "raw_en": "ent-CosmicPolymorphEntMoth = \"Unknown\" # The question marks crash regex gg\n    .desc = Trapped in a lapse between here and there.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/polymorphs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/polymorphs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CosmicPolymorphEntVox",
+      "raw_en": "ent-CosmicPolymorphEntVox = \"Unknown\" # The question marks crash regex gg\n    .desc = Trapped in a lapse between here and there.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/polymorphs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/polymorphs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CosmicPolymorphEntSnail",
+      "raw_en": "ent-CosmicPolymorphEntSnail = \"Unknown\" # The question marks crash regex gg\n    .desc = Trapped in a lapse between here and there.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/polymorphs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/polymorphs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CosmicPolymorphEntDecapoid",
+      "raw_en": "ent-CosmicPolymorphEntDecapoid = \"Unknown\" # The question marks crash regex gg\n    .desc = Trapped in a lapse between here and there.",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/polymorphs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/polymorphs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MonumentCosmicCult1",
+      "raw_en": "ent-MonumentCosmicCult1 = The Monument\n    .desc = A great slab of unknowledge, only visible to those aware of it. Built of a thousand little nothings, its surface reflects a starless emptiness...",
+      "source_yaml": "Resources/Prototypes/_DV/CosmicCult/Tileset/monument.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/CosmicCult/Tileset/monument.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TapeRecorderFilled",
+      "raw_en": "ent-TapeRecorderFilled = tape recorder\n    .desc = Anything said into this device can and will be used against you in a court of space law.",
+      "source_yaml": "Resources/Prototypes/_DV/Entities/Objects/Devices/tape_recorder.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Entities/Objects/Devices/tape_recorder.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CassetteTapeInterview",
+      "raw_en": "ent-CassetteTapeInterview = cassette tape\n    .desc = A magnetic tape that can hold up to two minutes of content on either side.",
+      "source_yaml": "Resources/Prototypes/_DV/Entities/Objects/Devices/tape_recorder.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Entities/Objects/Devices/tape_recorder.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseLatheUpgradeKit",
+      "raw_en": "ent-BaseLatheUpgradeKit = item",
+      "source_yaml": "Resources/Prototypes/_DV/Entities/Objects/Tools/lathe_upgrade_kits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_DV/Entities/Objects/Tools/lathe_upgrade_kits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseIPCOrgan",
+      "raw_en": "ent-BaseIPCOrgan = item",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/ipc.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/ipc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganShadowkinBrain",
+      "raw_en": "ent-OrganShadowkinBrain = brain\n    .desc = Oops, I should put this back where I found it.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/shadowkin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/shadowkin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganShadowkinEyes",
+      "raw_en": "ent-OrganShadowkinEyes = eyes\n    .desc = I see beyond anything you ever will!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/shadowkin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/shadowkin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganShadowkinEars",
+      "raw_en": "ent-OrganShadowkinEars = ears\n    .desc = Hey, listen!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/shadowkin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/shadowkin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganShadowkinCore",
+      "raw_en": "ent-OrganShadowkinCore = lungs\n    .desc = What is this thing?",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/shadowkin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/shadowkin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganShadowkinTongue",
+      "raw_en": "ent-OrganShadowkinTongue = tongue\n    .desc = What does this do again?",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/shadowkin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/shadowkin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganShadowkinAppendix",
+      "raw_en": "ent-OrganShadowkinAppendix = appendix\n    .desc = I think it does nothing...",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/shadowkin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/shadowkin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganShadowkinHeart",
+      "raw_en": "ent-OrganShadowkinHeart = heart\n    .desc = Oops, I think this belongs to someone!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/shadowkin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/shadowkin.ftl",
+      "file_exists": false
+    }
+  ]
+}

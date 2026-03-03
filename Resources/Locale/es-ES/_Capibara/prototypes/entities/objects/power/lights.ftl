@@ -41,38 +41,52 @@ ent-BaseLightTubeCrystal = tubo de luz de cristal
     .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightTubeCrystalCyan = tubo de luz de cristal cian
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightTubeCrystalBlue = tubo de luz de cristal azul
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightTubeCrystalYellow = tubo de luz de cristal amarillo
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightTubeCrystalPink = tubo de luz de cristal rosa
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightTubeCrystalOrange = tubo de luz de cristal naranja
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightTubeCrystalBlack = tubo de luz de cristal negro
     .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior. No es muy brillante.
 
 ent-LightTubeCrystalRed = tubo de luz de cristal rojo
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightTubeCrystalGreen = tubo de luz de cristal verde
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-BaseLightbulbCrystal = bombilla de cristal
     .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightBulbCrystalCyan = bombilla de cristal cian
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightBulbCrystalBlue = bombilla de cristal azul
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightBulbCrystalYellow = bombilla de cristal amarilla
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightBulbCrystalPink = bombilla de cristal rosa
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightBulbCrystalOrange = bombilla de cristal naranja
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightBulbCrystalBlack = bombilla de cristal negra
     .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior. No es muy brillante.
 
 ent-LightBulbCrystalRed = bombilla de cristal roja
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.
 
 ent-LightBulbCrystalGreen = bombilla de cristal verde
+    .desc = Una bombilla de alta potencia y alta energía que tiene un pequeño cristal de color en su interior.

@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0051_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "Barricade",
+      "raw_en": "ent-Barricade = wooden barricade\n    .desc = A barricade made out of wood planks. It looks like it can take a few solid hits.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/barricades.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/barricades.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarricadeBlock",
+      "raw_en": "ent-BarricadeBlock = wooden barricade\n    .desc = A barricade made out of wood planks. It looks like it can take a few solid hits.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/barricades.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/barricades.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BarricadeDirectional",
+      "raw_en": "ent-BarricadeDirectional = wooden barricade\n    .desc = A barricade made out of wood planks. It looks like it can take a few solid hits.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/barricades.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/barricades.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CryogenicSleepUnitSpawner",
+      "raw_en": "ent-CryogenicSleepUnitSpawner = cryogenic sleep unit\n    .desc = A super-cooled container that keeps crewmates safe during space travel.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/cryogenic_sleep_unit.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/cryogenic_sleep_unit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CryogenicSleepUnitSpawnerLateJoin",
+      "raw_en": "ent-CryogenicSleepUnitSpawnerLateJoin = cryogenic sleep unit\n    .desc = A super-cooled container that keeps crewmates safe during space travel.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/cryogenic_sleep_unit.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/cryogenic_sleep_unit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Cobweb2",
+      "raw_en": "ent-Cobweb2 = cobweb\n    .desc = Somebody should remove that.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/cobwebs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/cobwebs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrystalPink",
+      "raw_en": "ent-CrystalPink = crystal\n    .desc = A crystaline solid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/crystals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/crystals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrystalGrey",
+      "raw_en": "ent-CrystalGrey = crystal\n    .desc = A crystaline solid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/crystals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/crystals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrystalOrange",
+      "raw_en": "ent-CrystalOrange = crystal\n    .desc = A crystaline solid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/crystals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/crystals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrystalBlack",
+      "raw_en": "ent-CrystalBlack = crystal\n    .desc = A crystaline solid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/crystals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/crystals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrystalBlue",
+      "raw_en": "ent-CrystalBlue = crystal\n    .desc = A crystaline solid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/crystals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/crystals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrystalYellow",
+      "raw_en": "ent-CrystalYellow = crystal\n    .desc = A crystaline solid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/crystals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/crystals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrystalCyan",
+      "raw_en": "ent-CrystalCyan = crystal\n    .desc = A crystaline solid.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/crystals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/crystals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HospitalCurtains",
+      "raw_en": "ent-HospitalCurtains = curtains\n    .desc = Contains less than 1% mercury.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HospitalCurtainsOpen",
+      "raw_en": "ent-HospitalCurtainsOpen = curtains\n    .desc = Contains less than 1% mercury.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsBlack",
+      "raw_en": "ent-CurtainsBlack = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsBlackOpen",
+      "raw_en": "ent-CurtainsBlackOpen = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsBlue",
+      "raw_en": "ent-CurtainsBlue = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsBlueOpen",
+      "raw_en": "ent-CurtainsBlueOpen = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsCyan",
+      "raw_en": "ent-CurtainsCyan = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsCyanOpen",
+      "raw_en": "ent-CurtainsCyanOpen = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsGreen",
+      "raw_en": "ent-CurtainsGreen = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsGreenOpen",
+      "raw_en": "ent-CurtainsGreenOpen = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsOrange",
+      "raw_en": "ent-CurtainsOrange = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsOrangeOpen",
+      "raw_en": "ent-CurtainsOrangeOpen = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsPink",
+      "raw_en": "ent-CurtainsPink = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsPinkOpen",
+      "raw_en": "ent-CurtainsPinkOpen = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsPurple",
+      "raw_en": "ent-CurtainsPurple = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsPurpleOpen",
+      "raw_en": "ent-CurtainsPurpleOpen = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsRed",
+      "raw_en": "ent-CurtainsRed = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsRedOpen",
+      "raw_en": "ent-CurtainsRedOpen = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsWhite",
+      "raw_en": "ent-CurtainsWhite = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CurtainsWhiteOpen",
+      "raw_en": "ent-CurtainsWhiteOpen = curtains\n    .desc = Hides what others shouldn't see.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Decoration/curtains.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Decoration/curtains.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoozeDispenser",
+      "raw_en": "ent-BoozeDispenser = booze dispenser\n    .desc = A booze dispenser with a single slot for a container to be filled.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Dispensers/booze.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Dispensers/booze.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChemDispenser",
+      "raw_en": "ent-ChemDispenser = chemical dispenser\n    .desc = An industrial grade chemical dispenser.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Dispensers/chem.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Dispensers/chem.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SodaDispenser",
+      "raw_en": "ent-SodaDispenser = soda dispenser\n    .desc = A beverage dispenser with a selection of soda and several other common beverages. Has a single fill slot for containers.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Dispensers/soda.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Dispensers/soda.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockServiceLocked",
+      "raw_en": "ent-AirlockServiceLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockLawyerLocked",
+      "raw_en": "ent-AirlockLawyerLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockTheatreLocked",
+      "raw_en": "ent-AirlockTheatreLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockServiceTheatreLocked",
+      "raw_en": "ent-AirlockServiceTheatreLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockChapelLocked",
+      "raw_en": "ent-AirlockChapelLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockKitchenLocked",
+      "raw_en": "ent-AirlockKitchenLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockBarLocked",
+      "raw_en": "ent-AirlockBarLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockBarKitchenLocked",
+      "raw_en": "ent-AirlockBarKitchenLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockHydroponicsLocked",
+      "raw_en": "ent-AirlockHydroponicsLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockExternalLocked",
+      "raw_en": "ent-AirlockExternalLocked = airlock\n    .desc = It opens, it closes, it might crush you, and there might be only space behind it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockExternalCargoLocked",
+      "raw_en": "ent-AirlockExternalCargoLocked = airlock\n    .desc = It opens, it closes, it might crush you, and there might be only space behind it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockExternalEngineeringLocked",
+      "raw_en": "ent-AirlockExternalEngineeringLocked = airlock\n    .desc = It opens, it closes, it might crush you, and there might be only space behind it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockExternalCommandLocked",
+      "raw_en": "ent-AirlockExternalCommandLocked = airlock\n    .desc = It opens, it closes, it might crush you, and there might be only space behind it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockExternalGlassCommandLocked",
+      "raw_en": "ent-AirlockExternalGlassCommandLocked = airlock\n    .desc = It opens, it closes, it might crush you, and there might be only space behind it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    }
+  ]
+}

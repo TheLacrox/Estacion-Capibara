@@ -2,6 +2,7 @@ ent-FoodPieApple = tarta de manzana
     .desc = Una tarta que contiene dulce, dulce amor... o manzana.
 
 ent-FoodPieAppleSlice = porción de tarta de manzana
+    .desc = Una porción de tarta. ¡Deliciosa!
 
 ent-FoodPieBaklava = baklava
     .desc = Un delicioso aperitivo saludable hecho de capas de nueces con pan delgado.
@@ -19,35 +20,42 @@ ent-FoodPieClafoutis = clafoutis de bayas
     .desc = Sin mirlos, eso es buena señal.
 
 ent-FoodPieClafoutisSlice = porción de clafoutis de bayas
+    .desc = Una porción de tarta. ¡Deliciosa!
 
 ent-FoodPieCherry = tarta de cerezas
     .desc = Sabe tan bien que puede hacer llorar a un hombre adulto.
 
 ent-FoodPieCherrySlice = porción de tarta de cerezas
+    .desc = Una porción de tarta. ¡Deliciosa!
 
 ent-FoodPieMeat = tarta de carne
     .desc = Una vieja receta de barbero, muy deliciosa.
 
 ent-FoodPieMeatSlice = porción de tarta de carne
+    .desc = Una porción de tarta. ¡Deliciosa!
 
 ent-FoodPiePumpkin = tarta de calabaza
     .desc = Alguien debería convertir esto en un latte.
 
 ent-FoodPiePumpkinSlice = porción de tarta de calabaza
+    .desc = Una porción de tarta. ¡Deliciosa!
 
 ent-FoodPieXeno = tarta xeno
 
 ent-FoodPieXenoSlice = porción de tarta xeno
+    .desc = Una porción de tarta. ¡Deliciosa!
 
 ent-FoodPieFrosty = tarta helada
     .desc = Sabe a azul y frío.
 
 ent-FoodPieFrostySlice = porción de tarta helada
+    .desc = Una porción de tarta. ¡Deliciosa!
 
 ent-FoodTartMime = tartaleta de mimo
     .desc = "      "
 
 ent-FoodTartMimeSlice = porción de tartaleta de mimo
+    .desc = Una porción de tarta. ¡Deliciosa!
 
 ent-FoodPieAmanita = tarta de amanita
     .desc = Dulce y sabrosa tarta envenenada.

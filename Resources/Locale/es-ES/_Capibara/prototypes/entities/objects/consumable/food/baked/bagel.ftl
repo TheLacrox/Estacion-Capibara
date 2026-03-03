@@ -1,4 +1,5 @@
 ent-FoodBagel = bagel
+    .desc = Un delicioso bagel.
 
 ent-FoodBagelPoppy = bagel de semillas de amapola
     .desc = Un delicioso bagel cubierto con semillas de amapola infusionadas con bicaridina.

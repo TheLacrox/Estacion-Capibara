@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0032_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "SpawnPointGhostSpaceNinja",
+      "raw_en": "ent-SpawnPointGhostSpaceNinja = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostParadoxClone",
+      "raw_en": "ent-SpawnPointGhostParadoxClone = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostDerelictCyborg",
+      "raw_en": "ent-SpawnPointGhostDerelictCyborg = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostAncientRogueKing",
+      "raw_en": "ent-SpawnPointGhostAncientRogueKing = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerDirtBase",
+      "raw_en": "ent-DecalSpawnerDirtBase = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/dirt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/dirt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerDirtSingle",
+      "raw_en": "ent-DecalSpawnerDirtSingle = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/dirt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/dirt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerDirtNear",
+      "raw_en": "ent-DecalSpawnerDirtNear = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/dirt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/dirt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerDirtWide",
+      "raw_en": "ent-DecalSpawnerDirtWide = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/dirt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/dirt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerDirtMonospace",
+      "raw_en": "ent-DecalSpawnerDirtMonospace = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/dirt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/dirt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerBurns",
+      "raw_en": "ent-DecalSpawnerBurns = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/dirt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/dirt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerFloraBase",
+      "raw_en": "ent-DecalSpawnerFloraBase = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/flora.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/flora.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerGrassyRock",
+      "raw_en": "ent-DecalSpawnerGrassyRock = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/flora.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/flora.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerBasaltRock",
+      "raw_en": "ent-DecalSpawnerBasaltRock = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/flora.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/flora.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerBushesAC",
+      "raw_en": "ent-DecalSpawnerBushesAC = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/flora.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/flora.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerFlowers",
+      "raw_en": "ent-DecalSpawnerFlowers = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/flora.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/flora.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerGrassAB",
+      "raw_en": "ent-DecalSpawnerGrassAB = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/flora.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/flora.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerGrassC",
+      "raw_en": "ent-DecalSpawnerGrassC = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/flora.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/flora.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerGrassDE",
+      "raw_en": "ent-DecalSpawnerGrassDE = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/flora.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/flora.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerBloodSplatters",
+      "raw_en": "ent-DecalSpawnerBloodSplatters = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/splatters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/splatters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DecalSpawnerGraffiti",
+      "raw_en": "ent-DecalSpawnerGraffiti = Decal Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Decals/splatters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Decals/splatters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SalvageSpawnerScrapCommon75",
+      "raw_en": "ent-SalvageSpawnerScrapCommon75 = Salvage Scrap Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Salvage/spawners.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Salvage/spawners.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SalvageSpawnerScrapValuable75",
+      "raw_en": "ent-SalvageSpawnerScrapValuable75 = Salvage Scrap Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Salvage/spawners.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Salvage/spawners.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SalvageSpawnerMobMagnet75",
+      "raw_en": "ent-SalvageSpawnerMobMagnet75 = Salvage Magnet Mob Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Salvage/spawners.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Salvage/spawners.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SalvageSpawnerMobMagnet100",
+      "raw_en": "ent-SalvageSpawnerMobMagnet100 = Salvage Magnet Mob Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/Salvage/spawners.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/Salvage/spawners.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SalvageMobSpawner75",
+      "raw_en": "ent-SalvageMobSpawner75 = Salvage Mob Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/salvage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/salvage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RandomSpawner100",
+      "raw_en": "ent-RandomSpawner100 = Trash Spawner",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/Random/trash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/Random/trash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobRandomServiceCorpse",
+      "raw_en": "ent-MobRandomServiceCorpse = unidentified corpse\n    .desc = I think they're dead.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Corpses/corpses.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Corpses/corpses.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobRandomEngineerCorpse",
+      "raw_en": "ent-MobRandomEngineerCorpse = unidentified corpse\n    .desc = I think they're dead.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Corpses/corpses.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Corpses/corpses.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobRandomCargoCorpse",
+      "raw_en": "ent-MobRandomCargoCorpse = unidentified corpse\n    .desc = I think they're dead.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Corpses/corpses.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Corpses/corpses.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobRandomMedicCorpse",
+      "raw_en": "ent-MobRandomMedicCorpse = unidentified corpse\n    .desc = I think they're dead.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Corpses/corpses.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Corpses/corpses.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobRandomScienceCorpse",
+      "raw_en": "ent-MobRandomScienceCorpse = unidentified corpse\n    .desc = I think they're dead.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Corpses/corpses.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Corpses/corpses.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobRandomSecurityCorpse",
+      "raw_en": "ent-MobRandomSecurityCorpse = unidentified corpse\n    .desc = I think they're dead.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Corpses/corpses.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Corpses/corpses.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobRandomCommandCorpse",
+      "raw_en": "ent-MobRandomCommandCorpse = unidentified corpse\n    .desc = I think they're dead.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Corpses/corpses.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Corpses/corpses.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgChassis",
+      "raw_en": "ent-BaseBorgChassis = cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Cyborgs/base_borg_chassis.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Cyborgs/base_borg_chassis.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgChassisNT",
+      "raw_en": "ent-BaseBorgChassisNT = cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Cyborgs/base_borg_chassis.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Cyborgs/base_borg_chassis.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgChassisSyndicate",
+      "raw_en": "ent-BaseBorgChassisSyndicate = cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Cyborgs/base_borg_chassis.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Cyborgs/base_borg_chassis.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgChassisDerelict",
+      "raw_en": "ent-BaseBorgChassisDerelict = cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Cyborgs/base_borg_chassis.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Cyborgs/base_borg_chassis.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BorgChassisSelectable",
+      "raw_en": "ent-BorgChassisSelectable = cyborg\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Cyborgs/borg_chassis.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoborgEngiPrinted",
+      "raw_en": "ent-XenoborgEngiPrinted = engi xenoborg\n    .desc = A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh Xenoborg chassis to grow their army. This one seems to be an engineering type, as it has more tools for supporting the other Xenoborgs.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Cyborgs/xenoborgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Cyborgs/xenoborgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoborgHeavyPrinted",
+      "raw_en": "ent-XenoborgHeavyPrinted = heavy xenoborg\n    .desc = A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh Xenoborg chassis to grow their army. This type is has heavy lasers and is covered in thick armor plates. It may be tougher, but its speed matches its brawn.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Cyborgs/xenoborgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Cyborgs/xenoborgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoborgScoutPrinted",
+      "raw_en": "ent-XenoborgScoutPrinted = scout xenoborg\n    .desc = A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh Xenoborg chassis to grow their army. This is a scout type, its nimble thrusters allow it to move quickly through space.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Cyborgs/xenoborgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Cyborgs/xenoborgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoborgStealthPrinted",
+      "raw_en": "ent-XenoborgStealthPrinted = stealth xenoborg\n    .desc = A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh Xenoborg chassis to grow their army. This one is a stealth type. Its armor shimmers in the light like no other material you've seen.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Cyborgs/xenoborgs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Cyborgs/xenoborgs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobChicken1",
+      "raw_en": "ent-MobChicken1 = chicken\n    .desc = Comes before an egg, and IS a dinosaur!",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobChicken2",
+      "raw_en": "ent-MobChicken2 = chicken\n    .desc = Comes before an egg, and IS a dinosaur!",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FoodEggDuckFertilized",
+      "raw_en": "ent-FoodEggDuckFertilized = egg\n    .desc = An egg!",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobMonkeySyndicateAgent",
+      "raw_en": "ent-MobMonkeySyndicateAgent = monkey\n    .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobMonkeySyndicateAgentNukeops",
+      "raw_en": "ent-MobMonkeySyndicateAgentNukeops = monkey\n    .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobBaseSyndicateKobold",
+      "raw_en": "ent-MobBaseSyndicateKobold = kobold\n    .desc = Cousins to the sentient race of lizard people, kobolds blend in with their natural habitat and are as nasty as monkeys; ready to pull out your hair and stab you to death.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobKoboldSyndicateAgent",
+      "raw_en": "ent-MobKoboldSyndicateAgent = kobold\n    .desc = Cousins to the sentient race of lizard people, kobolds blend in with their natural habitat and are as nasty as monkeys; ready to pull out your hair and stab you to death.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobKoboldSyndicateAgentNukeops",
+      "raw_en": "ent-MobKoboldSyndicateAgentNukeops = kobold\n    .desc = Cousins to the sentient race of lizard people, kobolds blend in with their natural habitat and are as nasty as monkeys; ready to pull out your hair and stab you to death.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    }
+  ]
+}

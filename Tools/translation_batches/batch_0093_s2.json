@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0093_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "ClothingOuterCoatLabSeniorResearcherOpened",
+      "raw_en": "ent-ClothingOuterCoatLabSeniorResearcherOpened =\n    .desc = A suit that protects against minor chemical spills. Has a purple collar and wrist trims.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatLabSeniorPhysicianOpened",
+      "raw_en": "ent-ClothingOuterCoatLabSeniorPhysicianOpened =\n    .desc = A suit that protects against minor chemical spills. Has light blue sleeves and an orange waist trim.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatExpensiveOpened",
+      "raw_en": "ent-ClothingOuterCoatExpensiveOpened =\n    .desc = Very fluffy pink coat, made out of very expensive fur (clearly).",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterCoatToggleable",
+      "raw_en": "ent-ClothingOuterWinterCoatToggleable =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterAtmos",
+      "raw_en": "ent-ClothingOuterWinterAtmos =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterBar",
+      "raw_en": "ent-ClothingOuterWinterBar =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterCap",
+      "raw_en": "ent-ClothingOuterWinterCap =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterCargo",
+      "raw_en": "ent-ClothingOuterWinterCargo =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterCE",
+      "raw_en": "ent-ClothingOuterWinterCE =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterCentcom",
+      "raw_en": "ent-ClothingOuterWinterCentcom =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterChem",
+      "raw_en": "ent-ClothingOuterWinterChem =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterCMO",
+      "raw_en": "ent-ClothingOuterWinterCMO =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterClown",
+      "raw_en": "ent-ClothingOuterWinterClown =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterEngi",
+      "raw_en": "ent-ClothingOuterWinterEngi =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterGen",
+      "raw_en": "ent-ClothingOuterWinterGen =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterHoP",
+      "raw_en": "ent-ClothingOuterWinterHoP =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterHydro",
+      "raw_en": "ent-ClothingOuterWinterHydro =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterJani",
+      "raw_en": "ent-ClothingOuterWinterJani =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterMed",
+      "raw_en": "ent-ClothingOuterWinterMed =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterMime",
+      "raw_en": "ent-ClothingOuterWinterMime =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterMiner",
+      "raw_en": "ent-ClothingOuterWinterMiner =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterPara",
+      "raw_en": "ent-ClothingOuterWinterPara =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterQM",
+      "raw_en": "ent-ClothingOuterWinterQM =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterRD",
+      "raw_en": "ent-ClothingOuterWinterRD =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterRobo",
+      "raw_en": "ent-ClothingOuterWinterRobo =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterSci",
+      "raw_en": "ent-ClothingOuterWinterSci =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterSec",
+      "raw_en": "ent-ClothingOuterWinterSec =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterViro",
+      "raw_en": "ent-ClothingOuterWinterViro =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorBlack",
+      "raw_en": "ent-ClothingOuterWinterColorBlack =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorPurple",
+      "raw_en": "ent-ClothingOuterWinterColorPurple =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorRed",
+      "raw_en": "ent-ClothingOuterWinterColorRed =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorBlue",
+      "raw_en": "ent-ClothingOuterWinterColorBlue =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorBrown",
+      "raw_en": "ent-ClothingOuterWinterColorBrown =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorGray",
+      "raw_en": "ent-ClothingOuterWinterColorGray =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorGreen",
+      "raw_en": "ent-ClothingOuterWinterColorGreen =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorLightBrown",
+      "raw_en": "ent-ClothingOuterWinterColorLightBrown =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorOrange",
+      "raw_en": "ent-ClothingOuterWinterColorOrange =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorWhite",
+      "raw_en": "ent-ClothingOuterWinterColorWhite =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingOuterWinterColorYellow",
+      "raw_en": "ent-ClothingOuterWinterColorYellow =\n    .desc = A heavy jacket made from 'synthetic' animal furs.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/wintercoats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/wintercoats.ftl"
+    },
+    {
+      "id": "ClothingShoesBootsWinter",
+      "raw_en": "ent-ClothingShoesBootsWinter =\n    .desc = Fluffy boots to help survive even the coldest of winters.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/boots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/shoes/boots.ftl"
+    },
+    {
+      "id": "ClothingShoesBootsWinterCargo",
+      "raw_en": "ent-ClothingShoesBootsWinterCargo =\n    .desc = Fluffy boots to help survive even the coldest of winters.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/boots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/shoes/boots.ftl"
+    },
+    {
+      "id": "ClothingShoesBootsWinterEngi",
+      "raw_en": "ent-ClothingShoesBootsWinterEngi =\n    .desc = Fluffy boots to help survive even the coldest of winters.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/boots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/shoes/boots.ftl"
+    },
+    {
+      "id": "ClothingShoesBootsWinterMed",
+      "raw_en": "ent-ClothingShoesBootsWinterMed =\n    .desc = Fluffy boots to help survive even the coldest of winters.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/boots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/shoes/boots.ftl"
+    },
+    {
+      "id": "ClothingShoesBootsWinterSci",
+      "raw_en": "ent-ClothingShoesBootsWinterSci =\n    .desc = Fluffy boots to help survive even the coldest of winters.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/boots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/shoes/boots.ftl"
+    },
+    {
+      "id": "ClothingShoesBootsWinterSec",
+      "raw_en": "ent-ClothingShoesBootsWinterSec =\n    .desc = Fluffy boots to help survive even the coldest of winters.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/boots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/shoes/boots.ftl"
+    },
+    {
+      "id": "ClothingShoesBootsCowboyBlack",
+      "raw_en": "ent-ClothingShoesBootsCowboyBlack =\n    .desc = They got spurs that jingle and/or jangle.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/boots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/shoes/boots.ftl"
+    },
+    {
+      "id": "ClothingShoesBootsCowboyWhite",
+      "raw_en": "ent-ClothingShoesBootsCowboyWhite =\n    .desc = They got spurs that jingle and/or jangle.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/boots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/shoes/boots.ftl"
+    },
+    {
+      "id": "ClothingShoesBootsCowboyFancy",
+      "raw_en": "ent-ClothingShoesBootsCowboyFancy =\n    .desc = They got spurs that jingle and/or jangle.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/boots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/shoes/boots.ftl"
+    },
+    {
+      "id": "ClothingUnderSocksCoder",
+      "raw_en": "ent-ClothingUnderSocksCoder =\n    .desc = It's time to code sisters!!11!",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Under/under.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Goobstation/prototypes/entity/clothing/under.ftl"
+    },
+    {
+      "id": "ClothingUniformJumpsuitClownBanana",
+      "raw_en": "ent-ClothingUniformJumpsuitClownBanana =\n    .desc = HONK!",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Uniforms/jumpsuits.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/uniforms/jumpsuits.ftl"
+    }
+  ]
+}

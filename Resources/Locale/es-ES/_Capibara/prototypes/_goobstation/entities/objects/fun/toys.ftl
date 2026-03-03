@@ -31,6 +31,7 @@ ent-PlushieAbductor = peluche alienígena
 ent-GrenadeToy = granada de broma
 
 ent-BulletGrenadeToy = granada de broma
+    .desc = ¡Si puedes ver esto, probablemente estés muerto!
 
 ent-WeaponLauncherTaiwanPond = taiwan pond # we ball
     .desc = PLOP.
@@ -84,30 +85,43 @@ ent-PlushieWachtel = peluche de grug
     .desc = El conductor más borracho de Dios.
 
 ent-EvilPlushieXeve = peluche malvado de Xeve
+    .desc = Ese maldito byrd que odio.
 
 ent-EvilPlushieBoggle = peluche malvado de Boggle
+    .desc = Puedes sentir dinero dentro.
 
 ent-EvilPlushieBrizby = peluche malvado de Brizby
+    .desc = Siempre admitirá ser malvado.
 
 ent-EvilPlushieNigel = peluche malvado de Nigel
+    .desc = Huele a grandeza, y a un olor inconfundible a perfume de la marca adalamin.
 
 ent-EvilPlushieFern = peluche malvado de Fern
+    .desc = Sientes que algo más te está mirando... justo fuera de tu campo de visión, en las sombras.
 
 ent-EvilPlushieJvne = peluche malvado de Jvne
+    .desc = Ha sido un día duro...
 
 ent-EvilPlushieMnwaar = peluche malvado de Mnwaar
+    .desc = Un peluche de un pequeño Shadowkin de gris oscuro semi-heterocrómitico vestido con el atuendo de un Jefe Médico.\nLa etiqueta dice: \"¡Mnwaar: el Mudo Mánager de Medicina!™ ¡Ahora con hipospray de imán incorporado!\"
 
 ent-EvilPlushieDurk = peluche malvado de Durk
+    .desc = Un adorable peluche que se parece a cierto técnico de atmósfera. Sientes que una gran ruptura del universo se acerca mientras lo sostienes.
 
 ent-EvilPlushieLouie = peluche malvado de Louie
+    .desc = Un adorable peluche que se parece a una rata. Sientes una extraña compulsión de saludar a la rata.
 
 ent-EvilPlushieWachtel = peluche malvado de Grug
+    .desc = El conductor más borracho de Dios.
 
 ent-EvilPlushieLeguia = peluche malvado de Leguia
+    .desc = Criatura dudosa.
 
 ent-EvilPlushiePasha = peluche malvado de Pasha
+    .desc = Un peluche no tan adorable que se parece a un Vox agotado. Huele fuertemente a nicotina.
 
 ent-EvilPlushieTwofish = TwoFish malvado
+    .desc = Mirándolo de cerca, parece un cretino.
 
 ent-ToyBladeEldritch = espada de juguete
     .desc = Una hoja creciente de plástico amarillo, decorada con un ojo ornamental. Sientes que te están observando...

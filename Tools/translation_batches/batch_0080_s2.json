@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0080_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "BorgChassisMedicalCricket",
+      "raw_en": "ent-BorgChassisMedicalCricket =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisMedicalRover",
+      "raw_en": "ent-BorgChassisMedicalRover =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisServiceStandart",
+      "raw_en": "ent-BorgChassisServiceStandart =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisServiceBrobot",
+      "raw_en": "ent-BorgChassisServiceBrobot =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisServiceWaitress",
+      "raw_en": "ent-BorgChassisServiceWaitress =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisServiceCricket",
+      "raw_en": "ent-BorgChassisServiceCricket =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisServiceKent",
+      "raw_en": "ent-BorgChassisServiceKent =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisServiceNoble",
+      "raw_en": "ent-BorgChassisServiceNoble =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisServiceRich",
+      "raw_en": "ent-BorgChassisServiceRich =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "BorgChassisServiceRover",
+      "raw_en": "ent-BorgChassisServiceRover =\n    .desc = A man-machine hybrid that assists in station activity. They love being asked to state their laws over and over.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/cyborgs/borg_chassis.ftl"
+    },
+    {
+      "id": "MouseMenace",
+      "raw_en": "ent-MouseMenace =\n    .desc = Squeak!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/NPCs/animals.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/npcs/animals.ftl"
+    },
+    {
+      "id": "MobSharkDragon",
+      "raw_en": "ent-MobSharkDragon =\n    .desc = A dangerous shark from the blackness of endless space, who loves to drink blood.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/NPCs/carp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/npcs/carp.ftl"
+    },
+    {
+      "id": "MobFermidSmall",
+      "raw_en": "ent-MobFermidSmall =\n    .desc = Extremely hostile asteroid-dwelling bugs. Best to avoid them wherever possible.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/NPCs/fermid.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/npcs/fermid.ftl"
+    },
+    {
+      "id": "MobFermidLarge",
+      "raw_en": "ent-MobFermidLarge =\n    .desc = Extremely hostile asteroid-dwelling bugs. Best to avoid them wherever possible.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/NPCs/fermid.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/npcs/fermid.ftl"
+    },
+    {
+      "id": "MobFermidWarrior",
+      "raw_en": "ent-MobFermidWarrior =\n    .desc = Extremely hostile asteroid-dwelling bugs. Best to avoid them wherever possible.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/NPCs/fermid.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/npcs/fermid.ftl"
+    },
+    {
+      "id": "GunBot",
+      "raw_en": "ent-GunBot =\n    .desc = A Security Robot, something seems a bit off.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/NPCs/silicon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/npcs/silicon.ftl"
+    },
+    {
+      "id": "CMMobXenoDrone",
+      "raw_en": "ent-CMMobXenoDrone =\n    .desc = An alien drone.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Mobs/Xenos/xeno.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/mobs/xenos/xeno.ftl"
+    },
+    {
+      "id": "DrinkFitnessShakerBlue",
+      "raw_en": "ent-DrinkFitnessShakerBlue =\n    .desc = Big enough to contain enough protein to get perfectly swole. Don't mind the bits.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Drinks/drinks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/drinks/drinks.ftl"
+    },
+    {
+      "id": "FoodBlackCaviarTrash",
+      "raw_en": "ent-FoodBlackCaviarTrash =\n    .desc = An empty tin. Could get a bit of metal from this.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/Containers/tin.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/containers/tin.ftl"
+    },
+    {
+      "id": "FoodRedCaviarTrash",
+      "raw_en": "ent-FoodRedCaviarTrash =\n    .desc = An empty tin. Could get a bit of metal from this.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/Containers/tin.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/containers/tin.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopLexorin",
+      "raw_en": "ent-FoodSnackLollypopLexorin =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopRomerol",
+      "raw_en": "ent-FoodSnackLollypopRomerol =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopNocturine",
+      "raw_en": "ent-FoodSnackLollypopNocturine =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopHyperzine",
+      "raw_en": "ent-FoodSnackLollypopHyperzine =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopSynaptizine",
+      "raw_en": "ent-FoodSnackLollypopSynaptizine =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopFentanyl",
+      "raw_en": "ent-FoodSnackLollypopFentanyl =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopPhlogiston",
+      "raw_en": "ent-FoodSnackLollypopPhlogiston =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopCyanide",
+      "raw_en": "ent-FoodSnackLollypopCyanide =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopTirizene",
+      "raw_en": "ent-FoodSnackLollypopTirizene =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopAnacea",
+      "raw_en": "ent-FoodSnackLollypopAnacea =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopPotassiumBomb",
+      "raw_en": "ent-FoodSnackLollypopPotassiumBomb =\n    .desc = A plain old lollypop. This one gives you a bad feeling.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodSnackLollypopTrash",
+      "raw_en": "ent-FoodSnackLollypopTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/lollypops.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/lollypops.ftl"
+    },
+    {
+      "id": "FoodPacketLunacakeTrash",
+      "raw_en": "ent-FoodPacketLunacakeTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketMochicakeTrash",
+      "raw_en": "ent-FoodPacketMochicakeTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketMooncakeTrash",
+      "raw_en": "ent-FoodPacketMooncakeTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketTidegobsTrash",
+      "raw_en": "ent-FoodPacketTidegobsTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketSaturnosTrash",
+      "raw_en": "ent-FoodPacketSaturnosTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketJoveGelloTrash",
+      "raw_en": "ent-FoodPacketJoveGelloTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketPlutoniumrodsTrash",
+      "raw_en": "ent-FoodPacketPlutoniumrodsTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketMarsFroukaTrash",
+      "raw_en": "ent-FoodPacketMarsFroukaTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketVenusTrash",
+      "raw_en": "ent-FoodPacketVenusTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketOortrocksTrash",
+      "raw_en": "ent-FoodPacketOortrocksTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketRedalertnutsTrash",
+      "raw_en": "ent-FoodPacketRedalertnutsTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketStickTrash",
+      "raw_en": "ent-FoodPacketStickTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketProteinbarTrash",
+      "raw_en": "ent-FoodPacketProteinbarTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "AutosurgeonRightSpeedLeg",
+      "raw_en": "ent-AutosurgeonRightSpeedLeg =\n    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/autosurgeon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/autosurgeon.ftl"
+    },
+    {
+      "id": "AutosurgeonLeftSpeedLeg",
+      "raw_en": "ent-AutosurgeonLeftSpeedLeg =\n    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/autosurgeon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/autosurgeon.ftl"
+    },
+    {
+      "id": "AutosurgeonRightMantisBlade",
+      "raw_en": "ent-AutosurgeonRightMantisBlade =\n    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/autosurgeon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/autosurgeon.ftl"
+    },
+    {
+      "id": "AutosurgeonLeftMantisBlade",
+      "raw_en": "ent-AutosurgeonLeftMantisBlade =\n    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/autosurgeon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/autosurgeon.ftl"
+    },
+    {
+      "id": "AutosurgeonSandevistan",
+      "raw_en": "ent-AutosurgeonSandevistan =\n    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/autosurgeon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/autosurgeon.ftl"
+    }
+  ]
+}

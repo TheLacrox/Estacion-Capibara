@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0092_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "ClothingHeadHatHoodWinterColorYellow",
+      "raw_en": "ent-ClothingHeadHatHoodWinterColorYellow =\n    .desc = A hood, made to keep your head warm.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/hoods.ftl"
+    },
+    {
+      "id": "ClothingHeadHatBluesoftFlipped",
+      "raw_en": "ent-ClothingHeadHatBluesoftFlipped =\n    .desc = A blue baseball cap.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatCargosoftFlipped",
+      "raw_en": "ent-ClothingHeadHatCargosoftFlipped =\n    .desc = A baseball cap colored to match cargo's uniforms.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatQMsoftFlipped",
+      "raw_en": "ent-ClothingHeadHatQMsoftFlipped =\n    .desc = A baseball cap colored to match the Quartermaster's uniform.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatCommandSoftFlipped",
+      "raw_en": "ent-ClothingHeadHatCommandSoftFlipped =\n    .desc = A baseball cap in command's distinctive shade of blue.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatCorpsoftFlipped",
+      "raw_en": "ent-ClothingHeadHatCorpsoftFlipped =\n    .desc = A baseball cap in corporation colors.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatGreensoftFlipped",
+      "raw_en": "ent-ClothingHeadHatGreensoftFlipped =\n    .desc = A green baseball cap.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatBlacksoftFlipped",
+      "raw_en": "ent-ClothingHeadHatBlacksoftFlipped =\n    .desc = A black baseball cap.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatGreysoftFlipped",
+      "raw_en": "ent-ClothingHeadHatGreysoftFlipped =\n    .desc = A grey baseball cap.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatMimesoftFlipped",
+      "raw_en": "ent-ClothingHeadHatMimesoftFlipped =\n    .desc = A white baseball cap.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatOrangesoftFlipped",
+      "raw_en": "ent-ClothingHeadHatOrangesoftFlipped =\n    .desc = An orange baseball cap.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatPurplesoftFlipped",
+      "raw_en": "ent-ClothingHeadHatPurplesoftFlipped =\n    .desc = A purple baseball cap.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatRedsoftFlipped",
+      "raw_en": "ent-ClothingHeadHatRedsoftFlipped =\n    .desc = A red baseball cap.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatSecsoftFlipped",
+      "raw_en": "ent-ClothingHeadHatSecsoftFlipped =\n    .desc = A baseball cap colored to match security's uniforms.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatYellowsoftFlipped",
+      "raw_en": "ent-ClothingHeadHatYellowsoftFlipped =\n    .desc = A yellow baseball cap.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatBizarreSoftFlipped",
+      "raw_en": "ent-ClothingHeadHatBizarreSoftFlipped =\n    .desc = A truly.. bizarre accessory.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingHeadHatParamedicsoftFlipped",
+      "raw_en": "ent-ClothingHeadHatParamedicsoftFlipped =\n    .desc = A blue baseball cap with a cross on the front.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/head/soft.ftl"
+    },
+    {
+      "id": "ClothingMaskClownBanana",
+      "raw_en": "ent-ClothingMaskClownBanana =\n    .desc = A true prankster's facial attire. A clown is incomplete without his wig and mask.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Masks/masks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/masks/masks.ftl"
+    },
+    {
+      "id": "ClothingMaskNeckGaiterRed",
+      "raw_en": "ent-ClothingMaskNeckGaiterRed =\n    .desc = Stylish neck gaiter for your neck, can protect from the cosmic wind?...",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Masks/masks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/masks/masks.ftl"
+    },
+    {
+      "id": "TowelColorWhite",
+      "raw_en": "ent-TowelColorWhite =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorPurple",
+      "raw_en": "ent-TowelColorPurple =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorRed",
+      "raw_en": "ent-TowelColorRed =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorBlue",
+      "raw_en": "ent-TowelColorBlue =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorDarkBlue",
+      "raw_en": "ent-TowelColorDarkBlue =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorLightBlue",
+      "raw_en": "ent-TowelColorLightBlue =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorTeal",
+      "raw_en": "ent-TowelColorTeal =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorBrown",
+      "raw_en": "ent-TowelColorBrown =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorLightBrown",
+      "raw_en": "ent-TowelColorLightBrown =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorGray",
+      "raw_en": "ent-TowelColorGray =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorGreen",
+      "raw_en": "ent-TowelColorGreen =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorDarkGreen",
+      "raw_en": "ent-TowelColorDarkGreen =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorGold",
+      "raw_en": "ent-TowelColorGold =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorOrange",
+      "raw_en": "ent-TowelColorOrange =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorBlack",
+      "raw_en": "ent-TowelColorBlack =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorPink",
+      "raw_en": "ent-TowelColorPink =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorYellow",
+      "raw_en": "ent-TowelColorYellow =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorMaroon",
+      "raw_en": "ent-TowelColorMaroon =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorSilver",
+      "raw_en": "ent-TowelColorSilver =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorMime",
+      "raw_en": "ent-TowelColorMime =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorNT",
+      "raw_en": "ent-TowelColorNT =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorCentcom",
+      "raw_en": "ent-TowelColorCentcom =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "TowelColorSyndicate",
+      "raw_en": "ent-TowelColorSyndicate =\n    .desc = If you want to survive out here, you gotta know where your towel is.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Multiple/towel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/multiple/towel.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatLabOpened",
+      "raw_en": "ent-ClothingOuterCoatLabOpened =\n    .desc = A suit that protects against minor chemical spills.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatLabChemOpened",
+      "raw_en": "ent-ClothingOuterCoatLabChemOpened =\n    .desc = A suit that protects against minor chemical spills. Has an orange stripe on the shoulder.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatLabViroOpened",
+      "raw_en": "ent-ClothingOuterCoatLabViroOpened =\n    .desc = A suit that protects against bacteria and viruses. Has an green stripe on the shoulder.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatLabGeneOpened",
+      "raw_en": "ent-ClothingOuterCoatLabGeneOpened =\n    .desc = A suit that protects against minor chemical spills. Has an blue stripe on the shoulder.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatLabCmoOpened",
+      "raw_en": "ent-ClothingOuterCoatLabCmoOpened =\n    .desc = Custom made blue lab coat for the Chief Medical Officer, offers improved protection against chemical spills and minor cuts.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatRndOpened",
+      "raw_en": "ent-ClothingOuterCoatRndOpened =\n    .desc = A suit that protects against minor chemical spills. Has a purple stripe on the shoulder.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatRoboOpened",
+      "raw_en": "ent-ClothingOuterCoatRoboOpened =\n    .desc = More like an eccentric coat than a labcoat. Helps pass off bloodstains as part of the aesthetic. Comes with red shoulder pads.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    },
+    {
+      "id": "ClothingOuterCoatRDOpened",
+      "raw_en": "ent-ClothingOuterCoatRDOpened =\n    .desc = Woven with top of the line technology, this labcoat helps protect against radiation in similar way to the experimental hardsuit.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/clothing/outerclothing/coats.ftl"
+    }
+  ]
+}

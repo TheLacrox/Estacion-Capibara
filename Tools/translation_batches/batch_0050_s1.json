@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0050_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "WeaponStaffBase",
+      "raw_en": "ent-WeaponStaffBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Basic/base_staff.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Basic/base_staff.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponWandBase",
+      "raw_en": "ent-WeaponWandBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Basic/base_wand.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Basic/base_wand.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponWandPolymorphBase",
+      "raw_en": "ent-WeaponWandPolymorphBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Basic/wands.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Basic/wands.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponWaterGunBase",
+      "raw_en": "ent-WeaponWaterGunBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Basic/watergun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Basic/watergun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseWeaponBattery",
+      "raw_en": "ent-BaseWeaponBattery = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Battery/battery_guns.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseWeaponPowerCell",
+      "raw_en": "ent-BaseWeaponPowerCell = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Battery/battery_guns.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseWeaponBatterySmall",
+      "raw_en": "ent-BaseWeaponBatterySmall = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Battery/battery_guns.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseWeaponPowerCellSmall",
+      "raw_en": "ent-BaseWeaponPowerCellSmall = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Battery/battery_guns.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BowImprovised",
+      "raw_en": "ent-BowImprovised = bow\n    .desc = The original rooty tooty point and shooty.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Bow/bow.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Bow/bow.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponImprovisedPneumaticCannonGun",
+      "raw_en": "ent-WeaponImprovisedPneumaticCannonGun = improvised pneumatic cannon\n    .desc = Improvised using nothing but a pipe, some zipties, and a pneumatic cannon. Doesn't accept tanks without enough gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/pneumatic_cannon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/pneumatic_cannon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponImprovisedPneumaticCannonAdmeme",
+      "raw_en": "ent-WeaponImprovisedPneumaticCannonAdmeme = improvised pneumatic cannon\n    .desc = Improvised using nothing but a pipe, some zipties, and a pneumatic cannon. Doesn't accept tanks without enough gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/pneumatic_cannon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/pneumatic_cannon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseArrow",
+      "raw_en": "ent-BaseArrow = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/arrows.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/arrows.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ProjectilePolyboltBase",
+      "raw_en": "ent-ProjectilePolyboltBase = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/magic.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/magic.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MeteorSmall",
+      "raw_en": "ent-MeteorSmall = meteor\n    .desc = You prefer them when they're burning up in the atmosphere.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/meteors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/meteors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MeteorMedium",
+      "raw_en": "ent-MeteorMedium = meteor\n    .desc = You prefer them when they're burning up in the atmosphere.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/meteors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/meteors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MeteorLarge",
+      "raw_en": "ent-MeteorLarge = meteor\n    .desc = You prefer them when they're burning up in the atmosphere.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/meteors.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/meteors.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBulletTrigger",
+      "raw_en": "ent-BaseBulletTrigger = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletDisabler",
+      "raw_en": "ent-BulletDisabler = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletDisablerPractice",
+      "raw_en": "ent-BulletDisablerPractice = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalousParticleDeltaStrong",
+      "raw_en": "ent-AnomalousParticleDeltaStrong = delta particles\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalousParticleEpsilonStrong",
+      "raw_en": "ent-AnomalousParticleEpsilonStrong = epsilon particles\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalousParticleZetaStrong",
+      "raw_en": "ent-AnomalousParticleZetaStrong = zeta particles\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletDisablerSmg",
+      "raw_en": "ent-BulletDisablerSmg = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletEnergyTurretBase",
+      "raw_en": "ent-BulletEnergyTurretBase = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletEnergyTurretLaser",
+      "raw_en": "ent-BulletEnergyTurretLaser = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletEnergyTurretDisabler",
+      "raw_en": "ent-BulletEnergyTurretDisabler = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponRevolverMatebaAP",
+      "raw_en": "ent-WeaponRevolverMatebaAP = Mateba\n    .desc = A rare and beautiful semi-automatic revolver. Provided only to the Nanotrasen elite, the Mateba sports a unique barrel design that greatly reduces muzzle flip. Many have stared down the barrel of this gun, and even fewer have lived to tell the tale. Loads 6 rounds of .45 Magnum.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Revolvers/revolvers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Revolvers/revolvers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponRevolverPythonAP",
+      "raw_en": "ent-WeaponRevolverPythonAP = Python\n    .desc = A powerful double-action revolver designed by the Waffle Corporation. Loud and flashy, and perfect for any agent looking to make a statement. Loads 6 rounds of .45 magnum.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Revolvers/revolvers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Revolvers/revolvers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponRevolverPirateEmpty",
+      "raw_en": "ent-WeaponRevolverPirateEmpty = pirate revolver\n    .desc = A crude single-action revolver handmade by a space pirate. Old and covered in rust, it somehow still works. Loads 5 rounds of .45 magnum.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Revolvers/revolvers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Revolvers/revolvers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponShotgunEnforcerRubber",
+      "raw_en": "ent-WeaponShotgunEnforcerRubber = Enforcer\n    .desc = A premium, semi-automatic shotgun platform designed for law enforcement and counter-terrorism use. Reliable as a pump action, even in extreme conditions. Loads 7 rounds of 12 Gauge.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Shotguns/shotguns.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Shotguns/shotguns.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponPistolFlintlockEmpty",
+      "raw_en": "ent-WeaponPistolFlintlockEmpty = flintlock pistol\n    .desc = A pirate's companion. Yarrr! Loads one round of .45 Magnum.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Snipers/snipers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Snipers/snipers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponTurretSyndicate",
+      "raw_en": "ent-WeaponTurretSyndicate = ballistic turret\n    .desc = A ballistic machine gun auto-turret.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Turrets/turrets_ballistic.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Turrets/turrets_ballistic.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponTurretNanoTrasen",
+      "raw_en": "ent-WeaponTurretNanoTrasen = ballistic turret\n    .desc = A ballistic machine gun auto-turret.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Turrets/turrets_ballistic.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Turrets/turrets_ballistic.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponTurretHostile",
+      "raw_en": "ent-WeaponTurretHostile = ballistic turret\n    .desc = A ballistic machine gun auto-turret.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Turrets/turrets_ballistic.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Turrets/turrets_ballistic.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponTurretAllHostile",
+      "raw_en": "ent-WeaponTurretAllHostile = ballistic turret\n    .desc = A ballistic machine gun auto-turret.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Turrets/turrets_ballistic.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Turrets/turrets_ballistic.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponEnergyTurretAI",
+      "raw_en": "ent-WeaponEnergyTurretAI = sentry turret\n    .desc = A high-tech autonomous weapons system designed to keep unauthorized personnel out of sensitive areas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Turrets/turrets_energy.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Turrets/turrets_energy.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponEnergyTurretSecurity",
+      "raw_en": "ent-WeaponEnergyTurretSecurity = sentry turret\n    .desc = A high-tech autonomous weapons system designed to keep unauthorized personnel out of sensitive areas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Turrets/turrets_energy.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Turrets/turrets_energy.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponEnergyTurretCommand",
+      "raw_en": "ent-WeaponEnergyTurretCommand = sentry turret\n    .desc = A high-tech autonomous weapons system designed to keep unauthorized personnel out of sensitive areas.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Turrets/turrets_energy.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Guns/Turrets/turrets_energy.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponBaguette",
+      "raw_en": "ent-WeaponBaguette = baguette\n    .desc = Bon appétit!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Melee/baguette.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Melee/baguette.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CaneSheath",
+      "raw_en": "ent-CaneSheath = cane\n    .desc = A standard wooden cane. Can help disabled people move easier.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Melee/cane.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Melee/cane.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CaneSheathFilled",
+      "raw_en": "ent-CaneSheathFilled = cane\n    .desc = A standard wooden cane. Can help disabled people move easier.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Melee/cane.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Melee/cane.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMeleeWeaponEnergy",
+      "raw_en": "ent-BaseMeleeWeaponEnergy = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Melee/e_sword.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Melee/e_sword.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CyborgEnergySwordDouble",
+      "raw_en": "ent-CyborgEnergySwordDouble = double-bladed energy sword\n    .desc = Syndicate Command Interns thought that having one blade on the energy sword was not enough. Specially designed for syndicate cyborgs.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Melee/e_sword.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Melee/e_sword.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EnergyDaggerLoudBlue",
+      "raw_en": "ent-EnergyDaggerLoudBlue = energy dagger\n    .desc = A not as loud and dangerous dagger with a beam made of pure, concentrated plasma. This one is completely undisguised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Melee/e_sword.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Melee/e_sword.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseKnife",
+      "raw_en": "ent-BaseKnife = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Melee/knife.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Melee/knife.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseSword",
+      "raw_en": "ent-BaseSword = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Melee/sword.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Melee/sword.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponCroissant",
+      "raw_en": "ent-WeaponCroissant = croissant\n    .desc = Buttery, flaky goodness.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Throwable/croissant.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Throwable/croissant.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GrenadeBase",
+      "raw_en": "ent-GrenadeBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Throwable/grenades.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Throwable/grenades.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ProjectileGrenadeBase",
+      "raw_en": "ent-ProjectileGrenadeBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Throwable/projectile_grenades.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Throwable/projectile_grenades.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ScatteringGrenadeBase",
+      "raw_en": "ent-ScatteringGrenadeBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Throwable/scattering_grenades.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Weapons/Throwable/scattering_grenades.ftl",
+      "file_exists": false
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0084_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "RodentiaCube",
+      "raw_en": "ent-RodentiaCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "ReptilianCube",
+      "raw_en": "ent-ReptilianCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "VulpkaninCube",
+      "raw_en": "ent-VulpkaninCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "SlimePersonCube",
+      "raw_en": "ent-SlimePersonCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "TajaranCube",
+      "raw_en": "ent-TajaranCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "YowieCube",
+      "raw_en": "ent-YowieCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "VoxCube",
+      "raw_en": "ent-VoxCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "ShadowkinCube",
+      "raw_en": "ent-ShadowkinCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "ChitinidCube",
+      "raw_en": "ent-ChitinidCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "FeroxiCube",
+      "raw_en": "ent-FeroxiCube =\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/rehydrateable.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/rehydrateable.ftl"
+    },
+    {
+      "id": "BorgModuleSyndicateWeaponAdvanced",
+      "raw_en": "ent-BorgModuleSyndicateWeaponAdvanced =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModuleLollypop",
+      "raw_en": "ent-BorgModuleLollypop =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "BorgModulePKA",
+      "raw_en": "ent-BorgModulePKA =\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/robotics/borg_modules.ftl"
+    },
+    {
+      "id": "ModsuitChestplate",
+      "raw_en": "ent-ModsuitChestplate =\n    .desc = A part used in MOD construction.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Robotics/modsuit_parts.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/robotics/modsuit_parts.ftl"
+    },
+    {
+      "id": "ModsuitBoots",
+      "raw_en": "ent-ModsuitBoots =\n    .desc = A part used in MOD construction.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Robotics/modsuit_parts.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/robotics/modsuit_parts.ftl"
+    },
+    {
+      "id": "ModsuitHelmet",
+      "raw_en": "ent-ModsuitHelmet =\n    .desc = A part used in MOD construction.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Robotics/modsuit_parts.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/robotics/modsuit_parts.ftl"
+    },
+    {
+      "id": "ModsuitGauntlets",
+      "raw_en": "ent-ModsuitGauntlets =\n    .desc = A part used in MOD construction.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Robotics/modsuit_parts.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/robotics/modsuit_parts.ftl"
+    },
+    {
+      "id": "ModsuitShell",
+      "raw_en": "ent-ModsuitShell =\n    .desc = A part used in MOD construction.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Robotics/modsuit_parts.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/specific/robotics/modsuit_parts.ftl"
+    },
+    {
+      "id": "JetpackContractor",
+      "raw_en": "ent-JetpackContractor =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "JetpackContractorFilled",
+      "raw_en": "ent-JetpackContractorFilled =\n    .desc = It's a jetpack. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Tools/jetpacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/tools/jetpacks.ftl"
+    },
+    {
+      "id": "HandheldFaxNanorep",
+      "raw_en": "ent-HandheldFaxNanorep =\n    .desc = A tool that can send ton of paper on Centcomm fax.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Tools/tools.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/tools/tools.ftl"
+    },
+    {
+      "id": "HandheldFaxOfficial",
+      "raw_en": "ent-HandheldFaxOfficial =\n    .desc = A tool that can send ton of paper on Centcomm fax.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Tools/tools.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/tools/tools.ftl"
+    },
+    {
+      "id": "BulletCaselessRifleSAPHE",
+      "raw_en": "ent-BulletCaselessRifleSAPHE =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/caseless.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/caseless.ftl"
+    },
+    {
+      "id": "RifleBulletEnergyGunLethal",
+      "raw_en": "ent-RifleBulletEnergyGunLethal =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/energy.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/energy.ftl"
+    },
+    {
+      "id": "RifleBulletEnergyGunIon",
+      "raw_en": "ent-RifleBulletEnergyGunIon =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/energy.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/energy.ftl"
+    },
+    {
+      "id": "RifleBulletEnergyGunDisabler",
+      "raw_en": "ent-RifleBulletEnergyGunDisabler =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/energy.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/energy.ftl"
+    },
+    {
+      "id": "RifleBulletEnergyGunAsh",
+      "raw_en": "ent-RifleBulletEnergyGunAsh =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/energy.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/energy.ftl"
+    },
+    {
+      "id": "RifleBulletEnergyGunOverchargeLethal",
+      "raw_en": "ent-RifleBulletEnergyGunOverchargeLethal =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/energy.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/energy.ftl"
+    },
+    {
+      "id": "BulletG8Demolishing",
+      "raw_en": "ent-BulletG8Demolishing =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/gate.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/gate.ftl"
+    },
+    {
+      "id": "BulletG8Hypercharged",
+      "raw_en": "ent-BulletG8Hypercharged =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/gate.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/gate.ftl"
+    },
+    {
+      "id": "PelletClusterLethalWeak",
+      "raw_en": "ent-PelletClusterLethalWeak =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/grenade.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/grenade.ftl"
+    },
+    {
+      "id": "BulletClownshot",
+      "raw_en": "ent-BulletClownshot =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/lawbringer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/lawbringer.ftl"
+    },
+    {
+      "id": "BulletPulse",
+      "raw_en": "ent-BulletPulse =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/lawbringer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/lawbringer.ftl"
+    },
+    {
+      "id": "BulletDetain",
+      "raw_en": "ent-BulletDetain =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/lawbringer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/lawbringer.ftl"
+    },
+    {
+      "id": "BulletExecute",
+      "raw_en": "ent-BulletExecute =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/lawbringer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/lawbringer.ftl"
+    },
+    {
+      "id": "BulletHotshot",
+      "raw_en": "ent-BulletHotshot =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/lawbringer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/lawbringer.ftl"
+    },
+    {
+      "id": "BulletSleepshot",
+      "raw_en": "ent-BulletSleepshot =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/lawbringer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/lawbringer.ftl"
+    },
+    {
+      "id": "BulletBigshot",
+      "raw_en": "ent-BulletBigshot =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/lawbringer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/lawbringer.ftl"
+    },
+    {
+      "id": "BulletLowCaliber",
+      "raw_en": "ent-BulletLowCaliber =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/m7s.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/m7s.ftl"
+    },
+    {
+      "id": "BulletMagnumNeurotoxin",
+      "raw_en": "ent-BulletMagnumNeurotoxin =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/magnum.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/magnum.ftl"
+    },
+    {
+      "id": "BulletRocketLAW",
+      "raw_en": "ent-BulletRocketLAW =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/rocket.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/rocket.ftl"
+    },
+    {
+      "id": "BulletRocketShmel",
+      "raw_en": "ent-BulletRocketShmel =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/rocket.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/rocket.ftl"
+    },
+    {
+      "id": "HighCaliberPelletShotgun",
+      "raw_en": "ent-HighCaliberPelletShotgun =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "HighCaliberPelletShotgunIncendiary",
+      "raw_en": "ent-HighCaliberPelletShotgunIncendiary =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "HighCaliberPelletShotgunPractice",
+      "raw_en": "ent-HighCaliberPelletShotgunPractice =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "HighCaliberPelletShotgunUranium",
+      "raw_en": "ent-HighCaliberPelletShotgunUranium =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletShotgunSlugHighCaliber",
+      "raw_en": "ent-PelletShotgunSlugHighCaliber =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "BulletSlugEnsnaring",
+      "raw_en": "ent-BulletSlugEnsnaring =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "BulletSlugEMP",
+      "raw_en": "ent-BulletSlugEMP =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "BulletSlugFlash",
+      "raw_en": "ent-BulletSlugFlash =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    }
+  ]
+}

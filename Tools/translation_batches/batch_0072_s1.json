@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0072_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "CardSc5OfDiamondsNanotrasen",
+      "raw_en": "ent-CardSc5OfDiamondsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc6OfDiamondsNanotrasen",
+      "raw_en": "ent-CardSc6OfDiamondsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc7OfDiamondsNanotrasen",
+      "raw_en": "ent-CardSc7OfDiamondsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc8OfDiamondsNanotrasen",
+      "raw_en": "ent-CardSc8OfDiamondsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc9OfDiamondsNanotrasen",
+      "raw_en": "ent-CardSc9OfDiamondsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc10OfDiamondsNanotrasen",
+      "raw_en": "ent-CardSc10OfDiamondsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc2OfHeartsNanotrasen",
+      "raw_en": "ent-CardSc2OfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc3OfHeartsNanotrasen",
+      "raw_en": "ent-CardSc3OfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc4OfHeartsNanotrasen",
+      "raw_en": "ent-CardSc4OfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc5OfHeartsNanotrasen",
+      "raw_en": "ent-CardSc5OfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc6OfHeartsNanotrasen",
+      "raw_en": "ent-CardSc6OfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc7OfHeartsNanotrasen",
+      "raw_en": "ent-CardSc7OfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc8OfHeartsNanotrasen",
+      "raw_en": "ent-CardSc8OfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc9OfHeartsNanotrasen",
+      "raw_en": "ent-CardSc9OfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc10OfHeartsNanotrasen",
+      "raw_en": "ent-CardSc10OfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScKingOfHeartsNanotrasen",
+      "raw_en": "ent-CardScKingOfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScQueenOfHeartsNanotrasen",
+      "raw_en": "ent-CardScQueenOfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScJackOfHeartsNanotrasen",
+      "raw_en": "ent-CardScJackOfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScAceOfHeartsNanotrasen",
+      "raw_en": "ent-CardScAceOfHeartsNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc2OfSpadesNanotrasen",
+      "raw_en": "ent-CardSc2OfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc3OfSpadesNanotrasen",
+      "raw_en": "ent-CardSc3OfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc4OfSpadesNanotrasen",
+      "raw_en": "ent-CardSc4OfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc5OfSpadesNanotrasen",
+      "raw_en": "ent-CardSc5OfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc6OfSpadesNanotrasen",
+      "raw_en": "ent-CardSc6OfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc7OfSpadesNanotrasen",
+      "raw_en": "ent-CardSc7OfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc8OfSpadesNanotrasen",
+      "raw_en": "ent-CardSc8OfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc9OfSpadesNanotrasen",
+      "raw_en": "ent-CardSc9OfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc10OfSpadesNanotrasen",
+      "raw_en": "ent-CardSc10OfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScKingOfSpadesNanotrasen",
+      "raw_en": "ent-CardScKingOfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScQueenOfSpadesNanotrasen",
+      "raw_en": "ent-CardScQueenOfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScJackOfSpadesNanotrasen",
+      "raw_en": "ent-CardScJackOfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScAceOfSpadesNanotrasen",
+      "raw_en": "ent-CardScAceOfSpadesNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScJokerNanotrasen",
+      "raw_en": "ent-CardScJokerNanotrasen = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/nt_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/nt_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc2OfClubsSyndicate",
+      "raw_en": "ent-CardSc2OfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc3OfClubsSyndicate",
+      "raw_en": "ent-CardSc3OfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc4OfClubsSyndicate",
+      "raw_en": "ent-CardSc4OfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc5OfClubsSyndicate",
+      "raw_en": "ent-CardSc5OfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc6OfClubsSyndicate",
+      "raw_en": "ent-CardSc6OfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc7OfClubsSyndicate",
+      "raw_en": "ent-CardSc7OfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc8OfClubsSyndicate",
+      "raw_en": "ent-CardSc8OfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc9OfClubsSyndicate",
+      "raw_en": "ent-CardSc9OfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc10OfClubsSyndicate",
+      "raw_en": "ent-CardSc10OfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScAceOfClubsSyndicate",
+      "raw_en": "ent-CardScAceOfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScJackOfClubsSyndicate",
+      "raw_en": "ent-CardScJackOfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScKingOfClubsSyndicate",
+      "raw_en": "ent-CardScKingOfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScQueenOfClubsSyndicate",
+      "raw_en": "ent-CardScQueenOfClubsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScJackOfDiamondsSyndicate",
+      "raw_en": "ent-CardScJackOfDiamondsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScQueenOfDiamondsSyndicate",
+      "raw_en": "ent-CardScQueenOfDiamondsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScKingOfDiamondsSyndicate",
+      "raw_en": "ent-CardScKingOfDiamondsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScAceOfDiamondsSyndicate",
+      "raw_en": "ent-CardScAceOfDiamondsSyndicate = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/syndicate_cards.ftl",
+      "file_exists": false
+    }
+  ]
+}

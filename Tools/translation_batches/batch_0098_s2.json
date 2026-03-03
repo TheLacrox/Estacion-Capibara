@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0098_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "ShardCrystalRandom",
+      "raw_en": "ent-ShardCrystalRandom =\n    .desc = A small piece of crystal.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/crystal_shard.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/crystal_shard.ftl"
+    },
+    {
+      "id": "IngotGold",
+      "raw_en": "ent-IngotGold =\n    .desc = A heavy metal ingot stamped with the Nanotrasen logo.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ingots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ingots.ftl"
+    },
+    {
+      "id": "IngotGold1",
+      "raw_en": "ent-IngotGold1 =\n    .desc = A heavy metal ingot stamped with the Nanotrasen logo.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ingots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ingots.ftl"
+    },
+    {
+      "id": "IngotSilver",
+      "raw_en": "ent-IngotSilver =\n    .desc = A heavy metal ingot stamped with the Nanotrasen logo.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ingots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ingots.ftl"
+    },
+    {
+      "id": "IngotSilver1",
+      "raw_en": "ent-IngotSilver1 =\n    .desc = A heavy metal ingot stamped with the Nanotrasen logo.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ingots.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ingots.ftl"
+    },
+    {
+      "id": "MaterialCardboard",
+      "raw_en": "ent-MaterialCardboard =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialCloth",
+      "raw_en": "ent-MaterialCloth =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialDurathread",
+      "raw_en": "ent-MaterialDurathread =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialWoodPlank",
+      "raw_en": "ent-MaterialWoodPlank =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialBiomass",
+      "raw_en": "ent-MaterialBiomass =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialHideBear",
+      "raw_en": "ent-MaterialHideBear =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialDiamond",
+      "raw_en": "ent-MaterialDiamond =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialCotton",
+      "raw_en": "ent-MaterialCotton =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialPyrotton",
+      "raw_en": "ent-MaterialPyrotton =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialBananium",
+      "raw_en": "ent-MaterialBananium =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "MaterialBones",
+      "raw_en": "ent-MaterialBones =\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/materials.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/materials.ftl"
+    },
+    {
+      "id": "GoldOre",
+      "raw_en": "ent-GoldOre =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "DiamondOre",
+      "raw_en": "ent-DiamondOre =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SteelOre",
+      "raw_en": "ent-SteelOre =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "PlasmaOre",
+      "raw_en": "ent-PlasmaOre =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SilverOre",
+      "raw_en": "ent-SilverOre =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SpaceQuartz",
+      "raw_en": "ent-SpaceQuartz =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "UraniumOre",
+      "raw_en": "ent-UraniumOre =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "BananiumOre",
+      "raw_en": "ent-BananiumOre =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "Coal",
+      "raw_en": "ent-Coal =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "SaltOre",
+      "raw_en": "ent-SaltOre =\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/ore.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/ore.ftl"
+    },
+    {
+      "id": "ScrapFirelock3",
+      "raw_en": "ent-ScrapFirelock3 =\n    .desc = Worthless junk. You could probably get some materials out of it though.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/scrap.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/scrap.ftl"
+    },
+    {
+      "id": "SheetRGlass1",
+      "raw_en": "ent-SheetRGlass1 =\n    .desc = A reinforced sheet of glass.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/glass.ftl"
+    },
+    {
+      "id": "SheetPGlass1",
+      "raw_en": "ent-SheetPGlass1 =\n    .desc = A sheet of translucent plasma.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/glass.ftl"
+    },
+    {
+      "id": "SheetRPGlass1",
+      "raw_en": "ent-SheetRPGlass1 =\n    .desc = A reinforced sheet of translucent plasma.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/glass.ftl"
+    },
+    {
+      "id": "SheetUGlass1",
+      "raw_en": "ent-SheetUGlass1 =\n    .desc = A sheet of uranium glass.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/glass.ftl"
+    },
+    {
+      "id": "SheetRUGlass1",
+      "raw_en": "ent-SheetRUGlass1 =\n    .desc = A reinforced sheet of uranium.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/glass.ftl"
+    },
+    {
+      "id": "SheetClockworkGlass1",
+      "raw_en": "ent-SheetClockworkGlass1 =\n    .desc = A sheet of brass-hardened glass, primarily used by clockwork enthusiasts and remnants of Ratvarian cults.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/glass.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/glass.ftl"
+    },
+    {
+      "id": "SheetSteel",
+      "raw_en": "ent-SheetSteel =\n    .desc = A sheet of metal, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/metal.ftl"
+    },
+    {
+      "id": "SheetSteel10",
+      "raw_en": "ent-SheetSteel10 =\n    .desc = A sheet of metal, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/metal.ftl"
+    },
+    {
+      "id": "SheetSteel1",
+      "raw_en": "ent-SheetSteel1 =\n    .desc = A sheet of metal, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/metal.ftl"
+    },
+    {
+      "id": "SheetBrass10",
+      "raw_en": "ent-SheetBrass10 =\n    .desc = A sheet of brass, primarily used by clockwork enthusiasts and the remnants of Ratvarian cults.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/metal.ftl"
+    },
+    {
+      "id": "SheetBrass1",
+      "raw_en": "ent-SheetBrass1 =\n    .desc = A sheet of brass, primarily used by clockwork enthusiasts and the remnants of Ratvarian cults.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/metal.ftl"
+    },
+    {
+      "id": "SheetPlasteel",
+      "raw_en": "ent-SheetPlasteel =\n    .desc = A sheet of metal, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/metal.ftl"
+    },
+    {
+      "id": "SheetPlasteel10",
+      "raw_en": "ent-SheetPlasteel10 =\n    .desc = A sheet of metal, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/metal.ftl"
+    },
+    {
+      "id": "SheetPlasteel1",
+      "raw_en": "ent-SheetPlasteel1 =\n    .desc = A sheet of metal, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/metal.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/metal.ftl"
+    },
+    {
+      "id": "SheetPaper",
+      "raw_en": "ent-SheetPaper =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    },
+    {
+      "id": "SheetPaper1",
+      "raw_en": "ent-SheetPaper1 =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    },
+    {
+      "id": "SheetPlasma",
+      "raw_en": "ent-SheetPlasma =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    },
+    {
+      "id": "SheetPlasma1",
+      "raw_en": "ent-SheetPlasma1 =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    },
+    {
+      "id": "SheetPlasmaLingering0",
+      "raw_en": "ent-SheetPlasmaLingering0 =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    },
+    {
+      "id": "SheetPlastic",
+      "raw_en": "ent-SheetPlastic =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    },
+    {
+      "id": "SheetPlastic10",
+      "raw_en": "ent-SheetPlastic10 =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    },
+    {
+      "id": "SheetPlastic1",
+      "raw_en": "ent-SheetPlastic1 =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    },
+    {
+      "id": "SheetUranium",
+      "raw_en": "ent-SheetUranium =\n    .desc = A sheet of material, used often on the station in various applications.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Materials/Sheets/other.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/materials/sheets/other.ftl"
+    }
+  ]
+}

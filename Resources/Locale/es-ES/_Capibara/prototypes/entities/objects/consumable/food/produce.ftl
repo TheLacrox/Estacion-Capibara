@@ -157,6 +157,7 @@ ent-FoodRealCapfruit = capfruit
     .desc = Una fruta suave pero lisa con forma de pistola.
 
 ent-FoodFakeCapfruit = capfruit
+    .desc = Una fruta suave pero lisa con forma de pistola.
 
 ent-RiceBushel = gavilla de arroz
     .desc = Se puede moler en arroz, perfecto para el pudín o el sake.

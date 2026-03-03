@@ -41,6 +41,7 @@ ent-MobPossumMorty = Morty
     .desc = La zarigüeya residente de la estación. Un tipo sensible pero resistente.
 
 ent-MobPossumMortyOld = Morty
+    .desc = La zarigüeya residente de la estación Didelphis virginiana. Un tipo sensible pero resistente.
 
 ent-MobPossumPoppy = Poppy
     .desc = Es una zarigüeya, un pequeño marsupial carroñero. Lleva el equipo de protección personal adecuado.

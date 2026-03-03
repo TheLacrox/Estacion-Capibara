@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0105_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "BulletAntiMateriel",
+      "raw_en": "ent-BulletAntiMateriel =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/antimateriel.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/antimateriel.ftl"
+    },
+    {
+      "id": "BulletCaselessRifle",
+      "raw_en": "ent-BulletCaselessRifle =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/caseless_rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/caseless_rifle.ftl"
+    },
+    {
+      "id": "BulletCaselessRiflePractice",
+      "raw_en": "ent-BulletCaselessRiflePractice =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/caseless_rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/caseless_rifle.ftl"
+    },
+    {
+      "id": "PelletClusterRubber",
+      "raw_en": "ent-PelletClusterRubber =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/grenade.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/grenade.ftl"
+    },
+    {
+      "id": "PelletClusterLethal",
+      "raw_en": "ent-PelletClusterLethal =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/grenade.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/grenade.ftl"
+    },
+    {
+      "id": "PelletClusterIncendiary",
+      "raw_en": "ent-PelletClusterIncendiary =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/grenade.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/grenade.ftl"
+    },
+    {
+      "id": "PelletClusterLessLethal",
+      "raw_en": "ent-PelletClusterLessLethal =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/grenade.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/grenade.ftl"
+    },
+    {
+      "id": "BulletHeavyRifle",
+      "raw_en": "ent-BulletHeavyRifle =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/heavy_rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/heavy_rifle.ftl"
+    },
+    {
+      "id": "BulletMinigun",
+      "raw_en": "ent-BulletMinigun =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/heavy_rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/heavy_rifle.ftl"
+    },
+    {
+      "id": "BulletLightRifle",
+      "raw_en": "ent-BulletLightRifle =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/light_rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/light_rifle.ftl"
+    },
+    {
+      "id": "BulletLightRiflePractice",
+      "raw_en": "ent-BulletLightRiflePractice =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/light_rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/light_rifle.ftl"
+    },
+    {
+      "id": "BulletLightRifleIncendiary",
+      "raw_en": "ent-BulletLightRifleIncendiary =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/light_rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/light_rifle.ftl"
+    },
+    {
+      "id": "BulletLightRifleUranium",
+      "raw_en": "ent-BulletLightRifleUranium =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/light_rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/light_rifle.ftl"
+    },
+    {
+      "id": "BulletMagnum",
+      "raw_en": "ent-BulletMagnum =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/magnum.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/magnum.ftl"
+    },
+    {
+      "id": "BulletMagnumPractice",
+      "raw_en": "ent-BulletMagnumPractice =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/magnum.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/magnum.ftl"
+    },
+    {
+      "id": "BulletMagnumIncendiary",
+      "raw_en": "ent-BulletMagnumIncendiary =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/magnum.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/magnum.ftl"
+    },
+    {
+      "id": "BulletMagnumAP",
+      "raw_en": "ent-BulletMagnumAP =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/magnum.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/magnum.ftl"
+    },
+    {
+      "id": "BulletMagnumUranium",
+      "raw_en": "ent-BulletMagnumUranium =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/magnum.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/magnum.ftl"
+    },
+    {
+      "id": "BulletPistol",
+      "raw_en": "ent-BulletPistol =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/pistol.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/pistol.ftl"
+    },
+    {
+      "id": "BulletPistolPractice",
+      "raw_en": "ent-BulletPistolPractice =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/pistol.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/pistol.ftl"
+    },
+    {
+      "id": "BulletPistolIncendiary",
+      "raw_en": "ent-BulletPistolIncendiary =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/pistol.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/pistol.ftl"
+    },
+    {
+      "id": "BulletPistolUranium",
+      "raw_en": "ent-BulletPistolUranium =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/pistol.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/pistol.ftl"
+    },
+    {
+      "id": "BulletRifle",
+      "raw_en": "ent-BulletRifle =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/rifle.ftl"
+    },
+    {
+      "id": "BulletRiflePractice",
+      "raw_en": "ent-BulletRiflePractice =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/rifle.ftl"
+    },
+    {
+      "id": "BulletRifleIncendiary",
+      "raw_en": "ent-BulletRifleIncendiary =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/rifle.ftl"
+    },
+    {
+      "id": "BulletRifleUranium",
+      "raw_en": "ent-BulletRifleUranium =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/rifle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/rifle.ftl"
+    },
+    {
+      "id": "PelletShotgunSlug",
+      "raw_en": "ent-PelletShotgunSlug =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletShotgunBeanbag",
+      "raw_en": "ent-PelletShotgunBeanbag =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletShotgun",
+      "raw_en": "ent-PelletShotgun =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletShotgunIncendiary",
+      "raw_en": "ent-PelletShotgunIncendiary =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletShotgunPractice",
+      "raw_en": "ent-PelletShotgunPractice =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletShotgunImprovised",
+      "raw_en": "ent-PelletShotgunImprovised =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletShotgunTranquilizer",
+      "raw_en": "ent-PelletShotgunTranquilizer =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletShotgunUranium",
+      "raw_en": "ent-PelletShotgunUranium =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletGrapeshot",
+      "raw_en": "ent-PelletGrapeshot =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "PelletGlass",
+      "raw_en": "ent-PelletGlass =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "XenoborgLaserGun",
+      "raw_en": "ent-XenoborgLaserGun =\n    .desc = An experimental laser pistol fitted with a self-charging nuclear battery.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/battery/battery_guns.ftl"
+    },
+    {
+      "id": "XenoborgHeavyLaserGun",
+      "raw_en": "ent-XenoborgHeavyLaserGun =\n    .desc = An experimental laser pistol fitted with a self-charging nuclear battery.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/battery/battery_guns.ftl"
+    },
+    {
+      "id": "BaseBulletPractice",
+      "raw_en": "ent-BaseBulletPractice =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BaseBulletIncendiary",
+      "raw_en": "ent-BaseBulletIncendiary =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BaseBulletAP",
+      "raw_en": "ent-BaseBulletAP =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BaseBulletUranium",
+      "raw_en": "ent-BaseBulletUranium =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletTaser",
+      "raw_en": "ent-BulletTaser =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "EmitterBolt",
+      "raw_en": "ent-EmitterBolt =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "WatcherBolt",
+      "raw_en": "ent-WatcherBolt =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "WatcherBoltMagmawing",
+      "raw_en": "ent-WatcherBoltMagmawing =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "WatcherBoltIcewing",
+      "raw_en": "ent-WatcherBoltIcewing =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BasiliskRay",
+      "raw_en": "ent-BasiliskRay =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletChargeGlaive",
+      "raw_en": "ent-BulletChargeGlaive =\n    .desc = Marks a target for additional damage.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletSingularityBusterRocket",
+      "raw_en": "ent-BulletSingularityBusterRocket =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    }
+  ]
+}

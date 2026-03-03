@@ -1,4 +1,5 @@
 ent-AdminObserver = observador administrador
+    .desc = ¡Buu!
 
 ent-ActionAGhostShowSolar = Interfaz de Control Solar
     .desc = Ver una Interfaz de Control Solar.

@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0066_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "PaperBin5",
+      "raw_en": "ent-PaperBin5 = paper bin\n    .desc = What secrets lie at the bottom of its endless stack?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/paper_bin.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/paper_bin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperBin10",
+      "raw_en": "ent-PaperBin10 = paper bin\n    .desc = What secrets lie at the bottom of its endless stack?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/paper_bin.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/paper_bin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperBin20",
+      "raw_en": "ent-PaperBin20 = paper bin\n    .desc = What secrets lie at the bottom of its endless stack?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/paper_bin.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/paper_bin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StorageTankBig",
+      "raw_en": "ent-StorageTankBig = storage tank\n    .desc = A liquids storage tank.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Tanks/base_structuretanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Tanks/base_structuretanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeldingFuelTankFull",
+      "raw_en": "ent-WeldingFuelTankFull = fuel tank\n    .desc = A fuel tank. It's used to store high amounts of fuel.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Tanks/tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Tanks/tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WaterTankFull",
+      "raw_en": "ent-WaterTankFull = water tank\n    .desc = A water tank. It's used to store high amounts of water.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Tanks/tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Tanks/tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GenericTank",
+      "raw_en": "ent-GenericTank = storage tank\n    .desc = A liquids storage tank.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Tanks/tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Tanks/tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MirrorModern",
+      "raw_en": "ent-MirrorModern = mirror\n    .desc = Mirror mirror on the wall , who''s the most robust of them all?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Misc/mirror.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Misc/mirror.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseFlag",
+      "raw_en": "ent-BaseFlag = base sign",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Signs/flags.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Signs/flags.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaintingBase",
+      "raw_en": "ent-PaintingBase = base sign",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Signs/paintings.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Signs/paintings.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PosterBase",
+      "raw_en": "ent-PosterBase = base sign",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Signs/posters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Signs/posters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseSignDirectional",
+      "raw_en": "ent-BaseSignDirectional = base sign",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Signs/signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Signs/signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SignCansScience",
+      "raw_en": "ent-SignCansScience = canisters sign\n    .desc = A sign indicating the auspicious presence of gas canisters.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Signs/signs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Signs/signs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefibrillatorCabinetOpen",
+      "raw_en": "ent-DefibrillatorCabinetOpen = defibrillator cabinet\n    .desc = A small wall mounted cabinet designed to hold a defibrillator.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/defib_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/defib_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefibrillatorCabinetFilled",
+      "raw_en": "ent-DefibrillatorCabinetFilled = defibrillator cabinet\n    .desc = A small wall mounted cabinet designed to hold a defibrillator.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/defib_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/defib_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefibrillatorCabinetFilledOpen",
+      "raw_en": "ent-DefibrillatorCabinetFilledOpen = defibrillator cabinet\n    .desc = A small wall mounted cabinet designed to hold a defibrillator.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/defib_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/defib_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ExtinguisherCabinetOpen",
+      "raw_en": "ent-ExtinguisherCabinetOpen = extinguisher cabinet\n    .desc = A small wall mounted cabinet designed to hold a fire extinguisher.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/extinguisher_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/extinguisher_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ExtinguisherCabinetFilled",
+      "raw_en": "ent-ExtinguisherCabinetFilled = extinguisher cabinet\n    .desc = A small wall mounted cabinet designed to hold a fire extinguisher.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/extinguisher_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/extinguisher_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ExtinguisherCabinetFilledOpen",
+      "raw_en": "ent-ExtinguisherCabinetFilledOpen = extinguisher cabinet\n    .desc = A small wall mounted cabinet designed to hold a fire extinguisher.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/extinguisher_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/extinguisher_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FireAxeCabinetOpen",
+      "raw_en": "ent-FireAxeCabinetOpen = fire axe cabinet\n    .desc = There is a small label that reads \"For Emergency use only\" along with details for safe use of the axe. As if.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/fireaxe_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/fireaxe_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FireAxeCabinetFilled",
+      "raw_en": "ent-FireAxeCabinetFilled = fire axe cabinet\n    .desc = There is a small label that reads \"For Emergency use only\" along with details for safe use of the axe. As if.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/fireaxe_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/fireaxe_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FireAxeCabinetFilledOpen",
+      "raw_en": "ent-FireAxeCabinetFilledOpen = fire axe cabinet\n    .desc = There is a small label that reads \"For Emergency use only\" along with details for safe use of the axe. As if.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/fireaxe_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/fireaxe_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShotGunCabinetOpen",
+      "raw_en": "ent-ShotGunCabinetOpen = shotgun cabinet\n    .desc = There is a small label that reads \"For Emergency use only\" along with details for safe use of the shotgun. As if.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/shotgun_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/shotgun_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShotGunCabinetFilled",
+      "raw_en": "ent-ShotGunCabinetFilled = shotgun cabinet\n    .desc = There is a small label that reads \"For Emergency use only\" along with details for safe use of the shotgun. As if.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/shotgun_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/shotgun_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShotGunCabinetFilledOpen",
+      "raw_en": "ent-ShotGunCabinetFilledOpen = shotgun cabinet\n    .desc = There is a small label that reads \"For Emergency use only\" along with details for safe use of the shotgun. As if.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/Cabinets/shotgun_cabinet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/Cabinets/shotgun_cabinet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShelfChemistryChemistrySecure",
+      "raw_en": "ent-ShelfChemistryChemistrySecure = chemical shelf\n    .desc = Keeps all your chemicals safe and out of the clow- er, public hands!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Storage/shelfs.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Storage/shelfs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonCaptain",
+      "raw_en": "ent-LockableButtonCaptain = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonHeadOfPersonnel",
+      "raw_en": "ent-LockableButtonHeadOfPersonnel = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonChiefEngineer",
+      "raw_en": "ent-LockableButtonChiefEngineer = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonChiefMedicalOfficer",
+      "raw_en": "ent-LockableButtonChiefMedicalOfficer = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonHeadOfSecurity",
+      "raw_en": "ent-LockableButtonHeadOfSecurity = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonResearchDirector",
+      "raw_en": "ent-LockableButtonResearchDirector = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonCommand",
+      "raw_en": "ent-LockableButtonCommand = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonCryogenics",
+      "raw_en": "ent-LockableButtonCryogenics = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonSecurity",
+      "raw_en": "ent-LockableButtonSecurity = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonDetective",
+      "raw_en": "ent-LockableButtonDetective = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonArmory",
+      "raw_en": "ent-LockableButtonArmory = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonBrig",
+      "raw_en": "ent-LockableButtonBrig = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonLawyer",
+      "raw_en": "ent-LockableButtonLawyer = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonEngineering",
+      "raw_en": "ent-LockableButtonEngineering = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonMedical",
+      "raw_en": "ent-LockableButtonMedical = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonQuartermaster",
+      "raw_en": "ent-LockableButtonQuartermaster = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonSalvage",
+      "raw_en": "ent-LockableButtonSalvage = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonCargo",
+      "raw_en": "ent-LockableButtonCargo = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonResearch",
+      "raw_en": "ent-LockableButtonResearch = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonService",
+      "raw_en": "ent-LockableButtonService = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonMaintenance",
+      "raw_en": "ent-LockableButtonMaintenance = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonExternal",
+      "raw_en": "ent-LockableButtonExternal = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonJanitor",
+      "raw_en": "ent-LockableButtonJanitor = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockableButtonTheatre",
+      "raw_en": "ent-LockableButtonTheatre = lockable button\n    .desc = It's a button for activating something.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Wallmounts/Switches/switch.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Wallmounts/Switches/switch.ftl",
+      "file_exists": false
+    }
+  ]
+}

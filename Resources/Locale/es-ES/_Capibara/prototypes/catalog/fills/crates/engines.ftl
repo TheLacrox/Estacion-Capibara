@@ -23,6 +23,7 @@ ent-CrateEngineeringParticleAccelerator = caja de placas del acelerador de part�
     .desc = Complejo de configurar, pero increíblemente gratificante. Contiene placas para todos los componentes del acelerador de partículas.
 
 ent-CrateEngineeringGenerator = caja de generador
+    .desc = Un contenedor grande para guardar objetos.
 
 ent-CrateEngineeringSolar = caja de conjunto solar
     .desc = Un kit con paquetes planos solares y cristal para construir diez paneles solares.

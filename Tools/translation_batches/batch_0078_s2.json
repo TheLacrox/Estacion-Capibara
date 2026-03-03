@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0078_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "ActionLightningBoltV",
+      "raw_en": "ent-ActionLightningBoltV =\n    .desc = Fire a lightning bolt at your foes.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionHomingToolboxII",
+      "raw_en": "ent-ActionHomingToolboxII =\n    .desc = Fires a magical homing toolbox at your opponent.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionHomingToolboxIII",
+      "raw_en": "ent-ActionHomingToolboxIII =\n    .desc = Fires a magical homing toolbox at your opponent.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionHomingToolboxIV",
+      "raw_en": "ent-ActionHomingToolboxIV =\n    .desc = Fires a magical homing toolbox at your opponent.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionHomingToolboxV",
+      "raw_en": "ent-ActionHomingToolboxV =\n    .desc = Fires a magical homing toolbox at your opponent.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionArcaneBarrageII",
+      "raw_en": "ent-ActionArcaneBarrageII =\n    .desc = Fire a torrent of arcane energy at your foes.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionArcaneBarrageIII",
+      "raw_en": "ent-ActionArcaneBarrageIII =\n    .desc = Fire a torrent of arcane energy at your foes.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionLesserSummonGunsII",
+      "raw_en": "ent-ActionLesserSummonGunsII =\n    .desc = Summon an unending stream of bolt action rifles.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionLesserSummonGunsIII",
+      "raw_en": "ent-ActionLesserSummonGunsIII =\n    .desc = Summon an unending stream of bolt action rifles.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBarnyardCurseII",
+      "raw_en": "ent-ActionBarnyardCurseII =\n    .desc = Dooms an unlucky soul to possess the speech and facial attributes of a barnyard animal.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBarnyardCurseIII",
+      "raw_en": "ent-ActionBarnyardCurseIII =\n    .desc = Dooms an unlucky soul to possess the speech and facial attributes of a barnyard animal.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionScreamForMeII",
+      "raw_en": "ent-ActionScreamForMeII =\n    .desc = This wicked spell inflicts many severe wounds on your target, causing them to likely bleed to death unless they receive immediate medical attention.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionScreamForMeIII",
+      "raw_en": "ent-ActionScreamForMeIII =\n    .desc = This wicked spell inflicts many severe wounds on your target, causing them to likely bleed to death unless they receive immediate medical attention.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionScreamForMeIV",
+      "raw_en": "ent-ActionScreamForMeIV =\n    .desc = This wicked spell inflicts many severe wounds on your target, causing them to likely bleed to death unless they receive immediate medical attention.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionScreamForMeV",
+      "raw_en": "ent-ActionScreamForMeV =\n    .desc = This wicked spell inflicts many severe wounds on your target, causing them to likely bleed to death unless they receive immediate medical attention.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionTeleportII",
+      "raw_en": "ent-ActionTeleportII =\n    .desc = This spell teleports you to an area of your selection.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionTeleportIII",
+      "raw_en": "ent-ActionTeleportIII =\n    .desc = This spell teleports you to an area of your selection.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionTrapsII",
+      "raw_en": "ent-ActionTrapsII =\n    .desc = Summon a number of traps around you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionTrapsIII",
+      "raw_en": "ent-ActionTrapsIII =\n    .desc = Summon a number of traps around you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionTrapsIV",
+      "raw_en": "ent-ActionTrapsIV =\n    .desc = Summon a number of traps around you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionTrapsV",
+      "raw_en": "ent-ActionTrapsV =\n    .desc = Summon a number of traps around you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionLesserSummonBeesII",
+      "raw_en": "ent-ActionLesserSummonBeesII =\n    .desc = This spell magically kicks a transdimensional beehive, instantly summoning a swarm of bees to your location.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionLesserSummonBeesIII",
+      "raw_en": "ent-ActionLesserSummonBeesIII =\n    .desc = This spell magically kicks a transdimensional beehive, instantly summoning a swarm of bees to your location.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSanguineStrikeII",
+      "raw_en": "ent-ActionSanguineStrikeII =\n    .desc = Enchants your next weapon strike to deal more damage, heal you for damage dealt, and refill blood.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSanguineStrikeIII",
+      "raw_en": "ent-ActionSanguineStrikeIII =\n    .desc = Enchants your next weapon strike to deal more damage, heal you for damage dealt, and refill blood.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSwapII",
+      "raw_en": "ent-ActionSwapII =\n    .desc = Allows you to swap locations with any living being.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSwapIII",
+      "raw_en": "ent-ActionSwapIII =\n    .desc = Allows you to swap locations with any living being.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBlinkII",
+      "raw_en": "ent-ActionBlinkII =\n    .desc = Randomly teleport a short distance.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionBlinkIII",
+      "raw_en": "ent-ActionBlinkIII =\n    .desc = Randomly teleport a short distance.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionForceWallII",
+      "raw_en": "ent-ActionForceWallII =\n    .desc = Create a magical barrier that only you can pass through.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionForceWallIII",
+      "raw_en": "ent-ActionForceWallIII =\n    .desc = Create a magical barrier that only you can pass through.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionForceWallIV",
+      "raw_en": "ent-ActionForceWallIV =\n    .desc = Create a magical barrier that only you can pass through.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionForceWallV",
+      "raw_en": "ent-ActionForceWallV =\n    .desc = Create a magical barrier that only you can pass through.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionChargeII",
+      "raw_en": "ent-ActionChargeII =\n    .desc = This spell can be used to recharge a variety of things in your hands, from magical artifacts to electrical components. A creative wizard can even use it to grant magical power to a fellow magic user.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionChargeIII",
+      "raw_en": "ent-ActionChargeIII =\n    .desc = This spell can be used to recharge a variety of things in your hands, from magical artifacts to electrical components. A creative wizard can even use it to grant magical power to a fellow magic user.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionChargeIV",
+      "raw_en": "ent-ActionChargeIV =\n    .desc = This spell can be used to recharge a variety of things in your hands, from magical artifacts to electrical components. A creative wizard can even use it to grant magical power to a fellow magic user.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionChargeV",
+      "raw_en": "ent-ActionChargeV =\n    .desc = This spell can be used to recharge a variety of things in your hands, from magical artifacts to electrical components. A creative wizard can even use it to grant magical power to a fellow magic user.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionMindSwapII",
+      "raw_en": "ent-ActionMindSwapII =\n    .desc = Exchange bodies with another person!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionMindSwapIII",
+      "raw_en": "ent-ActionMindSwapIII =\n    .desc = Exchange bodies with another person!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSmiteII",
+      "raw_en": "ent-ActionSmiteII =\n    .desc = Charge your hand with an unholy energy that can be used to cause a touched victim to violently explode.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSmiteIII",
+      "raw_en": "ent-ActionSmiteIII =\n    .desc = Charge your hand with an unholy energy that can be used to cause a touched victim to violently explode.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionKnockII",
+      "raw_en": "ent-ActionKnockII =\n    .desc = Opens nearby doors and lockers.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionKnockIII",
+      "raw_en": "ent-ActionKnockIII =\n    .desc = Opens nearby doors and lockers.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSpellCardsII",
+      "raw_en": "ent-ActionSpellCardsII =\n    .desc = Fire up to six bursts of homing spell cards.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSpellCardsIII",
+      "raw_en": "ent-ActionSpellCardsIII =\n    .desc = Fire up to six bursts of homing spell cards.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionPolymorphWizardRodII",
+      "raw_en": "ent-ActionPolymorphWizardRodII =\n    .desc = Take on the form of an immovable rod, destroying everything in your path.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionPolymorphWizardRodIII",
+      "raw_en": "ent-ActionPolymorphWizardRodIII =\n    .desc = Take on the form of an immovable rod, destroying everything in your path.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionPolymorphWizardRodIV",
+      "raw_en": "ent-ActionPolymorphWizardRodIV =\n    .desc = Take on the form of an immovable rod, destroying everything in your path.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionPolymorphWizardRodV",
+      "raw_en": "ent-ActionPolymorphWizardRodV =\n    .desc = Take on the form of an immovable rod, destroying everything in your path.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    },
+    {
+      "id": "ActionSummonSimiansII",
+      "raw_en": "ent-ActionSummonSimiansII =\n    .desc = This spell reaches deep into the elemental plane of bananas (the monkey one, not the clown one), and summons lesser monkeys and gorillas in front of you that will promptly flip out and attack everything in sight. Fun!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Actions/wizard_upgrades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/actions/wizard_upgrades.ftl"
+    }
+  ]
+}

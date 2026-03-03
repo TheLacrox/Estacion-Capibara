@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0070_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "WallDiagonalBase",
+      "raw_en": "ent-WallDiagonalBase = basewall\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallReinforcedRust",
+      "raw_en": "ent-WallReinforcedRust = reinforced wall\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallSolidRust",
+      "raw_en": "ent-WallSolidRust = solid wall\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Walls/walls.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Walls/walls.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClockworkWindowDiagonal",
+      "raw_en": "ent-ClockworkWindowDiagonal = clockwork window\n    .desc = Don't smudge up the brass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/clockwork.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/clockwork.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MiningWindowDiagonal",
+      "raw_en": "ent-MiningWindowDiagonal = shuttle window\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/mining.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/mining.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaWindowDiagonal",
+      "raw_en": "ent-PlasmaWindowDiagonal = plasma window\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/plasma.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/plasma.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReinforcedWindowDiagonal",
+      "raw_en": "ent-ReinforcedWindowDiagonal = reinforced window\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/reinforced.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/reinforced.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReinforcedPlasmaWindowDiagonal",
+      "raw_en": "ent-ReinforcedPlasmaWindowDiagonal = reinforced plasma window\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/rplasma.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/rplasma.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReinforcedUraniumWindowDiagonal",
+      "raw_en": "ent-ReinforcedUraniumWindowDiagonal = reinforced uranium window\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/ruranium.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/ruranium.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShuttleWindowDiagonal",
+      "raw_en": "ent-ShuttleWindowDiagonal = shuttle window\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/shuttle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/shuttle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UraniumWindowDiagonal",
+      "raw_en": "ent-UraniumWindowDiagonal = uranium window\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/uranium.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/uranium.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindowRCDResistant",
+      "raw_en": "ent-WindowRCDResistant = window\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/window.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/window.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindowDirectionalRCDResistant",
+      "raw_en": "ent-WindowDirectionalRCDResistant = directional window\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/window.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/window.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WindowDiagonal",
+      "raw_en": "ent-WindowDiagonal = window\n    .desc = Don't smudge up the glass down there.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Windows/window.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Windows/window.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasaltTwo",
+      "raw_en": "ent-BasaltTwo = basalt\n    .desc = Rock.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/basalt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/basalt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasaltThree",
+      "raw_en": "ent-BasaltThree = basalt\n    .desc = Rock.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/basalt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/basalt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasaltFour",
+      "raw_en": "ent-BasaltFour = basalt\n    .desc = Rock.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/basalt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/basalt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasaltFive",
+      "raw_en": "ent-BasaltFive = basalt\n    .desc = Rock.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/basalt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/basalt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasaltRandom",
+      "raw_en": "ent-BasaltRandom = basalt\n    .desc = Rock.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/basalt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/basalt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorChromiteChasm",
+      "raw_en": "ent-FloorChromiteChasm = chasm\n    .desc = You can't even see the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/chasm.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/chasm.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorDesertChasm",
+      "raw_en": "ent-FloorDesertChasm = chasm\n    .desc = You can't even see the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/chasm.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/chasm.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorSnowChasm",
+      "raw_en": "ent-FloorSnowChasm = chasm\n    .desc = You can't even see the bottom.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/chasm.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/chasm.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShadowBasaltTwo",
+      "raw_en": "ent-ShadowBasaltTwo = shadowstone\n    .desc = Glowing cracks in reality. It's probably fine.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/shadow_basalt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/shadow_basalt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShadowBasaltThree",
+      "raw_en": "ent-ShadowBasaltThree = shadowstone\n    .desc = Glowing cracks in reality. It's probably fine.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/shadow_basalt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/shadow_basalt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShadowBasaltFour",
+      "raw_en": "ent-ShadowBasaltFour = shadowstone\n    .desc = Glowing cracks in reality. It's probably fine.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/shadow_basalt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/shadow_basalt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShadowBasaltFive",
+      "raw_en": "ent-ShadowBasaltFive = shadowstone\n    .desc = Glowing cracks in reality. It's probably fine.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/shadow_basalt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/shadow_basalt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShadowBasaltRandom",
+      "raw_en": "ent-ShadowBasaltRandom = shadowstone\n    .desc = Glowing cracks in reality. It's probably fine.",
+      "source_yaml": "Resources/Prototypes/Entities/Tiles/shadow_basalt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Tiles/shadow_basalt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc2OfClubsBlack",
+      "raw_en": "ent-CardSc2OfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc3OfClubsBlack",
+      "raw_en": "ent-CardSc3OfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc4OfClubsBlack",
+      "raw_en": "ent-CardSc4OfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc5OfClubsBlack",
+      "raw_en": "ent-CardSc5OfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc6OfClubsBlack",
+      "raw_en": "ent-CardSc6OfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc7OfClubsBlack",
+      "raw_en": "ent-CardSc7OfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc8OfClubsBlack",
+      "raw_en": "ent-CardSc8OfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc9OfClubsBlack",
+      "raw_en": "ent-CardSc9OfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc10OfClubsBlack",
+      "raw_en": "ent-CardSc10OfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScAceOfClubsBlack",
+      "raw_en": "ent-CardScAceOfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScJackOfClubsBlack",
+      "raw_en": "ent-CardScJackOfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScKingOfClubsBlack",
+      "raw_en": "ent-CardScKingOfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScQueenOfClubsBlack",
+      "raw_en": "ent-CardScQueenOfClubsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScJackOfDiamondsBlack",
+      "raw_en": "ent-CardScJackOfDiamondsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScQueenOfDiamondsBlack",
+      "raw_en": "ent-CardScQueenOfDiamondsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScKingOfDiamondsBlack",
+      "raw_en": "ent-CardScKingOfDiamondsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardScAceOfDiamondsBlack",
+      "raw_en": "ent-CardScAceOfDiamondsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc2OfDiamondsBlack",
+      "raw_en": "ent-CardSc2OfDiamondsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc3OfDiamondsBlack",
+      "raw_en": "ent-CardSc3OfDiamondsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc4OfDiamondsBlack",
+      "raw_en": "ent-CardSc4OfDiamondsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc5OfDiamondsBlack",
+      "raw_en": "ent-CardSc5OfDiamondsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc6OfDiamondsBlack",
+      "raw_en": "ent-CardSc6OfDiamondsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CardSc7OfDiamondsBlack",
+      "raw_en": "ent-CardSc7OfDiamondsBlack = card",
+      "source_yaml": "Resources/Prototypes/EstacaoPirata/Entities/Objects/Misc/black_cards.yml",
+      "target_ftl": "Resources/Locale/es-ES/EstacaoPirata/Entities/Objects/Misc/black_cards.ftl",
+      "file_exists": false
+    }
+  ]
+}

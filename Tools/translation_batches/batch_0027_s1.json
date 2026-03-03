@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0027_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "ClothingBeltUtilityEngineering",
+      "raw_en": "ent-ClothingBeltUtilityEngineering = utility belt\n    .desc = Can hold various things.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltChiefEngineerFilled",
+      "raw_en": "ent-ClothingBeltChiefEngineerFilled = chief engineer's toolbelt\n    .desc = Holds tools, looks snazzy.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltSecurityFilled",
+      "raw_en": "ent-ClothingBeltSecurityFilled = security belt\n    .desc = Can hold security gear like handcuffs and flashes.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltSecurityWebbingFilled",
+      "raw_en": "ent-ClothingBeltSecurityWebbingFilled = security carrier\n    .desc = Unique and versatile chest rig, can hold security gear.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltJanitorFilled",
+      "raw_en": "ent-ClothingBeltJanitorFilled = janibelt\n    .desc = A belt used to hold most janitorial supplies.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltMedicalFilled",
+      "raw_en": "ent-ClothingBeltMedicalFilled = medical belt\n    .desc = Can hold various medical equipment.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltMedicalEMTFilled",
+      "raw_en": "ent-ClothingBeltMedicalEMTFilled = EMT belt\n    .desc = Perfect for holding various equipment for medical emergencies.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltPlantFilled",
+      "raw_en": "ent-ClothingBeltPlantFilled = botanical belt\n    .desc = A belt used to hold most hydroponics supplies. Suprisingly, not green.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltSheathFilled",
+      "raw_en": "ent-ClothingBeltSheathFilled = sabre sheath\n    .desc = An ornate sheath designed to hold an officer's blade.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltMilitaryWebbingMedFilled",
+      "raw_en": "ent-ClothingBeltMilitaryWebbingMedFilled = medical chest rig\n    .desc = A set of tactical webbing worn by Gorlex Marauder medic operatives.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltWandFilled",
+      "raw_en": "ent-ClothingBeltWandFilled = wand belt\n    .desc = A belt designed to hold various rods of power. A veritable fanny pack of exotic magic.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltHolsterFilled",
+      "raw_en": "ent-ClothingBeltHolsterFilled = shoulder holster\n    .desc = A holster to carry a handgun and ammo. WARNING: Badasses only.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltChefFilled",
+      "raw_en": "ent-ClothingBeltChefFilled = chef belt\n    .desc = A belt used to hold kitchen knives and condiments for quick access.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BriefcaseBrownFilled",
+      "raw_en": "ent-BriefcaseBrownFilled = brown briefcase\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/briefcases.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/briefcases.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BriefcaseSyndieSniperBundleFilled",
+      "raw_en": "ent-BriefcaseSyndieSniperBundleFilled = brown briefcase\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/briefcases.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/briefcases.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BriefcaseSyndieLobbyingBundleFilled",
+      "raw_en": "ent-BriefcaseSyndieLobbyingBundleFilled = brown briefcase\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/briefcases.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/briefcases.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BriefcaseThiefBribingBundleFilled",
+      "raw_en": "ent-BriefcaseThiefBribingBundleFilled = brown briefcase\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/briefcases.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/briefcases.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitFilled",
+      "raw_en": "ent-MedkitFilled = first aid kit\n    .desc = It's an emergency medical kit for those serious boo-boos.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/firstaidkits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/firstaidkits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitBurnFilled",
+      "raw_en": "ent-MedkitBurnFilled = burn treatment kit\n    .desc = A specialized medical kit for when the toxins lab spontaneously burns down.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/firstaidkits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/firstaidkits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitBruteFilled",
+      "raw_en": "ent-MedkitBruteFilled = brute trauma treatment kit\n    .desc = A first aid kit for when you get toolboxed.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/firstaidkits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/firstaidkits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitToxinFilled",
+      "raw_en": "ent-MedkitToxinFilled = toxin treatment kit\n    .desc = Used to treat toxic blood content.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/firstaidkits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/firstaidkits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitOxygenFilled",
+      "raw_en": "ent-MedkitOxygenFilled = oxygen deprivation treatment kit\n    .desc = A box full of oxygen goodies.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/firstaidkits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/firstaidkits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitRadiationFilled",
+      "raw_en": "ent-MedkitRadiationFilled = radiation treatment kit\n    .desc = If you took your Rad-X you wouldn't need this.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/firstaidkits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/firstaidkits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitAdvancedFilled",
+      "raw_en": "ent-MedkitAdvancedFilled = advanced first aid kit\n    .desc = An advanced kit to help deal with advanced wounds.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/firstaidkits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/firstaidkits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedkitCombatFilled",
+      "raw_en": "ent-MedkitCombatFilled = combat medical kit\n    .desc = For the big weapons among us.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/firstaidkits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/firstaidkits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StimkitFilled",
+      "raw_en": "ent-StimkitFilled = first aid kit\n    .desc = It's an emergency medical kit for those serious boo-boos.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/firstaidkits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/firstaidkits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OxygenTankFilled",
+      "raw_en": "ent-OxygenTankFilled = oxygen tank\n    .desc = A standard cylindrical gas tank for oxygen. It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EmergencyOxygenTankFilled",
+      "raw_en": "ent-EmergencyOxygenTankFilled = emergency oxygen tank\n    .desc = An easily portable tank for emergencies. Contains very little oxygen, rated for survival use only. It can hold 0.66 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EmergencyNitrogenTankFilled",
+      "raw_en": "ent-EmergencyNitrogenTankFilled = emergency nitrogen tank\n    .desc = An easily portable tank for emergencies. Contains very little nitrogen, rated for survival use only. It can hold 0.66 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ExtendedEmergencyOxygenTankFilled",
+      "raw_en": "ent-ExtendedEmergencyOxygenTankFilled = extended-capacity emergency oxygen tank\n    .desc = An emergency tank with extended capacity. Technically rated for prolonged use. It can hold 1.5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ExtendedEmergencyNitrogenTankFilled",
+      "raw_en": "ent-ExtendedEmergencyNitrogenTankFilled = extended-capacity emergency nitrogen tank\n    .desc = An emergency tank with extended capacity. Technically rated for prolonged use. It can hold 1.5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoubleEmergencyOxygenTankFilled",
+      "raw_en": "ent-DoubleEmergencyOxygenTankFilled = double emergency oxygen tank\n    .desc = A high-grade dual-tank emergency life support container. It holds a decent amount of oxygen for its small size. It can hold 2.5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoubleEmergencyNitrogenTankFilled",
+      "raw_en": "ent-DoubleEmergencyNitrogenTankFilled = double emergency nitrogen tank\n    .desc = A high-grade dual-tank emergency life support container. It holds a decent amount of nitrogen for its small size. It can hold 2.5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EmergencyFunnyOxygenTankFilled",
+      "raw_en": "ent-EmergencyFunnyOxygenTankFilled = funny emergency oxygen tank\n    .desc = An easily portable tank for emergencies. Contains very little oxygen with an extra of funny gas, rated for survival use only. It can hold 0.66 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirTankFilled",
+      "raw_en": "ent-AirTankFilled = air tank\n    .desc = Mixed anyone? It can hold 5 L of gas.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesBootsMercFilled",
+      "raw_en": "ent-ClothingShoesBootsMercFilled = mercenary boots\n    .desc = Boots that have gone through many conflicts and that have proven their combat reliability.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesBootsSyndieFilled",
+      "raw_en": "ent-ClothingShoesBootsSyndieFilled = combat boots\n    .desc = Robust combat boots for combat scenarios or combat situations. All combat, all the time.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ToolboxSyndicateFilled",
+      "raw_en": "ent-ToolboxSyndicateFilled = suspicious toolbox\n    .desc = A sinister looking toolbox filled with elite syndicate tools.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/toolboxes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/toolboxes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserCaptainFilled",
+      "raw_en": "ent-DresserCaptainFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/dressers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/dressers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserChiefEngineerFilled",
+      "raw_en": "ent-DresserChiefEngineerFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/dressers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/dressers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserChiefMedicalOfficerFilled",
+      "raw_en": "ent-DresserChiefMedicalOfficerFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/dressers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/dressers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserHeadOfPersonnelFilled",
+      "raw_en": "ent-DresserHeadOfPersonnelFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/dressers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/dressers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserHeadOfSecurityFilled",
+      "raw_en": "ent-DresserHeadOfSecurityFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/dressers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/dressers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserQuarterMasterFilled",
+      "raw_en": "ent-DresserQuarterMasterFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/dressers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/dressers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserResearchDirectorFilled",
+      "raw_en": "ent-DresserResearchDirectorFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/dressers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/dressers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DresserWardenFilled",
+      "raw_en": "ent-DresserWardenFilled = dresser\n    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/dressers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/dressers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetToolFilled",
+      "raw_en": "ent-ClosetToolFilled = tool closet\n    .desc = It's a storage unit for tools.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/engineer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/engineer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerElectricalSuppliesFilled",
+      "raw_en": "ent-LockerElectricalSuppliesFilled = electrical supplies locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/engineer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/engineer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWeldingSuppliesFilled",
+      "raw_en": "ent-LockerWeldingSuppliesFilled = welding supplies locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/engineer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/engineer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerAtmosphericsFilledHardsuit",
+      "raw_en": "ent-LockerAtmosphericsFilledHardsuit = atmospheric technician's locker\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/engineer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/engineer.ftl",
+      "file_exists": false
+    }
+  ]
+}

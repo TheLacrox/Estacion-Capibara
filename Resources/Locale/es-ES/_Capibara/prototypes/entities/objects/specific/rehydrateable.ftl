@@ -1,16 +1,23 @@
 ent-MonkeyCube = cubo de mono
+    .desc = ¡Solo añade agua!
 
 ent-KoboldCube = cubo de kobold
+    .desc = ¡Solo añade agua!
 
 ent-CowCube = cubo de vaca
+    .desc = ¡Solo añade agua!
 
 ent-GoatCube = cubo de cabra
+    .desc = ¡Solo añade agua!
 
 ent-MothroachCube = cubo de polillacucaracha
+    .desc = ¡Solo añade agua!
 
 ent-MoproachCube = cubo de moproach
+    .desc = ¡Solo añade agua!
 
 ent-MouseCube = cubo de ratón
+    .desc = ¡Solo añade agua!
 
 ent-CockroachCube = cubo de cucaracha
     .desc = Solo añade ag- ¡DIOS MÍO!

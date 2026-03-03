@@ -16,3 +16,4 @@ ent-EverfullMug = taza inagotable
     .desc = Una taza encantada que se rellena automáticamente con omnizina.
 
 ent-WizardIDCard = tarjeta de identidad de pasajero
+    .desc = Una tarjeta necesaria para acceder a diversas zonas de la estación.

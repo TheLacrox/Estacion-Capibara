@@ -8,3 +8,4 @@ ent-DoubleEmergencyPlasmaTank = tanque interno de plasma
     .desc = Un tanque de plasma diseñado para ser usado como equipo interno por Plasmamen.
 
 ent-PlasmaTankFilledInternals = tanque de plasma
+    .desc = Contiene plasma peligroso. No inhalar, a menos que seas un plasmaman. Extremadamente inflamable. Puede contener 5 L de gas.

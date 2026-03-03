@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0100_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "ParamedicIDCard",
+      "raw_en": "ent-ParamedicIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ChemistIDCard",
+      "raw_en": "ent-ChemistIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CargoIDCard",
+      "raw_en": "ent-CargoIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "SalvageIDCard",
+      "raw_en": "ent-SalvageIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "QuartermasterIDCard",
+      "raw_en": "ent-QuartermasterIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ResearchIDCard",
+      "raw_en": "ent-ResearchIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ClownIDCard",
+      "raw_en": "ent-ClownIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "MimeIDCard",
+      "raw_en": "ent-MimeIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ChaplainIDCard",
+      "raw_en": "ent-ChaplainIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "JanitorIDCard",
+      "raw_en": "ent-JanitorIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "BartenderIDCard",
+      "raw_en": "ent-BartenderIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "PunPunIDCard",
+      "raw_en": "ent-PunPunIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ChefIDCard",
+      "raw_en": "ent-ChefIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "BotanistIDCard",
+      "raw_en": "ent-BotanistIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "LibrarianIDCard",
+      "raw_en": "ent-LibrarianIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "LawyerIDCard",
+      "raw_en": "ent-LawyerIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "HoPIDCard",
+      "raw_en": "ent-HoPIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CEIDCard",
+      "raw_en": "ent-CEIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CMOIDCard",
+      "raw_en": "ent-CMOIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "RDIDCard",
+      "raw_en": "ent-RDIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "HoSIDCard",
+      "raw_en": "ent-HoSIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "VisitorIDCard",
+      "raw_en": "ent-VisitorIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "BrigmedicIDCard",
+      "raw_en": "ent-BrigmedicIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CentcomIDCard",
+      "raw_en": "ent-CentcomIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ERTLeaderIDCard",
+      "raw_en": "ent-ERTLeaderIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ERTChaplainIDCard",
+      "raw_en": "ent-ERTChaplainIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ERTEngineerIDCard",
+      "raw_en": "ent-ERTEngineerIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ERTJanitorIDCard",
+      "raw_en": "ent-ERTJanitorIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ERTMedicIDCard",
+      "raw_en": "ent-ERTMedicIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ERTSecurityIDCard",
+      "raw_en": "ent-ERTSecurityIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "MusicianIDCard",
+      "raw_en": "ent-MusicianIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CentcomIDCardDeathsquad",
+      "raw_en": "ent-CentcomIDCardDeathsquad =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "AgentIDCard",
+      "raw_en": "ent-AgentIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "NukieAgentIDCard",
+      "raw_en": "ent-NukieAgentIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "AtmosIDCard",
+      "raw_en": "ent-AtmosIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "SyndicateIDCard",
+      "raw_en": "ent-SyndicateIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "PirateIDCard",
+      "raw_en": "ent-PirateIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "PsychologistIDCard",
+      "raw_en": "ent-PsychologistIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ReporterIDCard",
+      "raw_en": "ent-ReporterIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "BoxerIDCard",
+      "raw_en": "ent-BoxerIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "ZookeeperIDCard",
+      "raw_en": "ent-ZookeeperIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "DetectiveIDCard",
+      "raw_en": "ent-DetectiveIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CBURNIDcard",
+      "raw_en": "ent-CBURNIDcard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "CluwneIDCard",
+      "raw_en": "ent-CluwneIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "SeniorEngineerIDCard",
+      "raw_en": "ent-SeniorEngineerIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "SeniorResearcherIDCard",
+      "raw_en": "ent-SeniorResearcherIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "SeniorPhysicianIDCard",
+      "raw_en": "ent-SeniorPhysicianIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "SeniorOfficerIDCard",
+      "raw_en": "ent-SeniorOfficerIDCard =\n    .desc = A card necessary to access various areas aboard the station.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/identification_cards.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/identification_cards.ftl"
+    },
+    {
+      "id": "SyndicateSpongeWrapped",
+      "raw_en": "ent-SyndicateSpongeWrapped =\n    .desc = Unwrap this to get a monkey cube.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/monkeycube.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/monkeycube.ftl"
+    },
+    {
+      "id": "NukeCodePaper",
+      "raw_en": "ent-NukeCodePaper =\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/paper.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/paper.ftl"
+    }
+  ]
+}

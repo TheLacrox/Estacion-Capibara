@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0010_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "MechSeraphBattery",
+      "raw_en": "ent-MechSeraphBattery = Seraph\n    .desc = That's the last thing you'll see.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechSeraphFilled",
+      "raw_en": "ent-MechSeraphFilled = Seraph\n    .desc = That's the last thing you'll see.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechGygaxSyndieBattery",
+      "raw_en": "ent-MechGygaxSyndieBattery = Dark Gygax\n    .desc = A modified Gygax used for nefarious purposes. On the back of the armor plate there is an inscription \"Cybersun Inc.\"",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechGygaxSyndieFilled",
+      "raw_en": "ent-MechGygaxSyndieFilled = Dark Gygax\n    .desc = A modified Gygax used for nefarious purposes. On the back of the armor plate there is an inscription \"Cybersun Inc.\"",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechMaulerSyndieBattery",
+      "raw_en": "ent-MechMaulerSyndieBattery = Mauler\n    .desc = A modified Marauder used by the Syndicate that's not as maneuverable as the Dark Gygax, but it makes up for that in armor and sheer firepower. On the back of the armor plate there is an inscription \"Cybersun Inc.\"",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MechMaulerSyndieFilled",
+      "raw_en": "ent-MechMaulerSyndieFilled = Mauler\n    .desc = A modified Marauder used by the Syndicate that's not as maneuverable as the Dark Gygax, but it makes up for that in armor and sheer firepower. On the back of the armor plate there is an inscription \"Cybersun Inc.\"",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/mechs.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/mechs.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMechWeaponRange",
+      "raw_en": "ent-BaseMechWeaponRange = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/base.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/base.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMechWeaponMelee",
+      "raw_en": "ent-BaseMechWeaponMelee = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Mech/Weapons/Melee/base.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Mech/Weapons/Melee/base.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringePax",
+      "raw_en": "ent-SyringePax = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringePoisonCentcomm",
+      "raw_en": "ent-SyringePoisonCentcomm = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeMicroplastics",
+      "raw_en": "ent-SyringeMicroplastics = syringe\n    .desc = Humanity used to macrodose themselves with this. Now its just a medicine for vox.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseCartridgeAutoinjector",
+      "raw_en": "ent-BaseCartridgeAutoinjector = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/hypospray.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Medical/hypospray.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedicalBeamGunBattery",
+      "raw_en": "ent-MedicalBeamGunBattery = medical beam gun\n    .desc = Delivers volatile medical nanites in a focused beam. Uber mode heals the patient much more powerfully, but makes them suffocate. Don't cross the beams! Recharges in 60 or 90 seconds.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/medigun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Medical/medigun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MedicalBeamGunSyndicateBattery",
+      "raw_en": "ent-MedicalBeamGunSyndicateBattery = syndicate medical beam gun\n    .desc = Delivers volatile medical nanites in a focused beam. Uber mode heals the patient much more powerfully, but makes them suffocate. Don't cross the beams! Recharges in 60 or 90 seconds.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Medical/medigun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Medical/medigun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DimensionPot",
+      "raw_en": "ent-DimensionPot = potted plant\n    .desc = A little bit of nature contained in a pot.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Syndicate/dimension_pot.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Syndicate/dimension_pot.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LoneOpsUplink350TC",
+      "raw_en": "ent-LoneOpsUplink350TC = syndicate uplink\n    .desc = Suspiciously looking old radio...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/Syndicate/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/Syndicate/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal15",
+      "raw_en": "ent-Telecrystal15 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal20",
+      "raw_en": "ent-Telecrystal20 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal25",
+      "raw_en": "ent-Telecrystal25 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal30",
+      "raw_en": "ent-Telecrystal30 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal35",
+      "raw_en": "ent-Telecrystal35 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal40",
+      "raw_en": "ent-Telecrystal40 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal50",
+      "raw_en": "ent-Telecrystal50 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal250",
+      "raw_en": "ent-Telecrystal250 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal500",
+      "raw_en": "ent-Telecrystal500 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseUplinkRadio225TC",
+      "raw_en": "ent-BaseUplinkRadio225TC = syndicate uplink\n    .desc = Suspiciously looking old radio...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseUplinkRadio225TCMedic",
+      "raw_en": "ent-BaseUplinkRadio225TCMedic = syndicate uplink\n    .desc = Suspiciously looking old radio...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JetpackChronoUnremoveable",
+      "raw_en": "ent-JetpackChronoUnremoveable = futuristic jetpack\n    .desc = Magnetically attached jetpack that holds extreme amount of gas. It is used as an oxygen cylinder.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Tools/jetpacks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Tools/jetpacks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VehicleClowncarAntag",
+      "raw_en": "ent-VehicleClowncarAntag = clown car\n    .desc = How someone could even fit in there is byond me.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Vehicles/clowncar.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Vehicles/clowncar.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseKey",
+      "raw_en": "ent-BaseKey = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Vehicles/keys.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Vehicles/keys.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VehicleWheelchairFolded",
+      "raw_en": "ent-VehicleWheelchairFolded = wheelchair\n    .desc = A chair with big wheels. It looks like you can move in these on your own.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Vehicles/vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Vehicles/vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MagazineBoxHighCaliber",
+      "raw_en": "ent-MagazineBoxHighCaliber = ammunition box (.50 anti-materiel)",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Boxes/high_caliber_box.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Boxes/high_caliber_box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMagazineBoxShotgunHighCaliber",
+      "raw_en": "ent-BaseMagazineBoxShotgunHighCaliber = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Boxes/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Boxes/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseCartridgeG8",
+      "raw_en": "ent-BaseCartridgeG8 = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/gate.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/gate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMilitaryPowerCell",
+      "raw_en": "ent-BaseMilitaryPowerCell = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/battery_cell.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/battery_cell.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMilitaryPowerCellSMG",
+      "raw_en": "ent-BaseMilitaryPowerCellSMG = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/battery_cell.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/battery_cell.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMilitaryPowerCellSniper",
+      "raw_en": "ent-BaseMilitaryPowerCellSniper = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/battery_cell.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/battery_cell.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMilitaryPowerCellRevolver",
+      "raw_en": "ent-BaseMilitaryPowerCellRevolver = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/battery_cell.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/battery_cell.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseEnergySpeedloader",
+      "raw_en": "ent-BaseEnergySpeedloader = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/energy_speedloaders.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/energy_speedloaders.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EnergyRifleMagBase",
+      "raw_en": "ent-EnergyRifleMagBase = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/energybatterymag.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/energybatterymag.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseMagazineNailgun",
+      "raw_en": "ent-BaseMagazineNailgun = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/nailgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/nailgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MagazineShotgunLeverRifleEmpty",
+      "raw_en": "ent-MagazineShotgunLeverRifleEmpty = lever rifle magazine (8 Gauge)",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/shotgun_lever_magazine.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/shotgun_lever_magazine.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HighCaliberPelletShotgunSpread",
+      "raw_en": "ent-HighCaliberPelletShotgunSpread = pellet (8 Gauge carpshot)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HighCaliberPelletShotgunIncendiarySpread",
+      "raw_en": "ent-HighCaliberPelletShotgunIncendiarySpread = pellet (8 Gauge incendiary)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HighCaliberPelletShotgunPracticeSpread",
+      "raw_en": "ent-HighCaliberPelletShotgunPracticeSpread = pellet (8 Gauge practice)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HighCaliberPelletShotgunUraniumSpread",
+      "raw_en": "ent-HighCaliberPelletShotgunUraniumSpread = pellet (8 Gauge uranium)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HeavyPelletShotgunSpread",
+      "raw_en": "ent-HeavyPelletShotgunSpread = pellet (2 gauge)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HighCaliberPelletGrenadeSpread",
+      "raw_en": "ent-HighCaliberPelletGrenadeSpread = pellet (MP-APERS)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponPlasmaCutterEmpty",
+      "raw_en": "ent-WeaponPlasmaCutterEmpty = plasma cutter\n    .desc = A self-defense weapon that exhausts organic targets, weakening them until they collapse.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Basic/plasma_cutter.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Basic/plasma_cutter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponPlasmaRifleEmpty",
+      "raw_en": "ent-WeaponPlasmaRifleEmpty = plasma rifle\n    .desc = It may or may not explode in your face.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Weapons/Guns/Battery/battery_guns.ftl",
+      "file_exists": false
+    }
+  ]
+}

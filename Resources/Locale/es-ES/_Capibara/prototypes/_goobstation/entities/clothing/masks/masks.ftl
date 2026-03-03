@@ -2,6 +2,7 @@ ent-ClothingMaskGasChrono = máscara de gas futurista
     .desc = Una máscara de gas futurista de diseño desconocido con un número inimaginable de sistemas de filtración.
 
 ent-ClothingMaskClownUnremoveable = peluca y máscara de payaso plátano irremovibles
+    .desc = El atuendo facial de un verdadero bromista. Un payaso está incompleto sin su peluca y su máscara.
 
 ent-ClothingMaskGasVoiceCraftable = máscara moduladora de voz
     .desc = Un modulador de voz mal construido hecho de una máscara de gas y un activador de voz.

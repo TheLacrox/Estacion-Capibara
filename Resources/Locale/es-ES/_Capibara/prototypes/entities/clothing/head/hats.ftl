@@ -209,10 +209,13 @@ ent-ClothingHeadHatPartyRed = gorro de fiesta rojo
     .desc = ¡Difunde la alegría!
 
 ent-ClothingHeadHatPartyYellow = gorro de fiesta amarillo
+    .desc = ¡Difunde la alegría!
 
 ent-ClothingHeadHatPartyGreen = gorro de fiesta verde
+    .desc = ¡Difunde la alegría!
 
 ent-ClothingHeadHatPartyBlue = gorro de fiesta azul
+    .desc = ¡Difunde la alegría!
 
 ent-ClothingHeadHatPartyWaterCup = gorro de fiesta vaso de agua
     .desc = No es tan satisfactorio como esperabas...
@@ -227,14 +230,19 @@ ent-ClothingHeadHatCowboyBrown = sombrero de vaquero marrón
     .desc = "Este sombrero no es lo suficientemente grande para los dos."
 
 ent-ClothingHeadHatCowboyBlack = sombrero de vaquero negro
+    .desc = "Este sombrero no es lo suficientemente grande para los dos."
 
 ent-ClothingHeadHatCowboyGrey = sombrero de vaquero gris
+    .desc = "Este sombrero no es lo suficientemente grande para los dos."
 
 ent-ClothingHeadHatCowboyRed = sombrero de vaquero rojo
+    .desc = "Este sombrero no es lo suficientemente grande para los dos."
 
 ent-ClothingHeadHatCowboyWhite = sombrero de vaquero blanco
+    .desc = "Este sombrero no es lo suficientemente grande para los dos."
 
 ent-ClothingHeadHatCowboyBountyHunter = sombrero de vaquero cazarrecompensas
+    .desc = "Este sombrero no es lo suficientemente grande para los dos."
 
 ent-ClothingHeadHatStrawHat = sombrero de paja
     .desc = ¡Un sombrero elegante para los días calurosos! No se recomienda cerca del fuego.

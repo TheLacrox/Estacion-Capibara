@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0081_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "AutosurgeonSmartLink",
+      "raw_en": "ent-AutosurgeonSmartLink =\n    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/autosurgeon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/autosurgeon.ftl"
+    },
+    {
+      "id": "AutosurgeonRecoilAbsorber",
+      "raw_en": "ent-AutosurgeonRecoilAbsorber =\n    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/autosurgeon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/autosurgeon.ftl"
+    },
+    {
+      "id": "AutosurgeonBerserker",
+      "raw_en": "ent-AutosurgeonBerserker =\n    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/autosurgeon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/autosurgeon.ftl"
+    },
+    {
+      "id": "AutosurgeonJumpstarter",
+      "raw_en": "ent-AutosurgeonJumpstarter =\n    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/autosurgeon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/autosurgeon.ftl"
+    },
+    {
+      "id": "NavyOfficerPDA",
+      "raw_en": "ent-NavyOfficerPDA =\n    .desc = The devil's in the details.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/pda.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/pda.ftl"
+    },
+    {
+      "id": "SpecialOperationsOfficerPDA",
+      "raw_en": "ent-SpecialOperationsOfficerPDA =\n    .desc = The devil's in the details.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/pda.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/pda.ftl"
+    },
+    {
+      "id": "DiplomatPDA",
+      "raw_en": "ent-DiplomatPDA =\n    .desc = The devil's in the details.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/pda.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/pda.ftl"
+    },
+    {
+      "id": "InspectorPDA",
+      "raw_en": "ent-InspectorPDA =\n    .desc = The devil's in the details.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/pda.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/pda.ftl"
+    },
+    {
+      "id": "CommandMaidPDA",
+      "raw_en": "ent-CommandMaidPDA =\n    .desc = Smells like bleach.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/pda.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/pda.ftl"
+    },
+    {
+      "id": "PinpointerDarkLord",
+      "raw_en": "ent-PinpointerDarkLord =\n    .desc = A handheld tracking device. While typically far more capable, this one has been configured to lock onto certain signals. Keep upright to retain accuracy.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Devices/pinpointer.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/devices/pinpointer.ftl"
+    },
+    {
+      "id": "CdDiskDanitosBurritos",
+      "raw_en": "ent-CdDiskDanitosBurritos =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskBillMovie",
+      "raw_en": "ent-CdDiskBillMovie =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskCapTraining",
+      "raw_en": "ent-CdDiskCapTraining =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskCargonia",
+      "raw_en": "ent-CdDiskCargonia =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskChemistry",
+      "raw_en": "ent-CdDiskChemistry =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskCloningPsa",
+      "raw_en": "ent-CdDiskCloningPsa =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskDansTickets",
+      "raw_en": "ent-CdDiskDansTickets =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskGrones",
+      "raw_en": "ent-CdDiskGrones =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskPopeCrunchCereal",
+      "raw_en": "ent-CdDiskPopeCrunchCereal =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskQuikNoodles",
+      "raw_en": "ent-CdDiskQuikNoodles =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskRobotics",
+      "raw_en": "ent-CdDiskRobotics =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskSecurityPsa",
+      "raw_en": "ent-CdDiskSecurityPsa =\n    .desc = A cd disk, usually contains ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskCommanderAnnouncement",
+      "raw_en": "ent-CdDiskCommanderAnnouncement =\n    .desc = A weird cd disk, something tells you that this one doesn't contain ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskCommanderFigurines",
+      "raw_en": "ent-CdDiskCommanderFigurines =\n    .desc = A weird cd disk, something tells you that this one doesn't contain ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskCommanderResignation",
+      "raw_en": "ent-CdDiskCommanderResignation =\n    .desc = A weird cd disk, something tells you that this one doesn't contain ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskCommanderSupport",
+      "raw_en": "ent-CdDiskCommanderSupport =\n    .desc = A weird cd disk, something tells you that this one doesn't contain ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskHeisenbeeTrial",
+      "raw_en": "ent-CdDiskHeisenbeeTrial =\n    .desc = A weird cd disk, something tells you that this one doesn't contain ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskXgOnboarding1",
+      "raw_en": "ent-CdDiskXgOnboarding1 =\n    .desc = A weird cd disk, something tells you that this one doesn't contain ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskXgOnboarding2",
+      "raw_en": "ent-CdDiskXgOnboarding2 =\n    .desc = A weird cd disk, something tells you that this one doesn't contain ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskXgOnboarding3",
+      "raw_en": "ent-CdDiskXgOnboarding3 =\n    .desc = A weird cd disk, something tells you that this one doesn't contain ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "CdDiskXgOnboarding4",
+      "raw_en": "ent-CdDiskXgOnboarding4 =\n    .desc = A weird cd disk, something tells you that this one doesn't contain ads.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "JVNECdDiskCapstien",
+      "raw_en": "ent-JVNECdDiskCapstien =\n    .desc = The June and Eels show!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "JVNECdDiskNinja",
+      "raw_en": "ent-JVNECdDiskNinja =\n    .desc = The June and Eels show!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "JVNECdDiskNextUp",
+      "raw_en": "ent-JVNECdDiskNextUp =\n    .desc = The June and Eels show!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "JVNECdDiskJNE",
+      "raw_en": "ent-JVNECdDiskJNE =\n    .desc = The June and Eels show!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/cds.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/cds.ftl"
+    },
+    {
+      "id": "LilCal",
+      "raw_en": "ent-LilCal =\n    .desc = It's a dummy, dummy!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/puppet.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/puppet.ftl"
+    },
+    {
+      "id": "BulletGrenadeToy",
+      "raw_en": "ent-BulletGrenadeToy =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieXeve",
+      "raw_en": "ent-EvilPlushieXeve =\n    .desc = That fucking byrd that I hate.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieBoggle",
+      "raw_en": "ent-EvilPlushieBoggle =\n    .desc = You can feel money inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieBrizby",
+      "raw_en": "ent-EvilPlushieBrizby =\n    .desc = Will always admit to being evil.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieNigel",
+      "raw_en": "ent-EvilPlushieNigel =\n    .desc = Smells like greatness, and a distinct smell of adalamin brand perfume?",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieFern",
+      "raw_en": "ent-EvilPlushieFern =\n    .desc = You feel as if something else is watching you... just out of sight, in the shadows.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieJvne",
+      "raw_en": "ent-EvilPlushieJvne =\n    .desc = It's been a rough day...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieMnwaar",
+      "raw_en": "ent-EvilPlushieMnwaar =\n    .desc = A plushie of a small, deep gray, semi-heterochromic Shadowkin wearing the outfit of a Chief Medical Officer.\\nThe tag reads: \\\"Mnwaar: Medical's Muted Manager!™ Now with magnetically attaching Hypospray!\\\"",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieDurk",
+      "raw_en": "ent-EvilPlushieDurk =\n    .desc = A cute stuffed toy that resembles a certain atmospheric technician. You feel like a great breaking of the universe approaches while holding this",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieLouie",
+      "raw_en": "ent-EvilPlushieLouie =\n    .desc = A cute stuffed toy that resembles a rat. You feel a strange compulsion to say hi to the rat.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieWachtel",
+      "raw_en": "ent-EvilPlushieWachtel =\n    .desc = God's Drunkest Driver",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieLeguia",
+      "raw_en": "ent-EvilPlushieLeguia =\n    .desc = Dubious creature.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushiePasha",
+      "raw_en": "ent-EvilPlushiePasha =\n    .desc = A not so cute stuffed toy that resembles an overworked Vox. Smells strongly of nicotine.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    },
+    {
+      "id": "EvilPlushieTwofish",
+      "raw_en": "ent-EvilPlushieTwofish =\n    .desc = At closer look, looks like a chud",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/fun/toys.ftl"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0031_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "ClothingOuterStorageBase",
+      "raw_en": "ent-ClothingOuterStorageBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/base_clothingouter.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/base_clothingouter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterStorageFoldableBase",
+      "raw_en": "ent-ClothingOuterStorageFoldableBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/base_clothingouter.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/base_clothingouter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterStorageFoldableBaseOpened",
+      "raw_en": "ent-ClothingOuterStorageFoldableBaseOpened = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/base_clothingouter.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/base_clothingouter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterStorageToggleableBase",
+      "raw_en": "ent-ClothingOuterStorageToggleableBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/base_clothingouter.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/base_clothingouter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterBaseMedium",
+      "raw_en": "ent-ClothingOuterBaseMedium = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/base_clothingouter.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/base_clothingouter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterCoatDetectiveLoadout",
+      "raw_en": "ent-ClothingOuterCoatDetectiveLoadout = detective trenchcoat\n    .desc = An 18th-century multi-purpose trenchcoat. Someone who wears this means serious business.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/coats.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/coats.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterWizardBase",
+      "raw_en": "ent-ClothingOuterWizardBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterHardsuitCarp",
+      "raw_en": "ent-ClothingOuterHardsuitCarp = carp suit\n    .desc = A special suit that makes you look just like a space carp, if your eyesight is bad.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/suits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/suits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesBase",
+      "raw_en": "ent-ClothingShoesBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/base_clothingshoes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Shoes/base_clothingshoes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesBaseButcherable",
+      "raw_en": "ent-ClothingShoesBaseButcherable = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/base_clothingshoes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Shoes/base_clothingshoes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesMilitaryBase",
+      "raw_en": "ent-ClothingShoesMilitaryBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/base_clothingshoes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Shoes/base_clothingshoes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesBaseWinterBoots",
+      "raw_en": "ent-ClothingShoesBaseWinterBoots = item\n    .desc = Fluffy boots to help survive even the coldest of winters.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/base_clothingshoes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Shoes/base_clothingshoes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesBootsMag",
+      "raw_en": "ent-ClothingShoesBootsMag = magboots\n    .desc = Magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/magboots.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Shoes/magboots.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesBootsMagSci",
+      "raw_en": "ent-ClothingShoesBootsMagSci = magboots\n    .desc = Magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/magboots.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Shoes/magboots.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesClownBase",
+      "raw_en": "ent-ClothingShoesClownBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Shoes/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Shoes/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UnsensoredClothingUniformBase",
+      "raw_en": "ent-UnsensoredClothingUniformBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Uniforms/base_clothinguniforms.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Uniforms/base_clothinguniforms.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UnsensoredClothingUniformSkirtBase",
+      "raw_en": "ent-UnsensoredClothingUniformSkirtBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Uniforms/base_clothinguniforms.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Uniforms/base_clothinguniforms.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformBase",
+      "raw_en": "ent-ClothingUniformBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Uniforms/base_clothinguniforms.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Uniforms/base_clothinguniforms.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformSkirtBase",
+      "raw_en": "ent-ClothingUniformSkirtBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Uniforms/base_clothinguniforms.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Uniforms/base_clothinguniforms.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitJesterAlt",
+      "raw_en": "ent-ClothingUniformJumpsuitJesterAlt = jester suit\n    .desc = A jolly dress, well suited to entertain your master, nuncle.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Uniforms/jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Uniforms/jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformRandom",
+      "raw_en": "ent-ClothingUniformRandom = item\n    .desc = Generated by neural networks based on the latest fashion trends.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Uniforms/random_suit.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Uniforms/random_suit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdminInstantEffectEMP",
+      "raw_en": "ent-AdminInstantEffectEMP = instant effect",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/admin_triggers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/admin_triggers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdminInstantEffectBluespace",
+      "raw_en": "ent-AdminInstantEffectBluespace = instant effect",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/admin_triggers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/admin_triggers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdminInstantEffectFlash",
+      "raw_en": "ent-AdminInstantEffectFlash = instant effect",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/admin_triggers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/admin_triggers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdminInstantEffectSmoke3",
+      "raw_en": "ent-AdminInstantEffectSmoke3 = instant effect",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/admin_triggers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/admin_triggers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdminInstantEffectSmoke10",
+      "raw_en": "ent-AdminInstantEffectSmoke10 = instant effect",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/admin_triggers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/admin_triggers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdminInstantEffectSmoke30",
+      "raw_en": "ent-AdminInstantEffectSmoke30 = instant effect",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/admin_triggers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/admin_triggers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdminInstantEffectTearGas",
+      "raw_en": "ent-AdminInstantEffectTearGas = instant effect",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/admin_triggers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/admin_triggers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdminInstantEffectGravityWell",
+      "raw_en": "ent-AdminInstantEffectGravityWell = instant effect",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/admin_triggers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/admin_triggers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TearGasSmokeWhite",
+      "raw_en": "ent-TearGasSmokeWhite = tear gas",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/chemistry_effects.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/chemistry_effects.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PortalRed",
+      "raw_en": "ent-PortalRed = bluespace portal\n    .desc = This one looks more like a redspace portal.",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/portal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/portal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PortalBlue",
+      "raw_en": "ent-PortalBlue = bluespace portal\n    .desc = Transports you to a linked destination!",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/portal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/portal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PortalArtifact",
+      "raw_en": "ent-PortalArtifact = bluespace portal\n    .desc = Transports you to a linked destination!",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/portal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/portal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PortalGatewayBlue",
+      "raw_en": "ent-PortalGatewayBlue = bluespace portal\n    .desc = Transports you to a linked destination!",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/portal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/portal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PortalGatewayOrange",
+      "raw_en": "ent-PortalGatewayOrange = bluespace portal\n    .desc = Transports you to a linked destination!",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/portal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/portal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PuddleTemporary",
+      "raw_en": "ent-PuddleTemporary = puddle\n    .desc = A puddle of liquid.",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/puddle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/puddle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PuddleSmear",
+      "raw_en": "ent-PuddleSmear = puddle\n    .desc = A puddle of liquid.",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/puddle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/puddle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PuddleVomit",
+      "raw_en": "ent-PuddleVomit = puddle\n    .desc = A puddle of liquid.",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/puddle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/puddle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PuddleEgg",
+      "raw_en": "ent-PuddleEgg = puddle\n    .desc = A puddle of liquid.",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/puddle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/puddle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PuddleTomato",
+      "raw_en": "ent-PuddleTomato = puddle\n    .desc = A puddle of liquid.",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/puddle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/puddle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PuddleBloodSmall",
+      "raw_en": "ent-PuddleBloodSmall = puddle\n    .desc = A puddle of liquid.",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/puddle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/puddle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PuddleBlood",
+      "raw_en": "ent-PuddleBlood = puddle\n    .desc = A puddle of liquid.",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/puddle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/puddle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PuddleWatermelon",
+      "raw_en": "ent-PuddleWatermelon = puddle\n    .desc = A puddle of liquid.",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/puddle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/puddle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PuddleFlour",
+      "raw_en": "ent-PuddleFlour = puddle\n    .desc = A puddle of liquid.",
+      "source_yaml": "Resources/Prototypes/Entities/Effects/puddle.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Effects/puddle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AtmosFixVoxMarker",
+      "raw_en": "ent-AtmosFixVoxMarker = Atmos Fix Nitrogen Marker\n    .desc = Nitrogen @ 101 kPa, 20C",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/atmos_blocker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/atmos_blocker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointLoneNukeOperative",
+      "raw_en": "ent-SpawnPointLoneNukeOperative = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointNukeopsCommander",
+      "raw_en": "ent-SpawnPointNukeopsCommander = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointNukeopsMedic",
+      "raw_en": "ent-SpawnPointNukeopsMedic = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointNukeopsOperative",
+      "raw_en": "ent-SpawnPointNukeopsOperative = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostDragon",
+      "raw_en": "ent-SpawnPointGhostDragon = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/Entities/Markers/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Markers/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    }
+  ]
+}

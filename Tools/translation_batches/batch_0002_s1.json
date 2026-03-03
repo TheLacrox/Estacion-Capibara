@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0002_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "OrganShadowkinStomach",
+      "raw_en": "ent-OrganShadowkinStomach = stomach\n    .desc = \"Yummy!\", says the stomach, although you are unable to hear it.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/shadowkin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/shadowkin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganShadowkinLiver",
+      "raw_en": "ent-OrganShadowkinLiver = liver\n    .desc = Live 'er? I hardly know 'er!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/shadowkin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/shadowkin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganShadowkinKidneys",
+      "raw_en": "ent-OrganShadowkinKidneys = kidneys\n    .desc = Give the kid their knees back, please, this is the third time this week.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Organs/shadowkin.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Organs/shadowkin.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartShadow",
+      "raw_en": "ent-PartShadow = human body part",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Parts/shadow.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Parts/shadow.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartShadowling",
+      "raw_en": "ent-PartShadowling = human body part",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Body/Parts/shadowling.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Body/Parts/shadowling.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BriefcaseSyndieLobbyingBundlePlasmamanFilled",
+      "raw_en": "ent-BriefcaseSyndieLobbyingBundlePlasmamanFilled = brown briefcase\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Catalog/Fills/Items/briefcases.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Catalog/Fills/Items/briefcases.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BriefcaseThiefBribingBundlePlasmamanFilled",
+      "raw_en": "ent-BriefcaseThiefBribingBundlePlasmamanFilled = brown briefcase\n    .desc = Useful for carrying items in your hands.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Catalog/Fills/Items/briefcases.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Catalog/Fills/Items/briefcases.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EmergencyPlasmaTankFilled",
+      "raw_en": "ent-EmergencyPlasmaTankFilled = emergency plasma tank\n    .desc = An easily portable tank for emergencies. Contains very little plasma, rated for survival use only.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ExtendedEmergencyPlasmaTankFilled",
+      "raw_en": "ent-ExtendedEmergencyPlasmaTankFilled = extended capacity emergency plasma tank\n    .desc = An emergency tank with extended capacity. Technically rated for prolonged use.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DoubleEmergencyPlasmaTankFilled",
+      "raw_en": "ent-DoubleEmergencyPlasmaTankFilled = plasma internals tank\n    .desc = A tank of plasma designed to be internals for Plasmamen.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Catalog/Fills/Items/gas_tanks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Catalog/Fills/Items/gas_tanks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsGlovesEnviroglovesBase",
+      "raw_en": "ent-ClothingHandsGlovesEnviroglovesBase = item",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Clothing/Hands/base_clothinghands.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Clothing/Hands/base_clothinghands.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadEnvirohelmEmpty",
+      "raw_en": "ent-ClothingHeadEnvirohelmEmpty = plasma envirosuit helmet\n    .desc = A special containment helmet that allows plasma-based lifeforms to exist safely in an oxygenated environment.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Clothing/Head/envirohelms.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Clothing/Head/envirohelms.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UnsensoredClothingUniformEnvirosuitBase",
+      "raw_en": "ent-UnsensoredClothingUniformEnvirosuitBase = item",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Clothing/Uniform/base_clothinguniforms.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Clothing/Uniform/base_clothinguniforms.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformEnvirosuitBase",
+      "raw_en": "ent-ClothingUniformEnvirosuitBase = item",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Clothing/Uniform/base_clothinguniforms.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Clothing/Uniform/base_clothinguniforms.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UnsensoredClothingUniformEnvirosuitCustomBase",
+      "raw_en": "ent-UnsensoredClothingUniformEnvirosuitCustomBase = item",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Clothing/Uniform/base_clothinguniforms.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Clothing/Uniform/base_clothinguniforms.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformEnvirosuitCustomBase",
+      "raw_en": "ent-ClothingUniformEnvirosuitCustomBase = item",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Clothing/Uniform/base_clothinguniforms.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Clothing/Uniform/base_clothinguniforms.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobShadow",
+      "raw_en": "ent-MobShadow = Urist McShadow",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Mobs/Species/shadow.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Mobs/Species/shadow.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobShadowling",
+      "raw_en": "ent-MobShadowling = Urist McSling",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Mobs/Species/shadowling.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Mobs/Species/shadowling.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageApocryphal",
+      "raw_en": "ent-SuitStorageApocryphal = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Modsuits/apocryphal.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Modsuits/apocryphal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageResponsoryEngineering",
+      "raw_en": "ent-SuitStorageResponsoryEngineering = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Modsuits/engineering-responsory.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Modsuits/engineering-responsory.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageInquisitory",
+      "raw_en": "ent-SuitStorageInquisitory = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Modsuits/inquisitory.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Modsuits/inquisitory.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageResponsoryJanitorial",
+      "raw_en": "ent-SuitStorageResponsoryJanitorial = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Modsuits/janitorial-responsory.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Modsuits/janitorial-responsory.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageResponsoryLeader",
+      "raw_en": "ent-SuitStorageResponsoryLeader = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Modsuits/leader-responsory.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Modsuits/leader-responsory.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageResponsoryMedical",
+      "raw_en": "ent-SuitStorageResponsoryMedical = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Modsuits/medical-responsory.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Modsuits/medical-responsory.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStoragePraetorian",
+      "raw_en": "ent-SuitStoragePraetorian = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Modsuits/praetorian.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Modsuits/praetorian.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SuitStorageResponsorySecurity",
+      "raw_en": "ent-SuitStorageResponsorySecurity = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Modsuits/security-responsory.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Modsuits/security-responsory.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletGrenadeSpreadBeanbag",
+      "raw_en": "ent-BulletGrenadeSpreadBeanbag = pellet (.50)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletGrenadeSpreadBirdshot",
+      "raw_en": "ent-BulletGrenadeSpreadBirdshot = pellet (.50)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletGrenadeBirdshot",
+      "raw_en": "ent-BulletGrenadeBirdshot = pellet (.50)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletGrenadeSpread00Buckshot",
+      "raw_en": "ent-BulletGrenadeSpread00Buckshot = pellet (.50)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletGrenadeSpread0000Buckshot",
+      "raw_en": "ent-BulletGrenadeSpread0000Buckshot = pellet (.50)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletShotgunSpreadBirdshot",
+      "raw_en": "ent-PelletShotgunSpreadBirdshot = pellet (.50)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletShotgunSpread00Buckshot",
+      "raw_en": "ent-PelletShotgunSpread00Buckshot = pellet (.50)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletShotgunSpread0000Buckshot",
+      "raw_en": "ent-PelletShotgunSpread0000Buckshot = pellet (.50)\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/shotgun.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Entities/Objects/Weapons/Guns/Projectiles/shotgun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TranslatorPoweredBase",
+      "raw_en": "ent-TranslatorPoweredBase = translator\n    .desc = Translates speech.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Devices/translators.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Devices/translators.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Translator",
+      "raw_en": "ent-Translator = translator\n    .desc = Translates speech.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Devices/translators.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Devices/translators.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasicGalaticCommonTranslatorImplanter",
+      "raw_en": "ent-BasicGalaticCommonTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdvancedGalaticCommonTranslatorImplanter",
+      "raw_en": "ent-AdvancedGalaticCommonTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BubblishTranslatorImplanter",
+      "raw_en": "ent-BubblishTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NekomimeticTranslatorImplanter",
+      "raw_en": "ent-NekomimeticTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DraconicTranslatorImplanter",
+      "raw_en": "ent-DraconicTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CanilunztTranslatorImplanter",
+      "raw_en": "ent-CanilunztTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SolCommonTranslatorImplanter",
+      "raw_en": "ent-SolCommonTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NovuNedericTranslatorImplanter",
+      "raw_en": "ent-NovuNedericTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RootSpeakTranslatorImplanter",
+      "raw_en": "ent-RootSpeakTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MofficTranslatorImplanter",
+      "raw_en": "ent-MofficTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ValyrianStandardTranslatorImplanter",
+      "raw_en": "ent-ValyrianStandardTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AzazibaTranslatorImplanter",
+      "raw_en": "ent-AzazibaTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ChittinTranslatorImplanter",
+      "raw_en": "ent-ChittinTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SiikMaasTranslatorImplanter",
+      "raw_en": "ent-SiikMaasTranslatorImplanter = translator implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_EinsteinEngines/Objects/Misc/translator_implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_EinsteinEngines/Objects/Misc/translator_implanters.ftl",
+      "file_exists": false
+    }
+  ]
+}

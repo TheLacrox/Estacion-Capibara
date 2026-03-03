@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0021_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "RMCPlatformStairRight",
+      "raw_en": "ent-RMCPlatformStairRight = platform\n    .desc = A square metal surface resting on four legs.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformStairLeft",
+      "raw_en": "ent-RMCPlatformStairLeft = platform\n    .desc = A square metal surface resting on four legs.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformKutjevoBroken",
+      "raw_en": "ent-RMCPlatformKutjevoBroken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformHybrisaEdgeBroken",
+      "raw_en": "ent-RMCPlatformHybrisaEdgeBroken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformHybrisaBroken",
+      "raw_en": "ent-RMCPlatformHybrisaBroken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformHybrisa2Broken",
+      "raw_en": "ent-RMCPlatformHybrisa2Broken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformHybrisa3Broken",
+      "raw_en": "ent-RMCPlatformHybrisa3Broken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformHybrisaRockBroken",
+      "raw_en": "ent-RMCPlatformHybrisaRockBroken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformHybrisaStoneBroken",
+      "raw_en": "ent-RMCPlatformHybrisaStoneBroken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformSandstoneBroken",
+      "raw_en": "ent-RMCPlatformSandstoneBroken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/platform.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/platform.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformStrataBroken",
+      "raw_en": "ent-RMCPlatformStrataBroken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/strata.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/strata.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformStrataStair",
+      "raw_en": "ent-RMCPlatformStrataStair = raised metal edge\n    .desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/strata.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/strata.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformStrataStairAlt",
+      "raw_en": "ent-RMCPlatformStrataStairAlt = raised metal edge\n    .desc = A raised level of metal, often used to elevate areas above others. You could probably climb it.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/strata.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/strata.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformStrata2Broken",
+      "raw_en": "ent-RMCPlatformStrata2Broken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/strata.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/strata.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPlatformStrata3Broken",
+      "raw_en": "ent-RMCPlatformStrata3Broken = destroyed platform\n    .desc = A square metal surface resting on four legs. It has been destroyed.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/Platforms/strata.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/Platforms/strata.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronOrangeFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronOrangeFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBlack",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBlack = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBlackFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBlackFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBlue",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBlue = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBlueFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBlueFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBrown",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBrown = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBrownFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBrownFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronCop",
+      "raw_en": "ent-RMCPropVehicleMonoSupronCop = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronCopFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronCopFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronDesatBlue",
+      "raw_en": "ent-RMCPropVehicleMonoSupronDesatBlue = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronDesatBlueFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronDesatBlueFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronGreen",
+      "raw_en": "ent-RMCPropVehicleMonoSupronGreen = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronGreenFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronGreenFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronLightBlue",
+      "raw_en": "ent-RMCPropVehicleMonoSupronLightBlue = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronLightBlueFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronLightBlueFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronPink",
+      "raw_en": "ent-RMCPropVehicleMonoSupronPink = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronPinkFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronPinkFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronPurple",
+      "raw_en": "ent-RMCPropVehicleMonoSupronPurple = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronPurpleFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronPurpleFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronRed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronRed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronRedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronRedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronShell",
+      "raw_en": "ent-RMCPropVehicleMonoSupronShell = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronShellFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronShellFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronTaxi",
+      "raw_en": "ent-RMCPropVehicleMonoSupronTaxi = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronTaxiFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronTaxiFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronTurquoise",
+      "raw_en": "ent-RMCPropVehicleMonoSupronTurquoise = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronTurquoiseFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronTurquoiseFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronWY",
+      "raw_en": "ent-RMCPropVehicleMonoSupronWY = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronWYFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronWYFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronOrangeDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronOrangeDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronOrangeDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronOrangeDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBlackDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBlackDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBlackDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBlackDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBlueDestroyed",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBlueDestroyed = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCPropVehicleMonoSupronBlueDestroyedFlipped",
+      "raw_en": "ent-RMCPropVehicleMonoSupronBlueDestroyedFlipped = Mono-Supron\n    .desc = The 'Mono-Supron', a mass-produced civilian vehicle for the colonial markets, in and outside of the United Nations. Produced by 'Mizutani' a car marque and associated operating division of the Weston-Yamada Corporation.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/prop_vehicles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/prop_vehicles.ftl",
+      "file_exists": false
+    }
+  ]
+}

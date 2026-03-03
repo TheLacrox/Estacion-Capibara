@@ -11,60 +11,80 @@ ent-BorgModuleFireExtinguisher = módulo de borg propulsor
     .desc = NT asignó un equipo para diseñar un jetpack para unidades cyborg, pero se les acabó el financiamiento y simplemente hicieron un extintor más grande. ¡Aunque viene con un GPS integrado y escáner de masa!
 
 ent-BorgModuleTool = módulo de borg de herramientas
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleAppraisal = módulo de borg de valoración
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleMining = módulo de borg de minería
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleAdvancedMining = módulo de borg de minería avanzada
     .desc = Módulo de cargo avanzado que contiene equipo de minería avanzado. Los estudios muestran que aumenta la productividad de un cyborg en un 150%.
 
 ent-BorgModuleTraversal = módulo de borg de desplazamiento
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleAdvancedTool = módulo de borg de herramientas avanzadas
     .desc = Módulo de ingeniería avanzado que contiene herramientas de vanguardia.
 
 ent-BorgModuleConstruction = módulo de borg de construcción
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleRCD = módulo de borg de ingeniería
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleCustodial = módulo de borg de custodia
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleCleaning = módulo de borg de limpieza
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleAdvancedCleaning = módulo de borg de limpieza avanzada
     .desc = Módulo de conserjería avanzado que contiene, pues... equipo de conserje avanzado. ¿Qué esperabas?
 
 # todo: reuse when med refractor is finished
 ent-BorgModuleDiagnosis = módulo de borg de diagnóstico
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleTopicals = módulo de borg de tópicos
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleRescue = módulo de borg de rescate
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleChemical = módulo de borg químico
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleAdvancedChemical = módulo de borg químico avanzado
     .desc = Módulo médico avanzado que contiene la adaptación de cyborg del muy codiciado hypospray. ¡Ahora tus cyborgs pueden inyectar hidrato de cloral a los agresores incluso más rápido!
 
 ent-BorgModuleArtifact = módulo de borg de artefactos
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleAnomaly = módulo de borg de anomalías
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleService = módulo de borg de servicios
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleMusique = módulo de borg de música
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleGardening = módulo de borg de jardinería
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleHarvesting = módulo de borg de cosecha
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleClowning = módulo de borg de payasadas
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleAdvancedClowning = módulo de borg de payasadas avanzadas
     .desc = ¡Módulo de servicio avanzado solo para los cyborgs más tontos! Viene con un horno integrado que hornea pasteles automáticamente con el tiempo, un proyector de holo-piel y una bocina de empuje.
 
 ent-BorgModuleSyndicateWeapon = módulo de borg de arma
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleOperative = módulo de borg operativo
     .desc = Un módulo que viene con un par de tenazas de rescate del Syndicate, un Emag, un rompedor de accesos y un localizador del Syndicate. # Goobstation
@@ -82,8 +102,10 @@ ent-MothershipModule = módulo de nave nodriza
     .desc = Un módulo que ayuda a la nave nodriza con los cerebros borg e instala otros módulos.
 
 ent-BorgModuleSurgery = módulo de borg de cirugía
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-BorgModuleAdvancedSurgery = módulo de borg de cirugía avanzada
+    .desc = Una pieza tecnológica que da nuevas habilidades a los cyborgs.
 
 ent-XenoborgModuleBasic = módulo básico de xenoborg
     .desc = Elementos esenciales para cualquier Xenoborg.

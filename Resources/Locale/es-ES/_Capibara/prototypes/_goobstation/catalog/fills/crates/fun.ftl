@@ -5,8 +5,10 @@ ent-CrateFunSyndicateSegway = Caja de segway del Syndicate
     .desc = Una caja que contiene un vehículo de dos ruedas que te ayudará a escapar de los oficiales de seguridad. O no.
 
 ent-CrateFunBingleLoot = Botín de Bingle
+    .desc = Un contenedor grande para objetos.
 
 ent-CrateFunBingleAdmeme = Bingle
+    .desc = Un contenedor grande para objetos.
 
 ent-CrateFunDiscoBeachBall = caja de pelota de playa disco
     .desc = Una caja que contiene una Pelota de Playa Disco que convierte cualquier viaje a la playa en el Studio 54.

@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0096_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "FoodBoxDonkpocketCarp",
+      "raw_en": "ent-FoodBoxDonkpocketCarp =\n    .desc = Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "FoodBoxDonkpocketBerry",
+      "raw_en": "ent-FoodBoxDonkpocketBerry =\n    .desc = Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "FoodBoxDonkpocketHonk",
+      "raw_en": "ent-FoodBoxDonkpocketHonk =\n    .desc = Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "FoodBoxDonkpocketMoth",
+      "raw_en": "ent-FoodBoxDonkpocketMoth =\n    .desc = Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "HappyHonkNukieSnacks",
+      "raw_en": "ent-HappyHonkNukieSnacks =\n    .desc = A sus meal with a potentially explosive surprise.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/box.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/box.ftl"
+    },
+    {
+      "id": "FoodTinPeachesTrash",
+      "raw_en": "ent-FoodTinPeachesTrash =\n    .desc = An empty tin. Could get a bit of metal from this.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/tin.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/tin.ftl"
+    },
+    {
+      "id": "FoodTinPeachesMaint",
+      "raw_en": "ent-FoodTinPeachesMaint =\n    .desc = Just a nice can of ripe peaches swimming in their own juices.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/tin.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/tin.ftl"
+    },
+    {
+      "id": "FoodTinPeachesMaintTrash",
+      "raw_en": "ent-FoodTinPeachesMaintTrash =\n    .desc = An empty tin. Could get a bit of metal from this.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/tin.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/tin.ftl"
+    },
+    {
+      "id": "FoodTinBeansTrash",
+      "raw_en": "ent-FoodTinBeansTrash =\n    .desc = An empty tin. Could get a bit of metal from this.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/tin.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/tin.ftl"
+    },
+    {
+      "id": "FoodTinMRETrash",
+      "raw_en": "ent-FoodTinMRETrash =\n    .desc = An empty tin. Could get a bit of metal from this.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/Containers/tin.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/containers/tin.ftl"
+    },
+    {
+      "id": "FoodEgg",
+      "raw_en": "ent-FoodEgg =\n    .desc = An egg!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/egg.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/egg.ftl"
+    },
+    {
+      "id": "FoodFakeCapfruit",
+      "raw_en": "ent-FoodFakeCapfruit =\n    .desc = A soft but smooth gun-shaped fruit.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/produce.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/produce.ftl"
+    },
+    {
+      "id": "FoodPacketBoritosTrash",
+      "raw_en": "ent-FoodPacketBoritosTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketCnDsTrash",
+      "raw_en": "ent-FoodPacketCnDsTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketCheesieTrash",
+      "raw_en": "ent-FoodPacketCheesieTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketChipsTrash",
+      "raw_en": "ent-FoodPacketChipsTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketChocolateTrash",
+      "raw_en": "ent-FoodPacketChocolateTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketEnergyTrash",
+      "raw_en": "ent-FoodPacketEnergyTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketPistachioTrash",
+      "raw_en": "ent-FoodPacketPistachioTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketPopcornTrash",
+      "raw_en": "ent-FoodPacketPopcornTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketRaisinsTrash",
+      "raw_en": "ent-FoodPacketRaisinsTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketSemkiTrash",
+      "raw_en": "ent-FoodPacketSemkiTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketSusTrash",
+      "raw_en": "ent-FoodPacketSusTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketSyndiTrash",
+      "raw_en": "ent-FoodPacketSyndiTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketCupRamenTrash",
+      "raw_en": "ent-FoodPacketCupRamenTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketChowMeinTrash",
+      "raw_en": "ent-FoodPacketChowMeinTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "FoodPacketDanDanTrash",
+      "raw_en": "ent-FoodPacketDanDanTrash =\n    .desc = This is rubbish.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Food/snacks.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/food/snacks.ftl"
+    },
+    {
+      "id": "CigaretteSyndicate",
+      "raw_en": "ent-CigaretteSyndicate =\n    .desc = A roll of tobacco and nicotine.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteOmnizine",
+      "raw_en": "ent-CigaretteOmnizine =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteIron",
+      "raw_en": "ent-CigaretteIron =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteTricordrazine",
+      "raw_en": "ent-CigaretteTricordrazine =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteDylovene",
+      "raw_en": "ent-CigaretteDylovene =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteDermaline",
+      "raw_en": "ent-CigaretteDermaline =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteArithrazine",
+      "raw_en": "ent-CigaretteArithrazine =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteNutriment",
+      "raw_en": "ent-CigaretteNutriment =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteBicaridine",
+      "raw_en": "ent-CigaretteBicaridine =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteDexalin",
+      "raw_en": "ent-CigaretteDexalin =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteSaline",
+      "raw_en": "ent-CigaretteSaline =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteBbqSauce",
+      "raw_en": "ent-CigaretteBbqSauce =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteFrezon",
+      "raw_en": "ent-CigaretteFrezon =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteCapsaicinOil",
+      "raw_en": "ent-CigaretteCapsaicinOil =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteRadium",
+      "raw_en": "ent-CigaretteRadium =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteHaloperidol",
+      "raw_en": "ent-CigaretteHaloperidol =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteLaughter",
+      "raw_en": "ent-CigaretteLaughter =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteLipolicide",
+      "raw_en": "ent-CigaretteLipolicide =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteSodiumPolyacrylate",
+      "raw_en": "ent-CigaretteSodiumPolyacrylate =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteMold",
+      "raw_en": "ent-CigaretteMold =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteLicoxide",
+      "raw_en": "ent-CigaretteLicoxide =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteWeldingFuel",
+      "raw_en": "ent-CigaretteWeldingFuel =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    },
+    {
+      "id": "CigaretteRobustHarvest",
+      "raw_en": "ent-CigaretteRobustHarvest =\n    .desc = A roll of tobacco and nicotine soaked in some chemical.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Consumable/Smokeables/Cigarettes/cigarette.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/consumable/smokeables/cigarettes/cigarette.ftl"
+    }
+  ]
+}

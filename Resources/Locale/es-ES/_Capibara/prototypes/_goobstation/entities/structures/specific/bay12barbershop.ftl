@@ -1,4 +1,5 @@
 ent-ChairBarber = silla de barbero
+    .desc = Te sientas aquí. Ya sea por voluntad o por la fuerza.
 
 ent-BarberSignPole = poste de barbero
     .desc = Hipnótico.

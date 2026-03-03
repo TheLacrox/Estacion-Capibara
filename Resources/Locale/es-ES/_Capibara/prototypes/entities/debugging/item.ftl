@@ -11,3 +11,4 @@ ent-PonderingOrbRadioactiveS = pönderıng örb [7 rads]
     .desc = Artefacto local con emisión de radiación
 
 ent-GasMinerNitrogenSM = minero de gas N2
+    .desc = Los gases extraídos del gigante gaseoso de abajo (¿arriba?) salen a través de esta enorme ventilación.

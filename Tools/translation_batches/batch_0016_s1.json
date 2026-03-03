@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0016_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "DefaultStationBeaconRuinBeachBiodome",
+      "raw_en": "ent-DefaultStationBeaconRuinBeachBiodome = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRuinChemistryLab",
+      "raw_en": "ent-DefaultStationBeaconRuinChemistryLab = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRuinGolemShuttle",
+      "raw_en": "ent-DefaultStationBeaconRuinGolemShuttle = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRuinHierophantArena",
+      "raw_en": "ent-DefaultStationBeaconRuinHierophantArena = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRuinHunterShelter",
+      "raw_en": "ent-DefaultStationBeaconRuinHunterShelter = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRuinSmallOutpost",
+      "raw_en": "ent-DefaultStationBeaconRuinSmallOutpost = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRuinRougeAI",
+      "raw_en": "ent-DefaultStationBeaconRuinRougeAI = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DefaultStationBeaconRuinSnowBiodome",
+      "raw_en": "ent-DefaultStationBeaconRuinSnowBiodome = station beacon\n    .desc = A small device that transmits information to station maps. Can be configured.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Devices/station_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Devices/station_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ArtifactFragmentOre1",
+      "raw_en": "ent-ArtifactFragmentOre1 = artifact fragment ore\n    .desc = A piece of unrefined ore.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/ore.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Materials/ore.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialWatcherWing1",
+      "raw_en": "ent-MaterialWatcherWing1 = watcher's wing\n    .desc = They are tough and yet easily merge together, it should be a great material for new tools.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Materials/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialWatcherWing5",
+      "raw_en": "ent-MaterialWatcherWing5 = watcher's wing\n    .desc = They are tough and yet easily merge together, it should be a great material for new tools.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Materials/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialWatcherMagmaWing1",
+      "raw_en": "ent-MaterialWatcherMagmaWing1 = watcher's magma wing\n    .desc = A wing with magma flowing inside. They are tough and yet easily merge together, it should be a great material for new tools.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Materials/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialWatcherMagmaWing5",
+      "raw_en": "ent-MaterialWatcherMagmaWing5 = watcher's magma wing\n    .desc = A wing with magma flowing inside. They are tough and yet easily merge together, it should be a great material for new tools.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Materials/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialWatcherIceWing1",
+      "raw_en": "ent-MaterialWatcherIceWing1 = watcher's ice wing\n    .desc = A wing that is made out of ice, but it somehow refuses to melt. They are tough and yet easily merge together, it should be a great material for new tools.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Materials/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialWatcherIceWing5",
+      "raw_en": "ent-MaterialWatcherIceWing5 = watcher's ice wing\n    .desc = A wing that is made out of ice, but it somehow refuses to melt. They are tough and yet easily merge together, it should be a great material for new tools.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Materials/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialLegionSkull1",
+      "raw_en": "ent-MaterialLegionSkull1 = legion skull\n    .desc = A grey deformed skull of a long gone humanoid. Just for a brief moment, you felt like it is staring right at your soul.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Materials/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialLegionSkull5",
+      "raw_en": "ent-MaterialLegionSkull5 = legion skull\n    .desc = A grey deformed skull of a long gone humanoid. Just for a brief moment, you felt like it is staring right at your soul.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Materials/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Materials/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "DeathRattleLavalandImplanter",
+      "raw_en": "ent-DeathRattleLavalandImplanter = implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Misc/implants.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Misc/implants.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LavalandHierophantSquareSafe",
+      "raw_en": "ent-LavalandHierophantSquareSafe = hierophant square",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Projectiles/hierophant_tiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Projectiles/hierophant_tiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MarkerBeaconActive",
+      "raw_en": "ent-MarkerBeaconActive = marker beacon\n    .desc = Shines you the way through the darkness. Useful to not get lost on vast landscapes.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Specific/Salvage/marker_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Specific/Salvage/marker_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MarkerBeaconAnchored",
+      "raw_en": "ent-MarkerBeaconAnchored = marker beacon\n    .desc = Shines you the way through the darkness. Useful to not get lost on vast landscapes.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Specific/Salvage/marker_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Specific/Salvage/marker_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MarkerBeaconActiveAnchored",
+      "raw_en": "ent-MarkerBeaconActiveAnchored = marker beacon\n    .desc = Shines you the way through the darkness. Useful to not get lost on vast landscapes.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Specific/Salvage/marker_beacon.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Specific/Salvage/marker_beacon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseShelterCapsule",
+      "raw_en": "ent-BaseShelterCapsule = item",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Specific/Salvage/shelter.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Specific/Salvage/shelter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponCrusherFilledRandom",
+      "raw_en": "ent-WeaponCrusherFilledRandom = crusher axe\n    .desc = An early design of the proto-kinetic accelerator.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/crushers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/crushers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponCrusherGlaiveFilledRandom",
+      "raw_en": "ent-WeaponCrusherGlaiveFilledRandom = crusher glaive\n    .desc = An early design of the proto-kinetic accelerator, in glaive form. Provides better healing in exchange for less charged damage.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/crushers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/crushers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponCrusherHammerFilledRandom",
+      "raw_en": "ent-WeaponCrusherHammerFilledRandom = crusher hammer\n    .desc = A beefy, two-handed weapon that inflicts knockback and heavier damage than a crusher.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/crushers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/crushers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponCrusherHalberdFilledRandom",
+      "raw_en": "ent-WeaponCrusherHalberdFilledRandom = crusher halberd\n    .desc = A universal weapon that combines the power of a crusher and the range of a spear.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/crushers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/crushers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponProtoKineticAcceleratorBase",
+      "raw_en": "ent-WeaponProtoKineticAcceleratorBase = item",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Guns/Basic/base_pka.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/Guns/Basic/base_pka.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponProtoKineticAcceleratorSpace",
+      "raw_en": "ent-WeaponProtoKineticAcceleratorSpace = proto-kinetic accelerator\n    .desc = Fires high-damage kinetic bolts at a short range.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Guns/Basic/pka.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/Guns/Basic/pka.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponProtoKineticShotgunSpace",
+      "raw_en": "ent-WeaponProtoKineticShotgunSpace = proto-kinetic shotgun\n    .desc = Fires a spread of low-damage kinetic bolts that are half as effective for mining.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Guns/Basic/pka.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/Guns/Basic/pka.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponProtoKineticRepeaterSpace",
+      "raw_en": "ent-WeaponProtoKineticRepeaterSpace = proto-kinetic repeater\n    .desc = Fires a barrage of medium-damage kinetic bolts at a short range.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Guns/Basic/pka.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/Guns/Basic/pka.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeaponProtoKineticPistolSpace",
+      "raw_en": "ent-WeaponProtoKineticPistolSpace = proto-kinetic pistol\n    .desc = Fires low-damage kinetic bolts, has a higher mod capacity.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Guns/Basic/pka.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/Guns/Basic/pka.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BulletKineticShuttle",
+      "raw_en": "ent-BulletKineticShuttle = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WeakBulletKinetic",
+      "raw_en": "ent-WeakBulletKinetic = rapid kinetic bolt\n    .desc = Not too bad, but you still don't want to get hit by it.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletKinetic",
+      "raw_en": "ent-PelletKinetic = rapid kinetic bolt\n    .desc = Not too bad, but you still don't want to get hit by it.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PelletKineticSpread",
+      "raw_en": "ent-PelletKineticSpread = rapid kinetic bolt\n    .desc = Not too bad, but you still don't want to get hit by it.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Objects/Weapons/Guns/Projectiles/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockExternalGlassShuttleMining",
+      "raw_en": "ent-AirlockExternalGlassShuttleMining = external airlock\n    .desc = Necessary for connecting two space craft together.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/airlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Structures/airlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockExternalGlassShuttleMiningFilled",
+      "raw_en": "ent-AirlockExternalGlassShuttleMiningFilled = external airlock\n    .desc = Necessary for connecting two space craft together.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/airlocks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Structures/airlocks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseComputerDocking",
+      "raw_en": "ent-BaseComputerDocking = computer",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/computers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Structures/computers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockGibtonite",
+      "raw_en": "ent-WallRockGibtonite = rock\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockBasaltGibtonite",
+      "raw_en": "ent-WallRockBasaltGibtonite = basalt\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSnowGibtonite",
+      "raw_en": "ent-WallRockSnowGibtonite = snowdrift\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockSandGibtonite",
+      "raw_en": "ent-WallRockSandGibtonite = sandstone\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockChromiteGibtonite",
+      "raw_en": "ent-WallRockChromiteGibtonite = chromite\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WallRockAndesiteGibtonite",
+      "raw_en": "ent-WallRockAndesiteGibtonite = andesite\n    .desc = Keeps the air in and the greytide out.",
+      "source_yaml": "Resources/Prototypes/_Lavaland/Entities/Structures/Walls/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Lavaland/Entities/Structures/Walls/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "20mmBulletBase",
+      "raw_en": "ent-20mmBulletBase = BaseBullet\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "90mmBulletArmorPiercing",
+      "raw_en": "ent-90mmBulletArmorPiercing = shell\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "90mmBulletExplosiveBase",
+      "raw_en": "ent-90mmBulletExplosiveBase = shell\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackMessengerBase",
+      "raw_en": "ent-ClothingBackpackMessengerBase = backpack\n    .desc = You wear this on your back and put items into it.",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Back/messenger.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Back/messenger.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitMilitaryCaptain",
+      "raw_en": "ent-ClothingUniformJumpsuitMilitaryCaptain = captain's jumpsuit\n    .desc = It's a blue jumpsuit with some gold markings denoting the rank of \"Captain\".",
+      "source_yaml": "Resources/Prototypes/_NF/Entities/Clothing/Uniforms/military_jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_NF/Entities/Clothing/Uniforms/military_jumpsuits.ftl",
+      "file_exists": false
+    }
+  ]
+}

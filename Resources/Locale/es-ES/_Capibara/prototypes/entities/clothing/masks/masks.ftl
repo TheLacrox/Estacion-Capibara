@@ -32,6 +32,7 @@ ent-ClothingMaskClownBase = peluca y máscara de payaso
     .desc = El atuendo facial de un verdadero bromista. Un payaso está incompleto sin su peluca y máscara.
 
 ent-ClothingMaskClownBanana = peluca y máscara de payaso plátano
+    .desc = El atuendo facial de un verdadero bromista. Un payaso está incompleto sin su peluca y máscara.
 
 ent-ClothingMaskClownSecurity = peluca y máscara de payaso de seguridad
     .desc = Una máscara y peluca discutiblemente contradictoria pero protectora.
@@ -91,6 +92,7 @@ ent-ClothingMaskNeckGaiter = polaina de cuello
     .desc = Elegante polaina de cuello, ¿puede proteger del viento cósmico?...
 
 ent-ClothingMaskNeckGaiterRed = polaina de cuello roja
+    .desc = Elegante polaina de cuello roja, ¿puede proteger del viento cósmico?...
 
 ent-ClothingMaskSexyClown = máscara de payaso sexy
     .desc = Algunos payasos traviesos creen que así es como luce la Madre del Honk.

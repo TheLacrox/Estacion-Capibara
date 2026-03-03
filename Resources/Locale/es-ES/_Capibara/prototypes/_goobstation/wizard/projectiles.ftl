@@ -1,17 +1,23 @@
 ent-ProjectileMagicMissile = proyectil mágico
+    .desc = Si puedes ver esto, probablemente estés muerto.
 
 ent-ProjectileToolboxHoming = caja de herramientas teledirigida
+    .desc = Si puedes ver esto, probablemente estés muerto.
 
 ent-ProjectileSpellCardRedNoHoming = carta encantada
     .desc = Un trozo de papel encantado para darle una durabilidad y rigidez extremas, junto con una quemadura muy intensa para cualquiera que tenga la desgracia de recibir una cargada.
 
 ent-ProjectileSpellCardRedSpread = dispersión de cartas rojas
+    .desc = Un trozo de papel encantado para darle una durabilidad y rigidez extremas, junto con una quemadura muy intensa para cualquiera que tenga la desgracia de recibir una cargada.
 
 ent-ProjectileSpellCardPurpleSpread = dispersión de cartas moradas
+    .desc = Un trozo de papel encantado para darle una durabilidad y rigidez extremas, junto con una quemadura muy intensa para cualquiera que tenga la desgracia de recibir una cargada.
 
 ent-ProjectileArcaneBarrage = rayo arcano
+    .desc = Si puedes ver esto, probablemente estés muerto.
 
 ent-BulletMagic = bala mágica
+    .desc = Si puedes ver esto, probablemente estés muerto.
 
 ent-ProjectileWabbajack = rayo del cambio
     .desc = ¡Wabbajack, Wabbajack!
@@ -50,6 +56,7 @@ ent-ProjectileVampiricBolt = rayo del vampirismo
     .desc = Parece que va a ser una larga noche.
 
 ent-ProjectileMagicMissileLesser = proyectil mágico menor
+    .desc = Si puedes ver esto, probablemente estés muerto.
 
 ent-ProjectileBananaPeel = cáscara de banana mágica
     .desc = Pisa encima de mí.

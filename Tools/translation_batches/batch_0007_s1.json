@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0007_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "BaseBinglePlushie",
+      "raw_en": "ent-BaseBinglePlushie = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Fun/toys.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Fun/toys.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialHexNutSingle",
+      "raw_en": "ent-MaterialHexNutSingle = steel hex nut\n    .desc = A roughly bent nut made of steel.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Materials/crafting.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Materials/crafting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialScrewSingle",
+      "raw_en": "ent-MaterialScrewSingle = steel screw\n    .desc = This screw is really rusty, you wouldn't want to get cut by it...",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Materials/crafting.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Materials/crafting.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MaterialBSCrystal1",
+      "raw_en": "ent-MaterialBSCrystal1 = bluespace crystal\n    .desc = A raw material.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Materials/materials.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Materials/materials.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsNitrogen",
+      "raw_en": "ent-BoxSurvivalSlotsNitrogen = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsEngineeringNitrogen",
+      "raw_en": "ent-BoxSurvivalSlotsEngineeringNitrogen = extended-capacity survival box\n    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsSecurityNitrogen",
+      "raw_en": "ent-BoxSurvivalSlotsSecurityNitrogen = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsMedicalNitrogen",
+      "raw_en": "ent-BoxSurvivalSlotsMedicalNitrogen = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxHugSlotsNitrogen",
+      "raw_en": "ent-BoxHugSlotsNitrogen = box of hugs\n    .desc = A special box for sensitive people.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsSyndicateNitrogen",
+      "raw_en": "ent-BoxSurvivalSlotsSyndicateNitrogen = extended-capacity survival box\n    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxMimeSlots",
+      "raw_en": "ent-BoxMimeSlots = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxMimeMothSlots",
+      "raw_en": "ent-BoxMimeMothSlots = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxMimeSlotsNitrogen",
+      "raw_en": "ent-BoxMimeSlotsNitrogen = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsPlasma",
+      "raw_en": "ent-BoxSurvivalSlotsPlasma = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsEngineeringPlasma",
+      "raw_en": "ent-BoxSurvivalSlotsEngineeringPlasma = extended-capacity survival box\n    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsSecurityPlasma",
+      "raw_en": "ent-BoxSurvivalSlotsSecurityPlasma = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsMedicalPlasma",
+      "raw_en": "ent-BoxSurvivalSlotsMedicalPlasma = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxHugSlotsPlasma",
+      "raw_en": "ent-BoxHugSlotsPlasma = box of hugs\n    .desc = A special box for sensitive people.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSlotsSyndicatePlasma",
+      "raw_en": "ent-BoxSurvivalSlotsSyndicatePlasma = extended-capacity survival box\n    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxMimeSlotsPlasma",
+      "raw_en": "ent-BoxMimeSlotsPlasma = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/emergencybox.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/emergencybox.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseAutomationFilterToggled",
+      "raw_en": "ent-BaseAutomationFilterToggled = filter\n    .desc = A filter that can be installed in factory machines.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/filters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/filters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RevsFastDrawImplanter",
+      "raw_en": "ent-RevsFastDrawImplanter = fast draw implanter\n    .desc = A syringe with tools for quick implant removal. It has small gold stars on its body.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BluespaceLifelineImplanter",
+      "raw_en": "ent-BluespaceLifelineImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CommandTrackingImplanter",
+      "raw_en": "ent-CommandTrackingImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CentcommFreedomImplanter",
+      "raw_en": "ent-CentcommFreedomImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CentcommStorageImplanter",
+      "raw_en": "ent-CentcommStorageImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CentcommMindShieldImplanter",
+      "raw_en": "ent-CentcommMindShieldImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CentcommNutrimentImplanter",
+      "raw_en": "ent-CentcommNutrimentImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CentcommSpaceproofImplanter",
+      "raw_en": "ent-CentcommSpaceproofImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CentcommStypticStimulatorImplanter",
+      "raw_en": "ent-CentcommStypticStimulatorImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PacifismImplanter",
+      "raw_en": "ent-PacifismImplanter = implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SmokeImplanter",
+      "raw_en": "ent-SmokeImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NutrimentImplanter",
+      "raw_en": "ent-NutrimentImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StypticStimulatorImplanter",
+      "raw_en": "ent-StypticStimulatorImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "KravMagaImplanter",
+      "raw_en": "ent-KravMagaImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClumsyImplanter",
+      "raw_en": "ent-ClumsyImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BinaryImplanter",
+      "raw_en": "ent-BinaryImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "VaporizeImplanter",
+      "raw_en": "ent-VaporizeImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ShiftImplanter",
+      "raw_en": "ent-ShiftImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlinkImplanter",
+      "raw_en": "ent-BlinkImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StopTimeImplanter",
+      "raw_en": "ent-StopTimeImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NaniteMenderImplanter",
+      "raw_en": "ent-NaniteMenderImplanter = centcomm implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AntagImplanterChangeling",
+      "raw_en": "ent-AntagImplanterChangeling = antag implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AntagImplanterHeretic",
+      "raw_en": "ent-AntagImplanterHeretic = antag implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AntagImplanterSpaceNinja",
+      "raw_en": "ent-AntagImplanterSpaceNinja = antag implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. The insertion needle is coated with an analgesic.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenoCompatibilityImplanter",
+      "raw_en": "ent-XenoCompatibilityImplanter = implanter\n    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RedspaceLifelineImplanter",
+      "raw_en": "ent-RedspaceLifelineImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/implanters.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/implanters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MindcontrolImplanter",
+      "raw_en": "ent-MindcontrolImplanter = syndicate implanter\n    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/mindcontrol_implant.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/mindcontrol_implant.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCashCounterfeit10",
+      "raw_en": "ent-SpaceCashCounterfeit10 = suspicious spesos\n    .desc = This looks like painted-on paper.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCashCounterfeit50",
+      "raw_en": "ent-SpaceCashCounterfeit50 = suspicious spesos\n    .desc = This looks like painted-on paper.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    }
+  ]
+}

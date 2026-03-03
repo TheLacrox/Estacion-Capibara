@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0030_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "WardrobeEngineeringFilled",
+      "raw_en": "ent-WardrobeEngineeringFilled = engineering wardrobe\n    .desc = This locker contains a uniform for engineering or social engineering.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Lockers/wardrobe_job.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Lockers/wardrobe_job.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperWrittenAMEScribbles",
+      "raw_en": "ent-PaperWrittenAMEScribbles = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Paper/manuals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Paper/manuals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackDuffelSyndicateBundle",
+      "raw_en": "ent-ClothingBackpackDuffelSyndicateBundle = syndicate duffel bag\n    .desc = A large duffel bag for holding various traitor goods.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Back/duffel.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Back/duffel.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackDuffelBundle",
+      "raw_en": "ent-ClothingBackpackDuffelBundle = duffel bag\n    .desc = A large duffel bag for holding extra things.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Back/duffel.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Back/duffel.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackDuffelSyndicateAmmo",
+      "raw_en": "ent-ClothingBackpackDuffelSyndicateAmmo = syndicate duffel bag\n    .desc = A large duffel bag for holding various traitor goods.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Back/duffel.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Back/duffel.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackDuffelSyndicateAmmoBundle",
+      "raw_en": "ent-ClothingBackpackDuffelSyndicateAmmoBundle = syndicate duffel bag\n    .desc = A large duffel bag for holding various traitor goods.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Back/duffel.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Back/duffel.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackDuffelSyndicateMedical",
+      "raw_en": "ent-ClothingBackpackDuffelSyndicateMedical = syndicate duffel bag\n    .desc = A large duffel bag for holding various traitor goods.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Back/duffel.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Back/duffel.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackDuffelSyndicateMedicalBundle",
+      "raw_en": "ent-ClothingBackpackDuffelSyndicateMedicalBundle = syndicate duffel bag\n    .desc = A large duffel bag for holding various traitor goods.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Back/duffel.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Back/duffel.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackSatchelSmugglerFilled",
+      "raw_en": "ent-ClothingBackpackSatchelSmugglerFilled = smuggler's satchel\n    .desc = A handy, suspicious looking satchel. Just flat enough to fit underneath floor tiles.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Back/smuggler.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Back/smuggler.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Clothing",
+      "raw_en": "ent-Clothing = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/base_clothing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/base_clothing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltBase",
+      "raw_en": "ent-ClothingBeltBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Belt/base_clothingbelt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Belt/base_clothingbelt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltStorageBase",
+      "raw_en": "ent-ClothingBeltStorageBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Belt/base_clothingbelt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Belt/base_clothingbelt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltAmmoProviderBase",
+      "raw_en": "ent-ClothingBeltAmmoProviderBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Belt/base_clothingbelt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Belt/base_clothingbelt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingEyesBase",
+      "raw_en": "ent-ClothingEyesBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Eyes/base_clothingeyes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Eyes/base_clothingeyes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadEyeBaseFlippable",
+      "raw_en": "ent-ClothingHeadEyeBaseFlippable = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Eyes/base_clothingeyes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Eyes/base_clothingeyes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadEyeBaseFlipped",
+      "raw_en": "ent-ClothingHeadEyeBaseFlipped = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Eyes/base_clothingeyes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Eyes/base_clothingeyes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingEyesGlassesHiddenSecurity",
+      "raw_en": "ent-ClothingEyesGlassesHiddenSecurity = sun glasses\n    .desc = A pair of black sunglasses.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Eyes/hud.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Eyes/hud.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingEyesEyepatchFlipped",
+      "raw_en": "ent-ClothingEyesEyepatchFlipped = eyepatch\n    .desc = Yarr.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Eyes/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Eyes/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsBase",
+      "raw_en": "ent-ClothingHandsBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Hands/base_clothinghands.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Hands/base_clothinghands.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsButcherable",
+      "raw_en": "ent-ClothingHandsButcherable = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Hands/base_clothinghands.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Hands/base_clothinghands.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsGlovesSyntheticBase",
+      "raw_en": "ent-ClothingHandsGlovesSyntheticBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Hands/base_clothinghands.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Hands/base_clothinghands.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RingBase",
+      "raw_en": "ent-RingBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Hands/base_clothinghands.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Hands/base_clothinghands.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsGlovesConducting",
+      "raw_en": "ent-ClothingHandsGlovesConducting = insulated gloves\n    .desc = These gloves will protect the wearer from electric shocks.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Hands/colored.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Hands/colored.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsGlovesBoxingRigged",
+      "raw_en": "ent-ClothingHandsGlovesBoxingRigged = blue boxing gloves\n    .desc = Blue gloves for competitive boxing.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Hands/gloves.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Hands/gloves.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ThievingGloves",
+      "raw_en": "ent-ThievingGloves = black gloves\n    .desc = Regular black gloves that do not keep you from frying.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Hands/gloves.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Hands/gloves.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsChameleonThief",
+      "raw_en": "ent-ClothingHandsChameleonThief = black gloves\n    .desc = Regular black gloves that do not keep you from frying.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Hands/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Hands/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadBandBase",
+      "raw_en": "ent-ClothingHeadBandBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/bandanas.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/bandanas.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadBase",
+      "raw_en": "ent-ClothingHeadBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/base_clothinghead.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/base_clothinghead.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadBaseButcherable",
+      "raw_en": "ent-ClothingHeadBaseButcherable = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/base_clothinghead.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/base_clothinghead.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHatHardhatBase",
+      "raw_en": "ent-ClothingHeadHatHardhatBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hardhats.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/hardhats.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHatWizardBase",
+      "raw_en": "ent-ClothingHeadHatWizardBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/hats.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHatJesterAlt",
+      "raw_en": "ent-ClothingHeadHatJesterAlt = jester hat\n    .desc = A hat with bells, to add some merriness to your head.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hats.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/hats.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHelmetBase",
+      "raw_en": "ent-ClothingHeadHelmetBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/helmets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/helmets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHelmetArmoredBase",
+      "raw_en": "ent-ClothingHeadHelmetArmoredBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/helmets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/helmets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHelmetJusticeEmpty",
+      "raw_en": "ent-ClothingHeadHelmetJusticeEmpty = justice helm\n    .desc = Advanced security gear. Protects the station from ne'er-do-wells.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/helmets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/helmets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHelmetHardsuitCarp",
+      "raw_en": "ent-ClothingHeadHelmetHardsuitCarp = carp hood\n    .desc = A gnarly hood adorned with plastic space carp teeth.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/hoods.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/hoods.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHatCatEarsValid",
+      "raw_en": "ent-ClothingHeadHatCatEarsValid = cat ears\n    .desc = NYAH!",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/misc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/misc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHeadHatBaseFlippable",
+      "raw_en": "ent-ClothingHeadHeadHatBaseFlippable = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/soft.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHeadHatBaseFlipped",
+      "raw_en": "ent-ClothingHeadHeadHatBaseFlipped = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Head/soft.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Head/soft.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingMaskBandanaBase",
+      "raw_en": "ent-ClothingMaskBandanaBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Masks/bandanas.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Masks/bandanas.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingMaskBase",
+      "raw_en": "ent-ClothingMaskBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Masks/base_clothingmask.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Masks/base_clothingmask.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingMaskPullableBase",
+      "raw_en": "ent-ClothingMaskPullableBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Masks/base_clothingmask.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Masks/base_clothingmask.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingMaskBaseButcherable",
+      "raw_en": "ent-ClothingMaskBaseButcherable = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Masks/base_clothingmask.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Masks/base_clothingmask.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingMaskClown",
+      "raw_en": "ent-ClothingMaskClown = clown wig and mask\n    .desc = A true prankster's facial attire. A clown is incomplete without his wig and mask.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Masks/masks.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Masks/masks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingMaskGasVoiceChameleon",
+      "raw_en": "ent-ClothingMaskGasVoiceChameleon = gas mask\n    .desc = A face-covering mask that can be connected to an air supply.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Masks/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Masks/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingNeckBase",
+      "raw_en": "ent-ClothingNeckBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Neck/base_clothingneck.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Neck/base_clothingneck.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingScarfBase",
+      "raw_en": "ent-ClothingScarfBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/Neck/base_clothingneck.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/Neck/base_clothingneck.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterArmorBasic",
+      "raw_en": "ent-ClothingOuterArmorBasic = armor vest\n    .desc = A standard Type I armored vest that provides decent protection against most types of damage.",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/armor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/armor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterBase",
+      "raw_en": "ent-ClothingOuterBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/base_clothingouter.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/base_clothingouter.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterBaseLarge",
+      "raw_en": "ent-ClothingOuterBaseLarge = item",
+      "source_yaml": "Resources/Prototypes/Entities/Clothing/OuterClothing/base_clothingouter.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Clothing/OuterClothing/base_clothingouter.ftl",
+      "file_exists": false
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0101_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "RubberStampBaseAlt",
+      "raw_en": "ent-RubberStampBaseAlt =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampCaptain",
+      "raw_en": "ent-RubberStampCaptain =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampCentcom",
+      "raw_en": "ent-RubberStampCentcom =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampChaplain",
+      "raw_en": "ent-RubberStampChaplain =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampLawyer",
+      "raw_en": "ent-RubberStampLawyer =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampClown",
+      "raw_en": "ent-RubberStampClown =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampCE",
+      "raw_en": "ent-RubberStampCE =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampCMO",
+      "raw_en": "ent-RubberStampCMO =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampHop",
+      "raw_en": "ent-RubberStampHop =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampHos",
+      "raw_en": "ent-RubberStampHos =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampMime",
+      "raw_en": "ent-RubberStampMime =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampQm",
+      "raw_en": "ent-RubberStampQm =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampRd",
+      "raw_en": "ent-RubberStampRd =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampTrader",
+      "raw_en": "ent-RubberStampTrader =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampSyndicate",
+      "raw_en": "ent-RubberStampSyndicate =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampWarden",
+      "raw_en": "ent-RubberStampWarden =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampApproved",
+      "raw_en": "ent-RubberStampApproved =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampDenied",
+      "raw_en": "ent-RubberStampDenied =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "RubberStampDetective",
+      "raw_en": "ent-RubberStampDetective =\n    .desc = A rubber stamp for stamping important documents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/rubber_stamp.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/rubber_stamp.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelCheckerDark",
+      "raw_en": "ent-FloorTileItemSteelCheckerDark =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelCheckerLight",
+      "raw_en": "ent-FloorTileItemSteelCheckerLight =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemDark",
+      "raw_en": "ent-FloorTileItemDark =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemDarkDiagonalMini",
+      "raw_en": "ent-FloorTileItemDarkDiagonalMini =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemDarkDiagonal",
+      "raw_en": "ent-FloorTileItemDarkDiagonal =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemDarkHerringbone",
+      "raw_en": "ent-FloorTileItemDarkHerringbone =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemDarkMini",
+      "raw_en": "ent-FloorTileItemDarkMini =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemDarkMono",
+      "raw_en": "ent-FloorTileItemDarkMono =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemDarkPavement",
+      "raw_en": "ent-FloorTileItemDarkPavement =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemDarkPavementVertical",
+      "raw_en": "ent-FloorTileItemDarkPavementVertical =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemDarkOffset",
+      "raw_en": "ent-FloorTileItemDarkOffset =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteel",
+      "raw_en": "ent-FloorTileItemSteel =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelOffset",
+      "raw_en": "ent-FloorTileItemSteelOffset =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelDiagonalMini",
+      "raw_en": "ent-FloorTileItemSteelDiagonalMini =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelDiagonal",
+      "raw_en": "ent-FloorTileItemSteelDiagonal =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelHerringbone",
+      "raw_en": "ent-FloorTileItemSteelHerringbone =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelMini",
+      "raw_en": "ent-FloorTileItemSteelMini =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelMono",
+      "raw_en": "ent-FloorTileItemSteelMono =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelPavement",
+      "raw_en": "ent-FloorTileItemSteelPavement =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSteelPavementVertical",
+      "raw_en": "ent-FloorTileItemSteelPavementVertical =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWhite",
+      "raw_en": "ent-FloorTileItemWhite =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWhiteOffset",
+      "raw_en": "ent-FloorTileItemWhiteOffset =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWhiteDiagonalMini",
+      "raw_en": "ent-FloorTileItemWhiteDiagonalMini =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWhiteDiagonal",
+      "raw_en": "ent-FloorTileItemWhiteDiagonal =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWhiteHerringbone",
+      "raw_en": "ent-FloorTileItemWhiteHerringbone =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWhiteMini",
+      "raw_en": "ent-FloorTileItemWhiteMini =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWhiteMono",
+      "raw_en": "ent-FloorTileItemWhiteMono =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWhitePavement",
+      "raw_en": "ent-FloorTileItemWhitePavement =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWhitePavementVertical",
+      "raw_en": "ent-FloorTileItemWhitePavementVertical =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemMetalDiamond",
+      "raw_en": "ent-FloorTileItemMetalDiamond =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemWood",
+      "raw_en": "ent-FloorTileItemWood =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    }
+  ]
+}

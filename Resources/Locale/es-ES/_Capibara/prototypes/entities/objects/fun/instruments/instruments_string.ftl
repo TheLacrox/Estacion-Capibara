@@ -14,6 +14,7 @@ ent-GuitarlessFretsInstrument = trastes sin guitarra
     .desc = ¿Para qué necesitas el cuerpo?
 
 ent-BanjoInstrument = banjo
+    .desc = Eso es un instrumento.
 
 ent-ViolinInstrument = violín
     .desc = El favorito de los virtuosos musicales y las bandas de bluegrass.

@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0053_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "AirlockAtmosphericsGlassLocked",
+      "raw_en": "ent-AirlockAtmosphericsGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockCargoGlassLocked",
+      "raw_en": "ent-AirlockCargoGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockSalvageGlassLocked",
+      "raw_en": "ent-AirlockSalvageGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMiningGlassLocked",
+      "raw_en": "ent-AirlockMiningGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockChemistryGlassLocked",
+      "raw_en": "ent-AirlockChemistryGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMedicalMorgueGlassLocked",
+      "raw_en": "ent-AirlockMedicalMorgueGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMedicalGlassLocked",
+      "raw_en": "ent-AirlockMedicalGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockVirologyGlassLocked",
+      "raw_en": "ent-AirlockVirologyGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockScienceGlassLocked",
+      "raw_en": "ent-AirlockScienceGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMedicalScienceGlassLocked",
+      "raw_en": "ent-AirlockMedicalScienceGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockCentralCommandGlassLocked",
+      "raw_en": "ent-AirlockCentralCommandGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockCommandGlassLocked",
+      "raw_en": "ent-AirlockCommandGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockCaptainGlassLocked",
+      "raw_en": "ent-AirlockCaptainGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockChiefMedicalOfficerGlassLocked",
+      "raw_en": "ent-AirlockChiefMedicalOfficerGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockChiefEngineerGlassLocked",
+      "raw_en": "ent-AirlockChiefEngineerGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockHeadOfSecurityGlassLocked",
+      "raw_en": "ent-AirlockHeadOfSecurityGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockResearchDirectorGlassLocked",
+      "raw_en": "ent-AirlockResearchDirectorGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockHeadOfPersonnelGlassLocked",
+      "raw_en": "ent-AirlockHeadOfPersonnelGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockQuartermasterGlassLocked",
+      "raw_en": "ent-AirlockQuartermasterGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockSecurityGlassLocked",
+      "raw_en": "ent-AirlockSecurityGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockDetectiveGlassLocked",
+      "raw_en": "ent-AirlockDetectiveGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockBrigGlassLocked",
+      "raw_en": "ent-AirlockBrigGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockSecurityLawyerGlassLocked",
+      "raw_en": "ent-AirlockSecurityLawyerGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockArmoryGlassLocked",
+      "raw_en": "ent-AirlockArmoryGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockEVAGlassLocked",
+      "raw_en": "ent-AirlockEVAGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockSyndicateGlassLocked",
+      "raw_en": "ent-AirlockSyndicateGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockSyndicateNukeopGlassLocked",
+      "raw_en": "ent-AirlockSyndicateNukeopGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintLocked",
+      "raw_en": "ent-AirlockMaintLocked = maintenance access\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintGlassLocked",
+      "raw_en": "ent-AirlockMaintGlassLocked = glass airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintSalvageLocked",
+      "raw_en": "ent-AirlockMaintSalvageLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintCargoLocked",
+      "raw_en": "ent-AirlockMaintCargoLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintCommandLocked",
+      "raw_en": "ent-AirlockMaintCommandLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintEngiLocked",
+      "raw_en": "ent-AirlockMaintEngiLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintAtmoLocked",
+      "raw_en": "ent-AirlockMaintAtmoLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintBarLocked",
+      "raw_en": "ent-AirlockMaintBarLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintBarKitchenLocked",
+      "raw_en": "ent-AirlockMaintBarKitchenLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintChapelLocked",
+      "raw_en": "ent-AirlockMaintChapelLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintHydroLocked",
+      "raw_en": "ent-AirlockMaintHydroLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintLawyerLocked",
+      "raw_en": "ent-AirlockMaintLawyerLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintServiceLocked",
+      "raw_en": "ent-AirlockMaintServiceLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintTheatreLocked",
+      "raw_en": "ent-AirlockMaintTheatreLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintServiceTheatreLocked",
+      "raw_en": "ent-AirlockMaintServiceTheatreLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintKitchenLocked",
+      "raw_en": "ent-AirlockMaintKitchenLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintKitchenHydroLocked",
+      "raw_en": "ent-AirlockMaintKitchenHydroLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintMedLocked",
+      "raw_en": "ent-AirlockMaintMedLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMedicalMorgueMaintLocked",
+      "raw_en": "ent-AirlockMedicalMorgueMaintLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintChemLocked",
+      "raw_en": "ent-AirlockMaintChemLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintRnDLocked",
+      "raw_en": "ent-AirlockMaintRnDLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintRnDMedLocked",
+      "raw_en": "ent-AirlockMaintRnDMedLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirlockMaintSecLocked",
+      "raw_en": "ent-AirlockMaintSecLocked = airlock\n    .desc = It opens, it closes, and maybe crushes you.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Doors/Airlocks/access.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Doors/Airlocks/access.ftl",
+      "file_exists": false
+    }
+  ]
+}

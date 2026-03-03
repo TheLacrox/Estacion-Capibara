@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0065_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "BarrelChemFilledLube",
+      "raw_en": "ent-BarrelChemFilledLube = chemical barrel\n    .desc = Slippery...",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBarrelChemRadioactiveEmpty",
+      "raw_en": "ent-BaseBarrelChemRadioactiveEmpty = radioactive barrel\n    .desc = It seems to be leaking a bit. I don't think you'd want to be around this for long.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBarrelChemRadioactiveFilledRadium",
+      "raw_en": "ent-BaseBarrelChemRadioactiveFilledRadium = radioactive barrel\n    .desc = It seems to be leaking a bit. I don't think you'd want to be around this for long.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBarrelChemRadioactiveFilledUranium",
+      "raw_en": "ent-BaseBarrelChemRadioactiveFilledUranium = radioactive barrel\n    .desc = It seems to be leaking a bit. I don't think you'd want to be around this for long.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/barrels.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/barrels.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StorageCanisterBroken",
+      "raw_en": "ent-StorageCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AirCanisterBroken",
+      "raw_en": "ent-AirCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OxygenCanisterBroken",
+      "raw_en": "ent-OxygenCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NitrogenCanisterBroken",
+      "raw_en": "ent-NitrogenCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CarbonDioxideCanisterBroken",
+      "raw_en": "ent-CarbonDioxideCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PlasmaCanisterBroken",
+      "raw_en": "ent-PlasmaCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TritiumCanisterBroken",
+      "raw_en": "ent-TritiumCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AmmoniaCanisterBroken",
+      "raw_en": "ent-AmmoniaCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NitrousOxideCanisterBroken",
+      "raw_en": "ent-NitrousOxideCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FrezonCanisterBroken",
+      "raw_en": "ent-FrezonCanisterBroken = broken gas canister\n    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Canisters/gas_canisters.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetSteelBase",
+      "raw_en": "ent-ClosetSteelBase = closet\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/base_structureclosets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/base_structureclosets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseWallLocker",
+      "raw_en": "ent-BaseWallLocker = wall closet\n    .desc = A standard-issue Nanotrasen storage unit, now on walls.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/base_structureclosets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/base_structureclosets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "StealthBox",
+      "raw_en": "ent-StealthBox = cardboard box\n    .desc = Kept ya waiting, huh?",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/big_boxes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/big_boxes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BigBox",
+      "raw_en": "ent-BigBox = cardboard box\n    .desc = Huh? Just a box...",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/big_boxes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/big_boxes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetL3Science",
+      "raw_en": "ent-ClosetL3Science = level 3 biohazard gear closet\n    .desc = It's a storage unit for level 3 biohazard gear.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/closets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/closets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetL3Virology",
+      "raw_en": "ent-ClosetL3Virology = level 3 biohazard gear closet\n    .desc = It's a storage unit for level 3 biohazard gear.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/closets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/closets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetL3Security",
+      "raw_en": "ent-ClosetL3Security = level 3 biohazard gear closet\n    .desc = It's a storage unit for level 3 biohazard gear.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/closets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/closets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClosetL3Janitor",
+      "raw_en": "ent-ClosetL3Janitor = level 3 biohazard gear closet\n    .desc = It's a storage unit for level 3 biohazard gear.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/closets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/closets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerBase",
+      "raw_en": "ent-LockerBase = closet\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/base_structurelockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/Lockers/base_structurelockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerBaseSecure",
+      "raw_en": "ent-LockerBaseSecure = closet\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/base_structurelockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/Lockers/base_structurelockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GunSafeBaseSecure",
+      "raw_en": "ent-GunSafeBaseSecure = gun safe\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/Lockers/lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerPrisoner2",
+      "raw_en": "ent-LockerPrisoner2 = prisoner closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/Lockers/lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerPrisoner3",
+      "raw_en": "ent-LockerPrisoner3 = prisoner closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/Lockers/lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerPrisoner4",
+      "raw_en": "ent-LockerPrisoner4 = prisoner closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/Lockers/lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerPrisoner5",
+      "raw_en": "ent-LockerPrisoner5 = prisoner closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/Lockers/lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerPrisoner6",
+      "raw_en": "ent-LockerPrisoner6 = prisoner closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/Lockers/lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerPrisoner7",
+      "raw_en": "ent-LockerPrisoner7 = prisoner closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/Lockers/lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerPrisoner8",
+      "raw_en": "ent-LockerPrisoner8 = prisoner closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/Lockers/lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWallPrisoner2",
+      "raw_en": "ent-LockerWallPrisoner2 = prisoner wall closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wall_lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/wall_lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWallPrisoner3",
+      "raw_en": "ent-LockerWallPrisoner3 = prisoner wall closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wall_lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/wall_lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWallPrisoner4",
+      "raw_en": "ent-LockerWallPrisoner4 = prisoner wall closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wall_lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/wall_lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWallPrisoner5",
+      "raw_en": "ent-LockerWallPrisoner5 = prisoner wall closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wall_lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/wall_lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWallPrisoner6",
+      "raw_en": "ent-LockerWallPrisoner6 = prisoner wall closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wall_lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/wall_lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWallPrisoner7",
+      "raw_en": "ent-LockerWallPrisoner7 = prisoner wall closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wall_lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/wall_lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LockerWallPrisoner8",
+      "raw_en": "ent-LockerWallPrisoner8 = prisoner wall closet\n    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wall_lockers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/wall_lockers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "WardrobeBase",
+      "raw_en": "ent-WardrobeBase = closet\n    .desc = It's a storage unit for standard-issue Nanotrasen attire.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Closets/wardrobe.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Closets/wardrobe.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrateBaseWeldable",
+      "raw_en": "ent-CrateBaseWeldable = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/base_structurecrates.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Crates/base_structurecrates.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrateBaseSecure",
+      "raw_en": "ent-CrateBaseSecure = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/base_structurecrates.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Crates/base_structurecrates.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "InvisibleCrate",
+      "raw_en": "ent-InvisibleCrate = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/Crates/crates.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/Crates/crates.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "filingCabinetRandom",
+      "raw_en": "ent-filingCabinetRandom = filing cabinet\n    .desc = A cabinet for all your filing needs.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/filing_cabinets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/filing_cabinets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "filingCabinetTallRandom",
+      "raw_en": "ent-filingCabinetTallRandom = tall cabinet\n    .desc = A cabinet for all your filing needs.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/filing_cabinets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/filing_cabinets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "filingCabinetDrawerRandom",
+      "raw_en": "ent-filingCabinetDrawerRandom = chest drawer\n    .desc = A small drawer for all your filing needs, Now with wheels!",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/filing_cabinets.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/filing_cabinets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GlassBoxLaser",
+      "raw_en": "ent-GlassBoxLaser = glass box\n    .desc = A sturdy showcase for an expensive exhibit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/glass_box.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/glass_box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GlassBoxLaserOpen",
+      "raw_en": "ent-GlassBoxLaserOpen = glass box\n    .desc = A sturdy showcase for an expensive exhibit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/glass_box.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/glass_box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GlassBoxLaserFilled",
+      "raw_en": "ent-GlassBoxLaserFilled = glass box\n    .desc = A sturdy showcase for an expensive exhibit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/glass_box.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/glass_box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GlassBoxLaserFilledOpen",
+      "raw_en": "ent-GlassBoxLaserFilledOpen = glass box\n    .desc = A sturdy showcase for an expensive exhibit.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Storage/glass_box.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Storage/glass_box.ftl",
+      "file_exists": false
+    }
+  ]
+}

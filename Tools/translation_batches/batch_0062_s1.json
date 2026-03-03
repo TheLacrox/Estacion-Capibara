@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0062_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "GasPipeStraightAlt2",
+      "raw_en": "ent-GasPipeStraightAlt2 = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeHalfAlt1",
+      "raw_en": "ent-GasPipeHalfAlt1 = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeHalfAlt2",
+      "raw_en": "ent-GasPipeHalfAlt2 = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeBendAlt1",
+      "raw_en": "ent-GasPipeBendAlt1 = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeBendAlt2",
+      "raw_en": "ent-GasPipeBendAlt2 = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeTJunctionAlt1",
+      "raw_en": "ent-GasPipeTJunctionAlt1 = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeTJunctionAlt2",
+      "raw_en": "ent-GasPipeTJunctionAlt2 = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeFourwayAlt1",
+      "raw_en": "ent-GasPipeFourwayAlt1 = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeFourwayAlt2",
+      "raw_en": "ent-GasPipeFourwayAlt2 = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPressurePumpAlt1",
+      "raw_en": "ent-GasPressurePumpAlt1 = gas pump\n    .desc = A pump that moves gas by pressure.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPressurePumpAlt2",
+      "raw_en": "ent-GasPressurePumpAlt2 = gas pump\n    .desc = A pump that moves gas by pressure.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasVolumePumpAlt1",
+      "raw_en": "ent-GasVolumePumpAlt1 = volumetric gas pump\n    .desc = A pump that moves gas by volume.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasVolumePumpAlt2",
+      "raw_en": "ent-GasVolumePumpAlt2 = volumetric gas pump\n    .desc = A pump that moves gas by volume.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPassiveGateAlt1",
+      "raw_en": "ent-GasPassiveGateAlt1 = passive gate\n    .desc = A one-way air valve that does not require power.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPassiveGateAlt2",
+      "raw_en": "ent-GasPassiveGateAlt2 = passive gate\n    .desc = A one-way air valve that does not require power.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasValveAlt1",
+      "raw_en": "ent-GasValveAlt1 = manual valve\n    .desc = A pipe with a valve that can be used to disable the flow of gas through it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasValveAlt2",
+      "raw_en": "ent-GasValveAlt2 = manual valve\n    .desc = A pipe with a valve that can be used to disable the flow of gas through it.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SignalControlledValveAlt1",
+      "raw_en": "ent-SignalControlledValveAlt1 = signal valve\n    .desc = A pipe with a valve that can be controlled with signals.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SignalControlledValveAlt2",
+      "raw_en": "ent-SignalControlledValveAlt2 = signal valve\n    .desc = A pipe with a valve that can be controlled with signals.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorAlt1",
+      "raw_en": "ent-GasPipeSensorAlt1 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorAlt2",
+      "raw_en": "ent-GasPipeSensorAlt2 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorDistributionAlt1",
+      "raw_en": "ent-GasPipeSensorDistributionAlt1 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorDistributionAlt2",
+      "raw_en": "ent-GasPipeSensorDistributionAlt2 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorWasteAlt1",
+      "raw_en": "ent-GasPipeSensorWasteAlt1 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorWasteAlt2",
+      "raw_en": "ent-GasPipeSensorWasteAlt2 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorMixedAirAlt1",
+      "raw_en": "ent-GasPipeSensorMixedAirAlt1 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorMixedAirAlt2",
+      "raw_en": "ent-GasPipeSensorMixedAirAlt2 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorTEGHotAlt1",
+      "raw_en": "ent-GasPipeSensorTEGHotAlt1 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorTEGHotAlt2",
+      "raw_en": "ent-GasPipeSensorTEGHotAlt2 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorTEGColdAlt1",
+      "raw_en": "ent-GasPipeSensorTEGColdAlt1 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorTEGColdAlt2",
+      "raw_en": "ent-GasPipeSensorTEGColdAlt2 = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPressureRegulatorAlt1",
+      "raw_en": "ent-GasPressureRegulatorAlt1 = inlet pressure regulator\n    .desc = A valve that releases gas when the inlet pressure exceeds a certain threshold.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPressureRegulatorAlt2",
+      "raw_en": "ent-GasPressureRegulatorAlt2 = inlet pressure regulator\n    .desc = A valve that releases gas when the inlet pressure exceeds a certain threshold.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/alt_layers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/alt_layers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasBinaryBase",
+      "raw_en": "ent-GasBinaryBase = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/binary.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/binary.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HeatExchangerBend",
+      "raw_en": "ent-HeatExchangerBend = radiator\n    .desc = Transfers heat between the pipe and its surroundings.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/binary.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/binary.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorDistribution",
+      "raw_en": "ent-GasPipeSensorDistribution = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorWaste",
+      "raw_en": "ent-GasPipeSensorWaste = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorMixedAir",
+      "raw_en": "ent-GasPipeSensorMixedAir = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorTEGHot",
+      "raw_en": "ent-GasPipeSensorTEGHot = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeSensorTEGCold",
+      "raw_en": "ent-GasPipeSensorTEGCold = gas pipe sensor\n    .desc = Reports on the status of the gas in the attached pipe network.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/gas_pipe_sensor.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeBase",
+      "raw_en": "ent-GasPipeBase = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/pipes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/pipes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeHalf",
+      "raw_en": "ent-GasPipeHalf = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/pipes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/pipes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeStraight",
+      "raw_en": "ent-GasPipeStraight = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/pipes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/pipes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeBend",
+      "raw_en": "ent-GasPipeBend = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/pipes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/pipes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeTJunction",
+      "raw_en": "ent-GasPipeTJunction = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/pipes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/pipes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasPipeFourway",
+      "raw_en": "ent-GasPipeFourway = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/pipes.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/pipes.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceHeaterAnchored",
+      "raw_en": "ent-SpaceHeaterAnchored = space heater\n    .desc = A bluespace technology device that alters local temperature. Commonly referred to as a \"Space Heater\".",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/portable.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/portable.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceHeaterEnabled",
+      "raw_en": "ent-SpaceHeaterEnabled = space heater\n    .desc = A bluespace technology device that alters local temperature. Commonly referred to as a \"Space Heater\".",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/portable.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/portable.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasTrinaryBase",
+      "raw_en": "ent-GasTrinaryBase = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/trinary.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/trinary.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GasFilterBase",
+      "raw_en": "ent-GasFilterBase = gas pipe\n    .desc = Holds gas.",
+      "source_yaml": "Resources/Prototypes/Entities/Structures/Piping/Atmospherics/trinary.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Structures/Piping/Atmospherics/trinary.ftl",
+      "file_exists": false
+    }
+  ]
+}

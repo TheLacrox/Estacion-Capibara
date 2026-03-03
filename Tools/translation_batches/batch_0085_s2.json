@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0085_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "BulletSlugBeanbagHighCaliber",
+      "raw_en": "ent-BulletSlugBeanbagHighCaliber =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "BulletShotgunHeavySlugSarin",
+      "raw_en": "ent-BulletShotgunHeavySlugSarin =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "BulletPelletHeavyHighExplosive",
+      "raw_en": "ent-BulletPelletHeavyHighExplosive =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "BulletSlugHeavyHighExplosive",
+      "raw_en": "ent-BulletSlugHeavyHighExplosive =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "HighCaliberPelletGrenade",
+      "raw_en": "ent-HighCaliberPelletGrenade =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/shotgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/shotgun.ftl"
+    },
+    {
+      "id": "BulletSmart",
+      "raw_en": "ent-BulletSmart =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/smartgun.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/projectiles/smartgun.ftl"
+    },
+    {
+      "id": "SpeedLoaderMatebaAP",
+      "raw_en": "ent-SpeedLoaderMatebaAP =\n    .desc = Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold rare armor-piercing ammunition.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Ammunition/SpeedLoaders/magnum.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/ammunition/speedloaders/magnum.ftl"
+    },
+    {
+      "id": "BulletHighCaliber",
+      "raw_en": "ent-BulletHighCaliber =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletHighCaliberExplosive",
+      "raw_en": "ent-BulletHighCaliberExplosive =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletLaserHeavy",
+      "raw_en": "ent-BulletLaserHeavy =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletLaserHeavyStructural",
+      "raw_en": "ent-BulletLaserHeavyStructural =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletLaserSpreadHeavy",
+      "raw_en": "ent-BulletLaserSpreadHeavy =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletEnergyGunDisabler",
+      "raw_en": "ent-BulletEnergyGunDisabler =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletSyndicateDisabler",
+      "raw_en": "ent-BulletSyndicateDisabler =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletGrenadeTeargas",
+      "raw_en": "ent-BulletGrenadeTeargas =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletPistolSilver",
+      "raw_en": "ent-BulletPistolSilver =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "ProjectileMonkeyDart",
+      "raw_en": "ent-ProjectileMonkeyDart =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletMime",
+      "raw_en": "ent-BulletMime =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "BulletStasis",
+      "raw_en": "ent-BulletStasis =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Guns/Projectiles/stasis.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/guns/projectiles/stasis.ftl"
+    },
+    {
+      "id": "SingulothsHammer",
+      "raw_en": "ent-SingulothsHammer =\n    .desc = The pinnacle of close combat technology, the hammer harnesses the power of a miniaturized singularity to deal crushing blows.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Objects/Weapons/Melee/the_robust_toolbox.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/objects/weapons/melee/the_robust_toolbox.ftl"
+    },
+    {
+      "id": "ChairOfficeWhiteRocket",
+      "raw_en": "ent-ChairOfficeWhiteRocket =\n    .desc = Launch from department to department because walking is for interns.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "ChairOfficeDarkRocket",
+      "raw_en": "ent-ChairOfficeDarkRocket =\n    .desc = Launch from department to department because walking is for interns.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Furniture/chairs.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/furniture/chairs.ftl"
+    },
+    {
+      "id": "ChairBarber",
+      "raw_en": "ent-ChairBarber =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Specific/bay12barbershop.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/specific/bay12barbershop.ftl"
+    },
+    {
+      "id": "FitnessWeightsBench1",
+      "raw_en": "ent-FitnessWeightsBench1 =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Specific/bay12fitness.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/specific/bay12fitness.ftl"
+    },
+    {
+      "id": "FitnessWeightLifter",
+      "raw_en": "ent-FitnessWeightLifter =\n    .desc = You sit in this. Either by will or force.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Specific/bay12fitness.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/specific/bay12fitness.ftl"
+    },
+    {
+      "id": "BZCanister",
+      "raw_en": "ent-BZCanister =\n    .desc = A canister that can contain any type of gas. It can be attached to connector ports using a wrench.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/storage/canisters/gas_canisters.ftl"
+    },
+    {
+      "id": "HealiumCanister",
+      "raw_en": "ent-HealiumCanister =\n    .desc = A canister that can contain any type of gas. It can be attached to connector ports using a wrench.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/storage/canisters/gas_canisters.ftl"
+    },
+    {
+      "id": "NitriumCanister",
+      "raw_en": "ent-NitriumCanister =\n    .desc = A canister that can contain any type of gas. It can be attached to connector ports using a wrench.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/storage/canisters/gas_canisters.ftl"
+    },
+    {
+      "id": "PluoxiumCanister",
+      "raw_en": "ent-PluoxiumCanister =\n    .desc = A canister that can contain any type of gas. It can be attached to connector ports using a wrench.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Canisters/gas_canisters.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/storage/canisters/gas_canisters.ftl"
+    },
+    {
+      "id": "LockerBlueshieldOfficer",
+      "raw_en": "ent-LockerBlueshieldOfficer =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "LockerNanorep",
+      "raw_en": "ent-LockerNanorep =\n    .desc = A standard-issue Nanotrasen storage unit.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Closets/Lockers/lockers.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/storage/closets/lockers/lockers.ftl"
+    },
+    {
+      "id": "CrateBingle",
+      "raw_en": "ent-CrateBingle =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Structures/Storage/Crates/Bingle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/entities/structures/storage/crates/bingle.ftl"
+    },
+    {
+      "id": "MobFlockDrone",
+      "raw_en": "ent-MobFlockDrone =\n    .desc = Is it broccoli? A glass chicken? A peacock? A green roomba? A shiny discobot? A crystal turkey? A bugbird? A radio pigeon??",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Mobs/flock.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/flock/mobs/flock.ftl"
+    },
+    {
+      "id": "MaterialFlockOrb",
+      "raw_en": "ent-MaterialFlockOrb =\n    .desc = You're not sure what it is, but it looks very valuable!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Objects/loot.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/flock/objects/loot.ftl"
+    },
+    {
+      "id": "WallFeatherZoneShuttle1",
+      "raw_en": "ent-WallFeatherZoneShuttle1 =\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/flock/structures/walls.ftl"
+    },
+    {
+      "id": "WallFeatherZoneShuttle2",
+      "raw_en": "ent-WallFeatherZoneShuttle2 =\n    .desc = You can hear faint humming coming from within.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Flock/Structures/walls.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/flock/structures/walls.ftl"
+    },
+    {
+      "id": "ProjectileStarBall",
+      "raw_en": "ent-ProjectileStarBall =\n    .desc = If you can see this you're probably dead!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/heretic/entities/objects/weapons/guns/projectiles/projectiles.ftl"
+    },
+    {
+      "id": "HereticBladeFlesh",
+      "raw_en": "ent-HereticBladeFlesh =\n    .desc = A crescent blade born from a fleshwarped creature. Keenly aware, it seeks to spread to others the suffering it has endured from its dreadful origins.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Heretic/Entities/Objects/Weapons/Melee/heretic_blades.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/heretic/entities/objects/weapons/melee/heretic_blades.ftl"
+    },
+    {
+      "id": "NTRBoardShuttle",
+      "raw_en": "ent-NTRBoardShuttle =\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/NTR/Crates/products.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/ntr/crates/products.ftl"
+    },
+    {
+      "id": "DevilMindRole",
+      "raw_en": "ent-DevilMindRole =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/roles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleChangeling",
+      "raw_en": "ent-MindRoleChangeling =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/roles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleHeretic",
+      "raw_en": "ent-MindRoleHeretic =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/roles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhoul",
+      "raw_en": "ent-MindRoleGhoul =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/roles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleBrainwashed",
+      "raw_en": "ent-MindRoleBrainwashed =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/roles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleSlasher",
+      "raw_en": "ent-MindRoleSlasher =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/roles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleGhostRoleSentientAnimal",
+      "raw_en": "ent-MindRoleGhostRoleSentientAnimal =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/roles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleContractor",
+      "raw_en": "ent-MindRoleContractor =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Roles/mind_roles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/roles/mind_roles.ftl"
+    },
+    {
+      "id": "MindRoleSlaughterDemon",
+      "raw_en": "ent-MindRoleSlaughterDemon =\n    .desc = Mind Role entity",
+      "source_yaml": "Resources/Prototypes/_Goobstation/SlaughterDemon/Mindroles/slaughter_demon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/slaughterdemon/mindroles/slaughter_demon.ftl"
+    },
+    {
+      "id": "MobLesserSlaughterDemon",
+      "raw_en": "ent-MobLesserSlaughterDemon =\n    .desc = A large, menacing creature covered in armored black scales. You should run.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/SlaughterDemon/Mobs/slaughter_demon.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/slaughterdemon/mobs/slaughter_demon.ftl"
+    },
+    {
+      "id": "FloorTileItemBingle",
+      "raw_en": "ent-FloorTileItemBingle =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Tiles/bingle.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/_goobstation/tiles/bingle.ftl"
+    }
+  ]
+}

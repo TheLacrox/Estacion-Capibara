@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0033_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "MobMouseAdmeme",
+      "raw_en": "ent-MobMouseAdmeme = mouse\n    .desc = Squeak!",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobMouse1",
+      "raw_en": "ent-MobMouse1 = mouse\n    .desc = Squeak!",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobMouse2",
+      "raw_en": "ent-MobMouse2 = mouse\n    .desc = Squeak!",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobParrot",
+      "raw_en": "ent-MobParrot = parrot\n    .desc = Infiltrates your domain, spies on you, and somehow still a cool pet.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCorgi",
+      "raw_en": "ent-MobCorgi = corgi\n    .desc = Finally, a space corgi!",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobDionaNymphAccent",
+      "raw_en": "ent-MobDionaNymphAccent = diona nymph\n    .desc = It's like a cat, only.... branch-ier.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EffectGoliathTentacleRetract",
+      "raw_en": "ent-EffectGoliathTentacleRetract = tentacle",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/asteroid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/asteroid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCarp",
+      "raw_en": "ent-MobCarp = space carp\n    .desc = It's a space carp.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/carp.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/carp.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCarpSalvage",
+      "raw_en": "ent-MobCarpSalvage = space carp\n    .desc = It's a space carp.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/carp.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/carp.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCarpDungeon",
+      "raw_en": "ent-MobCarpDungeon = space carp\n    .desc = It's a space carp.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/carp.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/carp.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobSharkSalvage",
+      "raw_en": "ent-MobSharkSalvage = sharkminnow\n    .desc = A dangerous shark from the blackness of endless space, who loves to drink blood.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/carp.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/carp.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobQuartzCrab",
+      "raw_en": "ent-MobQuartzCrab = ore crab\n    .desc = An ore crab made from Quartz.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobIronCrab",
+      "raw_en": "ent-MobIronCrab = ore crab\n    .desc = An ore crab made from iron.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCoalCrab",
+      "raw_en": "ent-MobCoalCrab = ore crab\n    .desc = An ore crab made from coal.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobUraniumCrab",
+      "raw_en": "ent-MobUraniumCrab = ore crab\n    .desc = An ore crab made from uranium.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobBananiumCrab",
+      "raw_en": "ent-MobBananiumCrab = ore crab\n    .desc = An ore crab made from bananium.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobSilverCrab",
+      "raw_en": "ent-MobSilverCrab = ore crab\n    .desc = An ore crab made from silver.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobGoldCrab",
+      "raw_en": "ent-MobGoldCrab = ore crab\n    .desc = An ore crab made from gold.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeBeer",
+      "raw_en": "ent-ReagentSlimeBeer = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimePax",
+      "raw_en": "ent-ReagentSlimePax = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeNocturine",
+      "raw_en": "ent-ReagentSlimeNocturine = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeTHC",
+      "raw_en": "ent-ReagentSlimeTHC = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeBicaridine",
+      "raw_en": "ent-ReagentSlimeBicaridine = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeToxin",
+      "raw_en": "ent-ReagentSlimeToxin = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeNapalm",
+      "raw_en": "ent-ReagentSlimeNapalm = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeOmnizine",
+      "raw_en": "ent-ReagentSlimeOmnizine = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeMuteToxin",
+      "raw_en": "ent-ReagentSlimeMuteToxin = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeNorepinephricAcid",
+      "raw_en": "ent-ReagentSlimeNorepinephricAcid = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeEphedrine",
+      "raw_en": "ent-ReagentSlimeEphedrine = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ReagentSlimeRobustHarvest",
+      "raw_en": "ent-ReagentSlimeRobustHarvest = reagent slime\n    .desc = It consists of a liquid, and it wants to dissolve you in itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/elemental.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/elemental.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobFleshJared",
+      "raw_en": "ent-MobFleshJared = aberrant flesh\n    .desc = A shambling mass of flesh, animated through anomalous energy.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/flesh.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/flesh.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobFleshGolem",
+      "raw_en": "ent-MobFleshGolem = aberrant flesh\n    .desc = A shambling mass of flesh, animated through anomalous energy.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/flesh.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/flesh.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobFleshClamp",
+      "raw_en": "ent-MobFleshClamp = aberrant flesh\n    .desc = A shambling mass of flesh, animated through anomalous energy.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/flesh.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/flesh.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobFleshLover",
+      "raw_en": "ent-MobFleshLover = aberrant flesh\n    .desc = A shambling mass of flesh, animated through anomalous energy.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/flesh.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/flesh.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobFleshJaredSalvage",
+      "raw_en": "ent-MobFleshJaredSalvage = aberrant flesh\n    .desc = A shambling mass of flesh, animated through anomalous energy.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/flesh.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/flesh.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobFleshGolemSalvage",
+      "raw_en": "ent-MobFleshGolemSalvage = aberrant flesh\n    .desc = A shambling mass of flesh, animated through anomalous energy.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/flesh.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/flesh.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobFleshClampSalvage",
+      "raw_en": "ent-MobFleshClampSalvage = aberrant flesh\n    .desc = A shambling mass of flesh, animated through anomalous energy.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/flesh.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/flesh.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobFleshLoverSalvage",
+      "raw_en": "ent-MobFleshLoverSalvage = aberrant flesh\n    .desc = A shambling mass of flesh, animated through anomalous energy.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/flesh.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/flesh.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobWatcherLavaland",
+      "raw_en": "ent-MobWatcherLavaland = watcher\n    .desc = It's like it's staring right through you.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/lavaland.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/lavaland.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobLuminousPerson",
+      "raw_en": "ent-MobLuminousPerson = luminous person\n    .desc = A blinding figure of pure light, seemingly intangible.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/living_light.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/living_light.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobRatKingBuff",
+      "raw_en": "ent-MobRatKingBuff = rat king\n    .desc = He's da rat. He make da roolz.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/regalrat.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/regalrat.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobBearSpaceSalvage",
+      "raw_en": "ent-MobBearSpaceSalvage = space bear\n    .desc = It looks friendly. Why don't you give it a hug?",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/space.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/space.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobKangarooSpaceSalvage",
+      "raw_en": "ent-MobKangarooSpaceSalvage = space kangaroo\n    .desc = It looks friendly. Why don't you give it a hug?",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/space.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/space.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobSpiderSpaceSalvage",
+      "raw_en": "ent-MobSpiderSpaceSalvage = space spider\n    .desc = It's so glowing, it looks dangerous.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/space.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/space.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobCobraSpaceSalvage",
+      "raw_en": "ent-MobCobraSpaceSalvage = space cobra\n    .desc = Long fangs and a glowing hood, and the alluring look begs to come closer.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/space.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/space.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobSnailInstantDeath",
+      "raw_en": "ent-MobSnailInstantDeath = snail\n    .desc = Revolting unless you're french.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/space.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/space.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobSnailSpeed",
+      "raw_en": "ent-MobSnailSpeed = snail\n    .desc = Revolting unless you're french.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/space.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/space.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobTickSalvage",
+      "raw_en": "ent-MobTickSalvage = space tick\n    .desc = It's a space tick, watch out for its nasty bite. CentComm reports that 90 percent of cargo leg amputations are due to space tick bites.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/NPCs/spacetick.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/NPCs/spacetick.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobDragon",
+      "raw_en": "ent-MobDragon = space dragon\n    .desc = A flying leviathan, loosely related to space carps.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Player/dragon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Player/dragon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobDragonDungeon",
+      "raw_en": "ent-MobDragonDungeon = space dragon\n    .desc = A flying leviathan, loosely related to space carps.",
+      "source_yaml": "Resources/Prototypes/Entities/Mobs/Player/dragon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Mobs/Player/dragon.ftl",
+      "file_exists": false
+    }
+  ]
+}

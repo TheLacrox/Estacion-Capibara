@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0048_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "SyringeSaline",
+      "raw_en": "ent-SyringeSaline = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeRomerol",
+      "raw_en": "ent-SyringeRomerol = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyringeStimulants",
+      "raw_en": "ent-SyringeStimulants = syringe\n    .desc = Used to draw blood samples from mobs, or to inject them with reagents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healing.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healing.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HandheldHealthAnalyzer",
+      "raw_en": "ent-HandheldHealthAnalyzer = health analyzer\n    .desc = A hand-held body scanner capable of distinguishing vital signs of the subject.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healthanalyzer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healthanalyzer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "HandheldHealthAnalyzerEmpty",
+      "raw_en": "ent-HandheldHealthAnalyzerEmpty = health analyzer\n    .desc = A hand-held body scanner capable of distinguishing vital signs of the subject.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/healthanalyzer.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/healthanalyzer.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseToolSurgery",
+      "raw_en": "ent-BaseToolSurgery = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Medical/surgery.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Medical/surgery.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RehydratableItem",
+      "raw_en": "ent-RehydratableItem = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/rehydrateable.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/rehydrateable.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RehydratableAnimalCube",
+      "raw_en": "ent-RehydratableAnimalCube = item\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/rehydrateable.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/rehydrateable.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SyndicateSponge",
+      "raw_en": "ent-SyndicateSponge = monkey cube\n    .desc = Just add water!",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/rehydrateable.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/rehydrateable.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyLocator",
+      "raw_en": "ent-AnomalyLocator = anomaly locator\n    .desc = A device designed to aid in the locating of anomalies. Did you check the gas miners?",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Research/anomaly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Research/anomaly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyLocatorEmpty",
+      "raw_en": "ent-AnomalyLocatorEmpty = anomaly locator\n    .desc = A device designed to aid in the locating of anomalies. Did you check the gas miners?",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Research/anomaly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Research/anomaly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyLocatorWide",
+      "raw_en": "ent-AnomalyLocatorWide = wide-spectrum anomaly locator\n    .desc = A device that looks for anomalies from an extended distance, but has no way to determine the distance to them.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Research/anomaly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Research/anomaly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AnomalyLocatorWideEmpty",
+      "raw_en": "ent-AnomalyLocatorWideEmpty = wide-spectrum anomaly locator\n    .desc = A device that looks for anomalies from an extended distance, but has no way to determine the distance to them.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Research/anomaly.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Research/anomaly.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TechnologyDiskRare",
+      "raw_en": "ent-TechnologyDiskRare = technology disk\n    .desc = A disk for the R&D server containing research technology.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Research/disk.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Research/disk.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgModuleCargo",
+      "raw_en": "ent-BaseBorgModuleCargo = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgModuleEngineering",
+      "raw_en": "ent-BaseBorgModuleEngineering = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgModuleJanitor",
+      "raw_en": "ent-BaseBorgModuleJanitor = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgModuleMedical",
+      "raw_en": "ent-BaseBorgModuleMedical = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgModuleScience",
+      "raw_en": "ent-BaseBorgModuleScience = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgModuleService",
+      "raw_en": "ent-BaseBorgModuleService = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgModuleSyndicate",
+      "raw_en": "ent-BaseBorgModuleSyndicate = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseBorgModuleSyndicateAssault",
+      "raw_en": "ent-BaseBorgModuleSyndicateAssault = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseXenoborgModuleGeneric",
+      "raw_en": "ent-BaseXenoborgModuleGeneric = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseXenoborgModuleEngi",
+      "raw_en": "ent-BaseXenoborgModuleEngi = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseXenoborgModuleHeavy",
+      "raw_en": "ent-BaseXenoborgModuleHeavy = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseXenoborgModuleScout",
+      "raw_en": "ent-BaseXenoborgModuleScout = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseXenoborgModuleStealth",
+      "raw_en": "ent-BaseXenoborgModuleStealth = borg module\n    .desc = A piece of tech that gives cyborgs new abilities.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/borg_modules.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/borg_modules.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MMIFilled",
+      "raw_en": "ent-MMIFilled = man-machine interface\n    .desc = A machine able to facilitate communication between a biological brain and electronics, enabling crew to continue to provide value after work-related incidents.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Robotics/mmi.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Robotics/mmi.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MineralScanner",
+      "raw_en": "ent-MineralScanner = mineral scanner\n    .desc = A scanner that checks surrounding rock for useful minerals. It must be in your hand or pocket to work.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Salvage/scanner.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Salvage/scanner.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MineralScannerEmpty",
+      "raw_en": "ent-MineralScannerEmpty = mineral scanner\n    .desc = A scanner that checks surrounding rock for useful minerals. It must be in your hand or pocket to work.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Salvage/scanner.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Salvage/scanner.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdvancedMineralScanner",
+      "raw_en": "ent-AdvancedMineralScanner = advanced mineral scanner\n    .desc = A scanner that checks surrounding rock for useful minerals. It must be in your hand or pocket to work. This one has an extended range.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Salvage/scanner.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Salvage/scanner.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "AdvancedMineralScannerEmpty",
+      "raw_en": "ent-AdvancedMineralScannerEmpty = advanced mineral scanner\n    .desc = A scanner that checks surrounding rock for useful minerals. It must be in your hand or pocket to work. This one has an extended range.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Salvage/scanner.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Salvage/scanner.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EvidenceMarkerOne",
+      "raw_en": "ent-EvidenceMarkerOne = evidence marker\n    .desc = A numbered yellow marker, useful for labeling evidence on a crime scene.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Security/evidence-marker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Security/evidence-marker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EvidenceMarkerTwo",
+      "raw_en": "ent-EvidenceMarkerTwo = evidence marker\n    .desc = A numbered yellow marker, useful for labeling evidence on a crime scene.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Security/evidence-marker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Security/evidence-marker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EvidenceMarkerThree",
+      "raw_en": "ent-EvidenceMarkerThree = evidence marker\n    .desc = A numbered yellow marker, useful for labeling evidence on a crime scene.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Security/evidence-marker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Security/evidence-marker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EvidenceMarkerFour",
+      "raw_en": "ent-EvidenceMarkerFour = evidence marker\n    .desc = A numbered yellow marker, useful for labeling evidence on a crime scene.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Security/evidence-marker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Security/evidence-marker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EvidenceMarkerFive",
+      "raw_en": "ent-EvidenceMarkerFive = evidence marker\n    .desc = A numbered yellow marker, useful for labeling evidence on a crime scene.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Security/evidence-marker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Security/evidence-marker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EvidenceMarkerSix",
+      "raw_en": "ent-EvidenceMarkerSix = evidence marker\n    .desc = A numbered yellow marker, useful for labeling evidence on a crime scene.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Security/evidence-marker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Security/evidence-marker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EvidenceMarkerSeven",
+      "raw_en": "ent-EvidenceMarkerSeven = evidence marker\n    .desc = A numbered yellow marker, useful for labeling evidence on a crime scene.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Security/evidence-marker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Security/evidence-marker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EvidenceMarkerEight",
+      "raw_en": "ent-EvidenceMarkerEight = evidence marker\n    .desc = A numbered yellow marker, useful for labeling evidence on a crime scene.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Security/evidence-marker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Security/evidence-marker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "EvidenceMarkerNine",
+      "raw_en": "ent-EvidenceMarkerNine = evidence marker\n    .desc = A numbered yellow marker, useful for labeling evidence on a crime scene.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Security/evidence-marker.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Security/evidence-marker.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal1",
+      "raw_en": "ent-Telecrystal1 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal5",
+      "raw_en": "ent-Telecrystal5 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "Telecrystal10",
+      "raw_en": "ent-Telecrystal10 = telecrystal\n    .desc = It seems to be pulsing with suspiciously enticing energies.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseUplinkRadio50TC",
+      "raw_en": "ent-BaseUplinkRadio50TC = syndicate uplink\n    .desc = Suspiciously looking old radio...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseUplinkRadio50TCNukeOps",
+      "raw_en": "ent-BaseUplinkRadio50TCNukeOps = syndicate uplink\n    .desc = Suspiciously looking old radio...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseUplinkRadio100TC",
+      "raw_en": "ent-BaseUplinkRadio100TC = syndicate uplink\n    .desc = Suspiciously looking old radio...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseUplinkRadio125TC",
+      "raw_en": "ent-BaseUplinkRadio125TC = syndicate uplink\n    .desc = Suspiciously looking old radio...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseUplinkRadio200TC",
+      "raw_en": "ent-BaseUplinkRadio200TC = syndicate uplink\n    .desc = Suspiciously looking old radio...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseUplinkRadio350TC",
+      "raw_en": "ent-BaseUplinkRadio350TC = syndicate uplink\n    .desc = Suspiciously looking old radio...",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/syndicate.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/syndicate.ftl",
+      "file_exists": false
+    }
+  ]
+}

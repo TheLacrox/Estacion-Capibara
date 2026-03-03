@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0026_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "MobXenomorphQueenDungeon",
+      "raw_en": "ent-MobXenomorphQueenDungeon = xenomorph queen\n    .desc = The highest individual, the central element and mother of the Hive. The destruction of the Queen in most cases means the collapse of the Hive.",
+      "source_yaml": "Resources/Prototypes/_White/Entities/Mobs/Xenomorphs/queen.yml",
+      "target_ftl": "Resources/Locale/es-ES/_White/Entities/Mobs/Xenomorphs/queen.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobXenomorphSentinel",
+      "raw_en": "ent-MobXenomorphSentinel = xenomorph sentinel\n    .desc = A specialized specimen designed to hit targets at a distance. Particularly dangerous in narrow corridors and confined spaces.",
+      "source_yaml": "Resources/Prototypes/_White/Entities/Mobs/Xenomorphs/sentinel.yml",
+      "target_ftl": "Resources/Locale/es-ES/_White/Entities/Mobs/Xenomorphs/sentinel.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobXenomorphSentinelDungeon",
+      "raw_en": "ent-MobXenomorphSentinelDungeon = xenomorph sentinel\n    .desc = A specialized specimen designed to hit targets at a distance. Particularly dangerous in narrow corridors and confined spaces.",
+      "source_yaml": "Resources/Prototypes/_White/Entities/Mobs/Xenomorphs/sentinel.yml",
+      "target_ftl": "Resources/Locale/es-ES/_White/Entities/Mobs/Xenomorphs/sentinel.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenomorphEggGrown",
+      "raw_en": "ent-XenomorphEggGrown = xenomorph egg\n    .desc = A large mottled egg.",
+      "source_yaml": "Resources/Prototypes/_White/Entities/Structures/Furniture/xenomorph_egg.yml",
+      "target_ftl": "Resources/Locale/es-ES/_White/Entities/Structures/Furniture/xenomorph_egg.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "XenomorphEggBurst",
+      "raw_en": "ent-XenomorphEggBurst = xenomorph egg\n    .desc = A large mottled egg.",
+      "source_yaml": "Resources/Prototypes/_White/Entities/Structures/Furniture/xenomorph_egg.yml",
+      "target_ftl": "Resources/Locale/es-ES/_White/Entities/Structures/Furniture/xenomorph_egg.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "GlassBoxLamarrFilled",
+      "raw_en": "ent-GlassBoxLamarrFilled = glass box\n    .desc = A sturdy showcase for an expensive exhibit.",
+      "source_yaml": "Resources/Prototypes/_White/Entities/Structures/Storage/glass_box.yml",
+      "target_ftl": "Resources/Locale/es-ES/_White/Entities/Structures/Storage/glass_box.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ActionCombatModeToggleOff",
+      "raw_en": "ent-ActionCombatModeToggleOff = [color=red]Combat Mode[/color]\n    .desc = Enter combat mode",
+      "source_yaml": "Resources/Prototypes/Actions/types.yml",
+      "target_ftl": "Resources/Locale/es-ES/Actions/types.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseAnimalOrganUnGibbable",
+      "raw_en": "ent-BaseAnimalOrganUnGibbable = item",
+      "source_yaml": "Resources/Prototypes/Body/Organs/Animal/animal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Organs/Animal/animal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseAnimalOrgan",
+      "raw_en": "ent-BaseAnimalOrgan = item",
+      "source_yaml": "Resources/Prototypes/Body/Organs/Animal/animal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Organs/Animal/animal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseArachnidOrgan",
+      "raw_en": "ent-BaseArachnidOrgan = item",
+      "source_yaml": "Resources/Prototypes/Body/Organs/arachnid.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Organs/arachnid.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseDionaOrganUnGibbable",
+      "raw_en": "ent-BaseDionaOrganUnGibbable = item",
+      "source_yaml": "Resources/Prototypes/Body/Organs/diona.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Organs/diona.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseDionaOrgan",
+      "raw_en": "ent-BaseDionaOrgan = item",
+      "source_yaml": "Resources/Prototypes/Body/Organs/diona.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Organs/diona.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseHumanOrganUnGibbable",
+      "raw_en": "ent-BaseHumanOrganUnGibbable = item",
+      "source_yaml": "Resources/Prototypes/Body/Organs/human.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Organs/human.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseHumanOrgan",
+      "raw_en": "ent-BaseHumanOrgan = item",
+      "source_yaml": "Resources/Prototypes/Body/Organs/human.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Organs/human.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganRatLungs",
+      "raw_en": "ent-OrganRatLungs = lungs\n    .desc = Filters oxygen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier.",
+      "source_yaml": "Resources/Prototypes/Body/Organs/rat.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Organs/rat.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganRatStomach",
+      "raw_en": "ent-OrganRatStomach = stomach",
+      "source_yaml": "Resources/Prototypes/Body/Organs/rat.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Organs/rat.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "OrganReptilianStomach",
+      "raw_en": "ent-OrganReptilianStomach = stomach",
+      "source_yaml": "Resources/Prototypes/Body/Organs/reptilian.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Organs/reptilian.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartAnimalBase",
+      "raw_en": "ent-PartAnimalBase = body part",
+      "source_yaml": "Resources/Prototypes/Body/Parts/animal.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Parts/animal.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PartSiliconBase",
+      "raw_en": "ent-PartSiliconBase = body part",
+      "source_yaml": "Resources/Prototypes/Body/Parts/silicon.yml",
+      "target_ftl": "Resources/Locale/es-ES/Body/Parts/silicon.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackSyndicateBundle",
+      "raw_en": "ent-ClothingBackpackSyndicateBundle = syndicate backpack\n    .desc = components:",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Backpacks/backpack.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Backpacks/backpack.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackDuffelSyndicateCostumeClown",
+      "raw_en": "ent-ClothingBackpackDuffelSyndicateCostumeClown = clown duffel bag\n    .desc = A large duffel bag for holding extra honk goods.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Backpacks/duffelbag.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Backpacks/duffelbag.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackChameleonFill",
+      "raw_en": "ent-ClothingBackpackChameleonFill = backpack\n    .desc = You wear this on your back and put items into it.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Backpacks/duffelbag.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Backpacks/duffelbag.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BookshelfFilled",
+      "raw_en": "ent-BookshelfFilled = bookshelf\n    .desc = Mostly filled with books.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Books/bookshelf.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Books/bookshelf.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalNitrogen",
+      "raw_en": "ent-BoxSurvivalNitrogen = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalEngineeringNitrogen",
+      "raw_en": "ent-BoxSurvivalEngineeringNitrogen = extended-capacity survival box\n    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSecurityNitrogen",
+      "raw_en": "ent-BoxSurvivalSecurityNitrogen = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalMedicalNitrogen",
+      "raw_en": "ent-BoxSurvivalMedicalNitrogen = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxHugNitrogen",
+      "raw_en": "ent-BoxHugNitrogen = box of hugs\n    .desc = A special box for sensitive people.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxMime",
+      "raw_en": "ent-BoxMime = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxMimeNitrogen",
+      "raw_en": "ent-BoxMimeNitrogen = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxMimeMoth",
+      "raw_en": "ent-BoxMimeMoth = survival box\n    .desc = It's a box with basic internals inside.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxSurvivalSyndicateNitrogen",
+      "raw_en": "ent-BoxSurvivalSyndicateNitrogen = extended-capacity survival box\n    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/emergency.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Boxes/emergency.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BoxHugHealing",
+      "raw_en": "ent-BoxHugHealing = box of hugs\n    .desc = A special box for sensitive people.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Boxes/general.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Boxes/general.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrateFunPirate",
+      "raw_en": "ent-CrateFunPirate = pirate chest\n    .desc = A space pirate chest, not for station lubbers.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrateFunToyBox",
+      "raw_en": "ent-CrateFunToyBox = toy box\n    .desc = A box overflowing with fun.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/fun.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/fun.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrateNPCHamster",
+      "raw_en": "ent-CrateNPCHamster = hamster cage\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/npc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/npc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrateNPCHamlet",
+      "raw_en": "ent-CrateNPCHamlet = hamster cage\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/npc.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/npc.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CratePermaEscapeDigging",
+      "raw_en": "ent-CratePermaEscapeDigging = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/permaescape.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/permaescape.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CratePermaEscapeEVA",
+      "raw_en": "ent-CratePermaEscapeEVA = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/permaescape.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/permaescape.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CratePermaEscapeGun",
+      "raw_en": "ent-CratePermaEscapeGun = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/permaescape.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/permaescape.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CratePermaEscapeBureaucracy",
+      "raw_en": "ent-CratePermaEscapeBureaucracy = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/permaescape.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/permaescape.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CratePermaEscapeLights",
+      "raw_en": "ent-CratePermaEscapeLights = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/permaescape.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/permaescape.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CratePermaEscapeMats",
+      "raw_en": "ent-CratePermaEscapeMats = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/permaescape.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/permaescape.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CratePermaEscapeGiftsFromSyndicate",
+      "raw_en": "ent-CratePermaEscapeGiftsFromSyndicate = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/permaescape.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/permaescape.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CratePermaEscapeMerc",
+      "raw_en": "ent-CratePermaEscapeMerc = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/permaescape.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/permaescape.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CratePermaEscapeComs",
+      "raw_en": "ent-CratePermaEscapeComs = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/permaescape.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/permaescape.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CratePermaEscapeTowercap",
+      "raw_en": "ent-CratePermaEscapeTowercap = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/permaescape.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/permaescape.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrateSalvageAssortedGoodies",
+      "raw_en": "ent-CrateSalvageAssortedGoodies = crate\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/salvage.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/salvage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CrateTrashCartFilled",
+      "raw_en": "ent-CrateTrashCartFilled = trash cart\n    .desc = A large container for items.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Crates/service.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Crates/service.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltUtilityFilled",
+      "raw_en": "ent-ClothingBeltUtilityFilled = utility belt\n    .desc = Can hold various things.",
+      "source_yaml": "Resources/Prototypes/Catalog/Fills/Items/belt.yml",
+      "target_ftl": "Resources/Locale/es-ES/Catalog/Fills/Items/belt.ftl",
+      "file_exists": false
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0019_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "RMCContainerShortTanLeft",
+      "raw_en": "ent-RMCContainerShortTanLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortTanRight",
+      "raw_en": "ent-RMCContainerShortTanRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPPLeft",
+      "raw_en": "ent-RMCContainerShortSPPLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPPRight",
+      "raw_en": "ent-RMCContainerShortSPPRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP2Left",
+      "raw_en": "ent-RMCContainerShortSPP2Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP2Right",
+      "raw_en": "ent-RMCContainerShortSPP2Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP3Left",
+      "raw_en": "ent-RMCContainerShortSPP3Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP3Right",
+      "raw_en": "ent-RMCContainerShortSPP3Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP4Left",
+      "raw_en": "ent-RMCContainerShortSPP4Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP4Right",
+      "raw_en": "ent-RMCContainerShortSPP4Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP5Left",
+      "raw_en": "ent-RMCContainerShortSPP5Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP5Right",
+      "raw_en": "ent-RMCContainerShortSPP5Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP6Left",
+      "raw_en": "ent-RMCContainerShortSPP6Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP6Right",
+      "raw_en": "ent-RMCContainerShortSPP6Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP7Left",
+      "raw_en": "ent-RMCContainerShortSPP7Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP7Right",
+      "raw_en": "ent-RMCContainerShortSPP7Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP8Left",
+      "raw_en": "ent-RMCContainerShortSPP8Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP8Right",
+      "raw_en": "ent-RMCContainerShortSPP8Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP9Left",
+      "raw_en": "ent-RMCContainerShortSPP9Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP9Right",
+      "raw_en": "ent-RMCContainerShortSPP9Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP10Left",
+      "raw_en": "ent-RMCContainerShortSPP10Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP10Right",
+      "raw_en": "ent-RMCContainerShortSPP10Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP11Left",
+      "raw_en": "ent-RMCContainerShortSPP11Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP11Right",
+      "raw_en": "ent-RMCContainerShortSPP11Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP12Left",
+      "raw_en": "ent-RMCContainerShortSPP12Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP12Right",
+      "raw_en": "ent-RMCContainerShortSPP12Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP13Left",
+      "raw_en": "ent-RMCContainerShortSPP13Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP13Right",
+      "raw_en": "ent-RMCContainerShortSPP13Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP14Left",
+      "raw_en": "ent-RMCContainerShortSPP14Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP14Right",
+      "raw_en": "ent-RMCContainerShortSPP14Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP15Left",
+      "raw_en": "ent-RMCContainerShortSPP15Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP15Right",
+      "raw_en": "ent-RMCContainerShortSPP15Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP16Left",
+      "raw_en": "ent-RMCContainerShortSPP16Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP16Right",
+      "raw_en": "ent-RMCContainerShortSPP16Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP17Left",
+      "raw_en": "ent-RMCContainerShortSPP17Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP17Right",
+      "raw_en": "ent-RMCContainerShortSPP17Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP18Left",
+      "raw_en": "ent-RMCContainerShortSPP18Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP18Right",
+      "raw_en": "ent-RMCContainerShortSPP18Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP19Left",
+      "raw_en": "ent-RMCContainerShortSPP19Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP19Right",
+      "raw_en": "ent-RMCContainerShortSPP19Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP20Left",
+      "raw_en": "ent-RMCContainerShortSPP20Left = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerShortSPP20Right",
+      "raw_en": "ent-RMCContainerShortSPP20Right = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaBlackLeft",
+      "raw_en": "ent-RMCContainerWeYaBlackLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaBlackRight",
+      "raw_en": "ent-RMCContainerWeYaBlackRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaGreyLeft",
+      "raw_en": "ent-RMCContainerWeYaGreyLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaGreyRight",
+      "raw_en": "ent-RMCContainerWeYaGreyRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaLightGreyLeft",
+      "raw_en": "ent-RMCContainerWeYaLightGreyLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaLightGreyRight",
+      "raw_en": "ent-RMCContainerWeYaLightGreyRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaWhiteLeft",
+      "raw_en": "ent-RMCContainerWeYaWhiteLeft = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RMCContainerWeYaWhiteRight",
+      "raw_en": "ent-RMCContainerWeYaWhiteRight = cargo container\n    .desc = A huge industrial shipping container.",
+      "source_yaml": "Resources/Prototypes/_RMC14/Entities/Structures/containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/_RMC14/Entities/Structures/containers.ftl",
+      "file_exists": false
+    }
+  ]
+}

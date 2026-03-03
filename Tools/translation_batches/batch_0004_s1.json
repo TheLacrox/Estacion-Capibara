@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0004_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "SuitStorageHardsuitContractor",
+      "raw_en": "ent-SuitStorageHardsuitContractor = suit storage unit\n    .desc = A fancy hi-tech storage unit made for storing space suits.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Lockers/suit_storage.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Lockers/suit_storage.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlueShieldShieldFilled",
+      "raw_en": "ent-BlueShieldShieldFilled = greatshield\n    .desc = The iconic namesake of these soldiers, the Blueshield. Known to take shots meant for high-ranking officials.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Weapons/blueshieldshield.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Weapons/blueshieldshield.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BlueShieldShieldEvilFilled",
+      "raw_en": "ent-BlueShieldShieldEvilFilled = greatshield\n    .desc = The identification number on this shield has been scratched off. Something feels wrong.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Catalog/Fills/Weapons/blueshieldshield.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Catalog/Fills/Weapons/blueshieldshield.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ArmBladeChangeling",
+      "raw_en": "ent-ArmBladeChangeling = arm blade\n    .desc = A grotesque blade made out of bone and flesh that cleaves through people as a hot knife through butter.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Changeling/Entities/Objects/Weapons/Melee/changeling_armblade.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Changeling/Entities/Objects/Weapons/Melee/changeling_armblade.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FakeArmBladeChangeling",
+      "raw_en": "ent-FakeArmBladeChangeling = arm blade\n    .desc = A grotesque blade made out of bone and flesh that cleaves through people as a hot knife through butter.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Changeling/Entities/Objects/Weapons/Melee/changeling_armblade.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Changeling/Entities/Objects/Weapons/Melee/changeling_armblade.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseCustomLawboard",
+      "raw_en": "ent-BaseCustomLawboard = base electronics",
+      "source_yaml": "Resources/Prototypes/_Goobstation/CustomLawboard/customlawboard.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/CustomLawboard/customlawboard.ftl",
+      "file_exists": true
+    },
+    {
+      "id": "PaperDevilContractBlank",
+      "raw_en": "ent-PaperDevilContractBlank = contract from below\n    .desc = A devilish piece of black parchment detailing a contract. All ink that touches the page seems to turn to blood.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Devil/contract.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Devil/contract.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperDevilContract",
+      "raw_en": "ent-PaperDevilContract = contract from below\n    .desc = A devilish piece of black parchment detailing a contract. All ink that touches the page seems to turn to blood.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Devil/contract.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Devil/contract.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobMousePlague",
+      "raw_en": "ent-MobMousePlague = mouse\n    .desc = Squeak!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Disease/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Disease/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "MobMousePandemic",
+      "raw_en": "ent-MobMousePandemic = mouse\n    .desc = Squeak!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Disease/animals.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Disease/animals.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackUnremoveable",
+      "raw_en": "ent-ClothingBackpackUnremoveable = backpack\n    .desc = You wear this on your back and put items into it.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/backpacks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/backpacks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingModsuitStandardPowerCell",
+      "raw_en": "ent-ClothingModsuitStandardPowerCell = standard modsuit control unit\n    .desc = A special modular suit contol unit containing all necessary modular hardsuit parts.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingModsuitSecurityPowerCell",
+      "raw_en": "ent-ClothingModsuitSecurityPowerCell = security soldat modsuit control unit\n    .desc = A robust modular hardsuit control module unit for thrashing commies in spess.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingModsuitHeadOfSecurityPowerCell",
+      "raw_en": "ent-ClothingModsuitHeadOfSecurityPowerCell = head of security's bulwark modsuit control unit\n    .desc = A robust modular HARDERsuit control module unit for the head of security.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingModsuitParamedicPowerCell",
+      "raw_en": "ent-ClothingModsuitParamedicPowerCell = sanitater modsuit control unit\n    .desc = A modular hardsuit control module unit for paramedics.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingModsuitEngineerPowerCell",
+      "raw_en": "ent-ClothingModsuitEngineerPowerCell = engineer sapper modsuit control unit\n    .desc = A modular hardsuit control module unit for withstanding the greatest hazards on the job.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingModsuitAtmostechPowerCell",
+      "raw_en": "ent-ClothingModsuitAtmostechPowerCell = atmospheric technician aeolus modsuit control unit\n    .desc = A modular hardsuit control module unit for withstanding the greatest hazards on the job.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingModsuitResearchDirectorPowerCell",
+      "raw_en": "ent-ClothingModsuitResearchDirectorPowerCell = RD's minerva modsuit control unit\n    .desc = A modular hardsuit control module unit for withstanding another shuttlebomb.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingModsuitCaptainPowerCell",
+      "raw_en": "ent-ClothingModsuitCaptainPowerCell = captain's magnate modsuit control unit\n    .desc = A gem-encrusted, mirror-shined and absolutely MAGNATE armored modsuit. The cooling fluid is dragons' blood watered down with Dr. Gibb. This shit is nothing to you, man.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackStasisBatteryUnremoveable",
+      "raw_en": "ent-ClothingBackpackStasisBatteryUnremoveable = stasis storage\n    .desc = Stores energy to freeze time flow, warping the space inside for more capacity.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackStasisBatteryUnremoveableFilled",
+      "raw_en": "ent-ClothingBackpackStasisBatteryUnremoveableFilled = stasis storage\n    .desc = Stores energy to freeze time flow, warping the space inside for more capacity.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBackpackMercFilledHECU",
+      "raw_en": "ent-ClothingBackpackMercFilledHECU = mercenary bag\n    .desc = A backpack that has been in many dangerous places, a reliable combat backpack.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Back/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Back/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltUtilityFilledUnremoveable",
+      "raw_en": "ent-ClothingBeltUtilityFilledUnremoveable = utility belt\n    .desc = Can hold various things.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Belt/belts.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Belt/belts.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingBeltBaseCloneProjector",
+      "raw_en": "ent-ClothingBeltBaseCloneProjector = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Belt/cloneprojector.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Belt/cloneprojector.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadsetAltLoudspeaker",
+      "raw_en": "ent-ClothingHeadsetAltLoudspeaker = headset\n    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Ears/headsets_alt.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Ears/headsets_alt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadsetChronolegioneerUnremoveable",
+      "raw_en": "ent-ClothingHeadsetChronolegioneerUnremoveable = futuristic over-ear headset\n    .desc = A headset from the future that can pick up most station frequencies.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Ears/headsets_alt.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Ears/headsets_alt.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingEyesHudChronoUnremoveable",
+      "raw_en": "ent-ClothingEyesHudChronoUnremoveable = futuristic visor\n    .desc = A visior from the future, capable of displaying almost anything.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Eyes/hud.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Eyes/hud.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsGlovesChronoLegioneerUnremoveable",
+      "raw_en": "ent-ClothingHandsGlovesChronoLegioneerUnremoveable = futuristic gloves\n    .desc = Futuristic gloves made of an unknown material that doesn't leave any trace",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Hands/gloves.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Hands/gloves.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsGlovesExplosiveShock",
+      "raw_en": "ent-ClothingHandsGlovesExplosiveShock = insulated gloves\n    .desc = These gloves will protect the wearer from electric shocks.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Hands/gloves.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Hands/gloves.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsGlovesDeathsquadUnremovable",
+      "raw_en": "ent-ClothingHandsGlovesDeathsquadUnremovable = mk-3 \"redactor\" power gloves\n    .desc = A pair of highly-advanced gauntlets capable of ripping open doors. Its retractable claws are laced with a potent neurotoxin.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Hands/gloves.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Hands/gloves.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsGlovesColorYellowUnremovable",
+      "raw_en": "ent-ClothingHandsGlovesColorYellowUnremovable = insulated gloves\n    .desc = These gloves will protect the wearer from electric shocks.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Hands/gloves.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Hands/gloves.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandsKnuckleDustersBase",
+      "raw_en": "ent-ClothingHandsKnuckleDustersBase = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Hands/gloves.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Hands/gloves.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHandModsuitBase",
+      "raw_en": "ent-ClothingHandModsuitBase = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Hands/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Hands/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHatPropellerFlipped",
+      "raw_en": "ent-ClothingHeadHatPropellerFlipped = propeller hat\n    .desc = Aw gee willickers!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Head/hats.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Head/hats.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingHeadHelmetBasicAlt",
+      "raw_en": "ent-ClothingHeadHelmetBasicAlt = helmet\n    .desc = Standard security gear. Protects the head from impacts.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Head/helmets.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Head/helmets.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingMaskGasChronoUnremoveable",
+      "raw_en": "ent-ClothingMaskGasChronoUnremoveable = futuristic gasmask\n    .desc = A futuristic gas mask of unknown design with an unimaginable number of filtration systems",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Masks/masks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Masks/masks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingMaskGasUnremoveable",
+      "raw_en": "ent-ClothingMaskGasUnremoveable = gas mask\n    .desc = A face-covering mask that can be connected to an air supply.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Masks/masks.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Masks/masks.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterHardsuitChronolegioneerUnremoveable",
+      "raw_en": "ent-ClothingOuterHardsuitChronolegioneerUnremoveable = futuristic hardsuit\n    .desc = A hardsuit covered in an unknown material that protects against most material and temporal damage.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/OuterClothing/hardsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/OuterClothing/hardsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingOuterModsuitBase",
+      "raw_en": "ent-ClothingOuterModsuitBase = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/OuterClothing/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/OuterClothing/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesBootsChronoUnremoveable",
+      "raw_en": "ent-ClothingShoesBootsChronoUnremoveable = futuristic boots\n    .desc = An advanced futuristic shoe that guarantees wearer comfort and full traction on any surface",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Shoes/boots.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Shoes/boots.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesColorBlackUnremoveable",
+      "raw_en": "ent-ClothingShoesColorBlackUnremoveable = black shoes\n    .desc = Stylish black shoes.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Shoes/boots.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Shoes/boots.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesModsuitBase",
+      "raw_en": "ent-ClothingShoesModsuitBase = item",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Shoes/modsuit.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Shoes/modsuit.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingShoesClownUnremoveable",
+      "raw_en": "ent-ClothingShoesClownUnremoveable = clown shoes\n    .desc = The prankster's standard-issue clowning shoes. Damn they're huge!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Shoes/specific.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Shoes/specific.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "ClothingUniformJumpsuitAncientUnremoveable",
+      "raw_en": "ent-ClothingUniformJumpsuitAncientUnremoveable = ancient jumpsuit\n    .desc = A terribly ragged and frayed grey jumpsuit. It looks like it hasn't been washed in over a decade.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Clothing/Uniforms/jumpsuits.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Clothing/Uniforms/jumpsuits.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BluespaceTeleportationEffect",
+      "raw_en": "ent-BluespaceTeleportationEffect = bluespace lifeline\n    .desc = Teleports your body to save your life!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Effects/bluespace_teleportation.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Effects/bluespace_teleportation.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PuddleSpaceLube",
+      "raw_en": "ent-PuddleSpaceLube = puddle\n    .desc = A puddle of liquid.",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Effects/puddle.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Effects/puddle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "RedspaceTeleportationEffect",
+      "raw_en": "ent-RedspaceTeleportationEffect = redspace lifeline\n    .desc = Teleports your body to save your life!",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Effects/redspace_teleportation.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Effects/redspace_teleportation.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostBinglePrime",
+      "raw_en": "ent-SpawnPointGhostBinglePrime = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/bingle.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/bingle.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostDerelictCyborgSyndicate",
+      "raw_en": "ent-SpawnPointGhostDerelictCyborgSyndicate = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/ghost_roles.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/ghost_roles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpawnPointGhostSpaceNinjaToken",
+      "raw_en": "ent-SpawnPointGhostSpaceNinjaToken = ghost role spawn point",
+      "source_yaml": "Resources/Prototypes/_Goobstation/Entities/Markers/Spawners/token.yml",
+      "target_ftl": "Resources/Locale/es-ES/_Goobstation/Entities/Markers/Spawners/token.ftl",
+      "file_exists": false
+    }
+  ]
+}

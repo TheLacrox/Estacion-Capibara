@@ -1,0 +1,356 @@
+{
+  "batch_id": "batch_0045_s1",
+  "section": 1,
+  "entries": [
+    {
+      "id": "LandMineKick",
+      "raw_en": "ent-LandMineKick = kick mine",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/land_mine.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/land_mine.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LandMineModular",
+      "raw_en": "ent-LandMineModular = modular mine\n    .desc = This bad boy could be packing any number of dangers. Or a bike horn.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/land_mine.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/land_mine.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "LandMineExplosive",
+      "raw_en": "ent-LandMineExplosive = explosive mine",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/land_mine.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/land_mine.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseWrappedCube",
+      "raw_en": "ent-BaseWrappedCube = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/monkeycube.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/monkeycube.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasePaper",
+      "raw_en": "ent-BasePaper = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PaperWritten",
+      "raw_en": "ent-PaperWritten = paper\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "NukeCodePaperStation",
+      "raw_en": "ent-NukeCodePaperStation = nuclear authentication codes\n    .desc = A piece of white paper.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/paper.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/paper.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseAdvancedPen",
+      "raw_en": "ent-BaseAdvancedPen = pen\n    .desc = A dark ink pen.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/pen.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/pen.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCash10",
+      "raw_en": "ent-SpaceCash10 = spesos\n    .desc = You gotta have money.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCash100",
+      "raw_en": "ent-SpaceCash100 = spesos\n    .desc = You gotta have money.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCash500",
+      "raw_en": "ent-SpaceCash500 = spesos\n    .desc = You gotta have money.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCash1000",
+      "raw_en": "ent-SpaceCash1000 = spesos\n    .desc = You gotta have money.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCash2500",
+      "raw_en": "ent-SpaceCash2500 = spesos\n    .desc = You gotta have money.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCash5000",
+      "raw_en": "ent-SpaceCash5000 = spesos\n    .desc = You gotta have money.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCash10000",
+      "raw_en": "ent-SpaceCash10000 = spesos\n    .desc = You gotta have money.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCash20000",
+      "raw_en": "ent-SpaceCash20000 = spesos\n    .desc = You gotta have money.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCash30000",
+      "raw_en": "ent-SpaceCash30000 = spesos\n    .desc = You gotta have money.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "SpaceCash1000000",
+      "raw_en": "ent-SpaceCash1000000 = spesos\n    .desc = You gotta have money.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/space_cash.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/space_cash.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorTileItemBase",
+      "raw_en": "ent-FloorTileItemBase = item\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/tiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorTileItemGCircuit4",
+      "raw_en": "ent-FloorTileItemGCircuit4 = green circuit floor\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/tiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorTileItemBCircuit4",
+      "raw_en": "ent-FloorTileItemBCircuit4 = blue circuit floor\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/tiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "FloorTileItemRCircuit4",
+      "raw_en": "ent-FloorTileItemRCircuit4 = red circuit floor\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/tiles.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TreasureCoinSilver",
+      "raw_en": "ent-TreasureCoinSilver = coin\n    .desc = A flat bit of metal. If it was still in circulation, inflation would've made it worthless. Since it isn't, it's worth enough to keep in a book.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/treasure.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/treasure.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TreasureCoinGold",
+      "raw_en": "ent-TreasureCoinGold = coin\n    .desc = A flat bit of metal. If it was still in circulation, inflation would've made it worthless. Since it isn't, it's worth enough to keep in a book.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/treasure.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/treasure.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TreasureCoinAdamantine",
+      "raw_en": "ent-TreasureCoinAdamantine = coin\n    .desc = A flat bit of metal. If it was still in circulation, inflation would've made it worthless. Since it isn't, it's worth enough to keep in a book.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/treasure.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/treasure.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "TreasureCoinDiamond",
+      "raw_en": "ent-TreasureCoinDiamond = coin\n    .desc = A flat bit of metal. If it was still in circulation, inflation would've made it worthless. Since it isn't, it's worth enough to keep in a book.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/treasure.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/treasure.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UtensilBase",
+      "raw_en": "ent-UtensilBase = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/utensils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/utensils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "UtensilBasePlastic",
+      "raw_en": "ent-UtensilBasePlastic = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/utensils.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Misc/utensils.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseLightbulb",
+      "raw_en": "ent-BaseLightbulb = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/lights.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BaseLightTube",
+      "raw_en": "ent-BaseLightTube = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/lights.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/lights.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasePowerCell",
+      "raw_en": "ent-BasePowerCell = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/powercells.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/powercells.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PowerCellSmallPrinted",
+      "raw_en": "ent-PowerCellSmallPrinted = small-capacity power cell\n    .desc = A rechargeable power cell. This is the cheapest kind you can find.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/powercells.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/powercells.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PowerCellMediumPrinted",
+      "raw_en": "ent-PowerCellMediumPrinted = medium-capacity power cell\n    .desc = A rechargeable power cell. This is the popular and reliable version.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/powercells.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/powercells.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PowerCellHighPrinted",
+      "raw_en": "ent-PowerCellHighPrinted = high-capacity power cell\n    .desc = A rechargeable standardized power cell. This premium brand stores up to 50% more energy than the competition.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/powercells.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/powercells.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PowerCellHyperPrinted",
+      "raw_en": "ent-PowerCellHyperPrinted = hyper-capacity power cell\n    .desc = A rechargeable standardized power cell. This iteration pushes the upper limits of portable power storage, boasting 66% more capacity than its predecessor.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/powercells.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/powercells.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PowerCellMicroreactorPrinted",
+      "raw_en": "ent-PowerCellMicroreactorPrinted = microreactor power cell\n    .desc = A rechargeable standardized microreactor cell. Has lower capacity but slowly recharges by itself.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/powercells.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/powercells.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "BasePowerCage",
+      "raw_en": "ent-BasePowerCage = item",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/powercells.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/powercells.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PowerCageSmallEmpty",
+      "raw_en": "ent-PowerCageSmallEmpty = small-capacity power cage\n    .desc = A rechargeable power cage for big devices. This is the cheapest kind you can find.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/powercells.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/powercells.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PowerCageMediumEmpty",
+      "raw_en": "ent-PowerCageMediumEmpty = medium-capacity power cage\n    .desc = A rechargeable power cage for big devices. The gold standard of capacity and cost.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/powercells.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/powercells.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "PowerCageHighEmpty",
+      "raw_en": "ent-PowerCageHighEmpty = high-capacity power cage\n    .desc = A rechargeable power cage for big devices. Increased capacity for increased power levels.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Power/powercells.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Power/powercells.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "CargoPallet",
+      "raw_en": "ent-CargoPallet = cargo pallet\n    .desc = Common fixture of logistics and cargo. Subtle reminder where crates go during transport to avoid bruised shins.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/Cargo/cargo_pallet.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/Cargo/cargo_pallet.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugCarbon",
+      "raw_en": "ent-JugCarbon = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugIodine",
+      "raw_en": "ent-JugIodine = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugFluorine",
+      "raw_en": "ent-JugFluorine = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugChlorine",
+      "raw_en": "ent-JugChlorine = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugAluminium",
+      "raw_en": "ent-JugAluminium = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugPhosphorus",
+      "raw_en": "ent-JugPhosphorus = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugSulfur",
+      "raw_en": "ent-JugSulfur = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugSilicon",
+      "raw_en": "ent-JugSilicon = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    },
+    {
+      "id": "JugHydrogen",
+      "raw_en": "ent-JugHydrogen = jug\n    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Specific/chemical-containers.yml",
+      "target_ftl": "Resources/Locale/es-ES/Entities/Objects/Specific/chemical-containers.ftl",
+      "file_exists": false
+    }
+  ]
+}

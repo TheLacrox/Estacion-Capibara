@@ -23,3 +23,4 @@ ent-PinpointerContractor = buscador del contratista
     .desc = Un rastreador portátil que apunta a tu nave y a tu objetivo. Mantenlo en posición vertical para mayor precisión.
 
 ent-PinpointerDarkLord = buscador del señor oscuro
+    .desc = Un dispositivo de rastreo portátil. Aunque normalmente es mucho más capaz, este ha sido configurado para detectar ciertas señales. Mantenlo en posición vertical para mayor precisión.

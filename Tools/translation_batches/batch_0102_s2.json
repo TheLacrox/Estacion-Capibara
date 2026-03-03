@@ -1,0 +1,306 @@
+{
+  "batch_id": "batch_0102_s2",
+  "section": 2,
+  "entries": [
+    {
+      "id": "FloorTileItemTechmaint",
+      "raw_en": "ent-FloorTileItemTechmaint =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemTechmaintDark",
+      "raw_en": "ent-FloorTileItemTechmaintDark =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemMono",
+      "raw_en": "ent-FloorTileItemMono =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemLino",
+      "raw_en": "ent-FloorTileItemLino =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemBrassFilled",
+      "raw_en": "ent-FloorTileItemBrassFilled =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemBrassReebe",
+      "raw_en": "ent-FloorTileItemBrassReebe =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemDirty",
+      "raw_en": "ent-FloorTileItemDirty =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemElevatorShaft",
+      "raw_en": "ent-FloorTileItemElevatorShaft =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemRockVault",
+      "raw_en": "ent-FloorTileItemRockVault =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemBlue",
+      "raw_en": "ent-FloorTileItemBlue =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemLime",
+      "raw_en": "ent-FloorTileItemLime =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemMining",
+      "raw_en": "ent-FloorTileItemMining =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemMiningDark",
+      "raw_en": "ent-FloorTileItemMiningDark =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemMiningLight",
+      "raw_en": "ent-FloorTileItemMiningLight =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemFreezer",
+      "raw_en": "ent-FloorTileItemFreezer =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemShowroom",
+      "raw_en": "ent-FloorTileItemShowroom =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemHydro",
+      "raw_en": "ent-FloorTileItemHydro =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemBar",
+      "raw_en": "ent-FloorTileItemBar =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemClown",
+      "raw_en": "ent-FloorTileItemClown =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemMime",
+      "raw_en": "ent-FloorTileItemMime =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemKitchen",
+      "raw_en": "ent-FloorTileItemKitchen =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemLaundry",
+      "raw_en": "ent-FloorTileItemLaundry =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemConcrete",
+      "raw_en": "ent-FloorTileItemConcrete =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemConcreteMono",
+      "raw_en": "ent-FloorTileItemConcreteMono =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemConcreteSmooth",
+      "raw_en": "ent-FloorTileItemConcreteSmooth =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemGrayConcrete",
+      "raw_en": "ent-FloorTileItemGrayConcrete =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemGrayConcreteMono",
+      "raw_en": "ent-FloorTileItemGrayConcreteMono =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemGrayConcreteSmooth",
+      "raw_en": "ent-FloorTileItemGrayConcreteSmooth =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemOldConcrete",
+      "raw_en": "ent-FloorTileItemOldConcrete =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemOldConcreteMono",
+      "raw_en": "ent-FloorTileItemOldConcreteMono =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemOldConcreteSmooth",
+      "raw_en": "ent-FloorTileItemOldConcreteSmooth =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemArcadeBlue",
+      "raw_en": "ent-FloorTileItemArcadeBlue =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemArcadeBlue2",
+      "raw_en": "ent-FloorTileItemArcadeBlue2 =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemArcadeRed",
+      "raw_en": "ent-FloorTileItemArcadeRed =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemEighties",
+      "raw_en": "ent-FloorTileItemEighties =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemCarpetClown",
+      "raw_en": "ent-FloorTileItemCarpetClown =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemCarpetOffice",
+      "raw_en": "ent-FloorTileItemCarpetOffice =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemBoxing",
+      "raw_en": "ent-FloorTileItemBoxing =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemGym",
+      "raw_en": "ent-FloorTileItemGym =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemShuttleWhite",
+      "raw_en": "ent-FloorTileItemShuttleWhite =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemShuttleBlue",
+      "raw_en": "ent-FloorTileItemShuttleBlue =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemShuttleOrange",
+      "raw_en": "ent-FloorTileItemShuttleOrange =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemShuttlePurple",
+      "raw_en": "ent-FloorTileItemShuttlePurple =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemShuttleRed",
+      "raw_en": "ent-FloorTileItemShuttleRed =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemShuttleGrey",
+      "raw_en": "ent-FloorTileItemShuttleGrey =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemShuttleBlack",
+      "raw_en": "ent-FloorTileItemShuttleBlack =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemGold",
+      "raw_en": "ent-FloorTileItemGold =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemSilver",
+      "raw_en": "ent-FloorTileItemSilver =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemGCircuit",
+      "raw_en": "ent-FloorTileItemGCircuit =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    },
+    {
+      "id": "FloorTileItemBCircuit",
+      "raw_en": "ent-FloorTileItemBCircuit =\n    .desc = The floor was meant to hold this, not you.",
+      "source_yaml": "Resources/Prototypes/Entities/Objects/Misc/tiles.yml",
+      "existing_ftl": "Resources/Locale/es-ES/_Capibara/prototypes/entities/objects/misc/tiles.ftl"
+    }
+  ]
+}

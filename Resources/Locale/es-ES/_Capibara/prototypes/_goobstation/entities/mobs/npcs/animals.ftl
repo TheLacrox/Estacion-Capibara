@@ -20,6 +20,7 @@ ent-MobHomunculus = homúnculo
     .desc = Qué bestia tan miserable...
 
 ent-MouseMenace = amenaza
+    .desc = ¡Squeak!
 
 ent-MobCorgiIanClown = Ian el payaso
     .desc = El corgi favorito de la Honkmother.

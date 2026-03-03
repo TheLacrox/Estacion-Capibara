@@ -32,7 +32,10 @@ ent-OrganXenomorphPlasmaVessel = recipiente de plasma
     .desc = Un depósito que contiene plasma concentrado y altamente activo: la principal fuente de energía y materia prima para las armas biológicas del xenomorfo.
 
 ent-OrganXenomorphPlasmaVesselLarge = recipiente de plasma grande
+    .desc = Un depósito que contiene plasma concentrado y altamente activo: la principal fuente de energía y materia prima para las armas biológicas del xenomorfo.
 
 ent-OrganXenomorphPlasmaVesselSmall = recipiente de plasma pequeño
+    .desc = Un depósito que contiene plasma concentrado y altamente activo: la principal fuente de energía y materia prima para las armas biológicas del xenomorfo.
 
 ent-OrganXenomorphPlasmaVesselTiny = recipiente de plasma diminuto
+    .desc = Un depósito que contiene plasma concentrado y altamente activo: la principal fuente de energía y materia prima para las armas biológicas del xenomorfo.
