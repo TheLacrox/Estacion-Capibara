@@ -22,39 +22,34 @@ SPDX-FileCopyrightText: 2025 Piras314 <p1r4s@proton.me>
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
-<p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://github.com/Goob-Station/Goob-Station/blob/master/Resources/Textures/Logo/logo.png" /></p>
+<p align="center"> <img alt="Capibara Station" width="880" height="300" src="https://github.com/Goob-Station/Goob-Station/blob/master/Resources/Textures/Logo/logo.png" /></p>
 
-This is a fork from the primary repo for Space Station 14 called Goob Station. To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server this is the content pack for Goob Station.
+Este es un fork de **Goob Station**, que a su vez es un fork de Space Station 14. Para evitar que se haga fork de RobustToolbox directamente, el cliente y el servidor cargan un paquete de contenido ("content pack"). Este repositorio contiene el paquete de contenido de **Capibara Station**.
 
-If you want to host or create content for SS14, go to the [Space Station 14 repository](https://github.com/space-wizards/space-station-14) as it contains both RobustToolbox and the content pack for development of new content packs and is the base for your fork.
+Si quieres montar un servidor o crear contenido para SS14, visita el [repositorio de Space Station 14](https://github.com/space-wizards/space-station-14), que incluye tanto RobustToolbox como el paquete de contenido base para el desarrollo de nuevos forks.
 
-## Links
+## Construcción del proyecto
 
-[Goob Station Discord Server](https://discord.gg/goobstation) | [Goob Station Development Discord Server](https://discord.gg/zXk2cyhzPN) | [Goob Station Forum](https://forums.goobstation.com/) | [Goob Station Website](https://goobstation.com)
+1. Clona este repositorio.
+2. Ejecuta `RUN_THIS.py` para inicializar los submódulos y descargar el motor.
+3. Compila la solución.
 
-## Documentation/Wiki
+```bash
+dotnet build
+```
 
-The Goob Station [docs site](https://docs.goobstation.com/) has documentation on GS14's content, engine, game design, and more. It also has lots of resources for new contributors to the project.
+Para más detalles, consulta la [documentación de Goob Station](https://docs.goobstation.com/en/general-development/setup.html).
 
-## Contributing
+## Contribuir
 
-We are happy to accept contributions from anybody. Get in [Development Discord Server](https://discord.gg/zXk2cyhzPN) if you want to help. Feel free to check the [list of issues](https://github.com/Goob-Station/Goob-Station/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!
-While following the [Space Station 14 contribution guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html) is not mandatory for Goob Station, we recommend reviewing them for best practices.
+¡Aceptamos contribuciones de cualquier persona! Si quieres ayudar, únete a nuestra comunidad. Puedes revisar la lista de issues pendientes y tomar cualquiera que te interese. No dudes en pedir ayuda.
 
-We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language consider creating a fork or contributing to a fork.
+Aunque no es obligatorio, recomendamos revisar las [guías de contribución de Space Station 14](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html) como referencia de buenas prácticas.
 
-## Building
+## Licencia
 
-1. Clone this repo.
-2. Run `RUN_THIS.py` to init submodules and download the engine.
-3. Compile the solution.
+Todo el código en este repositorio se distribuye bajo la licencia **AGPL-3.0-or-later**. Cada archivo incluye cabeceras de especificación REUSE o archivos `.license` separados que especifican una opción de doble licencia. Puedes revisar los textos completos de estas licencias en el directorio `LICENSES/`.
 
-[More detailed instructions on building the project.](https://docs.goobstation.com/en/general-development/setup.html)
+La mayoría de los recursos multimedia están licenciados bajo [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) salvo que se indique lo contrario. Los recursos incluyen su licencia y copyright en el archivo de metadatos. [Ejemplo](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
-## License
-
-All code in this codebase is released under the AGPL-3.0-or-later license. Each file includes REUSE Specification headers or separate .license files that specify a dual license option. This dual licensing is provided to simplify the process for projects that are not using AGPL, allowing them to adopt the relevant portions of the code under an alternative license. You can review the complete texts of these licenses in the LICENSES/ directory.
-
-Most media assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless stated otherwise. Assets have their license and the copyright in the metadata file. [Example](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
-
-Note that some assets are licensed under the non-commercial [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) or similar non-commercial licenses and will need to be removed if you wish to use this project commercially.
+Ten en cuenta que algunos recursos están licenciados bajo la licencia no comercial [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) o licencias similares, y deberán eliminarse si deseas utilizar este proyecto con fines comerciales.
