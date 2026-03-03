@@ -156,6 +156,11 @@ public sealed class SurveillanceCameraMonitorSystem : EntitySystem
         {
             if (monitor.KnownMobileCameras.Count > 0)
             {
+                // Ensure LastHeartbeatSent is incremented even when no active camera is being watched,
+                // otherwise SendHeartbeat always returns early (LastHeartbeatSent < HeartbeatDelay).
+                if (!HasComp<ActiveSurveillanceCameraMonitorComponent>(uid))
+                    monitor.LastHeartbeatSent += frameTime;
+
                 // Collect expired cameras and cache their entity references
                 var expiredCameras = new Dictionary<string, EntityUid>();
 

@@ -25,19 +25,17 @@ public sealed class AntagMultipleRoleSpawnerSystem : EntitySystem
 
     private void OnSelectEntity(Entity<AntagMultipleRoleSpawnerComponent> ent, ref AntagSelectEntityEvent args)
     {
-        // In Hispania, AntagSelectEntityEvent doesn't have AntagRoles.
-        // We get the role from the game rule's definitions instead.
-        var defs = args.GameRule.Comp.Definitions;
-        if (defs.Count == 0)
+        if (args.AntagRoles.Count != 1)
+        {
+            _sawmill.Fatal($"Antag multiple role spawner had more than one antag ({args.AntagRoles.Count})");
             return;
+        }
 
-        // Use the first definition's first PrefRole as the antag role key.
-        if (defs[0].PrefRoles.Count == 0)
-            return;
+        var role = args.AntagRoles[0];
 
-        var role = defs[0].PrefRoles[0];
+        var entProtos = ent.Comp.AntagRoleToPrototypes[role];
 
-        if (!ent.Comp.AntagRoleToPrototypes.TryGetValue(role, out var entProtos) || entProtos.Count == 0)
+        if (entProtos.Count == 0)
             return;
 
         args.Entity = Spawn(ent.Comp.PickAndTake ? _random.PickAndTake(entProtos) : _random.Pick(entProtos));

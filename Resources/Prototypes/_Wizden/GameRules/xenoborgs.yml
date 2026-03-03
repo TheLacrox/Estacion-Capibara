@@ -14,7 +14,7 @@
   id: Xenoborgs
   components:
   - type: GameRule
-    minPlayers: 30
+    minPlayers: 2
   - type: AntagMultipleRoleSpawner
     antagRoleToPrototypes:
       MothershipCore: [ MothershipCore ]
@@ -41,7 +41,7 @@
   id: SubXenoborgs
   components:
   - type: GameRule
-    minPlayers: 30
+    minPlayers: 2
     cancelPresetOnTooFewPlayers: false
   - type: AntagMultipleRoleSpawner
     antagRoleToPrototypes:
