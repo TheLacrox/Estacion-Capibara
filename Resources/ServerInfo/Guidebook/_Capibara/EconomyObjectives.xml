@@ -1,0 +1,47 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Objetivos de Estación y Salarios
+
+## Objetivos de Estación
+
+Cada turno, la estación recibe un conjunto de [color=#FFD700]objetivos[/color] que la tripulación debe completar de forma cooperativa. Se anuncian al inicio de la ronda y pueden incluir desde tareas de producción hasta metas departamentales.
+
+Los objetivos requieren [color=cyan]trabajo en equipo[/color] entre departamentos — están diseñados para darle propósito a la tripulación y fomentar la colaboración.
+
+## El Límite de 30 Minutos
+
+La tripulación tiene [color=#CC0000]30 minutos[/color] desde el inicio del turno para completar todos los objetivos de la estación.
+
+Si el límite de tiempo se cumple y quedan objetivos sin completar:
+
+- [color=#CC0000]Todos los pagos de salarios se congelan inmediatamente.[/color]
+- Se transmite un anuncio a toda la estación informando a la tripulación.
+- La [textlink="Consola de Gestión de Salarios" link="CapibaraEconomySalaryConsole"] mostrará el estado [color=#CC0000]CONGELADO[/color].
+- Ningún tripulante recibirá sus pagos de ciclo salarial.
+
+## Restauración de Salarios
+
+Los salarios se [color=#00CC00]restauran automáticamente[/color] cuando se completan todos los objetivos, incluso después del límite de tiempo:
+
+- Un anuncio a toda la estación confirma la restauración.
+- Los pagos de salarios se reanudan en el siguiente ciclo.
+- No se pagan los ciclos perdidos retroactivamente.
+
+## Consejos
+
+- [color=yellow]¡Prioriza los objetivos desde el principio![/color] No esperes a que se acerque el límite de tiempo.
+- Revisa la lista de objetivos y coordínate con otros departamentos.
+- El personal de Comando debe usar la [textlink="Consola de Salarios" link="CapibaraEconomySalaryConsole"] para monitorear el estado de la nómina.
+- Incluso después de que los salarios se congelen, completar todos los objetivos los restaurará — nunca es demasiado tarde.
+
+## Impacto en la Economía
+
+Los salarios congelados afectan toda la economía de la estación:
+- Los tripulantes dejan de recibir ingresos.
+- Las máquinas expendedoras siguen cobrando, así que las reservas de efectivo se vuelven importantes.
+- Usa los [textlink="cajeros automáticos" link="CapibaraEconomyATM"] para retirar ahorros antes de que llegue un congelamiento.
+</Document>

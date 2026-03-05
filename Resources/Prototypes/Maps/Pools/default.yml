@@ -52,8 +52,9 @@
 - type: gameMapPool
   id: DefaultMapPool
   maps:
-  - Cluster
+  #- Cluster
   #- Atlas
+  - AtlasUpgraded
   #- Amber
   #- Bagel
   #- Box

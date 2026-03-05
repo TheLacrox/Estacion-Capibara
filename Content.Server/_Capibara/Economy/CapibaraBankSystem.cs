@@ -8,6 +8,7 @@ using Content.Shared.Access.Components;
 using Content.Shared.GameTicking;
 using Content.Shared.Inventory;
 using Content.Shared.PDA;
+using Content.Shared.Station.Components;
 using Robust.Shared.Prototypes;
 
 namespace Content.Server._Capibara.Economy;
@@ -32,6 +33,7 @@ public sealed partial class CapibaraBankSystem : SharedCapibaraBankSystem
         SubscribeLocalEvent<PlayerSpawnCompleteEvent>(OnPlayerSpawnComplete);
 
         InitializeATM();
+        InitializeSalaryConsole();
     }
 
     /// <summary>
@@ -45,13 +47,39 @@ public sealed partial class CapibaraBankSystem : SharedCapibaraBankSystem
 
         var bank = EnsureComp<BankAccountComponent>(idCard.Value);
 
+        // Assign unique AccountId from the station's payroll counter
+        if (bank.AccountId == 0)
+        {
+            var payroll = EnsureStationPayroll(ev.Station);
+            if (payroll != null)
+            {
+                bank.AccountId = payroll.NextAccountId++;
+            }
+        }
+
         // Look up starting balance from salary prototype
         var startingBalance = GetStartingBalance(ev.JobId);
         bank.Balance = startingBalance;
         Dirty(idCard.Value, bank);
 
         var cardName = TryComp<IdCardComponent>(idCard.Value, out var card) ? card.FullName : "Unknown";
-        _log.Info($"Bank account created for {cardName} (job: {ev.JobId}) with {startingBalance} Spesos.");
+        _log.Info($"Bank account created for {cardName} (job: {ev.JobId}) id:{bank.AccountId} with {startingBalance} Spesos.");
+    }
+
+    /// <summary>
+    /// Ensure a StationPayrollComponent exists on the given station, or find the first station.
+    /// </summary>
+    private StationPayrollComponent? EnsureStationPayroll(EntityUid? station)
+    {
+        if (station != null && HasComp<StationDataComponent>(station.Value))
+            return EnsureComp<StationPayrollComponent>(station.Value);
+
+        // Fallback: find any station
+        var query = EntityQueryEnumerator<StationDataComponent>();
+        if (query.MoveNext(out var stationUid, out _))
+            return EnsureComp<StationPayrollComponent>(stationUid);
+
+        return null;
     }
 
     /// <summary>

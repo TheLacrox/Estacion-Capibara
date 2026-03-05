@@ -20,7 +20,7 @@ culture_name = "es-ES"
 # Straight in-game baby
 lobbyenabled = true
 # Dev map for faster loading & convenience
-map = "Dev"
+map = "Packed"
 role_timers = false
 
 [events]

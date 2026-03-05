@@ -1,0 +1,45 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Sistema Económico
+
+Capibara Station cuenta con un sistema económico completo. Cada miembro de la tripulación recibe una [color=#FFD700]cuenta bancaria[/color] al unirse al turno, cargada con un saldo inicial de [color=#FFD700]Spesos[/color] — la moneda oficial de la estación.
+
+## Cómo Funciona
+
+- Al unirte a la estación, se crea automáticamente una cuenta bancaria en tu [color=cyan]tarjeta de ID[/color].
+- Tu saldo inicial depende de tu trabajo. Los cargos de mayor rango reciben más.
+- Cada [color=#FFD700]10 minutos[/color], recibes un pago de salario depositado directamente en tu cuenta.
+- Puedes gastar Spesos en [color=cyan]máquinas expendedoras[/color] que cobran por artículos, o comerciar con otros tripulantes usando efectivo.
+
+## Efectivo y Dinero Digital
+
+Tu saldo bancario es digital — almacenado en tu ID. Para usar efectivo físico:
+
+- Visita un [textlink="Cajero Automático" link="CapibaraEconomyATM"] para retirar Spesos en billetes físicos.
+- Puedes depositar efectivo en cualquier cajero automático.
+- Algunas transacciones requieren efectivo en mano, otras usan el saldo de tu tarjeta automáticamente.
+
+<Box>
+<GuideEntityEmbed Entity="CapibaraATM" Caption="Cajero Automático"/>
+<GuideEntityEmbed Entity="CapibaraSalaryConsole" Caption="Consola de Salarios"/>
+</Box>
+
+## Niveles de Salario
+
+Los salarios varían según el rol y la responsabilidad:
+
+[color=#5b97f0]Comando[/color] (Capitán, Jefes): [color=#FFD700]150–200 Sp/ciclo[/color]
+[color=#CB0000]Seguridad[/color] (Custodio, Oficiales): [color=#FFD700]90–100 Sp/ciclo[/color]
+[color=#f39c12]Ingeniería[/color] (Ingenieros, Atmosféricos): [color=#FFD700]80 Sp/ciclo[/color]
+[color=#52b4d9]Médico[/color] (Doctores, Químicos): [color=#FFD700]80 Sp/ciclo[/color]
+[color=#d381c9]Ciencia[/color] (Científicos): [color=#FFD700]80 Sp/ciclo[/color]
+[color=#cb7a28]Carga[/color] (Técnicos, Salvamento): [color=#FFD700]70 Sp/ciclo[/color]
+[color=#9fed58]Servicio[/color] (Barman, Chef, etc.): [color=#FFD700]40–70 Sp/ciclo[/color]
+[color=#888888]Civil[/color] (Pasajero, Payaso, etc.): [color=#FFD700]20–40 Sp/ciclo[/color]
+
+El Jefe de Personal o el Capitán pueden modificar salarios individuales usando la [textlink="Consola de Gestión de Salarios" link="CapibaraEconomySalaryConsole"].
+</Document>

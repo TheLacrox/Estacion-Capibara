@@ -70,3 +70,52 @@
         acts: [ "Destruction" ]
   - type: Repairable
     doAfterDelay: 8
+
+- type: entity
+  id: CapibaraSalaryConsole
+  parent: BaseComputerAiAccess
+  name: salary management console
+  description: A console for managing crew salaries. Requires HOP or Captain authorization.
+  components:
+  - type: SalaryConsole
+    privilegedIdSlot:
+      name: capibara-salary-console-id-slot
+      ejectSound: /Audio/Machines/id_swipe.ogg
+      insertSound: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
+      ejectOnBreak: true
+      swap: false
+      whitelist:
+        components:
+        - IdCard
+        - Pda
+  - type: ItemSlots
+  - type: ContainerContainer
+    containers:
+      board: !type:Container
+      SalaryConsole-privilegedId: !type:ContainerSlot {}
+  - type: AccessReader
+    access: [["HeadOfPersonnel"], ["Captain"]]
+  - type: Sprite
+    layers:
+    - map: ["computerLayerBody"]
+      state: computer
+    - map: ["computerLayerKeyboard"]
+      state: generic_keyboard
+    - map: ["computerLayerScreen"]
+      state: id
+    - map: ["computerLayerKeys"]
+      state: id_key
+    - map: [ "enum.WiresVisualLayers.MaintenancePanel" ]
+      state: generic_panel_open
+  - type: PointLight
+    radius: 1.5
+    energy: 1.6
+    color: "#3c5eb5"
+  - type: ActivatableUI
+    key: enum.SalaryConsoleUiKey.Key
+    singleUser: true
+  - type: ActivatableUIRequiresPower
+  - type: UserInterface
+    interfaces:
+      enum.SalaryConsoleUiKey.Key:
+        type: SalaryConsoleBoundUserInterface

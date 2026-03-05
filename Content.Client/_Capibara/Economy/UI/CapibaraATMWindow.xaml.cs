@@ -35,19 +35,33 @@ public sealed partial class CapibaraATMWindow : FancyWindow
 
     public void UpdateState(CapibaraATMState state)
     {
+        // Account header
         if (!state.HasIdInserted)
+        {
             AccountLabel.Text = Loc.GetString("capibara-atm-no-id");
+            AccountLabel.FontColorOverride = Color.FromHex("#888888");
+        }
         else
+        {
             AccountLabel.Text = state.AccountName ?? "";
+            AccountLabel.FontColorOverride = Color.FromHex("#00CC00");
+        }
+
+        // Balance in header row
         BalanceLabel.Text = $"{state.Balance} Sp";
+        BalanceLabel.FontColorOverride = state.Balance > 0
+            ? Color.FromHex("#00CC00")
+            : Color.FromHex("#888888");
+
+        // Big balance display
+        BalanceBigLabel.Text = $"{state.Balance} Sp";
 
         // Toggle Insert/Eject button visibility
         InsertButton.Visible = !state.HasIdInserted;
         EjectButton.Visible = state.HasIdInserted;
 
-        // Show create account UI when card has no bank account
-        CreateAccountButton.Visible = state.HasIdButNoAccount;
-        NoAccountLabel.Visible = state.HasIdButNoAccount;
+        // Show create account panel when card has no bank account
+        NoAccountPanel.Visible = state.HasIdButNoAccount;
 
         // Disable operations when no ID is inserted or account not found
         WithdrawButton.Disabled = !state.Enabled;

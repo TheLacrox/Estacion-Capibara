@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: stationObjectiveGroup
+  id: DefaultStationObjectives
+  minObjectives: 2
+  maxObjectives: 3
+  objectives:
+  - objectiveId: ProduceTenGigawatts
+    weight: 1.0
+  - objectiveId: CargoExportCredits
+    weight: 1.0
+  - objectiveId: ResearchPointGoal
+    weight: 1.0
+  - objectiveId: BotanyHarvestGoal
+    weight: 1.0

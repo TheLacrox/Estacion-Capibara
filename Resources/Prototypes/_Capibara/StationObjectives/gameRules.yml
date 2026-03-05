@@ -1,0 +1,11 @@
+# SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: entity
+  id: StationObjectivesRule
+  parent: BaseGameRule
+  components:
+  - type: GameRule
+  - type: StationObjectivesRule
+    objectiveGroup: DefaultStationObjectives
+    checkInterval: 30

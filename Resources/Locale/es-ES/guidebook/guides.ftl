@@ -253,3 +253,9 @@ guide-entry-rules-ban-durations = Duración de Bans
 
 guide-entry-writing = Escritura
 guide-entry-glossary = Glosario
+
+## Capibara Economía
+guide-entry-capibara-economy = Economía
+guide-entry-capibara-economy-atm = Cajero Automático (ATM)
+guide-entry-capibara-economy-salary-console = Consola de Gestión de Salarios
+guide-entry-capibara-economy-objectives = Objetivos de Estación y Salarios

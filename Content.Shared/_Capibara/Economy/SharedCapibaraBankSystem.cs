@@ -20,6 +20,9 @@ public abstract partial class SharedCapibaraBankSystem : EntitySystem
 
         SubscribeLocalEvent<CapibaraATMComponent, ComponentInit>(OnATMInit);
         SubscribeLocalEvent<CapibaraATMComponent, ComponentRemove>(OnATMRemove);
+
+        SubscribeLocalEvent<SalaryConsoleComponent, ComponentInit>(OnSalaryConsoleInit);
+        SubscribeLocalEvent<SalaryConsoleComponent, ComponentRemove>(OnSalaryConsoleRemove);
     }
 
     private void OnATMInit(EntityUid uid, CapibaraATMComponent comp, ComponentInit args)
@@ -30,5 +33,15 @@ public abstract partial class SharedCapibaraBankSystem : EntitySystem
     private void OnATMRemove(EntityUid uid, CapibaraATMComponent comp, ComponentRemove args)
     {
         _itemSlotsSystem.RemoveItemSlot(uid, comp.IdSlot);
+    }
+
+    private void OnSalaryConsoleInit(EntityUid uid, SalaryConsoleComponent comp, ComponentInit args)
+    {
+        _itemSlotsSystem.AddItemSlot(uid, SalaryConsoleComponent.PrivilegedIdSlotId, comp.PrivilegedIdSlot);
+    }
+
+    private void OnSalaryConsoleRemove(EntityUid uid, SalaryConsoleComponent comp, ComponentRemove args)
+    {
+        _itemSlotsSystem.RemoveItemSlot(uid, comp.PrivilegedIdSlot);
     }
 }

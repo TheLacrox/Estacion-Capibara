@@ -7,10 +7,12 @@ using Content.Shared._Capibara.Economy.Components;
 using Content.Shared.Access.Components;
 using Content.Server.GameTicking.Events;
 using Content.Shared.Mobs.Components;
+using Content.Shared.Station.Components;
 using Robust.Server.Player;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
+
 namespace Content.Server._Capibara.Economy;
 
 using CancellationTokenSource = System.Threading.CancellationTokenSource;
@@ -67,15 +69,30 @@ public sealed class CapibaraPayrollSystem : EntitySystem
 
     private void PayAllEmployees()
     {
+        // Collect all station payroll components for freeze/override checks
+        var payrolls = new Dictionary<EntityUid, StationPayrollComponent>();
+        var payrollQuery = EntityQueryEnumerator<StationPayrollComponent, StationDataComponent>();
+        while (payrollQuery.MoveNext(out var stUid, out var sp, out _))
+        {
+            payrolls[stUid] = sp;
+        }
+
         var count = 0;
 
         // Iterate over all entities with BankAccountComponent and IdCardComponent (ID cards)
-        var query = EntityQueryEnumerator<BankAccountComponent, IdCardComponent>();
-        while (query.MoveNext(out var idCardUid, out var bank, out var idCard))
+        var query = EntityQueryEnumerator<BankAccountComponent, IdCardComponent, TransformComponent>();
+        while (query.MoveNext(out var idCardUid, out var bank, out var idCard, out var xform))
         {
-            // Look up salary based on job
+            // Find station for this entity
+            var payroll = GetPayrollForEntity(xform, payrolls);
+
+            // Check freeze
+            if (payroll is { SalariesFrozen: true })
+                continue;
+
+            // Look up salary — check override first, then fall back to job-based
             var jobId = idCard.JobPrototype?.Id;
-            var salary = _bankSystem.GetSalary(jobId);
+            var salary = _bankSystem.GetSalaryForAccount(bank.AccountId, jobId, payroll);
 
             if (salary <= 0)
                 continue;
@@ -91,6 +108,17 @@ public sealed class CapibaraPayrollSystem : EntitySystem
 
         if (count > 0)
             _log.Info($"Payroll: Paid {count} employees.");
+    }
+
+    private StationPayrollComponent? GetPayrollForEntity(TransformComponent xform, Dictionary<EntityUid, StationPayrollComponent> payrolls)
+    {
+        if (xform.GridUid == null)
+            return null;
+
+        if (!TryComp<StationMemberComponent>(xform.GridUid, out var member))
+            return null;
+
+        return payrolls.GetValueOrDefault(member.Station);
     }
 
     private void NotifyPlayer(EntityUid idCardUid, int salary, int newBalance)
