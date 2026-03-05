@@ -1,0 +1,48 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Consola de Gestión de Salarios
+
+<Box>
+<GuideEntityEmbed Entity="CapibaraSalaryConsole"/>
+</Box>
+
+La Consola de Gestión de Salarios permite al [color=#5b97f0]Jefe de Personal[/color] o al [color=#5b97f0]Capitán[/color] ver a todos los miembros de la tripulación y ajustar salarios individuales.
+
+## Acceso
+
+Esta consola requiere [color=#CC0000]autorización de JdP o Capitán[/color]. Inserta tu tarjeta de ID o PDA para autenticarte.
+
+## Funciones
+
+- [color=cyan]Ver a toda la tripulación[/color] organizada por departamento con secciones desplegables.
+- Ver el [color=#FFD700]nombre[/color], [color=#FFD700]cargo[/color], [color=#FFD700]salario actual[/color] y [color=#FFD700]saldo bancario[/color] de cada empleado.
+- [color=cyan]Establecer salarios personalizados[/color] para tripulantes individuales escribiendo una nueva cantidad y haciendo clic en "Fijar".
+- Los salarios modificados se marcan con un [color=#FFCC00]asterisco amarillo (*)[/color].
+- El tripulante afectado recibe un [color=cyan]mensaje de notificación[/color] cuando se cambia su salario.
+
+## Grupos por Departamento
+
+Los empleados están ordenados por departamento:
+- Haz clic en el encabezado de un departamento para [color=cyan]expandirlo o colapsarlo[/color].
+- Cada departamento muestra el [color=#FFD700]costo total de salarios por ciclo[/color] y la cantidad de empleados.
+- Los departamentos sin tripulantes se ocultan automáticamente.
+
+## Estado de Nómina
+
+La consola muestra si el sistema de nóminas está [color=#00CC00]Activo[/color] o [color=#CC0000]Congelado[/color].
+
+Cuando los salarios están congelados (por no completar los [textlink="objetivos de estación" link="CapibaraEconomyObjectives"]), aparece un banner de advertencia rojo y no se procesan pagos hasta que se cumplan los objetivos.
+
+## Ejemplo de Uso
+
+1. Inserta tu ID de JdP/Capitán.
+2. Expande el departamento que quieras revisar.
+3. Busca al tripulante que deseas ajustar.
+4. Escribe la nueva cantidad de salario en el campo junto a su nombre.
+5. Haz clic en [color=cyan]Fijar[/color].
+6. Expulsa tu ID cuando termines.
+</Document>

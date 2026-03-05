@@ -14,6 +14,12 @@ namespace Content.Shared._Capibara.Economy.Components;
 public sealed partial class BankAccountComponent : Component
 {
     /// <summary>
+    /// Unique account identifier, assigned at creation time.
+    /// </summary>
+    [DataField, AutoNetworkedField]
+    public int AccountId;
+
+    /// <summary>
     /// Current balance in Spesos.
     /// </summary>
     [DataField, AutoNetworkedField]

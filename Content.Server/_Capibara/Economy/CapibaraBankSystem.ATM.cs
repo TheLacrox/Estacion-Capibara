@@ -6,6 +6,7 @@ using Content.Server.Stack;
 using Content.Shared._Capibara.Economy;
 using Content.Shared._Capibara.Economy.Components;
 using Content.Shared.Access.Components;
+using Content.Shared.Interaction;
 using Content.Shared.Cargo.Components;
 using Content.Shared.Containers.ItemSlots;
 using Content.Shared.Hands.EntitySystems;
@@ -45,6 +46,7 @@ public sealed partial class CapibaraBankSystem
 
         SubscribeLocalEvent<CapibaraATMComponent, EntInsertedIntoContainerMessage>(OnATMItemInserted);
         SubscribeLocalEvent<CapibaraATMComponent, EntRemovedFromContainerMessage>(OnATMItemRemoved);
+        SubscribeLocalEvent<CapibaraATMComponent, InteractUsingEvent>(OnATMInteractUsing);
     }
 
     /// <summary>
@@ -224,37 +226,82 @@ public sealed partial class CapibaraBankSystem
         var player = args.Actor;
         var idCard = GetIdCardFromSlot(comp);
 
-        if (idCard == null || !TryComp<BankAccountComponent>(idCard.Value, out var bank))
+        if (idCard == null || !TryComp<BankAccountComponent>(idCard.Value, out _))
         {
             _audio.PlayPvs(comp.ErrorSound, uid);
             _popup.PopupEntity(Loc.GetString("capibara-atm-no-id"), uid, player);
             return;
         }
 
-        // Check what the player is holding in their active hand
-        var heldEntity = _hands.GetActiveItem(player);
-        if (heldEntity == null)
+        // Collect all cash from both hands
+        var cashEntities = new List<(EntityUid Entity, int Amount)>();
+        var totalAmount = 0;
+
+        foreach (var held in _hands.EnumerateHeld(player))
+        {
+            if (!HasComp<CashComponent>(held) || !TryComp<StackComponent>(held, out var stack))
+                continue;
+
+            if (stack.Count <= 0)
+                continue;
+
+            cashEntities.Add((held, stack.Count));
+            totalAmount += stack.Count;
+        }
+
+        if (totalAmount <= 0)
         {
             _audio.PlayPvs(comp.ErrorSound, uid);
             _popup.PopupEntity(Loc.GetString("capibara-atm-no-cash"), uid, player);
             return;
         }
 
-        // Verify it's cash (has CashComponent and StackComponent)
-        if (!HasComp<CashComponent>(heldEntity.Value) || !TryComp<StackComponent>(heldEntity.Value, out var stack))
+        if (!TryDeposit(idCard.Value, totalAmount, out var newBalance))
         {
             _audio.PlayPvs(comp.ErrorSound, uid);
-            _popup.PopupEntity(Loc.GetString("capibara-atm-no-cash"), uid, player);
+            return;
+        }
+
+        // Delete all collected cash entities
+        foreach (var (entity, _) in cashEntities)
+        {
+            QueueDel(entity);
+        }
+
+        _audio.PlayPvs(comp.ConfirmSound, uid);
+        _popup.PopupEntity(Loc.GetString("capibara-atm-deposit-success", ("amount", totalAmount)), uid, player);
+
+        UpdateATMUiState(uid, comp);
+
+        var depositName = TryComp<IdCardComponent>(idCard.Value, out var depositCard) ? depositCard.FullName : "Unknown";
+        _log.Info($"ATM deposit: {depositName} deposited {totalAmount} Spesos from {cashEntities.Count} stack(s). New balance: {newBalance}");
+    }
+
+    /// <summary>
+    /// Handles clicking on the ATM with cash in hand — deposits it directly.
+    /// </summary>
+    private void OnATMInteractUsing(EntityUid uid, CapibaraATMComponent comp, InteractUsingEvent args)
+    {
+        if (args.Handled)
+            return;
+
+        // Only handle cash items
+        if (!HasComp<CashComponent>(args.Used) || !TryComp<StackComponent>(args.Used, out var stack))
+            return;
+
+        args.Handled = true;
+
+        var idCard = GetIdCardFromSlot(comp);
+        if (idCard == null || !TryComp<BankAccountComponent>(idCard.Value, out _))
+        {
+            _audio.PlayPvs(comp.ErrorSound, uid);
+            _popup.PopupEntity(Loc.GetString("capibara-atm-no-id"), uid, args.User);
             return;
         }
 
         var amount = stack.Count;
         if (amount <= 0)
-        {
-            _audio.PlayPvs(comp.ErrorSound, uid);
-            _popup.PopupEntity(Loc.GetString("capibara-atm-no-cash"), uid, player);
             return;
-        }
 
         if (!TryDeposit(idCard.Value, amount, out var newBalance))
         {
@@ -262,16 +309,14 @@ public sealed partial class CapibaraBankSystem
             return;
         }
 
-        // Delete the cash from the player's hand
-        QueueDel(heldEntity.Value);
+        QueueDel(args.Used);
 
         _audio.PlayPvs(comp.ConfirmSound, uid);
-        _popup.PopupEntity(Loc.GetString("capibara-atm-deposit-success", ("amount", amount)), uid, player);
+        _popup.PopupEntity(Loc.GetString("capibara-atm-deposit-success", ("amount", amount)), uid, args.User);
 
-        // Update the ATM UI
         UpdateATMUiState(uid, comp);
 
         var depositName = TryComp<IdCardComponent>(idCard.Value, out var depositCard) ? depositCard.FullName : "Unknown";
-        _log.Info($"ATM deposit: {depositName} deposited {amount} Spesos. New balance: {newBalance}");
+        _log.Info($"ATM deposit (click): {depositName} deposited {amount} Spesos. New balance: {newBalance}");
     }
 }

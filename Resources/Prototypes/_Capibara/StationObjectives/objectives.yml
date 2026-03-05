@@ -1,0 +1,35 @@
+# SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: stationObjective
+  id: ProduceTenGigawatts
+  name: station-objective-power-production-name
+  description: station-objective-power-production-desc
+  conditionType: PowerProductionCondition
+  parameters:
+    targetWatts: 10000000000
+    durationSeconds: 60
+
+- type: stationObjective
+  id: CargoExportCredits
+  name: station-objective-cargo-export-name
+  description: station-objective-cargo-export-desc
+  conditionType: CargoExportCondition
+  parameters:
+    targetCredits: 50000
+
+- type: stationObjective
+  id: ResearchPointGoal
+  name: station-objective-research-points-name
+  description: station-objective-research-points-desc
+  conditionType: ResearchPointsCondition
+  parameters:
+    targetPoints: 25000
+
+- type: stationObjective
+  id: BotanyHarvestGoal
+  name: station-objective-botany-harvest-name
+  description: station-objective-botany-harvest-desc
+  conditionType: BotanyHarvestCondition
+  parameters:
+    targetHarvests: 30

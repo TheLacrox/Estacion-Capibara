@@ -18,7 +18,6 @@ stack-xenoborg-circuit = xenoborg {$amount ->
 
 # Tiles
 tiles-xenoborg-floor = xenoborg tile
-stack-xenoborg = xenoborg tile
 
 # Construction graph
 construction-graph-tag-core-pinpointer-piece = Pinpointer piece

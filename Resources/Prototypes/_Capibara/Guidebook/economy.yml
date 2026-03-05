@@ -1,0 +1,26 @@
+# SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: guideEntry
+  id: CapibaraEconomy
+  name: guide-entry-capibara-economy
+  text: "/ServerInfo/Guidebook/_Capibara/Economy.xml"
+  children:
+  - CapibaraEconomyATM
+  - CapibaraEconomySalaryConsole
+  - CapibaraEconomyObjectives
+
+- type: guideEntry
+  id: CapibaraEconomyATM
+  name: guide-entry-capibara-economy-atm
+  text: "/ServerInfo/Guidebook/_Capibara/EconomyATM.xml"
+
+- type: guideEntry
+  id: CapibaraEconomySalaryConsole
+  name: guide-entry-capibara-economy-salary-console
+  text: "/ServerInfo/Guidebook/_Capibara/EconomySalaryConsole.xml"
+
+- type: guideEntry
+  id: CapibaraEconomyObjectives
+  name: guide-entry-capibara-economy-objectives
+  text: "/ServerInfo/Guidebook/_Capibara/EconomyObjectives.xml"

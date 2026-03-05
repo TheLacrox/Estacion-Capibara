@@ -67,6 +67,7 @@ using Robust.Shared.Timing;
 using Content.Shared.Administration.Logs;
 using Content.Shared.Containers.ItemSlots;
 using Content.Shared.Database;
+using Content.Shared._Capibara.StationObjectives.Events;
 using Content.Shared.Labels.Components;
 
 namespace Content.Server.Botany.Systems;
@@ -764,6 +765,10 @@ public sealed class PlantHolderSystem : EntitySystem
 
             _botany.Harvest(component.Seed, user, component.YieldMod);
             AfterHarvest(plantholder, component);
+
+            var harvestEv = new PlantHarvestedEvent(plantholder, user);
+            RaiseLocalEvent(ref harvestEv);
+
             return true;
         }
 

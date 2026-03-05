@@ -1,0 +1,41 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Cajero Automático (ATM)
+
+<Box>
+<GuideEntityEmbed Entity="CapibaraATM"/>
+</Box>
+
+El cajero automático te permite gestionar tu cuenta bancaria: consultar tu saldo, retirar efectivo y depositar dinero.
+
+## Uso del Cajero
+
+1. [color=cyan]Inserta tu ID[/color] — Haz clic en el botón "Insertar ID". Tu PDA o tarjeta de ID se colocará en la máquina.
+2. Se mostrará tu [color=#FFD700]número de cuenta[/color] y tu [color=#FFD700]saldo[/color].
+3. Usa la interfaz para retirar o depositar.
+4. [color=cyan]Expulsa tu ID[/color] cuando termines.
+
+## Retirar Efectivo
+
+- Ingresa una cantidad o usa los botones rápidos ([color=#FFD700]10[/color], [color=#FFD700]50[/color], [color=#FFD700]100[/color], [color=#FFD700]500[/color]).
+- Haz clic en [color=cyan]Retirar[/color]. Los billetes de Spesos aparecerán en tu mano.
+- No puedes retirar más de tu saldo disponible.
+
+## Depositar Efectivo
+
+Hay dos formas de depositar dinero:
+
+[bold]Método 1:[/bold] Haz clic en el botón [color=cyan]Depositar Todo el Efectivo en Manos[/color]. El cajero revisa [color=yellow]ambas manos[/color] buscando efectivo y deposita todo lo que encuentre.
+
+[bold]Método 2:[/bold] Simplemente [color=cyan]haz clic en el cajero[/color] mientras sostienes efectivo en tu mano. El dinero se depositará directamente — no necesitas abrir la interfaz.
+
+[color=#AAAAAA]Nota: Debes tener tu ID insertado en el cajero para que cualquier depósito funcione.[/color]
+
+## ¿Sin Cuenta?
+
+Si tu tarjeta de ID no tiene cuenta bancaria, el cajero mostrará un botón [color=cyan]Crear Cuenta Bancaria[/color]. Haz clic para crear una.
+</Document>
