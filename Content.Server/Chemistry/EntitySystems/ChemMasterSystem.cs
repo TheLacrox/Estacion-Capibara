@@ -53,6 +53,7 @@ using Robust.Shared.Containers;
 using Robust.Shared.Prototypes;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
+using Content.Shared._Capibara.StationObjectives.Events; // Capibara
 
 namespace Content.Server.Chemistry.EntitySystems
 {
@@ -72,6 +73,7 @@ namespace Content.Server.Chemistry.EntitySystems
         [Dependency] private readonly StorageSystem _storageSystem = default!;
         [Dependency] private readonly LabelSystem _labelSystem = default!;
         [Dependency] private readonly ISharedAdminLogManager _adminLogger = default!;
+        [Dependency] private readonly IPrototypeManager _prototypeManager = default!; // Capibara
 
         private static readonly EntProtoId PillPrototypeId = "Pill";
 
@@ -254,6 +256,9 @@ namespace Content.Server.Chemistry.EntitySystems
             if (!WithdrawFromBuffer(chemMaster, needed, user, out var withdrawal))
                 return;
 
+            // Capibara — track medicine production for station objectives (before pills split the solution)
+            RaiseMedicineProduced(withdrawal, chemMaster);
+
             _labelSystem.Label(container, message.Label);
 
             for (var i = 0; i < message.Number; i++)
@@ -302,6 +307,9 @@ namespace Content.Server.Chemistry.EntitySystems
             if (!WithdrawFromBuffer(chemMaster, message.Dosage, user, out var withdrawal))
                 return;
 
+            // Capibara — track medicine production for station objectives (before solution is consumed)
+            RaiseMedicineProduced(withdrawal, chemMaster);
+
             _labelSystem.Label(container, message.Label);
             _solutionContainerSystem.TryAddSolution(soln.Value, withdrawal);
 
@@ -342,6 +350,26 @@ namespace Content.Server.Chemistry.EntitySystems
 
             outputSolution = solution.SplitSolution(neededVolume);
             return true;
+        }
+
+        // Capibara — raise event for medicine reagents produced via ChemMaster
+        private void RaiseMedicineProduced(Solution withdrawal, Entity<ChemMasterComponent> chemMaster)
+        {
+            var medicineVolume = FixedPoint2.Zero;
+            foreach (var reagent in withdrawal.Contents)
+            {
+                if (_prototypeManager.TryIndex<ReagentPrototype>(reagent.Reagent.Prototype, out var proto) &&
+                    proto.Group == "Medicine")
+                {
+                    medicineVolume += reagent.Quantity;
+                }
+            }
+
+            if (medicineVolume > FixedPoint2.Zero)
+            {
+                var ev = new MedicineProducedEvent(medicineVolume, chemMaster);
+                RaiseLocalEvent(ref ev);
+            }
         }
 
         private void ClickSound(Entity<ChemMasterComponent> chemMaster)

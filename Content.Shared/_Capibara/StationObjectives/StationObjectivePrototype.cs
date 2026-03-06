@@ -1,6 +1,7 @@
 // SPDX-FileCopyrightText: 2025 Capibara Station Contributors
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using Content.Shared.Roles;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization.Manager.Attributes;
 
@@ -26,4 +27,12 @@ public sealed partial class StationObjectivePrototype : IPrototype
 
     [DataField]
     public Dictionary<string, float> Parameters { get; private set; } = new();
+
+    /// <summary>
+    ///     Departments relevant to this objective. Used to weight selection
+    ///     proportionally to department headcount at round start.
+    ///     If empty, the objective uses its base weight regardless of staffing.
+    /// </summary>
+    [DataField]
+    public List<ProtoId<DepartmentPrototype>> Departments { get; private set; } = new();
 }

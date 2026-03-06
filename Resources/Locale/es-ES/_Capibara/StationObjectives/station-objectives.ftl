@@ -26,12 +26,20 @@ station-objective-power-production-name = Producción de Energía
 station-objective-cargo-export-name = Exportaciones de Carga
 station-objective-research-points-name = Puntos de Investigación
 station-objective-botany-harvest-name = Cosecha de Botánica
+station-objective-cargo-bounty-name = Recompensas de Carga
+station-objective-ore-processing-name = Procesamiento de Mineral
+station-objective-medicine-production-name = Producción de Medicina
+station-objective-patient-healing-name = Recuperación de Pacientes
 
 # Objective descriptions
 station-objective-power-production-desc = Producir 10 GW de energía sostenida durante al menos 1 minuto.
 station-objective-cargo-export-desc = Ganar al menos 50,000 créditos en exportaciones netas de carga.
-station-objective-research-points-desc = Acumular al menos 25,000 puntos de investigación.
-station-objective-botany-harvest-desc = Cosechar al menos 30 plantas.
+station-objective-research-points-desc = Acumular al menos 200,000 puntos de investigación.
+station-objective-botany-harvest-desc = Cosechar al menos 200 plantas.
+station-objective-cargo-bounty-desc = Completar al menos 20 recompensas de carga.
+station-objective-ore-processing-desc = Procesar al menos {$targetMaterialVolume} unidades de mineral en materiales.
+station-objective-medicine-production-desc = Producir al menos {$targetMedicineUnits} unidades de medicina.
+station-objective-patient-healing-desc = El personal médico debe curar al menos {$targetPatientsHealed} pacientes en estado crítico.
 
 # Fax completion
 station-objective-fax-completion-name = Actualización de Estado de Objetivo

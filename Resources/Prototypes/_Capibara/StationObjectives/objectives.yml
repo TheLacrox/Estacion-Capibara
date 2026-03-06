@@ -2,19 +2,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: stationObjective
-  id: ProduceTenGigawatts
-  name: station-objective-power-production-name
-  description: station-objective-power-production-desc
-  conditionType: PowerProductionCondition
-  parameters:
-    targetWatts: 10000000000
-    durationSeconds: 60
-
-- type: stationObjective
   id: CargoExportCredits
   name: station-objective-cargo-export-name
   description: station-objective-cargo-export-desc
   conditionType: CargoExportCondition
+  departments: [Cargo]
   parameters:
     targetCredits: 50000
 
@@ -23,13 +15,51 @@
   name: station-objective-research-points-name
   description: station-objective-research-points-desc
   conditionType: ResearchPointsCondition
+  departments: [Science]
   parameters:
-    targetPoints: 25000
+    targetPoints: 200000
 
 - type: stationObjective
   id: BotanyHarvestGoal
   name: station-objective-botany-harvest-name
   description: station-objective-botany-harvest-desc
   conditionType: BotanyHarvestCondition
+  departments: [Civilian]
   parameters:
-    targetHarvests: 30
+    targetHarvests: 200
+
+- type: stationObjective
+  id: CargoBountyGoal
+  name: station-objective-cargo-bounty-name
+  description: station-objective-cargo-bounty-desc
+  conditionType: CargoBountyCondition
+  departments: [Cargo]
+  parameters:
+    targetBounties: 20
+
+- type: stationObjective
+  id: OreProcessingGoal
+  name: station-objective-ore-processing-name
+  description: station-objective-ore-processing-desc
+  conditionType: OreProcessingCondition
+  departments: [Cargo]
+  parameters:
+    targetMaterialVolume: 30000
+
+- type: stationObjective
+  id: MedicineProductionGoal
+  name: station-objective-medicine-production-name
+  description: station-objective-medicine-production-desc
+  conditionType: MedicineProductionCondition
+  departments: [Medical]
+  parameters:
+    targetMedicineUnits: 500
+
+- type: stationObjective
+  id: PatientHealingGoal
+  name: station-objective-patient-healing-name
+  description: station-objective-patient-healing-desc
+  conditionType: PatientHealingCondition
+  departments: [Medical]
+  parameters:
+    targetPatientsHealed: 30

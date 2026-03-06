@@ -11,6 +11,7 @@ role-subtype-xenoborg-core = Núcleo Xenoborg
 materials-xenoborg-crystal = cristal xenoborg
 
 # Stack
+stack-xenoborg = baldosa xenoborg
 stack-xenoborg-circuit = {$amount ->
     [1] cristal xenoborg
     *[other] cristales xenoborg

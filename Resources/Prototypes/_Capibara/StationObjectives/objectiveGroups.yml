@@ -6,11 +6,17 @@
   minObjectives: 2
   maxObjectives: 3
   objectives:
-  - objectiveId: ProduceTenGigawatts
-    weight: 1.0
   - objectiveId: CargoExportCredits
     weight: 1.0
   - objectiveId: ResearchPointGoal
     weight: 1.0
   - objectiveId: BotanyHarvestGoal
+    weight: 1.0
+  - objectiveId: CargoBountyGoal
+    weight: 1.0
+  - objectiveId: OreProcessingGoal
+    weight: 1.0
+  - objectiveId: MedicineProductionGoal
+    weight: 1.0
+  - objectiveId: PatientHealingGoal
     weight: 1.0

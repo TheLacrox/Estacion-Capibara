@@ -268,6 +268,10 @@ public sealed partial class CargoSystem
             TryRemoveBounty(station, bounty.Value, false);
             FillBountyDatabase(station);
             _adminLogger.Add(LogType.Action, LogImpact.Low, $"Bounty \"{bounty.Value.Bounty}\" (id:{bounty.Value.Id}) was fulfilled");
+
+            // Capibara — raise event for station objectives tracking
+            var bountyEv = new Content.Shared._Capibara.StationObjectives.Events.BountyFulfilledEvent(station);
+            RaiseLocalEvent(ref bountyEv);
         }
     }
 

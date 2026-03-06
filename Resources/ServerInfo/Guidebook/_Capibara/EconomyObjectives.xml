@@ -8,40 +8,158 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## Objetivos de Estación
 
-Cada turno, la estación recibe un conjunto de [color=#FFD700]objetivos[/color] que la tripulación debe completar de forma cooperativa. Se anuncian al inicio de la ronda y pueden incluir desde tareas de producción hasta metas departamentales.
+Cada turno, la estación recibe un conjunto de [color=#FFD700]2 a 3 objetivos[/color] que la tripulación debe completar de forma cooperativa. Se envían por fax al puente al inicio de la ronda.
 
-Los objetivos requieren [color=cyan]trabajo en equipo[/color] entre departamentos — están diseñados para darle propósito a la tripulación y fomentar la colaboración.
+Los objetivos se eligen según los [color=cyan]departamentos con personal[/color] — si hay más tripulantes en un departamento, es más probable que aparezcan objetivos de ese departamento.
 
 ## El Límite de 30 Minutos
 
-La tripulación tiene [color=#CC0000]30 minutos[/color] desde el inicio del turno para completar todos los objetivos de la estación.
+La tripulación tiene [color=#CC0000]30 minutos[/color] desde el inicio del turno para completar todos los objetivos.
 
-Si el límite de tiempo se cumple y quedan objetivos sin completar:
+Si el límite se cumple y quedan objetivos sin completar:
 
 - [color=#CC0000]Todos los pagos de salarios se congelan inmediatamente.[/color]
-- Se transmite un anuncio a toda la estación informando a la tripulación.
+- Se transmite un anuncio a toda la estación.
 - La [textlink="Consola de Gestión de Salarios" link="CapibaraEconomySalaryConsole"] mostrará el estado [color=#CC0000]CONGELADO[/color].
-- Ningún tripulante recibirá sus pagos de ciclo salarial.
 
 ## Restauración de Salarios
 
-Los salarios se [color=#00CC00]restauran automáticamente[/color] cuando se completan todos los objetivos, incluso después del límite de tiempo:
+Los salarios se [color=#00CC00]restauran automáticamente[/color] cuando se completan todos los objetivos, incluso después del límite:
 
-- Un anuncio a toda la estación confirma la restauración.
-- Los pagos de salarios se reanudan en el siguiente ciclo.
-- No se pagan los ciclos perdidos retroactivamente.
+- Un anuncio confirma la restauración.
+- Los pagos se reanudan en el siguiente ciclo.
+- Los ciclos perdidos [color=#CC0000]no[/color] se pagan retroactivamente.
 
-## Consejos
+## Lista de Objetivos Posibles
 
-- [color=yellow]¡Prioriza los objetivos desde el principio![/color] No esperes a que se acerque el límite de tiempo.
-- Revisa la lista de objetivos y coordínate con otros departamentos.
+A continuación se detallan todos los objetivos que pueden aparecer, cómo completarlos, y qué [color=#CC0000]no cuenta[/color].
+
+---
+
+## Exportaciones de Carga
+[color=#cb7a28]Departamento: Carga[/color]
+
+Ganar al menos [color=#FFD700]50,000 créditos[/color] en exportaciones netas de carga.
+
+[color=cyan]Cómo completarlo:[/color]
+- Enviar crates y mercancía a través de la lanzadera de carga.
+- Se mide como la diferencia neta del balance bancario de la estación desde el inicio del turno.
+
+[color=#CC0000]No cuenta:[/color]
+- El saldo inicial de la estación — solo cuenta lo ganado durante el turno.
+- Compras de carga — gastar créditos reduce el balance neto.
+
+---
+
+## Recompensas de Carga
+[color=#cb7a28]Departamento: Carga[/color]
+
+Completar al menos [color=#FFD700]20 recompensas[/color] (bounties) de carga.
+
+[color=cyan]Cómo completarlo:[/color]
+- Aceptar y enviar las recompensas activas desde la consola de carga.
+- Cada bounty completada con éxito suma 1 al contador.
+
+[color=#CC0000]No cuenta:[/color]
+- Recompensas que se cancelan o expiran.
+- Solo se cuentan las recompensas enviadas correctamente por la lanzadera.
+
+---
+
+## Procesamiento de Mineral
+[color=#cb7a28]Departamento: Carga[/color]
+
+Procesar al menos [color=#FFD700]30,000 unidades[/color] de mineral en materiales.
+
+[color=cyan]Cómo completarlo:[/color]
+- Insertar mineral crudo en un procesador de mineral (ore processor / lathe con puntos de minería).
+- Se suman todos los volúmenes de materiales extraídos de cada pieza de mineral.
+
+[color=#CC0000]No cuenta:[/color]
+- Insertar materiales ya procesados (lingotes, hojas, etc.).
+- Solo se cuentan máquinas que tengan el componente de puntos de minería (MiningPointsLathe) — lathes normales no cuentan.
+- Mineral que no está en una grid de la estación (por ejemplo, en una nave de salvamento desconectada).
+
+---
+
+## Puntos de Investigación
+[color=#d381c9]Departamento: Ciencia[/color]
+
+Acumular al menos [color=#FFD700]200,000 puntos[/color] de investigación.
+
+[color=cyan]Cómo completarlo:[/color]
+- Investigar tecnologías en el servidor de investigación (R&D).
+- Se cuenta el total de puntos acumulados en todos los servidores de investigación de la estación.
+
+[color=#CC0000]No cuenta:[/color]
+- Puntos de servidores fuera de la estación (en naves o shuttles no conectados).
+- Puntos gastados — se mide el total acumulado, no el saldo restante.
+
+---
+
+## Cosecha de Botánica
+[color=#9fed58]Departamento: Civil[/color]
+
+Cosechar al menos [color=#FFD700]200 plantas[/color].
+
+[color=cyan]Cómo completarlo:[/color]
+- Cosechar plantas de las bandejas de hidroponía (plant holders).
+- Cada cosecha individual cuenta como 1, sin importar la cantidad de producto.
+
+[color=#CC0000]No cuenta:[/color]
+- Plantas que mueren sin ser cosechadas.
+- Recoger plantas del suelo — solo cuenta la acción de cosechar de una bandeja.
+- Bandejas fuera de la grid de la estación.
+
+---
+
+## Producción de Medicina
+[color=#52b4d9]Departamento: Médico[/color]
+
+Producir al menos [color=#FFD700]500 unidades[/color] de medicina.
+
+[color=cyan]Cómo completarlo:[/color]
+- Crear píldoras o botellas en un ChemMaster que contengan reactivos del grupo [color=cyan]"Medicine"[/color].
+- Se suman los volúmenes de todos los reactivos medicinales en cada producción.
+
+[color=#CC0000]No cuenta:[/color]
+- Reactivos que no pertenecen al grupo "Medicine" (por ejemplo, toxinas, nutrientes, agua).
+- Mezclar reactivos en un vaso o beaker — solo cuenta la producción final en el ChemMaster (píldoras o botellas).
+- ChemMasters fuera de la grid de la estación.
+
+---
+
+## Recuperación de Pacientes
+[color=#52b4d9]Departamento: Médico[/color]
+
+El personal médico debe curar al menos [color=#FFD700]30 pacientes[/color] del estado crítico.
+
+[color=cyan]Cómo completarlo:[/color]
+- Un miembro del departamento Médico debe estabilizar a un paciente que estaba en estado [color=#CC0000]Crítico[/color] o [color=#CC0000]Muerto[/color], llevándolo de vuelta a [color=#00CC00]Vivo[/color].
+- Funciona con cualquier método: medicamentos, cirugía, desfibrilador, etc.
+
+[color=#CC0000]No cuenta:[/color]
+- [color=yellow]Curarse a uno mismo[/color] — no se permite auto-curación.
+- Curar a otro miembro del departamento Médico — el paciente debe ser de [color=yellow]otro departamento[/color].
+- Pacientes sin trabajo asignado (sin mente/jugador).
+- Si el curador o el paciente es un [color=yellow]antagonista[/color], no cuenta.
+- Si el curador no pertenece al departamento Médico, no cuenta.
+- Pacientes en naves fuera de la grid de la estación.
+
+---
+
+## Consejos Generales
+
+- [color=yellow]¡Prioriza los objetivos desde el principio![/color] No esperes al límite de 30 minutos.
+- Revisa el fax en el puente para ver los objetivos asignados.
+- Cuando se completa un objetivo, se envía un fax de confirmación automáticamente.
 - El personal de Comando debe usar la [textlink="Consola de Salarios" link="CapibaraEconomySalaryConsole"] para monitorear el estado de la nómina.
-- Incluso después de que los salarios se congelen, completar todos los objetivos los restaurará — nunca es demasiado tarde.
+- Incluso después de que los salarios se congelen, completar todos los objetivos los restaurará — [color=#00CC00]nunca es demasiado tarde[/color].
 
 ## Impacto en la Economía
 
-Los salarios congelados afectan toda la economía de la estación:
+Los salarios congelados afectan toda la economía:
 - Los tripulantes dejan de recibir ingresos.
-- Las máquinas expendedoras siguen cobrando, así que las reservas de efectivo se vuelven importantes.
-- Usa los [textlink="cajeros automáticos" link="CapibaraEconomyATM"] para retirar ahorros antes de que llegue un congelamiento.
+- Las máquinas expendedoras siguen cobrando.
+- Usa los [textlink="cajeros automáticos" link="CapibaraEconomyATM"] para retirar ahorros antes de un posible congelamiento.
 </Document>
