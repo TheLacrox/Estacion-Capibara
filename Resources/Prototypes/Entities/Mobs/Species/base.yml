@@ -460,6 +460,8 @@
         requireInputValidation: false
       enum.RadarConsoleUiKey.Key: #goob - contractor
         type: RadarConsoleBoundUserInterface
+      enum.ShadowMonarchStatsUiKey.Key: # Capibara - Shadow Monarch
+        type: ShadowMonarchStatsBui
   - type: Puller
   - type: Speech
     speechSounds: Alto

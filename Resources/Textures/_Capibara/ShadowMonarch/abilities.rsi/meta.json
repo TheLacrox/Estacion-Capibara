@@ -33,6 +33,12 @@
         },
         {
             "name": "ascend"
+        },
+        {
+            "name": "store"
+        },
+        {
+            "name": "recall"
         }
     ]
 }

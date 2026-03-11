@@ -35,4 +35,7 @@ admin-verb-text-make-head-rev = Make Head Rev
 admin-verb-text-make-thief = Make Thief
 admin-verb-text-make-paradox-clone = Create Paradox Clone
 
+admin-verb-make-shadow-monarch = Make the target into a Shadow Monarch. # Capibara
+admin-verb-text-make-shadow-monarch = Make Shadow Monarch # Capibara
+
 admin-overlay-antag-classic = ANTAG

@@ -25,6 +25,14 @@ public sealed partial class ShadowMonarchSystem
         if (args.Handled)
             return;
 
+        if (component.ShadowMana < component.ManaStepCost)
+        {
+            _popup.PopupEntity(Loc.GetString("shadow-monarch-not-enough-mana"), uid, uid, PopupType.SmallCaution);
+            return;
+        }
+
+        component.ShadowMana -= component.ManaStepCost;
+
         var xform = Transform(uid);
         var targetCoords = args.Target;
 
@@ -47,6 +55,14 @@ public sealed partial class ShadowMonarchSystem
             _popup.PopupEntity(Loc.GetString("shadow-monarch-exchange-not-soldier"), uid, uid, PopupType.SmallCaution);
             return;
         }
+
+        if (component.ShadowMana < component.ManaExchangeCost)
+        {
+            _popup.PopupEntity(Loc.GetString("shadow-monarch-not-enough-mana"), uid, uid, PopupType.SmallCaution);
+            return;
+        }
+
+        component.ShadowMana -= component.ManaExchangeCost;
 
         // Swap positions
         var monarchXform = Transform(uid);
@@ -81,6 +97,14 @@ public sealed partial class ShadowMonarchSystem
             return;
         }
 
+        if (component.ShadowMana < component.ManaHideCost)
+        {
+            _popup.PopupEntity(Loc.GetString("shadow-monarch-not-enough-mana"), uid, uid, PopupType.SmallCaution);
+            return;
+        }
+
+        component.ShadowMana -= component.ManaHideCost;
+
         // Store soldier data including type
         var data = new ShadowSoldierData
         {
@@ -111,6 +135,14 @@ public sealed partial class ShadowMonarchSystem
             _popup.PopupEntity(Loc.GetString("shadow-monarch-summon-none"), uid, uid, PopupType.SmallCaution);
             return;
         }
+
+        if (component.ShadowMana < component.ManaSummonCost)
+        {
+            _popup.PopupEntity(Loc.GetString("shadow-monarch-not-enough-mana"), uid, uid, PopupType.SmallCaution);
+            return;
+        }
+
+        component.ShadowMana -= component.ManaSummonCost;
 
         // Spawn ALL hidden soldiers at monarch's position
         var spawned = 0;
@@ -144,6 +176,14 @@ public sealed partial class ShadowMonarchSystem
     {
         if (args.Handled)
             return;
+
+        if (component.ShadowMana < component.ManaDomainCost)
+        {
+            _popup.PopupEntity(Loc.GetString("shadow-monarch-not-enough-mana"), uid, uid, PopupType.SmallCaution);
+            return;
+        }
+
+        component.ShadowMana -= component.ManaDomainCost;
 
         // Spawn a domain entity at the monarch's position
         var coords = Transform(uid).Coordinates;

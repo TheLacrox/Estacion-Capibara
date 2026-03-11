@@ -166,3 +166,34 @@
     event: !type:ShadowMonarchAscendEvent {}
   - type: ConfirmableAction
     popup: shadow-monarch-ascend-confirm
+
+- type: entity
+  parent: BaseAction
+  id: ActionShadowStats
+  name: action-shadow-stats
+  description: action-shadow-stats-desc
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: Action
+    itemIconStyle: NoItem
+    icon:
+      sprite: _Capibara/ShadowMonarch/abilities.rsi
+      state: store
+  - type: InstantAction
+    event: !type:ShadowMonarchStatsEvent {}
+
+- type: entity
+  parent: BaseAction
+  id: ActionShadowRecall
+  name: action-shadow-recall
+  description: action-shadow-recall-desc
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: Action
+    itemIconStyle: NoItem
+    useDelay: 15
+    icon:
+      sprite: _Capibara/ShadowMonarch/abilities.rsi
+      state: recall
+  - type: InstantAction
+    event: !type:ShadowRecallEvent {}

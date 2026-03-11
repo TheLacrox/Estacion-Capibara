@@ -94,3 +94,35 @@ shadow-monarch-list-victim = - {$name}
 # Objective
 objective-shadow-monarch-ascend-desc = Asciende a tu verdadera forma extrayendo 7 sombras.
 objective-issuer-shadow-monarch = [color=#4B0082]La Oscuridad[/color]
+
+# Recall Action
+action-shadow-recall = Llamar Sombras
+action-shadow-recall-desc = Teletransporta todos tus soldados sombra a tu ubicacion actual.
+shadow-monarch-recall-none = No tienes soldados sombra para llamar.
+shadow-monarch-recall-success = Llamas {$count} sombras a tu lado!
+
+# Stats Action
+action-shadow-stats = Estadisticas de Sombra
+action-shadow-stats-desc = Ver y asignar tus puntos de estadisticas.
+
+# Stats UI
+shadow-monarch-stats-title = Estadisticas del Monarca de las Sombras
+shadow-monarch-stats-points = Puntos disponibles: {$points}
+shadow-monarch-stats-kills = Muertes: {$kills}
+shadow-monarch-stats-mana = Mana: {$current}/{$max}
+
+shadow-monarch-stat-strength = Fuerza
+shadow-monarch-stat-agility = Agilidad
+shadow-monarch-stat-resistance = Resistencia
+shadow-monarch-stat-intellect = Intelecto
+
+shadow-monarch-stat-strength-effect = +{$damage} dano de tajo
+shadow-monarch-stat-agility-effect = +{$speed} velocidad de carrera
+shadow-monarch-stat-resistance-effect = +{$hp} HP, +{$stamina} aguante
+shadow-monarch-stat-intellect-effect = +{$mana} mana max, +{$army} ejercito
+
+# Kill points popup
+shadow-monarch-kill-points = +{$points} puntos de estadisticas!
+
+# Mana
+shadow-monarch-not-enough-mana = No tienes suficiente mana de sombra!

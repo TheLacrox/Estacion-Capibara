@@ -22,11 +22,16 @@ public abstract class SharedShadowMonarchSystem : EntitySystem
         Actions.AddAction(uid, ref component.ActionExtractionSoldierEntity, component.ActionExtractionSoldier);
         Actions.AddAction(uid, ref component.ActionExtractionTankEntity, component.ActionExtractionTank);
         Actions.AddAction(uid, ref component.ActionExtractionMageEntity, component.ActionExtractionMage);
+        Actions.AddAction(uid, ref component.ActionStatsEntity, component.ActionStats);
+        Actions.AddAction(uid, ref component.ActionRecallEntity, component.ActionRecall);
+
+        // Initialize mana to max
+        component.ShadowMana = component.MaxShadowMana;
     }
 
-    public int ComputeMaxArmySize(int extractionCount)
+    public int ComputeMaxArmySize(int extractionCount, int intellectLevel = 0)
     {
-        return Math.Min(3 + extractionCount / 2, 10);
+        return Math.Min(3 + extractionCount / 2 + intellectLevel / 3, 10);
     }
 
     public int ComputePowerGain(int currentCount)

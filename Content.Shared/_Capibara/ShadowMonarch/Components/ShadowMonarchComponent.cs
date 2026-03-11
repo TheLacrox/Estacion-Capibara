@@ -93,6 +93,98 @@ public sealed partial class ShadowMonarchComponent : Component
     /// </summary>
     [DataField]
     public List<string> VictimNames = new();
+
+    // === Stat Points System ===
+
+    [DataField, AutoNetworkedField]
+    public int StatPoints;
+
+    [DataField, AutoNetworkedField]
+    public int Strength;
+
+    [DataField, AutoNetworkedField]
+    public int Agility;
+
+    [DataField, AutoNetworkedField]
+    public int Resistance;
+
+    [DataField, AutoNetworkedField]
+    public int Intellect;
+
+    [DataField, AutoNetworkedField]
+    public int KillCount;
+
+    [DataField]
+    public int MaxStatLevel = 10;
+
+    // Stat scaling constants
+    [DataField]
+    public float StrengthDamagePerPoint = 2f;
+
+    [DataField]
+    public float AgilitySpeedPerPoint = 0.3f;
+
+    [DataField]
+    public float ResistanceHpPerPoint = 10f;
+
+    [DataField]
+    public float ResistanceStaminaPerPoint = 5f;
+
+    [DataField]
+    public float IntellectManaPerPoint = 10f;
+
+    [DataField]
+    public int IntellectArmyPerPoints = 3;
+
+    // Kill point values
+    [DataField]
+    public int PointsPerSimpleMob = 1;
+
+    [DataField]
+    public int PointsPerHumanoid = 2;
+
+    [DataField]
+    public int PointsPerPlayer = 3;
+
+    // === Mana System ===
+
+    [DataField, AutoNetworkedField]
+    public float ShadowMana;
+
+    [DataField]
+    public float MaxShadowMana = 50f;
+
+    [DataField]
+    public float ManaRegenPerSecond = 2f;
+
+    [DataField]
+    public float ManaStepCost = 15f;
+
+    [DataField]
+    public float ManaExchangeCost = 10f;
+
+    [DataField]
+    public float ManaHideCost = 5f;
+
+    [DataField]
+    public float ManaSummonCost = 20f;
+
+    [DataField]
+    public float ManaDomainCost = 30f;
+
+    // Stats action
+    [DataField]
+    public EntProtoId ActionStats = "ActionShadowStats";
+
+    [DataField]
+    public EntityUid? ActionStatsEntity;
+
+    // Recall action
+    [DataField]
+    public EntProtoId ActionRecall = "ActionShadowRecall";
+
+    [DataField]
+    public EntityUid? ActionRecallEntity;
 }
 
 [NetSerializable, Serializable]

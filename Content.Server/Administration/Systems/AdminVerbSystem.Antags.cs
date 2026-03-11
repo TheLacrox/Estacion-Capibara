@@ -81,6 +81,7 @@
 //
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using Content.Server._Capibara.ShadowMonarch.Rules; // Capibara
 using Content.Server._Goobstation.Wizard.Components;
 using Content.Server._DV.CosmicCult.Components; // DeltaV
 using Content.Server.Antag;
@@ -310,5 +311,21 @@ public sealed partial class AdminVerbSystem
         };
         args.Verbs.Add(cosmiccult);
         // End DeltaV Additions
+
+        // Capibara - Shadow Monarch
+        var shadowMonarchName = Loc.GetString("admin-verb-text-make-shadow-monarch");
+        Verb shadowMonarch = new()
+        {
+            Text = shadowMonarchName,
+            Category = VerbCategory.Antag,
+            Icon = new SpriteSpecifier.Rsi(new ResPath("/Textures/_Capibara/ShadowMonarch/abilities.rsi"), "extraction"),
+            Act = () =>
+            {
+                _antag.ForceMakeAntag<ShadowMonarchRuleComponent>(targetPlayer, "ShadowMonarchRule");
+            },
+            Impact = LogImpact.High,
+            Message = string.Join(": ", shadowMonarchName, Loc.GetString("admin-verb-make-shadow-monarch")),
+        };
+        args.Verbs.Add(shadowMonarch);
     }
 }

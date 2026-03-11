@@ -94,3 +94,35 @@ shadow-monarch-list-victim = - {$name}
 # Objective
 objective-shadow-monarch-ascend-desc = Ascend to your true form by extracting 7 shadows.
 objective-issuer-shadow-monarch = [color=#4B0082]The Darkness[/color]
+
+# Recall Action
+action-shadow-recall = Shadow Recall
+action-shadow-recall-desc = Teleport all your shadow soldiers to your current location.
+shadow-monarch-recall-none = You have no shadow soldiers to recall.
+shadow-monarch-recall-success = You recall {$count} shadows to your side!
+
+# Stats Action
+action-shadow-stats = Shadow Stats
+action-shadow-stats-desc = View and allocate your stat points.
+
+# Stats UI
+shadow-monarch-stats-title = Shadow Monarch Stats
+shadow-monarch-stats-points = Available Points: {$points}
+shadow-monarch-stats-kills = Kills: {$kills}
+shadow-monarch-stats-mana = Mana: {$current}/{$max}
+
+shadow-monarch-stat-strength = Strength
+shadow-monarch-stat-agility = Agility
+shadow-monarch-stat-resistance = Resistance
+shadow-monarch-stat-intellect = Intellect
+
+shadow-monarch-stat-strength-effect = +{$damage} Slash damage
+shadow-monarch-stat-agility-effect = +{$speed} sprint speed
+shadow-monarch-stat-resistance-effect = +{$hp} HP, +{$stamina} stamina
+shadow-monarch-stat-intellect-effect = +{$mana} max mana, +{$army} army
+
+# Kill points popup
+shadow-monarch-kill-points = +{$points} stat points!
+
+# Mana
+shadow-monarch-not-enough-mana = Not enough shadow mana!

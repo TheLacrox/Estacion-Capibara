@@ -1,0 +1,152 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<controls:FancyWindow
+    xmlns="https://spacestation14.io"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
+    xmlns:controls="clr-namespace:Content.Client.UserInterface.Controls"
+    Title="{Loc 'shadow-monarch-stats-title'}"
+    MinSize="380 420"
+    SetSize="400 440">
+
+    <BoxContainer Orientation="Vertical" VerticalExpand="True">
+
+        <!-- Header: Points + Kill Count -->
+        <PanelContainer Margin="8 6 8 4">
+            <PanelContainer.PanelOverride>
+                <gfx:StyleBoxFlat BackgroundColor="#1A0A2E"
+                                  BorderColor="#4B0082" BorderThickness="1 1 1 1"
+                                  ContentMarginLeftOverride="10"
+                                  ContentMarginTopOverride="6"
+                                  ContentMarginBottomOverride="6"
+                                  ContentMarginRightOverride="10"/>
+            </PanelContainer.PanelOverride>
+            <BoxContainer Orientation="Horizontal">
+                <Label Name="PointsLabel"
+                       StyleClasses="LabelHeading"
+                       HorizontalExpand="True" />
+                <Label Name="KillsLabel"
+                       StyleClasses="LabelSubText" />
+            </BoxContainer>
+        </PanelContainer>
+
+        <!-- Stat Rows -->
+        <BoxContainer Orientation="Vertical" Margin="8 2 8 2">
+
+            <!-- Strength -->
+            <PanelContainer Margin="0 2">
+                <PanelContainer.PanelOverride>
+                    <gfx:StyleBoxFlat BackgroundColor="#1B1B1E"
+                                      BorderColor="#2A2A30" BorderThickness="1 1 1 1"
+                                      ContentMarginLeftOverride="8"
+                                      ContentMarginTopOverride="4"
+                                      ContentMarginBottomOverride="4"
+                                      ContentMarginRightOverride="8"/>
+                </PanelContainer.PanelOverride>
+                <BoxContainer Orientation="Horizontal">
+                    <Label Text="{Loc 'shadow-monarch-stat-strength'}"
+                           MinWidth="90" VerticalAlignment="Center" />
+                    <Label Name="StrengthLevel"
+                           MinWidth="30" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    <Label Name="StrengthEffect"
+                           StyleClasses="LabelSubText"
+                           HorizontalExpand="True" VerticalAlignment="Center" />
+                    <Button Name="StrengthButton" Text="+" MinWidth="32" />
+                </BoxContainer>
+            </PanelContainer>
+
+            <!-- Agility -->
+            <PanelContainer Margin="0 2">
+                <PanelContainer.PanelOverride>
+                    <gfx:StyleBoxFlat BackgroundColor="#1B1B1E"
+                                      BorderColor="#2A2A30" BorderThickness="1 1 1 1"
+                                      ContentMarginLeftOverride="8"
+                                      ContentMarginTopOverride="4"
+                                      ContentMarginBottomOverride="4"
+                                      ContentMarginRightOverride="8"/>
+                </PanelContainer.PanelOverride>
+                <BoxContainer Orientation="Horizontal">
+                    <Label Text="{Loc 'shadow-monarch-stat-agility'}"
+                           MinWidth="90" VerticalAlignment="Center" />
+                    <Label Name="AgilityLevel"
+                           MinWidth="30" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    <Label Name="AgilityEffect"
+                           StyleClasses="LabelSubText"
+                           HorizontalExpand="True" VerticalAlignment="Center" />
+                    <Button Name="AgilityButton" Text="+" MinWidth="32" />
+                </BoxContainer>
+            </PanelContainer>
+
+            <!-- Resistance -->
+            <PanelContainer Margin="0 2">
+                <PanelContainer.PanelOverride>
+                    <gfx:StyleBoxFlat BackgroundColor="#1B1B1E"
+                                      BorderColor="#2A2A30" BorderThickness="1 1 1 1"
+                                      ContentMarginLeftOverride="8"
+                                      ContentMarginTopOverride="4"
+                                      ContentMarginBottomOverride="4"
+                                      ContentMarginRightOverride="8"/>
+                </PanelContainer.PanelOverride>
+                <BoxContainer Orientation="Horizontal">
+                    <Label Text="{Loc 'shadow-monarch-stat-resistance'}"
+                           MinWidth="90" VerticalAlignment="Center" />
+                    <Label Name="ResistanceLevel"
+                           MinWidth="30" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    <Label Name="ResistanceEffect"
+                           StyleClasses="LabelSubText"
+                           HorizontalExpand="True" VerticalAlignment="Center" />
+                    <Button Name="ResistanceButton" Text="+" MinWidth="32" />
+                </BoxContainer>
+            </PanelContainer>
+
+            <!-- Intellect -->
+            <PanelContainer Margin="0 2">
+                <PanelContainer.PanelOverride>
+                    <gfx:StyleBoxFlat BackgroundColor="#1B1B1E"
+                                      BorderColor="#2A2A30" BorderThickness="1 1 1 1"
+                                      ContentMarginLeftOverride="8"
+                                      ContentMarginTopOverride="4"
+                                      ContentMarginBottomOverride="4"
+                                      ContentMarginRightOverride="8"/>
+                </PanelContainer.PanelOverride>
+                <BoxContainer Orientation="Horizontal">
+                    <Label Text="{Loc 'shadow-monarch-stat-intellect'}"
+                           MinWidth="90" VerticalAlignment="Center" />
+                    <Label Name="IntellectLevel"
+                           MinWidth="30" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    <Label Name="IntellectEffect"
+                           StyleClasses="LabelSubText"
+                           HorizontalExpand="True" VerticalAlignment="Center" />
+                    <Button Name="IntellectButton" Text="+" MinWidth="32" />
+                </BoxContainer>
+            </PanelContainer>
+
+        </BoxContainer>
+
+        <!-- Spacer -->
+        <Control VerticalExpand="True" />
+
+        <!-- Mana Bar -->
+        <PanelContainer Margin="8 4 8 8">
+            <PanelContainer.PanelOverride>
+                <gfx:StyleBoxFlat BackgroundColor="#1A0A2E"
+                                  BorderColor="#4B0082" BorderThickness="1 1 1 1"
+                                  ContentMarginLeftOverride="10"
+                                  ContentMarginTopOverride="6"
+                                  ContentMarginBottomOverride="6"
+                                  ContentMarginRightOverride="10"/>
+            </PanelContainer.PanelOverride>
+            <BoxContainer Orientation="Vertical">
+                <Label Name="ManaLabel"
+                       HorizontalAlignment="Center" />
+                <ProgressBar Name="ManaBar"
+                             MinHeight="16"
+                             Margin="0 4 0 0" />
+            </BoxContainer>
+        </PanelContainer>
+
+    </BoxContainer>
+</controls:FancyWindow>

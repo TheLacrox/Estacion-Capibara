@@ -114,6 +114,7 @@ Sometimes you need to hook into existing upstream systems. These edits create me
 | `Directory.Packages.props` | Add `StackExchange.Redis` version for central package management | Low (append) |
 | `Content.Server/IoC/ServerContentIoC.cs` | Register `ITTSClient` / `TTSClient` for TTS | Low (append) |
 | `Content.Server/Entry/EntryPoint.cs` | Initialize and shutdown `ITTSClient` for TTS | Low (append) |
+| `Resources/Prototypes/Entities/Mobs/Species/base.yml` | Register ShadowMonarch stats BUI on humanoid mobs | Low (append to interfaces list) |
 
 **Rules for upstream edits:**
 

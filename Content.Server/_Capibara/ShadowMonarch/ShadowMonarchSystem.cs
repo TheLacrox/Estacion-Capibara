@@ -42,6 +42,7 @@ public sealed partial class ShadowMonarchSystem : SharedShadowMonarchSystem
         InitializeAbilities();
         InitializeArmy();
         InitializeAscension();
+        InitializeStats();
     }
 
     public override void Update(float frameTime)
@@ -49,6 +50,7 @@ public sealed partial class ShadowMonarchSystem : SharedShadowMonarchSystem
         base.Update(frameTime);
         UpdateArmy(frameTime);
         UpdateDomain(frameTime);
+        UpdateMana(frameTime);
     }
 
     private void OnExtractSoldier(EntityUid uid, ShadowMonarchComponent component, ShadowExtractSoldierEvent args)
@@ -105,19 +107,19 @@ public sealed partial class ShadowMonarchSystem : SharedShadowMonarchSystem
             return false;
         }
 
-        // Get original name before transformation
+        // Get original name before extraction
         var originalName = Name(target);
         component.VictimNames.Add(originalName);
 
-        // Transform the corpse into a shadow soldier
-        TransformCorpseToSoldier(uid, target, component, originalName, type);
+        // Spawn a new shadow entity from the corpse (corpse stays as-is)
+        SpawnShadowFromCorpse(uid, component, target, originalName, type);
 
         // Increment extraction count and power
         component.ExtractionCount++;
         component.ShadowPower += ComputePowerGain(component.ExtractionCount - 1);
 
         // Update max army size
-        component.MaxArmySize = ComputeMaxArmySize(component.ExtractionCount);
+        component.MaxArmySize = ComputeMaxArmySize(component.ExtractionCount, component.Intellect);
 
         _popup.PopupEntity(
             Loc.GetString("shadow-monarch-extraction-success", ("name", originalName)),

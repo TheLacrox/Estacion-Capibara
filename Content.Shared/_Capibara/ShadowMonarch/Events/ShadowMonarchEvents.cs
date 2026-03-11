@@ -28,6 +28,12 @@ public sealed partial class ShadowDomainEvent : InstantActionEvent;
 // Ascend — final transformation
 public sealed partial class ShadowMonarchAscendEvent : InstantActionEvent;
 
+// Stats — open stat allocation UI
+public sealed partial class ShadowMonarchStatsEvent : InstantActionEvent;
+
+// Recall — teleport all shadow soldiers back to monarch
+public sealed partial class ShadowRecallEvent : InstantActionEvent;
+
 // Broadcast events for rule system
 public sealed class ShadowMonarchAscendedEvent : EntityEventArgs
 {
