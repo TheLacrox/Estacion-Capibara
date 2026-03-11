@@ -1,0 +1,32 @@
+# SPDX-FileCopyrightText: 2025 DevilStation Contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Sonic Jackhammer — high-speed structural melee tool for ERT/Commando borgs
+- type: entity
+  name: Sonic Jackhammer
+  parent: BaseItem
+  id: SonicJackhammer
+  description: Powerful tool used by ERT operatives to quickly breach structures.
+  components:
+  - type: Item
+    storedRotation: -90
+  - type: Tag
+    tags:
+    - Pickaxe
+  - type: Sprite
+    sprite: _DevilStation/Objects/Tools/sonicjackhammer.rsi
+    state: sonicjackhammer
+  - type: MeleeWeapon
+    autoAttack: true
+    angle: 0
+    wideAnimationRotation: -90
+    soundHit:
+      path: "/Audio/Items/drill_hit.ogg"
+    attackRate: 7
+    damage:
+      groups:
+        Brute: 6
+      types:
+        Structural: 30
+  - type: ThrowingAngle
+    angle: 270

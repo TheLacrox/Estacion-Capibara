@@ -1,0 +1,26 @@
+# SPDX-FileCopyrightText: 2025 DevilStation Contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Commando cyborg module — weapons and tools loadout
+- type: entity
+  parent: [ BaseBorgModuleCentComm, BaseProviderBorgModule, BaseCentcommContraband ]
+  id: BorgModuleCommando
+  name: commando cyborg module
+  description: A weapons module that comes with several tools for a Commando Cyborg.
+  components:
+  - type: Sprite
+    layers:
+    - state: centcomm
+    - state: icon-xenoborg-laser
+  - type: ItemBorgModule
+    moduleId: Commando
+    items:
+    - WeaponPulseRifleCyborg
+    - EnergySwordBlue
+    - Flash
+    - JawsOfLife
+    - WelderExperimental
+    - SonicJackhammer
+    - SelfRechargingFireExtinguisher
+  - type: BorgModuleIcon
+    icon: { sprite: Interface/Actions/actions_borg.rsi, state: xenoborg-autopulser-module }

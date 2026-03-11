@@ -34,7 +34,7 @@
   parent: [ BaseBorgModuleCentComm, BaseProviderBorgModule, BaseCentcommContraband ]
   id: BorgModuleERT
   name: ERT cyborg module
-  description: A weapons module that comes with several tools for a ERT Cyborg.
+  description: A module that comes with several tools for a ERT Cyborg.
   components:
   - type: Sprite
     layers:
@@ -48,7 +48,7 @@
     - StunBatonBorg
     - JawsOfLife
     - WelderExperimental
-    - MiningDrillDiamond
+    - SonicJackhammer
     - SelfRechargingFireExtinguisher
   - type: BorgModuleIcon
     icon: { sprite: Interface/Actions/actions_borg.rsi, state: ert-module }

@@ -7,7 +7,7 @@ ent-BorgChassisERT = ERT cyborg
 
 ## ERT Module
 ent-BorgModuleERT = ERT cyborg module
-    .desc = A weapons module that comes with several tools for a ERT Cyborg.
+    .desc = A module that comes with several tools for a ERT Cyborg.
 
 ## StunBatonBorg
 ent-StunBatonBorg = Recharging Cyborg Baton

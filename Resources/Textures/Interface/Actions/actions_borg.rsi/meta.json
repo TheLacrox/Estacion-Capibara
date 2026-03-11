@@ -168,6 +168,9 @@
         },
         {
             "name": "ert-module"
+        },
+        {
+            "name": "xenoborg-autopulser-module"
         }
     ]
 }

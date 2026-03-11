@@ -1,12 +1,12 @@
 # SPDX-FileCopyrightText: 2025 DevilStation Contributors
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-# ERT Cyborg Chassis — admin-spawnable, tanky borg with CentComm lawset
+# Commando (Deathsquad) Cyborg Chassis — admin-spawnable, very tanky borg with CentComm lawset
 - type: entity
-  id: BorgChassisERT
+  id: BorgChassisDeathsquad
   parent: BaseBorgChassisNotIonStormable
-  name: ERT cyborg
-  description: A man-machine hybrid that's sent into high-intensity operations. You have a feeling you shouldn't try to fight this one.
+  name: Commando Cyborg
+  description: A man-machine hybrid that's equipped with the finest technology Nanotrasen could supply, this chassis is outfitted for one purpose and one purpose only, the complete annihilation of anything and everything in its path. Equipped with an energy sword, pulse rifle, and top-tier power cell, nothing can stand in its way for long.
   components:
   - type: Reactive
     groups:
@@ -34,25 +34,25 @@
     baseWalkSpeed: 3
     baseSprintSpeed: 5
   - type: BorgTransponder
-    name: ERT cyborg
+    name: Commando Cyborg
     sprite:
       sprite: Mobs/Silicon/chassis.rsi
-      state: ERT
+      state: commando
   - type: Sprite
     layers:
-    - state: ERT
-    - state: ERT_e
+    - state: commando
+    - state: commando_e
       map: ["enum.BorgVisualLayers.Light"]
       shader: unshaded
       visible: false
-    - state: ERT_l
+    - state: commando_l
       shader: unshaded
       map: ["light"]
       visible: false
   - type: BorgChassis
     maxModules: 3
-    hasMindState: ERT_e
-    noMindState: ERT_e_r
+    hasMindState: commando_e
+    noMindState: commando_e_r
     moduleWhitelist:
       tags:
       - BorgModuleGeneric
@@ -61,8 +61,8 @@
   - type: MobThresholds
     thresholds:
       0: Alive
-      150: Critical
-      250: Dead
+      300: Critical
+      350: Dead
     stateAlertDict:
       Alive: BorgHealth
       Critical: BorgCrit
@@ -115,12 +115,12 @@
       borg_brain:
       - MMIFilled
       borg_module:
-      - BorgModuleERT
+      - BorgModuleCommando
   - type: ItemSlots
     slots:
       cell_slot:
         name: power-cell-slot-component-slot-name-default
-        startingItem: PowerCellHyper
+        startingItem: PowerCellMicroreactor
   - type: SiliconLawProvider
     laws: CentCommLawset
   - type: RandomMetadata

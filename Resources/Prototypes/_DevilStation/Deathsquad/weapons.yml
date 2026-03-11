@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2025 DevilStation Contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Self-recharging pulse rifle for cyborg use
+- type: entity
+  name: BRG-7 pulse rifle
+  parent: WeaponPulseRifle
+  id: WeaponPulseRifleCyborg
+  description: A weapon almost as infamous as its users. Recharges from the Cyborgs internal cell.
+  components:
+  - type: Gun
+    minAngle: -4
+    maxAngle: 4
+  - type: BatterySelfRecharger
+    autoRecharge: true
+    autoRechargeRate: 75

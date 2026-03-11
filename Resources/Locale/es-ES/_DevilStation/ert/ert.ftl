@@ -7,7 +7,7 @@ ent-BorgChassisERT = Ciborg ERT
 
 ## Módulo ERT
 ent-BorgModuleERT = Módulo de ciborg ERT
-    .desc = Un módulo de armas que viene con varias herramientas para un ciborg ERT.
+    .desc = Un módulo con varias herramientas para un ciborg ERT.
 
 ## Bastón de Ciborg
 ent-StunBatonBorg = Bastón de Ciborg Autorecargable
