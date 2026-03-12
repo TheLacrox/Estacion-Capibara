@@ -28,7 +28,7 @@ reagent-desc-egg = Embrión de pollo cocido, delicioso.
 reagent-name-raw-egg = huevo crudo
 reagent-desc-raw-egg = Usado para hornear.
 
-reagent-name-sugar = azúcar
+reagent-name-sugar = sucrosa
 reagent-desc-sugar = ¡Delicioso azúcar espacial!
 
 reagent-name-blackpepper = pimienta negra

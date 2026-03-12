@@ -6,7 +6,7 @@
   id: BorgChassisDeathsquad
   parent: BaseBorgChassisNotIonStormable
   name: Commando Cyborg
-  description: A man-machine hybrid that's equipped with the finest technology Nanotrasen could supply, this chassis is outfitted for one purpose and one purpose only, the complete annihilation of anything and everything in its path. Equipped with an energy sword, pulse rifle, and top-tier power cell, nothing can stand in its way for long.
+  description: A man-machine hybrid that's equipped with the finest technology Nanotrasen could supply, this chassis is outfitted for one purpose and one purpose only, the complete annihilation of anything and everything in its path. Equipped with a phoron sabre, pulse rifle, and top-tier power cell, nothing can stand in its way for long.
   components:
   - type: Reactive
     groups:
