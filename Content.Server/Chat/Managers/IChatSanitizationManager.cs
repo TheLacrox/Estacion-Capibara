@@ -17,5 +17,6 @@ public interface IChatSanitizationManager
     public bool TrySanitizeEmoteShorthands(string input,
         EntityUid speaker,
         out string sanitized,
-        [NotNullWhen(true)] out string? emote);
+        [NotNullWhen(true)] out string? emote,
+        out string? emoteProtoId);
 }

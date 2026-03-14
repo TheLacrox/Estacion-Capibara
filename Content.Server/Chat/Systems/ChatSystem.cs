@@ -370,12 +370,21 @@ public sealed partial class ChatSystem : SharedChatSystem
         bool shouldCapitalizeTheWordI = (!CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Parent.Name == "en")
             || (CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Name == "en");
 
-        message = SanitizeInGameICMessage(source, message, out var emoteStr, shouldCapitalize, shouldPunctuate, shouldCapitalizeTheWordI);
+        message = SanitizeInGameICMessage(source, message, out var emoteStr, out var emoteProtoId, shouldCapitalize, shouldPunctuate, shouldCapitalizeTheWordI);
 
         // Was there an emote in the message? If so, send it.
         if (player != null && emoteStr != message && emoteStr != null)
         {
-            SendEntityEmote(source, emoteStr, range, nameOverride, language, ignoreActionBlocker, forced: forced); // Einstein Engines - Language
+            if (emoteProtoId != null)
+            {
+                // Capibara: bypass locale-dependent text matching by directly triggering the emote prototype for sounds
+                SendEntityEmote(source, emoteStr, range, nameOverride, language, checkEmote: false, ignoreActionBlocker: ignoreActionBlocker, forced: forced);
+                TryEmoteWithoutChat(source, emoteProtoId);
+            }
+            else
+            {
+                SendEntityEmote(source, emoteStr, range, nameOverride, language, ignoreActionBlocker, forced: forced); // Einstein Engines - Language
+            }
         }
 
         // This can happen if the entire string is sanitized out.
@@ -724,7 +733,7 @@ public sealed partial class ChatSystem : SharedChatSystem
         // The chat message wrapped in a "x says y" string.
         var wrappedMessage = WrapPublicMessage(source, name, message, language: language, colorOverride);
         // The chat message obfuscated via language obfuscation.
-        var obfuscated = SanitizeInGameICMessage(source, _language.ObfuscateSpeech(message, language), out var emoteStr, true, _configurationManager.GetCVar(CCVars.ChatPunctuation),
+        var obfuscated = SanitizeInGameICMessage(source, _language.ObfuscateSpeech(message, language), out _, out _, true, _configurationManager.GetCVar(CCVars.ChatPunctuation),
         (!CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Parent.Name == "en")
         || (CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Name == "en"));
         // The language-obfuscated message wrapped in a "x says y" string.
@@ -816,7 +825,7 @@ public sealed partial class ChatSystem : SharedChatSystem
             name = FormattedMessage.EscapeText(nameOverride ?? Name(ent));
         }
 
-        var languageObfuscatedMessage = SanitizeInGameICMessage(source, _language.ObfuscateSpeech(message, language), out var emoteStr, true, _configurationManager.GetCVar(CCVars.ChatPunctuation),
+        var languageObfuscatedMessage = SanitizeInGameICMessage(source, _language.ObfuscateSpeech(message, language), out _, out _, true, _configurationManager.GetCVar(CCVars.ChatPunctuation),
         (!CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Parent.Name == "en")
         || (CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Name == "en")); // Einstein Engines - Language
 
@@ -1139,14 +1148,14 @@ public sealed partial class ChatSystem : SharedChatSystem
     }
 
     // ReSharper disable once InconsistentNaming
-    private string SanitizeInGameICMessage(EntityUid source, string message, out string? emoteStr, bool capitalize = true, bool punctuate = false, bool capitalizeTheWordI = true)
+    private string SanitizeInGameICMessage(EntityUid source, string message, out string? emoteStr, out string? emoteProtoId, bool capitalize = true, bool punctuate = false, bool capitalizeTheWordI = true)
     {
         var newMessage = SanitizeMessageReplaceWords(message.Trim());
 
         GetRadioKeycodePrefix(source, newMessage, out newMessage, out var prefix);
 
         // Sanitize it first as it might change the word order
-        _sanitizer.TrySanitizeEmoteShorthands(newMessage, source, out newMessage, out emoteStr);
+        _sanitizer.TrySanitizeEmoteShorthands(newMessage, source, out newMessage, out emoteStr, out emoteProtoId);
 
         if (capitalize)
             newMessage = SanitizeMessageCapital(newMessage);

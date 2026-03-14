@@ -34,7 +34,7 @@ namespace Content.Server.Chat.Managers;
 /// </summary>
 public sealed class ChatSanitizationManager : IChatSanitizationManager
 {
-    private static readonly (Regex regex, string emoteKey)[] ShorthandToEmote =
+    private static readonly (Regex regex, string emoteKey, string? emoteProtoId)[] ShorthandToEmote =
     [
         Entry(":)", "chatsan-smiles"),
         Entry(":]", "chatsan-smiles"),
@@ -61,23 +61,23 @@ public sealed class ChatSanitizationManager : IChatSanitizationManager
         Entry(":S", "chatsan-uncertain"),
         Entry(":>", "chatsan-grins"),
         Entry(":<", "chatsan-pouts"),
-        Entry("xD", "chatsan-laughs"),
-        Entry(":'(", "chatsan-cries"),
-        Entry(":'[", "chatsan-cries"),
-        Entry("='(", "chatsan-cries"),
-        Entry("='[", "chatsan-cries"),
-        Entry(")':", "chatsan-cries"),
-        Entry("]':", "chatsan-cries"),
-        Entry(")'=", "chatsan-cries"),
-        Entry("]'=", "chatsan-cries"),
-        Entry(";-;", "chatsan-cries"),
-        Entry(";_;", "chatsan-cries"),
-        Entry("qwq", "chatsan-cries"),
+        Entry("xD", "chatsan-laughs", "Laugh"),
+        Entry(":'(", "chatsan-cries", "Crying"),
+        Entry(":'[", "chatsan-cries", "Crying"),
+        Entry("='(", "chatsan-cries", "Crying"),
+        Entry("='[", "chatsan-cries", "Crying"),
+        Entry(")':", "chatsan-cries", "Crying"),
+        Entry("]':", "chatsan-cries", "Crying"),
+        Entry(")'=", "chatsan-cries", "Crying"),
+        Entry("]'=", "chatsan-cries", "Crying"),
+        Entry(";-;", "chatsan-cries", "Crying"),
+        Entry(";_;", "chatsan-cries", "Crying"),
+        Entry("qwq", "chatsan-cries", "Crying"),
         Entry(":u", "chatsan-smiles-smugly"),
         Entry(":v", "chatsan-smiles-smugly"),
         Entry(">:i", "chatsan-annoyed"),
-        Entry(":i", "chatsan-sighs"),
-        Entry(":|", "chatsan-sighs"),
+        Entry(":i", "chatsan-sighs", "Sigh"),
+        Entry(":|", "chatsan-sighs", "Sigh"),
         Entry(":p", "chatsan-stick-out-tongue"),
         Entry(";p", "chatsan-stick-out-tongue"),
         Entry(":b", "chatsan-stick-out-tongue"),
@@ -93,13 +93,13 @@ public sealed class ChatSanitizationManager : IChatSanitizationManager
         Entry("^^/", "chatsan-waves"),
         Entry(":/", "chatsan-uncertain"),
         Entry(":\\", "chatsan-uncertain"),
-        Entry("lmao", "chatsan-laughs"),
-        Entry("lmfao", "chatsan-laughs"),
-        Entry("lol", "chatsan-laughs"),
-        Entry("lel", "chatsan-laughs"),
-        Entry("kek", "chatsan-laughs"),
-        Entry("rofl", "chatsan-laughs"),
-        Entry("o7", "chatsan-salutes"),
+        Entry("lmao", "chatsan-laughs", "Laugh"),
+        Entry("lmfao", "chatsan-laughs", "Laugh"),
+        Entry("lol", "chatsan-laughs", "Laugh"),
+        Entry("lel", "chatsan-laughs", "Laugh"),
+        Entry("kek", "chatsan-laughs", "Laugh"),
+        Entry("rofl", "chatsan-laughs", "Laugh"),
+        Entry("o7", "chatsan-salutes", "Salute"),
         Entry(";_;7", "chatsan-tearfully-salutes"),
         Entry("idk", "chatsan-shrugs"),
         Entry(";)", "chatsan-winks"),
@@ -137,9 +137,11 @@ public sealed class ChatSanitizationManager : IChatSanitizationManager
     public bool TrySanitizeEmoteShorthands(string message,
         EntityUid speaker,
         out string sanitized,
-        [NotNullWhen(true)] out string? emote)
+        [NotNullWhen(true)] out string? emote,
+        out string? emoteProtoId)
     {
         emote = null;
+        emoteProtoId = null;
         sanitized = message;
 
         if (!_doSanitize)
@@ -148,7 +150,7 @@ public sealed class ChatSanitizationManager : IChatSanitizationManager
         // -1 is just a canary for nothing found yet
         var lastEmoteIndex = -1;
 
-        foreach (var (r, emoteKey) in ShorthandToEmote)
+        foreach (var (r, emoteKey, protoId) in ShorthandToEmote)
         {
             // We're using sanitized as the original message until the end so that we can make sure the indices of
             // the emotes are accurate.
@@ -161,6 +163,7 @@ public sealed class ChatSanitizationManager : IChatSanitizationManager
             {
                 lastEmoteIndex = lastMatch.Index;
                 emote = _loc.GetString(emoteKey, ("ent", speaker));
+                emoteProtoId = protoId;
             }
 
             message = r.Replace(message, string.Empty);
@@ -170,7 +173,7 @@ public sealed class ChatSanitizationManager : IChatSanitizationManager
         return emote is not null;
     }
 
-    private static (Regex regex, string emoteKey) Entry(string shorthand, string emoteKey)
+    private static (Regex regex, string emoteKey, string? emoteProtoId) Entry(string shorthand, string emoteKey, string? emoteProtoId = null)
     {
         // We have to escape it because shorthands like ":)" or "-_-" would break the regex otherwise.
         var escaped = Regex.Escape(shorthand);
@@ -184,6 +187,6 @@ public sealed class ChatSanitizationManager : IChatSanitizationManager
             $@"\s{escaped}(?=\p{{P}}|\s|$)|^{escaped}(?:\p{{P}}|(?=\s|$))",
             RegexOptions.RightToLeft | RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
-        return (pattern, emoteKey);
+        return (pattern, emoteKey, emoteProtoId);
     }
 }
