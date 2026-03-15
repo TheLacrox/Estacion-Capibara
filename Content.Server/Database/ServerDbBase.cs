@@ -416,7 +416,8 @@ namespace Content.Server.Database
                 antags.ToHashSet(),
                 traits.ToHashSet(),
                 loadouts,
-                barkVoice // Goob Station - Barks
+                barkVoice, // Goob Station - Barks
+                profile.TTSVoice // Capibara - TTS
             );
         }
 
@@ -470,6 +471,7 @@ namespace Content.Server.Database
             );
 
             profile.BarkVoice = humanoid.BarkVoice; // Goob Station - Barks
+            profile.TTSVoice = humanoid.TTSVoice; // Capibara - TTS
 
             profile.Loadouts.Clear();
 

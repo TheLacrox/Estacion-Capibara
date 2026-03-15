@@ -62,9 +62,6 @@ public sealed class TTSSystem : EntitySystem
         if (ev.AudioData.Length == 0)
             return;
 
-        if (!Exists(ev.SourceUid))
-            return;
-
         try
         {
             // Detect format and load audio from raw bytes
@@ -79,11 +76,11 @@ public sealed class TTSSystem : EntitySystem
             var volumeDb = SharedAudioSystem.GainToVolume(gain);
             var audioParams = AudioParams.Default.WithVolume(volumeDb);
 
-            // Play at entity position, or globally if it's the local player
-            if (ev.SourceUid != _player.LocalEntity)
-                _audio.PlayEntity(audioStream, ev.SourceUid, null, audioParams);
-            else
+            // Play globally if source is invalid (preview) or it's the local player
+            if (!Exists(ev.SourceUid) || ev.SourceUid == _player.LocalEntity)
                 _audio.PlayGlobal(audioStream, null, audioParams);
+            else
+                _audio.PlayEntity(audioStream, ev.SourceUid, null, audioParams);
         }
         catch (Exception ex)
         {

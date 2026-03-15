@@ -60,6 +60,7 @@ using Content.Shared.Preferences.Loadouts;
 using Content.Shared.Random.Helpers;
 using Content.Shared.Roles;
 using Content.Goobstation.Common.Barks; // Goob Station - Barks
+using Content.Shared._Capibara.TTS.Prototypes; // Capibara - TTS
 using Content.Shared.Traits;
 using Robust.Shared.Collections;
 using Robust.Shared.Configuration;
@@ -130,6 +131,12 @@ namespace Content.Shared.Preferences
 
         [DataField] // Goob Station - Barks
         public ProtoId<BarkPrototype> BarkVoice { get; set; } = SharedHumanoidAppearanceSystem.DefaultBarkVoice; // Goob Station - Barks
+
+        /// <summary>
+        /// Selected TTS voice. Null means auto-assign based on sex.
+        /// </summary>
+        [DataField] // Capibara - TTS
+        public ProtoId<VoicePrototype>? TTSVoice { get; set; } // Capibara - TTS
 
         [DataField]
         public int Age { get; set; } = 18;
@@ -202,7 +209,8 @@ namespace Content.Shared.Preferences
             HashSet<ProtoId<AntagPrototype>> antagPreferences,
             HashSet<ProtoId<TraitPrototype>> traitPreferences,
             Dictionary<string, RoleLoadout> loadouts,
-            ProtoId<BarkPrototype> barkVoice) // Goob Station - Barks
+            ProtoId<BarkPrototype> barkVoice, // Goob Station - Barks
+            ProtoId<VoicePrototype>? ttsVoice = null) // Capibara - TTS
         {
             Name = name;
             FlavorText = flavortext;
@@ -220,6 +228,7 @@ namespace Content.Shared.Preferences
             _traitPreferences = traitPreferences;
             _loadouts = loadouts;
             BarkVoice = barkVoice; // Goob Station - Barks
+            TTSVoice = ttsVoice; // Capibara - TTS
 
             var hasHighPrority = false;
             foreach (var (key, value) in _jobPriorities)
@@ -253,7 +262,8 @@ namespace Content.Shared.Preferences
                 new HashSet<ProtoId<AntagPrototype>>(other.AntagPreferences),
                 new HashSet<ProtoId<TraitPrototype>>(other.TraitPreferences),
                 new Dictionary<string, RoleLoadout>(other.Loadouts),
-                other.BarkVoice) // Goob Station - Barks
+                other.BarkVoice, // Goob Station - Barks
+                other.TTSVoice) // Capibara - TTS
         {
         }
 
@@ -323,6 +333,14 @@ namespace Content.Shared.Preferences
             );
             //  Goob Station - Barks End
 
+            // Capibara - TTS Start
+            var ttsVoices = prototypeManager
+                .EnumeratePrototypes<VoicePrototype>()
+                .Where(o => !o.Silicon && (o.Sex == sex || o.Sex == Sex.Unsexed))
+                .ToArray();
+            ProtoId<VoicePrototype>? ttsVoiceId = ttsVoices.Length > 0 ? random.Pick(ttsVoices).ID : null;
+            // Capibara - TTS End
+
             var gender = Gender.Epicene;
 
             switch (sex)
@@ -349,6 +367,7 @@ namespace Content.Shared.Preferences
                 Height = height, // Goobstation: port EE height/width sliders
                 Appearance = HumanoidCharacterAppearance.Random(species, sex),
                 BarkVoice = barkvoiceId, // Goob Station - Barks
+                TTSVoice = ttsVoiceId, // Capibara - TTS
             };
         }
 
@@ -409,6 +428,13 @@ namespace Content.Shared.Preferences
             return new(this) { BarkVoice = barkVoice };
         }
         // Goob Station - Barks End
+
+        // Capibara - TTS Start
+        public HumanoidCharacterProfile WithTTSVoice(VoicePrototype voice)
+        {
+            return new(this) { TTSVoice = voice.ID };
+        }
+        // Capibara - TTS End
 
         public HumanoidCharacterProfile WithJobPriorities(IEnumerable<KeyValuePair<ProtoId<JobPrototype>, JobPriority>> jobPriorities)
         {
@@ -572,6 +598,7 @@ namespace Content.Shared.Preferences
             if (Height != other.Height) return false; // Goobstation: port EE height/width sliders
             if (Width != other.Width) return false; // Goobstation: port EE height/width sliders
             if (BarkVoice != other.BarkVoice) return false; // Goob Station - Barks
+            if (TTSVoice != other.TTSVoice) return false; // Capibara - TTS
             if (PreferenceUnavailable != other.PreferenceUnavailable) return false;
             if (SpawnPriority != other.SpawnPriority) return false;
             if (!_jobPriorities.SequenceEqual(other._jobPriorities)) return false;
@@ -847,6 +874,7 @@ namespace Content.Shared.Preferences
             hashCode.Add((int) Gender);
             hashCode.Add(Appearance);
             hashCode.Add(BarkVoice); // Goob Station - Barks
+            hashCode.Add(TTSVoice); // Capibara - TTS
             hashCode.Add((int) SpawnPriority);
             hashCode.Add((int) PreferenceUnavailable);
             return hashCode.ToHashCode();

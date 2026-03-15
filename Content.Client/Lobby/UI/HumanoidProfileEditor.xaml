@@ -137,6 +137,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
                                     <Button Name="BarkVoicePlayButton" Text="{Loc 'humanoid-profile-editor-voice-play'}" MaxWidth="80" />
                                 </BoxContainer>
                                 <!-- Corvax-Frontier-Barks-End -->
+                                <!-- Capibara - TTS Voice -->
+                                <BoxContainer HorizontalExpand="True" Visible="False" Name="TTSVoiceContainer">
+                                    <Label Text="{Loc 'humanoid-profile-editor-tts-voice-label'}" />
+                                    <Control HorizontalExpand="True"/>
+                                    <OptionButton Name="TTSVoiceButton" HorizontalAlignment="Right" />
+                                    <Button Name="TTSVoicePlayButton" Text="{Loc 'humanoid-profile-editor-voice-play'}" MaxWidth="80" />
+                                </BoxContainer>
+                                <!-- Capibara - TTS Voice End -->
                             </BoxContainer>
                             <!-- Skin -->
                             <BoxContainer Margin="10" HorizontalExpand="True" Orientation="Vertical">

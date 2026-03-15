@@ -1061,6 +1061,10 @@ namespace Content.Server.Database.Migrations.Postgres
                         .HasColumnType("text")
                         .HasColumnName("species");
 
+                    b.Property<string>("TTSVoice")
+                        .HasColumnType("text")
+                        .HasColumnName("ttsvoice");
+
                     b.Property<float>("Width")
                         .HasColumnType("real")
                         .HasColumnName("width");

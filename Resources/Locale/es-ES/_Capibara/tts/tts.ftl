@@ -10,6 +10,9 @@ tts-voice-not-found = Voz no encontrada.
 ui-options-tts-volume = Volumen TTS:
 ui-options-tts-enabled = Activar Text-to-Speech (TTS)
 
+## Creación de Personaje
+humanoid-profile-editor-tts-voice-label = Voz TTS:
+
 ## Popup TTS
 tts-popup-title = Text-to-Speech
 tts-popup-message = Este servidor tiene Text-to-Speech (TTS) activado. Los personajes hablarán en voz alta cuando escriban en el chat. ¿Te gustaría activarlo?

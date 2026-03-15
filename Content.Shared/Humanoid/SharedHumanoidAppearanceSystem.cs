@@ -568,6 +568,14 @@ public abstract class SharedHumanoidAppearanceSystem : EntitySystem
         EnsureDefaultMarkings(uid, humanoid);
         SetBarkVoice(uid, profile.BarkVoice, humanoid); // Goob Station - Barks
 
+        // Capibara - TTS voice from profile
+        if (profile.TTSVoice != null &&
+            EnsureComp<Content.Shared._Capibara.TTS.TextToSpeechComponent>(uid, out var ttsComp))
+        {
+            ttsComp.VoicePrototypeId = profile.TTSVoice.Value;
+            Dirty(uid, ttsComp);
+        }
+
         humanoid.Gender = profile.Gender;
         if (TryComp<GrammarComponent>(uid, out var grammar))
         {

@@ -193,6 +193,7 @@ using Robust.Shared.Utility;
 using Direction = Robust.Shared.Maths.Direction;
 using Content.Goobstation.Common.CCVar; // Goob Station - Barks
 using Content.Goobstation.Common.Barks; // Goob Station - Barks
+using Content.Shared._Capibara.CCVar; // Capibara - TTS
 namespace Content.Client.Lobby.UI
 {
     [GenerateTypedNameReferences]
@@ -389,6 +390,13 @@ namespace Content.Client.Lobby.UI
             }
 
             #endregion
+
+            // Capibara - TTS Voice
+            if (configurationManager.GetCVar(CapibaraCCVars.TTSEnabled))
+            {
+                TTSVoiceContainer.Visible = true;
+                InitializeTTSVoice();
+            }
 
             RefreshSpecies();
 
@@ -999,6 +1007,7 @@ namespace Content.Client.Lobby.UI
             UpdateSaveButton();
             UpdateMarkings();
             UpdateBarkVoice(); // Goob Station - Barks
+            UpdateTTSVoice(); // Capibara - TTS
             UpdateHairPickers();
             UpdateCMarkingsHair();
             UpdateCMarkingsFacialHair();
@@ -1486,6 +1495,7 @@ namespace Content.Client.Lobby.UI
             UpdateSpeciesGuidebookIcon();
             ReloadPreview();
             UpdateBarkVoice(); // Goob Station - Barks
+            UpdateTTSVoice(); // Capibara - TTS
             // begin Goobstation: port EE height/width sliders
             // Changing species provides inaccurate sliders without these
             UpdateHeightWidthSliders();

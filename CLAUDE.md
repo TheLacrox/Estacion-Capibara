@@ -114,6 +114,10 @@ Sometimes you need to hook into existing upstream systems. These edits create me
 | `Directory.Packages.props` | Add `StackExchange.Redis` version for central package management | Low (append) |
 | `Content.Server/IoC/ServerContentIoC.cs` | Register `ITTSClient` / `TTSClient` for TTS | Low (append) |
 | `Content.Server/Entry/EntryPoint.cs` | Initialize and shutdown `ITTSClient` for TTS | Low (append) |
+| `Content.Shared/Preferences/HumanoidCharacterProfile.cs` | Add `TTSVoice` field for TTS voice selection in character creation | Medium (frequently edited) |
+| `Content.Shared/Humanoid/SharedHumanoidAppearanceSystem.cs` | Set TTS voice from profile in `LoadProfile` after `SetBarkVoice` | Low (small addition) |
+| `Content.Client/Lobby/UI/HumanoidProfileEditor.xaml` | Add TTS voice selector UI after barks container | Low (append) |
+| `Content.Client/Lobby/UI/HumanoidProfileEditor.xaml.cs` | Init TTS voice UI + `UpdateTTSVoice()` calls | Low (small additions) |
 
 **Rules for upstream edits:**
 
