@@ -1,0 +1,187 @@
+<Document>
+# Genetica
+
+La genetica es uno de los departamentos mas poderosos y complejos de la estacion. Como [bold]Geneticista[/bold], tu trabajo es investigar el ADN de los tripulantes y sujetos de prueba para descubrir, secuenciar y activar [bold]mutaciones[/bold] que otorgan habilidades sobrenaturales, o desactivar las que resulten perjudiciales.
+
+## Tu Laboratorio
+
+Tu laboratorio de genetica contiene todo lo necesario para comenzar:
+
+<Box>
+  <GuideEntityEmbed Entity="ComputerGeneticsConsole"/>
+  <GuideEntityEmbed Entity="GeneticsDisk"/>
+  <GuideEntityEmbed Entity="HandheldGeneticsScanner"/>
+</Box>
+
+- [bold]Consola de Genetica[/bold] - Tu herramienta principal. Desde aqui escaneas sujetos, secuencias ADN, combinas mutaciones e imprimes inyectores.
+- [bold]Discos de Genetica[/bold] - Almacenan una mutacion individual cada uno. Empiezas con una caja en tu casillero, pero puedes imprimir mas en el techfab de ciencia.
+- [bold]Escaner Genomico Portatil[/bold] - Te permite escanear personas fuera del laboratorio para descubrir sus mutaciones dormidas.
+
+## Preparacion Inicial
+
+1. [bold]Conecta un Escaner Medico[/bold] a tu consola de genetica. La consola necesita un escaner medico vinculado por red para funcionar. Activa la conexion desde la interfaz.
+2. [bold]Consigue sujetos de prueba[/bold]. Los cubos de mono son tu mejor amigo: rehidratalos para obtener monos que puedes escanear sin consecuencias eticas (en teoria).
+3. [bold]Ten discos a mano[/bold]. Cada mutacion descubierta necesita un disco para almacenarse. Un etiquetador manual te sera muy util para organizarlos.
+
+## Escanear un Sujeto
+
+Coloca a tu sujeto en el escaner medico y presiona [bold]Escanear[/bold] en la consola. Veras informacion del sujeto:
+
+- [bold]Nombre[/bold] del sujeto
+- [bold]Estado[/bold] (vivo, critico, muerto)
+- [bold]Integridad[/bold] del ADN (se daña con errores de secuenciacion)
+- [bold]Inestabilidad[/bold] (se acumula con mutaciones activas)
+
+Tambien aparecera una lista de [bold]secuencias[/bold] en el genoma del sujeto. Cada secuencia corresponde a una mutacion, pero inicialmente estan sin identificar.
+
+## El Minijuego de Secuenciacion
+
+Para descubrir y activar una mutacion, debes [bold]secuenciar[/bold] su ADN. Esto consiste en un puzzle de pares de bases:
+
+- [color=#FF0000]A[/color] (Adenina) siempre se empareja con [color=#00FF00]T[/color] (Timina)
+- [color=#5555FF]C[/color] (Citosina) siempre se empareja con [color=#FFFF00]G[/color] (Guanina)
+
+Algunas bases estaran marcadas como [bold]X[/bold] (desconocidas). Tu trabajo es deducir la base correcta:
+
+- Si un lado del par muestra [color=#FF0000]A[/color], el otro lado debe ser [color=#00FF00]T[/color]
+- Si un lado muestra [color=#5555FF]C[/color], el otro debe ser [color=#FFFF00]G[/color]
+- Cuando ambos lados son [bold]X[/bold], necesitaras deducir con logica o arriesgarte
+
+[bold][color=#FF6600]Advertencia:[/color][/bold] Cada intento incorrecto daña severamente el genoma del sujeto. Ten preparada medicina para curar a tus sujetos, o mas cubos de mono de reemplazo.
+
+[bold]Consejo:[/bold] Puedes hacer Ctrl+Click en una base para establecerla como X, y click derecho para ciclar las bases en reversa.
+
+Una vez que completes todas las bases correctamente, la mutacion se [bold]activa[/bold] en el sujeto y queda identificada.
+
+## Resolviendo Pares Desconocidos
+
+<Box>
+  <GuideEntityEmbed Entity="HandheldGeneticsScanner"/>
+</Box>
+
+Cuando te encuentres con pares donde ambas bases son [bold]X[/bold], necesitas informacion adicional. Aqui es donde el [bold]escaner genomico portatil[/bold] resulta indispensable.
+
+Sal de tu laboratorio y escanea a otros miembros de la tripulacion (o a Pun Pun). Si encuentras a alguien con la [bold]misma mutacion dormida[/bold], sus bases conocidas te serviran para deducir las desconocidas en tu sujeto.
+
+[bold]Cada mutacion tiene una secuencia fija por ronda[/bold] - las mismas bases en la misma posicion sin importar en quien se encuentre. Asi que si escaneas a dos personas con la misma mutacion, puedes usar las bases conocidas de una para completar las desconocidas de la otra.
+
+## Mutaciones Dormidas vs Activas
+
+- [bold]Dormidas[/bold] - Presentes en el genoma pero sin efecto. Cada persona nace con hasta 8 mutaciones dormidas aleatorias. Solo se pueden detectar con un escaneo.
+- [bold]Activas[/bold] - Han sido secuenciadas y expresan su efecto. Contribuyen a la [bold]inestabilidad[/bold] del sujeto.
+
+## Discos de Genetica
+
+<Box>
+  <GuideEntityEmbed Entity="GeneticsDisk"/>
+</Box>
+
+Los discos son esenciales para tu trabajo. Cada disco almacena [bold]una sola mutacion[/bold]. Desde la consola puedes:
+
+- [bold]Guardar en disco[/bold] - Almacena una mutacion secuenciada en el disco insertado
+- [bold]Imprimir Mutador[/bold] - Crea un inyector de uso unico que aplica la mutacion del disco a cualquier persona
+- [bold]Imprimir Activador[/bold] - Crea un inyector que activa una mutacion dormida sin coste de inestabilidad
+- [bold]Imprimir Limpiador[/bold] - Crea un inyector que elimina una mutacion especifica del sujeto
+
+Tu casillero inicial tiene una caja de discos. Puedes fabricar mas en el techfab de ciencia con plastico, vidrio y plata.
+
+## Inyectores
+
+<Box>
+  <GuideEntityEmbed Entity="GeneticsMutator"/>
+  <GuideEntityEmbed Entity="GeneticsActivator"/>
+  <GuideEntityEmbed Entity="GeneticsCleanser"/>
+</Box>
+
+Hay tres tipos de inyectores que puedes imprimir desde la consola:
+
+- [bold][color=#00FF00]Mutador[/color][/bold] - Inyecta una mutacion al sujeto, activandola inmediatamente. Aumenta la inestabilidad segun el valor de la mutacion.
+- [bold][color=#5555FF]Activador[/color][/bold] - Activa una mutacion que el sujeto ya tiene [bold]dormida[/bold], sin coste de inestabilidad. Ideal para activar mutaciones de forma segura.
+- [bold][color=#FF0000]Limpiador[/color][/bold] - Elimina y desactiva una mutacion especifica del sujeto. Util como alternativa a la mutadona cuando quieres remover solo una mutacion en particular.
+
+Todos son de un solo uso.
+
+## Sistema de Inestabilidad
+
+Cada mutacion activa contribuye cierta cantidad de [bold]inestabilidad[/bold] al genoma del sujeto. Algunas mutaciones tienen inestabilidad positiva (las utiles) y otras negativa (las perjudiciales). La inestabilidad total es la suma de todas las mutaciones activas.
+
+[bold][color=#FF0000]Si la inestabilidad alcanza 100, el ADN del sujeto comienza a derretirse![/color][/bold]
+
+El derretimiento de ADN es un efecto devastador que dura 3 minutos y causa daño severo. Para evitarlo:
+
+- Equilibra mutaciones positivas con mutaciones negativas (las negativas reducen inestabilidad)
+- No acumules demasiadas mutaciones poderosas en un solo sujeto
+- Usa limpiadores para remover mutaciones si la inestabilidad se acerca al limite
+
+Señales de advertencia de inestabilidad alta:
+- [color=#AAAAAA]Tiemblas[/color] - Inestabilidad moderada
+- [color=#FFFF00]Sientes frio[/color] - Inestabilidad alta
+- [color=#FF6600]Te sientes enfermo[/color] - Inestabilidad peligrosa
+- [color=#FF0000]Sientes como si tu piel se moviera[/color] - Peligro critico
+- [color=#FF0000]Puedes sentir tus celulas ardiendo[/color] - Derretimiento inminente
+
+## Combinar Mutaciones
+
+Algunas mutaciones avanzadas solo se obtienen [bold]combinando[/bold] dos mutaciones mas simples. Consulta la [textlink="GeneticsRecipes"]lista de recetas[/textlink] para ver todas las combinaciones posibles.
+
+Para combinar:
+1. Almacena una mutacion en un disco (sera el [bold]catalizador[/bold])
+2. Asegurate de que el sujeto tenga la otra mutacion activa
+3. Inserta el disco en la consola y presiona [bold]Combinar[/bold]
+4. Si la combinacion es valida, se añadira la nueva mutacion, pero [bold]no estara secuenciada[/bold]
+5. Tendras que secuenciar la mutacion resultante en multiples sujetos para obtener todas las bases
+
+[bold]Consejo:[/bold] La interfaz de la consola te muestra que combinaciones son posibles con la mutacion del disco insertado.
+
+## Enzimas Unicas
+
+Los discos tambien pueden almacenar las [bold]enzimas unicas[/bold] de una persona. Al aplicar estas enzimas a otro sujeto, se copian:
+
+- Nombre
+- Sexo
+- Huellas dactilares
+- Color de ojos y piel
+
+[bold]No[/bold] se copian el ADN, mutaciones ni peinados. Esto es esencialmente un robo de identidad genetico, util para operaciones encubiertas o bromas elaboradas.
+
+Para guardar enzimas:
+1. Escanea al sujeto
+2. Abre la pestaña de enzimas
+3. Presiona [bold]Guardar en Disco[/bold]
+
+Para aplicar enzimas:
+1. Ten el disco con enzimas insertado
+2. Escanea al sujeto destino
+3. Presiona [bold]Aplicar Enzimas al Sujeto[/bold]
+
+## Investigacion
+
+Una de las funciones mas importantes del geneticista es contribuir a la [bold]investigacion[/bold] de la estacion. Cada vez que secuencias una mutacion exitosamente, la consola otorga [bold]puntos de investigacion[/bold] al servidor de I+D.
+
+Las mutaciones mas complejas (con mayor dificultad) otorgan mas puntos. Esto significa que tu trabajo no solo beneficia a la tripulacion con habilidades mutantes, sino que tambien impulsa la tecnologia de toda la estacion.
+
+## Rareza de Mutaciones
+
+Las mutaciones tienen diferentes niveles de rareza que afectan la frecuencia con que aparecen como dormidas:
+
+- [color=#AAAAAA]Comun[/color] - Se encuentran facilmente en casi cualquier sujeto
+- [color=#5555FF]Rara[/color] - Menos frecuente, requiere escanear multiples sujetos
+- [color=#FF00FF]Mitica[/color] - Extremadamente raras, puede que necesites muchos sujetos para encontrarlas
+
+Algunas mutaciones estan [bold]bloqueadas[/bold] y no aparecen dormidas normalmente. Solo se obtienen por combinacion o son especificas de ciertas especies.
+
+## Consejos para Geneticistas
+
+- [bold]Empieza con los monos[/bold]. No experimentes con la tripulacion hasta que domines la secuenciacion.
+- [bold]Etiqueta tus discos[/bold]. Un etiquetador manual previene el caos de tener docenas de discos sin nombre.
+- [bold]Escanea a todos[/bold]. Cuantas mas personas escanees con tu escaner portatil, mas pares de bases podras deducir.
+- [bold]Equilibra la inestabilidad[/bold]. Las mutaciones negativas (epilepsia, torpeza, etc.) reducen la inestabilidad, permitiendote tener mas mutaciones positivas.
+- [bold]Coopera con quimica[/bold]. Ten medicina a mano para los errores de secuenciacion.
+- [bold]Comunica con seguridad[/bold]. Mutaciones como Hulk o Telekinesis pueden causar problemas si se aplican a la persona equivocada.
+- [bold]Busca combinaciones[/bold]. Las mutaciones mas poderosas solo se obtienen combinando dos mas basicas.
+
+Para ver todas las mutaciones disponibles, consulta la [textlink="GeneticsMutations"]lista completa de mutaciones[/textlink].
+
+Para ver las recetas de combinacion, consulta la [textlink="GeneticsRecipes"]lista de recetas[/textlink].
+
+</Document>

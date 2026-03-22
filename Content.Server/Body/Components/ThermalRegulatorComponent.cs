@@ -9,12 +9,13 @@
 // SPDX-License-Identifier: MIT
 
 using Content.Server.Body.Systems;
+using Content.Shared._Trauma.Genetics.Abilities; // Capibara - ThermalRegulatorMutationSystem access
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom;
 
 namespace Content.Server.Body.Components;
 
 [RegisterComponent]
-[Access(typeof(ThermalRegulatorSystem))]
+[Access(typeof(ThermalRegulatorSystem), typeof(ThermalRegulatorMutationSystem))] // Capibara - added mutation system access
 public sealed partial class ThermalRegulatorComponent : Component
 {
     /// <summary>

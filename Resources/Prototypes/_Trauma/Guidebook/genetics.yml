@@ -1,0 +1,18 @@
+- type: guideEntry
+  id: Genetics
+  name: guide-entry-genetics
+  text: "/ServerInfo/_Trauma/Guidebook/Genetics.xml"
+  children:
+  - GeneticsMutations
+  - GeneticsRecipes
+
+- type: guideEntry
+  id: GeneticsMutations
+  name: guide-entry-mutations
+  text: "/ServerInfo/_Trauma/Guidebook/Mutations.xml"
+  filterEnabled: True
+
+- type: guideEntry
+  id: GeneticsRecipes
+  name: guide-entry-recipes
+  text: "/ServerInfo/_Trauma/Guidebook/Recipes.xml"

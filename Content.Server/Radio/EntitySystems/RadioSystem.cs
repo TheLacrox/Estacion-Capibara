@@ -65,6 +65,7 @@ using Content.Shared.Chat.RadioIconsEvents; // Goobstation
 using Content.Shared.Whitelist; // Goobstation
 using Content.Shared.StatusIcon; // Goobstation
 using Content.Goobstation.Shared.Radio; // Goobstation
+using Content.Shared._Trauma.Speech; // Trauma
 
 namespace Content.Server.Radio.EntitySystems;
 
@@ -328,10 +329,15 @@ public sealed partial class RadioSystem : EntitySystem
             : Loc.GetString("chat-radio-message-name-with-icon", ("jobIcon", jobIcon), ("jobName", jobName ?? ""), ("name", name));
         // goob end
 
+        // Trauma - allow source entity to replace font
+        var fontEv = new SpeechFontOverrideEvent(source, language.SpeechOverride.FontId ?? speech.FontId);
+        RaiseLocalEvent(source, ref fontEv);
+        // Trauma
+
         return Loc.GetString(wrapId,
             ("color", channel.Color),
             ("languageColor", languageColor),
-            ("fontType", language.SpeechOverride.FontId ?? speech.FontId),
+            ("fontType", fontEv.Font), // Trauma - use Font from above
             ("fontSize", loudSpeakFont ?? language.SpeechOverride.FontSize ?? speech.FontSize), // goob edit - "loudSpeakFont"
             ("boldFontType", language.SpeechOverride.BoldFontId ?? language.SpeechOverride.FontId ?? speech.FontId), // Goob Edit - Custom Bold Fonts
             ("verb", Loc.GetString(_random.Pick(speech.SpeechVerbStrings))),

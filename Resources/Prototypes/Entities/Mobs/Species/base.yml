@@ -515,6 +515,7 @@
   id: BaseMobSpeciesOrganic
   abstract: true
   components:
+  - type: Mutatable # Trauma - genetics mutation system
   - type: Absorbable # Goobstation - changelings
   - type: WraithAbsorbable # Goobstation - wraith
   - type: Barotrauma

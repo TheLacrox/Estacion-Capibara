@@ -1,0 +1,66 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
+using Content.Shared.Body.Components;
+using Content.Shared.Body.Part;
+using Content.Shared.Body.Systems;
+using Content.Shared.EntityEffects;
+using Robust.Shared.Prototypes;
+
+namespace Content.Shared._Trauma.Medical.EntityEffects;
+
+/// <summary>
+/// Relays entity effects to all body parts of a given type, or all parts.
+/// Target must be a body.
+/// </summary>
+public sealed partial class RelayBodyParts : EntityEffectBase<RelayBodyParts>
+{
+    /// <summary>
+    /// The body part type to run effects on.
+    /// It will run on all of them if there are multiple.
+    /// If this is null it will run on all body parts.
+    /// </summary>
+    [DataField]
+    public BodyPartType? PartType;
+
+    /// <summary>
+    /// Optional part symmetry to require.
+    /// </summary>
+    [DataField]
+    public BodyPartSymmetry? Symmetry;
+
+    /// <summary>
+    /// Text to use for the guidebook entry for reagents.
+    /// </summary>
+    [DataField]
+    public LocId? GuidebookText;
+
+    [DataField(required: true)]
+    public EntityEffect[] Effects = default!;
+
+    public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
+        => GuidebookText is {} key ? Loc.GetString(key, ("chance", Probability)) : null;
+}
+
+public sealed class RelayBodyPartsEffectSystem : EntityEffectSystem<BodyComponent, RelayBodyParts>
+{
+    [Dependency] private readonly SharedBodySystem _body = default!;
+    [Dependency] private readonly SharedEntityEffectsSystem _effects = default!;
+
+    protected override void Effect(Entity<BodyComponent> ent, ref EntityEffectEvent<RelayBodyParts> args)
+    {
+        var effect = args.Effect;
+        var effects = effect.Effects;
+        var partType = effect.PartType;
+
+        IEnumerable<(EntityUid Id, BodyPartComponent Component)> parts;
+        if (partType != null)
+            parts = _body.GetBodyChildrenOfType(ent, partType.Value, ent.Comp, effect.Symmetry);
+        else
+            parts = _body.GetBodyChildren(ent, ent.Comp);
+
+        foreach (var (partUid, _) in parts)
+        {
+            _effects.ApplyEffects(partUid, effects, args.Scale, args.User);
+        }
+    }
+}

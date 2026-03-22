@@ -150,6 +150,7 @@ public partial class MobStateSystem
         switch (ent.Comp.CurrentState)
         {
             case MobState.Dead:
+            case MobState.SoftCrit: // Trauma
             case MobState.Critical:
                 args.Cancelled = true;
                 break;
@@ -163,6 +164,7 @@ public partial class MobStateSystem
             case MobState.Alive:
                 //unused
                 break;
+            case MobState.SoftCrit: // Trauma
             case MobState.Critical:
                 _standing.Stand(target);
                 break;
@@ -193,6 +195,7 @@ public partial class MobStateSystem
                 _standing.Stand(target);
                 _appearance.SetData(target, MobStateVisuals.State, MobState.Alive);
                 break;
+            case MobState.SoftCrit: // Trauma
             case MobState.Critical:
                 _standing.Down(target);
                 RaiseLocalEvent(target, ref ev); // Goobstation
@@ -245,6 +248,7 @@ public partial class MobStateSystem
         switch (component.CurrentState)
         {
             case MobState.Dead:
+            case MobState.SoftCrit: // Trauma
             case MobState.Critical:
                 args.Cancel();
                 break;

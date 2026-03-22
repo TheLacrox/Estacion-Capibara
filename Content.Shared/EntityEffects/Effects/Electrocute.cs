@@ -21,6 +21,11 @@ public sealed partial class Electrocute : EntityEffect
     /// </remarks>
     [DataField] public bool Refresh = true;
 
+    /// <summary>
+    /// If true, bypass insulated gloves and similar protective equipment. Trauma genetics.
+    /// </summary>
+    [DataField] public bool BypassInsulation = true;
+
     protected override string? ReagentEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
         => Loc.GetString("reagent-effect-guidebook-electrocute", ("chance", Probability), ("time", ElectrocuteTime));
 

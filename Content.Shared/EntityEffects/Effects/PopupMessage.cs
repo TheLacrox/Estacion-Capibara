@@ -31,6 +31,12 @@ namespace Content.Shared.EntityEffects.Effects
         [DataField]
         public PopupType VisualType = PopupType.Small;
 
+        /// <summary>
+        /// Popup method override for genetics mutations. Trauma genetics.
+        /// </summary>
+        [DataField]
+        public string? Method;
+
         // JUSTIFICATION: This is purely cosmetic.
         protected override string? ReagentEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
             => null;

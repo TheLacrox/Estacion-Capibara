@@ -158,6 +158,7 @@ using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 using Robust.Shared.Replays;
 using Robust.Shared.Utility;
+using Content.Shared._Trauma.Speech; // Trauma
 
 namespace Content.Server.Chat.Systems;
 
@@ -1300,11 +1301,16 @@ public sealed partial class ChatSystem : SharedChatSystem
 
         // goob end
 
+        // Trauma - allow source entity to replace font
+        var fontEv = new SpeechFontOverrideEvent(source, language.SpeechOverride.FontId ?? speech.FontId);
+        RaiseLocalEvent(source, ref fontEv);
+        // Trauma
+
         return Loc.GetString(wrapId,
             ("color", color),
             ("entityName", entityName),
             ("verb", Loc.GetString(verbId)),
-            ("fontType", language.SpeechOverride.FontId ?? speech.FontId),
+            ("fontType", fontEv.Font), // Trauma - use Font from above
             ("fontSize", loudSpeakFont ?? language.SpeechOverride.FontSize ?? speech.FontSize), // goob edit - "loudSpeakFont"
             ("boldFontType", language.SpeechOverride.BoldFontId ?? language.SpeechOverride.FontId ?? speech.FontId), // Goob Edit - Custom Bold Fonts
             ("message", message),

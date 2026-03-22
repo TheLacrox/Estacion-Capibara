@@ -1,0 +1,159 @@
+- type: polymorph
+  id: MutationMonkey
+  configuration:
+    entity: MobMonkey
+    transferName: true
+    componentsToTransfer: [] # Prevents language transfer
+    forced: true
+    revertOnCrit: false
+    revertOnDeath: false
+
+    inventory: Transfer
+    polymorphSound: /Audio/Animals/monkey_scream.ogg
+
+- type: polymorph
+  id: MutationHuman
+  configuration:
+    entity: MobHuman
+    transferName: true # human named monkey (MK-28) kino
+    # yes language so monkey is still forced to speak monkey
+    forced: true
+    revertOnCrit: false
+    revertOnDeath: false
+
+    inventory: Transfer
+    polymorphSound: /Audio/Voice/Human/malescream_1.ogg
+
+- type: polymorph
+  id: MutationKobold
+  configuration:
+    entity: MobKobold
+    transferName: true
+    componentsToTransfer: [] # Prevents language transfer
+    forced: true
+    revertOnCrit: false
+    revertOnDeath: false
+
+    inventory: Transfer
+    polymorphSound: /Audio/Animals/monkey_scream.ogg
+
+- type: polymorph
+  id: MutationReptilian
+  configuration:
+    entity: MobReptilian
+    transferName: true # human named monkey (MK-28) kino
+    # yes language so monkey is still forced to speak monkey
+    forced: true
+    revertOnCrit: false
+    revertOnDeath: false
+
+    inventory: Transfer
+    polymorphSound: /Audio/Voice/Reptilian/reptilian_scream.ogg
+
+- type: polymorph
+  id: MutationMouse
+  configuration:
+    entity: MobMouse
+    transferName: true
+    componentsToTransfer: [] # Prevents language transfer
+    forced: true
+    revertOnCrit: false
+    revertOnDeath: false
+
+    inventory: Drop
+    polymorphSound: /Audio/Animals/mouse_squeak.ogg
+
+- type: polymorph
+  id: TongueSpike
+  configuration:
+    entity: TongueSpike
+    forced: true
+
+    polymorphPopup: null
+    exitPolymorphPopup: MutationTongueSpike-popup-revert
+
+- type: polymorph
+  id: TongueSpikeChem
+  configuration:
+    entity: TongueSpikeChem
+    forced: true
+
+    polymorphPopup: null
+    exitPolymorphPopup: MutationTongueSpike-popup-revert
+
+# Something Horrible polymorphs
+
+- type: polymorph
+  id: MutationCorgi
+  configuration:
+    entity: MobCorgi
+    forced: false
+    inventory: Drop
+    transferName: true
+    componentsToTransfer: []
+    revertOnCrit: false
+    revertOnDeath: false
+
+
+- type: polymorph
+  id: MutationSlime
+  configuration:
+    entity: MobAdultSlimes
+    forced: false
+    inventory: Drop
+    transferName: true
+    componentsToTransfer: []
+    revertOnCrit: false
+    revertOnDeath: false
+
+
+- type: polymorph
+  id: MutationSnail
+  configuration:
+    entity: MobSnail
+    forced: false
+    inventory: Drop
+    transferName: true
+    componentsToTransfer: []
+    revertOnCrit: false
+    revertOnDeath: false
+
+    allowRepeatedMorphs: false
+
+- type: polymorph
+  id: MutationCrab
+  configuration:
+    entity: MobCrab
+    forced: false
+    inventory: Drop
+    transferName: true
+    componentsToTransfer: []
+    revertOnCrit: false
+    revertOnDeath: false
+
+    allowRepeatedMorphs: false
+
+- type: polymorph
+  id: MutationSkeleton
+  configuration:
+    entity: MobSkeletonPerson
+    forced: false
+    inventory: Drop # your skin melts off so your clothes drop
+    transferName: false # fibula time
+    revertOnCrit: false
+    revertOnDeath: false
+
+
+- type: polymorph
+  id: VoidMagnet
+  configuration:
+    entity: VoidMagnetPocket
+    transferName: false
+    inventory: None
+    forced: true # Player must wait for duration to expire
+    revertOnDeath: true
+    allowRepeatedMorphs: false
+    polymorphSound: /Audio/Magic/ethereal_enter.ogg
+    exitPolymorphSound: /Audio/Magic/ethereal_exit.ogg
+    duration: 10
+    effectProto: EffectDesynchronizer # TODO: make a more evil one

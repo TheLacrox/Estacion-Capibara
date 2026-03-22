@@ -118,6 +118,22 @@ Sometimes you need to hook into existing upstream systems. These edits create me
 | `Content.Shared/Humanoid/SharedHumanoidAppearanceSystem.cs` | Set TTS voice from profile in `LoadProfile` after `SetBarkVoice` | Low (small addition) |
 | `Content.Client/Lobby/UI/HumanoidProfileEditor.xaml` | Add TTS voice selector UI after barks container | Low (append) |
 | `Content.Client/Lobby/UI/HumanoidProfileEditor.xaml.cs` | Init TTS voice UI + `UpdateTTSVoice()` calls | Low (small additions) |
+| `Content.Shared/Mobs/MobState.cs` | Added `SoftCrit = 2`, shifted Critical to 3, Dead to 4 for Trauma genetics | High (enum values changed) |
+| `Content.Shared/Mobs/Systems/MobStateSystem.cs` | `IsCritical()` also checks SoftCrit | Medium (behavior change) |
+| `Content.Shared/Mobs/Systems/MobStateSystem.Subscribers.cs` | SoftCrit cases in 4 switch statements | Medium (multiple edits) |
+| `Content.Shared/Mobs/Components/MobThresholdsComponent.cs` | SoftCrit alert mapping | Low (small addition) |
+| `Content.Server/Body/Components/ThermalRegulatorComponent.cs` | Added mutation system to `[Access]` | Low (attribute edit) |
+| `Content.Shared/Movement/Systems/SharedMoverController.cs` | Raise `FootStepEvent` for Trauma genetics | Low (small addition) |
+| `Content.Server/Chat/Systems/ChatSystem.cs` | Raise `SpeechFontOverrideEvent` for Trauma genetics | Low (small addition) |
+| `Content.Server/Radio/EntitySystems/RadioSystem.cs` | Raise `SpeechFontOverrideEvent` for Trauma genetics | Low (small addition) |
+| `Content.Server/Medical/MedicalScannerSystem.cs` | Raise scanner events for Trauma genetics | Low (small addition) |
+| `Content.Shared/Chemistry/Reaction/ReactiveComponent.cs` | Add `ScaleOverride` field for Trauma genetics | Low (append field) |
+| `Content.Shared/EntityEffects/Effects/StatusEffects/GenericStatusEffect.cs` | Add `Update` to `StatusEffectMetabolismType` enum for Trauma genetics | Low (prepend value) |
+| `Content.Shared/Trigger/Systems/DnaScrambleOnTriggerSystem.cs` | Extract public `Scramble()` method for `ScrambleDna` entity effect | Low (refactor) |
+| `Resources/Prototypes/Roles/Jobs/departments.yml` | Added Geneticist to Science department roles | Low (append to list) |
+| `Resources/Prototypes/Guidebook/science.yml` | Added Genetics to Science guidebook children | Low (append to list) |
+| `Content.Shared/Body/Systems/SharedBloodstreamSystem.cs` | Raise `BleedModifierEvent` in bleed tick for Trauma genetics bleeding mutation | Low (small addition) |
+| `Resources/Prototypes/Entities/Mobs/Species/base.yml` | Add `MutatableComponent` to `BaseMobSpeciesOrganic` for genetics system | Low (append component) |
 
 **Rules for upstream edits:**
 

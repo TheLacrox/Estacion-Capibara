@@ -1,0 +1,97 @@
+<Document>
+# Recetas de Combinacion
+
+Las mutaciones avanzadas se obtienen [bold]combinando[/bold] dos mutaciones mas simples en la consola de genetica. Para combinar necesitas:
+
+1. Una mutacion almacenada en un disco (el [bold]catalizador[/bold])
+2. El sujeto debe tener la otra mutacion [bold]activa[/bold]
+
+La mutacion resultante se añade al sujeto pero [bold]no esta secuenciada[/bold] - tendras que secuenciarla despues.
+
+## Recetas de Adaptacion
+
+[bold][color=#00AAFF]Adaptacion Termica[/color][/bold]
+Combina: [color=#55AAFF]Adaptacion al Frio[/color] + [color=#FF5555]Adaptacion al Calor[/color]
+Efecto: Inmunidad total a daño por temperatura alta y baja. Inestabilidad: 35. Rareza: Mitica.
+
+[bold][color=#FF6600]Cierre Homeostatico[/color][/bold]
+Combina: [color=#55AAFF]Debilidad al Frio[/color] + [color=#FF5555]Debilidad al Calor[/color]
+Efecto: Apaga casi completamente la regulacion termica del cuerpo, haciendo al sujeto extremadamente vulnerable a cambios de temperatura. Inestabilidad: -40.
+
+## Recetas de Combate
+
+[bold][color=#00FF00]Hulk[/color][/bold]
+Combina: [color=#55AAFF]Radioactividad[/color] + [color=#FFFF00]Fuerza[/color]
+Efecto: Los musculos del sujeto se expanden enormemente, le da piel verde e inhibe el habla. Inestabilidad: 35. Rareza: Mitica.
+
+[bold][color=#828163]Ork[/color][/bold]
+Combina: [color=#00FF00]Hulk[/color] + [color=#FF5555]Torpeza[/color]
+Efecto: Una variante del Hulk que tambien afecta severamente los centros del habla. Inestabilidad: 35. Rareza: Mitica.
+
+## Recetas de Toque
+
+[bold][color=#FFFF00]Toque Electrico[/color][/bold]
+Combina: [color=#55AAFF]Aislado[/color] + [color=#00AAFF]Radioactividad[/color]
+Efecto: Permite al sujeto canalizar electricidad a traves de sus manos para electrocutar a otros. Inestabilidad: 25. Rareza: Mitica.
+
+## Recetas de Proyectiles
+
+[bold][color=#FF6600]Cindikinesis[/color][/bold]
+Combina: [color=#55AAFF]Geladikinesis[/color] + [color=#FF5555]Sudor Ardiente[/color]
+Efecto: Permite concentrar calor cercano en un monton de ceniza. Inestabilidad: 10.
+
+[bold][color=#FF0000]Pyrokinesis[/color][/bold]
+Combina: [color=#00AAFF]Cryokinesis[/color] + [color=#FF5555]Sudor Ardiente[/color]
+Efecto: Dispara un proyectil de calor a un objetivo. Inestabilidad: 25. Rareza: Rara.
+
+## Recetas Telepaticas
+
+[bold][color=#FF00FF]Lector de Mentes[/color][/bold]
+Combina: [color=#FFFF00]Antena[/color] + [color=#FF5555]Paranoia[/color]
+Efecto: Permite leer los recuerdos recientes y la intencion de otros. Inestabilidad: 10.
+
+## Recetas de Cuerpo
+
+[bold][color=#555555]Anti-Brillo[/color][/bold]
+Combina: [color=#FFFF00]Brilloso[/color] + [color=#FF00FF]Iman del Vacio[/color]
+Efecto: La piel del sujeto atrae y absorbe luz cercana, creando oscuridad a su alrededor. Inestabilidad: 10.
+
+[bold][color=#FF0000]Martirio Interno[/color][/bold]
+Combina: [color=#FFFF00]Fuerza[/color] + [color=#00AAFF]Estimulado[/color]
+Efecto: El cuerpo se autodestruye cerca de la muerte, causando una explosion de desorientacion. Inestabilidad: -40.
+
+[bold][color=#828163]Absorbe-Rocas[/color][/bold]
+Combina: [color=#FFFF00]Come-Rocas[/color] + [color=#FF5555]Pacheco[/color]
+Efecto: Version mejorada del Come-Rocas que permite absorber propiedades de minerales. Inestabilidad: 35.
+
+## Recetas de Habla
+
+[bold][color=#FF00FF]Heckacious Larincks[/color][/bold]
+Combina: [color=#FFFF00]Wacky[/color] + [color=#FF5555]Pacheco[/color]
+Efecto: Distorsiona severamente el habla del sujeto de formas incomprensibles.
+
+## Recetas de Lengua
+
+[bold][color=#00FF00]Espina Quimica[/color][/bold]
+Combina: [color=#FFFF00]Espina Lingual[/color] + [color=#00AAFF]Estimulado[/color]
+Efecto: Version mejorada de la Espina Lingual que permite transferir quimicos a traves de la espina incrustada. Inestabilidad: 10.
+
+## Resumen Rapido
+
+| Resultado | Ingrediente 1 | Ingrediente 2 |
+|---|---|---|
+| Adaptacion Termica | Adaptacion al Frio | Adaptacion al Calor |
+| Cierre Homeostatico | Debilidad al Frio | Debilidad al Calor |
+| Hulk | Radioactividad | Fuerza |
+| Ork | Hulk | Torpeza |
+| Toque Electrico | Aislado | Radioactividad |
+| Cindikinesis | Geladikinesis | Sudor Ardiente |
+| Pyrokinesis | Cryokinesis | Sudor Ardiente |
+| Lector de Mentes | Antena | Paranoia |
+| Anti-Brillo | Brilloso | Iman del Vacio |
+| Martirio Interno | Fuerza | Estimulado |
+| Absorbe-Rocas | Come-Rocas | Pacheco |
+| Heckacious Larincks | Wacky | Pacheco |
+| Espina Quimica | Espina Lingual | Estimulado |
+
+</Document>

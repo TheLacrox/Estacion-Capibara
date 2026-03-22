@@ -1,0 +1,22 @@
+# Organ categories for the genetics mutation system
+
+- type: organCategory
+  id: Brain
+
+- type: organCategory
+  id: Eyes
+
+- type: organCategory
+  id: Tongue
+
+- type: organCategory
+  id: Torso
+
+- type: organCategory
+  id: Ears
+
+- type: organCategory
+  id: Head
+
+- type: organCategory
+  id: Tail

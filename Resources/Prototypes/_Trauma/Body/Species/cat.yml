@@ -1,0 +1,15 @@
+# Stub cat organ entities ported from Trauma-Station.
+# These are referenced by the felinid mutation entityEffect prototypes.
+# Full implementations require the Trauma/Shitmed body organ system.
+
+- type: entity
+  parent: BaseItem
+  id: OrganCatTail
+  name: cat tail
+  description: A fluffy cat tail.
+
+- type: entity
+  parent: BaseItem
+  id: OrganCatEars
+  name: cat ears
+  description: A pair of fuzzy cat ears.

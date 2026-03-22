@@ -1,0 +1,29 @@
+<Document>
+# Lista de Mutaciones
+
+Aqui se listan todas las mutaciones disponibles en el sistema de genetica, generadas automaticamente. Cada entrada muestra el nombre, descripcion, inestabilidad, dificultad y rareza de la mutacion, asi como si se obtiene de forma aleatoria (dormida) o mediante combinacion.
+
+Las mutaciones con [bold]inestabilidad negativa[/bold] son generalmente perjudiciales, pero ayudan a equilibrar tu inestabilidad total para poder tener mas mutaciones positivas activas. Las mutaciones con [bold]inestabilidad 0[/bold] no afectan al limite de inestabilidad.
+
+## Categorias de Mutaciones
+
+Las mutaciones se agrupan en varias categorias:
+
+- [bold]Adaptacion[/bold] - Resistencias a temperatura y presion (Adaptacion al Frio, Calor, Termica, Presion)
+- [bold]Cuerpo[/bold] - Cambios fisicos (Enanismo, Acromegalia, Gigantismo, H.A.R.S., Felinizado, Monificado)
+- [bold]Combate[/bold] - Hulk, Ork, Fuerza, Inexorable, Brazos Elasticos
+- [bold]Habla[/bold] - Cambios en la voz (Nerviosismo, Wacky, Medieval, Mudo, Sueco, Chav, Elvis, Pig Latin)
+- [bold]Vision[/bold] - Ceguera, Miopia, Vision Termica, Vision Lejana
+- [bold]Acciones[/bold] - Habilidades activables (Subida de Adrenalina, Autotomia, Produccion de Telarañas, Iman del Vacio)
+- [bold]Toque[/bold] - Poderes de contacto (Toque Electrico, Toque Curativo)
+- [bold]Proyectiles[/bold] - Cindikinesis, Geladikinesis, Pyrokinesis, Cryokinesis, Aliento de Fuego
+- [bold]Lengua[/bold] - Espina Lingual, Espina Quimica
+- [bold]Telepaticos[/bold] - Telepatia, Lector de Mentes, Telekinesis, Antena
+- [bold]Pasivos[/bold] - Efectos constantes (Brilloso, Anti-Brillo, Radioactividad, Camaleon, Aislado, Estimulado)
+- [bold]Debilidades[/bold] - Epilepsia, Tos, Paranoia, Torpeza, Sordera, Dos Pies Izquierdos, Martirio Interno
+
+Usa el filtro de busqueda arriba para encontrar mutaciones especificas.
+
+<GuideMutationsEmbed/>
+
+</Document>

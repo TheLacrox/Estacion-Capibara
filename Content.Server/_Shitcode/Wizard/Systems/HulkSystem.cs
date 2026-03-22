@@ -89,6 +89,12 @@ public sealed class HulkSystem : SharedHulkSystem
 
             _humanoidAppearance.SetSkinColor(uid, comp.SkinColor, true, false, humanoid);
 
+            // Capibara - also recolor species-specific layers (ears, tail, snout) to match hulk skin
+            foreach (var layer in new[] { HumanoidVisualLayers.Tail, HumanoidVisualLayers.HeadSide, HumanoidVisualLayers.HeadTop, HumanoidVisualLayers.Snout })
+            {
+                _humanoidAppearance.SetBaseLayerColor(uid, layer, comp.SkinColor, false, humanoid);
+            }
+
             if (comp.LaserEyes)
                 humanoid.EyeColor = comp.EyeColor;
 

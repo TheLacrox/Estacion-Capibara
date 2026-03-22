@@ -1,0 +1,9 @@
+# Ported from Trauma-Station
+# Uses HumanoidAppearance instead of HumanoidProfile (Trauma-specific component)
+- type: entityCondition
+  id: IsHumanoid
+  condition: !type:WhitelistCondition
+    whitelist:
+      components:
+      - HumanoidAppearance
+    guidebookText: entity-condition-guidebook-is-humanoid

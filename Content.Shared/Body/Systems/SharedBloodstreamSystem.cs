@@ -96,10 +96,14 @@ public abstract partial class SharedBloodstreamSystem : EntitySystem
             // as well as stop their bleeding to a certain extent.
             if (bloodstream.BleedAmount > 0)
             {
+                // Capibara - raise BleedModifierEvent so genetics mutations can modify bleed values
+                var bleedEv = new BleedModifierEvent(bloodstream.BleedAmount, bloodstream.BleedReductionAmount);
+                RaiseLocalEvent(uid, ref bleedEv);
+
                 // Blood is removed from the bloodstream at a 1-1 rate with the bleed amount
-                TryModifyBloodLevel((uid, bloodstream), -bloodstream.BleedAmount);
+                TryModifyBloodLevel((uid, bloodstream), -bleedEv.BleedAmount);
                 // Bleed rate is reduced by the bleed reduction amount in the bloodstream component.
-                TryModifyBleedAmount((uid, bloodstream), -bloodstream.BleedReductionAmount);
+                TryModifyBleedAmount((uid, bloodstream), -bleedEv.BleedReductionAmount);
             }
 
             // deal bloodloss damage if their blood level is below a threshold.

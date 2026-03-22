@@ -177,6 +177,12 @@ public sealed partial class ActionComponent : Component
     public bool RaiseOnUser;
 
     /// <summary>
+    ///     If true, the action event will be raised on the action entity itself. // Trauma
+    /// </summary>
+    [DataField, AutoNetworkedField]
+    public bool RaiseOnAction;
+
+    /// <summary>
     ///     Whether or not to automatically add this action to the action bar when it becomes available.
     /// </summary>
     [DataField, AutoNetworkedField]

@@ -76,7 +76,8 @@ public sealed partial class GenericStatusEffect : EntityEffect
 
 public enum StatusEffectMetabolismType
 {
+    Update, // Trauma - used by BaseStatusEntityEffect for mutation effects
     Add,
     Remove,
-    Set
+    Set,
 }

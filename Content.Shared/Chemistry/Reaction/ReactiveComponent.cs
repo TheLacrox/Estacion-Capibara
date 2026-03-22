@@ -39,6 +39,12 @@ public sealed partial class ReactiveComponent : Component
     ///     Goobstation - should 15 units of whatchamacallit get clamped into one?
     /// </summary>
     [DataField] public bool OneUnitReaction = false;
+
+    /// <summary>
+    /// Trauma - Scale override to use instead of reagent quantity for entity effects.
+    /// </summary>
+    [DataField]
+    public float? ScaleOverride;
 }
 
 [DataDefinition]

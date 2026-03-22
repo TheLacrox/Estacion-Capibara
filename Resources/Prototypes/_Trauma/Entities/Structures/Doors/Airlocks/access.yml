@@ -1,0 +1,27 @@
+# Genetics
+
+# TODO: make sprites for genetics airlocks
+- type: entity
+  parent: AirlockScience
+  id: AirlockGeneticsLocked
+  suffix: Genetics, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsGenetics ]
+
+- type: entity
+  parent: AirlockScienceGlass
+  id: AirlockGeneticsGlassLocked
+  suffix: Genetics, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsGenetics ]
+
+- type: entity
+  parent: AirlockGeneticsLocked
+  id: AirlockMaintGeneticsLocked
+  components:
+  - type: Sprite
+    sprite: Structures/Doors/Airlocks/Standard/maint.rsi

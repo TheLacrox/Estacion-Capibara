@@ -1,0 +1,7 @@
+- type: entity
+  parent: DefaultStationBeaconScience
+  id: DefaultStationBeaconGenetics
+  suffix: Genetics
+  components:
+  - type: NavMapBeacon
+    defaultText: station-beacon-genetics
