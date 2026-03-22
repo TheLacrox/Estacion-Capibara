@@ -83,6 +83,7 @@ using Content.Shared.DoAfter;
 using Content.Shared.Examine;
 using Content.Shared.Interaction;
 using Content.Shared.Swab;
+using Content.Shared._Capibara.Botany.Events; // Capibara - genome breeding events
 
 namespace Content.Server.Botany.Systems;
 
@@ -144,6 +145,7 @@ public sealed class BotanySwabSystem : EntitySystem
         {
             // Pick up pollen
             swab.SeedData = plant.Seed;
+            swab.SourcePlantHolder = args.Args.Target.Value; // Capibara - track source for genome breeding
             _popupSystem.PopupEntity(Loc.GetString("botany-swab-from"), args.Args.Target.Value, args.Args.User);
         }
         else
@@ -154,6 +156,11 @@ public sealed class BotanySwabSystem : EntitySystem
             plant.Seed = _mutationSystem.Cross(swab.SeedData, old); // Cross-pollenate
             swab.SeedData = old; // Transfer old plant pollen to swab
             _popupSystem.PopupEntity(Loc.GetString("botany-swab-to"), args.Args.Target.Value, args.Args.User);
+
+            // Capibara - Raise event for genome breeding system
+            var sourceHolder = swab.SourcePlantHolder ?? EntityUid.Invalid;
+            var crossEv = new PlantCrossPollinatedEvent(sourceHolder, args.Args.Target.Value);
+            RaiseLocalEvent(ref crossEv);
         }
 
         args.Handled = true;

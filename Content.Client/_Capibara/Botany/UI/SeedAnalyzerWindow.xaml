@@ -1,0 +1,105 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<controls:FancyWindow
+    xmlns="https://spacestation14.io"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
+    xmlns:controls="clr-namespace:Content.Client.UserInterface.Controls"
+    Title="{Loc 'capibara-seed-analyzer-title'}"
+    MinSize="360 480"
+    SetSize="380 520">
+
+    <BoxContainer Orientation="Vertical" VerticalExpand="True">
+
+        <!-- No Seed Message -->
+        <Label Name="NoSeedLabel"
+               Text="{Loc 'capibara-seed-analyzer-no-seed'}"
+               HorizontalAlignment="Center"
+               Margin="8 40"
+               Visible="True" />
+
+        <!-- Content -->
+        <ScrollContainer Name="ContentScroll" VerticalExpand="True" Visible="False">
+            <BoxContainer Orientation="Vertical">
+
+                <!-- Species Header -->
+                <PanelContainer Margin="6 4 6 2">
+                    <PanelContainer.PanelOverride>
+                        <gfx:StyleBoxFlat BackgroundColor="#162016"
+                                          BorderColor="#2D4A2D" BorderThickness="1 1 1 1"
+                                          ContentMarginLeftOverride="10"
+                                          ContentMarginTopOverride="8"
+                                          ContentMarginBottomOverride="8"
+                                          ContentMarginRightOverride="10"/>
+                    </PanelContainer.PanelOverride>
+                    <Label Name="SpeciesLabel" StyleClasses="LabelHeadingBig" HorizontalAlignment="Center" />
+                </PanelContainer>
+
+                <!-- Stats Section -->
+                <BoxContainer Orientation="Vertical" Margin="6 4 6 0">
+                    <PanelContainer>
+                        <PanelContainer.PanelOverride>
+                            <gfx:StyleBoxFlat BackgroundColor="#1A1A2E"
+                                              ContentMarginLeftOverride="6"
+                                              ContentMarginTopOverride="3"
+                                              ContentMarginBottomOverride="3"
+                                              ContentMarginRightOverride="6"/>
+                        </PanelContainer.PanelOverride>
+                        <Label Text="{Loc 'capibara-seed-analyzer-stats-header'}" StyleClasses="LabelKeyText" />
+                    </PanelContainer>
+                    <BoxContainer Orientation="Vertical" Margin="4 4 4 0">
+                        <GridContainer Name="StatsGrid" Columns="4" />
+                    </BoxContainer>
+                </BoxContainer>
+
+                <!-- Genome Section -->
+                <BoxContainer Orientation="Vertical" Margin="6 6 6 0">
+                    <PanelContainer>
+                        <PanelContainer.PanelOverride>
+                            <gfx:StyleBoxFlat BackgroundColor="#2E1A2E"
+                                              ContentMarginLeftOverride="6"
+                                              ContentMarginTopOverride="3"
+                                              ContentMarginBottomOverride="3"
+                                              ContentMarginRightOverride="6"/>
+                        </PanelContainer.PanelOverride>
+                        <BoxContainer Orientation="Horizontal">
+                            <Label Text="{Loc 'capibara-seed-analyzer-genome-header'}"
+                                   StyleClasses="LabelKeyText" HorizontalExpand="True" />
+                            <Label Name="InstabilityLabel" />
+                        </BoxContainer>
+                    </PanelContainer>
+                    <BoxContainer Name="GeneSlotsContainer" Orientation="Vertical" Margin="4 4 4 0" />
+                </BoxContainer>
+
+                <!-- Epigenetics -->
+                <BoxContainer Orientation="Vertical" Margin="6 6 6 4">
+                    <PanelContainer>
+                        <PanelContainer.PanelOverride>
+                            <gfx:StyleBoxFlat BackgroundColor="#1A2E2E"
+                                              ContentMarginLeftOverride="6"
+                                              ContentMarginTopOverride="3"
+                                              ContentMarginBottomOverride="3"
+                                              ContentMarginRightOverride="6"/>
+                        </PanelContainer.PanelOverride>
+                        <Label Text="{Loc 'capibara-seed-analyzer-epigenetics-header'}" StyleClasses="LabelKeyText" />
+                    </PanelContainer>
+                    <BoxContainer Name="EpigeneticsContainer" Orientation="Vertical" Margin="4 4 4 0" />
+                    <Label Name="NoEpigeneticsLabel"
+                           Text="{Loc 'capibara-seed-analyzer-no-epigenetics'}"
+                           StyleClasses="LabelSubText" Margin="4 2 0 0" />
+                </BoxContainer>
+
+            </BoxContainer>
+        </ScrollContainer>
+
+        <!-- Eject Button (always visible) -->
+        <Button Name="EjectButton"
+                Text="{Loc 'capibara-seed-analyzer-eject'}"
+                HorizontalExpand="True"
+                Margin="6 4 6 6" />
+
+    </BoxContainer>
+</controls:FancyWindow>

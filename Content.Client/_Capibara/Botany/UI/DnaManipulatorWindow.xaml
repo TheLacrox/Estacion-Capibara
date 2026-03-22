@@ -1,0 +1,69 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<controls:FancyWindow
+    xmlns="https://spacestation14.io"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
+    xmlns:controls="clr-namespace:Content.Client.UserInterface.Controls"
+    Title="{Loc 'capibara-dna-manipulator-title'}"
+    MinSize="400 500"
+    SetSize="420 540">
+
+    <BoxContainer Orientation="Vertical" VerticalExpand="True">
+
+        <!-- Seed Section -->
+        <PanelContainer Margin="6 4 6 2">
+            <PanelContainer.PanelOverride>
+                <gfx:StyleBoxFlat BackgroundColor="#162016"
+                                  BorderColor="#2D4A2D" BorderThickness="0 0 0 1"
+                                  ContentMarginLeftOverride="8" ContentMarginTopOverride="6"
+                                  ContentMarginBottomOverride="6" ContentMarginRightOverride="8"/>
+            </PanelContainer.PanelOverride>
+            <BoxContainer Orientation="Horizontal">
+                <BoxContainer Orientation="Vertical" HorizontalExpand="True">
+                    <Label Text="{Loc 'capibara-dna-manipulator-seed-header'}" StyleClasses="LabelKeyText" />
+                    <Label Name="SeedNameLabel" Margin="0 2 0 0" />
+                    <Label Name="InstabilityLabel" StyleClasses="LabelSubText" Margin="0 1 0 0" />
+                </BoxContainer>
+                <Button Name="EjectSeedButton"
+                        Text="{Loc 'capibara-dna-manipulator-eject'}"
+                        VerticalAlignment="Center" />
+            </BoxContainer>
+        </PanelContainer>
+
+        <!-- Gene Slots -->
+        <ScrollContainer VerticalExpand="True" Margin="6 2 6 2">
+            <BoxContainer Name="GeneSlotsContainer" Orientation="Vertical" />
+        </ScrollContainer>
+
+        <!-- Disk Section -->
+        <PanelContainer Margin="6 2 6 2">
+            <PanelContainer.PanelOverride>
+                <gfx:StyleBoxFlat BackgroundColor="#1A1A2E"
+                                  BorderColor="#2D2D4A" BorderThickness="0 1 0 0"
+                                  ContentMarginLeftOverride="8" ContentMarginTopOverride="6"
+                                  ContentMarginBottomOverride="6" ContentMarginRightOverride="8"/>
+            </PanelContainer.PanelOverride>
+            <BoxContainer Orientation="Horizontal">
+                <BoxContainer Orientation="Vertical" HorizontalExpand="True">
+                    <Label Text="{Loc 'capibara-dna-manipulator-disk-header'}" StyleClasses="LabelKeyText" />
+                    <Label Name="DiskStatusLabel" Margin="0 2 0 0" />
+                    <Label Name="DiskIntegrityLabel" StyleClasses="LabelSubText" Margin="0 1 0 0" />
+                </BoxContainer>
+                <Button Name="EjectDiskButton"
+                        Text="{Loc 'capibara-dna-manipulator-eject'}"
+                        VerticalAlignment="Center" />
+            </BoxContainer>
+        </PanelContainer>
+
+        <!-- Insert Button -->
+        <Button Name="InsertButton"
+                Text="{Loc 'capibara-dna-manipulator-insert-gene'}"
+                HorizontalExpand="True"
+                Margin="6 2 6 6" />
+
+    </BoxContainer>
+</controls:FancyWindow>

@@ -22,5 +22,11 @@ namespace Content.Server.Botany
         /// SeedData from the first plant that got swabbed.
         /// </summary>
         public SeedData? SeedData;
+
+        /// <summary>
+        /// Capibara - EntityUid of the plant holder the pollen was taken from.
+        /// Used by the genome breeding system for gene transfer.
+        /// </summary>
+        public EntityUid? SourcePlantHolder;
     }
 }

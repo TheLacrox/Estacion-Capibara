@@ -1,0 +1,43 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<controls:FancyWindow
+    xmlns="https://spacestation14.io"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
+    xmlns:controls="clr-namespace:Content.Client.UserInterface.Controls"
+    Title="{Loc 'capibara-plant-centrifuge-title'}"
+    MinSize="300 200"
+    SetSize="320 220">
+
+    <BoxContainer Orientation="Vertical" VerticalExpand="True">
+
+        <!-- Produce Section -->
+        <PanelContainer Margin="6 4 6 2">
+            <PanelContainer.PanelOverride>
+                <gfx:StyleBoxFlat BackgroundColor="#162016"
+                                  BorderColor="#2D4A2D" BorderThickness="1 1 1 1"
+                                  ContentMarginLeftOverride="10" ContentMarginTopOverride="8"
+                                  ContentMarginBottomOverride="8" ContentMarginRightOverride="10"/>
+            </PanelContainer.PanelOverride>
+            <BoxContainer Orientation="Horizontal">
+                <Label Name="StatusLabel" HorizontalExpand="True" />
+                <Button Name="EjectButton"
+                        Text="{Loc 'capibara-dna-manipulator-eject'}"
+                        VerticalAlignment="Center" />
+            </BoxContainer>
+        </PanelContainer>
+
+        <!-- Spacer -->
+        <Control VerticalExpand="True" />
+
+        <!-- Process Button -->
+        <Button Name="ProcessButton"
+                Text="{Loc 'capibara-plant-centrifuge-process'}"
+                HorizontalExpand="True"
+                Margin="6 2 6 6" />
+
+    </BoxContainer>
+</controls:FancyWindow>

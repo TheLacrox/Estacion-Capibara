@@ -272,6 +272,7 @@
     - ChemistryStatic
     - TapeRecorderStatic
     - CondimentStatic
+    - CapibaraBotanyStatic # Capibara - basic botany tools
     dynamicPacks:
     - Janitor
     - Instruments
@@ -287,6 +288,9 @@
     - ServiceBoardsGoob # goob
     # Einstein Engines Packs
     - Translators
+    # Capibara - research-locked botany machines
+    - CapibaraBotanyAdvanced
+    - CapibaraBotanyGeneSplicing
   - type: EmagLatheRecipes
     emagStaticPacks:
     - ServiceBoardsEvilStatic # Donk Co microwave circiutboard

@@ -1,0 +1,52 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Sistema Genético de Plantas
+
+Capibara Station cuenta con un sistema avanzado de [color=cyan]genética botánica[/color]. Cada planta tiene un [color=#44CC44]genoma[/color] con ranuras para genes que modifican sus estadísticas, comportamientos y productos.
+
+## Cómo Funciona
+
+- Cada planta tiene [color=cyan]6 ranuras de genes[/color] (ampliables a 8 con investigación).
+- Los genes se pueden [color=#44CC44]descubrir[/color] naturalmente durante el crecimiento (mayor nivel de mutación = más probabilidades).
+- Los genes se pueden [color=#44CC44]extraer[/color] con el Manipulador de ADN Vegetal y almacenar en discos de genes vegetales.
+- Los genes se pueden [color=#44CC44]empalmar[/color] en el Empalmador de Genes Vegetal para crear genes más poderosos.
+- Las plantas también desarrollan [color=#66CCCC]modificadores epigenéticos[/color] temporales basados en condiciones ambientales.
+
+## Inestabilidad
+
+Cada gen añade un costo de [color=#CC7733]inestabilidad[/color]. Cuanta más inestabilidad, más peligrosa es la planta:
+
+- [color=#44BB44]0-25: Estable[/color] — Sin efectos negativos.
+- [color=#BBBB44]26-50: Inestable[/color] — 5% de probabilidad de deriva estadística por ciclo.
+- [color=#CC7733]51-75: Volátil[/color] — Deriva estadística, corrupción de genes, -2 salud/ciclo.
+- [color=#CC3333]76-100: Crítico[/color] — Deriva severa, corrupción, riesgo de fusión, -5 salud/ciclo.
+- [color=#CC3333]100+: Fusión[/color] — La planta muere en 1-3 ciclos con un efecto temático.
+
+## Epigenética
+
+Las plantas desarrollan bonificaciones temporales si se mantienen en buenas condiciones:
+
+- [color=#66CCCC]Aclimatado[/color] — Después de 10 ciclos en temperatura ideal: -5 inestabilidad.
+- [color=#66CCCC]Prosperando[/color] — Después de 15 ciclos sin plagas: +1 rendimiento.
+
+## Rareza de Genes
+
+Los genes vienen en 4 niveles de rareza:
+
+- [color=#BBBBBB]Común[/color] — Fáciles de encontrar, baja inestabilidad.
+- [color=#44CC44]Poco Común[/color] — Requieren algo de trabajo o empalme.
+- [color=#4499FF]Raro[/color] — Difíciles de obtener, alta inestabilidad, efectos poderosos.
+- [color=#FF9944]Legendario[/color] — Solo se obtienen empalmando dos genes raros. Muy peligrosos.
+
+<Box>
+<GuideEntityEmbed Entity="CapibaraGeneDisk" Caption="Disco de Genes Vegetal"/>
+<GuideEntityEmbed Entity="CapibaraSeedAnalyzer" Caption="Analizador de Semillas"/>
+<GuideEntityEmbed Entity="CapibaraPlantAnalyzer" Caption="Analizador de Plantas"/>
+</Box>
+
+Para más información, consulta las subguías de [textlink="Máquinas" link="CapibaraBotanyMachines"], [textlink="Lista de Genes" link="CapibaraBotanyGenes"], y [textlink="Recetas de Empalme" link="CapibaraBotanySplicing"].
+</Document>

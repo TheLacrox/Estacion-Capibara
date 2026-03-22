@@ -1,0 +1,43 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Recetas de Empalme
+
+El [color=cyan]Empalmador de Genes Vegetal[/color] combina dos discos de genes vegetales para crear un gen superior. Inserta dos discos con genes y presiona Empalmar.
+
+[color=#CC3333]Advertencia:[/color] El fallo destruye el gen del disco B y daña la integridad de ambos discos. Las probabilidades son bajas — prepara muchos discos de repuesto.
+
+## [color=#44CC44]Tier 1: Común + Común = Poco Común[/color]
+
+- [color=#BBBBBB]Vitalizante[/color] + [color=#BBBBBB]Estimulante[/color] = [color=#44CC44]Hemostático[/color] — 30%
+- [color=#BBBBBB]Fibroso[/color] + [color=#BBBBBB]Resistente[/color] = [color=#44CC44]Resistente a Plagas[/color] — 35%
+- [color=#BBBBBB]Jugoso[/color] + [color=#BBBBBB]Aromático[/color] = [color=#44CC44]Fermentable[/color] — 30%
+- [color=#BBBBBB]Perenne[/color] + [color=#BBBBBB]Crecimiento Rápido[/color] = [color=#44CC44]Cosecha Perenne[/color] — 25%
+- [color=#BBBBBB]Denso[/color] + [color=#BBBBBB]Espinoso[/color] = [color=#44CC44]Cristalino[/color] — 30%
+- [color=#BBBBBB]Alto Rendimiento[/color] + [color=#BBBBBB]Floración Potente[/color] = [color=#44CC44]Eficiente en Agua[/color] — 35%
+
+## [color=#4499FF]Tier 2: Poco Común + Poco Común = Raro[/color]
+
+- [color=#44CC44]Hemostático[/color] + [color=#44CC44]Curativo[/color] = [color=#4499FF]Tóxico[/color] — 20%
+- [color=#44CC44]Bioluminiscente[/color] + [color=#44CC44]Cristalino[/color] = [color=#4499FF]Eléctrico[/color] — 20%
+- [color=#44CC44]Resbaladizo[/color] + [color=#44CC44]Gaseoso[/color] = [color=#4499FF]Explosivo[/color] — 15%
+- [color=#44CC44]Adaptable[/color] + [color=#44CC44]Fermentable[/color] = [color=#4499FF]Espacial[/color] — 20%
+- [color=#44CC44]Resistente a Plagas[/color] + [color=#44CC44]Resistente a Maleza[/color] = [color=#4499FF]Metálico[/color] — 25%
+
+## [color=#FF9944]Tier 3: Raro + Raro = Legendario[/color]
+
+- [color=#4499FF]Espacial[/color] + [color=#4499FF]Explosivo[/color] = [color=#FF9944]Anomalía Espacial[/color] — 15%
+- [color=#4499FF]Explosivo[/color] + [color=#4499FF]Eléctrico[/color] = [color=#FF9944]Núcleo de Plasma[/color] — 15%
+- [color=#4499FF]Eléctrico[/color] + [color=#4499FF]Espacial[/color] = [color=#FF9944]Semilla de Singularidad[/color] — 10%
+- [color=#4499FF]Espacial[/color] + [color=#4499FF]Metálico[/color] = [color=#FF9944]Temporal[/color] — 10%
+
+## Consejos
+
+- Empieza por [color=#BBBBBB]genes comunes[/color]. Son fáciles de obtener por descubrimiento natural o polinización cruzada.
+- Ten siempre discos extra. Con 30% de éxito necesitarás ~3-4 intentos por receta.
+- Los genes [color=#FF9944]legendarios[/color] tienen costos de inestabilidad enormes (28-35). Combinarlos con otros genes requiere cuidado extremo para no entrar en zona crítica.
+- Usa la [color=#66CCCC]epigenética[/color] a tu favor: mantén la planta bien cuidada para obtener el bonus de "Aclimatado" (-5 inestabilidad).
+</Document>

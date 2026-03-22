@@ -1,0 +1,67 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Lista de Genes
+
+## [color=#BBBBBB]Genes Comunes[/color]
+
+- [color=#BBBBBB]Perenne[/color] — +30 esperanza de vida, -2 producción. Costo: 3.
+- [color=#BBBBBB]Fibroso[/color] — +20 resistencia. Costo: 3.
+- [color=#BBBBBB]Jugoso[/color] — x1.3 potencia. Costo: 2.
+- [color=#BBBBBB]Resistente[/color] — +30 resistencia, -5 potencia. Costo: 2.
+- [color=#BBBBBB]Espinoso[/color] — +3 tolerancia plagas, +2 tolerancia maleza. Costo: 4.
+- [color=#BBBBBB]Aromático[/color] — +5 potencia. Costo: 2.
+- [color=#BBBBBB]Denso[/color] — -1 rendimiento, x1.2 potencia. Costo: 3.
+- [color=#BBBBBB]Estimulante[/color] — El producto contiene [color=cyan]Efedrina[/color] (aumento de velocidad). Costo: 4.
+- [color=#BBBBBB]Vitalizante[/color] — El producto contiene [color=cyan]Bicaridina[/color] (cura daño contundente). Costo: 3.
+- [color=#BBBBBB]Sobremutado[/color] — [color=#CC3333]-10 salud por ciclo[/color]. La planta muere lentamente. Costo: 5.
+- [color=#BBBBBB]Alto Rendimiento[/color] — +2 rendimiento. Costo: 2.
+- [color=#BBBBBB]Floración Potente[/color] — x1.15 potencia. Costo: 2.
+- [color=#BBBBBB]Longevo[/color] — +15 esperanza de vida. Costo: 2.
+- [color=#BBBBBB]Crecimiento Rápido[/color] — -2 maduración. Costo: 3.
+- [color=#BBBBBB]Productivo[/color] — -2 producción. Costo: 3.
+- [color=#BBBBBB]Sin Semillas[/color] — La planta no produce semillas. Costo: 1.
+- [color=#BBBBBB]Leñoso[/color] — +10 resistencia, requiere hacha para cosechar. Costo: 2.
+- [color=#BBBBBB]Kudzu[/color] — Se convierte en kudzu, +8 tolerancia maleza, [color=#CC3333]-20 salud/ciclo[/color]. Costo: 3.
+
+## [color=#44CC44]Genes Poco Comunes[/color]
+
+- [color=#44CC44]Hemostático[/color] — El producto contiene [color=cyan]Ácido Tranexámico[/color] (detiene sangrado). Costo: 5.
+- [color=#44CC44]Bioluminiscente[/color] — La planta brilla. Costo: 6.
+- [color=#44CC44]Resbaladizo[/color] — El producto es resbaladizo, +0.3 consumo agua. Costo: 7.
+- [color=#44CC44]Eficiente en Agua[/color] — -0.2 consumo de agua. Costo: 5.
+- [color=#44CC44]Eficiente en Nutrientes[/color] — -0.15 consumo de nutrientes. Costo: 5.
+- [color=#44CC44]Resistente al Calor[/color] — +8 tolerancia al calor. Costo: 5.
+- [color=#44CC44]Resistente a Plagas[/color] — +5 tolerancia a plagas. Costo: 4.
+- [color=#44CC44]Resistente a Maleza[/color] — +5 tolerancia a maleza. Costo: 4.
+- [color=#44CC44]Cosecha Perenne[/color] — La planta se puede cosechar repetidamente. Costo: 5.
+- [color=#44CC44]Pegajoso[/color] — Efecto adhesivo, +0.2 consumo nutrientes. Costo: 8.
+- [color=#44CC44]Curativo[/color] — +10 potencia. Costo: 7.
+- [color=#44CC44]Gaseoso[/color] — Exuda gases cada ciclo, -0.2 consumo agua. Costo: 6.
+- [color=#44CC44]Fermentable[/color] — x1.15 potencia. Costo: 5.
+- [color=#44CC44]Adaptable[/color] — +10 tolerancia calor, +5 tolerancia luz. Costo: 8.
+- [color=#44CC44]Cristalino[/color] — -15 resistencia, x1.25 potencia. El producto se rompe al impactar, lanzando fragmentos. Costo: 7.
+
+## [color=#4499FF]Genes Raros[/color]
+
+- [color=#4499FF]Explosivo[/color] — El producto puede explotar, -10 potencia. Costo: 18.
+- [color=#4499FF]Espacial[/color] — Efectos de teletransportación. Costo: 15.
+- [color=#4499FF]Eléctrico[/color] — Electrocuta entidades cercanas, +0.5 consumo agua. Costo: 14.
+- [color=#4499FF]Metálico[/color] — +40 resistencia, -1 rendimiento. Costo: 12.
+- [color=#4499FF]Tóxico[/color] — +10 tolerancia toxinas. Costo: 16.
+- [color=#4499FF]Sentiente[/color] — El producto cobra vida como una criatura. Costo: 20.
+- [color=#4499FF]Mimético[/color] — Efectos de camuflaje. Costo: 15.
+- [color=#4499FF]Bocina[/color] — Honk. Costo: 12.
+- [color=#4499FF]Cuerdas Vocales[/color] — La planta puede gritar. Costo: 10.
+- [color=#4499FF]Autocosecha[/color] — La planta se cosecha sola. Costo: 12.
+
+## [color=#FF9944]Genes Legendarios[/color] (solo por empalme)
+
+- [color=#FF9944]Anomalía Espacial[/color] — Teletransporta entidades cercanas aleatoriamente. Costo: 30.
+- [color=#FF9944]Núcleo de Plasma[/color] — Exuda plasma cada ciclo. Costo: 28.
+- [color=#FF9944]Semilla de Singularidad[/color] — Pulsos gravitacionales. Costo: 35.
+- [color=#FF9944]Temporal[/color] — x0.5 maduración y producción (el doble de rápido). Costo: 30.
+</Document>

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "license": "CC0-1.0",
+  "copyright": "Green-tinted derivative for Capibara Station botany. Original: Created by EmoGarbage, running animation by Ilya246",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
+    },
+    {
+      "name": "unlit"
+    },
+    {
+      "name": "running",
+      "delays": [
+        [
+          0.25,
+          0.25,
+          0.25,
+          0.25,
+          0.25,
+          0.25,
+          0.25,
+          0.25
+        ]
+      ]
+    }
+  ]
+}

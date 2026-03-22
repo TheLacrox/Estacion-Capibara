@@ -1,0 +1,80 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<controls:FancyWindow
+    xmlns="https://spacestation14.io"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
+    xmlns:controls="clr-namespace:Content.Client.UserInterface.Controls"
+    Title="{Loc 'capibara-gene-splicer-title'}"
+    MinSize="340 300"
+    SetSize="360 320">
+
+    <BoxContainer Orientation="Vertical" VerticalExpand="True">
+
+        <!-- Disk A -->
+        <PanelContainer Margin="6 4 6 2">
+            <PanelContainer.PanelOverride>
+                <gfx:StyleBoxFlat BackgroundColor="#1A1A2E"
+                                  BorderColor="#2D2D4A" BorderThickness="0 0 0 1"
+                                  ContentMarginLeftOverride="8" ContentMarginTopOverride="6"
+                                  ContentMarginBottomOverride="6" ContentMarginRightOverride="8"/>
+            </PanelContainer.PanelOverride>
+            <BoxContainer Orientation="Horizontal">
+                <BoxContainer Orientation="Vertical" HorizontalExpand="True">
+                    <Label Text="{Loc 'capibara-gene-splicer-disk-a'}" StyleClasses="LabelSubText" />
+                    <Label Name="DiskALabel" Margin="0 2 0 0" />
+                    <Label Name="DiskAIntegrityLabel" StyleClasses="LabelSubText" Margin="0 1 0 0" />
+                </BoxContainer>
+                <Button Name="EjectAButton" Text="{Loc 'capibara-dna-manipulator-eject'}" VerticalAlignment="Center" />
+            </BoxContainer>
+        </PanelContainer>
+
+        <!-- Combine Arrow -->
+        <Label Text="+" HorizontalAlignment="Center" Margin="0 2" Modulate="#888888" />
+
+        <!-- Disk B -->
+        <PanelContainer Margin="6 2 6 2">
+            <PanelContainer.PanelOverride>
+                <gfx:StyleBoxFlat BackgroundColor="#1A1A2E"
+                                  BorderColor="#2D2D4A" BorderThickness="0 1 0 0"
+                                  ContentMarginLeftOverride="8" ContentMarginTopOverride="6"
+                                  ContentMarginBottomOverride="6" ContentMarginRightOverride="8"/>
+            </PanelContainer.PanelOverride>
+            <BoxContainer Orientation="Horizontal">
+                <BoxContainer Orientation="Vertical" HorizontalExpand="True">
+                    <Label Text="{Loc 'capibara-gene-splicer-disk-b'}" StyleClasses="LabelSubText" />
+                    <Label Name="DiskBLabel" Margin="0 2 0 0" />
+                    <Label Name="DiskBIntegrityLabel" StyleClasses="LabelSubText" Margin="0 1 0 0" />
+                </BoxContainer>
+                <Button Name="EjectBButton" Text="{Loc 'capibara-dna-manipulator-eject'}" VerticalAlignment="Center" />
+            </BoxContainer>
+        </PanelContainer>
+
+        <!-- Result Preview -->
+        <PanelContainer Margin="6 4 6 2">
+            <PanelContainer.PanelOverride>
+                <gfx:StyleBoxFlat BackgroundColor="#2E1A2E"
+                                  BorderColor="#4A2D4A" BorderThickness="1 1 1 1"
+                                  ContentMarginLeftOverride="10" ContentMarginTopOverride="8"
+                                  ContentMarginBottomOverride="8" ContentMarginRightOverride="10"/>
+            </PanelContainer.PanelOverride>
+            <BoxContainer Orientation="Vertical">
+                <Label Name="ResultLabel" HorizontalAlignment="Center" />
+                <Label Name="ChanceLabel" HorizontalAlignment="Center" StyleClasses="LabelSubText" Margin="0 2 0 0" />
+            </BoxContainer>
+        </PanelContainer>
+
+        <!-- Spacer -->
+        <Control VerticalExpand="True" />
+
+        <!-- Splice Button -->
+        <Button Name="SpliceButton"
+                Text="{Loc 'capibara-gene-splicer-splice'}"
+                HorizontalExpand="True"
+                Margin="6 2 6 6" />
+
+    </BoxContainer>
+</controls:FancyWindow>

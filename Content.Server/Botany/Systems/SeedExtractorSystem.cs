@@ -18,6 +18,8 @@
 using Content.Server.Botany.Components;
 using Content.Server.Popups;
 using Content.Server.Power.EntitySystems;
+using Content.Shared._Capibara.Botany.Components;
+using Content.Shared._Capibara.Botany.Genes;
 using Content.Shared.Interaction;
 using Content.Shared.Popups;
 using Robust.Shared.Random;
@@ -54,6 +56,10 @@ public sealed class SeedExtractorSystem : EntitySystem
         _popupSystem.PopupCursor(Loc.GetString("seed-extractor-component-interact-message", ("name", args.Used)),
             args.User, PopupType.Medium);
 
+        // Capibara - capture produce genome data before deleting
+        var produceGenome = CompOrNull<PlantGenomeComponent>(args.Used);
+        var produceGenes = CompOrNull<GeneModifiedProduceComponent>(args.Used);
+
         QueueDel(args.Used);
         args.Handled = true;
 
@@ -66,7 +72,32 @@ public sealed class SeedExtractorSystem : EntitySystem
 
         for (var i = 0; i < amount; i++)
         {
-            _botanySystem.SpawnSeedPacket(packetSeed, coords, args.User);
+            var seedPacket = _botanySystem.SpawnSeedPacket(packetSeed, coords, args.User);
+
+            // Capibara - Transfer genome from produce to seed packet
+            if (produceGenome != null && produceGenome.Initialized)
+            {
+                var targetGenome = EnsureComp<PlantGenomeComponent>(seedPacket);
+                targetGenome.CoreSpeciesId = produceGenome.CoreSpeciesId;
+                targetGenome.MaxSlots = produceGenome.MaxSlots;
+                targetGenome.Instability = produceGenome.Instability;
+                targetGenome.Initialized = true;
+                targetGenome.GeneSlots.Clear();
+                foreach (var slot in produceGenome.GeneSlots)
+                {
+                    targetGenome.GeneSlots.Add(new Content.Shared._Capibara.Botany.Genes.PlantGeneSlot
+                    {
+                        Gene = slot.Gene,
+                        Locked = slot.Locked,
+                    });
+                }
+                targetGenome.Epigenetics.Clear();
+                targetGenome.BaseStatSnapshot = new Dictionary<string, float>(produceGenome.BaseStatSnapshot);
+                targetGenome.BaseBoolSnapshot = new Dictionary<string, bool>(produceGenome.BaseBoolSnapshot);
+                targetGenome.BaseChemSnapshot = new Dictionary<string, (int, int, int)>(produceGenome.BaseChemSnapshot);
+                targetGenome.BaseHarvestType = produceGenome.BaseHarvestType;
+                Dirty(seedPacket, targetGenome);
+            }
         }
     }
 }

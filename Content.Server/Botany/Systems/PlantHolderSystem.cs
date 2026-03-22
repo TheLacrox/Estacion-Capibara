@@ -68,6 +68,8 @@ using Content.Shared.Administration.Logs;
 using Content.Shared.Containers.ItemSlots;
 using Content.Shared.Database;
 using Content.Shared._Capibara.StationObjectives.Events;
+using Content.Shared._Capibara.Botany.Components; // Capibara - genome system
+using Content.Shared._Capibara.Botany.Events; // Capibara - genome system events
 using Content.Shared.Labels.Components;
 
 namespace Content.Server.Botany.Systems;
@@ -254,6 +256,11 @@ public sealed class PlantHolderSystem : EntitySystem
                 if (seed.PlantLogImpact != null)
                     _adminLogger.Add(LogType.Botany, seed.PlantLogImpact.Value, $"{ToPrettyString(args.User):player} planted  {Loc.GetString(seed.Name):seed} at Pos:{Transform(uid).Coordinates}.");
 
+                // Capibara - Raise event for genome system initialization
+                // Pass seed entity so genome can be transferred before it's deleted
+                var plantedEv = new SeedPlantedInTrayEvent(uid, args.Used, args.User);
+                RaiseLocalEvent(ref plantedEv);
+
                 return;
             }
 
@@ -344,6 +351,11 @@ public sealed class PlantHolderSystem : EntitySystem
             var packetSeed = component.Seed;
             var seed = _botany.SpawnSeedPacket(packetSeed, Transform(args.User).Coordinates, args.User, healthOverride);
             _randomHelper.RandomOffset(seed, 0.25f);
+
+            // Capibara - Transfer genome from plant holder to seed packet
+            var seedSpawnEv = new SeedPacketSpawnedEvent(seed, uid);
+            RaiseLocalEvent(ref seedSpawnEv);
+
             var displayName = Loc.GetString(component.Seed.DisplayName);
             _popup.PopupCursor(Loc.GetString("plant-holder-component-take-sample-message",
                 ("seedName", displayName)), args.User);
@@ -436,10 +448,15 @@ public sealed class PlantHolderSystem : EntitySystem
 
         component.LastCycle = curTime;
 
+        // Capibara - Raise genome event BEFORE mutations consume MutationLevel
+        var cycleEv = new PlantGrowthCycleEvent(uid, component.MutationLevel);
+        RaiseLocalEvent(ref cycleEv);
+
         // Process mutations
         if (component.MutationLevel > 0)
         {
-            Mutate(uid, Math.Min(component.MutationLevel, 25), component);
+            if (!HasComp<PlantGenomeComponent>(uid)) // Capibara - genome system handles its own mutations
+                Mutate(uid, Math.Min(component.MutationLevel, 25), component);
             component.UpdateSpriteAfterUpdate = true;
             component.MutationLevel = 0;
         }
@@ -713,6 +730,7 @@ public sealed class PlantHolderSystem : EntitySystem
 
         if (component.UpdateSpriteAfterUpdate)
             UpdateSprite(uid, component);
+
     }
 
     //TODO: kill this bullshit
@@ -763,7 +781,16 @@ public sealed class PlantHolderSystem : EntitySystem
                 return false;
             }
 
-            _botany.Harvest(component.Seed, user, component.YieldMod);
+            var products = _botany.Harvest(component.Seed, user, component.YieldMod);
+
+            // Capibara - Raise event for each produce spawned BEFORE AfterHarvest
+            // because AfterHarvest may call RemovePlant which deletes PlantGenomeComponent
+            foreach (var product in products)
+            {
+                var produceEv = new ProduceEntitySpawnedEvent(product, plantholder);
+                RaiseLocalEvent(ref produceEv);
+            }
+
             AfterHarvest(plantholder, component);
 
             var harvestEv = new PlantHarvestedEvent(plantholder, user);
@@ -801,8 +828,15 @@ public sealed class PlantHolderSystem : EntitySystem
         if (component.Seed == null || !component.Harvest)
             return;
 
-        _botany.AutoHarvest(component.Seed, Transform(uid).Coordinates);
+        var autoProducts = _botany.AutoHarvest(component.Seed, Transform(uid).Coordinates);
         AfterHarvest(uid, component);
+
+        // Capibara - Raise event for each produce spawned (gene effects)
+        foreach (var product in autoProducts)
+        {
+            var produceEv = new ProduceEntitySpawnedEvent(product, uid);
+            RaiseLocalEvent(ref produceEv);
+        }
     }
 
     private void AfterHarvest(EntityUid uid, PlantHolderComponent? component = null)
@@ -868,6 +902,14 @@ public sealed class PlantHolderSystem : EntitySystem
         component.ImproperLight = false;
         component.ImproperPressure = false;
         component.ImproperHeat = false;
+
+        // Capibara - Clear gene visuals before removing genome component
+        if (TryComp<AppearanceComponent>(uid, out var app))
+        {
+            _appearance.SetData(uid, Content.Shared._Capibara.Botany.PlantGenomeVisuals.GeneTint, Color.White, app);
+            _appearance.SetData(uid, Content.Shared._Capibara.Botany.PlantGenomeVisuals.EffectOverlays, new List<string>(), app);
+        }
+        RemComp<Content.Shared._Capibara.Botany.Components.PlantGenomeComponent>(uid);
 
         UpdateSprite(uid, component);
     }

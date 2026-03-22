@@ -1,0 +1,26 @@
+# SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: guideEntry
+  id: CapibaraBotanyGenetics
+  name: guide-entry-capibara-botany-genetics
+  text: "/ServerInfo/Guidebook/_Capibara/BotanyGenetics.xml"
+  children:
+  - CapibaraBotanyMachines
+  - CapibaraBotanyGenes
+  - CapibaraBotanySplicing
+
+- type: guideEntry
+  id: CapibaraBotanyMachines
+  name: guide-entry-capibara-botany-machines
+  text: "/ServerInfo/Guidebook/_Capibara/BotanyMachines.xml"
+
+- type: guideEntry
+  id: CapibaraBotanyGenes
+  name: guide-entry-capibara-botany-genes
+  text: "/ServerInfo/Guidebook/_Capibara/BotanyGenes.xml"
+
+- type: guideEntry
+  id: CapibaraBotanySplicing
+  name: guide-entry-capibara-botany-splicing
+  text: "/ServerInfo/Guidebook/_Capibara/BotanySplicing.xml"

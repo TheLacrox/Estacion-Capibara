@@ -1,0 +1,66 @@
+<!--
+SPDX-FileCopyrightText: 2025 Capibara Station Contributors
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
+<Document>
+# Máquinas de Genética Botánica
+
+## Analizador de Semillas
+Inserta un paquete de semillas o producto para ver sus estadísticas, genoma y modificadores epigenéticos. Solo lectura.
+- [color=cyan]Sin investigación requerida[/color]
+
+<Box>
+<GuideEntityEmbed Entity="CapibaraSeedAnalyzer" Caption="Analizador de Semillas"/>
+</Box>
+
+## Analizador de Plantas (Portátil)
+Herramienta portátil. Haz clic en una bandeja hidropónica para ver información detallada de la planta: salud, agua, plagas, química, genoma y más.
+- [color=cyan]Sin investigación requerida[/color]
+
+<Box>
+<GuideEntityEmbed Entity="CapibaraPlantAnalyzer" Caption="Analizador de Plantas"/>
+</Box>
+
+## Manipulador de ADN Vegetal
+La herramienta principal de la genética avanzada. Permite:
+- [color=#44CC44]Extraer[/color] genes de una semilla a un disco de genes vegetal (consume la semilla).
+- [color=#44CC44]Insertar[/color] genes desde un disco a una semilla.
+- Extraer genes raros/legendarios degrada la integridad del disco.
+- No permite insertar genes duplicados o incompatibles.
+- Requiere: [color=#BBBB44]Investigación "Botánica Avanzada" (Tier 2)[/color]
+
+<Box>
+<GuideEntityEmbed Entity="CapibaraDnaManipulator" Caption="Manipulador de ADN Vegetal"/>
+<GuideEntityEmbed Entity="CapibaraGeneDisk" Caption="Disco de Genes Vegetal"/>
+</Box>
+
+## Centrífuga de Plantas
+Procesa productos para extraer sus químicos de forma segura (sin explosiones ni nubes tóxicas). Produce 1.5x más químicos que triturar.
+- Requiere: [color=#BBBB44]Investigación "Botánica Avanzada" (Tier 2)[/color]
+
+<Box>
+<GuideEntityEmbed Entity="CapibaraPlantCentrifuge" Caption="Centrífuga de Plantas"/>
+</Box>
+
+## Empalmador de Genes Vegetal
+Combina dos discos de genes para crear un gen más poderoso. Las recetas tienen bajas probabilidades de éxito. El fallo destruye el gen del disco B y daña la integridad de ambos discos.
+- Requiere: [color=#CC7733]Investigación "Empalme Genético" (Tier 3)[/color]
+
+<Box>
+<GuideEntityEmbed Entity="CapibaraGeneSplicer" Caption="Empalmador de Genes Vegetal"/>
+</Box>
+
+## Construcción
+Todas las máquinas se construyen con el método estándar:
+1. Imprime la [color=cyan]placa de circuito[/color] en el Techfab de Servicio.
+2. Construye un [color=cyan]marco de máquina[/color] con láminas de acero.
+3. Inserta la placa de circuito.
+4. Añade los componentes requeridos (manipuladores, vidrio, cables).
+5. Usa un destornillador para completar.
+
+## Árbol de Investigación
+- [color=cyan]Tier 1: Hidroponía[/color] (existente) — Desbloquea bandeja hidropónica, extractor de semillas.
+- [color=#BBBB44]Tier 2: Botánica Avanzada[/color] (10,000 pts) — Desbloquea Manipulador de ADN Vegetal y Centrífuga.
+- [color=#CC7733]Tier 3: Empalme Genético[/color] (15,000 pts) — Desbloquea Empalmador de Genes Vegetal.
+</Document>

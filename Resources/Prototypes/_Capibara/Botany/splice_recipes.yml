@@ -1,0 +1,122 @@
+# Capibara - Gene Splice Recipes
+# Two input genes → one output gene, with success chance
+# Tier 1: Common + Common → Uncommon (25-35%)
+# Tier 2: Uncommon + Uncommon → Rare (15-25%)
+# Tier 3: Rare + Rare → Legendary (10-15%)
+
+# =====================
+# Tier 1: Common + Common → Uncommon
+# =====================
+
+- type: geneSpliceRecipe
+  id: SpliceHemostatic
+  inputA: GeneVitalizing
+  inputB: GeneStimulant
+  output: GeneHemostatic
+  successChance: 0.30
+
+- type: geneSpliceRecipe
+  id: SplicePestResistant
+  inputA: GeneFibrous
+  inputB: GeneHardy
+  output: GenePestResistant
+  successChance: 0.35
+
+- type: geneSpliceRecipe
+  id: SpliceFermentable
+  inputA: GeneJuicy
+  inputB: GeneAromatic
+  output: GeneFermentable
+  successChance: 0.30
+
+- type: geneSpliceRecipe
+  id: SplicePerennialHarvest
+  inputA: GenePerennial
+  inputB: GeneQuickGrower
+  output: GenePerennialHarvest
+  successChance: 0.25
+
+- type: geneSpliceRecipe
+  id: SpliceCrystalline
+  inputA: GeneDense
+  inputB: GeneThorny
+  output: GeneCrystalline
+  successChance: 0.30
+
+- type: geneSpliceRecipe
+  id: SpliceWaterEfficient
+  inputA: GeneHighYield
+  inputB: GenePotentBloom
+  output: GeneWaterEfficient
+  successChance: 0.35
+
+# =====================
+# Tier 2: Uncommon + Uncommon → Rare
+# =====================
+
+- type: geneSpliceRecipe
+  id: SpliceToxic
+  inputA: GeneHemostatic
+  inputB: GeneHealing
+  output: GeneToxic
+  successChance: 0.20
+
+- type: geneSpliceRecipe
+  id: SpliceElectrical
+  inputA: GeneBioluminescent
+  inputB: GeneCrystalline
+  output: GeneElectrical
+  successChance: 0.20
+
+- type: geneSpliceRecipe
+  id: SpliceExplosive
+  inputA: GeneSlippery
+  inputB: GeneGaseous
+  output: GeneExplosive
+  successChance: 0.15
+
+- type: geneSpliceRecipe
+  id: SpliceBluespace
+  inputA: GeneAdaptive
+  inputB: GeneFermentable
+  output: GeneBluespace
+  successChance: 0.20
+
+- type: geneSpliceRecipe
+  id: SpliceMetallic
+  inputA: GenePestResistant
+  inputB: GeneWeedResistant
+  output: GeneMetallic
+  successChance: 0.25
+
+# =====================
+# Tier 3: Rare + Rare → Legendary
+# =====================
+
+- type: geneSpliceRecipe
+  id: SpliceBluespaceAnomaly
+  inputA: GeneBluespace
+  inputB: GeneExplosive
+  output: GeneBluespaceAnomaly
+  successChance: 0.15
+
+- type: geneSpliceRecipe
+  id: SplicePlasmaCore
+  inputA: GeneExplosive
+  inputB: GeneElectrical
+  output: GenePlasmaCore
+  successChance: 0.15
+
+- type: geneSpliceRecipe
+  id: SpliceSingularitySeed
+  inputA: GeneElectrical
+  inputB: GeneBluespace
+  output: GeneSingularitySeed
+  successChance: 0.10
+
+- type: geneSpliceRecipe
+  id: SpliceTemporal
+  inputA: GeneBluespace
+  inputB: GeneMetallic
+  output: GeneTemporal
+  successChance: 0.10

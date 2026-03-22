@@ -1,0 +1,85 @@
+# Capibara - Botany Lathe Recipes
+
+# =====================
+# Static recipes (no research needed)
+# =====================
+
+# Direct items
+- type: latheRecipe
+  id: CapibaraGeneDiskRecipe
+  result: CapibaraGeneDisk
+  completetime: 2
+  materials:
+    Plastic: 50
+    Glass: 50
+
+- type: latheRecipe
+  id: CapibaraPlantAnalyzerRecipe
+  result: CapibaraPlantAnalyzer
+  completetime: 2
+  materials:
+    Steel: 100
+    Glass: 50
+
+# Basic machine board (standard cost: 100 Steel + 500 Glass)
+- type: latheRecipe
+  parent: [ BaseCircuitboardRecipe, BaseServiceMachineRecipeCategory ]
+  id: CapibaraSeedAnalyzerMachineCircuitboard
+  icon:
+    sprite: _Capibara/Botany/Machines/seed_analyzer.rsi
+    state: icon
+  result: CapibaraSeedAnalyzerMachineCircuitboard
+
+# =====================
+# Tier 1 research recipes (Advanced Botany) — circuit boards
+# =====================
+
+- type: latheRecipe
+  parent: [ BaseCircuitboardRecipe, BaseServiceMachineRecipeCategory ]
+  id: CapibaraDnaManipulatorMachineCircuitboard
+  icon:
+    sprite: _Capibara/Botany/Machines/dna_manipulator.rsi
+    state: icon
+  result: CapibaraDnaManipulatorMachineCircuitboard
+
+- type: latheRecipe
+  parent: [ BaseCircuitboardRecipe, BaseServiceMachineRecipeCategory ]
+  id: CapibaraPlantCentrifugeMachineCircuitboard
+  icon:
+    sprite: _Capibara/Botany/Machines/plant_centrifuge.rsi
+    state: base
+  result: CapibaraPlantCentrifugeMachineCircuitboard
+
+# =====================
+# Tier 2 research recipes (Gene Splicing) — gold circuit board
+# =====================
+
+- type: latheRecipe
+  parent: [ BaseGoldCircuitboardRecipe, BaseServiceMachineRecipeCategory ]
+  id: CapibaraGeneSplicerMachineCircuitboard
+  icon:
+    sprite: _Capibara/Botany/Machines/gene_splicer.rsi
+    state: genesplicer_empty
+  result: CapibaraGeneSplicerMachineCircuitboard
+
+# =====================
+# Recipe Packs
+# =====================
+
+- type: latheRecipePack
+  id: CapibaraBotanyStatic
+  recipes:
+  - CapibaraGeneDiskRecipe
+  - CapibaraPlantAnalyzerRecipe
+  - CapibaraSeedAnalyzerMachineCircuitboard
+
+- type: latheRecipePack
+  id: CapibaraBotanyAdvanced
+  recipes:
+  - CapibaraDnaManipulatorMachineCircuitboard
+  - CapibaraPlantCentrifugeMachineCircuitboard
+
+- type: latheRecipePack
+  id: CapibaraBotanyGeneSplicing
+  recipes:
+  - CapibaraGeneSplicerMachineCircuitboard

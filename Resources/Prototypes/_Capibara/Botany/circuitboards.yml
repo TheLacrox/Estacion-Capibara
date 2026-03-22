@@ -1,0 +1,64 @@
+# Capibara - Botany Machine Circuit Boards
+
+# Seed Analyzer — basic, no special parts
+- type: entity
+  id: CapibaraSeedAnalyzerMachineCircuitboard
+  parent: BaseMachineCircuitboard
+  name: plant seed analyzer machine board
+  description: A machine printed circuit board for a plant seed analyzer.
+  components:
+  - type: Sprite
+    state: service
+  - type: MachineBoard
+    prototype: CapibaraSeedAnalyzer
+    stackRequirements:
+      Manipulator: 1
+      Glass: 2
+
+# DNA Manipulator — mid-tier, needs manipulators
+- type: entity
+  id: CapibaraDnaManipulatorMachineCircuitboard
+  parent: BaseMachineCircuitboard
+  name: plant DNA manipulator machine board
+  description: A machine printed circuit board for a plant DNA manipulator.
+  components:
+  - type: Sprite
+    state: service
+  - type: MachineBoard
+    prototype: CapibaraDnaManipulator
+    stackRequirements:
+      Manipulator: 2
+      Glass: 2
+      Cable: 1
+
+# Plant Centrifuge — mid-tier
+- type: entity
+  id: CapibaraPlantCentrifugeMachineCircuitboard
+  parent: BaseMachineCircuitboard
+  name: plant centrifuge machine board
+  description: A machine printed circuit board for a plant centrifuge.
+  components:
+  - type: Sprite
+    state: service
+  - type: MachineBoard
+    prototype: CapibaraPlantCentrifuge
+    stackRequirements:
+      Manipulator: 2
+      Glass: 1
+      Cable: 2
+
+# Gene Splicer — advanced, needs more parts
+- type: entity
+  id: CapibaraGeneSplicerMachineCircuitboard
+  parent: BaseMachineCircuitboard
+  name: plant gene splicer machine board
+  description: A machine printed circuit board for a plant gene splicer.
+  components:
+  - type: Sprite
+    state: service
+  - type: MachineBoard
+    prototype: CapibaraGeneSplicer
+    stackRequirements:
+      Manipulator: 3
+      Glass: 2
+      Cable: 2

@@ -1,0 +1,870 @@
+# Capibara - Botany Machine Prototypes
+
+- type: entity
+  id: CapibaraSeedAnalyzer
+  parent: [ BaseMachinePowered, ConstructibleMachine ]
+  name: plant seed analyzer
+  description: Analyzes the genetic composition of seeds and produce. Insert a seed packet or produce to view its genome.
+  components:
+  - type: SeedAnalyzer
+    seedSlot:
+      name: capibara-seed-analyzer-slot
+      ejectOnBreak: true
+      swap: false
+      whitelist:
+        components:
+        - Seed
+        - Produce
+  - type: ItemSlots
+  - type: ContainerContainer
+    containers:
+      SeedAnalyzer-seed: !type:ContainerSlot {}
+      machine_board: !type:Container
+      machine_parts: !type:Container
+  - type: Sprite
+    sprite: _Capibara/Botany/Machines/seed_analyzer.rsi
+    layers:
+    - state: icon
+    - state: unlit
+      shader: unshaded
+      map: ["enum.PowerDeviceVisualLayers.Powered"]
+  - type: Physics
+    bodyType: Static
+  - type: Transform
+    noRot: true
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.25,-0.45,0.25,0.45"
+        mask:
+        - MachineMask
+        layer:
+        - MachineLayer
+        density: 200
+  - type: ActivatableUI
+    key: enum.SeedAnalyzerUiKey.Key
+    singleUser: true
+  - type: ActivatableUIRequiresPower
+  - type: UserInterface
+    interfaces:
+      enum.SeedAnalyzerUiKey.Key:
+        type: SeedAnalyzerBoundUserInterface
+  - type: Anchorable
+  - type: ApcPowerReceiver
+    powerLoad: 100
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 150
+      behaviors:
+      - !type:PlaySoundBehavior
+        sound:
+          collection: MetalGlassBreak
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  - type: Repairable
+    doAfterDelay: 8
+  - type: Machine
+    board: CapibaraSeedAnalyzerMachineCircuitboard
+  - type: GuideHelp
+    guides:
+    - Botany
+
+# DNA Manipulator
+- type: entity
+  id: CapibaraDnaManipulator
+  parent: [ BaseMachinePowered, ConstructibleMachine ]
+  name: plant DNA manipulator
+  description: Extracts and inserts plant genes using gene disks. The core tool of advanced botany.
+  components:
+  - type: DnaManipulator
+    seedSlot:
+      name: capibara-dna-manipulator-seed-slot
+      ejectOnBreak: true
+      swap: false
+      whitelist:
+        components:
+        - Seed
+    diskSlot:
+      name: capibara-dna-manipulator-disk-slot
+      ejectOnBreak: true
+      swap: false
+      whitelist:
+        components:
+        - GeneDisk
+  - type: ItemSlots
+  - type: ContainerContainer
+    containers:
+      DnaManipulator-seed: !type:ContainerSlot {}
+      DnaManipulator-disk: !type:ContainerSlot {}
+      machine_board: !type:Container
+      machine_parts: !type:Container
+  - type: Sprite
+    sprite: _Capibara/Botany/Machines/dna_manipulator.rsi
+    layers:
+    - state: icon
+    - state: unlit
+      shader: unshaded
+      map: ["enum.PowerDeviceVisualLayers.Powered"]
+  - type: Physics
+    bodyType: Static
+  - type: Transform
+    noRot: true
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.25,-0.45,0.25,0.45"
+        mask:
+        - MachineMask
+        layer:
+        - MachineLayer
+        density: 200
+  - type: ActivatableUI
+    key: enum.DnaManipulatorUiKey.Key
+    singleUser: true
+  - type: ActivatableUIRequiresPower
+  - type: UserInterface
+    interfaces:
+      enum.DnaManipulatorUiKey.Key:
+        type: DnaManipulatorBoundUserInterface
+  - type: Anchorable
+  - type: ApcPowerReceiver
+    powerLoad: 200
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 150
+      behaviors:
+      - !type:PlaySoundBehavior
+        sound:
+          collection: MetalGlassBreak
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  - type: Repairable
+    doAfterDelay: 8
+  - type: Machine
+    board: CapibaraDnaManipulatorMachineCircuitboard
+  - type: GuideHelp
+    guides:
+    - Botany
+
+# Gene Splicer
+- type: entity
+  id: CapibaraGeneSplicer
+  parent: [ BaseMachinePowered, ConstructibleMachine ]
+  name: plant gene splicer
+  description: Combines two plant gene disks to create a new, more powerful gene. High failure chance on rare combinations.
+  components:
+  - type: GeneSplicer
+    diskSlotA:
+      name: capibara-gene-splicer-slot-a
+      ejectOnBreak: true
+      swap: false
+      whitelist:
+        components:
+        - GeneDisk
+    diskSlotB:
+      name: capibara-gene-splicer-slot-b
+      ejectOnBreak: true
+      swap: false
+      whitelist:
+        components:
+        - GeneDisk
+  - type: ItemSlots
+  - type: ContainerContainer
+    containers:
+      GeneSplicer-diskA: !type:ContainerSlot {}
+      GeneSplicer-diskB: !type:ContainerSlot {}
+      machine_board: !type:Container
+      machine_parts: !type:Container
+  - type: Sprite
+    sprite: _Capibara/Botany/Machines/gene_splicer.rsi
+    layers:
+    - state: genesplicer_empty
+    - state: genesplicer_screens
+      shader: unshaded
+      map: ["enum.PowerDeviceVisualLayers.Powered"]
+  - type: Physics
+    bodyType: Static
+  - type: Transform
+    noRot: true
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.25,-0.45,0.25,0.45"
+        mask:
+        - MachineMask
+        layer:
+        - MachineLayer
+        density: 200
+  - type: ActivatableUI
+    key: enum.GeneSplicerUiKey.Key
+    singleUser: true
+  - type: ActivatableUIRequiresPower
+  - type: UserInterface
+    interfaces:
+      enum.GeneSplicerUiKey.Key:
+        type: GeneSplicerBoundUserInterface
+  - type: Anchorable
+  - type: ApcPowerReceiver
+    powerLoad: 300
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 150
+      behaviors:
+      - !type:PlaySoundBehavior
+        sound:
+          collection: MetalGlassBreak
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  - type: Machine
+    board: CapibaraGeneSplicerMachineCircuitboard
+  - type: Repairable
+    doAfterDelay: 8
+
+# Plant Centrifuge
+- type: entity
+  id: CapibaraPlantCentrifuge
+  parent: [ BaseMachinePowered, ConstructibleMachine ]
+  name: plant centrifuge
+  description: Safely separates chemicals from produce. Better yield than grinding and handles dangerous gene-modified produce.
+  components:
+  - type: PlantCentrifuge
+    produceSlot:
+      name: capibara-plant-centrifuge-slot
+      ejectOnBreak: true
+      swap: false
+      whitelist:
+        components:
+        - Produce
+  - type: ItemSlots
+  - type: ContainerContainer
+    containers:
+      PlantCentrifuge-produce: !type:ContainerSlot {}
+      machine_board: !type:Container
+      machine_parts: !type:Container
+  - type: Sprite
+    sprite: _Capibara/Botany/Machines/plant_centrifuge.rsi
+    layers:
+    - state: base
+    - state: unshaded
+      shader: unshaded
+      map: ["enum.PowerDeviceVisualLayers.Powered"]
+  - type: Physics
+    bodyType: Static
+  - type: Transform
+    noRot: true
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.25,-0.45,0.25,0.45"
+        mask:
+        - MachineMask
+        layer:
+        - MachineLayer
+        density: 200
+  - type: ActivatableUI
+    key: enum.PlantCentrifugeUiKey.Key
+    singleUser: true
+  - type: ActivatableUIRequiresPower
+  - type: UserInterface
+    interfaces:
+      enum.PlantCentrifugeUiKey.Key:
+        type: PlantCentrifugeBoundUserInterface
+  - type: Anchorable
+  - type: ApcPowerReceiver
+    powerLoad: 150
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 150
+      behaviors:
+      - !type:PlaySoundBehavior
+        sound:
+          collection: MetalGlassBreak
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  - type: Machine
+    board: CapibaraPlantCentrifugeMachineCircuitboard
+  - type: Repairable
+    doAfterDelay: 8
+
+# Plant Analyzer (handheld tool)
+- type: entity
+  id: CapibaraPlantAnalyzer
+  parent: BaseItem
+  name: plant analyzer
+  description: A handheld scanner that displays detailed plant information and genome data. Click on a hydroponics tray to analyze.
+  components:
+  - type: PlantAnalyzer
+  - type: Sprite
+    sprite: _Capibara/Botany/Machines/plant_analyzer.rsi
+    layers:
+    - state: icon
+  - type: Clothing
+    quickEquip: false
+    slots:
+    - Belt
+    sprite: _Capibara/Botany/Machines/plant_analyzer.rsi
+  - type: Item
+    size: Small
+    sprite: _Capibara/Botany/Machines/plant_analyzer.rsi
+  - type: ActivatableUI
+    key: enum.PlantAnalyzerUiKey.Key
+  - type: UserInterface
+    interfaces:
+      enum.PlantAnalyzerUiKey.Key:
+        type: PlantAnalyzerBoundUserInterface
+  - type: StaticPrice
+    price: 100
+
+# Gene Disk item
+- type: entity
+  id: CapibaraGeneDisk
+  parent: BaseItem
+  name: plant gene disk
+  description: A data disk for storing extracted plant genes. Insert into a Plant DNA Manipulator to use.
+  components:
+  - type: GeneDisk
+  - type: Sprite
+    sprite: Objects/Tools/Hydroponics/disk.rsi
+    layers:
+    - state: disk
+  - type: Item
+    size: Tiny
+  - type: StaticPrice
+    price: 50
+
+# Prefilled Gene Disks — spawn with a random gene of the given rarity
+- type: entity
+  id: CapibaraGeneDiskCommon
+  parent: CapibaraGeneDisk
+  name: plant gene disk (common)
+  description: A gene disk pre-loaded with a random common gene.
+  suffix: Common Gene
+  components:
+  - type: GeneDisk
+    prefilledRarity: Common
+
+- type: entity
+  id: CapibaraGeneDiskUncommon
+  parent: CapibaraGeneDisk
+  name: plant gene disk (uncommon)
+  description: A gene disk pre-loaded with a random uncommon gene.
+  suffix: Uncommon Gene
+  components:
+  - type: GeneDisk
+    prefilledRarity: Uncommon
+
+- type: entity
+  id: CapibaraGeneDiskRare
+  parent: CapibaraGeneDisk
+  name: plant gene disk (rare)
+  description: A gene disk pre-loaded with a random rare gene.
+  suffix: Rare Gene
+  components:
+  - type: GeneDisk
+    prefilledRarity: Rare
+
+- type: entity
+  id: CapibaraGeneDiskLegendary
+  parent: CapibaraGeneDisk
+  name: plant gene disk (legendary)
+  description: A gene disk pre-loaded with a random legendary gene.
+  suffix: Legendary Gene
+  components:
+  - type: GeneDisk
+    prefilledRarity: Legendary
+
+# Specific gene disks for testing
+- type: entity
+  id: CapibaraGeneDiskSentient
+  parent: CapibaraGeneDisk
+  name: plant gene disk (sentient)
+  description: A gene disk pre-loaded with the Sentient gene.
+  suffix: Sentient
+  components:
+  - type: GeneDisk
+    storedGene: GeneSentient
+
+- type: entity
+  id: CapibaraGeneDiskExplosive
+  parent: CapibaraGeneDisk
+  name: plant gene disk (explosive)
+  description: A gene disk pre-loaded with the Explosive gene.
+  suffix: Explosive
+  components:
+  - type: GeneDisk
+    storedGene: GeneExplosive
+
+- type: entity
+  id: CapibaraGeneDiskSlippery
+  parent: CapibaraGeneDisk
+  name: plant gene disk (slippery)
+  description: A gene disk pre-loaded with the Slippery gene.
+  suffix: Slippery
+  components:
+  - type: GeneDisk
+    storedGene: GeneSlippery
+
+- type: entity
+  id: CapibaraGeneDiskElectrical
+  parent: CapibaraGeneDisk
+  name: plant gene disk (electrical)
+  description: A gene disk pre-loaded with the Electrical gene.
+  suffix: Electrical
+  components:
+  - type: GeneDisk
+    storedGene: GeneElectrical
+
+# Specific gene disks for every gene (testing/spawning)
+- type: entity
+  id: CapibaraGeneDiskPerennial
+  parent: CapibaraGeneDisk
+  suffix: Perennial
+  components:
+  - type: GeneDisk
+    storedGene: GenePerennial
+
+- type: entity
+  id: CapibaraGeneDiskFibrous
+  parent: CapibaraGeneDisk
+  suffix: Fibrous
+  components:
+  - type: GeneDisk
+    storedGene: GeneFibrous
+
+- type: entity
+  id: CapibaraGeneDiskJuicy
+  parent: CapibaraGeneDisk
+  suffix: Juicy
+  components:
+  - type: GeneDisk
+    storedGene: GeneJuicy
+
+- type: entity
+  id: CapibaraGeneDiskHardy
+  parent: CapibaraGeneDisk
+  suffix: Hardy
+  components:
+  - type: GeneDisk
+    storedGene: GeneHardy
+
+- type: entity
+  id: CapibaraGeneDiskThorny
+  parent: CapibaraGeneDisk
+  suffix: Thorny
+  components:
+  - type: GeneDisk
+    storedGene: GeneThorny
+
+- type: entity
+  id: CapibaraGeneDiskAromatic
+  parent: CapibaraGeneDisk
+  suffix: Aromatic
+  components:
+  - type: GeneDisk
+    storedGene: GeneAromatic
+
+- type: entity
+  id: CapibaraGeneDiskDense
+  parent: CapibaraGeneDisk
+  suffix: Dense
+  components:
+  - type: GeneDisk
+    storedGene: GeneDense
+
+- type: entity
+  id: CapibaraGeneDiskStimulant
+  parent: CapibaraGeneDisk
+  suffix: Stimulant
+  components:
+  - type: GeneDisk
+    storedGene: GeneStimulant
+
+- type: entity
+  id: CapibaraGeneDiskVitalizing
+  parent: CapibaraGeneDisk
+  suffix: Vitalizing
+  components:
+  - type: GeneDisk
+    storedGene: GeneVitalizing
+
+- type: entity
+  id: CapibaraGeneDiskHemostatic
+  parent: CapibaraGeneDisk
+  suffix: Hemostatic
+  components:
+  - type: GeneDisk
+    storedGene: GeneHemostatic
+
+- type: entity
+  id: CapibaraGeneDiskOvermutated
+  parent: CapibaraGeneDisk
+  suffix: Overmutated
+  components:
+  - type: GeneDisk
+    storedGene: GeneOvermutated
+
+- type: entity
+  id: CapibaraGeneDiskBioluminescent
+  parent: CapibaraGeneDisk
+  suffix: Bioluminescent
+  components:
+  - type: GeneDisk
+    storedGene: GeneBioluminescent
+
+- type: entity
+  id: CapibaraGeneDiskHighYield
+  parent: CapibaraGeneDisk
+  suffix: HighYield
+  components:
+  - type: GeneDisk
+    storedGene: GeneHighYield
+
+- type: entity
+  id: CapibaraGeneDiskPotentBloom
+  parent: CapibaraGeneDisk
+  suffix: PotentBloom
+  components:
+  - type: GeneDisk
+    storedGene: GenePotentBloom
+
+- type: entity
+  id: CapibaraGeneDiskLongLived
+  parent: CapibaraGeneDisk
+  suffix: LongLived
+  components:
+  - type: GeneDisk
+    storedGene: GeneLongLived
+
+- type: entity
+  id: CapibaraGeneDiskQuickGrower
+  parent: CapibaraGeneDisk
+  suffix: QuickGrower
+  components:
+  - type: GeneDisk
+    storedGene: GeneQuickGrower
+
+- type: entity
+  id: CapibaraGeneDiskProductive
+  parent: CapibaraGeneDisk
+  suffix: Productive
+  components:
+  - type: GeneDisk
+    storedGene: GeneProductive
+
+- type: entity
+  id: CapibaraGeneDiskWaterEfficient
+  parent: CapibaraGeneDisk
+  suffix: WaterEfficient
+  components:
+  - type: GeneDisk
+    storedGene: GeneWaterEfficient
+
+- type: entity
+  id: CapibaraGeneDiskNutrientEfficient
+  parent: CapibaraGeneDisk
+  suffix: NutrientEfficient
+  components:
+  - type: GeneDisk
+    storedGene: GeneNutrientEfficient
+
+- type: entity
+  id: CapibaraGeneDiskHeatResistant
+  parent: CapibaraGeneDisk
+  suffix: HeatResistant
+  components:
+  - type: GeneDisk
+    storedGene: GeneHeatResistant
+
+- type: entity
+  id: CapibaraGeneDiskPestResistant
+  parent: CapibaraGeneDisk
+  suffix: PestResistant
+  components:
+  - type: GeneDisk
+    storedGene: GenePestResistant
+
+- type: entity
+  id: CapibaraGeneDiskWeedResistant
+  parent: CapibaraGeneDisk
+  suffix: WeedResistant
+  components:
+  - type: GeneDisk
+    storedGene: GeneWeedResistant
+
+- type: entity
+  id: CapibaraGeneDiskSeedless
+  parent: CapibaraGeneDisk
+  suffix: Seedless
+  components:
+  - type: GeneDisk
+    storedGene: GeneSeedless
+
+- type: entity
+  id: CapibaraGeneDiskLigneous
+  parent: CapibaraGeneDisk
+  suffix: Ligneous
+  components:
+  - type: GeneDisk
+    storedGene: GeneLigneous
+
+- type: entity
+  id: CapibaraGeneDiskVocalCords
+  parent: CapibaraGeneDisk
+  suffix: VocalCords
+  components:
+  - type: GeneDisk
+    storedGene: GeneVocalCords
+
+- type: entity
+  id: CapibaraGeneDiskKudzu
+  parent: CapibaraGeneDisk
+  suffix: Kudzu
+  components:
+  - type: GeneDisk
+    storedGene: GeneKudzu
+
+- type: entity
+  id: CapibaraGeneDiskPerennialHarvest
+  parent: CapibaraGeneDisk
+  suffix: PerennialHarvest
+  components:
+  - type: GeneDisk
+    storedGene: GenePerennialHarvest
+
+- type: entity
+  id: CapibaraGeneDiskSelfHarvest
+  parent: CapibaraGeneDisk
+  suffix: SelfHarvest
+  components:
+  - type: GeneDisk
+    storedGene: GeneSelfHarvest
+
+- type: entity
+  id: CapibaraGeneDiskSticky
+  parent: CapibaraGeneDisk
+  suffix: Sticky
+  components:
+  - type: GeneDisk
+    storedGene: GeneSticky
+
+- type: entity
+  id: CapibaraGeneDiskHealing
+  parent: CapibaraGeneDisk
+  suffix: Healing
+  components:
+  - type: GeneDisk
+    storedGene: GeneHealing
+
+- type: entity
+  id: CapibaraGeneDiskGaseous
+  parent: CapibaraGeneDisk
+  suffix: Gaseous
+  components:
+  - type: GeneDisk
+    storedGene: GeneGaseous
+
+- type: entity
+  id: CapibaraGeneDiskFermentable
+  parent: CapibaraGeneDisk
+  suffix: Fermentable
+  components:
+  - type: GeneDisk
+    storedGene: GeneFermentable
+
+- type: entity
+  id: CapibaraGeneDiskAdaptive
+  parent: CapibaraGeneDisk
+  suffix: Adaptive
+  components:
+  - type: GeneDisk
+    storedGene: GeneAdaptive
+
+- type: entity
+  id: CapibaraGeneDiskCrystalline
+  parent: CapibaraGeneDisk
+  suffix: Crystalline
+  components:
+  - type: GeneDisk
+    storedGene: GeneCrystalline
+
+- type: entity
+  id: CapibaraGeneDiskBluespace
+  parent: CapibaraGeneDisk
+  suffix: Bluespace
+  components:
+  - type: GeneDisk
+    storedGene: GeneBluespace
+
+- type: entity
+  id: CapibaraGeneDiskMetallic
+  parent: CapibaraGeneDisk
+  suffix: Metallic
+  components:
+  - type: GeneDisk
+    storedGene: GeneMetallic
+
+- type: entity
+  id: CapibaraGeneDiskToxic
+  parent: CapibaraGeneDisk
+  suffix: Toxic
+  components:
+  - type: GeneDisk
+    storedGene: GeneToxic
+
+- type: entity
+  id: CapibaraGeneDiskMimetic
+  parent: CapibaraGeneDisk
+  suffix: Mimetic
+  components:
+  - type: GeneDisk
+    storedGene: GeneMimetic
+
+- type: entity
+  id: CapibaraGeneDiskHonking
+  parent: CapibaraGeneDisk
+  suffix: Honking
+  components:
+  - type: GeneDisk
+    storedGene: GeneHonking
+
+- type: entity
+  id: CapibaraGeneDiskBluespaceAnomaly
+  parent: CapibaraGeneDisk
+  suffix: BluespaceAnomaly
+  components:
+  - type: GeneDisk
+    storedGene: GeneBluespaceAnomaly
+
+- type: entity
+  id: CapibaraGeneDiskPlasmaCore
+  parent: CapibaraGeneDisk
+  suffix: PlasmaCore
+  components:
+  - type: GeneDisk
+    storedGene: GenePlasmaCore
+
+- type: entity
+  id: CapibaraGeneDiskSingularitySeed
+  parent: CapibaraGeneDisk
+  suffix: SingularitySeed
+  components:
+  - type: GeneDisk
+    storedGene: GeneSingularitySeed
+
+- type: entity
+  id: CapibaraGeneDiskTemporal
+  parent: CapibaraGeneDisk
+  suffix: Temporal
+  components:
+  - type: GeneDisk
+    storedGene: GeneTemporal
+
+# Produce Mob (Passive) — sentient produce that wanders peacefully
+- type: entity
+  id: CapibaraProduceMobPassive
+  parent: [ BaseSimpleMob, MobCombat, MobAtmosExposed, MobFlammable ]
+  name: sentient produce
+  description: A gene-modified plant product that has gained sentience.
+  suffix: Passive
+  components:
+  - type: ProduceMob
+  - type: NpcFactionMember
+    factions:
+    - SimpleNeutral
+  - type: HTN
+    rootTask:
+      task: IdleCompound
+  - type: Sprite
+    noRot: true
+    drawdepth: Mobs
+    layers:
+    - state: produce
+      sprite: Objects/Specific/Hydroponics/potato.rsi
+  - type: MobState
+    allowedStates:
+    - Alive
+    - Dead
+  - type: MobThresholds
+    thresholds:
+      0: Alive
+      30: Dead
+  - type: Damageable
+    damageContainer: Biological
+  - type: Body
+    bodyType: Simple
+    prototype: Animal
+  - type: Stamina
+    critThreshold: 100
+  - type: Physics
+    bodyType: KinematicController
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeCircle
+          radius: 0.25
+        density: 30
+        mask:
+        - MobMask
+        layer:
+        - MobLayer
+  - type: MovementSpeedModifier
+    baseWalkSpeed: 2
+    baseSprintSpeed: 2
+  - type: Clickable
+  - type: InteractionOutline
+  - type: InputMover
+  - type: Input
+    context: "human"
+  - type: MobMover
+  - type: Actions
+  - type: Alerts
+  - type: Appearance
+  - type: CombatMode
+  - type: StaticPrice
+    price: 10
+
+# Produce Mob (Hostile) — angry sentient produce that attacks
+- type: entity
+  id: CapibaraProduceMobHostile
+  parent: CapibaraProduceMobPassive
+  name: angry produce
+  description: A gene-modified plant product that has gained sentience and is very angry.
+  suffix: Hostile
+  components:
+  - type: NpcFactionMember
+    factions:
+    - SimpleHostile
+  - type: HTN
+    rootTask:
+      task: SimpleHostileCompound
+  - type: MobThresholds
+    thresholds:
+      0: Alive
+      50: Dead
+  - type: MovementSpeedModifier
+    baseWalkSpeed: 3.5
+    baseSprintSpeed: 3.5
+  - type: MeleeWeapon
+    angle: 0
+    animation: WeaponArcBite
+    damage:
+      types:
+        Blunt: 5
+  - type: NPCRetaliation

@@ -1,0 +1,32 @@
+# Capibara - Botany Research Technologies
+
+- type: technology
+  id: CapibaraAdvancedBotany
+  name: capibara-research-advanced-botany
+  icon:
+    sprite: _Capibara/Botany/Machines/dna_manipulator.rsi
+    state: icon
+  discipline: CivilianServices
+  tier: 2
+  cost: 10000
+  recipeUnlocks:
+  - CapibaraDnaManipulatorMachineCircuitboard
+  - CapibaraPlantCentrifugeMachineCircuitboard
+  position: -3,6
+  technologyPrerequisites:
+  - Hydroponics
+
+- type: technology
+  id: CapibaraGeneSplicing
+  name: capibara-research-gene-splicing
+  icon:
+    sprite: _Capibara/Botany/Machines/gene_splicer.rsi
+    state: genesplicer_empty
+  discipline: CivilianServices
+  tier: 3
+  cost: 15000
+  recipeUnlocks:
+  - CapibaraGeneSplicerMachineCircuitboard
+  position: -3,7
+  technologyPrerequisites:
+  - CapibaraAdvancedBotany

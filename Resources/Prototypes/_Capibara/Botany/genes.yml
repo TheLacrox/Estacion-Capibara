@@ -1,0 +1,502 @@
+# Capibara - Plant Gene Prototypes
+# Phase 1: Starter genes (Common tier)
+
+- type: plantGene
+  id: GenePerennial
+  name: capibara-gene-perennial-name
+  description: capibara-gene-perennial-desc
+  rarity: Common
+  instabilityCost: 3
+  statModifiers:
+    Lifespan: 30
+    Production: -2
+
+- type: plantGene
+  id: GeneFibrous
+  name: capibara-gene-fibrous-name
+  description: capibara-gene-fibrous-desc
+  rarity: Common
+  instabilityCost: 3
+  statModifiers:
+    Endurance: 20
+
+- type: plantGene
+  id: GeneJuicy
+  name: capibara-gene-juicy-name
+  description: capibara-gene-juicy-desc
+  rarity: Common
+  instabilityCost: 2
+  statMultipliers:
+    Potency: 1.3
+  visualTint: "#88CCFF"
+
+- type: plantGene
+  id: GeneHardy
+  name: capibara-gene-hardy-name
+  description: capibara-gene-hardy-desc
+  rarity: Common
+  instabilityCost: 2
+  statModifiers:
+    Endurance: 30
+    Potency: -5
+
+- type: plantGene
+  id: GeneThorny
+  name: capibara-gene-thorny-name
+  description: capibara-gene-thorny-desc
+  rarity: Common
+  instabilityCost: 4
+  statModifiers:
+    PestTolerance: 3
+    WeedTolerance: 2
+  failureMode: thorny
+
+- type: plantGene
+  id: GeneAromatic
+  name: capibara-gene-aromatic-name
+  description: capibara-gene-aromatic-desc
+  rarity: Common
+  instabilityCost: 2
+  statModifiers:
+    Potency: 5
+  visualTint: "#FFCC88"
+
+- type: plantGene
+  id: GeneDense
+  name: capibara-gene-dense-name
+  description: capibara-gene-dense-desc
+  rarity: Common
+  instabilityCost: 3
+  statModifiers:
+    Yield: -1
+  statMultipliers:
+    Potency: 1.2
+
+- type: plantGene
+  id: GeneStimulant
+  name: capibara-gene-stimulant-name
+  description: capibara-gene-stimulant-desc
+  rarity: Common
+  instabilityCost: 4
+  chemicalAdds:
+    Ephedrine:
+      min: 1
+      max: 5
+      potencyDivisor: 25
+  visualTint: "#CCFF88"
+
+- type: plantGene
+  id: GeneVitalizing
+  name: capibara-gene-vitalizing-name
+  description: capibara-gene-vitalizing-desc
+  rarity: Common
+  instabilityCost: 3
+  chemicalAdds:
+    Bicaridine:
+      min: 1
+      max: 10
+      potencyDivisor: 20
+  visualTint: "#FF8888"
+
+- type: plantGene
+  id: GeneHemostatic
+  name: capibara-gene-hemostatic-name
+  description: capibara-gene-hemostatic-desc
+  rarity: Uncommon
+  instabilityCost: 5
+  chemicalAdds:
+    TranexamicAcid:
+      min: 1
+      max: 5
+      potencyDivisor: 30
+  visualTint: "#CC4444"
+
+- type: plantGene
+  id: GeneOvermutated
+  name: capibara-gene-overmutated-name
+  description: capibara-gene-overmutated-desc
+  rarity: Common
+  instabilityCost: 5
+  visualTint: "#AA6633"
+
+- type: plantGene
+  id: GeneBioluminescent
+  name: capibara-gene-bioluminescent-name
+  description: capibara-gene-bioluminescent-desc
+  rarity: Uncommon
+  instabilityCost: 6
+  visualTint: "#88FF88"
+  effectRsi: Effects/fire_greyscale.rsi
+  effectState: "1"
+  failureMode: flash
+
+- type: plantGene
+  id: GeneSlippery
+  name: capibara-gene-slippery-name
+  description: capibara-gene-slippery-desc
+  rarity: Uncommon
+  instabilityCost: 7
+  statModifiers:
+    WaterConsumption: 0.3
+  failureMode: slip
+
+# Phase 3: Stat-boost genes (replaces old stat mutations)
+
+- type: plantGene
+  id: GeneHighYield
+  name: capibara-gene-high-yield-name
+  description: capibara-gene-high-yield-desc
+  rarity: Common
+  instabilityCost: 2
+  statModifiers:
+    Yield: 2
+
+- type: plantGene
+  id: GenePotentBloom
+  name: capibara-gene-potent-bloom-name
+  description: capibara-gene-potent-bloom-desc
+  rarity: Common
+  instabilityCost: 2
+  statMultipliers:
+    Potency: 1.15
+
+- type: plantGene
+  id: GeneLongLived
+  name: capibara-gene-long-lived-name
+  description: capibara-gene-long-lived-desc
+  rarity: Common
+  instabilityCost: 2
+  statModifiers:
+    Lifespan: 15
+
+- type: plantGene
+  id: GeneQuickGrower
+  name: capibara-gene-quick-grower-name
+  description: capibara-gene-quick-grower-desc
+  rarity: Common
+  instabilityCost: 3
+  statModifiers:
+    Maturation: -2
+
+- type: plantGene
+  id: GeneProductive
+  name: capibara-gene-productive-name
+  description: capibara-gene-productive-desc
+  rarity: Common
+  instabilityCost: 3
+  statModifiers:
+    Production: -2
+
+- type: plantGene
+  id: GeneWaterEfficient
+  name: capibara-gene-water-efficient-name
+  description: capibara-gene-water-efficient-desc
+  rarity: Uncommon
+  instabilityCost: 5
+  statModifiers:
+    WaterConsumption: -0.2
+
+- type: plantGene
+  id: GeneNutrientEfficient
+  name: capibara-gene-nutrient-efficient-name
+  description: capibara-gene-nutrient-efficient-desc
+  rarity: Uncommon
+  instabilityCost: 5
+  statModifiers:
+    NutrientConsumption: -0.15
+
+- type: plantGene
+  id: GeneHeatResistant
+  name: capibara-gene-heat-resistant-name
+  description: capibara-gene-heat-resistant-desc
+  rarity: Uncommon
+  instabilityCost: 5
+  statModifiers:
+    HeatTolerance: 8
+
+- type: plantGene
+  id: GenePestResistant
+  name: capibara-gene-pest-resistant-name
+  description: capibara-gene-pest-resistant-desc
+  rarity: Uncommon
+  instabilityCost: 4
+  statModifiers:
+    PestTolerance: 5
+
+- type: plantGene
+  id: GeneWeedResistant
+  name: capibara-gene-weed-resistant-name
+  description: capibara-gene-weed-resistant-desc
+  rarity: Uncommon
+  instabilityCost: 4
+  statModifiers:
+    WeedTolerance: 5
+
+# Phase 4: Boolean trait genes (replaces old toggle mutations)
+
+- type: plantGene
+  id: GeneSeedless
+  name: capibara-gene-seedless-name
+  description: capibara-gene-seedless-desc
+  rarity: Common
+  instabilityCost: 1
+  booleanTraits:
+    Seedless: true
+
+- type: plantGene
+  id: GeneLigneous
+  name: capibara-gene-ligneous-name
+  description: capibara-gene-ligneous-desc
+  rarity: Common
+  instabilityCost: 2
+  booleanTraits:
+    Ligneous: true
+  statModifiers:
+    Endurance: 10
+
+- type: plantGene
+  id: GeneVocalCords
+  name: capibara-gene-vocal-cords-name
+  description: capibara-gene-vocal-cords-desc
+  rarity: Rare
+  instabilityCost: 10
+  booleanTraits:
+    CanScream: true
+  failureMode: sentient
+
+- type: plantGene
+  id: GeneKudzu
+  name: capibara-gene-kudzu-name
+  description: capibara-gene-kudzu-desc
+  rarity: Common
+  instabilityCost: 3
+  booleanTraits:
+    TurnIntoKudzu: true
+  statModifiers:
+    WeedTolerance: 8
+  visualTint: "#44CC44"
+  failureMode: thorny
+
+- type: plantGene
+  id: GenePerennialHarvest
+  name: capibara-gene-perennial-harvest-name
+  description: capibara-gene-perennial-harvest-desc
+  rarity: Uncommon
+  instabilityCost: 5
+  harvestUpgrade: 1
+
+- type: plantGene
+  id: GeneSelfHarvest
+  name: capibara-gene-self-harvest-name
+  description: capibara-gene-self-harvest-desc
+  rarity: Rare
+  instabilityCost: 12
+  harvestUpgrade: 2
+
+# Phase 2: Additional Uncommon genes
+
+- type: plantGene
+  id: GeneSticky
+  name: capibara-gene-sticky-name
+  description: capibara-gene-sticky-desc
+  rarity: Uncommon
+  instabilityCost: 8
+  statModifiers:
+    NutrientConsumption: 0.2
+  visualTint: "#CCCC44"
+  failureMode: sticky
+
+- type: plantGene
+  id: GeneHealing
+  name: capibara-gene-healing-name
+  description: capibara-gene-healing-desc
+  rarity: Uncommon
+  instabilityCost: 7
+  statModifiers:
+    Potency: 10
+  visualTint: "#44FF88"
+  failureMode: healing
+
+- type: plantGene
+  id: GeneGaseous
+  name: capibara-gene-gaseous-name
+  description: capibara-gene-gaseous-desc
+  rarity: Uncommon
+  instabilityCost: 6
+  statModifiers:
+    WaterConsumption: -0.2
+  visualTint: "#88DDAA"
+  failureMode: gas
+
+- type: plantGene
+  id: GeneFermentable
+  name: capibara-gene-fermentable-name
+  description: capibara-gene-fermentable-desc
+  rarity: Uncommon
+  instabilityCost: 5
+  statMultipliers:
+    Potency: 1.15
+
+- type: plantGene
+  id: GeneAdaptive
+  name: capibara-gene-adaptive-name
+  description: capibara-gene-adaptive-desc
+  rarity: Uncommon
+  instabilityCost: 8
+  statModifiers:
+    HeatTolerance: 10
+    LightTolerance: 5
+
+- type: plantGene
+  id: GeneCrystalline
+  name: capibara-gene-crystalline-name
+  description: capibara-gene-crystalline-desc
+  rarity: Uncommon
+  instabilityCost: 7
+  statModifiers:
+    Endurance: -15
+  statMultipliers:
+    Potency: 1.25
+  visualTint: "#88CCFF"
+  effectRsi: Effects/sparks.rsi
+  effectState: sparks
+  failureMode: crystal
+
+# Phase 2: Rare genes
+
+- type: plantGene
+  id: GeneExplosive
+  name: capibara-gene-explosive-name
+  description: capibara-gene-explosive-desc
+  rarity: Rare
+  instabilityCost: 18
+  statModifiers:
+    Potency: -10
+  visualTint: "#FF4422"
+  effectRsi: Effects/fire.rsi
+  effectState: fire
+  failureMode: explosive
+
+- type: plantGene
+  id: GeneBluespace
+  name: capibara-gene-bluespace-name
+  description: capibara-gene-bluespace-desc
+  rarity: Rare
+  instabilityCost: 15
+  visualTint: "#8844FF"
+  effectRsi: Effects/sparks.rsi
+  effectState: sparks
+  failureMode: bluespace
+
+- type: plantGene
+  id: GeneElectrical
+  name: capibara-gene-electrical-name
+  description: capibara-gene-electrical-desc
+  rarity: Rare
+  instabilityCost: 14
+  statModifiers:
+    WaterConsumption: 0.5
+  visualTint: "#FFFF44"
+  effectRsi: Effects/electricity.rsi
+  effectState: electrified
+  failureMode: electrical
+
+- type: plantGene
+  id: GeneMetallic
+  name: capibara-gene-metallic-name
+  description: capibara-gene-metallic-desc
+  rarity: Rare
+  instabilityCost: 12
+  statModifiers:
+    Endurance: 40
+    Yield: -1
+  visualTint: "#AAAACC"
+  failureMode: metallic
+
+- type: plantGene
+  id: GeneToxic
+  name: capibara-gene-toxic-name
+  description: capibara-gene-toxic-desc
+  rarity: Rare
+  instabilityCost: 16
+  statModifiers:
+    ToxinsTolerance: 10
+  visualTint: "#44CC22"
+  effectRsi: Effects/chempuff.rsi
+  effectState: chempuff
+  failureMode: toxic
+
+- type: plantGene
+  id: GeneSentient
+  name: capibara-gene-sentient-name
+  description: capibara-gene-sentient-desc
+  rarity: Rare
+  instabilityCost: 20
+  failureMode: sentient
+
+- type: plantGene
+  id: GeneMimetic
+  name: capibara-gene-mimetic-name
+  description: capibara-gene-mimetic-desc
+  rarity: Rare
+  instabilityCost: 15
+  failureMode: mimetic
+
+- type: plantGene
+  id: GeneHonking
+  name: capibara-gene-honking-name
+  description: capibara-gene-honking-desc
+  rarity: Rare
+  instabilityCost: 12
+  visualTint: "#FFFF00"
+  failureMode: honking
+
+# Phase 4: Legendary genes (created via Gene Splicer)
+
+- type: plantGene
+  id: GeneBluespaceAnomaly
+  name: capibara-gene-bluespace-anomaly-name
+  description: capibara-gene-bluespace-anomaly-desc
+  rarity: Legendary
+  instabilityCost: 30
+  visualTint: "#CC44FF"
+  effectRsi: Effects/electricity.rsi
+  effectState: electrified
+  failureMode: bluespace
+
+- type: plantGene
+  id: GenePlasmaCore
+  name: capibara-gene-plasma-core-name
+  description: capibara-gene-plasma-core-desc
+  rarity: Legendary
+  instabilityCost: 28
+  visualTint: "#FF4488"
+  effectRsi: Effects/fire.rsi
+  effectState: overcharged
+  failureMode: explosive
+
+- type: plantGene
+  id: GeneSingularitySeed
+  name: capibara-gene-singularity-seed-name
+  description: capibara-gene-singularity-seed-desc
+  rarity: Legendary
+  instabilityCost: 35
+  visualTint: "#440044"
+  effectRsi: Effects/emp.rsi
+  effectState: emp_pulse
+  failureMode: bluespace
+
+- type: plantGene
+  id: GeneTemporal
+  name: capibara-gene-temporal-name
+  description: capibara-gene-temporal-desc
+  rarity: Legendary
+  instabilityCost: 30
+  statMultipliers:
+    Maturation: 0.5
+    Production: 0.5
+  visualTint: "#4488FF"
+  effectRsi: Effects/chronofield.rsi
+  effectState: chronofield
+  failureMode: bluespace
+
