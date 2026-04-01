@@ -17,6 +17,8 @@ public sealed class PatronSupportUIController : UIController, IOnStateEntered<Lo
 
     public void OnStateEntered(LobbyState state)
     {
+        return; // Capibara - Disable Goob Station Patreon popup
+
         if (_hasShownThisSession)
             return;
 

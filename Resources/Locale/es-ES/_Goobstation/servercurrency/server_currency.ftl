@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-server-currency-name-singular = Goob Coin
-server-currency-name-plural = Goob Coins
+server-currency-name-singular = Capi Punto
+server-currency-name-plural = Capi Puntos
 
 ## Commands
 
@@ -64,9 +64,9 @@ gs-balanceui-shop-footer = ⚠ Ahelp para usar tu ficha. Solo 1 uso por día.
 gs-balanceui-shop-token-label = Fichas
 gs-balanceui-shop-tittle-label = Títulos
 
-gs-balanceui-shop-buy-token-antag = Comprar una Ficha de Antagonista - {$price} Goob Coins
-gs-balanceui-shop-buy-token-admin-abuse = Comprar una Ficha de Abuso de Admin - {$price} Goob Coins
-gs-balanceui-shop-buy-token-hat = Comprar una Ficha de Sombrero - {$price} Goob Coins
+gs-balanceui-shop-buy-token-antag = Comprar una Ficha de Antagonista - {$price} Capi Puntos
+gs-balanceui-shop-buy-token-admin-abuse = Comprar una Ficha de Abuso de Admin - {$price} Capi Puntos
+gs-balanceui-shop-buy-token-hat = Comprar una Ficha de Sombrero - {$price} Capi Puntos
 
 gs-balanceui-shop-token-antag = Ficha de Antagonista de Alto Nivel
 gs-balanceui-shop-token-admin-abuse = Ficha de Abuso de Admin
