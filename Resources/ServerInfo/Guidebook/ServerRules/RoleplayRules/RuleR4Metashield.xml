@@ -9,105 +9,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Regla de Roleplay 4 - No hagas metagaming, obedece el Metashield
-  Algo que está "protegido" no puede ser conocido por tu personaje durante una ronda hasta que ocurra la "condición reveladora". Esto también significa que tu personaje no puede hacer cosas basándose en información "protegida". Conocer o actuar sobre algo que está protegido antes de que se cumpla la condición reveladora se denomina metagaming.
+  # Regla de Roleplay 4 - No hacer Powergaming
+  El Powergaming es la acción de conseguir ventajas, objetos y otras cosas que te den ventaja para "ganar" o sobrevivir sin ningún motivo dentro del juego válido que justifique ello
 
-  Las condiciones reveladoras revelan la información protegida para la ronda, no para una instancia específica. Esto significa que una vez que se cumple una condición reveladora en una ronda, el escudo ya no aplica en ningún caso para el resto de la ronda.
-
-  ## Nunca Revelado IC
-  Algunos escudos nunca se revelan IC. Esto significa que tu personaje nunca puede actuar como si supiera sobre esa cosa protegida.
-
-  Lo siguiente está protegido:
-  - El modo de juego actual y los posibles antags durante el modo de juego actual.
-  - Eventos de rondas anteriores.
-  - Eventos que experimentaste como un personaje diferente.
-  - Toda la información relacionada con el jugador de un personaje en lugar del personaje en sí. (Ver "Metafriending y Metagrudging" abajo.)
-  - Toda la información obtenida mientras estás muerto o como fantasma.
-  - Toda la información obtenida mientras estás en estado crítico o inconsciente.
-  - El hecho de que una ronda terminará.
-
-  Esto no impide saber que un turno terminará, pero sí prohíbe cosas como prepararse para matar gente en el comando central cuando las reglas de roleplay dejan de aplicarse en LRP.
-
-  ## Agentes Nucleares
-
-  - Los Agentes Nucleares son rumoreados pero no probados. Diviértete con este rumor.
-
-  ## Changelings
-
-  - A los ojos del público, los changelings son una forma de vida depredadora exterminada, siempre podrían volver, pero no estarían en nuestra estación, ¿verdad?
-
-  ## Herejes
-
-  - El capellán está al tanto de la existencia de herejes, pero el capellán siempre está diciendo tonterías. ¿Qué quieren decir siquiera?
-
-  ## Culto Cósmico
-
-  - ¡El capellán está diciendo palabras otra vez! ¿Por qué contratan gente tan rara?
-
-  ## Demonios
-
-  - ¡El capellán ahora está... hablando de DEMONIOS! ¿Qué es esta tontería? Los demonios son solo un mito, ¿verdad? ¡No pueden ser reales!
-
-  El conocimiento sobre las habilidades y consecuencias de un trato con un Demonio no está protegido.
-
-  ## Zombies
-
-  Los zombies son conocidos en toda la galaxia, pero no como algo de la vida real, sino como ficción.
-  Los Agentes Nucleares y los Agentes del Sindicato conocen el Romerol y lo que puede hacer, pero no hay beneficio en revelarlo a la tripulación. La gente probablemente no te creerá de todos modos.
-
-  ## Infecciones (Una vez que el virus zombie es probado)
-
-  Se sabe que tales infecciones están extintas. Pero afortunadamente la medicina avanzada ha podido curar la infección. La cura no es conocida por el público, pero sí es conocida por los Químicos y los Jefes Médicos. No se sabe que la cura sea para el virus zombie, pero se sabe que es una cura para una infección que causa que las personas se conviertan en zombies.
-
-  ## Escuadrón de la Muerte
-
-  El Escuadrón de la Muerte es un tropo de ciencia ficción bien conocido en la galaxia, pero no como algo real. Es un mito, una leyenda, y una historia que la gente se cuenta entre sí. El Escuadrón de la Muerte no es real, pero algunos argumentarán que sí lo es.
-
-  ## Implantes implantados
-
-  Los implantes no están protegidos por defecto, pero el hecho de que no son implantes de Nanotrasen (NT) sí está protegido.
-
-  ## Objetos Camaleón
-
-  Los objetos camaleón están protegidos.
-  Sospechar que un objeto es falso o robado no está protegido, pero probar objetos o llamarlos camaleón está cubierto por este escudo.
-
-  ## Objetos Sigilosos
-
-  El hecho de que un objeto puede ser algo diferente a lo que indica su apariencia visual y descripción al examinar está protegido.
-  Seguridad puede estar al tanto de objetos manipulados, pero no son conscientes del objeto específico que está manipulado. Esto significa que seguridad no puede actuar sobre el hecho de que un objeto está manipulado, pero puede actuar sobre el hecho de que un objeto es sospechoso. (Ejemplo: Armas no-NT en una persona es sospechoso, ¿cómo las consiguió en la estación?)
-  Este escudo protege los objetos sigilosos, incluyendo protegerlos de ser probados.
-
-
-  ## Metafriending y Metagrudging
-  Esta sección proporciona información adicional sobre un concepto que está prohibido por múltiples elementos del metashield que nunca se revelan IC. Dar a una persona o personaje trato preferencial basándose en algo que tu personaje no debería saber se considera metafriending. Tratar a una persona o personaje negativamente basándose en algo que tu personaje no debería saber se considera metagrudging.
-
-  ## Ejemplos de Metafriending
-  Estos son todos ejemplos de cosas que están prohibidas por al menos un elemento del metashield que nunca se revela IC.
-  - Dar a un personaje acceso adicional o un trabajo porque eres amigo del jugador que está interpretando a ese personaje.
-  - Confiar en un personaje porque eres amigo del jugador que está interpretando a ese personaje.
-  - No pelear contra un personaje porque eres amigo del jugador que está interpretando a ese personaje.
-  - Ignorar tu objetivo de matar a un personaje porque tu personaje y el suyo se hicieron amigos en una ronda anterior.
-
-  ## Ejemplos de Metagrudging
-  Estos son todos ejemplos de cosas que están prohibidas por al menos un elemento del metashield que nunca se revela IC.
-  - No dar a un personaje acceso adicional o un trabajo porque estás enfadado con o no te gusta el jugador que está interpretando a ese personaje.
-  - No confiar en un personaje porque estás enfadado con o no te gusta el jugador que está interpretando a ese personaje.
-  - Iniciar una pelea con un personaje por algo que hicieron la ronda pasada.
-  - Iniciar una pelea con un personaje porque te mataron mientras jugabas un personaje diferente.
-  - Apuntar o acosar a un personaje basándose en cualquier cosa que ese personaje hizo fuera de la ronda actual.
-  - Apuntar o acosar a un personaje basándose en cualquier cosa que el jugador del personaje hizo mientras no estaba jugando al personaje.
-
-  ## Explícitamente No Protegido
-  La siguiente es una lista de cosas que explícitamente no están protegidas. Si algo no está en esta lista, no significa que esté protegido, pero si algo está en ella entonces definitivamente no está protegido.
-  - El hecho de que el disco nuclear debe ser protegido y podría ser usado por un actor malicioso para intentar destruir la estación.
-  - Los objetos de alto valor o deseados por el Sindicato, y por lo tanto son probables objetivos de robo.
-  - La idea de que cualquier agente del Sindicato u otro actor malicioso tiene metas u objetivos que está intentando cumplir.
-  - El número de metas u objetivos que un agente del Sindicato u otro actor malicioso tiene.
-  - El hecho de que el Sindicato es enemigo de Nanotrasen, y que regularmente intentan enviar agentes encubiertos para espiar, sabotear o atacar a Nanotrasen.
-  - La apariencia típica de un personaje. Aunque debes tener en cuenta que múltiples personajes pueden compartir el mismo nombre.
-  - El hecho de que el Sindicato tiene objetos encubiertos capaces de conseguirles objetos, y que estos objetos se conocen como uplinks.
-  - Los Magos no están protegidos por el metashield ya que la federación de magos es bien rumoreada.
-
-  Para las condiciones reveladoras consulta [textlink="Condiciones reveladoras de antag" link="Conditions"]
+  ## Ejemplos:
+  - Esta permitido recolectar equipo médico cuando estés herido o cuando seas consciente dentro del juego que iras a algún lugar peligroso o te meterás en una situación peligrosa
+  - Esta permitido aceptar objetos o tratos que se te hayan sido ofrecidos
+  - Esta permitido recolectar objetos que necesites para tu trabajo
+  - Esta permitido recolectar lo que quieras como antagonista
+  - No esta permitido prepararse para antagonistas de los que no tienes ni idea si aparecerán en la ronda
+  - No esta permitido prepararse para antagonistas que no signifiquen una amenaza para ti
+  - No esta permitido prepararse para situaciones de las que no tienes idea dentro de personaje
+  - No esta permitido preparar armas o armaduras sin ninguna razón válida dentro de personaje
 </Document>

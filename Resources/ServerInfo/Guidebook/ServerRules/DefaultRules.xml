@@ -14,65 +14,38 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 <!-- Rules directly linked to prototype\rules.yml - edit both to change names of files/textlinking or add additional rules-->
 
 <Document>
-# Reglas de Goobstation
+# Reglas de Estacion Capibara 14
 
   - Space Station 14 no es como la mayoría de los juegos. Muchas reglas están diseñadas para requerir roleplay, y no todas las reglas son intuitivas. Por favor, tómate el tiempo de leer y entender las reglas antes de jugar para que no te sorprendas. Algunas de nuestras reglas son de tolerancia cero, lo que significa que una violación resultará en un ban indefinido sin ninguna advertencia. Los admins del juego te tratarán como si hubieras leído las reglas, incluso si no lo has hecho.
 
-  - El roleplay es lo primero, y los admins pueden ignorar otras reglas con este fin si resulta beneficioso para la experiencia del turno. Los admins pueden elegir intervenir en las rondas cuando sea en el mejor interés de los jugadores.
+  - Los admins pueden ignorar ciertas reglas por el bien de la ronda u otros motivos, si ves a un admin abusando de este privilegio puedes abrir un ticket en discord.
 
-## REGLAS PRINCIPALES
+## REGLAS UNIVERSALES
 
-  - [textlink="0. Los intereses de los admins" link="Admins"]
+  - [textlink="0. Perder es parte del juego" link="Admins"]
   - [textlink="1. No seas imbécil" link="RuleC1"]
-  - [textlink="2. No uses información obtenida fuera de medios En Personaje" link="RuleC2"]
-  - [textlink="3. Este es un servidor sandbox de roleplay" link="RuleC3"]
-  - [textlink="4. Los antagonistas solitarios no están sujetos a (la mayoría de) las reglas" link="RuleC4"]
-  - [textlink="5. Los jugadores en roles vitales requieren un mínimo de esfuerzo" link="RuleC5"]
-  - [textlink="6. Las decisiones de administración dentro del juego son definitivas" link="RuleC6"]
-  - [textlink="7. Solo usa inglés" link="RuleC7"]
-  - [textlink="8. El contenido erótico/perturbador no está permitido." link="RuleC8"]
-  - [textlink="9. Los jugadores deben tener 16 años o más" link="RuleC9"]
-  - [textlink="10. Perder es parte del juego" link="RuleC10"]
-  - [textlink="11. La intolerancia no está permitida" link="RuleC11"]
-  - [textlink="12. Usa nombres realistas de personaje, y no uses nombres de personas famosas" link="RuleC12"]
+  - [textlink="2. No uses información obtenida fuera de tus medios como personaje dentro del juego (Metagaming)" link="RuleC2"]
+  - [textlink="3. El roleplay debe ser ejercido y respetado" link="RuleC3"]
+  - [textlink="4. Los jugadores que estén jugando roles importantes deben esforzarce un poco mas" link="RuleC4"]
+  - [textlink="5. Las acciones y decisiones de la administración dentro del juego son definitivas" link="RuleC5"]
+  - [textlink="6. Sólo está permitido hablar español" link="RuleC6"]
+  - [textlink="7. Evitar contenido erótico" link="RuleC7"]
+  - [textlink="8. Los jugadores deben ser mayores de 16 años" link="RuleC8"]
+  - [textlink="9. Esta prohibido ser extremadamente prejuicioso e intolerante" link="RuleC9"]
+  - [textlink="10. Regla de vida nueva" link="RuleC10"]
 
 ## REGLAS DENTRO DEL JUEGO Y DE ROLEPLAY
 
-  Reglas adicionales hechas para nuestros servidores de roleplay (Sigma/Alpha/Beta(LRP) y Regalis/Aurum(MRP)). Si el roleplay no es tu estilo, todos los demás servidores solo se rigen por las Reglas Principales.
+  Si el roleplay no es tu estilo, ten en cuenta de que serás tratado de forma mas dura. 
 
-  Por favor ten en cuenta que un ban en los servidores de bajo roleplay puede resultar en un ban en los servidores de roleplay medio, y viceversa.
-
-
-  - [textlink="1. Roleplay" link="RuleR1"]
-  - [textlink="2. Escalada" link="RuleR2"]
-  - [textlink="3. Cadena de Mando" link="RuleR3"]
-  - [textlink="4. No hagas metagaming, obedece el Metashield" link="RuleR4"]
-  - [textlink="5. Vigilantismo (Validhunting)" link="RuleR5"]
-  - [textlink="6. Antagonismo y roleplay como antagonista." link="RuleR6"]
-  - [textlink="7. Trata con los malos en proporción a su(s) crimen(es)" link="RuleR7"]
-  - [textlink="8. No hagas powergaming" link="RuleR8"]
-  - [textlink="9. Juega como un personaje coherente y creíble" link="RuleR9"]
-  - [textlink="10. Mantente en tu área" link="RuleR10"]
-  - [textlink="11. Roleplay y Repetición" link="RuleR11"]
-  - [textlink="12. Reglas de Blueshield" link="RuleR12"]
-  - [textlink="13. Reglas de Representante de Nanotrasen" link="RuleR13"]
-  - [textlink="14. Amnesia de Muerte (NLR)" link="RuleR14"]
-  - [textlink="15. Griefing de Fin de Ronda (Solo MRP)" link="RuleR15"]
-  - [textlink="16. Técnico de Atmosféricos" link="RuleR16"]
-
-  ## REGLAS DE SILICON
-  Solo eres silicon si el juego te indica clara y explícitamente que eres un silicon. Para los jugadores que son silicons, estas Reglas de Silicon anulan todas las reglas de roleplay si hay algún conflicto. Las Reglas de Silicon no anulan las reglas principales.
-
-  - [textlink="1. Tus leyes de silicon son reglas" link="RuleS1"]
-  - [textlink="2. Las leyes deben priorizarse por su orden" link="RuleS2"]
-  - [textlink="3. Las leyes pueden redefinir términos usados en otras leyes" link="RuleS3"]
-  - [textlink="4. No puedes solicitar o permitir un cambio de leyes" link="RuleS4"]
-  - [textlink="5. Eres un agente libre si no tienes leyes" link="RuleS5"]
-  - [textlink="6. No estás obligado a seguir órdenes extremadamente irrazonables" link="RuleS6"]
-  - [textlink="7. Debes mantener consistencia con tu interpretación de las leyes" link="RuleS7"]
-  - [textlink="8. Tu HUD determina quién es tripulación" link="RuleS8"]
-  - [textlink="9. Daño se refiere a daño físico, priorizado por inmediatez y probabilidad" link="RuleS9"]
-  - [textlink="10. Puedes determinar cómo resuelves conflictos entre órdenes" link="RuleS10"]
+  - [textlink="1. El roleplay es requerido" link="RuleR1"]
+  - [textlink="2. Escalar conflictos es requerido" link="RuleR2"]
+  - [textlink="3. No hagas Validhunting" link="RuleR3"]
+  - [textlink="4. No hacer Powergaming" link="RuleR4"]
+  - [textlink="5. Juega un personaje creíble" link="RuleR5"]
+  - [textlink="6. Regla de sintéticos" link="RuleR6"]
+  - [textlink="7. Regla del rol de seguridad" link="RuleR7"]
+  - [textlink="8. Regla de antagonistas" link="RuleR8"]
 
 Al aceptar estas reglas, consientes que el servidor te redirija a otros servidores en nuestra red.
 </Document>
