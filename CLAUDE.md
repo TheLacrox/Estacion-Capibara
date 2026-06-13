@@ -134,6 +134,7 @@ Sometimes you need to hook into existing upstream systems. These edits create me
 | `Resources/Prototypes/Guidebook/science.yml` | Added Genetics to Science guidebook children | Low (append to list) |
 | `Content.Shared/Body/Systems/SharedBloodstreamSystem.cs` | Raise `BleedModifierEvent` in bleed tick for Trauma genetics bleeding mutation | Low (small addition) |
 | `Resources/Prototypes/Entities/Mobs/Species/base.yml` | Add `MutatableComponent` to `BaseMobSpeciesOrganic` for genetics system | Low (append component) |
+| `Content.Packaging/ServerPackaging.cs` | Add `StackExchange.Redis` + `Pipelines.Sockets.Unofficial` to `ServerExtraAssemblies` so TTS deps ship in the packaged server (else `TTSClient` crashes on load in Docker/published builds) | Low (append to list) |
 
 **Rules for upstream edits:**
 
