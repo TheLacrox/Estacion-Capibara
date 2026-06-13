@@ -1,0 +1,45 @@
+# Capibara Station - production server config (baked into the Docker image).
+# Per-deploy / secret values are injected at runtime via --cvar (see entrypoint.sh).
+
+[log]
+path = "logs"
+level = 1
+enabled = true
+
+[net]
+tickrate = 30
+port = 1212
+bindto = "::,0.0.0.0"
+max_connections = 256
+
+[status]
+enabled = true
+# status.connectaddress is set at runtime from $SS14_DOMAIN (udp://<domain>:1212)
+
+[game]
+hostname = "Capibara Station"
+lobbyenabled = true
+# map comes from the map pool (AtlasUpgraded)
+
+[console]
+# SECURITY: behind a reverse proxy, loopback == the proxy. Never grant loopback admin.
+loginlocal = false
+
+[hub]
+advertise = true
+hub_urls = "https://hub.spacestation14.com/"
+# hub.server_url is set at runtime from $SS14_DOMAIN (ss14s://<domain>)
+
+[auth]
+mode = 1   # 0=optional 1=required 2=disabled. Public server -> required.
+
+[database]
+engine = "sqlite"
+sqlite_dbpath = "preferences.db"   # relative to --data-dir (/data) -> /data/preferences.db
+
+[tts]
+enabled = true
+connection_string = "redis:6379"
+
+[build]
+fork_id = "capibara"   # launcher manages client ZIPs per fork

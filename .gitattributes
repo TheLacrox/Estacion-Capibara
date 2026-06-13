@@ -3,6 +3,10 @@
 ###############################################################################
 * text=auto
 
+# Shell scripts must stay LF so they run inside Linux containers.
+*.sh text eol=lf
+entrypoint.sh text eol=lf
+
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
