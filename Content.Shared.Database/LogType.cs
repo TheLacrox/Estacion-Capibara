@@ -622,4 +622,9 @@ public enum LogType
     /// Genetics console related interactions.
     /// </summary>
     Genetics = 10005, // Trauma
+
+    /// <summary>
+    /// Silicon law changes.
+    /// </summary>
+    SiliconLaws = 10006, // Goobstation
 }

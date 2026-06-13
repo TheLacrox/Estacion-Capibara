@@ -59,6 +59,7 @@
   #- Bagel
   #- Box
   #- Core
+  # Capibara - pool intentionally AtlasUpgraded only; upstream re-enables left commented
   #- Fland
   #- Gate
   #- Loop
