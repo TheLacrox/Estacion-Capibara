@@ -200,6 +200,7 @@ namespace Content.IntegrationTests.Tests
             // if upstreaming take ours here and edit manually.
             "Amber",
             "Atlas",
+            "AtlasUpgraded",  // Capibara
             "Bagel",
             "Barratry",
             "Box",            // Not in pool
@@ -241,6 +242,7 @@ namespace Content.IntegrationTests.Tests
             // order this list alphabetically, mark dev maps
               "Amber",
               "Atlas",
+              "AtlasUpgraded",  // Capibara - our active pool map
               "Bagel",
               "Barratry",
             //"Box",            // Not in pool

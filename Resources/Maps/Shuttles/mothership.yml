@@ -159,7 +159,6 @@ entities:
         chunkSize: 4
     - type: GasTileOverlay
     - type: RadiationGridResistance
-    - type: ExplosionAirtightGrid
 - proto: AirlockGlassShuttleXenoborgLocked
   entities:
   - uid: 107
