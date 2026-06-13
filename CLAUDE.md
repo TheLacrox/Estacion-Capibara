@@ -170,7 +170,43 @@ Resources/Locale/en-US/_Capibara/myfeature/
 
 Resources/Locale/es-ES/_Capibara/myfeature/
 └── myfeature.ftl                       # Spanish strings
+
+Content.IntegrationTests/Tests/_Capibara/MyFeature/
+└── MyFeatureInteractionTest.cs         # Headless test — REQUIRED (see Testing Policy)
 ```
+
+## Testing Policy
+
+**Every Capibara feature or change MUST ship with a headless integration test that drives the feature the way a player would and asserts it works without crashing.** No feature is "done" until its test passes. A feature with no test is treated as broken.
+
+This is non-negotiable for anything with player-facing behavior: UI windows (BUI), machine/console interactions, item interactions, entity effects, game rules, objectives. Pure data-only YAML tweaks (e.g. changing a number) are exempt unless they change logic.
+
+### Why
+
+Manual testing means launching the client, connecting, and clicking through every path by hand on every change — slow, skipped, and crashes slip into the live server. A headless test runs a full server+client pair in-process (no window), simulates the real interaction, and fails loudly on any exception or wrong result. Run it after every change; deploy with confidence.
+
+### How
+
+Extend `InteractionTest` (`Content.IntegrationTests/Tests/Interaction/InteractionTest`). It spawns a server+client pair and a player mob, and gives player-action helpers: `SpawnTarget(proto)`, `Activate()`, `Interact()`, `InteractUsing(id, qty)`, `SendBui(key, msg)`, `IsUiOpen(key)`, `ClickControl<TWindow>("Name")`, `AssertEntityLookup(...)`, `TryComp<T>(out c)`, `RunTicks(n)`.
+
+**Reference implementation:** `Content.IntegrationTests/Tests/_Capibara/Economy/CapibaraAtmInteractionTest.cs` — copy its structure.
+
+A good feature test covers, at minimum:
+1. **Happy path** — perform the interaction, assert the resulting game state (balance changed, item spawned, UI opened, etc.).
+2. **Failure/guard paths** — invalid input, missing precondition, unauthorized actor — assert it's rejected gracefully and **does not crash or mutate state**.
+
+Run it:
+
+```bash
+dotnet test Content.IntegrationTests/Content.IntegrationTests.csproj --filter "FullyQualifiedName~MyFeatureInteractionTest"
+```
+
+### Gotchas (learned writing the ATM test)
+
+- The test player mob (`InteractionTestMob`) has one hand and **no `id` inventory slot**. To get an ID/item into a machine's `ItemSlot`, insert it directly: `SEntMan.System<ItemSlotsSystem>().TryInsert(machineUid, comp.IdSlot, item, null)`. Don't rely on a "insert from inventory" BUI message.
+- Machines with `ActivatableUIRequiresPower` need power before the BUI opens. Spawn `APCBasic` on the target tile: `await SpawnEntity("APCBasic", SEntMan.GetCoordinates(TargetCoords)); await RunTicks(5);`.
+- `EntityUid` is not in the project global usings — add `using Robust.Shared.GameObjects;` to test files that reference it.
+- `SendBui(key, msg)` only works after the BUI is open client-side — call `Activate()` first and assert `IsUiOpen(key)`.
 
 ## Capibara Station Features
 

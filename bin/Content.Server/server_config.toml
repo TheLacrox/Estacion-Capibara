@@ -34,6 +34,7 @@ enabled = true
 [game]
 hostname = "MyServer"
 lobbyenabled = true
+map = "Dev"
 
 [console]
 # If this is true, people connecting from this machine (loopback)
