@@ -30,3 +30,7 @@ xenobio-reagent-toxin-advanced-desc = Convierte a cualquier humanoide que la ing
 
 xenobio-reagent-genderfluid-name = Fluido de género
 xenobio-reagent-genderfluid-desc = Cambia el género de quien lo ingiere. Si esto hubiera existido hace 100 años, la humanidad probablemente habría logrado la paz mundial.
+
+# Capibara: translations ported from upstream
+xenobio-reagent-slime-toxin-name = Toxina de slime
+xenobio-reagent-slime-toxin-desc = La toxina que el slime introduce en la sangre de la víctima durante la cacería, mantiene a la víctima en estado crítico incluso con cero volumen de sangre. También tiene efectos alucinógenos y sedantes.

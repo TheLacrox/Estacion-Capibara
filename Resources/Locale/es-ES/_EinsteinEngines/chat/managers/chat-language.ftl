@@ -58,3 +58,7 @@ chat-language-Pig-name = Cerdo
 chat-language-Sheep-name = Oveja
 chat-language-Xeno-name = Xeno
 chat-language-DroneTalk-name = Drone
+
+# Capibara: translations ported from upstream
+
+chat-language-Hydraspeak-name = Hy'drav'tha

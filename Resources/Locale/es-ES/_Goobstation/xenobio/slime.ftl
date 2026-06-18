@@ -13,3 +13,12 @@ slime-examined-tamer = [color=green]¡Parece contento de verte![/color]
 slime-interaction-tame = ¡Ahora parece que le gustas!
 
 slime-interaction-tame-fail = Parece que no está interesado en ti.
+
+# Capibara: translations ported from upstream
+slime-latch-fail-already-latched = ¡No puedes aferrarte al {$ent}, ya está aferrado por otra persona!
+
+slime-eat-corpse-success = ¡{THE($eater)} está intentando arrancarle algo a {THE($target)}!
+
+slime-eat-corpse-fail-not-eatable = {THE($target)} no parece comestible.
+
+slime-eat-corpse-fail-not-dead = ¡{THE($target)} debería estar muerto!

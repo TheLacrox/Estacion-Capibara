@@ -13,3 +13,6 @@ ui-options-hud-theme-coscult = Culto Cósmico
 
 ui-options-admin-notifications-title = Notificaciones de Administrador
 ui-options-admin-notifications-volume = Volumen de notificaciones de administrador
+
+# Capibara: translations ported from upstream
+ui-options-lock-action-bar-drag = Permitir arrastrar acciones en la barra rápida solo mientras el menú de acciones esté abierto

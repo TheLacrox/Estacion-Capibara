@@ -22,3 +22,8 @@ marking-ResomiFluffHead = Pelusa de cabeza Resomi
 marking-ResomiFluffHead-fluff_head = Pelusa de cabeza Resomi
 marking-ResomiFluffHeadUp = Pelusa de cabeza Resomi (arriba)
 marking-ResomiFluffHeadUp-fluff_head_up = Pelusa de cabeza Resomi (arriba)
+
+# Capibara: translations ported from upstream
+marking-ResomiFeathersBig = Plumas de cola grandes
+marking-ResomiFluffyChest = Pecho mullido grande
+marking-ResomiEars = Orejas grandes

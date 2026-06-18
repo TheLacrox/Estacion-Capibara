@@ -15,3 +15,9 @@ stack-watcher-wing = ala de vigilante
 stack-magma-wing = ala de vigilante de magma
 stack-ice-wing = ala de vigilante de hielo
 stack-legion-skull = cráneo de legión
+
+# Capibara: translations ported from upstream
+stack-ashwood-plank = {$amount ->
+[1] tablón de fresno de ceniza
+*[other] tablones de fresno de ceniza
+}

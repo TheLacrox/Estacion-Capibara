@@ -58,3 +58,7 @@ spell-summon-simians-maxed-out-message = ¡Tu poder de simio ha alcanzado su cap
 ghosts-summoned-message = ¡Se han invocado fantasmas!
 dimension-shift-message = ¡Las dimensiones cambian!
 global-tile-movement-message = ¡Empieza a sonar una melodía siniestra!
+
+# Capibara: translations ported from upstream
+
+spell-rathen-gut-popup = ¡No tienes apéndice, pero algo tenía que ceder!

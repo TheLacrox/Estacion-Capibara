@@ -5,3 +5,6 @@ terror-slasher = Atención tripulación, parece que alguien en vuestra estación
 terror-vox = Atención tripulación, parece que alguien en vuestra estación ha realizado una comunicación inesperada con un grupo de saqueadores en el espacio cercano.
 terror-blob = Atención tripulación, parece que alguien en vuestra estación ha realizado una comunicación inesperada con un científico loco en el espacio cercano.
 terror-grey-tide = Atención tripulación, parece que alguien en vuestra estación ha realizado una comunicación inesperada con un individuo muy robusto en el espacio cercano.
+
+# Capibara: translations ported from upstream
+terror-wizard = Atención tripulación, parece que alguien en vuestra estación ha realizado una comunicación inesperada con una persona mentalmente inestable en el espacio cercano.

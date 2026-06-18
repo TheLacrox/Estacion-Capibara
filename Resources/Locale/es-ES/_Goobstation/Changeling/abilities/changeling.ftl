@@ -101,3 +101,13 @@ changeling-hivemind-start = Sintonizamos nuestras ondas cerebrales con la frecue
 changeling-lastresort-activate = ¡EL CUERPO ACTUAL SE PERDERÁ! Úsalo de nuevo para confirmar.
 
 changeling-rejuvenate = ¡Una extraña energía recorre nuestro cuerpo, rejuveneciendo nuestras células y restaurando nuestros productos químicos!
+
+# Capibara: translations ported from upstream
+changeling-chameleon-fire = ¡Nuestra translucidez se pierde mientras las llamas nos queman!
+changeling-darkadapt-active = Nos preparamos para ajustarnos a la oscuridad.
+changeling-darkadapt-inactive = Dejamos de prepararnos para la oscuridad.
+changeling-regenerate = Nuestro cuerpo se limpia al instante de cualquier herida y hueso roto.
+changeling-regenerate-limbs = ¡Nuestro cuerpo emite un fuerte crujido mientras los miembros perdidos, las heridas y los huesos rotos se regeneran al instante!
+changeling-stasis-absorbed = No tenemos control sobre nuestras células. Nuestro cuerpo está en silencio. Se acabó.
+changeling-stasis-defib = Un choque nos recorre. ¡Nuestra estasis ha sido interrumpida!
+changeling-stasis-enter-dead = Entramos en estasis regenerativa. Nuestras lesiones catastróficas tardarán muchísimo tiempo en sanar...

@@ -9,3 +9,6 @@ markings-category-Wings = Alas
 
 marking-WingsRobotic = Alas robóticas
 marking-WingsRoboticMerciful = Alas robóticas misericordiosas
+
+# Capibara: translations ported from upstream
+marking-WingsMinimalistic = Alas minimalistas

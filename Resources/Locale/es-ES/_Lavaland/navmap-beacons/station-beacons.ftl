@@ -9,3 +9,6 @@ station-beacon-ruin-rouge-ai = Laboratorio Desconocido
 station-beacon-ruin-snow-biodome = Biodomo de Nieve
 
 station-beacon-ruin-syndicate = Señal del Sindicato
+
+# Capibara: translations ported from upstream
+station-beacon-ruin-lavaland = Lavaland

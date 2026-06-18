@@ -22,3 +22,9 @@ stack-screw = {$amount ->
     [1] tornillo
     *[other] tornillos
 }
+
+# Capibara: translations ported from upstream
+stack-canvas-tile = {$amount ->
+    [1] baldosa de lienzo
+    *[other] baldosas de lienzo
+}

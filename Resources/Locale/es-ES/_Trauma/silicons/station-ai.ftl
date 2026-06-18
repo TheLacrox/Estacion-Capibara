@@ -1,0 +1,22 @@
+# Customizations
+station-ai-icon-not-malf = No defectuosa
+station-ai-icon-firewall = Cortafuegos
+station-ai-icon-monochrome = Monocromo
+station-ai-icon-murica = 'Murica
+station-ai-icon-nanotrasen = Nanotrasen
+station-ai-icon-president = Sr. Presidente
+station-ai-icon-red-dot = Punto Rojo
+station-ai-icon-red = Rojo
+station-ai-icon-too-deep = Demasiado Profundo
+station-ai-icon-triumvirate = Triunvirato
+station-ai-icon-matrix = Matrix
+station-ai-icon-house = 2984
+station-ai-icon-database = Base de Datos
+station-ai-icon-glitchman = Defectuoso
+station-ai-icon-helios = Helios
+station-ai-icon-hades = Hades
+station-ai-icon-rainbow = Arcoíris
+station-ai-icon-alien = Alienígena
+station-ai-icon-goon = Ancestral
+station-ai-icon-weird = Extraño
+station-ai-icon-inverted = Al Revés

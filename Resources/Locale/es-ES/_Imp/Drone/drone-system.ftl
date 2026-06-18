@@ -10,3 +10,10 @@ drone-activated = ¡El dron cobra vida!
 drone-too-close = Ten en cuenta tu proximidad a {THE($being)}.
 drone-cant-use-nearby = Esta acción podría causar daño a {THE($being)}. Tu programación lo impide.
 drone-cant-use = Esta acción podría causar daño a la estación o a sus habitantes. Tu programación lo impide.
+
+# Capibara: translations ported from upstream
+drone-med-battery = Ten en cuenta que dejarás de funcionar permanentemente cuando se agote tu batería.
+drone-low-battery = Busca una estación de carga de inmediato. Estás en peligro existencial.
+
+alerts-drone-battery-name = Batería
+alerts-drone-battery-desc = Si tu batería se agota, te autodestruirás.

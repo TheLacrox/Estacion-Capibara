@@ -223,3 +223,8 @@ loadout-group-boxer-envirosuit = Traje enviro del Boxeador
 
 # Misc
 loadout-group-plasma-tank = Tanque de plasma
+
+# Capibara: translations ported from upstream
+# Salvage/Shaft Miner
+loadout-group-salvage-specialist-jumpsuit = Mono del Especialista en Salvamento
+loadout-group-shaft-miner-jumpsuit = Mono del Minero de Pozo

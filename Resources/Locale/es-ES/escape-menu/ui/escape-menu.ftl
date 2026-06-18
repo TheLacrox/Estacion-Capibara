@@ -22,3 +22,5 @@ ui-escape-wiki = Wiki
 ui-escape-disconnect = Desconectar
 ui-escape-quit = Salir
 
+# Capibara: translations ported from upstream
+ui-escape-character = Editor de personaje

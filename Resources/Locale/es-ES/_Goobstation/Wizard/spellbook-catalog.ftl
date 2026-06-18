@@ -185,3 +185,11 @@ spellbook-smite-name = Castigo Divino
 spellbook-smite-desc =
     Este hechizo carga tu mano con una energía profana que puede usarse para hacer que una víctima tocada explote violentamente.
     Requiere túnica y sombrero de mago para lanzarse.
+
+# Capibara: translations ported from upstream
+
+spellbook-rathen-name = El Secreto de Rathen
+spellbook-rathen-desc =
+    Invoca una poderosa onda expansiva a tu alrededor que derriba a todos, obligándolos a defecar su apéndice.
+    Si tu víctima ya ha perdido su apéndice, en su lugar recibe 10 de daño contundente con una alta probabilidad de arrancarle otras extremidades externas.
+    Requiere túnica y sombrero de mago para lanzarse.
