@@ -194,3 +194,13 @@ evolutionmenu-utility-absorbbiomatter-name = Absorber Biomateria
 evolutionmenu-utility-absorbbiomatter-desc =
     Absorbe un alimento orgánico, permitiéndote recuperar productos químicos en función de su contenido.
     Puede absorber nutrientes, proteínas crudas y cocidas, y grasa.
+
+# Capibara: translations ported from upstream
+
+evolutionmenu-utility-darkadapt-name = Adaptación a la Oscuridad
+evolutionmenu-utility-darkadapt-desc =
+    Te permite adaptar y ajustar tu cuerpo al manto de la oscuridad.
+    Mientras estás envuelto en la oscuridad, te vuelves translúcido y obtienes visión nocturna.
+    La adaptación pasiva puede activarse o desactivarse.
+    Los efectos cesarán si estás en llamas.
+    Cuesta 10 productos químicos.

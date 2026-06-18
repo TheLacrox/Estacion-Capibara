@@ -34,3 +34,9 @@ poll-command-info-not-found = Encuesta {$id} no encontrada.
 # Client Commands
 cmd-polls-desc = Abre la ventana de encuestas de la comunidad.
 cmd-polls-help = Uso: polls
+
+# Capibara: translations ported from upstream
+poll-control-seen-by = Visto por {$count} {$count ->
+    [one] jugador
+   *[other] jugadores
+}

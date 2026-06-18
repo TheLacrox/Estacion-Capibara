@@ -24,3 +24,7 @@ fold-unzip-verb = Bajar la cremallera
 
 fold-showhair-verb = Mostrar cabello
 fold-hidehair-verb = Ocultar cabello
+
+# Capibara: translations ported from upstream
+fold-verb-clothing-jacket = Quitarse la chaqueta
+unfold-verb-clothing-jacket = Ponerse la chaqueta

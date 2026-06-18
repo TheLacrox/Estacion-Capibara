@@ -1,0 +1,10 @@
+ent-MobMothroachMustard = polillacucaracha mostaza
+    .desc = Un delicioso resultado de que los chefs del mundo cruzaran carne con salsa.
+ent-MobMothroachLeopard = polillacucaracha leopardo
+    .desc = Un encantador resultado de numerosos intentos de cruzar insectos con depredadores.
+ent-MobMothroachCecropia = polillacucaracha cecropia
+    .desc = Un encantador resultado de numerosos intentos de cruzar un género de la familia de las ortigas con cucarachas.
+ent-MobMothroachLunar = polillacucaracha lunar
+    .desc = Alguien dejó la polilla bajo la luz de la luna.
+ent-FoodBurgerMustard = polillacucaracha-burguer
+    .desc = La última lámpara que vio fue la del interior del microondas.

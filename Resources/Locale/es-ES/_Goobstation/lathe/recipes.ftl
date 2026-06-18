@@ -17,3 +17,7 @@ lathe-recipe-SchechiTranslatorImplanter-subname = implante traductor schechi
 lathe-recipe-NewKinPidginTranslatorImplanter-subname = implante traductor ka'rakk
 lathe-recipe-ChevalTranslatorImplanter-subname = implante traductor cheval
 lathe-recipe-YowKriolTranslatorImplanter-subname = implante traductor yow kriol
+
+# Capibara: translations ported from upstream
+
+lathe-recipe-SignTranslatorImplanter-subname = implante traductor de señas

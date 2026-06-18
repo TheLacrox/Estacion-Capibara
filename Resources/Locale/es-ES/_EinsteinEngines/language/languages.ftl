@@ -195,3 +195,9 @@ language-NewKinPidgin-description = Un dialecto degradado improvisado por Vox de
     Aunque es un intento primitivo y torpe que resulta en una burda simplificación de su verdadero idioma,
     los Vox de casta alta aún pueden discernir significado en las crudas aproximaciones.
     Para todos los demás suena como gritos caóticos.
+
+# Capibara: translations ported from upstream
+language-Hydraspeak-name = Hy'drav'tha
+language-Hydraspeak-description =
+    Una mezcla de gorjeos, trinos y chirridos, con fuertes cambios tonales y de tono que componen este inusual idioma.
+    Debido a la naturaleza aviar de los hydrakin, una sola palabra puede significar un millón de cosas distintas al mismo tiempo, lo que hace este idioma casi incomprensible incluso para que otras razas con aspecto de ave logren descifrarlo.

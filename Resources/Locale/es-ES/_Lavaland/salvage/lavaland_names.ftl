@@ -42,3 +42,6 @@ lavaland-ruin-generator = Cementerio de generadores
 lavaland-ruin-mug = Fábrica de tazas
 lavaland-ruin-temple = Templo de Nar'Sie
 lavaland-ruin-flock-large = Extrañas ruinas de cristal
+
+# Capibara: translations ported from upstream
+lavaland-ruin-reclaimer = NT-Recuperador

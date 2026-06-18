@@ -25,3 +25,8 @@ reverse-bear-trap-component-start-unlocking-target-self = Empiezas a desbloquear
 reverse-bear-trap-component-start-unlocking-observer = ¡{$user} está desbloqueando la trampa en la cabeza de {$target}!
 reverse-bear-trap-component-start-unlocking-target = Empiezas a desbloquear la trampa de {$targetName}.
 reverse-bear-trap-component-start-unlocking-by-other = ¡{$otherName} está desbloqueando la trampa en tu cabeza!
+
+# Capibara: translations ported from upstream
+verb-trigger-timer-set = {$time} segundos
+verb-trigger-timer-set-current = {$time} segundos
+popup-trigger-timer-set = Temporizador de la trampa ajustado a {$time} segundos.

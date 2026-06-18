@@ -28,3 +28,8 @@ alerts-changeling-panacea-desc =
 alerts-changeling-voidadapt-name = Adaptación al Vacío
 alerts-changeling-voidadapt-desc =
     Los extremos bajos están siendo adaptados. [color=yellow]La regeneración química se reduce un 25%[/color]. [color=red]Los efectos cesarán si estás en llamas.[/color]
+
+# Capibara: translations ported from upstream
+alerts-changeling-darkadapt-name = Adaptación a la Oscuridad
+alerts-changeling-darkadapt-desc =
+    Nuestro cuerpo se ha ajustado al manto de oscuridad. [color=yellow]La regeneración química se reduce un 15%[/color]. [color=red]Los efectos cesarán si estás en llamas.[/color]

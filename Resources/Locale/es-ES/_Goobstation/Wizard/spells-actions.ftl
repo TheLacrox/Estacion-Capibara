@@ -35,3 +35,6 @@ action-speech-spell-gorilla-form = B'NA NAH-SLEMA!
 action-speech-spell-summon-stick-minions = ¡Levantaos, criaturas mías! ¡Salid de vuestras páginas a este reino!
 action-speech-spell-tile-toggle = RUK'AT
 action-speech-spell-curse-of-byond = CURSE OF BYOND!!
+
+# Capibara: translations ported from upstream
+action-speech-spell-rathen = ARSE NATH!!

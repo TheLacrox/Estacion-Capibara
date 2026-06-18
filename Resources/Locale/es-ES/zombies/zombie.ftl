@@ -20,3 +20,7 @@ zombie-role-rules = Eres un [color={role-type-team-antagonist-color}][bold]{role
 zombie-permadeath = Esta vez, estás muerto de verdad.
 
 zombification-resistance-coefficient-value = - Probabilidad de [color=violet]Infección[/color] reducida en [color=lightblue]{$value}%[/color].
+
+# Capibara: translations ported from upstream
+zombie-cured-popup = ¡La infección zombi desaparece sin dejar rastro!
+zombie-cure-failed-popup = ¡La cura no logra surtir efecto!

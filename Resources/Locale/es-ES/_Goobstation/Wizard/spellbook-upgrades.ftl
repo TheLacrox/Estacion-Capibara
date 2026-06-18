@@ -96,3 +96,7 @@ spellbook-upgrade-force-wall-desc = ¡Mejora Muro de Fuerza hasta un máximo de 
 
 spellbook-upgrade-simians-name = Mejora de Convocar Simios
 spellbook-upgrade-simians-desc = ¡Mejora Convocar Simios hasta un máximo de nivel 5!
+
+# Capibara: translations ported from upstream
+spellbook-upgrade-rathen-name = Mejora del Secreto de Rathen
+spellbook-upgrade-rathen-desc = ¡Mejora el Secreto de Rathen hasta un máximo de nivel 3!

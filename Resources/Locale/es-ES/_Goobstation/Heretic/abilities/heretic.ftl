@@ -98,3 +98,6 @@ heretic-speech-realignment = R'S'T!
 heretic-speech-fuckoff = F'K 'FF!!
 heretic-speech-ice-spear = D'WN 'F TH'CE!
 heretic-speech-shapeshft = SH'PE
+
+# Capibara: translations ported from upstream
+heretic-ability-lose-focus-shadow-cloak = ¡Al perder tu concentración, eres sacado de las sombras!

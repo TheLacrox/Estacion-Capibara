@@ -5,3 +5,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 metabolizer-type-yowie = Yowie
+
+# Capibara: translations ported from upstream
+metabolizer-type-xenobio-slime = Slime mutado

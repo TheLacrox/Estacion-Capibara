@@ -9,3 +9,7 @@ secretplus-admeme-description = Si puede suceder, sucederá.
 
 survivalplus-title = Supervivencia+
 survivalplus-description = Empieza bastante tranquilo. Termina no tanto.
+
+# Capibara: translations ported from upstream
+secretplus-lowpop-title = Secreto+ Poca Población
+secretplus-lowpop-description = Más activo y menos amenazante. Para tripulaciones reducidas.

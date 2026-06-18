@@ -43,3 +43,8 @@ research-technology-bluespace-construction-storage = Almacenamiento de construcc
 research-technology-extended-communication = Comunicaciones extendidas
 research-technology-bluespace-munitions = Municiones de espacio azul
 research-technology-radio-music-communication = Comunicaciones de música por radio
+
+# Capibara: translations ported from upstream
+research-technology-cloning = Reconstrucción biológica
+research-technology-service-energy-chem = Electrosíntesis orgánica
+research-technology-xeno-compatibility = Compatibilidad xeno

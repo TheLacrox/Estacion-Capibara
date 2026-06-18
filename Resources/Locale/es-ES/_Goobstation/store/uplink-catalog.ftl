@@ -388,3 +388,7 @@ uplink-jetpack-contractor-desc = ¡Este Jetpack fue hecho específicamente para 
 
 uplink-cuffs-contractor-name = Esposas
 uplink-cuffs-contractor-desc = Usadas para detener a criminales y otros indeseables.
+
+# Capibara: translations ported from upstream
+uplink-autosurgeon-statveka-sandevistan-name = Autocirujano Sandevistan Statveka
+uplink-autosurgeon-statveka-sandevistan-desc = Reemplaza el corazón del usuario con un Sandevistan statveka, un órgano sintético que aumenta drásticamente la velocidad y los reflejos del usuario a costa de su resistencia. A diferencia de su contraparte normal, este aparentemente ralentiza el tiempo cerca del usuario. Incluye un autocirujano de un solo uso para la instalación.

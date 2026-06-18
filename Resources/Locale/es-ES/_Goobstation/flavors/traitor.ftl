@@ -78,3 +78,16 @@ traitor-neulithivfederationvisionary-roundend = [color=violet]un Visionario de l
 
 issuers-corporate-flavor-1 = NanoTrasen
 issuers-corporate-flavor-2 = Comando Central
+
+# Capibara: translations ported from upstream
+traitor-postal-intro = Te has Vuelto Loco.
+traitor-postal-goal = Los preparativos están por fin completos. Hoy es el día en que pierdes la cabeza. Vas a secuestrar el transbordador de emergencia y vivir una nueva vida libre de Nanotrasen.
+traitor-postal-allies = Si el sindicato se entera de tu plan, te matarán y se llevarán tu uplink. No corras ningún riesgo.
+traitor-postal-uplink = En realidad lograste robar un uplink completo hace un mes. Esto sin duda ayudará a cumplir tus objetivos.
+traitor-postal-roundend = [color=white]simplemente perdiendo completamente la cabeza[/color]
+
+traitor-evilchampion-intro = ¡Eres el Campeón del Mal!
+traitor-evilchampion-goal = Tienes unos planes garabateados en una servilleta para hacer algo de MALDAD hoy. Por cierto, ¡los Campeones del Mal siempre buscan más malhechores moralmente malolientes! ¡Haz algo de reclutamiento!
+traitor-evilchampion-allies = ¡Cualquiera que vea como tú ves, sienta como tú sientes, puede unirse a los Campeones del Mal! Eso significa el Sindicato, los egoístas, o incluso los dementes, mientras tengan un corazón de oscuridad, ¡los Campeones lo aprueban!
+traitor-evilchampion-uplink = Los Campeones del Mal están bien conectados con el mercado negro. ¡Tu uplink ha sido proporcionado para la máxima maldad!
+traitor-evilchampion-roundend = [color=red]un Campeón del Mal[/color]
