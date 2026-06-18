@@ -14,7 +14,9 @@ services:
     volumes:
       - ss14-data:/data
     environment:
-      SS14_HOSTNAME: "${SS14_HOSTNAME:-Capibara Station}"
+      # Empty default -> entrypoint skips the --cvar and the baked game.hostname
+      # in server_config.prod.toml wins. Set this in Dokploy only to override.
+      SS14_HOSTNAME: "${SS14_HOSTNAME:-}"
       SS14_DOMAIN: "${SS14_DOMAIN:-}"
       SS14_HUB_ADVERTISE: "${SS14_HUB_ADVERTISE:-true}"
       SS14_AUTH_MODE: "${SS14_AUTH_MODE:-1}"
