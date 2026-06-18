@@ -238,7 +238,7 @@ The server deploys as a **3-service Docker Compose stack that Dokploy builds fro
 | File | Purpose |
 |---|---|
 | `Dockerfile` | Multi-stage build: SDK stage packages `Content.Packaging server --platform linux-x64 --hybrid-acz`; runtime stage on `dotnet/runtime:9.0` (server is framework-dependent, `--no-self-contained`) |
-| `Dockerfile.tts` | TTS worker (`pip install redis edge-tts`, runs `Tools/tts_worker.py`) |
+| `Dockerfile.tts` | TTS worker (apt `ffmpeg` for OGG conversion + `pip install redis edge-tts`, runs `Tools/tts_worker.py`) |
 | `docker-compose.yml` | The prod stack + `ss14-data` volume (replaces the old redis-only dev file) |
 | `entrypoint.sh` | Maps `SS14_*` env vars → `--cvar` flags; launches `Robust.Server --config-file ... --data-dir /data` |
 | `Docker/server_config.prod.toml` | Baked prod config (named `.prod.toml` because bare `server_config.toml` is gitignored) |
@@ -248,9 +248,10 @@ The server deploys as a **3-service Docker Compose stack that Dokploy builds fro
 
 - **Submodules:** the `Dockerfile` runs `git submodule update --init --recursive` itself (all `space-wizards/*` submodules are public, no auth). Does **not** rely on Dokploy's flaky submodule cloning.
 - **Networking:** SS14 gameplay is **UDP 1212** — Traefik can't proxy UDP, so publish it as a direct host port. The TCP status server is fronted by Dokploy/Traefik for HTTPS → launcher uses `ss14s://<domain>`; `entrypoint.sh` sets `status.connectaddress=udp://<domain>:1212` from `$SS14_DOMAIN`.
-- **Security:** `console.loginlocal=false` (TOML + entrypoint). Behind a proxy, loopback == the proxy, so loopback admin would be handed to any player. Use DB admin ranks.
+- **Security:** `console.loginlocal=false` (TOML + entrypoint). Behind a proxy, loopback == the proxy, so loopback admin would be handed to any player.
+- **Admin bootstrap:** `console.login_host_user` (baked to `"TheLacrox"` in `server_config.prod.toml`, override via `$SS14_HOST_USER`) auto-promotes that account to full host (all admin flags, `AdminFlagsHelper.Everything`) on join — see `AdminManager.LoadAdminDataCore`. Survives fresh data volumes, no SQLite editing. **Safe only with `auth.mode=1`** (account names tied to real SS14 accounts); with auth disabled anyone could pick the name. SS14 has no `addadmin` console command, so without this the only bootstrap is hand-inserting into `admin`/`admin_flag` (flag `HOST`) in `/data/preferences.db`.
 - **Persistence:** SQLite `preferences.db` + logs on the `ss14-data` volume at `/data`. Config travels in the image (edit `Docker/server_config.prod.toml` + redeploy).
-- **Env config** (Dokploy UI): `SS14_DOMAIN`, `SS14_HOSTNAME`, `SS14_HUB_ADVERTISE` (default `true`), `SS14_AUTH_MODE` (default `1`), `SS14_TTS_ENABLED`, `SS14_TTS_CONN` (default `redis:6379`).
+- **Env config** (Dokploy UI): `SS14_DOMAIN`, `SS14_HOSTNAME`, `SS14_HUB_ADVERTISE` (default `true`), `SS14_AUTH_MODE` (default `1`), `SS14_HOST_USER` (default `TheLacrox`, empty = disabled), `SS14_TTS_ENABLED`, `SS14_TTS_CONN` (default `redis:6379`).
 
 ### Local build/smoke
 
@@ -279,6 +280,15 @@ Enforced via `.editorconfig`:
 ## CI Checks
 
 PRs must pass: Build & Test (DebugOpt on Ubuntu), Test Packaging, YAML Linter, RGA/RSI/map validators.
+
+## Branch Protection (master)
+
+`master` is protected on GitHub (set via `gh api PUT /repos/.../branches/master/protection`). To change rules, edit that protection object — not the repo settings UI blindly.
+
+- **No direct pushes** — all changes land via PR. Always branch off latest `origin/master` and open a PR (`gh pr create --repo TheLacrox/Estacion-Capibara --base master ...`; the `--repo` flag is required or `gh` targets the upstream fork parent).
+- **1 approving review required**; stale approvals dismissed on new commits; conversation resolution required; force-push + branch deletion blocked.
+- **`enforce_admins=false`** — the owner (admin) can bypass the review gate. This is deliberate: GitHub forbids approving your own PR, so on a solo-maintained repo the owner merges their own PRs via admin bypass while contributors' PRs still need owner approval.
+- No required status checks wired yet (admin merges don't need green CI). Add them to the protection object's `required_status_checks.contexts` if you want CI gating.
 
 ## Key Gotchas
 

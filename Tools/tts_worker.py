@@ -361,6 +361,10 @@ def run_worker(args):
                 error_msg = f"ERROR:All TTS backends failed"
                 r.publish(reply_channel, error_msg.encode("utf-8"))
 
+        except redis.TimeoutError:
+            # redis-py applies BLPOP's timeout as the socket read timeout, so an
+            # idle queue raises here instead of returning None. Normal — keep waiting.
+            continue
         except redis.ConnectionError as e:
             log.error("Redis connection lost: %s — retrying in 5s", e)
             time.sleep(5)
