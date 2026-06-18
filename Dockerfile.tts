@@ -1,0 +1,11 @@
+# syntax=docker/dockerfile:1
+FROM python:3.12-slim
+
+# edge backend needs outbound internet (Microsoft TTS endpoint).
+RUN pip install --no-cache-dir redis edge-tts
+
+WORKDIR /app
+COPY Tools/tts_worker.py /app/tts_worker.py
+
+# Reaches Redis over the compose network. Default redis port (6379) inside the network.
+ENTRYPOINT ["python", "tts_worker.py", "--redis-host", "redis", "--redis-port", "6379", "--backend", "edge"]

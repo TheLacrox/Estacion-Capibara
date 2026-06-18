@@ -134,6 +134,7 @@ Sometimes you need to hook into existing upstream systems. These edits create me
 | `Resources/Prototypes/Guidebook/science.yml` | Added Genetics to Science guidebook children | Low (append to list) |
 | `Content.Shared/Body/Systems/SharedBloodstreamSystem.cs` | Raise `BleedModifierEvent` in bleed tick for Trauma genetics bleeding mutation | Low (small addition) |
 | `Resources/Prototypes/Entities/Mobs/Species/base.yml` | Add `MutatableComponent` to `BaseMobSpeciesOrganic` for genetics system | Low (append component) |
+| `Content.Packaging/ServerPackaging.cs` | Add `StackExchange.Redis` + `Pipelines.Sockets.Unofficial` to `ServerExtraAssemblies` so TTS deps ship in the packaged server (else `TTSClient` crashes on load in Docker/published builds) | Low (append to list) |
 
 **Rules for upstream edits:**
 
@@ -170,7 +171,43 @@ Resources/Locale/en-US/_Capibara/myfeature/
 
 Resources/Locale/es-ES/_Capibara/myfeature/
 └── myfeature.ftl                       # Spanish strings
+
+Content.IntegrationTests/Tests/_Capibara/MyFeature/
+└── MyFeatureInteractionTest.cs         # Headless test — REQUIRED (see Testing Policy)
 ```
+
+## Testing Policy
+
+**Every Capibara feature or change MUST ship with a headless integration test that drives the feature the way a player would and asserts it works without crashing.** No feature is "done" until its test passes. A feature with no test is treated as broken.
+
+This is non-negotiable for anything with player-facing behavior: UI windows (BUI), machine/console interactions, item interactions, entity effects, game rules, objectives. Pure data-only YAML tweaks (e.g. changing a number) are exempt unless they change logic.
+
+### Why
+
+Manual testing means launching the client, connecting, and clicking through every path by hand on every change — slow, skipped, and crashes slip into the live server. A headless test runs a full server+client pair in-process (no window), simulates the real interaction, and fails loudly on any exception or wrong result. Run it after every change; deploy with confidence.
+
+### How
+
+Extend `InteractionTest` (`Content.IntegrationTests/Tests/Interaction/InteractionTest`). It spawns a server+client pair and a player mob, and gives player-action helpers: `SpawnTarget(proto)`, `Activate()`, `Interact()`, `InteractUsing(id, qty)`, `SendBui(key, msg)`, `IsUiOpen(key)`, `ClickControl<TWindow>("Name")`, `AssertEntityLookup(...)`, `TryComp<T>(out c)`, `RunTicks(n)`.
+
+**Reference implementation:** `Content.IntegrationTests/Tests/_Capibara/Economy/CapibaraAtmInteractionTest.cs` — copy its structure.
+
+A good feature test covers, at minimum:
+1. **Happy path** — perform the interaction, assert the resulting game state (balance changed, item spawned, UI opened, etc.).
+2. **Failure/guard paths** — invalid input, missing precondition, unauthorized actor — assert it's rejected gracefully and **does not crash or mutate state**.
+
+Run it:
+
+```bash
+dotnet test Content.IntegrationTests/Content.IntegrationTests.csproj --filter "FullyQualifiedName~MyFeatureInteractionTest"
+```
+
+### Gotchas (learned writing the ATM test)
+
+- The test player mob (`InteractionTestMob`) has one hand and **no `id` inventory slot**. To get an ID/item into a machine's `ItemSlot`, insert it directly: `SEntMan.System<ItemSlotsSystem>().TryInsert(machineUid, comp.IdSlot, item, null)`. Don't rely on a "insert from inventory" BUI message.
+- Machines with `ActivatableUIRequiresPower` need power before the BUI opens. Spawn `APCBasic` on the target tile: `await SpawnEntity("APCBasic", SEntMan.GetCoordinates(TargetCoords)); await RunTicks(5);`.
+- `EntityUid` is not in the project global usings — add `using Robust.Shared.GameObjects;` to test files that reference it.
+- `SendBui(key, msg)` only works after the BUI is open client-side — call `Activate()` first and assert `IsUiOpen(key)`.
 
 ## Capibara Station Features
 
@@ -183,6 +220,48 @@ Current custom features:
 ### Other Fork Content
 
 The repo also includes `_FarHorizons/` directories (a separate fork's content) with features like fission generators, machine linking, and research systems. These follow the same isolation pattern as `_Capibara/` but are not Capibara-specific code.
+
+## Deployment (Docker / Dokploy)
+
+The server deploys as a **3-service Docker Compose stack that Dokploy builds from the repo** on push (no CI image / registry). Full guide: `docs/deploy-dokploy.md`. Design + plan: `docs/superpowers/specs/2026-06-13-docker-dokploy-deployment-design.md`, `docs/superpowers/plans/2026-06-13-docker-dokploy-deployment.md`.
+
+### Stack
+
+| Service | Image | Notes |
+|---|---|---|
+| `game-server` | `Dockerfile` (multi-stage, from-source) | UDP 1212 (gameplay) + TCP 1212 (status/launcher) |
+| `redis` | `redis:7-alpine` | TTS broker, internal only (no host port in prod) |
+| `tts-worker` | `Dockerfile.tts` (python + edge-tts) | needs outbound internet; reaches `redis:6379` |
+
+### Files
+
+| File | Purpose |
+|---|---|
+| `Dockerfile` | Multi-stage build: SDK stage packages `Content.Packaging server --platform linux-x64 --hybrid-acz`; runtime stage on `dotnet/runtime:9.0` (server is framework-dependent, `--no-self-contained`) |
+| `Dockerfile.tts` | TTS worker (`pip install redis edge-tts`, runs `Tools/tts_worker.py`) |
+| `docker-compose.yml` | The prod stack + `ss14-data` volume (replaces the old redis-only dev file) |
+| `entrypoint.sh` | Maps `SS14_*` env vars → `--cvar` flags; launches `Robust.Server --config-file ... --data-dir /data` |
+| `Docker/server_config.prod.toml` | Baked prod config (named `.prod.toml` because bare `server_config.toml` is gitignored) |
+| `.dockerignore` | Excludes `bin`/`obj`/`release`; **keeps `.git`** (build needs it for submodules) |
+
+### Key design points
+
+- **Submodules:** the `Dockerfile` runs `git submodule update --init --recursive` itself (all `space-wizards/*` submodules are public, no auth). Does **not** rely on Dokploy's flaky submodule cloning.
+- **Networking:** SS14 gameplay is **UDP 1212** — Traefik can't proxy UDP, so publish it as a direct host port. The TCP status server is fronted by Dokploy/Traefik for HTTPS → launcher uses `ss14s://<domain>`; `entrypoint.sh` sets `status.connectaddress=udp://<domain>:1212` from `$SS14_DOMAIN`.
+- **Security:** `console.loginlocal=false` (TOML + entrypoint). Behind a proxy, loopback == the proxy, so loopback admin would be handed to any player. Use DB admin ranks.
+- **Persistence:** SQLite `preferences.db` + logs on the `ss14-data` volume at `/data`. Config travels in the image (edit `Docker/server_config.prod.toml` + redeploy).
+- **Env config** (Dokploy UI): `SS14_DOMAIN`, `SS14_HOSTNAME`, `SS14_HUB_ADVERTISE` (default `true`), `SS14_AUTH_MODE` (default `1`), `SS14_TTS_ENABLED`, `SS14_TTS_CONN` (default `redis:6379`).
+
+### Local build/smoke
+
+```bash
+docker compose build               # builds game-server (from source) + tts-worker
+docker compose up                  # connect a client to localhost:1212
+```
+
+### Packaging gotcha (important)
+
+`Content.Packaging/ServerPackaging.cs` **whitelists** assemblies (`ServerExtraAssemblies`) and strips unknown third-party DLLs. Any new server dependency that isn't a `Content.*` assembly must be added there or the **packaged/published/Docker server crashes on boot** (it works locally from `bin/` regardless). TTS's `StackExchange.Redis` + `Pipelines.Sockets.Unofficial` were added for this reason. When adding a new third-party server dependency, add it to `ServerExtraAssemblies` too.
 
 ## Code Style
 

@@ -1,17 +1,39 @@
-# Capibara Station - Docker Compose
-# Provides Redis for the TTS system (and future services).
-#
-# Usage:
-#   docker compose up -d     # Start services
-#   docker compose down      # Stop services
-#
-# Configure the server to connect:
-#   cvar tts.enabled true
-#   cvar tts.connection_string 127.0.0.1:6380
+name: capibara-station
 
 services:
-  redis:
-    image: redis:latest
-    ports:
-      - "6380:6379"
+  game-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
     restart: unless-stopped
+    depends_on:
+      - redis
+    ports:
+      - "1212:1212/udp"   # gameplay - Traefik cannot proxy UDP, must be a direct host port
+      - "1212:1212/tcp"   # status/launcher - can also be fronted by Dokploy/Traefik with HTTPS
+    volumes:
+      - ss14-data:/data
+    environment:
+      SS14_HOSTNAME: "${SS14_HOSTNAME:-Capibara Station}"
+      SS14_DOMAIN: "${SS14_DOMAIN:-}"
+      SS14_HUB_ADVERTISE: "${SS14_HUB_ADVERTISE:-true}"
+      SS14_AUTH_MODE: "${SS14_AUTH_MODE:-1}"
+      SS14_TTS_ENABLED: "${SS14_TTS_ENABLED:-true}"
+      SS14_TTS_CONN: "${SS14_TTS_CONN:-redis:6379}"
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    # Internal only - no host ports in prod. (Local dev: `docker compose up redis`
+    # and add a port mapping locally if you need host access.)
+
+  tts-worker:
+    build:
+      context: .
+      dockerfile: Dockerfile.tts
+    restart: unless-stopped
+    depends_on:
+      - redis
+
+volumes:
+  ss14-data:

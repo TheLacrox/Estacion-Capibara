@@ -129,6 +129,10 @@ public static class ServerPackaging
         "Npgsql",
         "Microsoft",
         "Concentus",
+        // Capibara - TTS needs StackExchange.Redis (+ its Pipelines.Sockets.Unofficial dep)
+        // bundled in the packaged server, else TTSClient crashes on load.
+        "StackExchange.Redis",
+        "Pipelines.Sockets.Unofficial",
     };
 
     private static readonly List<string> ServerNotExtraAssemblies = new()

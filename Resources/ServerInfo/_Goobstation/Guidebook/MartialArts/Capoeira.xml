@@ -41,7 +41,7 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Derrumba y empuja al oponente lejos del usuario. No obliga a soltar los objetos en mano.
+  Desarma al oponente y lo empuja lejos, ademas de derribarlo, dejandolo mas vulnerable a los ataques cuerpo a cuerpo sin armas mientras esta en el suelo. Solo funciona con oponentes de pie.
 
   ### Patada Circular
 
