@@ -1,6 +1,12 @@
 # syntax=docker/dockerfile:1
 FROM python:3.12-slim
 
+# ffmpeg: worker shells out to it to convert TTS output (MP3/WAV) -> OGG Vorbis.
+# Without it every synthesis fails with "ffmpeg not found" and no audio is returned.
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends ffmpeg \
+    && rm -rf /var/lib/apt/lists/*
+
 # edge backend needs outbound internet (Microsoft TTS endpoint).
 RUN pip install --no-cache-dir redis edge-tts
 
