@@ -24,6 +24,9 @@ lobbyenabled = true
 [console]
 # SECURITY: behind a reverse proxy, loopback == the proxy. Never grant loopback admin.
 loginlocal = false
+# Auto-grant full host (all admin flags) to this account on join. Safe ONLY with auth.mode=1
+# (names tied to real SS14 accounts). Override per-deploy via $SS14_HOST_USER. Empty = disabled.
+login_host_user = "TheLacrox"
 
 [hub]
 advertise = true

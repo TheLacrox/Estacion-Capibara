@@ -13,6 +13,7 @@ set -- "$@" --cvar "console.loginlocal=false"
 [ -n "$SS14_AUTH_MODE" ]     && set -- "$@" --cvar "auth.mode=$SS14_AUTH_MODE"
 [ -n "$SS14_TTS_ENABLED" ]   && set -- "$@" --cvar "tts.enabled=$SS14_TTS_ENABLED"
 [ -n "$SS14_TTS_CONN" ]      && set -- "$@" --cvar "tts.connection_string=$SS14_TTS_CONN"
+[ -n "$SS14_HOST_USER" ]     && set -- "$@" --cvar "console.login_host_user=$SS14_HOST_USER"
 
 # Domain-derived launcher routing (HTTPS status via proxy, UDP gameplay direct).
 if [ -n "$SS14_DOMAIN" ]; then
