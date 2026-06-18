@@ -238,7 +238,7 @@ The server deploys as a **3-service Docker Compose stack that Dokploy builds fro
 | File | Purpose |
 |---|---|
 | `Dockerfile` | Multi-stage build: SDK stage packages `Content.Packaging server --platform linux-x64 --hybrid-acz`; runtime stage on `dotnet/runtime:9.0` (server is framework-dependent, `--no-self-contained`) |
-| `Dockerfile.tts` | TTS worker (`pip install redis edge-tts`, runs `Tools/tts_worker.py`) |
+| `Dockerfile.tts` | TTS worker (apt `ffmpeg` for OGG conversion + `pip install redis edge-tts`, runs `Tools/tts_worker.py`) |
 | `docker-compose.yml` | The prod stack + `ss14-data` volume (replaces the old redis-only dev file) |
 | `entrypoint.sh` | Maps `SS14_*` env vars → `--cvar` flags; launches `Robust.Server --config-file ... --data-dir /data` |
 | `Docker/server_config.prod.toml` | Baked prod config (named `.prod.toml` because bare `server_config.toml` is gitignored) |
