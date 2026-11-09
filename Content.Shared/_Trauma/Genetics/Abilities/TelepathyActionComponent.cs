@@ -11,7 +11,7 @@ namespace Content.Shared._Trauma.Genetics.Abilities;
 /// PDA messaging but with your mind...
 /// </summary>
 [RegisterComponent, NetworkedComponent]
-public sealed partial class TelepathyActionComponent : Component
+public sealed partial class MutationTelepathyActionComponent : Component
 {
     [DataField]
     public int MaxLength = 30; // no essays

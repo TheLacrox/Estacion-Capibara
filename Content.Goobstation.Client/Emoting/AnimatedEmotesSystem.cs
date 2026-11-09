@@ -1,12 +1,3 @@
-// SPDX-FileCopyrightText: 2024 username <113782077+whateverusername0@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 whateverusername0 <whateveremail>
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Ilya246 <57039557+Ilya246@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 JohnOakman <sremy2012@hotmail.fr>
-// SPDX-FileCopyrightText: 2025 Misandry <mary@thughunt.ing>
-// SPDX-FileCopyrightText: 2025 MoutardOMiel <108993081+Moutardomiel@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 gus <august.eymann@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using System.Linq;
@@ -28,15 +19,16 @@ namespace Content.Goobstation.Client.Emoting;
 
 public sealed partial class AnimatedEmotesSystem : SharedAnimatedEmotesSystem
 {
-    [Dependency] private readonly AnimationPlayerSystem _anim = default!;
-    [Dependency] private readonly IPrototypeManager _prot = default!;
-    [Dependency] private readonly RaysSystem _rays = default!;
-    [Dependency] private readonly IGameTiming _timing = default!;
-    [Dependency] private readonly TransformSystem _transform = default!;
-    [Dependency] private readonly SpriteSystem _sprite = default!; // cranberry?
+    [Dependency] private AnimationPlayerSystem _anim = default!;
+    [Dependency] private IPrototypeManager _prot = default!;
+    [Dependency] private RaysSystem _rays = default!;
+    [Dependency] private IGameTiming _timing = default!;
+    [Dependency] private TransformSystem _transform = default!;
+    [Dependency] private SpriteSystem _sprite = default!; // cranberry?
 
     private const int TweakAnimationDurationMs = 1100; // 11 frames * 100ms per frame
     private const int FlexAnimationDurationMs = 200 * 7; // 7 frames * 200ms per frame
+    private static readonly TimeSpan MaxEmoteAge = TimeSpan.FromSeconds(1);
 
     public override void Initialize()
     {
@@ -86,8 +78,15 @@ public sealed partial class AnimatedEmotesSystem : SharedAnimatedEmotesSystem
 
     private void OnHandleState(EntityUid uid, AnimatedEmotesComponent component, ref ComponentHandleState args)
     {
-        if (args.Current is not AnimatedEmotesComponentState state
-        || !_prot.TryIndex<EmotePrototype>(state.Emote, out var emote))
+        if (args.Current is not AnimatedEmotesComponentState state)
+            return;
+
+        var fresh = state.EmoteTime > component.LastPlayedTime && _timing.CurTime - state.EmoteTime <= MaxEmoteAge;
+        component.Emote = state.Emote;
+        component.EmoteTime = state.EmoteTime;
+        component.LastPlayedTime = state.EmoteTime;
+
+        if (!fresh || !_prot.TryIndex<EmotePrototype>(state.Emote, out var emote))
             return;
 
         if (emote.Event != null)

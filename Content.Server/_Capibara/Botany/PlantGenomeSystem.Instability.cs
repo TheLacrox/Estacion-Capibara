@@ -170,7 +170,7 @@ public sealed partial class PlantGenomeSystem
 
             case "electrical":
                 // EMP pulse + shock nearby entities
-                _emp.EmpPulse(mapCoords, 4f, 50000f, 5f);
+                _emp.EmpPulse(mapCoords, 4f, 50000f, TimeSpan.FromSeconds(5f));
                 ShockNearbyEntities(uid, 3f, 30);
                 break;
 
@@ -183,7 +183,7 @@ public sealed partial class PlantGenomeSystem
                 // Bright flash — blind nearby entities
                 // Use a small explosion with no tile damage as a concussive flash
                 _explosion.QueueExplosion(uid, ExplosionSystem.DefaultExplosionPrototypeId, 2f, 1f, 1f, tileBreakScale: 0f, maxTileBreak: 0);
-                _emp.EmpPulse(mapCoords, 2f, 10000f, 2f);
+                _emp.EmpPulse(mapCoords, 2f, 10000f, TimeSpan.FromSeconds(2f));
                 break;
 
             case "thorny":
@@ -219,7 +219,7 @@ public sealed partial class PlantGenomeSystem
 
             case "metallic":
                 // EMP blast (magnetic metal disruption)
-                _emp.EmpPulse(mapCoords, 5f, 80000f, 8f);
+                _emp.EmpPulse(mapCoords, 5f, 80000f, TimeSpan.FromSeconds(8f));
                 break;
 
             case "sentient":

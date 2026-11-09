@@ -26,7 +26,7 @@ public sealed class MindRoleEventSystem : EntitySystem
 
         // tell roles that their mind got added to a mob
         var ev = new RoleMindAddedEvent(ent, mob);
-        foreach (var role in ent.Comp.MindRoles)
+        foreach (var role in ent.Comp.MindRoleContainer.ContainedEntities)
         {
             RaiseLocalEvent(role, ref ev);
         }
@@ -41,7 +41,7 @@ public sealed class MindRoleEventSystem : EntitySystem
 
         // tell roles that their mind got removed from a mob
         var ev = new RoleMindRemovedEvent(ent, mob);
-        foreach (var role in ent.Comp.MindRoles)
+        foreach (var role in ent.Comp.MindRoleContainer.ContainedEntities)
         {
             RaiseLocalEvent(role, ref ev);
         }

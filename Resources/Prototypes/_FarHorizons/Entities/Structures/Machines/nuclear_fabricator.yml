@@ -25,6 +25,7 @@
         - Sheet
         - RawMaterial
         - Ingot
+        - SheetPlasma
   - type: Lathe
     idleState: icon
     runningState: building

@@ -16,7 +16,7 @@
   description: HOLY SHIT IS THAT JESUS CHRIST???
   components:
   - type: Stamina
-    critThreshold: 500
+    baseCritThreshold: 500
   - type: NightVision
     color: "#FFFFFF"
     activateSound: null

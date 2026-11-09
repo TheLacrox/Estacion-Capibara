@@ -10,6 +10,7 @@ using Content.Shared._Capibara.Botany.Genes;
 using Content.Shared.Atmos;
 using Robust.Shared.Random;
 using System.Numerics;
+using Content.Shared.EntityEffects;
 
 namespace Content.Server._Capibara.Botany;
 
@@ -20,6 +21,7 @@ namespace Content.Server._Capibara.Botany;
 public sealed partial class PlantGenomeSystem
 {
     [Dependency] private readonly AtmosphereSystem _atmos = default!;
+    [Dependency] private readonly SharedEntityEffectsSystem _entityEffects = default!;
     [Dependency] private readonly GravityWellSystem _gravityWell = default!;
 
     /// <summary>

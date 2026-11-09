@@ -1,10 +1,6 @@
-// SPDX-FileCopyrightText: 2023 Kara <lunarautomaton6@gmail.com>
-// SPDX-FileCopyrightText: 2023 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 slarticodefast <161409025+slarticodefast@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using Content.Shared._ES.Interaction.ForcedFacing; // Goob
 using Content.Shared.Interaction;
 
 namespace Content.Shared.MouseRotator;
@@ -34,7 +30,7 @@ public abstract class SharedMouseRotatorSystem : EntitySystem
         var query = EntityQueryEnumerator<MouseRotatorComponent, TransformComponent>();
         while (query.MoveNext(out var uid, out var rotator, out var xform))
         {
-            if (rotator.GoalRotation == null)
+            if (rotator.GoalRotation == null || HasComp<ESForcedFacingComponent>(uid)) // Goob
                 continue;
 
             if (_rotate.TryRotateTo(

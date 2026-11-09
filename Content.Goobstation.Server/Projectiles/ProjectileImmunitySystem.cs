@@ -4,9 +4,9 @@ using Content.Shared.Silicons.Borgs.Components;
 
 namespace Content.Goobstation.Server.Projectiles;
 
-public sealed class ProjectileImmunitySystem : EntitySystem
+public sealed partial class ProjectileImmunitySystem : EntitySystem
 {
-    [Dependency] private readonly BatterySystem _battery = default!;
+    [Dependency] private BatterySystem _battery = default!;
 
     public override void Initialize()
     {
@@ -30,12 +30,12 @@ public sealed class ProjectileImmunitySystem : EntitySystem
         }
 
         var cost = batteryComp.MaxCharge * (ent.Comp.BatteryCostPerDodge / 100);
-        if (batteryComp.CurrentCharge < cost)
+        if (batteryComp.LastCharge < cost)
         {
             args.Cancelled = true;
             return;
         }
 
-        _battery.UseCharge(battery.Value, cost, batteryComp);
+        _battery.UseCharge(battery.Value, cost);
     }
 }

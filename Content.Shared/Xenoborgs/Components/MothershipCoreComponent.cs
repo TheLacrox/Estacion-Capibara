@@ -1,6 +1,3 @@
-// SPDX-FileCopyrightText: 2025 space-wizards contributors
-// SPDX-License-Identifier: AGPL-3.0-or-later
-
 namespace Content.Shared.Xenoborgs.Components;
 
 /// <summary>

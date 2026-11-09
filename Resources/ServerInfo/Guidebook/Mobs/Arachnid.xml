@@ -1,7 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Errant <35878406+Errant-4@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-
 SPDX-License-Identifier: MIT
 -->
 
@@ -11,13 +8,11 @@ SPDX-License-Identifier: MIT
   <Box>
     <GuideEntityEmbed Entity="MobArachnid" Caption=""/>
   </Box>
+  Los arácnidos son una especie humanoide con rasgos que recuerdan a los de la tarántula común.
+  
+  ## Habilidades Únicas
 
-  Tienen dos ranuras de Bolsillo adicionales en su inventario. Pueden comer carne cruda sin efectos negativos, pero algunos alimentos como el chocolate y la cebolla los envenenan.
-  Se asfixian un 50% más rápido, y su Sangre Azul no puede metabolizarse a partir de Hierro, al estar basada en Cobre.
-
-  Sus ataques desarmados infligen daño Perforante en lugar de Contundente.
-
-  ## Sericicultura
+  ### Sericicultura
 
   <Box>
     <GuideEntityEmbed Entity="MaterialWebSilk" Caption=""/>
@@ -26,7 +21,24 @@ SPDX-License-Identifier: MIT
     <GuideEntityEmbed Entity="WallWeb" Caption=""/>
   </Box>
 
-  Los arácnidos pueden crear Seda de Telaraña a costa de tener más hambre. Ellos (y solo ellos) pueden fabricar manojos de seda en varios objetos, desde ropa y escudos hasta paredes enteras.
+  - Los arácnidos pueden crear Seda de Telaraña a costa de tener más hambre. Ellos (y solo ellos) pueden fabricar manojos de seda en varios objetos, desde ropa y escudos hasta paredes enteras.
+
+  ## Dieta
+
+  - Pueden comer carne cruda sin efectos negativos.
+  - Serán [color=#FFA500]envenenados[/color] por Teobromina (Chocolate, Té, Café) y Alicina (Cebolla, Ajo).
+
+  ## Ventajas
+
+  - Tienen dos ranuras de Bolsillo adicionales en su inventario.
+  - Sus ataques desarmados infligen daño [color=#ec3a3a]Perforante[/color] en lugar de Contundente.
+
+  ## Desventajas
+
+  - [color=#FFA500]Se asfixian un 50% más rápido.[/color]
+  - Su Sangre Azul [color=#FFA500]no puede metabolizarse a partir de Hierro[/color], al estar basada en Cobre.
+
+
 
 
 </Document>

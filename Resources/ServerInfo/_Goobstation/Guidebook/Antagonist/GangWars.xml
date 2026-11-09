@@ -1,0 +1,154 @@
+<Document>
+# Guerra de Pandillas
+
+EN PLENO DESARROLLO, ESPERA CAMBIOS SIGNIFICATIVOS
+
+[color=#e8a020]Tus jefes no están contentos. Tus últimos fracasos te han dejado en la cuerda floja y la paciencia se agota. Esta es tu última oportunidad de demostrar tu valía. Falla otra vez y no habrá otra.[/color]
+
+Golpea fuerte a la estación. Recluta a quien puedas, reclama cada rincón que seas capaz de conseguir y deja claro quién manda aquí. Pero no te acomodes. Se rumorea que las pandillas rivales ya se están moviendo con la misma idea.
+
+La Guerra de Pandillas es un modo de juego competitivo de antagonistas contra antagonistas. Por lo general, la tripulación no será un objetivo. Entre dos y cuatro [bold]Líderes de Pandilla[/bold] surgen de entre la tripulación existente; cada uno forma su propio equipo y luchan por encabezar la clasificación reclamando territorio y acumulando puntos antes de que termine la ronda.
+
+<Box>
+  <GuideEntityEmbed Entity="GangLocker" Caption="Taquilla de Pandilla"/>
+  <GuideEntityEmbed Entity="GangSprayCan" Caption="Bote de Espray"/>
+  <GuideEntityEmbed Entity="CrateGang" Caption="Caja de Pandilla"/>
+</Box>
+
+## Quién se Convierte en Líder de Pandilla
+Los Líderes de Pandilla se eligen al inicio de la ronda y se requiere cierto tiempo de juego en el departamento de Mando para desbloquearlo.
+
+La mayoría de los puestos superiores de mando están bloqueados, pero el [bold]Intendente[/bold], el Detective y la tripulación corriente pueden ser elegidos.
+
+## Crear tu Pandilla
+Todo empieza con tu acción [bold]Invocar Taquilla de Pandilla[/bold].
+
+  1. Usa la acción. La primera vez, se abre una ventana que te pide elegir un [bold]color[/bold] y un [bold]nombre[/bold] para tu pandilla.
+
+  2. No puedes elegir un color o nombre demasiado parecido al de un rival.
+
+  3. Confirma y una cápsula de descenso entregará tu [bold]Taquilla de Pandilla[/bold] a tus pies.
+
+No puedes soltar la taquilla demasiado cerca de un territorio existente.
+
+<Box>
+  <GuideEntityEmbed Entity="GangLocker" Caption="Taquilla de Pandilla"/>
+</Box>
+
+La taquilla es el corazón de tu pandilla. Esta:
+  - Funciona como tu [bold]tienda[/bold] (ver más abajo).
+  - Otorga [bold]curación mejorada[/bold] a los miembros que estén cerca de ella.
+  - Muestra la [bold]clasificación[/bold] al examinarla.
+
+Tras un tiempo suficiente de inactividad se volverá invisible, pero interactuar con el lugar donde se encuentra hará que aparezca de nuevo.
+
+## La Tienda
+Acércate a tu taquilla e interactúa con ella para abrir la [bold]Tienda de Pandilla[/bold]. La tienda gasta [bold]Puntos de Pandilla[/bold].
+
+[bold]Importante:[/bold] el saldo de la tienda es tu monedero [italic]personal[/italic] de puntos, y los puntos de cada miembro también alimentan la puntuación de la pandilla en la clasificación. Gastar puntos compra equipo pero reduce la posición de tu pandilla, así que sopesa cada compra frente al marcador.
+
+### Equipo Inicial
+  - [bold]Paquete de Principiante[/bold] - [color=#90ee90]Gratis[/color] (uno por miembro). Una bolsa de viaje con todo lo que necesita un aspirante a pandillero: 5 botes de espray, unos auriculares de pandilla (con una clave de encriptación de pandilla ya instalada), un conjunto completo de ropa de pandilla y un llamativo sombrero de copa aleatorio.
+
+<Box>
+  <GuideEntityEmbed Entity="GangBeginnerBundle" Caption="Paquete de Principiante"/>
+</Box>
+
+### Consumibles
+  - [bold]Quickhack[/bold] - 800. Un dispositivo encubierto que falsifica señales de "abrir" de la IA para abrir puertas sin cerrojo. 5 usos.
+  - [bold]Botiquín[/bold] - 800.
+  - [bold]Omnizina[/bold] - 1100. Una medipluma que cura rápidamente la mayoría de los tipos de daño.
+  - [bold]Soplo[/bold] - 8000 (uno por miembro). Programa una entrega anticipada de una bolsa de viaje. Un civil aleatorio recibe un soplo sobre la ubicación por NanoChat y una pequeña ventaja antes de que llegue a la radio de pandillas.
+
+### Armas
+  - [bold]Cuchillo Arrojadizo[/bold] - 700.
+  - [bold]Cuchillo de Combate[/bold] - 800.
+  - [bold]Bate de Béisbol[/bold] - 2000.
+  - [bold]Machete de Pandilla[/bold] - 4000. Bastante eficaz cortando extremidades.
+
+### Equipo
+  - [bold]Pintura en Espray[/bold] - 300. Botes de espray adicionales para reclamar territorio.
+  - [bold]Paquete de Ropa de Pandilla[/bold] - 300. Un conjunto de repuesto de ropa de pandilla (zapatos, mono, chaqueta, sombrero de copa) para lucir tus colores.
+  - [bold]Clave de Encriptación de Pandilla[/bold] - 1500. Añade a un recluta al canal de radio de pandillas.
+  - [bold]Chaleco Antibalas Ligero[/bold] - 2000.
+
+<Box>
+  <GuideEntityEmbed Entity="GangMachete" Caption="Machete de Pandilla"/>
+  <GuideEntityEmbed Entity="Quickhack" Caption="Quickhack"/>
+  <GuideEntityEmbed Entity="EncryptionKeyGang" Caption="Clave de Encriptación de Pandilla"/>
+</Box>
+
+## La Radio de Pandillas
+Las pandillas hablan en un [bold]canal de radio de pandillas[/bold] dedicado (clave [bold]:g[/bold]). Los auriculares del paquete de principiante vienen sintonizados en él, y puedes comprar claves de encriptación de repuesto por si las pierdes.
+
+[bold]El canal es compartido por todas las pandillas de la estación.[/bold] No hay frecuencia privada por pandilla, así que todo lo que digas puede ser leído por tus rivales. Vigila lo que dices, o úsalo para engañarlos.
+
+La radio es también la forma en que el [bold]Jefe[/bold] llega a todos. Cuando cae una caja o una bolsa de viaje, un anuncio de "Boss" llega al canal de pandillas indicando la ubicación aproximada, y todos los auriculares del canal reproducen un ritmo de hip-hop para que nadie se lo pierda. Todas las pandillas oyen el mismo mensaje al mismo tiempo, así que cada entrega es una carrera.
+
+## Reclutar Gente
+Una vez establecida tu pandilla obtienes una nueva acción que te permite reclutar gente.
+
+Usa tu acción [bold]Ofrecer Membresía[/bold] sobre un compañero para invitarlo. Le aparecerá un aviso para aceptar o rechazar. Si acepta:
+  - Obtiene el rol de [bold]Miembro de Pandilla[/bold] y el color de tu pandilla.
+  - Puede usar tus botes de espray, abrir tu tienda y tus cajas, y beneficiarse del territorio.
+  - Empieza con su propia reserva de Puntos de Pandilla, que se suma a la puntuación de la pandilla.
+
+Solo puedes reclutar hasta tres miembros y no puedes captar a alguien que ya esté en una pandilla, así que elige bien a tus miembros.
+
+## Reclamar Territorio
+El territorio es la forma de ganar terreno y obtener puntuación pasiva.
+
+  1. Usa un [bold]bote de espray[/bold] en el suelo. Tras una breve espera, aparece una pintada de pandilla aleatoria de tu color.
+
+  2. Cada pintada proyecta un [bold]territorio[/bold]. No puedes pintar demasiado cerca de otra pintada, así que repártelas para cubrir más terreno.
+
+Cada pintada que colocas te otorga [bold]+100 Puntos de Pandilla[/bold] al instante. Y lo que es más importante, las baldosas del suelo dentro de tu territorio cuentan para la puntuación de baldosas de tu pandilla. También puedes rociar tu [bold]ropa de pandilla[/bold] para teñirla con los colores de tu pandilla.
+
+Estar en tu propio territorio llevando el atuendo completo otorga a tus miembros ventajas muy potentes: menos daño de resistencia, defensa adicional, curación pasiva y la posibilidad de detener el sangrado. Justo al lado de tu taquilla la curación es aún más fuerte.
+
+## La Clasificación y la Puntuación
+[bold]Examina tu taquilla de pandilla[/bold] para ver la clasificación en directo: todas las pandillas ordenadas por puntuación, con un temporizador hasta la próxima actualización. Las puntuaciones se recalculan a intervalos regulares, así que la clasificación va ligeramente por detrás de la acción.
+
+La puntuación total de una pandilla es:
+
+  [bold]( baldosas reclamadas x 10 ) + ( los Puntos de Pandilla de todos los miembros combinados )[/bold]
+
+Así que puedes subir en la clasificación de dos formas:
+  - [bold]Reclama más territorio[/bold] - cada baldosa dentro de tu territorio vale puntos. Las pintadas superpuestas del mismo color no cuentan dos veces una misma baldosa.
+  - [bold]Acumula Puntos de Pandilla[/bold] - pintar, abrir cajas y los saldos iniciales de tus miembros suman.
+
+Como gastar en la tienda consume los mismos puntos que te dan puntuación, hay una tensión constante entre equiparse y mantenerse en cabeza. Termina el turno en [bold]primer lugar[/bold] para ganar.
+
+## Enfrentarse a Otras Pandillas
+Los rivales van tras las mismas baldosas, entregas y derecho a presumir que tú.
+
+  - [bold]Destroza sus pintadas.[/bold] Las señales de pandilla se pueden destruir, reduciendo el territorio enemigo y la puntuación de baldosas de tu competencia.
+  - [bold]Disputa las entregas.[/bold] Todas las pandillas reciben el mismo anuncio de entrega, así que espera una pelea por cada caja y bolsa de viaje.
+  - [bold]Vigila la radio.[/bold] El canal es compartido, así que los rivales pueden oír tus planes y tú los suyos.
+
+A la tripulación y a seguridad tampoco les hará gracia que haya pandillas armadas pintando los pasillos, así que vigila tu espalda.
+
+## Entregas: Cajas vs. Bolsas de Viaje
+El Jefe lanza periódicamente botín en algún lugar de la estación y lo anuncia por la radio de pandillas. Hay dos tipos, y se comportan de forma muy distinta.
+
+<Box>
+  <GuideEntityEmbed Entity="CrateGang" Caption="Caja de Pandilla"/>
+  <GuideEntityEmbed Entity="GangDuffelBag" Caption="Bolsa de Viaje"/>
+</Box>
+
+### Cajas de Pandilla
+  - [bold]Más raras[/bold] y mucho más valiosas. Este es el gran premio.
+  - Aterriza [bold]anclada[/bold] y bloqueada. Una luz en la caja hace una cuenta atrás por etapas (llena, media, baja, parpadeante) antes de desbloquearse finalmente con un sonido. Tienes que [bold]esperar[/bold].
+  - Solo se puede abrir [bold]junto a una taquilla de pandilla[/bold]. Lo previsto es arrastrar la caja de vuelta a tu base cuando termine el temporizador y abrirla allí con seguridad.
+  - Abrirla otorga una gran cantidad de [bold]Puntos de Pandilla a cada miembro[/bold] de la pandilla que la abre, además del botín de su interior.
+  - El botín es muy bueno, con posibilidades reales de obtener armas de alto nivel, implantes y grandes sumas de dinero.
+
+### Bolsas de Viaje
+  - [bold]Mucho más comunes[/bold] que las cajas, pero el botín es más débil y los objetos de alto nivel son mucho más raros.
+  - Tienen [bold]trampa.[/bold] Primero debes [bold]desactivar la trampa[/bold] con una acción que lleva un tiempo y te deja [bold]ralentizado durante un breve periodo[/bold] como penalización.
+  - Una vez desactivada se puede arrastrar y abrir y, a diferencia de la caja, se puede [bold]abrir en cualquier lugar[/bold]. No hace falta llevarla a casa.
+  - Conseguirla no da ninguna bonificación de puntuación por sí sola. Su valor es únicamente el equipo que contenga.
+  - La compra de [bold]Soplo[/bold] genera una bolsa de viaje anticipada y avisa discretamente antes a un civil, dándole ventaja antes de que salga el aviso por radio.
+
+[color=#e8a020][bold]Recluta sin descanso, reclama cada rincón y deja claro quién manda aquí. No te acomodes: los rivales no lo harán.[/bold][/color]
+</Document>

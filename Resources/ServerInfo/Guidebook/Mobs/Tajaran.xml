@@ -1,8 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Piras314 <p1r4s@proton.me>
-SPDX-FileCopyrightText: 2025 SX-7 <92227810+SX-7@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -19,14 +15,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   Originalmente una sociedad centrada en clanes, los Tajara soportaron siglos de gobierno dictatorial.
   Tras una guerra civil, su gobierno se fragmentó, y el poder regresó a los clanes, donde permanece hasta el día de hoy.
 
-  ## Mecánicas
+  ## Ventajas
 
-  Debido a su [color=yellow]baja estatura[/color], los Tajara [color=#ec3a3a]reciben un 15% más de daño Contundente[/color], pero también pueden [color=#1e90ff]caber en bolsas de viaje[/color].
+  - Sus pies suaves les permiten [color=#1e90ff]caminar descalzos sin hacer ruido[/color].
+  - Pueden [color=#1e90ff]caber en bolsas de viaje[/color].
+  - Usan sus garras para ataques desarmados, infligiendo daño [color=#ec3a3a]Cortante[/color] y [color=#ec3a3a]Perforante[/color].
+  - Su capa de pelaje hace que reciban [color=#1e90ff]un 20% menos de daño por Frío.[/color]
 
-  Su capa de pelaje les da cierta [color=#1e90ff]resistencia al Frío[/color], a costa de [color=#ec3a3a]recibir más daño por Calor[/color].
+  ## Desventajas
 
-  Usan sus garras para ataques desarmados, infligiendo daño [color=#ec3a3a]Cortante[/color] y [color=#ec3a3a]Perforante[/color].
+  - Debido a su baja estatura, los Tajara reciben [color=#ffa500]un 15% más de daño Contundente.[/color]
+  - Reciben [color=#ffa500]un 20% más de daño por Calor.[/color]
 
-  Gracias a su agilidad innata, [color=#1e90ff]reciben menos daño por impactos o caídas[/color], y sus pies suaves les permiten [color=#1e90ff]caminar descalzos sin hacer ruido[/color].
 
 </Document>

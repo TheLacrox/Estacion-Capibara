@@ -1,7 +1,4 @@
-// SPDX-FileCopyrightText: 2025 space-wizards contributors
-// SPDX-License-Identifier: AGPL-3.0-or-later
-
-using Content.Shared.Roles;
+using Content.Shared.Roles.Components;
 using Robust.Shared.Audio;
 using Robust.Shared.Prototypes;
 
@@ -33,4 +30,3 @@ public sealed partial class XenoborgComponent : Component
     [DataField]
     public SoundSpecifier BriefingSound = new SoundPathSpecifier("/Audio/Ambience/Antag/xenoborg_start.ogg");
 }
-

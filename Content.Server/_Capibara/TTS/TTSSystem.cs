@@ -12,6 +12,7 @@ using Content.Shared._Capibara.TTS;
 using Robust.Server.Player;
 using Robust.Shared.Configuration;
 using Robust.Shared.Player;
+using Content.Shared.Chat;
 
 namespace Content.Server._Capibara.TTS;
 

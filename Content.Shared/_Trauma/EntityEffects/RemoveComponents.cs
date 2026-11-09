@@ -1,5 +1,3 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
-
 using Content.Shared.EntityEffects;
 using Robust.Shared.Prototypes;
 
@@ -23,7 +21,7 @@ public sealed partial class RemoveComponents : EntityEffectBase<RemoveComponents
     public LocId? GuidebookText;
 
     public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
-        => GuidebookText is {} loc ? Loc.GetString(loc, ("chance", Probability)) : null;
+        => GuidebookText is { } loc ? Loc.GetString(loc, ("chance", Probability)) : null;
 }
 
 public sealed class RemoveComponentsEffectSystem : EntityEffectSystem<MetaDataComponent, RemoveComponents>

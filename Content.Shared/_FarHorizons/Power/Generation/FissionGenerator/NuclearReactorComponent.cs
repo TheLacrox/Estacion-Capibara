@@ -256,11 +256,11 @@ public sealed partial class NuclearReactorComponent : Component
 
     #endregion
 
-    [DataField("controlRodRetractPort", customTypeSerializer: typeof(PrototypeIdSerializer<SinkPortPrototype>))]
-    public string ControlRodRetractPort = "RetractControlRods";
+    [DataField("controlRodRetractPort")]
+    public ProtoId<SinkPortPrototype> ControlRodRetractPort = "RetractControlRods";
 
-    [DataField("controlRodInsertPort", customTypeSerializer: typeof(PrototypeIdSerializer<SinkPortPrototype>))]
-    public string ControlRodInsertPort = "InsertControlRods";
+    [DataField("controlRodInsertPort")]
+    public ProtoId<SinkPortPrototype> ControlRodInsertPort = "InsertControlRods";
 
     #region Debug
     [ViewVariables(VVAccess.ReadOnly)]

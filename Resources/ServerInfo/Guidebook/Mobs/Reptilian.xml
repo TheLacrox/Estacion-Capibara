@@ -1,8 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Errant <35878406+Errant-4@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Piras314 <p1r4s@proton.me>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -12,13 +8,26 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   <Box>
     <GuideEntityEmbed Entity="MobReptilian" Caption=""/>
   </Box>
+  Los reptilianos son una especie humanoide, con cola y un hocico pronunciado. Su fisiología les ha llevado a adoptar un acento similar al de las cobras.
 
-  Pueden comer carne cruda y beber sangre sin efectos negativos.
-  Prefieren un rango de temperatura algo más alto que los humanos.
-  Pueden arrastrar objetos con su cola, manteniendo ambas manos libres.
+  ## Habilidades Únicas
+  
+  ### Arrastre con la Cola
 
-  Sus ataques desarmados con garras infligen daño Cortante en lugar de Contundente.
+  - Gracias a su capacidad para manipular la cola, los reptilianos pueden arrastrar objetos con ella, manteniendo ambas manos libres.
+  
+  ## Dieta
 
-  Reciben [color=#ffa500]un 30% más de daño por Frío.[/color]
+  - Pueden comer carne cruda y beber sangre sin efectos negativos.
+
+  ## Ventajas
+
+  - Prefieren un rango de temperatura algo más alto que los humanos, lo que los hace ligeramente menos susceptibles a las altas temperaturas.
+
+  - Sus ataques desarmados con garras infligen daño [color=#ec3a3a]Cortante[/color] en lugar de Contundente.
+
+  ## Desventajas
+
+  - Reciben [color=#ffa500]un 30% más de daño por Frío.[/color]
 
 </Document>

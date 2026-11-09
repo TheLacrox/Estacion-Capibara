@@ -22,6 +22,8 @@ lobbyenabled = true
 # Dev map for faster loading & convenience
 map = "Packed"
 role_timers = false
+admin_job_tracking = true
+role_loadout_timers = false
 
 [events]
 enabled = false
@@ -55,6 +57,7 @@ preload_grids = false
 
 [admin]
 see_own_notes = true
+new_player_threshold = 120
 
 [lavaland] # Lavaland Change
 enabled = false
@@ -66,3 +69,6 @@ ascension_requires_objectives = false
 random_characters = false
 random_species_weights = ""
 ssd_sleep_time = 3600
+
+[voice]
+enabled = true

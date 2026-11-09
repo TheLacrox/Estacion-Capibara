@@ -1,11 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 ScyronX <166930367+ScyronX@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 SX-7 <92227810+SX-7@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 deltanedas <39013340+deltanedas@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 deltanedas <@deltanedas:kde.org>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -19,16 +12,19 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   Personas grandes y con cuernos que vienen en una variedad de colores. Su puntería con armas de fuego es terrible, pero su fuerza física les aporta muchas ventajas tanto dentro como fuera del combate.
 
   ## Dieta
+
   - Prácticamente cualquier cosa. Incluso pueden comer muchas cosas crudas.
 
   ## Beneficios
-  - Reciben [color=#1e90ff]un 15% menos de daño Contundente, Perforante y Cortante.[/color].
-  - Hacen más daño en cuerpo a cuerpo; un 25% más de daño Contundente, Cortante, Perforante, de Resistencia y Estructural.
+
+  - Reciben [color=#1e90ff]un 15% menos de daño Contundente, Perforante y Cortante.[/color]
+  - Hacen más daño en cuerpo a cuerpo; [color=#1e90ff]un 25% más de daño Contundente, Cortante, Perforante, de Resistencia y Estructural.[/color]
   - Debido a su gran tamaño, pueden cargar y arrastrar fácilmente a cualquier otra especie.
 
   ## Desventajas
-  - Los Oni son incapaces de disparar cualquier arma con precisión, con reportes de balas logrando dispararse incluso detrás de ellos.
-  - Son más difíciles de cargar y arrastrar.
-  - Son más grandes que los Humanos, haciéndolos más fáciles de golpear.
+
+  - Los Oni son [color=#FFA500]incapaces de disparar cualquier arma con precisión[/color], con reportes de balas logrando dispararse incluso detrás de ellos.
+- Son más difíciles de cargar y arrastrar.
+- Son más grandes que los Humanos, haciéndolos más fáciles de golpear.
 
 </Document>

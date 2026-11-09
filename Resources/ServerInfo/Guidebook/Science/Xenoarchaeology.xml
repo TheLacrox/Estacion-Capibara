@@ -1,69 +1,55 @@
 <!--
-SPDX-FileCopyrightText: 2023 Julian Giebel <juliangiebel@live.de>
-SPDX-FileCopyrightText: 2023 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
-SPDX-FileCopyrightText: 2023 Myakot <30875116+Myakot@users.noreply.github.com>
-SPDX-FileCopyrightText: 2023 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-SPDX-FileCopyrightText: 2023 deltanedas <39013340+deltanedas@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 Hannah Giovanna Dawson <karakkaraz@gmail.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-
 SPDX-License-Identifier: MIT
 -->
 
 <Document>
-# Xenoarqueología
-La Xenoarqueología es un subdepartamento de ciencia enfocado en investigar y experimentar con artefactos alienígenas.
+  # Xenoarqueología
 
-Al inicio de cada turno, el departamento de Ciencia normalmente tendrá acceso a al menos dos artefactos para experimentar. Puedes comprar más hablando con el departamento de Carga.
+  La Xenoarqueología es una rama de Ciencia dedicada a investigar [bold]artefactos[/bold] alienígenas.
 
-Al investigar las cosas únicas que cada artefacto puede hacer, ganas Puntos de Investigación, aumentas el valor de venta del artefacto, ¡y potencialmente descubres una o dos habilidades útiles que pueden ayudar a tu departamento o a toda la estación!
+  Desvelar sus secretos otorga puntos de investigación y revela efectos extraños, potencialmente útiles o peligrosos.
 
-## Nodos de Artefactos
-<Box>
-<GuideEntityEmbed Entity="ComplexXenoArtifact" Caption=""/>
-<GuideEntityEmbed Entity="ComplexXenoArtifactItem" Caption=""/>
-</Box>
-Los artefactos consisten en un árbol de nodos generado aleatoriamente. Estos nodos tienen una "[color=#a4885c]profundidad[/color]", que representa cuán peligroso es el nodo, y el número de otros nodos conectados a él, llamados "[color=#a4885c]conexiones[/color]".
+  Al inicio de la ronda, Ciencia suele tener uno o dos artefactos en el laboratorio. Se pueden conseguir más:
+  - Pidiéndolos a [color=orange]Carga[/color]
+  - Encontrándolos con [color=orange]Salvamento[/color]
+  - Ensamblándolos a partir de [bold]fragmentos[/bold]
+  - Durante ciertos eventos de la estación
 
-Los artefactos siempre comienzan en profundidad cero, la raíz del árbol. Recorrer el árbol para encontrar tantos nodos como sea posible es el objetivo principal de los científicos que trabajan en ellos. El conocimiento se extrae de los nodos para ganar Puntos de Investigación y aumentar el valor de venta del artefacto.
+  ## Artefactos
+  <Box>
+    <GuideEntityEmbed Entity="ComplexXenoArtifact" Caption=""/>
+    <GuideEntityEmbed Entity="ComplexXenoArtifactItem" Caption=""/>
+  </Box>
 
-Cada nodo tiene dos componentes: su [color=#a4885c]estímulo[/color] y una [color=#a4885c]reacción[/color].
+  Los artefactos contienen [bold]nodos[/bold] organizados en [bold]capas[/bold].
+  - Desbloquear un nodo desbloquea los nodos conectados en las capas superiores.
+  - Cada nodo tiene [bold]disparadores[/bold], acciones que deben realizarse cerca del artefacto para desbloquear el nodo.
+  - Cuando se desbloquea un nodo, se activa su [bold]efecto[/bold] y el nodo pasa a estar [bold][color=plum]Activo[/color][/bold].
+  - Cada nodo tiene [bold]durabilidad[/bold]: el número de veces que puede activarse manualmente tras ser desbloqueado.
+  - Los nodos superiores son más difíciles de alcanzar pero dan más [bold]puntos de investigación[/bold].
+  - Desbloquear todos los nodos no da ninguna bonificación especial, pero cada nodo otorga puntos de investigación.
 
-Un estímulo es el comportamiento externo que desencadena la reacción. Hay una variedad de estos, y los nodos de mayor profundidad tienen estímulos más difíciles de lograr. Algunos estímulos necesitarán improvisación para activarse, y puede que necesites hablar con otros departamentos para conseguir todo lo que necesitas.
+  ## Equipo
+  <Box>
+    <GuideEntityEmbed Entity="MachineArtifactAnalyzer" Caption="Analizador"/>
+    <GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="Consola de Análisis"/>
+    <GuideEntityEmbed Entity="NodeScanner" Caption="Escáner de Nodos"/>
+  </Box>
+  - [bold]Analizador de Artefactos:[/bold] Dispositivo fijo que escanea artefactos y envía los datos a la Consola.
+  - [bold][textlink="Consola de Análisis:" link="AnalysisConsole"][/bold] Dispositivo fijo que se usa para mostrar el árbol de nodos. Debe vincularse a un Analizador con una multiherramienta.
+  - [bold]Escáner de Nodos:[/bold] Pequeño dispositivo de mano que muestra el ID del nodo que se está activando y si el artefacto está listo para dispararse, lo que permite al científico operar dentro de la cámara junto al artefacto, con los conocimientos mínimos necesarios y sin acceso directo a la consola.
 
-Algunas reacciones son efectos instantáneos mientras que otras son cambios permanentes. Una vez que un artefacto se activa, la reacción hace que el artefacto se mueva aleatoriamente a otro nodo al que está vinculado.
-
-Con algo de ciencia experimental, puedes comenzar a comprender cómo los diferentes nodos de un artefacto están conectados, y cómo moverte entre ellos activando nodos repetidamente.
-
-Todos los nodos de profundidad no cero tendrán exactamente una conexión que lleva hacia arriba a su nodo padre. Todas las demás conexiones de un nodo llevan hacia abajo a la siguiente profundidad.
-
-## Analizador de Artefactos y Consola de Análisis
-<Box>
-<GuideEntityEmbed Entity="MachineArtifactAnalyzer"/>
-<GuideEntityEmbed Entity="ComputerAnalysisConsole"/>
-</Box>
-El equipo principal que usarás para la Xenoarqueología es el [color=#a4885c]analizador de artefactos[/color] y la [color=#a4885c]consola de análisis[/color]. Puedes usarlos para crear informes que contienen información valiosa sobre un artefacto.
-
-Para configurarlos, simplemente vincúlalos con un configurador de red y coloca un artefacto encima del analizador. Cada estación tiene al menos una de estas máquinas ya configurada.
-
-Usa el botón [color=#a4885c]escanear[/color] de la consola para descubrir qué estímulo necesita el artefacto y qué hará su reacción. El escaneo tarda treinta segundos.
-
-Usa el botón [color=#a4885c]imprimir[/color] para guardar el resultado del escaneo, para poder consultarlo más tarde.
-
-Una vez que hayas descubierto un nuevo nodo, puedes extraer puntos del artefacto usando el botón [color=#a4885c]Extraer[/color].
-
-## Ensamblaje de Artefactos
-<GuideEntityEmbed Entity="ArtifactFragment" Caption="Fragmento de Artefacto"/>
-
-Es posible reunir múltiples fragmentos de artefactos y ensamblarlos en un artefacto funcional. Puedes pedir estos a Salvamento, quienes normalmente los encuentran mientras minan asteroides o en Expediciones.
-
-## Sesgo de Recorrido
-<Box>
-  <GuideEntityEmbed Entity="MachineArtifactAnalyzer"/>
-</Box>
-Los artefactos colocados encima de un analizador de artefactos con energía están sujetos a un sesgo que afecta a qué nodo se moverán después de ser activados. El sesgo puede configurarse en la consola de artefactos.
-
-Hay dos tipos de sesgos:
-- [color=#a4885c]Arriba:[/color] favorece nodos más cercanos al origen. Resulta en una disminución de la profundidad.
-- [color=#a4885c]Abajo:[/color] favorece nodos más alejados del origen. Resulta en un aumento de la profundidad.
+  <Box>
+    <GuideEntityEmbed Entity="CrateArtifactContainer" Caption="Contenedor de Artefactos"/>
+    <GuideEntityEmbed Entity="HandheldArtifactContainer" Caption="Contenedor Portátil"/>
+  </Box>
+  - [bold]Contenedores de Artefactos:[/bold] Almacenan y transportan artefactos de forma segura e impiden que los nodos se disparen.
+  <Box>
+    <GuideEntityEmbed Entity="MachineArtifactCrusher" Caption="Trituradora"/>
+  </Box>
+  - [bold]Trituradora de Artefactos:[/bold] Tritura artefactos convirtiéndolos en fragmentos. Con cuatro fragmentos se puede reconstruir un artefacto nuevo.
+  <Box>
+    <GuideEntityEmbed Entity="ArtifactFragment" Caption="Fragmento de Artefacto"/>
+  </Box>
+  - [bold]Fragmento de Artefacto:[/bold] Pedazos de artefactos destruidos. Con cuatro fragmentos se puede reconstruir un artefacto nuevo usando el menú de fabricación.
 </Document>

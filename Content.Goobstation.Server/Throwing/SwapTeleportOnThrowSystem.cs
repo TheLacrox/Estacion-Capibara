@@ -8,31 +8,31 @@ namespace Content.Goobstation.Server.Throwing;
 
 // This event is predicted incorrectly on the client because of physics,
 // that's why for now it stays only on server.
-public sealed class SwapTeleportOnThrowSystem : EntitySystem
+public sealed partial class SwapTeleportOnThrowSystem : EntitySystem
 {
-    [Dependency] private readonly SharedAudioSystem _audio = default!;
-    [Dependency] private readonly SharedTransformSystem _transform = default!;
+    [Dependency] private SharedAudioSystem _audio = default!;
+    [Dependency] private SharedTransformSystem _transform = default!;
 
     public override void Initialize()
     {
         base.Initialize();
-        SubscribeLocalEvent<SwapTeleportOnThrowComponent, ThrowDoHitEvent>(OnThrowHit);
+        SubscribeLocalEvent<SwapTeleportOnThrowComponent, ThrowAttemptEvent>(OnThrowHit);
     }
 
-    private void OnThrowHit(Entity<SwapTeleportOnThrowComponent> ent, ref ThrowDoHitEvent args)
+    private void OnThrowHit(Entity<SwapTeleportOnThrowComponent> ent, ref ThrowAttemptEvent args)
     {
-        if (args.Handled)
+        if (args.Cancelled
+            || args.TargetUid == null)
             return;
 
-        var thrower = args.Component.Thrower;
-        var target = args.Target;
+        var thrower = args.Uid;
+        var target = args.TargetUid;
 
-        if (thrower == null
-            || !HasComp<MobStateComponent>(target))
+        if (!HasComp<MobStateComponent>(target))
             return;
 
-        var throwerTransform = Transform(thrower.Value);
-        var targetTransform = Transform(target);
+        var throwerTransform = Transform(thrower);
+        var targetTransform = Transform(target.Value);
 
         var throwerPos = throwerTransform.Coordinates;
         var targetPos = targetTransform.Coordinates;
@@ -40,19 +40,19 @@ public sealed class SwapTeleportOnThrowSystem : EntitySystem
         var throwerParent = throwerTransform.ParentUid;
         var targetParent = targetTransform.ParentUid;
 
-        _transform.SetCoordinates(thrower.Value, targetPos);
-        _transform.SetCoordinates(target, throwerPos);
+        _transform.SetCoordinates(thrower, targetPos);
+        _transform.SetCoordinates(target.Value, throwerPos);
 
         if (!HasComp<MapGridComponent>(targetParent))
-            _transform.SetParent(thrower.Value, throwerParent);
+            _transform.SetParent(thrower, throwerParent);
 
         if (!HasComp<MapGridComponent>(throwerParent))
-            _transform.SetParent(target, targetParent);
+            _transform.SetParent(target.Value, targetParent);
 
         _audio.PlayPvs(ent.Comp.OriginSound, throwerPos);
         _audio.PlayPvs(ent.Comp.TargetSound, targetPos);
 
         PredictedQueueDel(ent.Owner);
-        args.Handled = true;
+        args.Cancel();
     }
 }

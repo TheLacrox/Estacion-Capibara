@@ -4,6 +4,8 @@
 using Content.Server._Wizden.Power.Components;
 using Content.Server.Power.Components;
 using Content.Server.Power.EntitySystems;
+using Content.Shared.Power;
+using Content.Shared.Power.Components;
 
 namespace Content.Server._Wizden.Power.EntitySystems;
 
@@ -26,11 +28,11 @@ public sealed class SpawnOnBatteryLevelSystem : EntitySystem
         if (!TryComp(entity, out TransformComponent? xform))
             return;
 
-        if (args.Charge >= entity.Comp.Charge)
+        if (args.CurrentCharge >= entity.Comp.Charge)
         {
             Spawn(entity.Comp.Prototype, xform.Coordinates);
 
-            _battery.ChangeCharge(entity, -entity.Comp.Charge, battery);
+            _battery.ChangeCharge((entity, battery), -entity.Comp.Charge);
         }
     }
 }

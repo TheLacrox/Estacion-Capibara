@@ -2,12 +2,13 @@ using Content.Goobstation.Shared.HeatTint;
 using Content.Server.Temperature.Components;
 using Content.Shared.Chemistry.EntitySystems;
 using Content.Shared.Temperature;
+using Content.Shared.Temperature.Components;
 
 namespace Content.Goobstation.Server.HeatTint;
 
-public sealed class HeatTintSystem : SharedHeatTintSystem
+public sealed partial class HeatTintSystem : SharedHeatTintSystem
 {
-    [Dependency] private readonly SharedAppearanceSystem _appearance = default!;
+    [Dependency] private SharedAppearanceSystem _appearance = default!;
 
     public override void Initialize()
     {

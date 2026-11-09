@@ -1,6 +1,3 @@
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 Marcus F <199992874+thebiggestbruh@users.noreply.github.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Goobstation.Shared.SpecialPassives.Fleshmend.Components;
@@ -9,9 +6,9 @@ using Robust.Shared.Utility;
 
 namespace Content.Goobstation.Client.SpecialPassives.Fleshmend;
 
-public sealed class FleshmendEffectSystem : EntitySystem
+public sealed partial class FleshmendEffectSystem : EntitySystem
 {
-    [Dependency] private readonly SpriteSystem _sprite = default!;
+    [Dependency] private SpriteSystem _sprite = default!;
 
     public override void Initialize()
     {

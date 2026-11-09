@@ -20,37 +20,179 @@ El Asesino en Serie es un horror implacable que acecha a la tripulacion aislada,
 
   3. Repite.
 
-  4. Una vez que obtengas suficientes almas, podras encarnar de verdad la vibracion del asesino de los anos 80.
+  4. Al alcanzar 15 almas, un anuncio advierte a la tripulación de tu ascensión.
+
+  ## Miedo
+
+El Miedo es el medidor de poder del Asesino en Serie, indicado por la alerta de [bold]Miedo[/bold].
+
+  - [bold]Cómo aumentarlo.[/bold] Tu miedo sube mientras los vivos te tienen a la vista, y da un salto cada vez que asustas de golpe a una víctima nueva. Decae lentamente cuando nadie te ha visto durante un tiempo.
+  - [bold]Velocidad.[/bold] Con el miedo al máximo te mueves más rápido: un pánico creciente que hace más difícil escapar de ti.
+  - [bold]Presencia.[/bold] Al acumular miedo empieza a sonar tu tema musical y, a partir de cierto punto, empiezas a dejar un rastro de sangre. Haz clic en la alerta de [bold]Miedo[/bold] para desactivar o reactivar el tema para ti; tus víctimas lo seguirán oyendo.
+  - [bold]Pavor.[/bold] Cualquiera a quien estés cazando activamente acumula su propio miedo. Con un miedo alto quedan (45)ralentizados y empiezan a recibir (90)daño.
+
+Déjate ver para aumentar tu poder y el terror.
 
   ## Habilidades
 
-  [bold]Invocacion de Machete[/bold] - Siempre puedes llamar de vuelta tu arma caracteristica. Es una gran habilidad si pierdes tu arma o quieres lanzarla a alguien para infligir dano rapido.
+<Box>
+  [tex path="_Goobstation/Actions/slashericons.rsi" state="SummonMachete" scale="2"/]
+  <Box Orientation="Vertical">
+    ## Invocación de Machete
 
-  [bold]Robo de Alma[/bold] - Solo puede usarse sobre un objetivo incapacitado o inmovilizado de otro modo. Por cada alma robada ganas mas defensa y dano aumentado. Es mucho mas efectivo sobre objetivos vivos. Las victimas quedan [italic]sin alma[/italic] y reciben una clausula diabolica negativa aleatoria.
+Siempre puedes llamar de vuelta tu arma característica a tu mano activa. Si ha sido destruida, se creará una nueva. Es una gran habilidad para recuperar tu arma o lanzarla para infligir daño rápido.
 
-  [bold]Masacre[/bold] - Un movimiento increiblemente poderoso ligado a tu machete especial. Al usarlo por primera vez inflige mucho menos dano, pero cuantos mas golpes aciertes mas dano causas. A partir de cierto punto comenzaras a amputar los miembros de las victimas y en el golpe numero 13 las decapitas. Fallar reinicia el combo.
+[italic]Tiempo de espera: 20 segundos.[/italic]
+  </Box>
+</Box>
 
-  [bold]Regeneracion / Slasherium[/bold] - Una fuente de curacion increiblemente robusta. Te rejuvenece y elimina cualquier restriccion. Tiene un tiempo de espera extremadamente largo. Una vez que la uses no podras volver a usarla hasta que hayas robado otra alma.
+<Box>
+  [tex path="_Goobstation/Actions/slashericons.rsi" state="SoulSteal" scale="2"/]
+  <Box Orientation="Vertical">
+    ## Robo de Alma
 
-  [bold]Rastro de Sangre[/bold] - Deja un rastro de sangre a tu paso. Tambien reproduce musica. ¡Escalofriante!
+Solo puede usarse a corta distancia sobre un objetivo incapacitado o inmovilizado. Por cada alma robada ganas más daño con tu machete y más armadura. Las víctimas vivas otorgan bonificaciones mucho mayores que los cadáveres. Las víctimas quedan [italic]sin alma[/italic] y reciben una cláusula diabólica negativa aleatoria. Al tener éxito libera una nube de gas amoníaco.
 
-  [bold]Incorporeo / Corporealizacion[/bold] - Desaparece y reaparece del plano material. Esta es tu principal fuente de desplazamiento. No puedes usarla mientras alguien te vea. Extremadamente limitada pero muy poderosa. Bloquea el progreso de los tiempos de espera mientras estes en el estado incorpóreo.
+[italic]Tiempo de espera: 2 segundos. Tiempo de ejecución: 15 segundos.[/italic]
 
-  [bold]Posesion[/bold] - Toma control temporalmente del cuerpo de una victima. Los MindShields lo bloquean.
+  - Almas vivas: +1.5 de daño Cortante, +5% de armadura por alma
+  - Almas muertas: +0.75 de daño Cortante, +2.5% de armadura por alma
+  - Armadura máxima: 70% de reducción de daño
+  - Desbloquea [bold]Posesión[/bold] tras robar 10 almas
+  - Activa la [bold]Ascensión[/bold] al llegar a 15 almas en total (anuncio en toda la estación)
+  - Tras ascender, las luces parpadean y se rompen periódicamente a tu alrededor
+  </Box>
+</Box>
 
-  [bold]Pua de Carne[/bold] - Puedes invocar una pua de carne que puedes usar para atrapar a tus victimas. Es increiblemente util para robar almas e impedir que la gente huya.
+<Box>
+  [tex path="_Goobstation/Actions/slashericons.rsi" state="RelentlessGrab" scale="2"/]
+  <Box Orientation="Vertical">
+    ## Agarre Implacable
 
-  [bold]Area de Aturdimiento[/bold] - Ralentizas a todos los que esten cerca de ti durante un breve periodo de tiempo. Muy util para sorprender a la gente.
+Al activarlo, tu siguiente puñetazo agarrará con fuerza a tu objetivo al instante. Perfecto para sujetar a tus objetivos en tus púas de carne.
+
+[italic]Tiempo de espera: 15 segundos.[/italic]
+  </Box>
+</Box>
+
+<Box>
+  [tex path="_Goobstation/Actions/slashericons.rsi" state="SummonMachete" scale="2"/]
+  <Box Orientation="Vertical">
+    ## Masacre
+
+Un modo de ataque increíblemente poderoso ligado a tu machete. Al activarlo, los golpes consecutivos sobre el mismo objetivo humanoide acumulan un combo más fuerte cuanto más le golpeas:
+
+  - Al activarlo se aplica una penalización de daño (-9 de daño) y se desactivan los golpes amplios
+  - Cada golpe consecutivo añade daño adicional (+3 por golpe)
+  - Cada 4.º golpe amputa un miembro aleatorio (brazo o pierna)
+  - El 13.º golpe consecutivo decapita a tu víctima
+  - Fallar o cambiar de objetivo reinicia el combo
+  - Matar a una víctima con Masacre otorga un aumento temporal de velocidad y curación (según el número de golpes)
+  - La cadena termina automáticamente si pasan 10 segundos sin acertar un golpe
+
+[italic]Tiempo de espera: 20 segundos.[/italic]
+  </Box>
+</Box>
+
+<Box>
+  [tex path="_Goobstation/Actions/slashericons.rsi" state="Regenerate" scale="2"/]
+  <Box Orientation="Vertical">
+    ## Regeneración
+
+Una fuente de curación increíblemente robusta. Te rejuvenece al instante, elimina cualquier restricción y cura todas las heridas. Tras cada uso debes recargarla robando otra alma. Puede usarse estando muerto. Si la usas estando muerto, ciega a todos los que estén cerca y te teletransporta a un lugar seguro.
+
+[italic]Tiempo de espera: 75 segundos.[/italic]
+  </Box>
+</Box>
+
+<Box>
+  <Box Orientation="Vertical">
+    <Box>
+      [tex path="_Goobstation/Actions/slashericons.rsi" state="Incorporealize" scale="2"/]
+    </Box>
+    <Box>
+      [tex path="_Goobstation/Actions/slashericons.rsi" state="Corporealize" scale="2"/]
+    </Box>
+  </Box>
+  <Box Orientation="Vertical">
+    ## Incorpóreo / Corporealización
+
+Tu principal habilidad de desplazamiento. Vuélvete incorpóreo para atravesar paredes y hacerte invisible, aunque sin poder interactuar con nada. Solo puedes entrar en esta forma cuando nadie te ve: si alguien tiene línea de visión contigo, no puedes volverte incorpóreo. Del mismo modo, no puedes salir de la forma incorpórea si una cámara puede ver tu destino o si hay alguien cerca.
+
+[italic]Tiempo de ejecución de Incorpóreo: 5 segundos. Sin tiempo de espera (alternar).[/italic]
+
+  - Todos los tiempos de espera de tus habilidades se congelan mientras estás incorpóreo. No continuarán hasta que vuelvas a tu forma física.
+  - Desactiva las luces cercanas (radio de 5 casillas) al entrar
+  - Una alerta indica si te están observando en ese momento
+  </Box>
+</Box>
+
+<Box>
+  [tex path="_Goobstation/Actions/slashericons.rsi" state="Possession" scale="2"/]
+  <Box Orientation="Vertical">
+    ## Posesión
+
+Se desbloquea tras robar 10 almas. Toma el control del cuerpo de una víctima durante 45 segundos. Cuando termine la duración o canceles antes de tiempo, ambas mentes volverán a sus cuerpos originales. Los escudos mentales y los sombreros de papel de aluminio bloquean esta habilidad.
+
+[italic]Tiempo de espera: 180 segundos (3 minutos).[/italic]
+  </Box>
+</Box>
+
+<Box>
+  [tex path="_Goobstation/Actions/slashericons.rsi" state="Meatspike" scale="2"/]
+  <Box Orientation="Vertical">
+    ## Púa de Carne
+
+Invoca al instante una Púa de Carne Ominosa en tu posición actual. Las víctimas que queden sujetas a ella quedan atrapadas, lo que las convierte en objetivos fáciles para el Robo de Alma.
+
+[italic]Tiempo de espera: 15 segundos.[/italic]
+  </Box>
+</Box>
+
+<Box>
+  [tex path="_Goobstation/Actions/slashericons.rsi" state="StaggerArea" scale="2"/]
+  <Box Orientation="Vertical">
+    ## Área de Aturdimiento
+
+Libera una oleada de terror en un radio de 3.5 casillas a tu alrededor, ralentizando un 50% a todos los enemigos cercanos durante 8 segundos. Muy útil para atrapar a víctimas que huyen.
+
+[italic]Tiempo de espera: 20 segundos.[/italic]
+  </Box>
+</Box>
+
+<Box>
+  [tex path="_Goobstation/Actions/slashericons.rsi" state="SlasherVision" scale="2"/]
+  <Box Orientation="Vertical">
+    ## Visión Mejorada
+
+Visión nocturna alternable que te permite ver perfectamente en la oscuridad con un tinte rojo.
+
+[italic]Sin tiempo de espera (alternar).[/italic]
+  </Box>
+</Box>
+
+  ## Kits y Variantes
+
+Al aparecer por primera vez eliges un [bold]kit[/bold]. Cada uno incluye un atuendo, un tema musical y una apariencia de arma únicos. La mayoría de los kits son puramente cosméticos y se juegan exactamente como el Asesino en Serie descrito arriba.
+
+Algunos kits cambian tu forma de jugar. Están marcados con un botón [bold]?[/bold] en el menú de selección de kit que lleva directamente a su página del manual:
+
+  - [bold]Hombre del Saco[/bold] - renuncia al viaje incorpóreo y a esprintar a cambio de caminar más rápido, invisibilidad en las sombras y un aura de miedo que impide esprintar a los demás. [textlink="Hombre del Saco" link="SlasherBoogeyman"]
 
   ## Consejos para la Tripulacion
   [bold]No deambules solo.[/bold]
   - Es relativamente debil cuando aparece por primera vez en la estacion.
   - Cuando roba almas se vuelve mucho mas resistente e inflige mucho mas dano.
-  - Si consigues sorprenderlo, no lo pierdas de vista. Si lo ves, no puede escapar.
-  - Es debil ante lo sagrado. Pide ayuda al capellan si te quedas sin fuerzas.
-  - ¡Los sombreros de papel de aluminio y los MindShields previenen las posesiones!
+  - Si lo ves, no lo pierdas de vista: no puede escapar a su forma incorpórea mientras lo observen.
+  - Es débil ante el daño sagrado. Coordínate con el capellán si está disponible.
+  - Los sombreros de papel de aluminio y los escudos mentales previenen la posesión.
   - Al robar 15 almas se reproduce un anuncio para advertir a la tripulacion.
-  - No tiene estado critico.
+  - Las cámaras pueden impedir que salga de su forma incorpórea.
+  - Sus tiempos de espera se congelan mientras está incorpóreo.
+  - Agrúpate y viaja con otros: el Asesino en Serie destaca eliminando objetivos aislados.
+  - Si te agarra con fuerza e intenta colocarte en una púa de carne, puedes cancelarlo empujándolo.
+  - No puede usar armas de fuego.
+  - No tiene estado crítico. O está vivo o está muerto.
 
   [color=red][bold]Eres la leyenda de la masacre de medianoche: hazla sentir como tal.[/bold][/color]
 </Document>

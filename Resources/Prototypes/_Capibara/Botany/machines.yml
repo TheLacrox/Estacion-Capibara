@@ -810,7 +810,7 @@
     bodyType: Simple
     prototype: Animal
   - type: Stamina
-    critThreshold: 100
+    baseCritThreshold: 100
   - type: Physics
     bodyType: KinematicController
   - type: Fixtures

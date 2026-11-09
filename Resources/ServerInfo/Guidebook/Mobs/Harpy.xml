@@ -1,10 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
-SPDX-FileCopyrightText: 2024 BeeRobynn <robynthewarcrime@proton.me>
-SPDX-FileCopyrightText: 2024 SolsticeOfTheWinter <solsticeofthewinter@gmail.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -16,24 +10,37 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   </Box>
 
   Las arpías son una mutación aviar humana, con alas emplumadas y colas con plumas.
-  Ven el mundo a través de una visión ultravioleta, arañan con sus garras infligiendo
-  daño [color=#ec3a3a]perforante[/color], y caminan sobre piernas digitígradas.
+  Ven el mundo a través de una visión ultravioleta y caminan sobre piernas digitígradas.
   Sin embargo, ¡su habilidad más icónica es alzar el vuelo!
 
-  ## Canta con el corazón
+  ## Habilidades Únicas
 
-  Las arpías son capaces de cantar una melodía al momento con su voz, permitiéndote tocar música donde estés,
+  ### Canta con el corazón
+
+  - Las arpías son capaces de cantar una melodía al momento con su voz, permitiéndote tocar música donde estés,
   siempre y cuando no estés amordazada.
 
-  ## ¡Alzar el vuelo!
+  ### ¡Alzar el vuelo!
 
-  Las arpías pueden volar con sus alas para aumentar su velocidad de movimiento drásticamente, a costa de un gran drenaje de resistencia y una incapacidad temporal de usar sus manos.
-  Sus alas les dan mejor aceleración si no hay gravedad en la estación, pero aún no pueden moverse sin equipo cuando flotan en el espacio.
+  - Las arpías pueden volar con sus alas para [color=#1e90ff]aumentar su velocidad de movimiento drásticamente[/color], a costa de un [color=#FFA500]gran drenaje de resistencia y una incapacidad temporal de usar sus manos.[/color]
 
-  ## Debilidades
+  - Sus alas les dan mejor aceleración si no hay gravedad en la estación, pero aún no pueden moverse sin equipo cuando flotan en el espacio.
 
-  Debido a sus piernas digitígradas, no pueden usar ningún tipo de calzado. Las arpías también respiran [color=#1e90ff]3 veces más rápido[/color] que otras razas.
-  Tienen huesos más débiles.
-  Son muy ligeras, lo que les dificulta arrastrar a otras especies. Sin embargo, también corren un 10% más rápido que otras especies.
+  ## Dieta
+
+  - Las arpías tienen una dieta similar a la de los humanos.
+
+  ## Ventajas
+
+  - [color=#1e90ff]Corren un 10% más rápido[/color] que otras especies.
+  - Arañan con sus garras, infligiendo daño [color=#ec3a3a]Perforante[/color].
+
+  ## Desventajas
+
+  - Debido a sus piernas digitígradas, [color=#FFA500]no pueden usar ningún tipo de calzado.[/color]
+  - Las arpías también respiran [color=#1e90ff]3 veces más rápido[/color] que otras razas.
+  - Son muy ligeras, lo que les dificulta arrastrar a otras especies.
+  - Reciben [color=#FFA500]un 15% más de daño Contundente.[/color]
+  - Tienen [color=#FFA500]huesos más débiles.[/color]
 
 </Document>

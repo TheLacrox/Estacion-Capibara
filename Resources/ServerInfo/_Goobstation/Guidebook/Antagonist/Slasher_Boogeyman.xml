@@ -1,0 +1,38 @@
+<Document>
+  # Asesino en Serie: Hombre del Saco
+
+  [color=#ac3a0d]"Me pregunto, quizá... si el Hombre del Saco puede moverse de verdad a través de las sombras..."[/color]
+
+  El Hombre del Saco es un kit de Asesino en Serie que cambia los trucos de desplazamiento habituales por pura presión de emboscada. Tiene todas las habilidades básicas del Asesino en Serie excepto el viaje incorpóreo, y añade un conjunto de sigilo basado en la oscuridad.
+
+<Box>
+  <GuideEntityEmbed Entity="ClothingHeadHatSlasherMaskBoogeyman" Caption="Máscara del Hombre del Saco"/>
+  <GuideEntityEmbed Entity="SlasherKitchenKnife" Caption="Cuchillo de Cocina"/>
+</Box>
+
+  ## Qué cambia
+
+  - [bold]Invisibilidad en las sombras.[/bold] Tu sprite se desvanece en la oscuridad y reaparece bajo la luz. Acecha en el mantenimiento sin luz y serás prácticamente invisible.
+
+  - [bold]Sin viaje incorpóreo.[/bold] [italic]No[/italic] tienes la forma incorpórea, así que no puedes atravesar paredes ni volverte invisible a voluntad. Tu sigilo depende por completo de permanecer en la oscuridad. Planifica tus rutas en torno a las luces.
+
+  - [bold]Aura de silencio.[/bold] No puedes esprintar, y tampoco puede nadie a quien estés asustando. Combinado con tu propia velocidad (ver más abajo), esto te permite ir alcanzando poco a poco a tripulantes que huyen y que de otro modo dejarían atrás a un Asesino en Serie.
+
+  - [bold]Más rápido a pie.[/bold] Te mueves ligeramente más rápido que la carrera de una persona normal. Nunca esprintarás, pero nunca lo necesitarás.
+
+  - [bold]Mudo.[/bold] El Hombre del Saco no habla. No puedes hablar en el chat local.
+
+  - [bold]Más aterrador.[/bold] Asustar de golpe a alguien le da 60 de miedo en lugar de los 20 habituales. Esto supera el umbral de ralentización.
+
+  Sigues propagando [bold]miedo[/bold] y obtienes las mismas ventajas de medidor, velocidad y rastro de sangre que cualquier Asesino en Serie.
+
+  ## Consejos para la Tripulación
+
+  [bold]La luz lo es todo.[/bold]
+  - El Hombre del Saco es invisible en la oscuridad pero totalmente visible con luz. Lleva una linterna, mantén las luces encendidas y repara las rotas.
+  - No puede atravesar paredes, así que debe usar puertas y pasillos como cualquier otro: las barricadas y las puertas bloqueadas sí lo detienen.
+  - No puede esprintar y tú tampoco mientras te observa, pero es más rápido que tu ritmo normal: no intentes simplemente dejarlo atrás en campo abierto. Rompe su línea de visión y ponte bajo la luz.
+  - El Hombre del Saco solo puede asustar de golpe a una persona a la vez.
+
+  [textlink="Volver a la guía del Asesino en Serie" link="Slasher"]
+</Document>

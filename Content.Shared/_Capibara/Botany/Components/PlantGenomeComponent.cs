@@ -5,6 +5,7 @@ using Content.Shared._Capibara.Botany.Genes;
 using Robust.Shared.GameStates;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization;
+using Content.Goobstation.Maths.FixedPoint;
 
 namespace Content.Shared._Capibara.Botany.Components;
 
@@ -68,7 +69,7 @@ public sealed partial class PlantGenomeComponent : Component
     /// Server-only snapshot of the original SeedData chemicals (serialized as tuples).
     /// Stored as (Min, Max, PotencyDivisor) per reagent ID, since SeedChemQuantity is server-only.
     /// </summary>
-    public Dictionary<string, (int Min, int Max, int PotDiv)> BaseChemSnapshot = new();
+    public Dictionary<string, (FixedPoint2 Min, FixedPoint2 Max, float PotDiv)> BaseChemSnapshot = new();
 
     /// <summary>
     /// Whether the genome has been initialized with a base stat snapshot.

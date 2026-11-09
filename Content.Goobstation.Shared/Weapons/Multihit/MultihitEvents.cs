@@ -1,12 +1,17 @@
-// SPDX-FileCopyrightText: 2025 Aviu00 <aviu00@protonmail.com>
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Shared.Whitelist;
 using Robust.Shared.Serialization;
 
 namespace Content.Goobstation.Shared.Weapons.Multihit;
+
+
+[ByRefEvent]
+public record struct MultihitGetWeaponsEvent(EntityUid User,
+    EntityUid Weapon,
+    float DamageMultiplier,
+    TimeSpan Delay,
+    List<EntityUid> Weapons);
 
 [Serializable, NetSerializable, ImplicitDataDefinitionForInheritors]
 public abstract partial class BaseMultihitUserConditionEvent : HandledEntityEventArgs

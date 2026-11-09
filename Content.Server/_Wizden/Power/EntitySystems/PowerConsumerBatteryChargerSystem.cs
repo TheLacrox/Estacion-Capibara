@@ -21,7 +21,7 @@ public sealed class PowerConsumerBatteryChargerSystem : EntitySystem
             if (!transform.Anchored)
                 continue;
 
-            _battery.ChangeCharge(entity, powerConsumerComp.NetworkLoad.ReceivingPower * frameTime, battery);
+            _battery.ChangeCharge((entity, battery), powerConsumerComp.NetworkLoad.ReceivingPower * frameTime);
         }
     }
 }

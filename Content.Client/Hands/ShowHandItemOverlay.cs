@@ -1,16 +1,3 @@
-// SPDX-FileCopyrightText: 2021 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2021 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
-// SPDX-FileCopyrightText: 2021 Vera Aguilera Puerto <gradientvera@outlook.com>
-// SPDX-FileCopyrightText: 2021 metalgearsloth <comedian_vs_clown@hotmail.com>
-// SPDX-FileCopyrightText: 2022 wrexbe <81056464+wrexbe@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2023 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2023 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aviu00 <93730715+Aviu00@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aviu00 <aviu00@protonmail.com>
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 SX-7 <sn1.test.preria.2002@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using System.Numerics;
@@ -34,7 +21,7 @@ using Direction = Robust.Shared.Maths.Direction;
 
 namespace Content.Client.Hands
 {
-    public sealed class ShowHandItemOverlay : Overlay
+    public sealed partial class ShowHandItemOverlay : Overlay // Goob
     {
         [Dependency] private readonly IConfigurationManager _cfg = default!;
         [Dependency] private readonly IInputManager _inputManager = default!;
@@ -81,10 +68,7 @@ namespace Content.Client.Hands
 
         protected override bool BeforeDraw(in OverlayDrawArgs args)
         {
-            if (!_cfg.GetCVar(CCVars.HudHeldItemShow))
-                return false;
-
-            return base.BeforeDraw(in args);
+            return base.BeforeDraw(in args); // Goob
         }
 
         protected override void Draw(in OverlayDrawArgs args)
@@ -106,7 +90,7 @@ namespace Content.Client.Hands
             }
 
             _hands ??= _entMan.System<HandsSystem>();
-            var handEntity = _hands.GetActiveHandEntity();
+            var handEntity = EntityOverride ?? (_cfg.GetCVar(CCVars.HudHeldItemShow) ? _hands.GetActiveHandEntity() : null); // Goob
 
             // Goob edit start
             if (_player.LocalEntity != null)
@@ -155,7 +139,8 @@ namespace Content.Client.Hands
             // Goob edit end
 
             var halfSize = _renderBackbuffer.Size / 2;
-            var uiScale = (args.ViewportControl as Control)?.UIScale ?? 1f;
+            var vpControl = args.ViewportControl as Control; // Goob
+            var uiScale = vpControl?.UIScale ?? 1f; // Goob
 
             screen.RenderInRenderTarget(_renderBackbuffer, () =>
             {
@@ -163,6 +148,8 @@ namespace Content.Client.Hands
             }, Color.Transparent);
 
             screen.DrawTexture(_renderBackbuffer.Texture, mousePos.Position - halfSize + offsetVec, Color.White.WithAlpha(0.75f));
+
+            DrawCooldown(args, handEntity.Value, mousePos.Position, vpControl); // Goob
         }
     }
 }

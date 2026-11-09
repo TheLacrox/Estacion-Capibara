@@ -1,10 +1,3 @@
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 Solstice <solsticeofthewinter@gmail.com>
-// SPDX-FileCopyrightText: 2025 SolsticeOfTheWinter <solsticeofthewinter@gmail.com>
-// SPDX-FileCopyrightText: 2025 coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 gluesniffler <linebarrelerenthusiast@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using System.Diagnostics.CodeAnalysis;
@@ -42,23 +35,24 @@ using Robust.Shared.Random;
 using Robust.Shared.Utility;
 using Content.Goobstation.Shared.Changeling.Components;
 using Content.Goobstation.Shared.Slasher.Components;
+using Content.Shared.Damage.Systems;
 
 namespace Content.Goobstation.Server.Devil.Contract;
 
 public sealed partial class DevilContractSystem : EntitySystem
 {
-    [Dependency] private readonly SharedPopupSystem _popupSystem = null!;
-    [Dependency] private readonly DamageableSystem _damageable = null!;
-    [Dependency] private readonly HandsSystem _hands = null!;
-    [Dependency] private readonly SharedAudioSystem _audio = null!;
-    [Dependency] private readonly IPrototypeManager _prototypeManager = null!;
-    [Dependency] private readonly BodySystem _bodySystem = null!;
-    [Dependency] private readonly WoundSystem _wounds = null!;
-    [Dependency] private readonly IRobustRandom _random = null!;
-    [Dependency] private readonly SubdermalImplantSystem _implant = null!;
-    [Dependency] private readonly PolymorphSystem _polymorph = null!;
-    [Dependency] private readonly ExplosionSystem _explosion = null!;
-    [Dependency] private readonly MindSystem _mind = null!;
+    [Dependency] private SharedPopupSystem _popupSystem = null!;
+    [Dependency] private DamageableSystem _damageable = null!;
+    [Dependency] private HandsSystem _hands = null!;
+    [Dependency] private SharedAudioSystem _audio = null!;
+    [Dependency] private IPrototypeManager _prototypeManager = null!;
+    [Dependency] private BodySystem _bodySystem = null!;
+    [Dependency] private WoundSystem _wounds = null!;
+    [Dependency] private IRobustRandom _random = null!;
+    [Dependency] private SubdermalImplantSystem _implant = null!;
+    [Dependency] private PolymorphSystem _polymorph = null!;
+    [Dependency] private ExplosionSystem _explosion = null!;
+    [Dependency] private MindSystem _mind = null!;
 
     private ISawmill _sawmill = null!;
     private Dictionary<string, string> _clauseNameToId = new();
@@ -275,6 +269,9 @@ public sealed partial class DevilContractSystem : EntitySystem
             paper.EditingDisabled = true;
 
         _popupSystem.PopupEntity(Loc.GetString("contract-victim-signed"), signed, signer);
+
+        var signedEv = new DevilContractSignedEvent(contract);
+        RaiseLocalEvent(signer, ref signedEv);
     }
 
     private void HandleDevilSign(Entity<DevilContractComponent> contract, EntityUid signed, EntityUid signer)

@@ -1,10 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 deltanedas <39013340+deltanedas@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 deltanedas <@deltanedas:kde.org>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -17,27 +11,34 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Los Rodentia son una raza de seres humanoides que se asemejan a roedores. Ingeniosos, evasivos, astutos, pero frágiles.
 
+  ## Habilidades Únicas
+
+  ### Rebuscar
+
+  - Los Rodentia pueden rebuscar en conductos de eliminación, lo que a veces puede [color=#1e90ff]desenterrar comida.[/color] ¡Qué rico!
+
+  ### Almacenamiento Roedor
+
+  - Los Rodentia pueden almacenar objetos pequeños en sus mejillas. Tener objetos en la boca hace su habla ininteligible, y soltarán todos los objetos de su boca si son atacados, aturdidos o empujados.
+
+  ### Escabullirse
+
+  - Debido a su baja estatura y sus instintos de roedor, los Rodentia pueden [color=#1e90ff]escabullirse por debajo de las mesas.[/color] Sin embargo, no pueden escabullirse por debajo de las puertas.
+
   ## Dieta
 
   - Pueden comer carne cruda.
-  - Serán envenenados por Teobromina (Chocolate, Té, Café) y Alicina (Cebolla, Ajo).
+  - Serán [color=#FFA500]envenenados[/color] por Teobromina (Chocolate, Té, Café) y Alicina (Cebolla, Ajo).
 
   ## Beneficios
 
-  - Usan sus garras para infligir algo de daño Cortante y Contundente.
+  - Pueden usar sus garras para infligir algo de daño [color=#ec3a3a]Cortante[/color] y [color=#ec3a3a]Contundente[/color].
   - Pueden caber en bolsas de viaje.
-
-  ## Especial
-
-  - Pueden Rebuscar en conductos de eliminación, lo que a veces puede desenterrar comida.
-  - Pueden almacenar objetos pequeños en sus mejillas. Tener objetos en la boca hace su habla ininteligible, y soltarán todos los objetos de su boca si son atacados, aturdidos o empujados.
-  - Pueden "escabullirse" por debajo de las mesas, pero no por las puertas.
-  - Son más pequeños que la mayoría de las otras especies.
 
   ## Desventajas
 
-  - Reciben un 15% más de daño Contundente, Cortante y Perforante.
+  - Reciben [color=#FFA500]un 15% más de daño Contundente, Cortante y Perforante.[/color]
   - Siempre activan las trampas para ratones, independientemente de si llevan zapatos o no.
-  - Sienten hambre un 33% más rápido.
+  - Sienten [color=#FFA500]hambre un 33% más rápido.[/color]
 
 </Document>

@@ -1,6 +1,3 @@
-// SPDX-FileCopyrightText: 2025 Discoded <33738298+Discoded@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Goobstation.Shared.Supermatter.Consoles;
@@ -97,7 +94,6 @@ public struct SupermatterFocusData
     /// <summary>
     /// The supermatter's gas storage
     /// </summary>
-    [DataField]
     public Dictionary<Gas, float> GasStorage;
 
     /// <summary>

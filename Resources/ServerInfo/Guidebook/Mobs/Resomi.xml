@@ -1,8 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 AstroDogeDX <48888500+AstroDogeDX@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -15,15 +11,23 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Los Resomi son una especie pequeña similar a las aves que proviene de un mundo helado.
 
-  Como la mayoría de las otras especies no humanas, los Resomi son capaces de digerir carne cruda y otras proteínas animales sin cocinar.
+  ## Dieta
 
-  Como resultado de las condiciones de su planeta natal y su sangre basada en amoniaco, los Resomi son inmunes a cualquier daño por frío y otros efectos.
-  En consecuencia, encuentran las temperaturas que la mayoría de las otras especies consideran cómodas como insoportablemente calientes, comenzando a sufrir desde apenas 30°C.
+  - Como la mayoría de las otras especies no humanas, los Resomi son capaces de digerir carne cruda y otras proteínas animales sin cocinar.
 
-  Junto con sus tolerancias de temperatura, reciben un 30% más de daño por calor y un 15% más de daño contundente.
+  ## Ventajas
 
-  También tienen huesos más débiles.
+  - Como resultado de las condiciones de su planeta natal y su sangre basada en amoniaco, los Resomi son [color=#1e90ff]inmunes a cualquier daño por frío y otros efectos.[/color]
+  - Debido a su pequeño tamaño, pueden caber en bolsas de viaje.
+  - Su ataque desarmado inflige daño [color=#ec3a3a]Cortante[/color].
 
-  Debido a su pequeño tamaño, pueden caber en bolsas de viaje. También pesan menos, lo que les dificulta arrastrar a otras especies. Su ataque desarmado inflige daño Cortante.
+  ## Desventajas
+
+  - Encuentran las temperaturas que la mayoría de las otras especies consideran cómodas como insoportablemente calientes, [color=#ffa500]comenzando a sufrir desde apenas 30°C.[/color]
+  - Junto con sus tolerancias de temperatura, [color=#ffa500]reciben un 30% más de daño por calor y un 15% más de daño contundente.[/color]
+  - Tienen huesos más débiles.
+  - Pesan menos, lo que les dificulta arrastrar a otras especies.
+  - Los Resomi tienen [color=#ffa500]un 33% menos de sangre[/color], lo que hace que sufran pérdida de sangre mucho antes.
+
 
 </Document>

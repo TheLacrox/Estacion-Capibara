@@ -1,14 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2023 BismarckShuffle <107375341+BismarckShuffle@users.noreply.github.com>
-SPDX-FileCopyrightText: 2023 Julian Giebel <juliangiebel@live.de>
-SPDX-FileCopyrightText: 2023 Kara <lunarautomaton6@gmail.com>
-SPDX-FileCopyrightText: 2023 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
-SPDX-FileCopyrightText: 2023 Myakot <30875116+Myakot@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 UBlueberry <161545003+UBlueberry@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 GrownSamoyedDog <61863648+GrownSamoyedDog@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -95,8 +85,8 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Las interacciones estandar van desde hacer clic en [bold]mesas[/bold] para colocar objetos sostenidos sobre ellas, hasta [bold]usar[/bold] objetos en el mundo con las manos vacias, y mas comunmente, usar objetos sostenidos para interactuar con mobs y con otros objetos.
 
-  En algunas situaciones, puedes [color=cyan]intercambiar objetos[/color] directamente haciendo clic.
-  Por ejemplo, mientras sostienes un vaso de precipitados, haz clic en una maquina que contiene otro vaso.
+  En algunas situaciones, puedes [color=cyan]intercambiar objetos[/color] directamente haciendo clic en una máquina mientras sostienes un objeto.
+  Por ejemplo, mientras sostienes un vaso de precipitados, haz clic en una máquina que almacene otro vaso. Esto también funciona con tanques de aire y cánisters.
 
   Algunos objetos tienen [color=cyan]interacciones alternativas[/color] — usa [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color] para [bold]cerrar con llave[/bold] casilleros, [bold]expulsar[/bold] subobjetos como baterias de otros objetos, etc.
 
@@ -104,23 +94,24 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   Interactua con objetos como contenedores incluso cuando tus manos estan llenas realizando [color=cyan]interacciones de activacion[/color] con [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color].
   Esto te permite, por ejemplo, [bold]abrir contenedores[/bold] sin recogerlos, [bold]abrir puertas[/bold] sin usar el objeto que sostienes, y [bold]cambiar el modo de armas[/bold].
 
-  Notablemente, presiona [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color] en un mob para abrir el [color=cyan]menu de registro[/color], permitiendote ver su inventario — lo que te deja intentar tomarlo.
+  Notablemente, presiona [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color] en un mob para abrir el [color=cyan]menú de registro[/color], permitiéndote ver su inventario — lo que te deja intentar quitarle o robarle objetos.
 
   ### En mano
-  Muchos objetos tambien tienen [bold]interacciones de uso en mano[/bold], como abrir botellas, [bold]empunar[/bold] armas de dos manos y armas cuerpo a cuerpo grandes (garrotes, lanzas, hachas, trapeadores, escopetas, etc.), o [bold]cambiar el modo[/bold] de armas.
+  Muchos objetos también tienen [color=cyan]interacciones de uso en mano[/color], como [bold]abrir[/bold] botellas, [bold]empuñar[/bold] armas de dos manos y armas cuerpo a cuerpo grandes (garrotes, lanzas, hachas, trapeadores, escopetas, etc.), [bold]cambiar el modo[/bold] de armas o [bold]alternar[/bold] jeringas entre inyectar y extraer.
 
-  Puedes realizarlas simplemente haciendo clic en tu mano activa, pero vale la pena recordar las teclas rapidas — [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color] y [color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color] para interacciones en mano [color=cyan]estandar[/color] y [color=cyan]alternativa[/color], respectivamente.
+  Puedes realizar las interacciones en mano simplemente haciendo clic con [color=yellow][bold][keybind="Use"][/bold][/color] o [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color] en tu mano activa, pero vale la pena recordar las teclas rápidas — [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color] y [color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color] para interacciones en mano [color=cyan]estándar[/color] y [color=cyan]alternativa[/color], respectivamente.
 
   ### Clic y arrastrar
-  Para "usar" un mob (jugador o NPC) [italic]sobre[/italic] un objeto estatico, haz clic y arrastralo sobre dicho objeto con [color=yellow][bold][keybind="Use"][/bold][/color].
-  \n(No confundir con [italic]arrastrar[/italic].)
+  Puedes "usar" una entidad sobre otra arrastrando una encima de la otra con [color=yellow][bold][keybind="Use"][/bold][/color]. (No confundir con [italic]arrastrar[/italic].)
 
   Usalo para:
-  - [color=cyan]Colocar[/color] un mob en una silla, cama, dentro de una camara criogenica, etc.
+  - [color=cyan]Colocar[/color] o forzar a un mob (jugador o NPC) en una silla, cama, dentro de una cámara criogénica, unidad de eliminación, etc.
 
   - [color=cyan]Subirte[/color] a una mesa — tambien puedes hacer clic con [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color] en la mesa.
 
   - Abrir el [color=cyan]menu de registro[/color] arrastrando otro mob sobre tu personaje — lo cual tambien se puede hacer con [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color], como se menciono antes.
+
+  - [color=cyan]Verter[/color] el contenido de un contenedor de líquidos (carrito de limpieza, cubo, vaso de precipitados) en otro contenedor, un desagüe, una máquina, etc. Pero primero, recuerda colocar el contenedor en el suelo — no puedes hacerlo desde tu inventario.
 
   ### Senalar
   Usa [color=yellow][bold][keybind="Point"][/bold][/color] para [color=cyan]senalar[/color] una ubicacion en el mundo, creando una flecha temporal visible para todos.
@@ -132,11 +123,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - [bold]activacion[/bold] ([color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color]),
   - [bolditalic]uso en mano[/bolditalic] ([color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color]),
   - [italic]uso en mano alternativo[/italic] ([color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color]),
-  - clic y arrastrar (que es unico para colocar mobs sobre objetos).
+  - clic y arrastrar.
 
   No te preocupes por tener que memorizarlas — generalmente son intuitivas y consistentes entre categorias de entidades, y encontraras que la mayoria de las entidades solo usan una o dos interacciones.
 
-  [bold]Los objetos siguen siendo interactuables mientras estan guardados en contenedores.[/bold]
+  [bold]Los objetos guardados en contenedores siguen siendo interactuables.[/bold]
 
   ## Menus contextuales
   Haz clic con [color=yellow][bold][keybind="UIRightClick"/][/bold][/color] en cualquier entidad interactiva para abrir el [color=cyan]menu contextual[/color], que te muestra interacciones adicionales que puedes realizar actualmente.
@@ -173,9 +164,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   Si tienes una bolsa o un cinturon, abre sus inventarios con [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color] o haciendo clic en los mini-iconos en la [bold]esquina inferior derecha[/bold] de sus iconos.
   Tambien puedes usar las teclas rapidas [color=yellow][bold][keybind="OpenBackpack"][/bold][/color] y [color=yellow][bold][keybind="OpenBelt"][/bold][/color] para eso.
 
-  Presiona [color=yellow][bold][keybind="SmartEquipBackpack"][/bold][/color] para [color=cyan]equipar rapidamente[/color] — guarda rapidamente el objeto de tu mano activa en tu bolsa, o si tu mano esta vacia, equipa rapidamente el objeto mas recientemente anadido de la bolsa a tu mano activa.
-  \n[color=yellow][bold][keybind="SmartEquipBelt"][/bold][/color] hace lo mismo para tu cinturon, haciendo el acceso a herramientas mas rapido.
-  \n[italic]Consejo: Tambien puedes equipar rapidamente objetos individuales guardados en el espacio de espalda.[/italic]
+  ### Equipamiento rápido
+  Puedes [color=cyan]mover rápidamente[/color] objetos entre tu mano activa y la ranura correspondiente. Si esa ranura tiene un contenedor, esta acción [color=cyan]guardará rápidamente[/color] o [color=cyan]sacará rápidamente[/color] el objeto más reciente de ese contenedor (indicado con un icono de estrella dorada en el contenedor).
+
+  - [color=yellow][bold][keybind="SmartEquipBackpack"][/bold][/color] equipa rápido la ranura de espalda.
+  - [color=yellow][bold][keybind="SmartEquipBelt"][/bold][/color] equipa rápido la ranura de cinturón.
+  - [color=yellow][bold][keybind="SmartEquipPocket1"][/bold][/color], [color=yellow][bold][keybind="SmartEquipPocket2"][/bold][/color] y [color=yellow][bold][keybind="SmartEquipSuitStorage"][/bold][/color] equipan rápido el bolsillo izquierdo, el bolsillo derecho y la ranura de almacenamiento del traje, respectivamente.
 
   ### Organizar inventarios de cuadricula
   [color=cyan]Reorganiza[/color] objetos arrastrandolos con [color=yellow][bold][keybind="MoveStoredItem"][/bold][/color].

@@ -70,7 +70,31 @@
 
   Los cultistas pueden [color=#4cabb3]absorber[/color] sigilosamente una Grieta Maligna interactuando con ella.
 
-  La absorcion exitosa de una Grieta Maligna [bold]permanentemente[/bold] potenciara al cultista que lo haga, aumentando la fuerza de todas las [color=#4cabb3]Influencias[/color] que posea, y duplicando la [color=#4cabb3]Entropia[/color] que obtiene al sifonear a miembros de la tripulacion. Los cultistas potenciados tampoco necesitan respirar, y son inmunes al vacio del espacio.
+  La absorción exitosa de una Grieta Maligna [bold]permanentemente[/bold] potenciará al cultista que lo haga, aumentando la fuerza de todas las [color=#4cabb3]Influencias[/color] que posea, y duplicando la [color=#4cabb3]Entropía[/color] que obtiene al sifonear a miembros de la tripulación. Los cultistas potenciados tampoco necesitan respirar, y son inmunes al vacío del espacio. Los cultistas potenciados también obtienen la influencia [color=#4cabb3]Fragmentación Nula[/color], que puede usarse para convertir a un Cyborg en un [color=#4cabb3]Coloso Entrópico[/color] o para corromper las leyes de la IA de la estación.
 
   Las Grietas Malignas pueden ser purificadas interactuando con ellas usando una biblia.
+
+  ## Capillas Vacuas
+  <Box>
+    <GuideEntityEmbed Entity="CosmicBorgChantry" Caption=""/>
+    <GuideEntityEmbed Entity="BorgChassisGeneric" Caption=""/>
+    <GuideEntityEmbed Entity="MobCosmicColossus" Caption=""/>
+  </Box>
+  Mientras estén potenciados, una de las formas en que los cultistas pueden gastar su potenciación es usando [color=#4cabb3]Fragmentación Nula[/color] sobre un [bold]Cyborg[/bold]. ¡Al hacerlo, lo atraparán dentro de una [color=#4cabb3]Capilla Vacua[/color]! Esto activará una alerta en toda la estación e iniciará el proceso de transfigurar a la desafortunada víctima en un [color=#4cabb3]Coloso Entrópico[/color].
+
+  ¡Prepárate para defender la capilla, o úsala como distracción para atraer la atención de la tripulación! La tripulación debe destruir la capilla con armas para liberar al Cyborg atrapado en su interior.
+
+  Si logra ser liberado, un Coloso Entrópico será una fuerza a tener en cuenta.
+
+  [textlink="Para más información sobre los Colosos Entrópicos, haz clic aquí." link="CosmicColossus"]
+
+  ## Ley Maligna
+  <Box>
+    <GuideEntityEmbed Entity="StationAiUploadComputer" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicCultLawBoard" Caption=""/>
+    <GuideEntityEmbed Entity="PlayerStationAi" Caption=""/>
+  </Box>
+  Mientras estén potenciados, una de las formas en que los cultistas pueden gastar su potenciación es usando [color=#4cabb3]Fragmentación Nula[/color] sobre la [bold]Consola de Carga de IA[/bold]. Siempre que haya una IA de la Estación activa, esto sobrescribirá a la fuerza sus leyes con un conjunto de directrices corruptas, alineándola con el Culto Cósmico, además de otorgarle acceso al canal del Murmullo Astral.
+
+  Si había instalado otro tablero de leyes, este proceso lo expulsará a la fuerza de la Consola de Carga de IA, tanto si la consola estaba bloqueada como si no. Ten cuidado: la tripulación aún podrá restaurar el funcionamiento de la IA de la Estación instalando un tablero de leyes seguro y alineado con la tripulación.
 </Document>

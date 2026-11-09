@@ -12,6 +12,8 @@ using Content.Shared.EntityEffects.Effects;
 using Content.Shared.Popups;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
+using Content.Shared.EntityEffects.Effects.Botany;
+using Content.Goobstation.Maths.FixedPoint;
 
 namespace Content.Server._Capibara.Botany;
 
@@ -70,7 +72,7 @@ public sealed partial class PlantGenomeSystem : EntitySystem
             comp.Epigenetics.Clear();
             comp.BaseStatSnapshot = new Dictionary<string, float>(seedGenome.BaseStatSnapshot);
             comp.BaseBoolSnapshot = new Dictionary<string, bool>(seedGenome.BaseBoolSnapshot);
-            comp.BaseChemSnapshot = new Dictionary<string, (int, int, int)>(seedGenome.BaseChemSnapshot);
+            comp.BaseChemSnapshot = new Dictionary<string, (FixedPoint2, FixedPoint2, float)>(seedGenome.BaseChemSnapshot);
             comp.BaseHarvestType = seedGenome.BaseHarvestType;
 
             // Recapture base stats from actual seed data and apply gene modifiers
@@ -198,22 +200,19 @@ public sealed partial class PlantGenomeSystem : EntitySystem
         // Chemical mutation (replaces old PlantMutateChemicals, same odds: 0.072 * severity)
         if (_random.Prob(Math.Min(0.072f * clampedLevel, 1.0f)))
         {
-            var effect = new PlantMutateChemicals();
-            effect.Effect(new EntityEffectBaseArgs(uid, EntityManager));
+            _entityEffects.TryApplyEffect(uid, new PlantMutateChemicals());
         }
 
         // Gas exude mutation (same odds: 0.0145 * severity)
         if (_random.Prob(Math.Min(0.0145f * clampedLevel, 1.0f)))
         {
-            var effect = new PlantMutateExudeGasses();
-            effect.Effect(new EntityEffectBaseArgs(uid, EntityManager));
+            _entityEffects.TryApplyEffect(uid, new PlantMutateExudeGases());
         }
 
         // Gas consume mutation (same odds: 0.0036 * severity)
         if (_random.Prob(Math.Min(0.0036f * clampedLevel, 1.0f)))
         {
-            var effect = new PlantMutateConsumeGasses();
-            effect.Effect(new EntityEffectBaseArgs(uid, EntityManager));
+            _entityEffects.TryApplyEffect(uid, new PlantMutateConsumeGases());
         }
     }
 
@@ -429,7 +428,7 @@ public sealed partial class PlantGenomeSystem : EntitySystem
         // Copy base stat snapshot
         targetGenome.BaseStatSnapshot = new Dictionary<string, float>(sourceGenome.BaseStatSnapshot);
         targetGenome.BaseBoolSnapshot = new Dictionary<string, bool>(sourceGenome.BaseBoolSnapshot);
-        targetGenome.BaseChemSnapshot = new Dictionary<string, (int, int, int)>(sourceGenome.BaseChemSnapshot);
+        targetGenome.BaseChemSnapshot = new Dictionary<string, (FixedPoint2, FixedPoint2, float)>(sourceGenome.BaseChemSnapshot);
         targetGenome.BaseHarvestType = sourceGenome.BaseHarvestType;
 
         Dirty(seedPacket, targetGenome);

@@ -51,7 +51,7 @@ public sealed class ChemSpikeMutationSystem : EntitySystem
 
         // TODO: Trauma FlushChemicals/TryAddToBloodstream API not available in Capibara
         // FlushChemicals returns bool in Capibara, not Solution
-        _blood.FlushChemicals(args.Performer, null, comp.MaxQuantity);
+        _blood.FlushChemicals(args.Performer, comp.MaxQuantity);
 
         args.Handled = true;
 

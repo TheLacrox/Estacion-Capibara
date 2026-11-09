@@ -16,16 +16,16 @@ using Robust.Shared.Spawners;
 
 namespace Content.Goobstation.Shared.Wraith.Minions.Harbinger;
 
-public sealed class TentacleHookSystem : EntitySystem
+public sealed partial class TentacleHookSystem : EntitySystem
 {
-    [Dependency] private readonly SharedGunSystem _gun = default!;
-    [Dependency] private readonly SharedTransformSystem _transform = default!;
-    [Dependency] private readonly INetManager _netManager = default!;
-    [Dependency] private readonly IGameTiming _timing = default!;
-    [Dependency] private readonly SharedJointSystem _joints = default!;
-    [Dependency] private readonly SharedStunSystem _stun = default!;
-    [Dependency] private readonly SharedAudioSystem _audio = default!;
-    [Dependency] private readonly MovementModStatusSystem _movementMod = default!;
+    [Dependency] private SharedGunSystem _gun = default!;
+    [Dependency] private SharedTransformSystem _transform = default!;
+    [Dependency] private INetManager _netManager = default!;
+    [Dependency] private IGameTiming _timing = default!;
+    [Dependency] private SharedJointSystem _joints = default!;
+    [Dependency] private SharedStunSystem _stun = default!;
+    [Dependency] private SharedAudioSystem _audio = default!;
+    [Dependency] private MovementModStatusSystem _movementMod = default!;
 
     private const string TentacleJoint = "grappling";
 
@@ -59,7 +59,7 @@ public sealed class TentacleHookSystem : EntitySystem
         var visuals = EnsureComp<JointVisualsComponent>(proj);
         visuals.Sprite = ent.Comp.RopeSprite;
         visuals.OffsetA = new Vector2(0f, 0.5f);
-        visuals.Target = GetNetEntity(ent.Owner);
+        visuals.Target = ent.Owner;
         Dirty(proj, visuals);
 
         _audio.PlayPredicted(ent.Comp.HookSound, ent.Owner, ent.Owner);

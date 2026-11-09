@@ -1,15 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
-SPDX-FileCopyrightText: 2024 BeeRobynn <robynthewarcrime@proton.me>
-SPDX-FileCopyrightText: 2024 Errant <35878406+Errant-4@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 Just-a-Unity-Dev <67359748+Just-a-Unity-Dev@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 Kira Bridgeton <161087999+Verbalase@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 deepdarkdepths <155149356+deepdarkdepths@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 kbailey-git <84491830+kbailey-git@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Solstice <solsticeofthewinter@gmail.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -20,21 +9,33 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
   </Box>
 
-  Respiran nitrógeno en lugar de oxígeno, que es abundante en el aire de la estación, pero más difícil de encontrar comprimido en tanques de gas. Reciben daño significativo si son rociadas o salpicadas con agua, pero pueden
-  (y como otras especies, necesitan) beberla de forma segura para mantenerse hidratadas.
+  Compuesta de slime, esta especie humanoide respira nitrógeno en lugar de oxígeno, que, aunque es abundante en el aire de la estación, es más difícil de encontrar comprimido en tanques de gas.
   Exhalan óxido nitroso y no se ven afectadas por él.
-  Su cuerpo procesa solo dos toxinas a la vez en comparación con tres.
 
-  Las personas slime tienen un [bold]inventario de almacenamiento interno de 2x3[/bold] dentro de su membrana de slime. Cualquiera puede ver lo que hay dentro y sacártelo sin preguntar,
-  así que ten cuidado.
+  ## Habilidades Únicas
 
-  Las personas slime tienen regeneración acelerada en comparación con otros humanoides.
+  ### Almacenamiento en Membrana
 
-  Las personas slime no tienen huesos y sus extremidades se desprenden más fácilmente.
+  - Las personas slime tienen un [bold]inventario de almacenamiento interno de 2x3[/bold] dentro de su membrana de slime.
+  - Cualquiera puede ver lo que hay dentro y sacártelo sin preguntar, así que ten cuidado.
 
-  La sangre de Slime es técnicamente una fuente de alimento moderadamente satisfactorio para otras especies, aunque beber la sangre de tus compañeros de trabajo suele estar mal visto.
-  Se asfixian un 80% más lento, pero reciben daño por presión un 9% más rápido. Esto las convierte con diferencia en la especie más capaz de sobrevivir en el vacío. Por un tiempo.
+  ## Dieta
+  - La sangre de Slime es técnicamente una fuente de alimento moderadamente satisfactorio para otras especies, aunque beber la sangre de tus compañeros de trabajo suele estar mal visto.
 
-  Reciben [color=#1e90ff]un 40% menos de daño Contundente y un 20% menos de daño por Veneno[/color], pero [color=#ffa500]un 50% más de daño por Frío, un 15% más de daño Cortante y un 15% más de daño Perforante[/color].
+  ## Ventajas
+
+  - [color=#1e90ff]Se asfixian un 80% más lento.[/color] Esto las convierte con diferencia en la especie más capaz de sobrevivir en el vacío. Por un tiempo.
+  - Reciben [color=#1e90ff]un 40% menos de daño Contundente y un 20% menos de daño por Veneno[/color]
+  - Las personas slime tienen [color=#1e90ff]regeneración acelerada[/color] en comparación con otros humanoides.
+  - Las personas slime [color=#1e90ff]no tienen huesos que romper.[/color]
+
+  ## Desventajas
+
+  - Reciben [color=#ffa500]daño significativo si son rociadas o salpicadas con agua[/color], pero pueden (y como otras especies, necesitan) beberla de forma segura para mantenerse hidratadas.
+  - Reciben [color=#ffa500]un 50% más de daño por Frío, un 15% más de daño Cortante y un 15% más de daño Perforante[/color].
+  - Como resultado de su falta de huesos, [color=#ffa500]sus extremidades se desprenden más fácilmente.[/color]
+  - Su cuerpo [color=#ffa500]procesa solo dos toxinas a la vez[/color] en comparación con tres.
+  - Reciben [color=#ffa500]daño por presión un 9% más rápido.[/color]
+
 
 </Document>

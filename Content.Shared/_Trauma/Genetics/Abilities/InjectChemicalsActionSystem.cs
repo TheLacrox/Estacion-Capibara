@@ -69,7 +69,7 @@ public sealed class InjectChemicalsActionSystem : EntitySystem
         foreach (var reagent in reagents)
         {
             var solution = new Solution(reagent, quantity);
-            _bloodstream.TryAddToChemicals(target, solution);
+            _bloodstream.TryAddToBloodstream(target, solution);
         }
     }
 }

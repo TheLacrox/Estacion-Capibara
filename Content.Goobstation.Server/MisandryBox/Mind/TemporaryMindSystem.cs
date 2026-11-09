@@ -16,13 +16,14 @@ namespace Content.Goobstation.Server.MisandryBox.Mind;
 /// disposable one for a temporary body. On cleanup the disposable mind is deleted
 /// and the player reconnects to their original mind, preserving all roles and objectives.
 /// </summary>
-public sealed class TemporaryMindSystem : EntitySystem
+public sealed partial class TemporaryMindSystem : EntitySystem
 {
-    [Dependency] private readonly MindSystem _mind = default!;
-    [Dependency] private readonly GhostSystem _ghost = default!;
-    [Dependency] private readonly MetaDataSystem _meta = default!;
-    [Dependency] private readonly SharedTransformSystem _transform = default!;
-    [Dependency] private readonly IPlayerManager _playerManager = default!;
+    [Dependency] private MindSystem _mind = default!;
+    [Dependency] private MindExamineSystem _mindEx = default!;
+    [Dependency] private GhostSystem _ghost = default!;
+    [Dependency] private MetaDataSystem _meta = default!;
+    [Dependency] private SharedTransformSystem _transform = default!;
+    [Dependency] private IPlayerManager _playerManager = default!;
 
     public override void Initialize()
     {
@@ -59,8 +60,8 @@ public sealed class TemporaryMindSystem : EntitySystem
 
         // Suppress catatonic examine on the original body while mind is swapped
         if (origMind.OwnedEntity is { } originalBody
-            && TryComp<MindContainerComponent>(originalBody, out var mindContainer))
-            _mind.SetShowExamineInfo((originalBody, mindContainer), false);
+            && TryComp<MindExaminableComponent>(originalBody, out var mindExaminable))
+            _mindEx.SetShowExamineInfo((originalBody, mindExaminable), MindState.None);
 
         var newMind = _mind.CreateMind(userId, origMind.CharacterName);
         _mind.TransferTo(newMind, newBody);
@@ -143,8 +144,10 @@ public sealed class TemporaryMindSystem : EntitySystem
             _mind.SetUserId(temp.OriginalMind, userId);
 
             if (origMind.OwnedEntity is { } originalBody
-                && TryComp<MindContainerComponent>(originalBody, out var mindContainer))
-                _mind.SetShowExamineInfo((originalBody, mindContainer), true);
+                && TryComp<MindExaminableComponent>(originalBody, out var mindExaminable))
+            // system got redone so just dirty it, and it should set itself?
+            Dirty(originalBody, mindExaminable);
+
         }
     }
 }

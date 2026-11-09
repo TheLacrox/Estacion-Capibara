@@ -5,18 +5,30 @@
     <GuideEntityEmbed Entity="MobShadowkinDummy" Caption=""/>
   </Box>
 
-  Estos son seres altamente intelectuales de origen desconocido, que poseen una fisiología bastante única nunca antes vista. Su lengua nativa es el Marish.
+  Estos son seres altamente intelectuales de origen desconocido, que poseen una fisiología bastante única nunca antes vista. Adaptadas a atmósferas cavernosas, estas criaturas provienen de la oscuridad. Algunos dicen que surgen de una grieta en el espacio azul, mientras que otros dicen que vienen de las profundidades de un planeta lejano. Su lengua nativa es el Marish.
+  En cuanto a su anatomía, poseen orejas grandes, [color=#1e90ff]ojos muy sensibles[/color], y una cola para el equilibrio. También cabe destacar que su sangre tiene una concentración de hierro mucho mayor en comparación con otras especies.
 
-  ##Fisiología
+  ## Habilidades Únicas
 
-  Parecen tener cierta afinidad con la oscuridad, rumorándose que son capaces de [color=#1e90ff]ver en completa oscuridad[/color], a diferencia de otras especies. Además, se ha observado que [color=#1e90ff]mantienen un enlace telepático[/color] con otros Shadowkin, pudiendo comunicarse a través de una mente colmena.
+  ### Empatía
 
-  Cuando se exponen al fuego, parecen ser menos resistentes que otras especies, [color=#ec3a3a]recibiendo un 50% más de daño por calor[/color], mientras que son [color=Yellow]ligeramente más tolerantes al frío que a los ambientes calientes[/color].
-  En cuanto a su anatomía, poseen orejas grandes, [color=#1e90ff]ojos muy sensibles[/color], y una cola para el equilibrio. También cabe destacar que su sangre tiene una concentración de hierro mucho mayor en comparación con otras especies. Este rasgo biológico reduce significativamente su consumo de oxígeno y les permite sobrevivir sin él durante períodos mucho más prolongados.
+  - Se ha observado que [color=#1e90ff]mantienen un enlace telepático[/color] con otros Shadowkin, pudiendo comunicarse a través de una mente colmena.
 
-  ## Otras Características
+  ## Ventajas
 
-  Sus ataques desarmados infligen [color=#ec3a3a]5 de daño cortante[/color]. Y su [color=#1e90ff]velocidad es ligeramente más rápida que la de los humanos[/color] debido a su menor densidad ósea y agilidad superior.
-  Otra peculiaridad interesante es su capacidad de sobrevivir en el espacio durante sorprendentemente más tiempo del esperado, habiendo demostrado [color=#1e90ff]una resiliencia excepcional al barotrauma[/color].
+  - Tienen la capacidad de sobrevivir en el espacio durante sorprendentemente más tiempo del esperado, recibiendo [color=#1e90ff]un 50% menos de daño por presión[/color].
+  - Su sangre concentrada en hierro reduce significativamente su consumo de oxígeno y les permite sobrevivir sin él durante períodos mucho más prolongados.
+  - Parecen tener cierta afinidad con la oscuridad, rumorándose que son capaces de [color=#1e90ff]ver en completa oscuridad[/color], a diferencia de otras especies.
+  - Su [color=#1e90ff]velocidad es ligeramente más rápida que la de los humanos[/color] debido a su menor densidad ósea y agilidad superior.
+  - Sus ataques desarmados infligen [color=#ec3a3a]5 de daño Cortante[/color].
+
+
+  ## Desventajas
+
+  - Prefieren ambientes de temperatura más baja en comparación con los humanos, lo que los hace más susceptibles a las altas temperaturas.
+  - Su menor estatura hace que reciban [color=#ffa500]un 25% más de daño Contundente.[/color]
+  - Reciben [color=#ffa500]un 50% más de daño por calor[/color]
+  - Debido a sus ojos sensibles, los destellos les afectan más.
+  - Su menor densidad ósea les dificulta arrastrar objetos y personas.
 
 </Document>

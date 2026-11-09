@@ -1,8 +1,3 @@
-# SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-# SPDX-FileCopyrightText: 2025 Ilya246 <ilyukarno@gmail.com>
-# SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 pheenty <fedorlukin2006@gmail.com>
-#
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - files: ["moth_wings.ogg"]
@@ -14,3 +9,8 @@
   license: "CC0-1.0"
   copyright: '"Retro, Drop 02.wav" by MATRIXXX_ of Freesound.org. Mixed from stereo to mono and reversed.'
   source: "https://freesound.org/people/MATRIXXX_/sounds/415990/"
+
+- files: ["queen_roar_start.ogg"]
+  license: "CC-BY-3.0"
+  copyright: "Created by AudioPapkin, Modified by loltart"
+  source: "https://pixabay.com/sound-effects/horror-monster-roar-ps-oo7-306401/"

@@ -5,71 +5,73 @@
     <GuideEntityEmbed Entity="MobPlasmaman" Caption=""/>
   </Box>
 
-  Respiran plasma, y el oxígeno es altamente tóxico para ellos cuando es inhalado.
+  Los Plasmamen son una especie que se distingue por su apariencia esquelética. Respiran plasma, y el oxígeno es altamente tóxico para ellos cuando es inhalado.
   Estar expuestos al oxígeno los prende fuego.
 
-  Para prevenir la ignición, usan trajes sellados compuestos por un traje ambiental (en la ranura de uniforme) y un casco de traje ambiental [bold]apto para el espacio[/bold].
-  Otros trajes como trajes EVA, trajes de vacío y trajes reforzados también los sellan de la exposición al oxígeno.
 
-  No experimentan hambre ni sed.
-  No tienen sangre y no pueden desangrarse.
+  ## Habilidades Únicas
 
-  Gracias a su cuerpo esquelético, pueden consumir Leche para obtener un efecto positivo de ánimo y curar lentamente daño Contundente, por Calor, por Descarga y Cáustico.
-  También pueden consumir Plasma para obtener un efecto positivo de ánimo mayor y curar todo tipo de daño más rápido, excepto daño Celular.
-
-  <Box>
-    <GuideEntityEmbed Entity="DrinkCartonMilk" />
-    <GuideEntityEmbed Entity="SheetPlasma1" />
-  </Box>
-
-  Infunden sus puños con polvo de plasma que combustiona cuando golpean, infligiendo [color=orange]5 de Calor[/color] y [color=red]2.25 de daño Contundente[/color]. Sin embargo, cada golpe exitoso inflige [color=orange]1 de daño por Calor[/color] a sus manos.
-
-  Los Plasmamen con los rasgos [bold]Garras[/bold], [bold]Talones[/bold] o [bold]Eliminación de Armas Naturales[/bold] tienen menos daño desarmado pero no reciben autodaño por ataques desarmados.
-
-  Reciben [color=#1e90ff]un 25% menos de daño Perforante, un 20% menos de daño por Veneno, y un 15% menos de daño Cortante[/color],
-  y son [color=#8658fc]inmunes al daño por Radiación y por Frío[/color],
-  pero reciben [color=#ffa500]un 50% más de daño Contundente y un 50% más de daño por Calor[/color].
-
-  Gracias a su [color=#8658fc]inmunidad al Frío[/color], pueden vivir en ambientes fríos sin necesidad de un abrigo de invierno.
-
-  Tienen una densidad ligeramente menor que la especie promedio. Esto resulta en debilidades tales como, pero no limitadas a: ser ligeramente más vulnerables a ser empujados, levantados y lanzados por el Viento Espacial, y tener más dificultad para arrastrar objetos pesados.
-
-  ## Equipamiento
+  ### Caparazón de Traje Ambiental
+  
+  - Para prevenir la ignición, usan trajes sellados compuestos por un traje ambiental (en la ranura de uniforme) y un casco de traje ambiental [bold]apto para el espacio[/bold].
+  - Otros trajes como trajes EVA, trajes de vacío y trajes reforzados también los sellan de la exposición al oxígeno.
+  
   <Box>
     <GuideEntityEmbed Entity="ClothingUniformEnvirosuit" Caption="traje ambiental"/>
     <GuideEntityEmbed Entity="ClothingHeadEnvirohelm" Caption="casco de traje ambiental"/>
     <GuideEntityEmbed Entity="DoubleEmergencyPlasmaTankFilled" />
   </Box>
 
-  Todos los Plasmamen empiezan con un traje ambiental, un casco de traje ambiental y un tanque de internos de plasma.
+  - Todos los Plasmamen empiezan con un traje ambiental, un casco de traje ambiental y un tanque de internos de plasma.
 
-  Sus trajes ambientales contienen un [color=#1e90ff]autoextintor[/color] con cargas limitadas, que pueden activar cuando están en llamas
+  - Sus trajes ambientales contienen un [color=#1e90ff]autoextintor[/color] con cargas limitadas, que pueden activar cuando están en llamas
   y llevando su casco de traje ambiental. El autoextintor necesita recargarse entre usos.
 
-  <Box HorizontalAlignment="Stretch">
-    Se pueden comprar recargas de cartuchos del autoextintor del traje ambiental en [bold]Equipamiento Inicial[/bold], o imprimir en el fabricador tecnológico médico después de investigación.
-    Una recarga hace que el autoextintor en recarga sea inmediatamente utilizable de nuevo.
-    <GuideEntityEmbed Entity="EnvirosuitExtinguisherRefill" />
-  </Box>
+  - Sus cascos de traje ambiental son [bold]aptos para el espacio[/bold] y proporcionan protección para soldadura. La visera del casco puede iluminarse como una linterna, usando la celda de energía insertada como batería.
+  - No pueden comer ni beber sin quitarse el casco del traje ambiental.
 
-  Sus cascos de traje ambiental son [bold]aptos para el espacio[/bold] y proporcionan protección para soldadura. La visera del casco puede iluminarse como una linterna, usando la celda de energía insertada como batería.
-  No pueden comer ni beber sin quitarse el casco del traje ambiental.
+  - El tanque de internos de plasma dura aproximadamente una hora antes de necesitar ser reemplazado o rellenado.
 
-  El tanque de internos de plasma dura aproximadamente una hora antes de necesitar ser reemplazado o rellenado.
-
-  ## Tratamiento Médico
+  ### Tratamiento Médico con Estasis
   <Box>
     <GuideEntityEmbed Entity="StasisBed" />
   </Box>
 
-  Antes de realizar cirugía en un Plasmaman, su traje ambiental necesita ser desequipado primero, lo cual es desastroso en un entorno oxigenado.
+  - Antes de realizar cirugía en un Plasmaman, su traje ambiental necesita ser desequipado primero, lo cual es desastroso en un entorno oxigenado.
 
-  Para evitar esto, el Plasmaman puede ser atado a una [bold]cama de estasis[/bold] antes de retirar su traje ambiental
+  - Para evitar esto, el Plasmaman puede ser atado a una [bold]cama de estasis[/bold] antes de retirar su traje ambiental
   para evitar que se autoincendie durante el procedimiento quirúrgico.
 
   <Box HorizontalAlignment="Stretch">
-    Sus cascos de traje ambiental les impiden comer pastillas, pero sus trajes ambientales permiten que se inyecten químicos a través de ellos.
+    - Sus cascos de traje ambiental les impiden comer pastillas, pero sus trajes ambientales permiten que se inyecten químicos a través de ellos.
     <GuideEntityEmbed Entity="Syringe" Caption=""/>
   </Box>
+
+
+
+  ### ¡Todo Huesos!
+  - No experimentan hambre ni sed.
+  - No tienen sangre y no pueden desangrarse.
+
+  - Gracias a su cuerpo esquelético, pueden consumir Leche para obtener un efecto positivo de ánimo y curar lentamente daño Contundente, por Calor, por Descarga y Cáustico.
+  - También pueden consumir Plasma para obtener un efecto positivo de ánimo mayor y curar todo tipo de daño más rápido, excepto daño Celular.
+
+  <Box>
+    <GuideEntityEmbed Entity="DrinkCartonMilk" />
+    <GuideEntityEmbed Entity="SheetPlasma1" />
+  </Box>
+
+  ## Ventajas
+
+  - Infunden sus puños con polvo de plasma que combustiona cuando golpean, infligiendo [color=orange]5 de Calor[/color] y [color=red]2.25 de daño Contundente[/color].
+  - Reciben [color=#1e90ff]un 25% menos de daño Perforante, un 20% menos de daño por Veneno, y un 15% menos de daño Cortante[/color]
+  - Son [color=#1e90ff]inmunes al daño por Radiación y por Frío[/color]. Gracias a su [color=#1e90ff]inmunidad al Frío[/color], pueden vivir en ambientes fríos sin necesidad de un abrigo de invierno.
+
+  ## Desventajas
+
+  - Cada golpe exitoso inflige [color=orange]2 de daño por Calor[/color] a sus manos.
+  - Reciben [color=#ffa500]un 50% más de daño Contundente y un 50% más de daño por Calor[/color].
+  - Tienen una densidad ligeramente menor que la especie promedio. Esto resulta en debilidades tales como, pero no limitadas a: ser ligeramente más vulnerables a ser empujados, levantados y lanzados por el Viento Espacial, y tener más dificultad para arrastrar objetos pesados.
+
 
 </Document>

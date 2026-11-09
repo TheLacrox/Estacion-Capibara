@@ -111368,7 +111368,7 @@ entities:
       parent: 17127
     - type: Physics
       canCollide: False
-- proto: EnergyChemDispenser
+- proto: ChemDispenser
   entities:
   - uid: 17129
     components:
@@ -168587,7 +168587,7 @@ entities:
     - type: Transform
       pos: 46.429523,54.487045
       parent: 2
-- proto: MaterialSilo
+- proto: MachineMaterialSilo
   entities:
   - uid: 25105
     components:
@@ -174883,7 +174883,6 @@ entities:
       parent: 2
     - type: ApcPowerReceiver
       powerLoad: 0
-    - type: Timer
   - uid: 26030
     components:
     - type: Transform
@@ -174892,7 +174891,6 @@ entities:
       parent: 2
     - type: ApcPowerReceiver
       powerLoad: 0
-    - type: Timer
   - uid: 26031
     components:
     - type: Transform
@@ -174901,7 +174899,6 @@ entities:
       parent: 2
     - type: ApcPowerReceiver
       powerLoad: 0
-    - type: Timer
   - uid: 26032
     components:
     - type: Transform

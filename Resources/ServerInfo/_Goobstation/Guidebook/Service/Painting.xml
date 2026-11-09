@@ -1,0 +1,53 @@
+<Document>
+# Pintura
+Cualquiera en la estación puede pintar. Coge un lienzo y algo con lo que pintar, y crea algo de arte para los pasillos.
+
+## Materiales
+  <Box>
+    <GuideEntityEmbed Entity="PaintCanvas"/>
+    <GuideEntityEmbed Entity="PaintCanvasLandscape"/>
+    <GuideEntityEmbed Entity="PaintCanvasSmall"/>
+    <GuideEntityEmbed Entity="PaintEasel"/>
+  </Box>
+Los lienzos vienen en tres tamaños: cuadrado, apaisado y pequeño. Fabrícalos con una tabla de madera y algo de tela, o pide la caja de material artístico a Carga. Un caballete, construido con 4 tablas de madera, sostiene un lienzo para que puedas pintar de pie.
+
+## Herramientas de pintura
+  <Box>
+    <GuideEntityEmbed Entity="CrayonRed"/>
+    <GuideEntityEmbed Entity="Paintbrush"/>
+    <GuideEntityEmbed Entity="PaintCan"/>
+    <GuideEntityEmbed Entity="PaintCanRed"/>
+  </Box>
+Puedes pintar con crayones en su propio color, o imprimir una lata de pintura vacía en un autotorno y llenarla con cualquier líquido.
+
+La paleta de artista mezcla cualquier color, tiene los pinceles más grandes y es la única herramienta que puede borrar. Solo se puede conseguir a través de Carga.
+
+## La ventana de pintura
+Usa una herramienta de pintura sobre un lienzo, o sobre un caballete que lo sostenga, para abrir la ventana. Para mirar un lienzo sin pintar, úsalo en tu mano o actívalo en el suelo.
+
+Elige una herramienta en la fila superior del panel izquierdo: pincel, borrador, línea, rectángulo, elipse o selector de color.
+El selector de color copia un color del lienzo, pero SOLO puede usarse con la paleta o el crayón arcoíris. De nuevo, solo la paleta puede borrar.
+
+Debajo de las herramientas hay cuatro estilos de pincel (redondo, cuadrado, espray y caligrafía) y un control deslizante de tamaño. El tamaño máximo depende de lo que sostengas. Los crayones están limitados a 3 píxeles, las latas de pintura a 6 y la paleta a 12.
+
+Ctrl+Z o el botón de deshacer revierte tus trazos recientes.
+## Acabado y enmarcado
+  <Box>
+    <GuideEntityEmbed Entity="PaintingFrameWood"/>
+    <GuideEntityEmbed Entity="PaintingFrameIron"/>
+    <GuideEntityEmbed Entity="PaintingFrameGold"/>
+    <GuideEntityEmbed Entity="PaintingFrameDiamond"/>
+  </Box>
+Cuando termines, ponle un título a tu cuadro y pulsa [bold]Terminar y firmar[/bold]. Un cuadro firmado NO SE PUEDE cambiar, así que asegúrate de haber terminado.
+
+Usa un marco sobre un cuadro firmado para enmarcarlo. Los marcos se pueden fabricar con madera, acero, hueso, latón, plata, oro o diamante.
+El payaso y el mimo tienen cada uno un marco único en sus taquillas; solo existe uno de cada a la vez, ¡así que úsalos para algo especial!
+
+## Copias
+  <Box>
+    <GuideEntityEmbed Entity="Photocopier"/>
+  </Box>
+Una fotocopiadora copia un cuadro en un lienzo en blanco del mismo tamaño. Coloca dentro un cuadro terminado y un lienzo en blanco y actívala.
+
+Para construir una, imprime una placa de fotocopiadora en una impresora de circuitos.
+</Document>

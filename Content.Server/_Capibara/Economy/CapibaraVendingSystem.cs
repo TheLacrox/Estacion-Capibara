@@ -30,14 +30,14 @@ public sealed class CapibaraVendingSystem : EntitySystem
         if (_protoManager.TryIndex<VendingPriceConfigPrototype>("DefaultVendingPrices", out var config))
             _vendorPrices = config.VendorPrices;
 
-        // Add VendingMachinePriceComponent to matching vendors on startup
-        SubscribeLocalEvent<VendingMachineComponent, ComponentStartup>(OnVendingStartup);
+        // Add VendingMachinePriceComponent to matching vendors on map init
+        SubscribeLocalEvent<VendingMachineComponent, VendingMachineMapInitEvent>(OnVendingMapInit);
 
         // Handle purchase attempts
         SubscribeLocalEvent<VendingMachinePriceComponent, AttemptVendingPurchaseEvent>(OnAttemptPurchase);
     }
 
-    private void OnVendingStartup(EntityUid uid, VendingMachineComponent component, ComponentStartup args)
+    private void OnVendingMapInit(EntityUid uid, VendingMachineComponent component, ref VendingMachineMapInitEvent args)
     {
         // Check if this vendor's prototype is in our price config
         if (!TryComp<MetaDataComponent>(uid, out var meta))

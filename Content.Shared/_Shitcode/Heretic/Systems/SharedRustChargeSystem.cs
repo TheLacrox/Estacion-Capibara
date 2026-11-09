@@ -1,12 +1,10 @@
-// SPDX-FileCopyrightText: 2025 Aviu00 <93730715+Aviu00@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aviu00 <aviu00@protonmail.com>
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Shared._Shitcode.Heretic.Components;
 using Content.Shared._Shitmed.Targeting;
 using Content.Shared.Damage;
+using Content.Shared.Damage.Components;
+using Content.Shared.Damage.Systems;
 using Content.Shared.Interaction.Events;
 using Content.Shared.Mobs.Components;
 using Content.Shared.Standing;
@@ -108,11 +106,10 @@ public abstract class SharedRustChargeSystem : EntitySystem
         {
             _stun.KnockdownOrStun(other, ent.Comp.KnockdownTime, true);
 
-            _damageable.TryChangeDamage(other,
+            _damageable.ChangeDamage(other,
                 ent.Comp.Damage,
                 false,
                 true,
-                damageable,
                 targetPart: TargetBodyPart.Chest);
 
             return;

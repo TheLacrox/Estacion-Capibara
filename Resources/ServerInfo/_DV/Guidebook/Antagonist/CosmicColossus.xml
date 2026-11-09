@@ -1,0 +1,49 @@
+<Document>
+  # Coloso Entrópico
+
+  <Box>
+    [color=#999999][italic]"Ni mala voluntad, ni deseo apasionado. Ni malicia, ni crueldad. Nada."[/italic][/color]
+  </Box>
+  <Box>
+    [color=#999999][italic]"Solo un final."[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobCosmicColossus" Caption=""/>
+  </Box>
+
+  Eres un Coloso Entrópico, una imponente monstruosidad de blindaje maligno e infestación dendrítica. Tu propósito es el mismo que el del [color=#4cabb3]Culto Cósmico[/color]: el fin de todas las cosas.
+
+  Algunos Colosos son remanentes. Quizá supervivientes de un conflicto nacido de la influencia de Lo Desconocido, o el producto de alguna extraña anomalía Noosférica. Estos Colosos vagan por la negrura distante del espacio hasta que sus energías se agotan... O hasta que chocan con la civilización.
+
+  [textlink="Para información sobre los colosos creados por el culto, haz clic aquí." link="CosmicCult"]
+
+  ## Influencias
+
+  Los Colosos Entrópicos poseen poderosas [color=#4cabb3]Influencias Malignas[/color], con las que un coloso capaz puede arrasar a sus enemigos.
+
+  - [color=#4cabb3][bold]Hendidura Entrópica:[/bold][/color] Teletranspórtate al lugar objetivo y desata una detonación en cascada de energía maligna. ¡Cuidado: esto dañará a los cultistas aliados!
+  - [color=#4cabb3][bold]Irrupción Colosal:[/bold][/color] Usa tu fuerza colosal para forzar la apertura de una puerta. Incluso las puertas con cerrojo serán arrancadas por tu poder titánico.
+  - [color=#4cabb3][bold]Caparazón Durmiente:[/bold][/color] Sume tu cuerpo en letargo durante un tiempo para regenerar integridad. Debe hacerse sobre terreno estable. Esto te restaura exactamente la mitad del daño recibido.
+
+  Los Colosos que se han topado con la estación por casualidad también tienen esta influencia:
+  - [color=#4cabb3][bold]Irrupción Colosal:[/bold][/color] Usa tu fuerza colosal para forzar la apertura de una puerta. Incluso las puertas con cerrojo serán arrancadas por tu poder titánico.
+
+  ## Objetivos
+  <Box>
+    <GuideEntityEmbed Entity="MobTileDamageArea" Caption=""/>
+  </Box>
+
+  Colosos que se han topado con la estación por casualidad:
+  - [color=#4cabb3][bold]Persistir[/bold][/color]  - Sifonead colectivamente cierta cantidad de Entropía de la tripulación. ¡Cuanta más entropía sifoneéis, más podréis potenciar el Monumento!
+  - [color=#4cabb3][bold]Convocar[/bold][/color] - Invoca una Efigie de la Entropía en un lugar designado a bordo de la estación.
+
+  Colosos creados a partir de Cyborgs por el Culto Cósmico:
+  - [color=#4cabb3][bold]Traer el Fin[/bold][/color] - Completa el ritual final para convocar a Lo Desconocido y destruir la estación.
+
+  ## Efigie de la Entropía
+  <Box>
+    <GuideEntityEmbed Entity="CosmicEffigy" Caption=""/>
+  </Box>
+  Algunos Colosos pueden invocar una [color=#4cabb3]Efigie de la Entropía[/color]. La efigie es una anomalía maligna peligrosamente inestable, ¡y el departamento de Epistémica debe ocuparse de ella de inmediato!
+
+</Document>

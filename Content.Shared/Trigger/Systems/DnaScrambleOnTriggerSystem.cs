@@ -9,43 +9,30 @@ using Robust.Shared.Network;
 
 namespace Content.Shared.Trigger.Systems;
 
-public sealed class DnaScrambleOnTriggerSystem : EntitySystem
+public sealed class DnaScrambleOnTriggerSystem : XOnTriggerSystem<DnaScrambleOnTriggerComponent>
 {
     [Dependency] private readonly MetaDataSystem _metaData = default!;
     [Dependency] private readonly SharedHumanoidAppearanceSystem _humanoidAppearance = default!;
-    [Dependency] private readonly SharedIdentitySystem _identity = default!;
+    [Dependency] private readonly IdentitySystem _identity = default!;
     [Dependency] private readonly SharedForensicsSystem _forensics = default!;
     [Dependency] private readonly SharedPopupSystem _popup = default!;
     [Dependency] private readonly INetManager _net = default!;
 
-    public override void Initialize()
+    protected override void OnTrigger(Entity<DnaScrambleOnTriggerComponent> ent, EntityUid target, ref TriggerEvent args)
     {
-        base.Initialize();
-
-        SubscribeLocalEvent<DnaScrambleOnTriggerComponent, TriggerEvent>(OnTrigger);
-    }
-
-    private void OnTrigger(Entity<DnaScrambleOnTriggerComponent> ent, ref TriggerEvent args)
-    {
-        if (args.Key != null && !ent.Comp.KeysIn.Contains(args.Key))
-            return;
-
-        var target = ent.Comp.TargetUser ? args.User : ent.Owner;
-
-        if (target == null)
-            return;
-
         if (!TryComp<HumanoidAppearanceComponent>(target, out var humanoid))
             return;
 
         args.Handled = true;
-        Scramble(target.Value, humanoid);
+        Scramble(target, humanoid);
     }
 
+    /// Trauma - Moved out from OnTrigger
     /// <summary>
-    /// Scrambles the target entity's DNA, appearance, fingerprints, and name.
+    /// Scramble Entity Dna
     /// </summary>
-    // Trauma - extracted as public method for ScrambleDna entity effect
+    /// <param name="target"></param>
+    /// <param name="humanoid"></param>
     public void Scramble(EntityUid target, HumanoidAppearanceComponent? humanoid = null)
     {
         if (!Resolve(target, ref humanoid, false))
@@ -69,5 +56,17 @@ public sealed class DnaScrambleOnTriggerSystem : EntitySystem
 
         // Can't use PopupClient or PopupPredicted because the trigger might be unpredicted.
         _popup.PopupEntity(Loc.GetString("scramble-on-trigger-popup"), target, target);
+
+        var ev = new DnaScrambledEvent(target);
+        RaiseLocalEvent(target, ref ev, true);
     }
 }
+
+/// <summary>
+/// Raised after an entity has been DNA Scrambled.
+/// Useful for forks that need to run their own updates here.
+/// </summary>
+/// <param name="flag">The entity that had its DNA scrambled.</param>
+
+[ByRefEvent]
+public record struct DnaScrambledEvent(EntityUid Target);

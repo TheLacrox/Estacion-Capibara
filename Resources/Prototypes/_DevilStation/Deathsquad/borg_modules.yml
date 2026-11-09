@@ -13,14 +13,13 @@
     - state: centcomm
     - state: icon-xenoborg-laser
   - type: ItemBorgModule
-    moduleId: Commando
-    items:
-    - WeaponPulseRifleCyborg
-    - PhoronSabre
-    - Flash
-    - JawsOfLife
-    - WelderExperimental
-    - SonicJackhammer
-    - SelfRechargingFireExtinguisher
+    hands:
+    - item: WeaponPulseRifleCyborg
+    - item: PhoronSabre
+    - item: Flash
+    - item: JawsOfLife
+    - item: WelderExperimental
+    - item: SonicJackhammer
+    - item: SelfRechargingFireExtinguisher
   - type: BorgModuleIcon
     icon: { sprite: Interface/Actions/actions_borg.rsi, state: xenoborg-autopulser-module }

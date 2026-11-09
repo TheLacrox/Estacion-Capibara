@@ -13,7 +13,10 @@ using Content.Shared.Interaction;
 using Content.Shared.Light;
 using Content.Shared.Light.Components;
 using Content.Shared.Light.EntitySystems;
+using Content.Shared.Atmos;
+using Content.Shared.Atmos.Components;
 using Content.Shared.Physics;
+using Content.Shared.SurveillanceCamera.Components;
 using Robust.Server.GameObjects;
 using Robust.Shared.Physics.Events;
 using Robust.Shared.Spawners;
@@ -23,15 +26,15 @@ namespace Content.Goobstation.Server.Slasher.Systems;
 /// <summary>
 /// Server-side system for slasher incorporeal mechanics.
 /// </summary>
-public sealed class SlasherIncorporealCameraSystem : EntitySystem
+public sealed partial class SlasherIncorporealCameraSystem : EntitySystem
 {
-    [Dependency] private readonly SharedInteractionSystem _interaction = default!;
-    [Dependency] private readonly EntityLookupSystem _lookup = default!;
-    [Dependency] private readonly SharedTransformSystem _transform = default!;
-    [Dependency] private readonly PoweredLightSystem _light = default!;
-    [Dependency] private readonly SharedHandheldLightSystem _handheld = default!;
-    [Dependency] private readonly UnpoweredFlashlightSystem _unpowered = default!;
-    [Dependency] private readonly FlammableSystem _flammable = default!;
+    [Dependency] private SharedInteractionSystem _interaction = default!;
+    [Dependency] private EntityLookupSystem _lookup = default!;
+    [Dependency] private SharedTransformSystem _transform = default!;
+    [Dependency] private PoweredLightSystem _light = default!;
+    [Dependency] private SharedHandheldLightSystem _handheld = default!;
+    [Dependency] private UnpoweredFlashlightSystem _unpowered = default!;
+    [Dependency] private FlammableSystem _flammable = default!;
 
     private EntityQuery<PointLightComponent> _pointLightQuery;
     private EntityQuery<PoweredLightComponent> _poweredLightQuery;
