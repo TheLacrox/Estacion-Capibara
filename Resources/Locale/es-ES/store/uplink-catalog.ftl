@@ -152,7 +152,7 @@ uplink-whitehole-grenade-name = Granada de agujero blanco
 uplink-whitehole-grenade-desc = Granada que repele todo lo que hay alrededor durante unos 10 segundos. Muy útil en habitaciones pequeñas y para perseguir a alguien.
 
 uplink-penguin-grenade-name = Granada pingüino
-uplink-penguin-grenade-desc = Un pequeño pingüino muy agresivo con una granada atada al cuello. Capturado por el Sindicato en planetas helados de mala muerte.
+uplink-penguin-grenade-desc = Un pequeño pingüino muy agresivo con una granada atada al cuello. Entrenado para ignorar a todos los agentes del Sindicato y perseguir sin descanso a un único objetivo cercano al azar cuando se lo suelta.
 
 uplink-c4-name = C-4
 # Goobstation - C4 sentience
@@ -187,10 +187,10 @@ uplink-shrapnel-grenade-desc = Lanza una lluvia de fragmentos afilados que causa
 
 # Ammo
 uplink-pistol-magazine-name = Cargador de pistola (.35 auto)
-uplink-pistol-magazine-desc = Cargador de pistola con 12 cartuchos. Compatible con la Viper.
+uplink-pistol-magazine-desc = Cargador de pistola con 15 cartuchos. Compatible con la Viper.
 
 uplink-pistol-magazine-c20r-name = Cargador de SMG (.35 auto)
-uplink-pistol-magazine-c20r-desc = Cargador de rifle con 30 cartuchos. Compatible con la C-20r.
+uplink-pistol-magazine-c20r-desc = Cargador de subfusil con 30 cartuchos. Compatible con la C-20r.
 
 uplink-pistol-magazine-caseless-name = Cargador de pistola (9,5 mm HP)
 uplink-pistol-magazine-caseless-desc = Cargador de pistola con 10 cartuchos sin vaina de punta hueca. Compatible con la Cobra.
@@ -268,7 +268,7 @@ uplink-radio-jammer-name = Bloqueador de radio
 uplink-radio-jammer-desc = Este dispositivo interrumpirá cualquier comunicación de radio saliente cercana, así como los sensores del traje cuando está activado.
 
 uplink-syndicate-weapon-module-name = Módulo de arma para cyborg
-uplink-syndicate-weapon-module-desc = Mejora un cyborg con una daga de energía y una pistola con recarga automática.
+uplink-syndicate-weapon-module-desc = Mejora a un cyborg con una daga de energía y una pistola echis.
 
 uplink-syndicate-martyr-module-name = Módulo mártir para cyborg
 uplink-syndicate-martyr-module-desc = Convierte a tu amigo borg emagiado en una bomba andante con solo este módulo. Asegúrate de que sea leal a tu causa; los resultados pueden variar.
@@ -327,7 +327,7 @@ uplink-chemistry-kit-name = Kit de síntesis química
 uplink-chemistry-kit-desc = Un kit inicial para el aspirante a químico; incluye notablemente una carga química con temporizador, una jeringa de hiperzina y dos viales de vestina para todas tus necesidades criminales.
 
 uplink-knives-kit-name = Kit de cuchillos arrojadizos
-uplink-knives-kit-desc = Un juego de 4 cuchillos arrojadizos de marca del Sindicato, perfectos para incrustar en el cuerpo de tus víctimas. Capaces de ignorar la armadura por completo cuando se lanzan.
+uplink-knives-kit-desc = Un juego de 8 cuchillos arrojadizos de la marca del Sindicato, perfectos para clavarse en el cuerpo de tus víctimas. Ignoran por completo la armadura al ser lanzados.
 
 uplink-meds-bundle-name = Paquete médico Interdyne
 uplink-meds-bundle-desc = Una selección de autoinyectores y equipo médico premium para cubrir cualquier situación posible. Contiene un desfibrilador compacto de élite que puede usarse como arma.
@@ -367,7 +367,7 @@ uplink-toolbox-name = Caja de herramientas
 uplink-toolbox-desc = Un completo juego de herramientas para el traidor mecánicamente inclinado. Incluye también un par de guantes de combate aislados y una máscara de gas del Sindicato.
 
 uplink-syndicate-jaws-of-life-name = Mordazas de la vida
-uplink-syndicate-jaws-of-life-desc = Una herramienta combinada de palanca y corte. Útil para acceder a la estación o sus departamentos.
+uplink-syndicate-jaws-of-life-desc = Una herramienta combinada de palanca y corte. Útil para entrar en la estación o en sus departamentos. ¡Incluso puede abrir puertas bloqueadas!
 
 uplink-duffel-surgery-name = Bolsa de cirugía
 uplink-duffel-surgery-desc = Una gran bolsa de lona que contiene un completo juego de herramientas quirúrgicas.
@@ -434,7 +434,7 @@ uplink-clothing-shoes-boots-mag-syndie-name = Magbotas rojo sangre
 uplink-clothing-shoes-boots-mag-syndie-desc = Un par de botas que evitan los resbalones y, en gravedad cero, te permiten moverte con normalidad, a costa de una ligera ralentización. Además tienen funcionalidad de jetpack y vienen recargadas, aunque no duran mucho.
 
 uplink-eva-syndie-name = Paquete EVA del Sindicato
-uplink-eva-syndie-desc = Un traje EVA de durahilo con algo de protección y protección antirradiación instalada. Muy ágil, sin ralentización.
+uplink-eva-syndie-desc = Un traje EVA y casco con los colores del Sindicato. Te mantiene con vida en el espacio, pero no tiene blindaje y te ralentiza como cualquier otro traje EVA.
 
 uplink-hardsuit-carp-name = Traje duro de carpa
 uplink-hardsuit-carp-desc = Parece un traje de carpa ordinario, pero es completamente hermético al espacio y engaña a las carpas espaciales para que crean que eres una de ellas.
@@ -486,10 +486,10 @@ uplink-nocturine-chemistry-bottle-name = Botella de nocturina
 uplink-nocturine-chemistry-bottle-desc = Un químico que hace dormir a tu objetivo directamente.
 
 uplink-stimpack-name = Inyector de hiperzina
-uplink-stimpack-desc = El legendario químico producido por Donk Co. para el Sindicato. Inyectártelo aumentará tu velocidad de carrera y te permitirá recuperarte de los aturdimientos más rápido durante 40 segundos.
+uplink-stimpack-desc = El legendario químico producido por Donk Co. para el Sindicato. Inyectártelo aumentará tu velocidad de carrera y te permitirá recuperarte antes de los aturdimientos durante 60 segundos.
 
 uplink-stimkit-name = Kit de inyectores de hiperzina
-uplink-stimkit-desc = Un botiquín con 8 microinyectores de hiperzina, cada uno de los cuales te inyecta suficiente hiperzina para durar 20 segundos.
+uplink-stimkit-desc = Un botiquín con 6 microinyectores de hiperzina, cada uno con hiperzina suficiente para durar 30 segundos.
 
 uplink-syndicate-segway-crate-name = Segway del Sindicato
 uplink-syndicate-segway-crate-desc = ¡Sé un enemigo de la corporación, con estilo!
@@ -559,7 +559,7 @@ uplink-barber-scissors-name = Tijeras de barbero
 uplink-barber-scissors-desc = Una buena herramienta para darle a tu compañero agente un buen corte de pelo, a menos que quieras dártelo a ti mismo.
 
 uplink-backpack-syndicate-name = Mochila del Sindicato
-uplink-backpack-syndicate-desc = Una mochila ligera a prueba de explosiones para guardar varios materiales de traidor
+uplink-backpack-syndicate-desc = Una mochila ligera a prueba de explosiones para guardar diversos artículos de traidor.
 
 uplink-cameraBug-name = Insecto de cámara
 uplink-cameraBug-desc = Un dispositivo portátil que te permite ver las cámaras de la estación.
@@ -581,3 +581,23 @@ uplink-smuggler-satchel-desc = Un bolso práctico y de aspecto sospechoso. Sufic
 
 uplink-acolyte-armor-name = Armadura de acólito
 uplink-acolyte-armor-desc = Imprescindible para todo líder de culto que se respete. Una pieza de armadura de aspecto malévolo, hecha de huesos y sorprendentemente resistente al daño.
+
+uplink-magazine-bulldog-pellet-name = Cargador de tambor (perdigón .50)
+
+uplink-magazine-bulldog-pellet-desc = Cargador de escopeta con 8 cartuchos de perdigones. Compatible con la Bulldog.
+
+uplink-syndicate-id-card-name = Tarjeta de ID del Sindicato
+
+uplink-syndicate-id-card-desc = Una tarjeta de ID del Sindicato, con acceso del Sindicato. Es poco probable que sirva por sí sola, pero combina muy bien con puertas reconfiguradas. No incluye función de copia de acceso.
+
+uplink-voice-mask-implanter-name = Implantador de máscara de voz
+
+uplink-voice-mask-implanter-desc = Modifica tus cuerdas vocales para que puedas sonar como cualquiera que imagines.
+
+uplink-briefcase-gun-name = Maletín con arma
+
+uplink-briefcase-gun-desc = Un maletín anodino con una C-20K muy compacta montada en su interior. ¡Cuidado, no agarres el asa con demasiada fuerza!
+
+uplink-energycrossbow-name = Miniballesta de energía
+
+uplink-energycrossbow-desc = El arma corta predilecta de todo operativo que prefiere que sus víctimas no se muevan. Dispara flechas tóxicas regenerativas que derriban a las víctimas al instante.

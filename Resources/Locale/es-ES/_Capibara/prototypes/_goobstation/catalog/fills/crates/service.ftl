@@ -18,3 +18,6 @@ ent-CrateRadioStationAds = caja de anuncios
 
 ent-CrateRadioStationVinyls = caja de vinilos
     .desc = Una caja con 12 vinilos para que NUNCA reproduzcas la misma canción dos veces. ¡Vienen en fundas!
+
+ent-CrateCargoWalkieTalkie = caja de radios portátiles
+    .desc = Contiene 5 radios portátiles.

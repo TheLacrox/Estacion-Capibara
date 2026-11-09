@@ -50,7 +50,7 @@ roles-antag-nuclear-operative-commander-name = Comandante de operativo nuclear
 roles-antag-nuclear-operative-commander-objective = Lidera a tu equipo hacia la destrucción de la estación.
 
 roles-antag-nuclear-operative-agent-name = Soldado de operativo nuclear
-roles-antag-nuclear-operative-agent-objective = Como el operativo estándar, el tratamiento del equipo tendrá prioridad.
+roles-antag-nuclear-operative-agent-objective = El médico del equipo de operativos nucleares. ¡Cura a tu equipo hasta la victoria!
 
 roles-antag-nuclear-operative-name = Operativo nuclear
 roles-antag-nuclear-operative-objective = Encuentra el disco del nuke y vuela la estación.

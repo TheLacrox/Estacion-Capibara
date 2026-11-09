@@ -15,3 +15,9 @@ ent-PinpointerStation = localizador del servidor de investigación
 
 ent-PinpointerMothership = localizador del núcleo
     .desc = Un dispositivo de rastreo de mano que apunta hacia el núcleo de la nave nodriza.
+
+ent-PinpointerMothershipPiece = pieza de localizador del núcleo
+    .desc = Una pieza de un localizador del núcleo. Necesitas cuatro piezas para repararlo.
+
+ent-PinpointerMothershipRepaired = localizador del núcleo reparado
+    .desc = Un dispositivo de rastreo portátil que indica la dirección del núcleo de la Nave Nodriza. Este ha conocido tiempos mejores.

@@ -4,3 +4,11 @@
 
 marking-dogTail = Cola de perro
 marking-dogTailWag = Cola de perro (moviéndose)
+
+marking-SynthTailSynthliz = Cola sintética (Synthliz)
+
+marking-SynthTailSynthliz-tail_synthliz = Cola
+
+marking-SynthTailSynthlizWag = Cola sintética (Synthliz, meneo)
+
+marking-SynthTailSynthlizWag-tail_synthliz_wagging = Cola

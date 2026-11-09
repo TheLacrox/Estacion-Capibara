@@ -22,3 +22,5 @@ mixing-verb-shake = agitar
 default-mixing-success = Mezclas {$mixed} con {$mixer}
 bible-mixing-success = Bendices {$mixed} con {$mixer}
 spoon-mixing-success = Remueves {$mixed} con {$mixer}
+
+handheld-centrifuge-success = Separas los químicos en el {$mixed}

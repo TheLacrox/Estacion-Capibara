@@ -15,3 +15,12 @@ ent-ClothingShoesSlasher = zapatos de slasher
 
 ent-SlasherMeatSpike = Espigón de Carne Siniestro
     .desc = Quizás quieras correr.
+
+ent-SlasherKitchenKnife = cuchillo de cocina
+    .desc = Un cuchillo de chef de uso general. Ha encontrado un propósito mucho más macabro.
+
+ent-ClothingHeadHatSlasherMaskBoogeyman = máscara del coco
+    .desc = Una máscara sin rasgos usada por aquello que se esconde bajo la cama. Observa y espera.
+
+ent-ClothingUniformSlasherBoogeyman = atuendo hecho jirones
+    .desc = Un atuendo oscuro y andrajoso que parece beberse la luz a su alrededor.

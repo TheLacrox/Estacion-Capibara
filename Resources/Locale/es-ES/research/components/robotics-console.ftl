@@ -23,3 +23,5 @@ robotics-console-disable = Desactivar
 robotics-console-destroy = Destruir
 
 robotics-console-cyborg-destroying = ¡{$name} está siendo detonado remotamente!
+
+robotics-console-hp = [color=gray]Integridad:[/color] [color={$color}]{$hp}[/color]%

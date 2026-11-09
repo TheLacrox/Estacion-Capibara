@@ -1,2 +1,2 @@
 uplink-hushpup-name = Hushpup
-uplink-hushpup-desc = Una modificación poco conocida del Enforcer, equipada con un silenciador voluminoso. Viene con una moneda y una bolsa sindicato de cortesía. Carga 5 cartuchos de calibre 12.
+uplink-hushpup-desc = Una potente escopeta silenciada con poca capacidad de cargador. Incluye una caja extra de perdigones. Usa munición de escopeta .50.

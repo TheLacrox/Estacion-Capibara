@@ -195,3 +195,9 @@ ent-VendingMachineChemicalsSyndicate = SyndieJuice
 
 ent-VendingMachineWallMedical = NanoMed
     .desc = Es un dispensador de equipo médico empotrado en la pared. ¡Solo sustancias naturales!
+
+ent-VendingMachineMedicalBase = NanoMed Civil
+    .desc = Es un dispensador de fármacos médicos. ¡Solo químicos naturales!
+
+ent-VendingMachineWallMedicalCivilian = NanoMed Tirita
+    .desc = Es un dispensador de equipo médico montado en la pared. ¡Solo químicos naturales!

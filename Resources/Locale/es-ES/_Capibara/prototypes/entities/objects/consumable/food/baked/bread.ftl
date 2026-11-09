@@ -102,3 +102,9 @@ ent-FoodBreadTwoSlice = dos rebanadas
 
 ent-MobBreadDog = perro de pan
     .desc = Es un pan. Es un perro. Es un... panperro.
+
+ent-FoodBreadNutriBatard = nutri-bâtard
+    .desc = bon 'pétite!
+
+ent-FoodBreadCottonNutriBatard = nutri-bâtard de algodón
+    .desc = bon 'pétite!

@@ -5,4 +5,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-spray-component-is-empty-message = ¡Está vacío!
+spray-component-is-empty-message = ¡{CAPITALIZE(THE($entity))} está vacío!
+
+pin-spray-popup-empty = ¡{CAPITALIZE(THE($entity))} se está marchitando y necesita riego!

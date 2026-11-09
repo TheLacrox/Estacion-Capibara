@@ -87,3 +87,6 @@ ent-CrazyGlue = superpegamento loco
 
 ent-NewtonCradle = péndulo de Newton
     .desc = Un dispositivo que los aburridos burócratas usan para recordarse que el tiempo no se ha detenido todavía. Contiene gravedad.
+
+ent-CrazyLube = lubricante loco
+    .desc = Una botella de lubricante loco superresbaladizo fabricado por Honk! Co.

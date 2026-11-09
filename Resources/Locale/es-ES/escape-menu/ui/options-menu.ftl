@@ -113,7 +113,7 @@ ui-options-interface-label = Interfaz
 
 ui-options-auto-fill-highlights = Autocompletar los resaltados con la información del personaje
 ui-options-highlights-color = Color de resaltado:
-ui-options-highlights-color-example = ¡Este es un texto resaltado!
+ui-options-highlights-color-example = Este es un texto resaltado.
 ui-options-show-held-item = Mostrar objeto en mano junto al cursor
 ui-options-show-combat-mode-indicators = Mostrar indicadores de modo combate junto al cursor
 ui-options-opaque-storage-window = Ventana de almacenamiento opaca
@@ -436,3 +436,29 @@ ui-options-admin-enable-overlay-starting-job = Mostrar trabajo inicial
 ui-options-admin-overlay-merge-distance = Distancia de agrupación de overlays
 ui-options-admin-overlay-ghost-fade-distance = Rango de desvanecimiento del overlay de fantasmas desde el ratón
 ui-options-admin-overlay-ghost-hide-distance = Rango de ocultación del overlay de fantasmas desde el ratón
+
+ui-options-hold-to-attack-melee = Mantener para atacar (cuerpo a cuerpo)
+
+ui-options-hold-to-attack-ranged = Mantener para atacar (a distancia)
+
+ui-options-function-smart-equip-suit-storage = Equipado inteligente en almacenamiento de traje
+
+ui-options-function-smart-equip-pocket1 = Equipado inteligente en bolsillo 1
+
+ui-options-function-smart-equip-pocket2 = Equipado inteligente en bolsillo 2
+
+ui-options-function-inspect-entity-tooltip = Abre una ventana de ViewVariables para la entidad sobre la que está el cursor.
+
+ui-options-function-inspect-server-component = Inspeccionar componente de servidor
+
+ui-options-function-inspect-server-component-tooltip = Abre una ventana de ViewVariables con el componente de servidor definido por el comando "quickinspect" para la entidad sobre la que está el cursor.
+
+ui-options-function-inspect-client-component = Inspeccionar componente de cliente
+
+ui-options-function-inspect-client-component-tooltip = Abre una ventana de ViewVariables con el componente de cliente definido por el comando "quickinspect" para la entidad sobre la que está el cursor.
+
+ui-options-accessability-header-visuals = Visuales
+
+ui-options-accessability-header-content = Contenido
+
+ui-options-censor-nudity = Censurar la desnudez de los personajes

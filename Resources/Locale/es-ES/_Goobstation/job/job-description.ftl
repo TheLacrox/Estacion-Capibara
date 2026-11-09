@@ -36,3 +36,7 @@ job-description-radiohost = Dirige la estación de radio local de la estación, 
 
 # Viro
 job-description-virologist = Estudia la propagación de virus, produce curas para los tripulantes enfermos, experimenta en la creación de virus beneficiosos. Asegúrate de que no se extiendan pandemias.
+
+job-description-bso = Actúa como guardaespaldas y asesor de los VIP de Mando y de CentCom.
+
+job-description-ntr = Representa a NT, envíales informes sobre la situación de la estación e informa a los jefes de cualquier cosa que CentCom les ordene hacer.

@@ -82,7 +82,7 @@ marking-VoxBeakSplit-split2 = Inferior
 marking-VoxBeakTipped = Pico con Punta
 marking-VoxBeakTipped-tipped = Pico con Punta
 
-marking-VoxBeak = Pico Predeterminado
+marking-VoxBeak = Pico (puntiagudo)
 
 # Eyes
 
@@ -285,10 +285,14 @@ marking-VoxTailSmallPlume-smallplume = Plumaje Pequeño
 marking-VoxTailSpines = Espinas de Cola
 marking-VoxTailSpines-spines = Espinas de Cola
 
-marking-VoxTailSplit = Bifurcada
+marking-VoxTailSplit = Cola vox (dividida)
 marking-VoxTailSplit-split = Bifurcada
 
 marking-VoxSunAndMoon = Sol y Luna
 marking-VoxSunAndMoon-sunandmoon = Sol y Luna
 
 # RArmExtension
+
+marking-VoxTailSplit-Imp = Gemelas
+
+marking-VoxTailSplit-split-Imp = Gemelas

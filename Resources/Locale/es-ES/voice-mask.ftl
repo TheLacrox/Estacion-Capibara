@@ -23,3 +23,10 @@ voice-mask-popup-failure = No se pudo establecer el nombre.
 voice-mask-icon-label = Trabajo (para tu icono de radio)
 voice-mask-name-current-name = Nombre actual
 
+voice-mask-name-change-toggle = Alternar máscara de voz
+
+voice-mask-name-change-accent-toggle = Bloquear acento
+
+voice-mask-popup-toggle = Has alternado la máscara de voz.
+
+voice-mask-popup-accent-toggle = Has alternado el acento.

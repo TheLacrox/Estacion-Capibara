@@ -51,3 +51,6 @@ ent-TableCounterWood = mostrador de madera
 
 ent-TableCounterMetal = mostrador de metal
     .desc = Parece un buen lugar para poner una bebida.
+
+ent-TableXeno = mesa xeno
+    .desc = No pondría los cubiertos encima.

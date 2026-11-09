@@ -11,3 +11,6 @@ ent-WallWeaponCapacitorRecharger = cargador de pared
 
 ent-BorgCharger = estación de recarga para ciborgs
     .desc = Un cargador estacionario para diversas entidades robóticas y de ciborgs. Sorprendentemente espacioso.
+
+ent-BorgChargerXenoborg = estación de recarga de xenoborgs
+    .desc = Un cargador estático para xenoborgs. Resulta claustrofóbico.

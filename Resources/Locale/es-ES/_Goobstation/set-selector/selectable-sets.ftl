@@ -252,3 +252,15 @@ selectable-set-research-director-modsuit-desc =
     Un traje duro modular blindado perfectamente para convertirte en un tanque de investigación,
     ni los experimentos más peligrosos te harán daño con esto,
     y los peores asistentes pensarán dos veces antes de irrumpir en ciencias.
+
+selectable-set-brigmedic-voidsuit-name = Hardsuit de médico de brigada
+
+selectable-set-brigmedic-voidsuit-desc =
+    El ángel de la guarda del traje duro de la brigada. Una versión médica del
+    traje duro de seguridad, con blindaje suficiente para sacar a los heridos de un tiroteo.
+
+selectable-set-brigmedic-modsuit-name = Modsuit 'Larper' del médico de brigada
+
+selectable-set-brigmedic-modsuit-desc =
+    Un traje duro modular construido para atender a los oficiales sobre el terreno,
+    lo bastante resistente para mantenerte en pie mientras todos los demás sangran.

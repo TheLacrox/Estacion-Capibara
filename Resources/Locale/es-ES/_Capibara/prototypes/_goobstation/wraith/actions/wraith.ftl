@@ -63,3 +63,6 @@ ent-ActionSummonPlagueRat = Invocar rata de plaga
 
 ent-ActionSummonRotHulk = Invocar Gólem de Podredumbre
     .desc = Asimila la suciedad de un área y crea un sirviente inestable.
+
+ent-ActionWraithWhisper = Susurro etéreo
+    .desc = Envía un mensaje etéreo a un ser vivo.

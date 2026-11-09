@@ -20,3 +20,7 @@ cosmicability-monument-spawn-error-grid = ¡Ubicación inválida! El Monumento d
 cosmicability-monument-spawn-error-station = ¡Ubicación inválida! El Monumento debe ser invocado en la estación.
 cosmicability-monument-spawn-error-intersection = ¡Demasiado concurrido! El Monumento requiere un área de 3x1 vacía para ser invocado.
 cosmicability-monument-spawn-error-space = ¡Demasiado cerca del espacio! El Monumento debe estar al menos a {$DISTANCE}m de distancia.
+
+cosmicability-siphon-crit = ¡{CAPITALIZE(THE($user))} destella energía por los ojos y {THE($target)} cae muerto!
+
+cosmicability-hibernate-confirm = ¡ESTA ACCIÓN TE MANTENDRÁ INMÓVIL! Úsala de nuevo para confirmar.

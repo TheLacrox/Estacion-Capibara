@@ -4,10 +4,16 @@ role-subtype-blob = Blob
 role-subtype-heretic = Hereje
 role-subtype-ghoul = Ghoul
 role-subtype-pirate = Pirata
-role-subtype-changeling = Cambiaformas
+role-subtype-changeling = Changeling
 role-subtype-brainwashed = Lavado de cerebro
 role-subtype-slaughter-demon = Demonio del Matadero
 role-subtype-slasher = El Asesino
 role-type-sentient-animal-name = Animal Sintiente
 role-type-sentient-animal-color = #ffff00
 role-subtype-contractor = Contratista
+
+role-subtype-gang-leader = Líder de pandilla
+
+role-subtype-gang-member = Miembro de pandilla
+
+role-subtype-gemini = Gemini

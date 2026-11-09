@@ -201,3 +201,6 @@ ent-FoodMeatXenoCutletCooked = chuleta xeno
 
 ent-FoodMeatDragonCutletCooked = chuleta de dragón
     .desc = Es una comida para reyes.
+
+ent-FoodMeatChickenFriedVox = pollo frito misterioso
+    .desc = “Once hierbas secretas y… oh, no. Eso no es pollo.

@@ -33,3 +33,9 @@ condition-body-bleeding-LeftHand = • La mano izquierda de {$entity} está sang
 condition-body-bleeding-RightHand = • La mano derecha de {$entity} está sangrando.
 condition-body-bleeding-LeftFoot = • El pie izquierdo de {$entity} está sangrando.
 condition-body-bleeding-RightFoot = • El pie derecho de {$entity} está sangrando.
+
+condition-body-trauma-Shrapnel = • Hay metralla incrustada en {$woundable}.
+
+condition-body-trauma-Braindeath = • [color=red]El cerebro está muerto.[/color] Debe repararse quirúrgicamente antes de que sea posible la reanimación.
+
+condition-body-low-blood = • {$entity} tiene un nivel de sangre [color=red]peligrosamente bajo[/color].

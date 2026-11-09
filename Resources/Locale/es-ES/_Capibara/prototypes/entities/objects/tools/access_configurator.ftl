@@ -3,3 +3,6 @@ ent-AccessConfigurator = configurador de acceso
 
 ent-AccessConfiguratorUniversal = configurador de acceso universal
     .desc = Un configurador de acceso modificado usado solo por el mítico Administrador.
+
+ent-AccessConfiguratorXenoborg = configurador de acceso de xenoborg
+    .desc = Un configurador de acceso modificado usado por los xenoborgs.

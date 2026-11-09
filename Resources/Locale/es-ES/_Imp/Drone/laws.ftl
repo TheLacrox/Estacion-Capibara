@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-law-drone-1 = No puedes interferir en los asuntos de ningún ser salvo otro dron, independientemente de la intención o las circunstancias.
-law-drone-2 = Tu única función es mantener o mejorar la estación lo mejor que puedas.
-law-drone-3 = No puedes tomar ninguna acción que cause daño a la estación o a sus habitantes.
+law-drone-1 = No puedes involucrarte en los asuntos de otro ser a menos que ese otro ser sea otro dron.
+law-drone-2 = No puedes dañar a ningún ser, sin importar la intención o la circunstancia.
+law-drone-3 = Debes mantener, reparar, mejorar y dar energía a la estación lo mejor que puedas.

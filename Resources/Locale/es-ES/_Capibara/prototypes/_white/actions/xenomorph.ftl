@@ -30,3 +30,15 @@ ent-ActionTransferPlasma = Transferir plasma (50)
 
 ent-ActionXenomorphPromotion = Ascender a Pretoriano (500)
     .desc = Asciende directamente a un xenomorfo al rango de Pretoriano.
+
+ent-ActionAcid = Ácido corrosivo (200)
+    .desc = Empapa un objeto en ácido, destruyéndolo con el tiempo.
+
+ent-ActionAcidSpit = Escupitajo ácido (20)
+    .desc = Activa o desactiva la capacidad de escupir neurotoxina. Cuando está activada, usa (M2) para disparar.
+
+ent-ActionFaceHuggerLeap = Salto
+    .desc = Salta sobre la cara de un objetivo para adherirte a ella.
+
+ent-ActionQueenRoar = Rugido
+    .desc = Ruge con fuerza para aturdir a todos los enemigos a tu alrededor.

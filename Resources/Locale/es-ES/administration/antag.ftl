@@ -36,3 +36,7 @@ admin-verb-text-make-thief = Hacer Ladrón
 admin-verb-text-make-paradox-clone = Crear Clon Paradójico
 
 admin-overlay-antag-classic = ANTAG
+
+admin-verb-make-space-ninja = Convierte al objetivo en un Ninja Espacial.
+
+admin-verb-text-make-space-ninja = Crear ninja

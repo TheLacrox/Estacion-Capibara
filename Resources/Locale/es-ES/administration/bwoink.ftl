@@ -49,3 +49,5 @@ bwoink-system-player-banned = ha sido baneado por: {$banReason}
 
 bwoink-message-admin-only = (Solo Admins)
 bwoink-message-silent = (S)
+
+bwoink-admin-title = Ayuda de admin

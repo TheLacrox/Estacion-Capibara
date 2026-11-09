@@ -27,3 +27,5 @@ job-supervisors-security = los Oficiales de Seguridad, el Alcaide y el Jefe de S
 job-supervisors-science = los Científicos y el Director de Investigación
 job-supervisors-hire = quien te contrate
 job-supervisors-everyone = absolutamente todos
+
+job-supervisors-nobody = nadie

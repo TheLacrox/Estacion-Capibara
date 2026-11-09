@@ -15,3 +15,5 @@ ent-WeaponRifleEstoc = Estoc
 
 ent-WeaponRifleFoam = Foam Force Astro Ace
     .desc = Un rifle de espuma premium de la más alta calidad. Su plástico se siente robusto y sus mecanismos sólidos.
+
+ent-WeaponRifleLecterXL8 = XL8

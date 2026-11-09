@@ -44,3 +44,17 @@ lathe-menu-materials-title = Materiales
 lathe-menu-queue-title = Cola de Construcción
 lathe-menu-queue-reset-title = Reiniciar Cola
 lathe-menu-queue-reset-material-overflow = Notas que el autotorno está lleno.
+
+lathe-menu-silo-linked-message = Silo vinculado
+
+lathe-menu-delete-fabricating-tooltip = Cancelar la impresión del objeto actual.
+
+lathe-menu-delete-item-tooltip = Cancelar la impresión de este lote.
+
+lathe-menu-move-up-tooltip = Adelantar este lote en la cola.
+
+lathe-menu-move-down-tooltip = Retrasar este lote en la cola.
+
+lathe-menu-item-single = {$index}. {$name}
+
+lathe-menu-item-batch = {$index}. {$name} ({$printed}/{$total})

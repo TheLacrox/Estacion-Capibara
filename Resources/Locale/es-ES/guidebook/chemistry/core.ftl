@@ -8,7 +8,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 guidebook-reagent-effect-description =
-    {$chance ->
+    {$quantity ->
+        [0] {""}
+        *[other] Si hay al menos {$quantity}u de {$reagent},{" "}
+    }{$chance ->
         [1] { $effect }
         *[other] Tiene una probabilidad de { NATURALPERCENT($chance, 2) } de { $effect }
     }{ $conditionCount ->

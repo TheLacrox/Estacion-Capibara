@@ -21,3 +21,6 @@ ent-ClothingModsuitChestplateResearchDirector = peto minerva de modtraje
 
 ent-ClothingModsuitChestplateCaptain = peto magnate de modtraje
     .desc = Esto está hecho de DIAMANTES, tío, esta armadura fue forjada con GEMAS.
+
+ent-ClothingModsuitChestplateBrigMed = peto del modtraje de trauma
+    .desc = Una robusta cubierta modular del traje con insertos de cerámica blanca para un extra de estilo.

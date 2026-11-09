@@ -246,3 +246,109 @@ ent-VinylSleeveBlack = funda de vinilo negra
 
 ent-VinylSleeveWhite = funda de vinilo blanca
     .desc = Una funda de vinilo, perfecta para guardar tus vinilos.
+
+ent-VinylDiskSpaceAsshole = disco de vinilo: Space Asshole
+
+ent-VinylDiskAdventure1 = disco de vinilo: aventura 1
+
+ent-VinylDiskAdventure2 = disco de vinilo: aventura 2
+
+ent-VinylDiskAdventure4 = disco de vinilo: aventura 4
+
+ent-VinylDiskAdventure5 = disco de vinilo: aventura 5
+
+ent-VinylDiskAdventure6 = disco de vinilo: aventura 6
+
+ent-VinylDiskAfterParty = disco de vinilo: after party
+
+ent-VinylDiskAnonymous = disco de vinilo: anónimo
+
+ent-VinylDiskApril = disco de vinilo: abril
+
+ent-VinylDiskAtmosphere = disco de vinilo: atmósfera
+
+ent-VinylDiskAugust = disco de vinilo: agosto
+
+ent-VinylDiskBanjo1 = disco de vinilo: Banjo 1
+
+ent-VinylDiskBiodome = disco de vinilo: biodomo
+
+ent-VinylDiskBlackWing = disco de vinilo: interfaz de ala negra
+
+ent-VinylDiskBumblebee = disco de vinilo: abejorro
+
+ent-VinylDiskButtris = disco de vinilo: buttris
+
+ent-VinylDiskChill1 = disco de vinilo: relax 1
+
+ent-VinylDiskChill2 = disco de vinilo: relax 2
+
+ent-VinylDiskChill3 = disco de vinilo: relax 3
+
+ent-VinylDiskChill4 = disco de vinilo: relax 4
+
+ent-VinylDiskCloudMan = disco de vinilo: hombre nube del cielo
+
+ent-VinylDiskCoreOfPoo = disco de vinilo: núcleo de caca
+
+ent-VinylDiskDecember = disco de vinilo: diciembre
+
+ent-VinylDiskDiscoPoo = disco de vinilo: caca disco
+
+ent-VinylDiskEggShell = disco de vinilo: cáscara de huevo
+
+ent-VinylDiskFebruary = disco de vinilo: febrero
+
+ent-VinylDiskFunkadelic = disco de vinilo: Funkadelic
+
+ent-VinylDiskGiga = disco de vinilo: Giga
+
+ent-VinylDiskGraveyard = disco de vinilo: Cementerio
+
+ent-VinylDiskTechnologicBeat = disco de vinilo: ritmo altamente tecnológico
+
+ent-VinylDiskItFeelsGood = disco de vinilo: también se siente bien estar vivo
+
+ent-VinylDiskJanuary = disco de vinilo: enero
+
+ent-VinylDiskJuly = disco de vinilo: julio
+
+ent-VinylDiskJune = disco de vinilo: junio
+
+ent-VinylDiskLunch = disco de vinilo: almuerzo
+
+ent-VinylDiskMarch = disco de vinilo: marzo
+
+ent-VinylDiskMaxi = disco de vinilo: maxi
+
+ent-VinylDiskMay = disco de vinilo: mayo
+
+ent-VinylDiskMonkeyRiot = disco de vinilo: disturbio de monos
+
+ent-VinylDiskNovember = disco de vinilo: noviembre
+
+ent-VinylDiskOctober = disco de vinilo: octubre
+
+ent-VinylDiskEvilStar = disco de vinilo: oh no estrella malvada
+
+ent-VinylDiskPlanets = disco de vinilo: planetas
+
+ent-VinylDiskRepose = disco de vinilo: reposo
+
+ent-VinylDiskRiverdancer = disco de vinilo: bailarín del río
+
+ent-VinylDiskSecondReality = disco de vinilo: second reality
+
+ent-VinylDiskSeptember = disco de vinilo: septiembre
+
+ent-VinylDiskSpaceGardener = disco de vinilo: Space Gardener
+
+ent-VinylDiskSpaceUguu = disco de vinilo: uguu
+
+ent-VinylDiskUpbeat1 = disco de vinilo: animado 1
+
+ent-VinylDiskUpbeat2 = disco de vinilo: animado 2
+
+ent-VinylDiskWarriorsHonk = disco de vinilo: honk de guerreros
+
+ent-VinylDiskWayStations = disco de vinilo: estaciones de paso

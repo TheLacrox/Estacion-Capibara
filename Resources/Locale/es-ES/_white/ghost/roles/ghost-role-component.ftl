@@ -18,3 +18,7 @@ ghost-role-information-xenomorph-queen-description = Eres una reina xenomorfa. P
 
 ghost-role-information-xenomorph-sentinel-name = centinela xenomorfo
 ghost-role-information-xenomorph-sentinel-description = Eres un centinela xenomorfo. Ayuda al pretoriano a defender la colmena y ataca a los humanoides si es necesario.
+
+ghost-role-information-xenomorph-facehugger-name = facehugger xenomorfo
+
+ghost-role-information-xenomorph-facehugger-description = Eres un facehugger xenomorfo. Encuentra humanoides a los que infectar para que tu colmena se haga más fuerte.

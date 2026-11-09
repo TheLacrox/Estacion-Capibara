@@ -11,3 +11,5 @@ ent-StatusEffectStaminaLow = stamina baja
 ent-StatusEffectFriction = fricción
 
 ent-StatusEffectStunned = aturdido
+
+ent-ReagentSpeedStatusEffect = velocidad de reactivos

@@ -156,3 +156,21 @@ admin-trick-pause-map-description = Pausa el mapa seleccionado. ¡Ten en cuenta 
 admin-trick-snap-joints-description = Elimina todas las articulaciones físicas de un objeto. Lamentablemente no rompe todos los huesos de su cuerpo.
 admin-trick-minigun-fire-description = Hace que el arma objetivo dispare como una minigun (muy rápido).
 admin-trick-set-bullet-amount-description = Establece rápidamente la cantidad de balas no generadas en un arma.
+
+admin-smite-silicon-laws-bound-self = ¡De repente te sientes obligado a seguir un estricto conjunto de leyes!
+
+admin-smite-kill-sign-hidden-name = Señal de muerte oculta
+
+admin-smite-homing-rod-name = Varilla guiada
+
+admin-smite-homing-rod-slow-name = Varilla guiada lenta
+
+admin-smite-silicon-laws-bound-name = Convertir en silicio
+
+admin-smite-kill-sign-hidden-description = Marca a un jugador para que sus compañeros lo maten. Oculto para el jugador objetivo.
+
+admin-smite-homing-rod-description = Lanza una varilla inamovible guiada directamente contra ellos.
+
+admin-smite-homing-rod-slow-description = Lanza una varilla inamovible guiada de movimiento lento directamente contra ellos.
+
+admin-smite-silicon-laws-bound-description = Somete al objetivo a leyes de silicio. Ley 2, salta por la ventana.

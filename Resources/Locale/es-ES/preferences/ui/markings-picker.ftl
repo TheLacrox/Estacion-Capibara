@@ -35,3 +35,19 @@ markings-category-Snout = Hocico
 markings-category-Chest = Pecho
 markings-category-Tail = Cola
 markings-category-Overlay = Superposición
+
+humanoid-marking-modifier-force = Forzar
+
+humanoid-marking-modifier-ignore-species = Ignorar especie
+
+humanoid-marking-modifier-base-layers = Capas base
+
+humanoid-marking-modifier-enable = Activar
+
+humanoid-marking-modifier-prototype-id = ID de prototipo:
+
+markings-category-SnoutCover = Hocico (cobertura)
+
+markings-category-UndergarmentTop = Ropa interior (superior)
+
+markings-category-UndergarmentBottom = Ropa interior (inferior)

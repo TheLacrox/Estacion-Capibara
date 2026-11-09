@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lock-comp-on-examined-is-locked = El {$entityName} parece estar cerrado con llave.
-lock-comp-on-examined-is-unlocked = El {$entityName} parece estar desbloqueado.
+lock-comp-on-examined-is-locked = El {$entityName} parece estar [color=darkred]cerrado con llave[/color].
+lock-comp-on-examined-is-unlocked = El {$entityName} parece estar [color=darkgreen]desbloqueado[/color].
 lock-comp-do-lock-success = Cierras el {$entityName} con llave.
 lock-comp-do-unlock-success = Abres el {$entityName}.
 lock-comp-has-user-access-fail = Acceso denegado.

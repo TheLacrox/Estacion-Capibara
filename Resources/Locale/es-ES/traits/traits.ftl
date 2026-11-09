@@ -61,7 +61,7 @@ trait-pirate-accent-name = Acento pirata
 trait-pirate-accent-desc = ¡No puedes dejar de hablar como un pirata!
 
 trait-accentless-name = Sin acento
-trait-accentless-desc = No tienes el acento que tu especie tendría normalmente
+trait-accentless-desc = No tienes el acento que normalmente tendría tu especie.
 
 trait-frontal-lisp-name = Ceceo
 trait-frontal-lisp-desc = Hablas con zeceo.
@@ -104,3 +104,11 @@ trait-newyork-desc = Hablas con un fuerte acento neoyorquino. ¡Oye, voy andando
 
 trait-british-name = Acento británico
 trait-british-desc = Hablas correctamente, a diferencia de esos malditos yanquis.
+
+trait-hemophilia-name = Hemofilia
+
+trait-hemophilia-desc = Tu cuerpo no logra formar coágulos de sangre.
+
+trait-impaired-mobility-name = Movilidad reducida
+
+trait-impaired-mobility-desc = Tienes dificultad para moverte sin una ayuda para la movilidad.

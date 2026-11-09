@@ -111,3 +111,6 @@ ent-BorgChassisServiceRich = ciborg rico
 
 ent-BorgChassisServiceRover = ciborg de servicio rover
     .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Les encanta que les pidan que enuncien sus leyes una y otra vez.
+
+ent-BorgChassisSEC = cyborg S.E.C.
+    .desc = Un cyborg de aplicación de seguridad, construido a propósito para hacer cumplir la Ley Espacial.

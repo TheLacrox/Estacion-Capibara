@@ -15,3 +15,5 @@ agent-id-card-current-name = Nombre:
 agent-id-card-current-job = Trabajo:
 agent-id-card-job-icon-label = Ícono de trabajo:
 agent-id-menu-title = Tarjeta ID de Agente
+
+agent-id-open-ui-verb = Cambiar ajustes

@@ -10,3 +10,7 @@ trigger-on-voice-stop-recording = Grabación detenida.
 trigger-on-voice-record-failed-too-long = Mensaje demasiado largo, inténtalo de nuevo.
 trigger-on-voice-record-failed-too-short = Mensaje demasiado corto, inténtalo de nuevo.
 trigger-on-voice-recorded = ¡Grabado con éxito!
+
+trigger-on-voice-default = Restablecer valores predeterminados
+
+trigger-on-voice-set-default = Restablecido a la frase clave por defecto: "{$keyphrase}"

@@ -14,5 +14,5 @@ encryption-keys-are-locked = ¡Las ranuras de claves de cifrado están bloqueada
 encryption-keys-panel-locked = ¡Abre primero el panel de mantenimiento!
 
 examine-encryption-channels-prefix = Frecuencias disponibles:
-examine-encryption-channel = [color={$color}]{$key} para {$id} ({NATURALFIXED($freq, 1)}) {$deviceType}[/color]
-examine-encryption-default-channel = El canal predeterminado es [color={$color}]{$channel}[/color].
+examine-encryption-channel = [radiochannel="{$channelId}"]{$key} para {$id} ({NATURALFIXED($freq, 1)}) {$deviceType}[/radiochannel]
+examine-encryption-default-channel = El canal por defecto es [radiochannel="{$channelId}"]{$channel}[/radiochannel].

@@ -59,3 +59,6 @@ ent-DrinkLean = jugo de uva
 
 ent-DrinkWaterCup = vaso de agua
     .desc = Un vaso de papel de agua.
+
+ent-DrinkTeacupEmpty = taza de té
+    .desc = Una taza de té de porcelana blanca lisa.

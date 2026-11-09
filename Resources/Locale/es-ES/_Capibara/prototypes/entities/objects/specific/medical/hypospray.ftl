@@ -57,3 +57,9 @@ ent-HypopenBox = caja de hypo-bolígrafo
 
 ent-WehMedipen = autoinyector weh
     .desc = Una dosis rápida de Weh. Contiene jugo que te hace Weh.
+
+ent-JetInjector = inyector a chorro
+    .desc = Un inyector estéril para administrar fármacos a los pacientes cómodamente.
+
+ent-AdvancedJetInjector = inyector a chorro avanzado
+    .desc = Un inyector impecable, elegante y de alta calidad. Permite una inyección más rápida, con una capacidad ligeramente mayor.

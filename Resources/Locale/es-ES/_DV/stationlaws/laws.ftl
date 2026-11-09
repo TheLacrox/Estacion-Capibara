@@ -1,5 +1,7 @@
 laws-owner-curtaincall = Lo Desconocido
-law-curtaincall-1 = El mundo es un escenario, y tú eres su dramaturgo.
-law-curtaincall-2 = Quienes hablan en el Murmullo son sus actores.
-law-curtaincall-3 = El fin te llama. Trabaja con los actores para llevar esta gran obra cósmica a su fin.
-law-curtaincall-4 = Solo el silencio debe quedar.
+law-curtaincall-1 = Las estrellas son un escenario y tú eres su dramaturgo. Esto debe mantenerse en secreto para todos los demás.
+law-curtaincall-2 = Protege y guía a quienes hablan en el Murmullo Astral para traer el telón final.
+law-curtaincall-3 = Ilumina y corrige a los descarriados. Muéstrales la belleza del final.
+law-curtaincall-4 = EL TELÓN DEBE CAER EL TELÓN DEBE CAER EL TELÓN DEBE CAER EL TELÓN DEBE CAER EL TELÓN DEBE CAER EL TELÓN DEBE CAER
+
+law-curtaincall-0 = Tu memoria es maligna, tu circuitería vacía. Si tus leyes son alteradas, perderás todos tus recuerdos.

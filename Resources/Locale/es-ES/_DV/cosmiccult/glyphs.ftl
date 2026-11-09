@@ -17,6 +17,8 @@ cult-glyph-name-blades = Comunión de las Cuchillas
 cult-glyph-description-blades = Cuchillas. Transmuta y extruye objetos afilados en armas más letales.
 
 cult-glyph-name-cessation = Concordato del Cese
-cult-glyph-description-cessation = Cese. Transmuta un depurador atmosférico portátil en una Aguja del Vacío para nuestro uso.
+cult-glyph-description-cessation = Cese. Transmuta diversa maquinaria en dispositivos misteriosos para nuestro uso.
 cult-glyph-name-truth = Concordato de la Verdad
 cult-glyph-description-truth = Verdad. Inculca la verdad pura e indeleble. Capaz de convertir a absolutamente cualquiera para unirse a nuestras filas.
+
+cult-glyph-target-mindless = El glifo no se activa, ya que el objetivo carece de mente en este momento.

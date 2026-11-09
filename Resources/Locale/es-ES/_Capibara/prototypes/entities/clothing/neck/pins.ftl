@@ -54,3 +54,6 @@ ent-ClothingNeckAutismPin = pin neurodivergente
 
 ent-ClothingNeckGoldAutismPin = pin de autismo
     .desc = Ser autista, hacer crímenes.
+
+ent-SprayFlowerPin = pin de flor
+    .desc = Un lindo pin de flor. Algo parece raro en él...

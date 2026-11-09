@@ -16,3 +16,8 @@ ent-MeleeDebug100 = goob stick 100dmg
 
 ent-MeleeDebug200 = goob stick 200dmg
     .desc = golpea fuerte eh
+
+ent-WeaponHitscanDebug = bang hitscan 1dmg
+    .desc = ¡pium pium!
+
+ent-WeaponHitscanDebugGib = bang hitscan gibber

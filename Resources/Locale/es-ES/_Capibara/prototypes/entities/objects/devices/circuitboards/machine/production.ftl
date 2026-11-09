@@ -226,3 +226,9 @@ ent-CutterMachineCircuitboard = placa de máquina del cortador
 
 ent-MedicalBiofabMachineBoard = placa de máquina del biofab médico
     .desc = Una placa de circuito impreso para un biofab médico.
+
+ent-SurveillanceCameraWirelessRouterXenoborgCircuitboard = enrutador inalámbrico de cámaras de xenoborgs
+    .desc = Una placa de circuito impreso de máquina para un enrutador inalámbrico de cámaras de xenoborgs.
+
+ent-SmartFridgeCircuitboard = placa de máquina SmartFridge
+    .desc = Una placa de circuito impreso de máquina para un SmartFridge.

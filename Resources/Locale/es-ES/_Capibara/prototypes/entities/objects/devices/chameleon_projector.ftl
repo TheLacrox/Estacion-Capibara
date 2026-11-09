@@ -8,3 +8,6 @@ ent-ActionDisguiseNoRot = Alternar Rotación
 
 ent-ActionDisguiseAnchor = Alternar Anclaje
     .desc = Para muchos objetos querrás estar anclado para no ser completamente obvio.
+
+ent-ChameleonProjectorNoBattery = proyector camaleón
+    .desc = Tecnología de holoparásito usada para crear una réplica de luz sólida de cualquier objeto a tu alrededor. El disfraz se destruye al recogerlo o desactivarlo.

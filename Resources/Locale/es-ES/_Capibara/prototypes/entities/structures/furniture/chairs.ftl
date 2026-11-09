@@ -69,3 +69,5 @@ ent-CardStool = taburete de cartón
 
 ent-WoodenBench = banco de madera
     .desc = ¿Te clavaste una astilla? Bueno, al menos es ecológico.
+
+ent-ChairXeno = silla xeno

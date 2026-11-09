@@ -63,3 +63,9 @@ ent-XenoCompatibilityImplant = implante de compatibilidad xeno
 
 ent-RedspaceLifelineImplant = implante de línea vital de redspace
     .desc = Teletransporta el cuerpo del portador al Alto Mando del Syndicate al activarse. No podrán volver.
+
+ent-SyndicateJaunterImplant = implante de desplazamiento del Sindicato
+    .desc = Este implante permite al usuario intercambiar posiciones con un individuo objetivo. Se recarga con el tiempo.
+
+ent-TelepathyImplant = implante de telepatía
+    .desc = Este implante permite al usuario usar telepatía.

@@ -74,3 +74,13 @@ steal-target-groups-animal-morty = Morty
 steal-target-groups-animal-renault = Renault
 steal-target-groups-animal-shiva = Shiva
 steal-target-groups-animal-tropico = Tropico
+
+steal-target-groups-weapon-energy-magnum = magnum de energía
+
+steal-target-groups-mail = correo
+
+steal-target-groups-officer-handguns = pistola del oficial de seguridad
+
+steal-target-groups-belt-ce = cinturón de herramientas del ingeniero jefe
+
+steal-target-groups-captain-sword = sable del capitán

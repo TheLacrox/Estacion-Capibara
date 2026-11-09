@@ -79,3 +79,7 @@ chat-emote-msg-cathisses = ¡bufa!
 chat-emote-msg-monkeyscreeches = ¡chilla!
 chat-emote-msg-yawn = bosteza.
 chat-emote-msg-snore = ronca.
+
+chat-emote-name-clap-single = Aplauso simple
+
+chat-emote-msg-clap-single = junta las manos en un aplauso.

@@ -75,3 +75,10 @@ ent-XenoborgLaserGun = pistola láser de xenoborg
 
 ent-XenoborgHeavyLaserGun = pistola láser pesada de xenoborg
     .desc = Una pistola láser experimental equipada con una batería nuclear de autocarga.
+
+ent-WeaponEnergyMagnum = magnum de energía
+    .desc = Una pistola de energía autorrecargable de alta potencia diseñada para el personal de seguridad de élite. Tiene tres modos de disparo: alto daño, perforación de ventanas o inhabilitación no letal.
+
+ent-WeaponLaserGunXenoborg = arma láser de xenoborg
+
+ent-WeaponLaserCannonXenoborg = cañón láser de xenoborg

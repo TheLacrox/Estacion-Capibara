@@ -14,3 +14,5 @@ reagent-physical-desc-sigma = sigma
 reagent-physical-desc-ling = viviente
 reagent-physical-desc-comforting = reconfortante
 reagent-physical-desc-alien = alienígena
+
+reagent-physical-desc-bitter = amargo

@@ -10,10 +10,10 @@
 ### Interaction Messages
 
 # Shown when repairing something
-comp-repairable-repair = Reparas {PROPER($target) ->
+comp-repairable-repair = Terminas de reparar {PROPER($target) ->
   [true] {""}
-  *[false] {"el "}
+  *[false] el{" "}
 }{$target} con {PROPER($tool) ->
   [true] {""}
-  *[false] {"la "}
+  *[false] el{" "}
 }{$tool}

@@ -21,3 +21,6 @@ ent-ClothingModsuitGauntletsResearchDirector = guanteletes minerva de modtraje
 
 ent-ClothingModsuitGauntletsCaptain = guanteletes magnate de modtraje
     .desc = Tiene ranuras especializadas para sostener ese maldito disco con más facilidad.
+
+ent-ClothingModsuitGauntletsBrigMed = guanteletes del modtraje de trauma
+    .desc = Guanteletes geniales.

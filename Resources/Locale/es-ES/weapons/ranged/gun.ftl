@@ -69,3 +69,7 @@ gun-speedloader-empty = Cargador rápido vacío
 # GunSpreadModifier
 examine-gun-spread-modifier-reduction = La dispersión ha sido reducida un [color=yellow]{$percentage}%[/color].
 examine-gun-spread-modifier-increase = La dispersión ha sido incrementada un [color=yellow]{$percentage}%[/color].
+
+gun-set-fire-mode-examine = Ajustado a [color=yellow]{$mode}[/color].
+
+gun-set-fire-mode-popup = Cambiado a {$mode}

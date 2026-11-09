@@ -32,3 +32,7 @@ hand-labeler-delete-label-text = Eliminar etiqueta
 hand-labeler-delete-mode-text = Eliminando...
 hand-labeler-ui-clear-label-text = Limpiar
 hand-labeler-ui-reset-label-text = Restablecer
+
+hand-labeler-examine-blank = El texto de la etiqueta está en blanco.
+
+hand-labeler-examine-label-text = El texto de la etiqueta es '{$label-text}'.

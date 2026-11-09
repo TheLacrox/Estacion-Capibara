@@ -31,3 +31,4 @@ player-panel-true = Verdadero
 player-panel-follow = Seguir
 player-panel-camera = Cámara
 
+player-panel-trust-score = Puntuación de confianza: {TOSTRING($trustScore, "P0")}

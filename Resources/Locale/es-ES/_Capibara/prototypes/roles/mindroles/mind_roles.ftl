@@ -81,3 +81,11 @@ ent-MindRoleInitialInfected = Rol de Infectado Inicial
 
 ent-MindRoleZombie = Rol de Zombi
     .desc = Entidad de rol mental
+
+ent-MindRoleLoneops = Rol de operativo solitario
+
+ent-MindRoleSurvivor = Rol de superviviente
+
+ent-MindRoleMothershipCore = Rol de núcleo de la nave nodriza
+
+ent-MindRoleXenoborg = Rol de xenoborg

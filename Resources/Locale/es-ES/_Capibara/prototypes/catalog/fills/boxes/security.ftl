@@ -24,3 +24,6 @@ ent-BoxSunglasses = caja de gafas de sol
 
 ent-BoxForensicPad = caja de almohadillas forenses
     .desc = Una caja de almohadillas forenses.
+
+ent-BoxDetonator = caja de detonadores
+    .desc = Una caja de detonadores explosivos y disparadores.

@@ -5,3 +5,7 @@ cleanse-deconvert-attempt-success-empowered = ¡Limpias a {CAPITALIZE(THE($targe
 cleanse-deconvert-attempt-notcult = {CAPITALIZE(THE($target))} no estaba bajo la influencia de nada.
 
 cleanse-item-sizzle = ¡{CAPITALIZE(THE($target))} chisporrotea en tus manos!
+
+cleanse-deconvert-attempt-notcorrupted = {CAPITALIZE(THE($target))} no estaba bajo la influencia de nada.
+
+cleanse-deconvert-attempt-rebound = ¡Las energías noosféricas arremeten!

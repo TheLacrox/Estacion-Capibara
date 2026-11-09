@@ -86,3 +86,27 @@ marking-TajaranEarsTorn-torn_inner = Oreja interior
 marking-TajaranEarsWide = Orejas anchas
 marking-TajaranEarsWide-wide_outer = Oreja exterior
 marking-TajaranEarsWide-wide_inner = Oreja interior
+
+marking-TajaranLeopardChest = Manchas de leopardo (pecho)
+
+marking-TajaranLeopardChest-leopard_chest = Manchas
+
+marking-TajaranLeopardAltChest = Manchas de leopardo (pecho, alt.)
+
+marking-TajaranLeopardAltChest-leopard_alt_chest = Manchas
+
+marking-TajaranLeopardLArm = Manchas de leopardo (brazo izquierdo)
+
+marking-TajaranLeopardLArm-leopard_l_arm = Manchas
+
+marking-TajaranLeopardRArm = Manchas de leopardo (brazo derecho)
+
+marking-TajaranLeopardRArm-leopard_r_arm = Manchas
+
+marking-TajaranLeopardLHand = Manchas de leopardo (mano izquierda)
+
+marking-TajaranLeopardLHand-leopard_l_hand = Manchas
+
+marking-TajaranLeopardRHand = Manchas de leopardo (mano derecha)
+
+marking-TajaranLeopardRHand-leopard_r_hand = Manchas

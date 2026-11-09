@@ -17,3 +17,6 @@ ent-ShuttleGunPirateCannon = cañón de barco pirata
 
 ent-ShuttleGunKinetic = PTK-800 "Matter Dematerializer"
     .desc = Torreta minera estacionaria de salvamento. Acumula cargas gradualmente por sí misma, extremadamente efectiva para la excavación de asteroides.
+
+ent-ShuttleGunKineticOld = desmaterializador xenomórfico
+    .desc = Un antiguo cañón de nave que utiliza sistemas biomecánicos para almacenar y liberar energía. Aunque su diseño es único, ha quedado obsoleto por su velocidad de carga y disparo inferior a la de las construcciones mecánicas.

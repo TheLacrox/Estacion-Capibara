@@ -24,3 +24,5 @@ comp-storage-window-weight = { $weight }/{ $maxWeight }, Tamaño máx: {$size}
 comp-storage-window-slots = Ranuras: { $itemCount }/{ $maxCount }, Tamaño máx: {$size}
 comp-storage-verb-open-storage = Abrir almacenamiento
 comp-storage-verb-close-storage = Cerrar almacenamiento
+
+comp-storage-window-dummy = Maniquí

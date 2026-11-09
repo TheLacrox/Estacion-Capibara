@@ -9,3 +9,5 @@ construction-recipe-table-fancy-purple = mesa elegante (morado)
 construction-recipe-table-fancy-pink = mesa elegante (rosa)
 construction-recipe-table-fancy-red = mesa elegante (rojo)
 construction-recipe-table-fancy-white = mesa elegante (blanco)
+
+construction-recipe-table-fancy-sky-blue = mesa elegante (azul cielo)

@@ -12,3 +12,6 @@ ent-ClothingShoesBootsMagSyndie = magboots rojo sangre
 
 ent-ActionToggleMagboots = Activar magboots
     .desc = Activa y desactiva las magboots.
+
+ent-ClothingShoesBootsMagERT = botas magnéticas del ERT
+    .desc = Botas magnéticas mejoradas utilizadas por los Equipos de Respuesta de Emergencia de Nanotrasen; tienen una fuerte atracción magnética y propulsores integrados. Puede contener 0,75 L de gas.

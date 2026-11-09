@@ -219,3 +219,9 @@ marking-HumanHairVlongfringe = Muy largo con flequillo
 marking-HumanHairVolaju = Volaju
 marking-HumanHairWisp = Mechón
 marking-HumanHairLongWithBangs = Largo con flequillo
+
+marking-HumanHairBaby = Bebé
+
+marking-HumanHairCube = Cubo
+
+marking-HumanHairOverEyePigtail = Coleta (sobre el ojo)

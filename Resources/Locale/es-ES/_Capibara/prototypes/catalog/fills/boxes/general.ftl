@@ -93,3 +93,9 @@ ent-BoxEnvelope = caja de sobres
 
 ent-BoxUtensil = caja de utensilios
     .desc = Una caja llena de tenedores y cucharas.
+
+ent-BoxCardboardSmall = caja de cartón pequeña
+    .desc = Una pequeña caja de cartón para guardar cosas.
+
+ent-BoxStamps = caja de sellos
+    .desc = Una caja pequeña con sellos.

@@ -16,3 +16,5 @@ lathe-category-mechs-durand = Durand
 lathe-category-mechs-equipment = Equipamiento de Mecas
 lathe-category-mechs-weapons = Armas de Mecas
 lathe-category-modsuit = Trajes MOD
+
+lathe-category-modsuit-modules = Módulos MOD

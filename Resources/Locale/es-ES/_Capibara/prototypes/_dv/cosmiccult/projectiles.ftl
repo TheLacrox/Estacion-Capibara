@@ -6,3 +6,6 @@ ent-ProjectileRogueCosmicNova = Nova Astral Usurpada
 
 ent-ProjectileCosmicRazor = Rayo Astral
     .desc = Marca un objetivo para recibir daño adicional.
+
+ent-ProjectileCosmic = Descarga maligna
+    .desc = Ay.

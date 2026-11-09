@@ -128,3 +128,33 @@ ent-ToyBladeEldritch = espada de juguete
 
 ent-PlushieTwofish = peluche de TwoFish
     .desc = Mirándolo de cerca, parece un cretino.
+
+ent-PlushieLeoMalone = peluche de Leo Malone
+    .desc = Huele levemente a autoridad y pólvora. Ladra mucho. No, en serio. Mucho.
+
+ent-PlushieRouge = peluche de rouge
+    .desc = Un lindo juguete de peluche que se asemeja al humilde y siempre ebrio CCO de CCO's. Sus cejas parecen pegadas en un ceño permanentemente fruncido.
+
+ent-PlushieRedstonewolf = peluche de Irene
+    .desc = Un suave juguete de peluche que se asemeja a un dragón rojo. A pesar de ser una gran serpiente, aun así hace weh.
+
+ent-PlushieDoremyZerg = peluche de Aya
+    .desc = Un juguete brillante manchado de tinta y té.
+
+ent-PlushieSanyati = peluche de Nyxoma
+    .desc = Huele a ag'hsj'saje'sh.
+
+ent-PlushieHarel = peluche de Harel
+    .desc = Huele a plasma fresco.
+
+ent-EvilPlushieLeoMalone = peluche malvado de Leo Malone
+
+ent-EvilPlushieRedstonewolf = peluche malvado de Irene
+
+ent-EvilPlushieRouge = peluche malvado de Rouge
+
+ent-EvilPlushieDoremyZerg = peluche malvado de Aya
+
+ent-EvilPlushieSanyati = peluche malvado de Nyxoma
+
+ent-EvilPlushieHarel = peluche malvado de Harel

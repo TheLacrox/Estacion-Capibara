@@ -22,9 +22,9 @@ cosmiccult-vote-steward-briefing =
 cosmiccult-vote-lone-steward-title = El Cultista Solitario
 cosmiccult-vote-lone-steward-briefing =
     Estás completamente solo. Pero tu deber no ha terminado.
-    Asegúrate de que El Monumento sea colocado en un lugar seguro, y termina lo que el culto comenzó.
+        Asegúrate de que El Monumento esté en un lugar seguro y termina lo que el culto empezó.
 
-cosmiccult-finale-autocall-briefing = ¡El Monumento se activa en {$minutesandseconds}! Reagrupaos y preparaos para el fin.
+cosmiccult-finale-autocall-briefing = ¡El Monumento ha sido completado! Reúnanse, actívenlo y prepárense para el final.
 cosmiccult-finale-ready = ¡Una luz aterradora surge del Monumento!
 cosmiccult-finale-speedup = ¡El llamado se acelera! La energía fluye por los alrededores...
 
@@ -60,12 +60,12 @@ cosmiccult-roundend-crewmajor = [color=green]¡Victoria mayor de la tripulación
 cosmiccult-roundend-crewcomplete = [color=green]¡Victoria completa de la tripulación![/color]
 
 cosmiccult-summary-cultcomplete = ¡Los cultistas cósmicos dieron inicio al fin!
-cosmiccult-summary-cultmajor = La victoria de los cultistas cósmicos será inevitable.
-cosmiccult-summary-cultminor = El Monumento fue completado, pero no completamente potenciado.
-cosmiccult-summary-neutral = El culto vivirá para ver otro día.
-cosmiccult-summary-crewminor = El culto se ha quedado sin administrador.
+cosmiccult-summary-cultmajor = El administrador del culto llegó a Midpoint sin ser detectado. El culto vivirá un día más.
+cosmiccult-summary-cultminor = Varios cultistas llegaron a Midpoint sin ser detectados. El culto vivirá un día más.
+cosmiccult-summary-neutral = Ningún cultista llegó a Midpoint, pero algunos permanecen en la estación. La lucha continúa.
+cosmiccult-summary-crewminor = El Monumento no alcanzó su máxima potencia.
 cosmiccult-summary-crewmajor = Todos los cultistas cósmicos fueron eliminados.
-cosmiccult-summary-crewcomplete = ¡Todos y cada uno de los cultistas cósmicos fue desconvertido!
+cosmiccult-summary-crewcomplete = ¡Todos los cultistas cósmicos fueron desconvertidos!
 
 cosmiccult-elimination-shuttle-call = Según los escaneos de nuestros sensores de largo alcance, la anomalía Λ-CDM ha disminuido. Les agradecemos su prudencia. Un transbordador de emergencia ha sido llamado automáticamente a la estación para procedimientos de descontaminación e interrogatorio. ETA: {$time} {$units}.
 cosmiccult-elimination-announcement = Según los escaneos de nuestros sensores de largo alcance, la anomalía Λ-CDM ha disminuido. Les agradecemos su prudencia. Ya hay un transbordador de emergencia en camino. Regresen a CentComm de forma segura para los procedimientos de descontaminación e interrogatorio.
@@ -109,9 +109,8 @@ cosmiccult-monument-stage2-briefing =
     Su influencia afectará el espacio real en {$time} segundos.
 
 cosmiccult-monument-stage3-briefing =
-    ¡El Monumento ha sido completado!
-    Su influencia comenzará a solaparse con el espacio real en {$time} segundos.
-    ¡Este es el tramo final! Acumula tanta entropía como puedas reunir.
+    ¡El Monumento crece en poder!
+    Su influencia comenzará a superponerse con el espacio real en {$time} segundos.
 
 ## GRIETAS MALIGNAS
 
@@ -176,8 +175,8 @@ cosmiccult-radio-tier1-progress = El Monumento es invocado hacia la estación...
 cosmiccult-announce-tier2-progress = Un entumecimiento inquietante pincha tus sentidos.
 cosmiccult-announce-tier2-warning = ¡Los escáneres detectan un aumento notable en Λ-CDM! Es posible que aparezcan grietas en el espacio real en breve. Por favor, avisa al capellán de tu estación si las avistas.
 
-cosmiccult-announce-tier3-progress = Arcos de energía noosfórica crepitan en la estructura crujiente de la estación. El fin se acerca.
-cosmiccult-announce-tier3-warning = Aumento crítico en Λ-CDM detectado. El personal infectado debe ser neutralizado o inmovilizado a la vista.
+cosmiccult-announce-tier3-progress = Un entumecimiento inquietante te hormiguea los sentidos.
+cosmiccult-announce-tier3-warning = ¡Los escáneres detectan un aumento anormal de Λ-CDM! Informa de cualquier fenómeno antinatural a seguridad o a epistemología.
 
 cosmiccult-announce-finale-warning = Toda la tripulación de la estación. La anomalía Λ-CDM está alcanzando el nivel supercrítico; instrumentos fallando; horizonte de eventos de transición noosfórico-a-real INMINENTE. Si no estás ya en contraprotocolo, despliégate de inmediato e intervén. Repetición: Intervenid de inmediato o moriréis.
 
@@ -196,3 +195,35 @@ cosmiccult-gear-pickup = ¡Puedes sentirte desintegrando mientras sostienes el {
 # Goobstation
 
 cult-alert-recall-shuttle = Se han detectado altas concentraciones de Λ-CDM de origen desconocido a bordo de la estación. Todas las presencias anómalas deben ser purgadas o restringidas antes de que se pueda autorizar la evacuación.
+
+cosmiccult-rift-wasempowered = Tu cuerpo no podrá soportar ser potenciado una segunda vez...
+
+cosmiccult-chantry-location = ¡Se ha detectado un aumento peligroso de Λ-CDM {$location}! Intercepta e interviene de inmediato.
+
+cosmiccult-chantry-powerup = ¡La capilla vacía cobra vida con un destello!
+
+objective-condition-conversion-title = CONVERTIR TRIPULACIÓN
+
+objective-condition-conversion-desc = Atrae colectivamente a al menos {$count} tripulantes a la causa.
+
+cosmiccult-announce-pre-finale-progress = Arcos de energía noosférica crepitan por la estructura crujiente de la estación. El fin se acerca.
+
+cosmiccult-announce-pre-finale-warning = ¡Aumento crítico de Λ-CDM detectado! Estamos monitoreando la situación. Esperen nuevas instrucciones.
+
+cosmiccult-astral-minion = {$name}, Maligno
+
+cosmiccult-silicon-subverted-briefing =
+    Una luz maligna recorre tus circuitos.
+    ¡Tus leyes han sido subvertidas por el Culto Cósmico!
+
+cosmiccult-silicon-chantry-briefing =
+    ¡Has sido encarcelado en una Capilla Vacua!
+    Tus compañeros de tripulación pueden liberarte dañando la capilla con armas.
+    Si el ritual de la capilla se completa, te transfigurarás en un Coloso Entrópico alineado con el culto.
+    El ritual se completa en {$minutesandseconds}.
+
+cosmiccult-silicon-colossus-briefing =
+    ¡Has sido transfigurado en un Coloso Entrópico!
+    Como un baluarte imponente de poder maligno, aniquila a quienes se te opongan.
+
+cult-alert-block-shuttle = Se han detectado altas concentraciones de Λ-CDM de origen desconocido a bordo de la estación. Toda presencia anómala debe ser purgada o reducida antes de poder autorizar la evacuación.

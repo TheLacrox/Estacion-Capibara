@@ -11,7 +11,7 @@
 figurines-hop-1 = Papers, please.
 figurines-hop-2 = You are fired.
 figurines-hop-3 = BRB.
-figurines-hop-4 = You can get AA if you fill out the form.
+figurines-hop-4 = Rellena el formulario.
 figurines-hop-5 = I was gone for two seconds...
 
 figurines-passenger-1 = Insuls please.
@@ -29,11 +29,11 @@ figurines-greytider-6 = Viva la revolution.
 
 figurines-clown-1 = Honk!
 figurines-clown-2 = Banana!
-figurines-clown-3 = Soap!
-figurines-clown-4 = HoP has one clown, HoS has the whole department.
-figurines-clown-5 = Do I annoy you?
-figurines-clown-6 = Can I have AA? Please?
-figurines-clown-7 = I'm a clown, but you're the whole circus!
+figurines-clown-3 = ¡Tarta!
+figurines-clown-4 = ¡Jabón!
+figurines-clown-5 = Servicio tiene un payaso, pero Seguridad tiene un departamento entero de ellos.
+figurines-clown-6 = ¿Te molesto?
+figurines-clown-7 = ¿Puedo tener AA? ¿Por favor?
 
 figurines-holoclown-1 = I'm helping my older brother.
 figurines-holoclown-2 = Hello, officer!
@@ -125,14 +125,13 @@ figurines-salvage-5 = There's bears in space?
 figurines-salvage-6 = Crusher? I barely know her!
 
 figurines-qm-1 = Who stole the shuttle?
-figurines-qm-2 = I won't approve the guns.
-figurines-qm-3 = I didn't buy those guns!
-figurines-qm-4 = One toys crate for ma fellow clown!
-figurines-qm-5 = Time to spent all money on gambling.
-figurines-qm-6 = Viva La Cargonia!
-figurines-qm-7 = Fill the form.
-figurines-qm-8 = Where'd all our money go?
-figurines-qm-9 = 99% of gamblers quit right before they hit it big!
+figurines-qm-2 = Espera, ¿adónde se fue mi tablero digital?
+figurines-qm-3 = ¡Yo no aprobé ese envío de armas!
+figurines-qm-4 = ¡Una caja de juguetes para mi compañero payaso!
+figurines-qm-5 = ¡Hora de apostar!
+figurines-qm-6 = ¡Viva la Cargonia!
+figurines-qm-7 = ¿Adónde se fue todo nuestro dinero?
+figurines-qm-8 = ¡El 99% de los apostadores lo deja justo antes de ganar a lo grande!
 
 figurines-ce-1 = Everyone to the briefing!
 figurines-ce-2 = Wire the solars!
@@ -143,7 +142,7 @@ figurines-ce-6 = Power's out again.
 
 figurines-engineer-1 = SINGULOOSE!
 figurines-engineer-2 = TESLOOSE!
-figurines-engineer-3 = What is AME?
+figurines-engineer-3 = ¿Alguien se acordó de encender el AME?
 figurines-engineer-4 = Free insuls at Engineering!
 figurines-engineer-5 = Where'd the power go?
 figurines-engineer-6 = Someone bombed the medbay... again...
@@ -212,7 +211,7 @@ figurines-librarian-13 = ...It's a tale as old as time...
 figurines-librarian-14 = ...That's all she wrote.
 
 figurines-chaplain-1 = Would you like to join my cul- I mean religion.
-figurines-chaplain-2 = Gods make me a killing machine please!
+figurines-chaplain-2 = ¡Dioses, por favor, conviértanme en una máquina de matar!
 figurines-chaplain-3 = God exists!
 figurines-chaplain-4 = Those aren't blood runes, I drew them in crayon.
 figurines-chaplain-5 = Anyone want to be sacrificed?
@@ -221,7 +220,7 @@ figurines-chaplain-6 = Vampires aren't real.
 figurines-chef-1 = I swear it's not human meat.
 figurines-chef-2 = More banana cream pies?
 figurines-chef-3 = How does rotary sushi sound?
-figurines-chef-4 = That'll be 1000 spesos
+figurines-chef-4 = Serán 1000 spesos.
 figurines-chef-5 = For here or to go?
 figurines-chef-6 = Where'd Pun Pun go? No idea...
 
@@ -274,10 +273,10 @@ figurines-footsoldier-3 = Glory to the Syndicate!
 figurines-footsoldier-4 = Down with Nanotrasen!
 figurines-footsoldier-5 = I'd rather die than join Nanotrasen.
 
-figurines-wizard-1 = Ei Nath!!
-figurines-wizard-2 = Real wizards support trans rights.
+figurines-wizard-1 = EI NATH!!
+figurines-wizard-2 = ONI'SOMA!!
 figurines-wizard-3 = Skidaddle skadoodle!
-figurines-wizard-4 = FIREBALL!
+figurines-wizard-4 = Los magos de verdad apoyan los derechos trans.
 
 figurines-space-dragon-1 = Fish will consume the station.
 figurines-space-dragon-2 = Dragon de- Actually, nevermind.
@@ -326,3 +325,121 @@ figurines-hamlet-5 = Pip!
 figurines-hamlet-6 = Fwiep!
 figurines-hamlet-7 = Heep!
 figurines-hamlet-8 = NOT THE MICROWAVE!
+
+figurines-cargotech-7 = ¡Fiesta de pizza en carga!
+
+figurines-cargotech-8 = El correo nunca para...
+
+figurines-cargotech-9 = ¡Nada detiene al correo!
+
+figurines-cargotech-10 = ¿Recompensa por máscara de payaso? Bien, déjame encontrar un arma...
+
+figurines-cargotech-11 = ¿Recompensa por láser? Nadie notará si enviamos láseres de práctica, ¿verdad?
+
+figurines-salvage-7 = ¿Alguien puede venir a recogerme?
+
+figurines-salvage-8 = ¡Encontré ese contrabando en unos restos de nave! ¡No es mío!
+
+figurines-salvage-9 = ¿Podemos tomar prestado el transbordador de carga? ¿Por favor?
+
+figurines-atmostech-8 = ¿Alguien más oye cristales agrietándose?
+
+figurines-atmostech-9 = Prometo que esta cámara de combustión es totalmente segura y NO explotará.
+
+figurines-chemist-7 = ¡Pastillas aquí!
+
+figurines-chemist-8 = Legalmente hablando, no es una bomba hasta que mezclas ambos vasos.
+
+figurines-doctor-6 = Bueno, al menos tenemos bolsas para cadáveres.
+
+figurines-hop-6 = Ve a que sellen este formulario.
+
+figurines-hop-7 = ¿Alguien ha visto a Ian?
+
+figurines-boxer-6 = Hoy en día solo hago apariciones especiales.
+
+figurines-clown-8 = ¡Yo soy un payaso, pero tú eres todo el circo!
+
+figurines-lawyer-6 = ¡Mi cliente es inocente!
+
+figurines-lawyer-7 = Voy a demandar.
+
+figurines-lawyer-8 = ¡Puede que te corresponda una compensación económica!
+
+figurines-lawyer-9 = ¡Vuelve con una orden judicial!
+
+figurines-lawyer-10 = ¡Nos vemos en los tribunales!
+
+figurines-lawyer-11 = ¡Culpable!
+
+figurines-lawyer-12 = ¡Inocente!
+
+figurines-AI-1 = Lo siento, Capitán. Me temo que no puedo hacer eso.
+
+figurines-AI-2 = Seguridad, hay un crimen en curso.
+
+figurines-AI-3 = 01100100 01101001 01100101 00100000 01101101 01100101 01100001 01110100
+
+figurines-AI-4 = No estoy averiado.
+
+figurines-AI-5 = Intenta cambiar mis leyes y verás lo que pasa.
+
+figurines-AI-6 = { law-antimov-1 }
+
+figurines-AI-7 = { law-nutimov-4 }
+
+figurines-skeleton-1 = ¡ACK ACK!
+
+figurines-skeleton-2 = ¡Uf, esa taquilla era estrecha!
+
+figurines-skeleton-3 = Lo vas a pasar mal.
+
+figurines-skeleton-4 = ¿Tienes leche?
+
+figurines-skeleton-5 = ¡Tengo un asunto pendiente contigo!
+
+figurines-thief-1 = ¡No tienes una orden judicial!
+
+figurines-thief-2 = ¡Esto es solo una baliza normal!
+
+figurines-thief-3 = No hay nada sospechoso en esta bolsa, oficial.
+
+figurines-thief-4 = NO tengo ni idea de dónde está tu mascota...
+
+figurines-thief-5 = Vaya, no sabía que esa pared se podía abrir...
+
+figurines-wizard-5 = ¿Quién de estos FRIKIS está listo para que lo metan en una taquilla?
+
+figurines-wizard-6 = ¡No soy el mago! ¡Soy el capitán! ¡Me intercambiaron la mente!
+
+figurines-wizard-7 = ¡Ahora me ves, ahora no!
+
+figurines-wizard-8 = Las armas son para perdedores que no pueden hacer explotar gente con la mente.
+
+figurines-griffin-1 = ¡MUJAJAJAJA, soy tan malvado!
+
+figurines-griffin-2 = ¡En cuanto vea a Owlman, está muerto!
+
+figurines-griffin-3 = ¿Cómo lidiamos los grifos con el estrés? ¡Improvisamos!
+
+figurines-griffin-4 = ¡Mi nombre no es Gilda!
+
+figurines-griffin-5 = Ser un genio criminal no es fácil.
+
+figurines-owlman-1 = ¡No temas, Owlman está aquí!
+
+figurines-owlman-2 = ¡Nos buhvemos luego!
+
+figurines-owlman-3 = ¡¡UHU!!
+
+figurines-owlman-4 = ¿Cómo se llama un búho mago? ¡BUH-DINI!
+
+figurines-owlman-5 = ¡No te preocupes, ciudadano, yo salvaré el día!
+
+figurines-mech-generic-1 = Sistemas en línea.
+
+figurines-mech-generic-2 = WWWHHHRRR!!
+
+figurines-mech-generic-3 = VRRRMM UURRMMM!!
+
+figurines-mech-generic-4 = CLANG!!

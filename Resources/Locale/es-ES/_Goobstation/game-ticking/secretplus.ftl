@@ -2,7 +2,7 @@ secretplus-low-title = Secreto+ Ligero
 secretplus-low-description = Relativamente tranquilo. Pero no siempre.
 
 secretplus-mid-title = Secreto+ Medio
-secretplus-mid-description = Enfrenta amenazas desconocidas pero equilibradas.
+secretplus-mid-description = En algún punto entre la calma y el caos.
 
 secretplus-admeme-title = Secreto+ Caos
 secretplus-admeme-description = Si puede suceder, sucederá.
@@ -13,3 +13,7 @@ survivalplus-description = Empieza bastante tranquilo. Termina no tanto.
 # Capibara: translations ported from upstream
 secretplus-lowpop-title = Secreto+ Poca Población
 secretplus-lowpop-description = Más activo y menos amenazante. Para tripulaciones reducidas.
+
+secretplus-high-title = Secret+ alto
+
+secretplus-high-description = Enfréntate a amenazas desconocidas pero equilibradas.

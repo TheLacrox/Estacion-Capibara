@@ -264,3 +264,11 @@ ent-ActionSummonSimiansIV = Invocar Simios IV
 
 ent-ActionSummonSimiansV = Invocar Simios V
     .desc = Este hechizo llega a lo más profundo del plano elemental de los plátanos (el de los monos, no el de los payasos), e invoca monos y gorilas menores frente a ti que de inmediato enloquecerán y atacarán a todo lo que esté a la vista. ¡Divertido\!
+
+ent-ActionSummonSupermatterII = Invocar supermatter II
+
+ent-ActionSummonSupermatterIII = Invocar supermatter III
+
+ent-ActionSummonSupermatterIV = Invocar supermatter IV
+
+ent-ActionSummonSupermatterV = Invocar supermatter V

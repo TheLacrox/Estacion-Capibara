@@ -10,3 +10,8 @@ ent-Gyroscope = giroscopio
 # Can't be unanchored and hard to destroy
 ent-ThrusterShuttleEvac = propulsor
     .desc = Un propulsor que permite a una lanzadera moverse.
+
+ent-ThrusterLarge = propulsor grande
+
+ent-RustedThruster = propulsor oxidado
+    .desc = Un propulsor irreparable, averiado por el desgaste. Solo sirve para chatarra.

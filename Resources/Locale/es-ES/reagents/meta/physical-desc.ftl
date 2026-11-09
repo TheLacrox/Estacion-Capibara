@@ -124,3 +124,7 @@ reagent-physical-desc-slimy = viscoso
 reagent-physical-desc-neural = neural
 reagent-physical-desc-unidentifiable = no identificable
 reagent-physical-desc-non-newtonian = no newtoniano
+
+reagent-physical-desc-thin = fino
+
+reagent-physical-desc-arcryox = azul glacial

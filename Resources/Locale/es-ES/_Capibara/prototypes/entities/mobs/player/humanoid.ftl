@@ -33,3 +33,11 @@ ent-RandomHumanoidSpawnerSyndicateAgent = agente del Syndicate
 ent-RandomHumanoidSpawnerNukeOp = Operativo Nuclear
 
 ent-RandomHumanoidSpawnerCluwne = Cluwne
+
+ent-RandomHumanoidSpawnerERTSecurityArmedRifle = fusilero de seguridad del ERT
+
+ent-RandomHumanoidSpawnerERTSecurityArmedGrenade = granadero de seguridad del ERT
+
+ent-RandomHumanoidSpawnerERTSecurityArmedVanguard = vanguardia de seguridad del ERT
+
+ent-RandomHumanoidSpawnerERTSecurityArmedShotgun = rompepuertas de seguridad del ERT

@@ -59,3 +59,19 @@ lathe-category-command = Comando
 lathe-category-hats = Sombreros
 lathe-category-jumpsuits = Monos
 lathe-category-neck = Cuello
+
+lathe-category-circuit-tile = Circuito
+
+lathe-category-concrete-tile = Hormigón
+
+lathe-category-dark-tile = Oscuro
+
+lathe-category-faux-tile = Falso
+
+lathe-category-maints-tile = Mantenimiento
+
+lathe-category-steel-tile = Acero
+
+lathe-category-white-tile = Blanco
+
+lathe-category-wood-tile = Madera

@@ -12,3 +12,6 @@ ent-PowerSensor = sensor de energía
 
 ent-MemoryCell = celda de memoria
     .desc = Un circuito D-Latch que almacena una señal que puede cambiar dependiendo de los puertos de entrada y habilitación.
+
+ent-RandomGate = compuerta aleatoria
+    .desc = Una compuerta lógica que emite una señal aleatoria cuando cambia la entrada.

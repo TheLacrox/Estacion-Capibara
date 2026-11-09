@@ -34,3 +34,79 @@ toolshed-verb-mark = Marcar
 toolshed-verb-mark-description = Coloca esta entidad en la variable $marked, una lista de entidades, reemplazando su valor anterior.
 
 export-entity-verb-get-data-text = Exportar sprite
+
+admin-verbs-rejuvenate = Rejuvenecer
+
+admin-verbs-make-indestructible = Hacer indestructible
+
+admin-verbs-make-vulnerable = Hacer vulnerable
+
+admin-verbs-refill-battery = Recargar batería
+
+admin-verbs-drain-battery = Vaciar batería
+
+admin-verbs-infinite-battery = Batería infinita
+
+admin-verbs-block-unanchoring = Bloquear desanclaje
+
+admin-verbs-refill-internals-oxygen = Rellenar oxígeno interno
+
+admin-verbs-refill-internals-nitrogen = Rellenar nitrógeno interno
+
+admin-verbs-refill-internals-plasma = Rellenar plasma interno
+
+admin-verbs-send-to-test-arena = Enviar a la arena de pruebas
+
+admin-verbs-grant-all-access = Conceder todo el acceso
+
+admin-verbs-revoke-all-access = Revocar todo el acceso
+
+admin-verbs-adjust-stack = Ajustar pila
+
+admin-verbs-fill-stack = Llenar pila
+
+admin-verbs-rename = Renombrar
+
+admin-verbs-redescribe = Redescribir
+
+admin-verbs-rename-and-redescribe = Renombrar y redescribir
+
+admin-verbs-bar-job-slots = Bloquear puestos de trabajo
+
+admin-verbs-locate-cargo-shuttle = Localizar transbordador de carga
+
+admin-verbs-halt-movement = Detener movimiento
+
+admin-verbs-unpause-map = Reanudar mapa
+
+admin-verbs-pause-map = Pausar mapa
+
+admin-verbs-snap-joints = Ajustar uniones
+
+admin-verbs-make-minigun = Crear minigun
+
+admin-verbs-set-bullet-amount = Fijar cantidad de balas
+
+admin-verbs-bolt = Poner pernos
+
+admin-verbs-unbolt = Quitar pernos
+
+admin-verbs-emergency-access-on = Acceso de emergencia activado
+
+admin-verbs-emergency-access-off = Acceso de emergencia desactivado
+
+admin-verbs-dialog-adjust-stack-amount = Cantidad (máx. {$max})
+
+admin-verbs-dialog-rename-title = Renombrar
+
+admin-verbs-dialog-rename-name = Nombre
+
+admin-verbs-dialog-redescribe-title = Redescribir
+
+admin-verbs-dialog-redescribe-description = Descripción
+
+admin-verbs-dialog-rename-and-redescribe-title = Renombrar y redescribir
+
+admin-verbs-dialog-set-bullet-amount-title = Fijar cantidad de balas
+
+admin-verbs-dialog-set-bullet-amount-amount = Cantidad (estándar {$cap})

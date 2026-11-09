@@ -7,22 +7,15 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 thief-role-greeting-human =
-    Eres escoria criminal, un cleptómano
-    previamente arrestado y en libertad condicional por hurto menor.
-    Necesitas añadir más cosas a tu colección.
-    Te pusieron a la fuerza un implante de pacifismo tras tu último arresto,
-    pero eso no puede impedirte obtener tu dosis por cualquier medio necesario.
+    Eres escoria criminal, un cleptómano arrestado previamente y en libertad condicional por hurto menor. Necesitas añadir más a tu colección.
+    Te implantaron a la fuerza un implante de pacifismo tras tu último arresto, pero eso no puede impedirte conseguir tu dosis por todos los medios necesarios.
 
 thief-role-greeting-animal =
     Eres un animal cleptómano.
     Roba las cosas que te gusten.
 
 thief-role-greeting-equipment =
-    Tienes un maletín de herramientas
-    de ladrón y posees la habilidad innata
-    de robar sin ser notado.
-    Elige tu equipo inicial
-    y trabaja con sigilo.
+    Tienes una bolsa de herramientas de ladrón y posees la habilidad innata de robar sin que nadie lo note. Elige tu equipo inicial y haz tu trabajo con sigilo.
 
 objective-issuer-thief = [color=#746694]Criminal[/color]
 

@@ -10,3 +10,7 @@ admin-alert-shared-connection = {$player} comparte conexión con {$otherCount} j
 admin-alert-ipintel-blocked = {$player} fue rechazado al intentar unirse porque su IP tiene un {TOSTRING($percent, "P2")} de probabilidad de ser una VPN/Centro de datos.
 admin-alert-ipintel-warning = La IP de {$player} tiene un {TOSTRING($percent, "P2")} de probabilidad de ser una VPN/Centro de datos. Por favor, vigíla.
 admin-alert-antag-label = {$message} [ANTAGONISTA: {$name}, {$subtype}]
+
+admin-alert-tp-to-players-header = Jugadores:{" "}
+
+admin-alert-tp-to-coords-header = Coordenadas:{" "}

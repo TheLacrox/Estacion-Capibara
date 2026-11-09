@@ -100,3 +100,7 @@ spellbook-upgrade-simians-desc = ¡Mejora Convocar Simios hasta un máximo de ni
 # Capibara: translations ported from upstream
 spellbook-upgrade-rathen-name = Mejora del Secreto de Rathen
 spellbook-upgrade-rathen-desc = ¡Mejora el Secreto de Rathen hasta un máximo de nivel 3!
+
+spellbook-upgrade-summon-supermatter-name = Mejora de Invocar supermateria
+
+spellbook-upgrade-summon-supermatter-desc = ¡Mejora Invocar supermateria hasta un máximo de nivel 5! Cada nivel reduce el tiempo de reutilización en un minuto.

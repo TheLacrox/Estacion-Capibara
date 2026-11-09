@@ -5,3 +5,5 @@ construction-graph-component-second-flash = segundo flash
 construction-graph-component-power-cell = pila de energía
 construction-graph-component-apc-electronics = electrónica del APC
 construction-graph-component-payload-trigger = disparador
+
+construction-graph-component-borg-brain = MMI o cerebro positrónico

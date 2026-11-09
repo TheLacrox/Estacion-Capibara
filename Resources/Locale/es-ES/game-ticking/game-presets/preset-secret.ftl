@@ -7,3 +7,7 @@
 
 secret-title = Secreto Clásico
 secret-description = Es un secreto para todos. Las amenazas que encuentres son aleatorias. Esta es la versión clásica de Secreto, que simplemente elige un modo de juego sin escalar con el caos de la estación.
+
+dynamic-title = Dinámico
+
+dynamic-description = Nadie sabe lo que viene. Puedes encontrarte con cualquier cantidad de amenazas.

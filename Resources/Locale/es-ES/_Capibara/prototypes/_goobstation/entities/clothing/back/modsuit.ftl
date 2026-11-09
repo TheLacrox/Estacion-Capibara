@@ -24,3 +24,6 @@ ent-ClothingModsuitResearchDirector = unidad de control del modtraje minerva del
 
 ent-ClothingModsuitCaptain = unidad de control del modtraje magnate del capitán
     .desc = Un modtraje acorazado incrustado de gemas, pulido como un espejo y absolutamente MAGNATE. El líquido refrigerante es sangre de dragón rebajada con Dr. Gibb. Esto no es nada para ti, tío.
+
+ent-ClothingModsuitBrigMed = unidad de control del modtraje de trauma de seguridad
+    .desc = Una robusta unidad de control modular para curar comunistas en el espacio.

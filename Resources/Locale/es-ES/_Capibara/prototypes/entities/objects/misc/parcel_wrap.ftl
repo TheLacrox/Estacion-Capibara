@@ -6,3 +6,6 @@ ent-WrappedParcel = paquete envuelto
 
 ent-ParcelWrapTrash = papel de embalaje
     .desc = Los decepcionantes restos de un paquete desenvuelto.
+
+ent-ParcelWrapAdmeme = envoltorio bluespace
+    .desc = Papel usado para contener objetos durante el transporte. Este parece poder almacenar en su interior una cantidad inusual de espacio.

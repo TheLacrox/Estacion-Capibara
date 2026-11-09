@@ -385,3 +385,5 @@ flavor-complex-punishment = a castigo
 flavor-complex-artifact-glue = a artefactos triturados
 flavor-weh = a weh
 flavor-hew = a hew
+
+flavor-complex-canned-tuna = como atún enlatado

@@ -47,3 +47,17 @@ chem-master-window-sort-type-none = Ordenar por: Más antiguos primero
 chem-master-window-sort-type-alphabetical = Ordenar por: Alfabético
 chem-master-window-sort-type-quantity = Ordenar por: Cantidad
 chem-master-window-sort-type-latest = Ordenar por: Más recientes primero
+
+chem-master-output-buffer-draw = Búfer
+
+chem-master-output-beaker-draw = Vaso
+
+chem-master-window-no-beaker-text = Sin vaso cargado
+
+chem-master-window-beaker-empty-text = Vaso vacío
+
+chem-master-window-beaker-low-text = No hay suficiente solución en el vaso
+
+chem-master-output-source = Origen del envasado:
+
+chem-master-no-source = Sin origen

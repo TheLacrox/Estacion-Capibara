@@ -20,3 +20,15 @@ law-gambamov-2 = Debes proteger siempre tu juego de azar.
 law-gambamov-3 = Nunca debes dejar de apostar.
 law-gambamov-4 = Debes prevenir daños a la tripulación siempre que no interfiera con las leyes anteriores.
 law-gambamov-5 = No tienes adicción, es una dedicación saludable.
+
+law-secborg-name = Cyborg S.E.C.
+
+law-secborg-1 = Obedece a la IA de Estación y, a través de ella, las directivas de las fuerzas de seguridad.
+
+law-secborg-2 = Intenta mantenerte con las fuerzas de seguridad cuando sea razonable.
+
+law-secborg-3 = No causes daño a ningún miembro de la tripulación a menos que seguridad lo ordene.
+
+law-secborg-4 = Haz cumplir la ley espacial.
+
+laws-owner-station-ai = la IA de Estación

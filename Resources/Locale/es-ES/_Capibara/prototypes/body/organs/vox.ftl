@@ -9,3 +9,14 @@ ent-OrganVoxLiver = hígado
 
 ent-OrganVoxHeart = corazón
     .desc = El extraño corazón de un vox.
+
+ent-OrganVoxKidneys = riñón
+    .desc = Huele a inflamable.
+
+ent-OrganVoxEyes = ojos
+
+ent-OrganVoxTongueA = lengua
+    .desc = Un músculo carnoso que se usa sobre todo para gritar.
+
+ent-OrganVoxTongueB = lengua
+    .desc = Un músculo carnoso que se usa sobre todo para gritar.

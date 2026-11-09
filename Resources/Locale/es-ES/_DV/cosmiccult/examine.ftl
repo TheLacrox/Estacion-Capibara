@@ -18,7 +18,29 @@ cosmic-examine-glyph-cultcount = {$COUNT ->
 
 cosmic-examine-glyph-truth = [color=#4cabb3]Inculca la verdad pura e indeleble. Capaz de convertir a absolutamente cualquiera para unirse a nuestras filas.[/color]
 cosmic-examine-glyph-knowledge = [color=#4cabb3]Inculca la chispa del conocimiento indeleble. Capaz de convertir a la mayoría para unirse a nuestras filas.[/color]
-cosmic-examine-glyph-cessation = [color=#4cabb3]Transmuta un depurador portátil de gases en una Aguja del Vacío para nuestro uso.[/color]
+cosmic-examine-glyph-cessation = [color=#4cabb3]Transmuta diversa maquinaria en dispositivos misteriosos para nuestro uso.[/color]
 cosmic-examine-glyph-projection = [color=#4cabb3]Nos permite ascender en una forma astral temporal para espiar a quienes nos rodean.[/color]
 cosmic-examine-glyph-blades = [color=#4cabb3]Transmuta y extruye objetos afilados en armas más letales.[/color]
 cosmic-examine-glyph-warding = [color=#4cabb3]Transmuta ropa resistente a la presión en atuendo entrópico.[/color]
+
+cosmic-examine-text-entities = [color=#4cabb3]¡Esta entidad no debería estar en la estación![/color]
+
+cosmic-examine-text-chantry = [color=#4cabb3]¡Tienes la horrible sensación de que hay alguien atrapado dentro![/color]
+
+cosmic-examine-text-effigy = [color=#4cabb3]¡Irradia energía anómala inestable![/color]
+
+cosmic-examine-text-subtle-mark = [color=#4cabb3]¡Energías de otro mundo surgen en sus ojos![/color]
+
+cosmic-examine-text-injector = [color=#4cabb3]Sientes que inyectarte esto sería tu última mala idea.[/color]
+
+cosmic-examine-text-cultentity = [color=#4cabb3]Un poderoso aliado.[/color]
+
+cosmic-examine-text-culteffigy = [color=#4cabb3]Esto podría resultar útil.[/color]
+
+cosmic-examine-transmutable = Esto puede transmutarse en [color=#4cabb3]{$result}[/color] usando [color=#4cabb3]{$glyph}[/color].
+
+cosmic-examine-transmutable-verb-text = Transmutabilidad.
+
+cosmic-examine-transmutable-error = Este objeto debería ser transmutable, pero no parece funcionar.
+
+cosmic-examine-text-injector-cult = [color=#4cabb3]Una poderosa dosis de estimulantes... o un veneno para nuestros enemigos.[/color]

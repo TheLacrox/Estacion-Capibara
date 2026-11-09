@@ -16,8 +16,8 @@
 injector-draw-text = Extraer
 injector-inject-text = Inyectar
 injector-invalid-injector-toggle-mode = Inválido
-injector-volume-label = Volumen: [color=white]{$currentVolume}/{$totalVolume}[/color]
-    Modo: [color=white]{$modeString}[/color] ([color=white]{$transferVolume}u[/color])
+injector-volume-label = Volumen: [color=white]{$currentVolume}/{$totalVolume}u[/color]
+    Modo: [color=white]{$modeString}[/color]
 
 ## Entity
 
@@ -41,3 +41,56 @@ injector-component-injecting-user = Empiezas a introducir la aguja.
 injector-component-drawing-target = ¡{CAPITALIZE(THE($user))} está intentando usar una aguja para extraerte!
 injector-component-injecting-target = ¡{CAPITALIZE(THE($user))} está intentando inyectarte con una aguja!
 injector-component-deny-user = ¡El exoesqueleto es demasiado grueso!
+
+injector-volume-transfer-label = Volumen: [color=white]{$currentVolume}/{$totalVolume}u[/color]
+    Modo: [color=white]{$modeString}[/color] ([color=white]{$transferVolume}u[/color])
+
+injector-toggle-verb-text = Alternar modo del inyector
+
+injector-component-inject-mode-name = inyectar
+
+injector-component-draw-mode-name = extraer
+
+injector-component-dynamic-mode-name = dinámico
+
+injector-component-mode-changed-text = Modo: {$mode}
+
+injector-component-transfer-success-message-self = Te transfieres {$amount}u.
+
+injector-component-inject-success-message-self = ¡Te inyectas {$amount}u!
+
+injector-component-draw-success-message-self = Te extraes {$amount}u.
+
+injector-component-target-already-full-message-self = ¡Ya estás lleno!
+
+injector-component-target-is-empty-message-self = ¡Estás vacío!
+
+injector-component-cannot-toggle-dynamic-message = ¡No se puede alternar el modo dinámico!
+
+injector-component-empty-message = ¡{CAPITALIZE(THE($injector))} está vacío!
+
+injector-component-blocked-user = ¡El equipo protector bloqueó tu inyección!
+
+injector-component-blocked-other = ¡{CAPITALIZE(THE(POSS-ADJ($target)))} armadura bloqueó la inyección de {THE($user)}!
+
+injector-component-cannot-transfer-message-self = ¡No puedes transferirte a ti mismo!
+
+injector-component-cannot-inject-message-self = ¡No puedes inyectarte a ti mismo!
+
+injector-component-cannot-draw-message-self = ¡No puedes extraer de ti mismo!
+
+injector-component-ignore-mobs = ¡Este inyector solo puede interactuar con contenedores!
+
+injector-component-needle-injecting-user = Empiezas a inyectar con la aguja.
+
+injector-component-needle-injecting-target = ¡{CAPITALIZE(THE($user))} está intentando clavarte una aguja!
+
+injector-component-needle-drawing-user = Empiezas a extraer con la aguja.
+
+injector-component-needle-drawing-target = ¡{CAPITALIZE(THE($user))} está intentando usar una aguja para extraerte sangre!
+
+injector-component-spray-injecting-user = Empiezas a preparar la boquilla del aerosol.
+
+injector-component-spray-injecting-target = ¡{CAPITALIZE(THE($user))} está intentando colocarte una boquilla de spray!
+
+injector-component-feel-prick-message = ¡Sientes un pequeño pinchazo!

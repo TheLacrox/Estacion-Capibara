@@ -18,9 +18,9 @@ particle-accelerator-control-menu-alarm-control-2 = [bold][color=red]FALLA DEL L
 particle-accelerator-control-menu-scan-parts-button = Escanear Piezas
 particle-accelerator-control-menu-check-containment-field-warning = Asegúrese de que el campo de contención esté activo antes de operar
 particle-accelerator-control-menu-status-label = [bold]Estado:[/bold]
-particle-accelerator-control-menu-status-unknown = [font="Monospace"][color=red]Desconocido[/color][/bold]
-particle-accelerator-control-menu-status-operational = [font="Monospace"][color=green]Operativo[/color][/bold]
-particle-accelerator-control-menu-status-incomplete = [font="Monospace"][color=red]Incompleto[/color][/bold]
+particle-accelerator-control-menu-status-unknown = [font="Monospace"][color=red]Desconocido[/color][/bold][/font]
+particle-accelerator-control-menu-status-operational = [font="Monospace"][color=green]Operativo[/color][/bold][/font]
+particle-accelerator-control-menu-status-incomplete = [font="Monospace"][color=red]Incompleto[/color][/bold][/font]
 particle-accelerator-control-menu-draw = [bold]Consumo:[/bold]
 particle-accelerator-control-menu-draw-value = [font="Monospace"]{$watts}/{$lastReceive}[/font]
 particle-accelerator-control-menu-draw-not-available = [font="Monospace"][color=gray]N/D[/color][/font]

@@ -54,3 +54,6 @@ ent-ClothingBackpackSatchelHolding = maletín de almacenamiento
 
 ent-ClothingBackpackSatchelAdmin = maletín de administración
     .desc = Si de alguna manera estás viendo esto, no lo estás viendo.
+
+ent-ClothingBackpackSatchelNinja = maletín del Clan de la Araña
+    .desc = Un maletín robusto para guardar tu botín.

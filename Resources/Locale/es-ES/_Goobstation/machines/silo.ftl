@@ -7,8 +7,14 @@
 
 lathe-menu-connected-to-silo-message = Conectado al silo.
 lathe-menu-mining-points-no-connection-warning = [bold][color=red]ADVERTENCIA:[/color][/bold] Este dispositivo no está conectado a un silo de minerales. Al depositar minerales NO recibirás puntos de mineral.
-lathe-menu-mining-points-silo-not-on-same-grid = [bold][color=red]ADVERTENCIA:[/color][/bold] Este dispositivo no está en el mismo mapa que su silo. Al depositar minerales NO recibirás puntos de mineral.
+lathe-menu-mining-points-silo-not-on-same-grid = [bold][color=red]ADVERTENCIA:[/color][/bold] Este dispositivo no está en la misma cuadrícula que su silo. Al volcar mineral NO recibirás puntos de mineral.
 signal-port-name-material-silo = Silo de materiales
 signal-port-description-material-silo = Almacenamiento en espacio azul para los materiales de la estación
 signal-port-name-material-silo-utilizer = Utilizador del silo
 signal-port-description-material-silo-utilizer = Utilizador del silo de materiales de la estación
+
+lathe-menu-mining-points-silo-not-on-same-map = [bold][color=red]ADVERTENCIA:[/color][/bold] Este dispositivo no está en el mismo mapa que su silo. Al volcar mineral NO recibirás puntos de mineral.
+
+lathe-menu-mining-points-silo-out-of-range = [bold][color=red]ADVERTENCIA:[/color][/bold] ¡El silo vinculado está fuera de alcance! Al volcar mineral NO recibirás puntos de mineral.
+
+lathe-menu-mining-points-silo-invalid = [bold][color=red]ADVERTENCIA:[/color][/bold] ¡El silo vinculado no es válido! Al volcar mineral NO recibirás puntos de mineral.

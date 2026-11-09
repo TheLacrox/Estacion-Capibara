@@ -62,3 +62,45 @@ marking-HumanHairClassicBun = Moño clásico
 marking-HumanHairLooseBun = Moño suelto
 marking-HumanHairLowPonytail = Cola baja
 marking-HumanHairLongTwinTails = Coletas largas
+
+marking-HumanHairCotton = Algodón
+
+marking-HumanHairImpish = Travieso
+
+marking-HumanHairGloomyLonger = Sombrío más largo
+
+marking-HumanHairLila = Lila
+
+marking-HumanHairLongTails = Colas largas
+
+marking-HumanHairStrictLong = Largo estricto
+
+marking-HumanHairMermaid = Sirena
+
+marking-HumanHairShy = Tímido
+
+marking-HumanHairTwinTail = Coletas gemelas
+
+marking-HumanHairCubism = Cubismo
+
+marking-HumanHairDeathKid = Death Kid
+
+marking-HumanHairLongRoundedExtensions = Larga redondeada con extensiones
+
+marking-HumanHairLongTuftTipped = Larga con mechón en la punta
+
+marking-HumanHairOrb = Orbe
+
+marking-HumanHairPigtailsExtensions = Coletas con extensiones
+
+marking-HumanHairShortCurvy = Corta y rizada
+
+marking-HumanHairShortRoundedExtensions = Corta redondeada con extensiones
+
+marking-HumanHairShortTuftTipped = Corta con mechón en la punta
+
+marking-HumanHairTriangulum = Triangulum
+
+marking-HumanHairWolfcutClean = Corte lobo limpio
+
+marking-HumanHairWolfcutMeow = Corte lobo miau

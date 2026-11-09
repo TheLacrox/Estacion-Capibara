@@ -18,3 +18,6 @@ ent-DrinkIceBucket = cubitera
 
 ent-Pitcher = jarra de metal
     .desc = Una jarra de acero inoxidable aislada. El mejor amigo de todos en la mañana.
+
+ent-DrinkShakerGold = coctelera dorada
+    .desc = Una coctelera chapada en oro entregada como muestra de agradecimiento por años de servicio. No cambia el sabor de las bebidas.

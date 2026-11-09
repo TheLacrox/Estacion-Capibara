@@ -82,8 +82,8 @@ baby-jail-account-reason-overall = Tu tiempo de juego total en el servidor debe 
 
 generic-misconfigured = El servidor está mal configurado y no acepta jugadores. Por favor, contacta con el propietario del servidor e inténtalo de nuevo más tarde.
 
-ipintel-server-ratelimited = Este servidor utiliza un sistema de seguridad con verificación externa, que ha alcanzado su límite máximo de verificación. Por favor, contacta con el equipo de administración del servidor para obtener asistencia e inténtalo de nuevo más tarde.
-ipintel-unknown = Este servidor utiliza un sistema de seguridad con verificación externa, pero se encontró un error. Por favor, contacta con el equipo de administración del servidor para obtener asistencia e inténtalo de nuevo más tarde.
-ipintel-suspicious = Parece que te estás conectando a través de un centro de datos o VPN. Por razones administrativas, no permitimos conexiones VPN para jugar. Por favor, contacta con el equipo de administración del servidor si crees que esto es un error.
+ipintel-server-ratelimited = Este servidor utiliza un sistema de auditoría con verificación externa, pero el servidor ha alcanzado su límite máximo de verificaciones con el servicio externo. Ponte en contacto con el equipo de administración del servidor para informarles y obtener más ayuda, o inténtalo de nuevo más tarde.
+ipintel-unknown = Este servidor utiliza un sistema de auditoría con verificación externa, pero se ha producido un error al verificar tu conexión. Ponte en contacto con el equipo de administración del servidor para informarles y obtener más ayuda, o inténtalo de nuevo más tarde.
+ipintel-suspicious = Parece que intentas conectarte mediante un centro de datos, proxy, VPN u otra conexión sospechosa. Por motivos administrativos, no permitimos estas conexiones para jugar. Si tienes una VPN o similar activada, desactívala e intenta volver a conectarte; o contacta con el equipo de administración del servidor para que te ayuden a continuar si crees que es un error o necesitas usar estos servicios para jugar.
 
 hwid-required = Tu cliente se ha negado a enviar un ID de hardware. Por favor, contacta con el equipo de administración para obtener más asistencia.

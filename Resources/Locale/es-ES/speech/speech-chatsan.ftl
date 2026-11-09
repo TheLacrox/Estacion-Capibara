@@ -207,15 +207,23 @@ chatsan-word-67 = allg
 chatsan-replacement-67 = todo bien
 
 # goob start
-chatsan-word-68 = ts
-chatsan-replacement-68 = esta mierda
+chatsan-word-68 = idk
+chatsan-replacement-68 = no lo sé
 
-chatsan-word-69 = pmo
-chatsan-replacement-69 = me saca de quicio
+chatsan-word-69 = wya
+chatsan-replacement-69 = dónde estás
 
-chatsan-word-70 = sybau
-chatsan-replacement-70 = cierra tu maldita boca
+chatsan-word-70 = ts
+chatsan-replacement-70 = esta mierda
 
-chatsan-word-71 = icl
-chatsan-replacement-71 = no puedo mentir
+chatsan-word-71 = pmo
+chatsan-replacement-71 = me saca de quicio
 # goob end
+
+chatsan-word-72 = sybau
+
+chatsan-replacement-72 = cállate la puta boca
+
+chatsan-word-73 = icl
+
+chatsan-replacement-73 = no puedo mentir

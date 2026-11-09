@@ -24,3 +24,9 @@ credits-window-attributions-copyright = [color=white]Copyright:[/color] {$copyri
 credits-window-attributions-license = [color=white]Licencia:[/color] {$license}
 credits-window-attributions-source = [color=white]Fuente:[/color] {$source}
 credits-window-attributions-failed = [color=red]Error al leer el archivo:[/color] {$file}
+
+credits-window-immortals-title = In memoriam
+
+credits-window-previous-page-button = Página anterior
+
+credits-window-next-page-button = Página siguiente

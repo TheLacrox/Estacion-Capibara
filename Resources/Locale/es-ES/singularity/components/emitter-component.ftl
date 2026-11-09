@@ -23,5 +23,5 @@ comp-emitter-turned-off = El {$target} se apaga.
 # Shows if the user attempts to activate the emitter while it's un-anchored.
 comp-emitter-not-anchored = ¡El {$target} no está anclado al suelo!
 
-emitter-component-current-type = El tipo seleccionado actualmente es: {$type}.
+emitter-component-current-type = El tipo seleccionado actualmente es: [color=yellow]{$type}[/color].
 emitter-component-type-set = Tipo configurado a: {$type}

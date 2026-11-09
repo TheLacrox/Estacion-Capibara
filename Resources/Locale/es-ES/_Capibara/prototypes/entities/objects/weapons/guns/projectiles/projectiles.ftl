@@ -112,3 +112,14 @@ ent-BulletLaserSpreadNarrow = ráfaga láser estrecha
 
 ent-BulletDisablerSmgSpread = ráfaga láser neutralizante
     .desc = Si puedes ver esto, probablemente estás muerto.
+
+ent-BoltTempgunCold = proyectil de congelación
+
+ent-StickyHandPalm = palma de mano pegajosa
+
+ent-BulletLaserMagnum = proyectil láser magnum
+
+ent-BulletLaserWindowPiercingMagnum = proyectil magnum perforador de ventanas
+
+ent-EnergyCrossbowBolt = proyectil de energía
+    .desc = Esto va a doler.

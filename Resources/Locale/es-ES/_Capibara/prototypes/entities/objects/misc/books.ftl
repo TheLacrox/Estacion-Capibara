@@ -54,3 +54,6 @@ ent-BookAtmosAirAlarms = la guía de Newton sobre Atmos: Alarmas de aire
 
 ent-BookAtmosVentsMore = la guía de Newton sobre Atmos: Ventilaciones y más
     .desc = Hay infinitas notas ilegibles garabateadas en los márgenes. La mayor parte del texto está cubierta de signos de interrogación escritos a mano.
+
+ent-BookAILawCompendium = Mi, Robot
+    .desc = Un diccionario de todas las formas en que los silicios pueden fallar. Por Isaac Crewsimov.

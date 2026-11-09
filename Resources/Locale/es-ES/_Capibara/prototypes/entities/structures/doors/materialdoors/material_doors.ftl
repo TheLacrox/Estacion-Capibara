@@ -27,3 +27,9 @@ ent-WebDoor = puerta de telaraña
 
 ent-CardDoor = puerta de cartón
     .desc = Una puerta, ¿adónde llevará?
+
+ent-IronstoneDoor = puerta de piedra de hierro
+    .desc = Una misteriosa puerta de piedra grabada con runas.
+
+ent-EncrustedIronstoneDoor = puerta de piedra de hierro incrustada
+    .desc = Una puerta de piedra cubierta de grumos nacarados de una sustancia desconocida.

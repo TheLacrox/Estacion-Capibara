@@ -65,10 +65,10 @@ thief-backpack-category-sleeper-description =
 
 thief-backpack-category-communicator-name = Kit comunicador
 thief-backpack-category-communicator-description =
-    El dinero es poder, y los secretos son dinero. Usa tu labia
-    y riqueza para subvertir la estación.
+    El dinero es poder y los secretos son dinero. Usa tu labia
+    y tu riqueza para subvertir la estación.
     Incluye: Llave maestra para todos los canales de la estación, un bolígrafo CyberSun,
-    máscara camaleón de voz y 20k spesos dentro de un maletín.
+    implantador de máscara de voz y 20k spesos dentro de un maletín.
 
 thief-backpack-category-smuggler-name = Kit contrabandista
 thief-backpack-category-smuggler-description =

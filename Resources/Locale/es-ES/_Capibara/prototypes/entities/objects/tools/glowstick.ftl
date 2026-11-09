@@ -24,3 +24,5 @@ ent-LightBehaviourTest4 = prueba de aparición gradual de luz
 ent-LightBehaviourTest5 = prueba de radio de pulso de luz
 
 ent-LightBehaviourTest6 = prueba de radio aleatorio de luz
+
+ent-GlowstickGreen = barra luminosa verde

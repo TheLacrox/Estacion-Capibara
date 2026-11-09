@@ -18,3 +18,6 @@ ent-RagItem = trapo húmedo
 
 ent-WireBrush = cepillo de alambre
     .desc = Un cepillo de alambre de acero con cerdas, perfecto para raspar incluso las manchas de óxido más resistentes.
+
+ent-WireBrushElectrical = cepillo de alambre eléctrico
+    .desc = Un cepillo de alambre de acero con cerdas y cabezal móvil que facilita mucho la limpieza.

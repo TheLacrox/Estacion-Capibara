@@ -11,3 +11,6 @@ ent-StationAiHoloLocal = holograma de IA
     .desc = Una representación holográfica de una IA.
 
 ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = generador de borg de invasión del Syndicate
+
+ent-PlayerStationAiAssembly = ensamblaje de núcleo de IA
+    .desc = Un núcleo de computadora sin terminar para alojar una inteligencia artificial.

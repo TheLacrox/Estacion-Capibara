@@ -9,3 +9,6 @@ ent-Betty = Betty
 
 ent-PoliceBaton = porra policial
     .desc = Una porra de madera para golpear a la escoria criminal.
+
+ent-StunbatonSEC = porra eléctrica S.E.C.
+    .desc = Una porra eléctrica de grado de seguridad con celda autorrecargable, hecha para operaciones prolongadas de sumisión.

@@ -26,9 +26,19 @@ health-examinable-carbon-Heat-75 = [color=orange]{ CAPITALIZE(SUBJECT($target)) 
 health-examinable-carbon-Shock-50 = [color=lightgoldenrodyellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } marcas de descarga eléctrica por todo el cuerpo![/color]
 
 health-examinable-carbon-Cold-25 = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } congelación menor por todo el cuerpo.[/color]
-health-examinable-carbon-Cold-50 = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } congelación grave por todo el cuerpo.[/color]
-health-examinable-carbon-Cold-75 = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } congelación de tercer grado severa por todo el cuerpo![/color]
+health-examinable-carbon-Cold-50 = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } congelación grave de tercer grado en { POSS-ADJ($target) } extremidades.[/color]
+health-examinable-carbon-Cold-75 = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } extremidades están oscuras, frías y necróticas.[/color]
 
 health-examinable-carbon-Caustic-25 = [color=yellowgreen]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } quemaduras químicas menores.[/color]
 health-examinable-carbon-Caustic-50 = [color=yellowgreen]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } quemaduras químicas por todo el cuerpo.[/color]
 health-examinable-carbon-Caustic-75 = [color=yellowgreen]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } quemaduras químicas severas por todo el cuerpo![/color]
+
+health-examinable-carbon-Cold-8 = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } congelación leve en la punta de { POSS-ADJ($target) } extremidades.[/color]
+
+health-examinable-carbon-Cold-15 = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } congelación de primer grado en los extremos de { POSS-ADJ($target) } extremidades.[/color]
+
+health-examinable-carbon-Cold-30 = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } congelación de segundo grado en { POSS-ADJ($target) } extremidades.[/color]
+
+health-examinable-carbon-Cold-100 = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } cuerpo está cubierto de una extensa congelación de cuarto grado.[/color]
+
+health-examinable-carbon-Cold-200 = [color=lightblue]¡{ CAPITALIZE(POSS-ADJ($target)) } cuerpo está congelado como una roca![/color]

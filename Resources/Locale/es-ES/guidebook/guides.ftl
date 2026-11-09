@@ -260,3 +260,15 @@ guide-entry-capibara-economy-atm = Cajero Automático (ATM)
 guide-entry-capibara-economy-salary-console = Consola de Gestión de Salarios
 guide-entry-capibara-economy-objectives = Objetivos de Estación y Salarios
 guide-entry-capibara-economy-nanogigs = NanoTrabajos
+
+guide-entry-gasrecycling = Reciclaje de gas
+
+guide-entry-deltapressure = Presión delta
+
+guide-entry-xenoarchaeologyunlockingnodes = Desbloqueo de nodos
+
+guide-entry-analysisconsole = Consola de análisis
+
+guide-entry-lawsets = Conjuntos de leyes de silicio
+
+guide-entry-xenoborgs = Xenoborgs

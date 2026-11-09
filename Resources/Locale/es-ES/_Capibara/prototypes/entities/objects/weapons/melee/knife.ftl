@@ -33,3 +33,6 @@ ent-UraniumShiv = estilete improvisado de uranio
 
 ent-ThrowingKnife = cuchillo arrojadizo
     .desc = Este cuchillo de color rojo sangre es muy aerodinámico y fácil de lanzar, pero buena suerte intentando luchar cuerpo a cuerpo con alguien.
+
+ent-UtilityKnife = cuchillo multiusos
+    .desc = Un cuchillo con una diminuta hoja retráctil. Útil como cúter y abrecartas, entre otras cosas.

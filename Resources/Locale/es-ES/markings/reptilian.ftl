@@ -131,3 +131,11 @@ marking-LizardChestFin = Aleta de lagarto
 marking-LizardSnoutSplotch = Hocico de lagarto (Mancha)
 marking-LizardSnoutSplotch-snout_splotch_primary = Morro
 marking-LizardSnoutSplotch-snout_splotch_secondary = Hocico
+
+marking-LizardSnoutVisageSharp = Rostro de lagarto (afilado)
+
+marking-LizardSnoutVisageSharp-visage_sharp = Rostro de lagarto (afilado)
+
+marking-LizardSnoutVisageRound = Rostro de lagarto (redondeado)
+
+marking-LizardSnoutVisageRound-visage_round = Rostro de lagarto (redondeado)

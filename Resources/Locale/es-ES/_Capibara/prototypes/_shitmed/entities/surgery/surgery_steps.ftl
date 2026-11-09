@@ -79,3 +79,7 @@ ent-SurgeryStepInsertAugmentArm = Añadir aumento de brazo
 ent-SurgeryStepLobotomize = Lobotomizar paciente
 
 ent-SurgeryStepMendBrainTissue = Reparar tejido cerebral
+
+ent-SurgeryStepExtractForeignBody = Extraer cuerpo extraño
+
+ent-SurgeryStepRepairBrain = Reparar el cerebro

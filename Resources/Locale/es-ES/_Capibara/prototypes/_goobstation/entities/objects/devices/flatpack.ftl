@@ -66,3 +66,12 @@ ent-DiseaseDiagnoserFlatPack = flatpack del diagnóstico de enfermedades
 
 ent-VaccinatorFlatPack = flatpack de la vacunadora
     .desc = Un flatpack para construir una vacunadora.
+
+ent-ResearchAndDevelopmentServerMachineFlatpack = paquete plano de servidor de I+D
+    .desc = Un paquete plano para construir un servidor de I+D.
+
+ent-ResearchComputerFlatpack = paquete plano de computadora de I+D
+    .desc = Un paquete plano para construir una computadora de I+D.
+
+ent-MaterialSiloFlatpack = paquete plano de silo de materiales
+    .desc = Un paquete plano para construir un silo de materiales.
