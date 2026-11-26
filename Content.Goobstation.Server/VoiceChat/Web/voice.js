@@ -179,7 +179,7 @@ async function begin() {
     ui.codeForm.hidden = true;
 
     if (!audio) {
-        setStatus("Starting microphone…", "", "neutral");
+        setStatus("Iniciando el micrófono…", "", "neutral");
         try {
             await startAudio();
         } catch (error) {
@@ -240,7 +240,7 @@ function onWorkerMessage(event) {
             socketReady = false;
             serverState = null;
             retrying = true;
-            setStatus("Can't reach the voice server.", `Retrying in ${Math.round(message.delay / 1000)}s.`, "error");
+            setStatus("No se puede conectar con el servidor de voz.", `Reintentando en ${Math.round(message.delay / 1000)} s.`, "error");
             return;
         case "stopped":
             socketReady = false;
@@ -251,20 +251,20 @@ function onWorkerMessage(event) {
             if (message.code === CLOSE_INVALID_TOKEN) {
                 forgetToken();
                 showCodeForm(false);
-                setStatus("That code didn't work.", "Check the code in game: Esc, Voice Chat.", "error");
+                setStatus("Ese código no ha funcionado.", "Comprueba el código en el juego: Esc, Chat de voz.", "error");
             }
             else if (message.code === CLOSE_SESSION_ENDED) {
                 forgetToken();
                 showCodeForm(false);
-                setStatus("You left the game server.", "Rejoin, then enter your new code.", "error");
+                setStatus("Has salido del servidor.", "Vuelve a entrar y escribe tu código nuevo.", "error");
             }
             else if (message.code === CLOSE_TOO_MANY_ATTEMPTS) {
                 forgetToken();
                 showCodeForm(false);
-                setStatus("Too many wrong codes.", "Wait a few minutes, then try again.", "error");
+                setStatus("Demasiados códigos incorrectos.", "Espera unos minutos y vuelve a intentarlo.", "error");
             }
             else if (message.code === CLOSE_REPLACED)
-                setStatus("Opened somewhere else.", "Voice chat is running in another tab or device.", "error");
+                setStatus("Abierto en otro sitio.", "El chat de voz está funcionando en otra pestaña o dispositivo.", "error");
             return;
     }
 
@@ -375,7 +375,7 @@ async function refreshDevices() {
     for (const [index, device] of devices.entries()) {
         const option = document.createElement("option");
         option.value = device.deviceId;
-        option.textContent = device.label || `Microphone ${index + 1}`;
+        option.textContent = device.label || `Micrófono ${index + 1}`;
         option.selected = device.deviceId === (settings.deviceId || activeId);
         ui.device.append(option);
     }
@@ -385,11 +385,11 @@ function reportMicError(error) {
     const denied = error && (error.name === "NotAllowedError" || error.name === "SecurityError");
     const missing = error && error.name === "NotFoundError";
     if (denied)
-        setStatus("Microphone blocked.", "Allow it from the address bar, then press Start.", "error");
+        setStatus("Micrófono bloqueado.", "Permítelo desde la barra de direcciones y pulsa Empezar.", "error");
     else if (missing)
-        setStatus("No microphone found.", "", "error");
+        setStatus("No se ha encontrado ningún micrófono.", "", "error");
     else
-        setStatus("Couldn't start the microphone.", error && error.message ? error.message : String(error), "error");
+        setStatus("No se ha podido iniciar el micrófono.", error && error.message ? error.message : String(error), "error");
 
     ui.start.hidden = false;
 }
@@ -419,48 +419,48 @@ function render() {
     ui.thresholdRow.hidden = settings.mode !== "vad";
     ui.effectRow.hidden = !(serverState && serverState.voiceChanger);
     ui.meterThreshold.hidden = settings.mode !== "vad";
-    setText(ui.mute, settings.muted ? "Unmute" : "Mute");
+    setText(ui.mute, settings.muted ? "Activar micro" : "Silenciar");
     ui.mute.classList.toggle("negative", settings.muted);
     ui.mute.setAttribute("aria-pressed", String(settings.muted));
 
     if (!audio)
-        setText(ui.indicatorLabel, "Microphone off");
+        setText(ui.indicatorLabel, "Micrófono apagado");
     else if (settings.muted)
-        setText(ui.indicatorLabel, "Muted");
+        setText(ui.indicatorLabel, "Silenciado");
     else if (transmitting)
-        setText(ui.indicatorLabel, "Transmitting");
+        setText(ui.indicatorLabel, "Transmitiendo");
     else if (settings.mode === "ptt")
-        setText(ui.indicatorLabel, "Hold push-to-talk in game");
+        setText(ui.indicatorLabel, "Mantén pulsar para hablar en el juego");
     else
-        setText(ui.indicatorLabel, "Listening");
+        setText(ui.indicatorLabel, "Escuchando");
 
     if (stopped || !audio)
         return;
 
     if (!socketReady) {
         if (!retrying)
-            setStatus("Connecting…", "", "neutral");
+            setStatus("Conectando…", "", "neutral");
         return;
     }
 
     const state = serverState;
-    const name = state && state.name ? `Connected as ${state.name}` : "Connected";
+    const name = state && state.name ? `Conectado como ${state.name}` : "Conectado";
     if (!state)
         setStatus(name, "", "neutral");
     else if (state.muted)
-        setStatus("Muted by an admin.", "", "error");
+        setStatus("Silenciado por un administrador.", "", "error");
     else if (state.selfMuted)
-        setStatus(name, "Your mic is muted in game.", "warn");
+        setStatus(name, "Tu micrófono está silenciado en el juego.", "warn");
     else if (state.lobby)
-        setStatus(name, state.canSpeak ? "In the lobby. Everyone in the lobby hears you." : "Lobby voice is off.", "neutral");
+        setStatus(name, state.canSpeak ? "En el lobby. Todos los del lobby te oyen." : "La voz en el lobby está desactivada.", "neutral");
     else if (!state.inGame)
-        setStatus(name, "Join the round to talk.", "neutral");
+        setStatus(name, "Únete a la ronda para hablar.", "neutral");
     else if (!state.canSpeak)
-        setStatus(name, "Your character can't speak right now.", "warn");
+        setStatus(name, "Tu personaje no puede hablar ahora mismo.", "warn");
     else if (state.broadcasting)
-        setStatus(name, "Broadcasting to the whole station.", "warn");
+        setStatus(name, "Emitiendo a toda la estación.", "warn");
     else if (state.radio)
-        setStatus(name, `Also speaking on ${state.radio} radio.`, "neutral");
+        setStatus(name, `También hablas por la radio ${state.radio}.`, "neutral");
     else
         setStatus(name, "", "neutral");
 }
@@ -589,7 +589,7 @@ function init() {
     renderLevel();
 
     if (!window.isSecureContext || !navigator.mediaDevices || !window.AudioWorkletNode) {
-        setStatus("Microphone needs HTTPS.", "This page has to be served over HTTPS or from localhost.", "error");
+        setStatus("El micrófono necesita HTTPS.", "Esta página tiene que servirse por HTTPS o desde localhost.", "error");
         ui.start.hidden = true;
         return;
     }
@@ -598,12 +598,12 @@ function init() {
     worker.onmessage = onWorkerMessage;
 
     if (!token) {
-        setStatus("Enter your voice chat code.", "In game: Esc, Voice Chat.", "neutral");
+        setStatus("Escribe tu código del chat de voz.", "En el juego: Esc, Chat de voz.", "neutral");
         showCodeForm(true);
         return;
     }
 
-    setStatus("Ready", "", "neutral");
+    setStatus("Listo", "", "neutral");
 }
 
 init();

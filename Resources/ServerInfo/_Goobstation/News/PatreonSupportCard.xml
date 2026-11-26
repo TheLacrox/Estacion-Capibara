@@ -1,5 +1,5 @@
 <Document>
-  Your support helps us keep the servers running, fund development, and continue improving the game.
+  Tu apoyo nos ayuda a mantener los servidores en marcha, financiar el desarrollo y seguir mejorando el juego.
   <Box>
     <InfoLinkButton Link="Patreon" Text="news-patreon-visit"/>
     <NewsOpenButton Entry="PatreonSupport" Text="news-patreon-perks"/>

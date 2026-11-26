@@ -1,37 +1,37 @@
 <Document>
-  Voice chat on this server works like talking in person. Your voice comes from your character, and only people close enough to hear them will hear you.
+  El chat de voz de este servidor funciona como hablar en persona. Tu voz sale de tu personaje, y solo te oye quien esté lo bastante cerca de él.
 
-  ## Talking
-  The further away someone is, the quieter you get. Anything in the way, like a wall, a door or a window, muffles you.
+  ## Hablar
+  Cuanto más lejos esté alguien, más bajo te oye. Cualquier cosa que haya en medio, como una pared, una puerta o una ventana, amortigua tu voz.
 
-  Talk louder than you normally do and you'll shout, which can be heard further away. Whispers can only be heard by people a few tiles away.
-  Any situations in which you normally wouldn't be able to type in chat in SS14, like when you are muted, dead, etc, you will not be able to speak out loud.
+  Si hablas más alto de lo normal, gritas, y se te oye desde más lejos. Los susurros solo los oye quien esté a unas pocas casillas.
+  En cualquier situación en la que normalmente no podrías escribir en el chat de SS14, como estar silenciado o muerto, tampoco podrás hablar en voz alta.
 
-  Hold [bold][keybind="VoicePushToTalk"][/bold] to talk. If you'd rather not use PTT, switch to voice activation on the voice chat page.
+  Mantén pulsado [bold][keybind="VoicePushToTalk"][/bold] para hablar. Si prefieres no usar pulsar para hablar, cambia a activación por voz en la página del chat de voz.
 
   ## Radio
-  Hold [bold][keybind="VoicePushToTalkRadio"][/bold] to talk over the radio. Anyone nearby can still hear you as if you are speaking normally.
+  Mantén pulsado [bold][keybind="VoicePushToTalkRadio"][/bold] para hablar por la radio. Quien esté cerca te seguirá oyendo como si hablaras con normalidad.
 
-  The radio button in chat is used to select your channel. If it's set to Local, [bold][keybind="VoicePushToTalkRadio"][/bold] uses the first channel on your headset. The same menu lets you mute channels you don't care about and turn the radio volume down.
+  El botón de radio del chat sirve para elegir tu canal. Si está en Local, [bold][keybind="VoicePushToTalkRadio"][/bold] usa el primer canal de tus auriculares. Ese mismo menú te deja silenciar los canales que no te interesen y bajar el volumen de la radio.
 
-  On voice activation, picking a channel keeps you on the radio every time you speak, so set it back to Local when you're done. Handheld radios and intercoms with their mic switched on will pick you up too if you talk near them.
+  Con la activación por voz, al elegir un canal sales por la radio cada vez que hablas, así que vuelve a ponerlo en Local cuando termines. Las radios de mano y los intercomunicadores con el micrófono encendido también te captarán si hablas cerca de ellos.
 
-  ## Around the station
-  Phones and holopads pick up anyone nearby. Megaphones allow you to be heard from several tiles away. If you have access, a communications console lets you broadcast to the whole station.
+  ## Por la estación
+  Los teléfonos y los holopads captan a cualquiera que esté cerca. Los megáfonos permiten que se te oiga a varias casillas de distancia. Si tienes acceso, una consola de comunicaciones te deja emitir a toda la estación.
 
-  The AI hears and talks through its cameras. Ghosts can talk to each other, but living players can't hear them.
+  La IA oye y habla a través de sus cámaras. Los fantasmas pueden hablar entre ellos, pero los jugadores vivos no los oyen.
 
-  ## Controls
-  The mic and headphone icons next to the chat box mute your mic or deafen you. Right-click someone to mute them or turn them up or down.
+  ## Controles
+  Los iconos de micrófono y auriculares junto al cuadro de chat silencian tu micrófono o te ensordecen. Haz clic derecho sobre alguien para silenciarlo o subirle o bajarle el volumen.
 
-  Voice volume is in Options under Audio. You can rebind the push-to-talk keys under Controls.
+  El volumen de la voz está en Opciones, en Audio. Puedes cambiar las teclas de pulsar para hablar en Controles.
 
-  ## Rules
-  Voice chat has the same rules as text chat. With two exceptions:
-  1. Keep your microphone at a reasonable level. If you are intentonally micspamming/earraping, you will be muted or banned.
-  2. Only the clown can use soundboards.
-  Have fun!
+  ## Normas
+  El chat de voz tiene las mismas normas que el chat de texto, con dos excepciones:
+  1. Mantén tu micrófono a un nivel razonable. Si saturas el micrófono o revientas oídos a propósito, serás silenciado o baneado.
+  2. Solo el payaso puede usar tableros de sonidos.
+  ¡Diviértete!
 
-  ## Connect your mic
+  ## Conecta tu micrófono
   <VoiceChatConnectPanel/>
 </Document>

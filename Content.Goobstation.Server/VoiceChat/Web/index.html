@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="referrer" content="no-referrer">
-    <title>Voice Chat</title>
+    <title>Chat de voz</title>
     <script id="voice-config" type="application/json">/*VOICE_CONFIG*/</script>
     <style>
         @font-face {
@@ -540,47 +540,47 @@
 <body data-tone="neutral">
 <main class="window chamfer">
     <header class="window-header">
-        <h1 class="window-title">Voice Chat</h1>
+        <h1 class="window-title">Chat de voz</h1>
     </header>
     <div class="divider"></div>
 
     <div class="window-body">
-        <p class="status" id="status" role="status" aria-live="polite">Loading…</p>
+        <p class="status" id="status" role="status" aria-live="polite">Cargando…</p>
         <p class="status-detail" id="status-detail"></p>
 
         <form class="code-form" id="code-form" hidden>
-            <label class="field-label" for="code">Voice chat code</label>
+            <label class="field-label" for="code">Código del chat de voz</label>
             <div class="code-row">
                 <input class="code-input chamfer" id="code" type="text" inputmode="text" autocomplete="off" autocapitalize="characters" spellcheck="false" maxlength="12" placeholder="ABCD2345">
-                <button class="btn chamfer" id="code-submit" type="submit">Connect</button>
+                <button class="btn chamfer" id="code-submit" type="submit">Conectar</button>
             </div>
         </form>
 
-        <button class="btn big chamfer" id="start" type="button">Start</button>
-        <button class="btn big chamfer" id="retry" type="button" hidden>Reconnect here</button>
+        <button class="btn big chamfer" id="start" type="button">Empezar</button>
+        <button class="btn big chamfer" id="retry" type="button" hidden>Reconectar aquí</button>
 
-        <section id="controls" hidden aria-label="Microphone">
+        <section id="controls" hidden aria-label="Micrófono">
             <div class="live-row">
                 <div class="bar" aria-hidden="true">
                     <div class="bar-fill" id="meter-fill"></div>
                     <div class="bar-threshold" id="meter-threshold" hidden></div>
                 </div>
-                <button class="btn chamfer" id="mute" type="button" aria-pressed="false">Mute</button>
+                <button class="btn chamfer" id="mute" type="button" aria-pressed="false">Silenciar</button>
             </div>
-            <p class="live-label" id="indicator-label">Microphone off</p>
+            <p class="live-label" id="indicator-label">Micrófono apagado</p>
 
-            <h2 class="heading">Settings</h2>
+            <h2 class="heading">Ajustes</h2>
 
             <div class="field">
-                <span class="field-label" id="mode-label">Mode</span>
+                <span class="field-label" id="mode-label">Modo</span>
                 <div class="toggle-group" role="radiogroup" aria-labelledby="mode-label">
-                    <label class="btn open-right"><input type="radio" name="mode" id="mode-ptt" value="ptt">Push to talk</label>
-                    <label class="btn open-left"><input type="radio" name="mode" id="mode-vad" value="vad">Voice activation</label>
+                    <label class="btn open-right"><input type="radio" name="mode" id="mode-ptt" value="ptt">Pulsar para hablar</label>
+                    <label class="btn open-left"><input type="radio" name="mode" id="mode-vad" value="vad">Activación por voz</label>
                 </div>
             </div>
 
             <div class="field with-value" id="threshold-row" hidden>
-                <label class="field-label" for="threshold">Threshold</label>
+                <label class="field-label" for="threshold">Umbral</label>
                 <div class="slider">
                     <div class="slider-track chamfer"><div class="slider-inner chamfer"><div class="slider-fill"></div></div></div>
                     <div class="slider-grab chamfer"></div>
@@ -590,29 +590,29 @@
             </div>
 
             <div class="field" id="effect-row" hidden>
-                <label class="field-label" for="effect">Voice changer</label>
+                <label class="field-label" for="effect">Modulador de voz</label>
                 <div class="select chamfer">
                     <select id="effect">
-                        <option value="none">Off</option>
+                        <option value="none">Apagado</option>
                         <option value="robot">Robot</option>
-                        <option value="alien">Alien</option>
+                        <option value="alien">Alienígena</option>
                         <option value="abductor">Abductor</option>
-                        <option value="deep">Deep</option>
-                        <option value="high">High</option>
-                        <option value="whisper">Whisper</option>
+                        <option value="deep">Grave</option>
+                        <option value="high">Aguda</option>
+                        <option value="whisper">Susurro</option>
                         <option value="radio">Radio</option>
-                        <option value="muffled">Muffled</option>
+                        <option value="muffled">Amortiguada</option>
                     </select>
                 </div>
             </div>
 
             <div class="field">
-                <label class="field-label" for="device">Microphone</label>
+                <label class="field-label" for="device">Micrófono</label>
                 <div class="select chamfer"><select id="device"></select></div>
             </div>
 
             <div class="field with-value">
-                <label class="field-label" for="gain">Input volume</label>
+                <label class="field-label" for="gain">Volumen de entrada</label>
                 <div class="slider">
                     <div class="slider-track chamfer"><div class="slider-inner chamfer"><div class="slider-fill"></div></div></div>
                     <div class="slider-grab chamfer"></div>
@@ -622,15 +622,15 @@
             </div>
 
             <div class="checks">
-                <label class="check"><input type="checkbox" id="noise-suppression">Noise suppression</label>
-                <label class="check"><input type="checkbox" id="echo-cancellation">Echo cancellation</label>
-                <label class="check"><input type="checkbox" id="auto-gain-control">Auto gain</label>
-                <label class="check" id="keep-awake-row"><input type="checkbox" id="keep-awake">Keep screen awake</label>
+                <label class="check"><input type="checkbox" id="noise-suppression">Supresión de ruido</label>
+                <label class="check"><input type="checkbox" id="echo-cancellation">Cancelación de eco</label>
+                <label class="check"><input type="checkbox" id="auto-gain-control">Ganancia automática</label>
+                <label class="check" id="keep-awake-row"><input type="checkbox" id="keep-awake">Mantener la pantalla encendida</label>
             </div>
         </section>
     </div>
 
-    <p class="window-footer">Keep this tab open while you play.</p>
+    <p class="window-footer">Deja esta pestaña abierta mientras juegas.</p>
 </main>
 <script src="voice.js"></script>
 </body>

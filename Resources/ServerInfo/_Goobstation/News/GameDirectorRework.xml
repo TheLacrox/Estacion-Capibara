@@ -1,39 +1,39 @@
 <Document>
-  # The Game Director Got Fixed (Hopefully)
+  # El director de juego está arreglado (esperemos)
 
-  [italic]TL;DR: The Guide was a complete piece of shit and was spamming meteors and rods constantly, would never actually run its attacks, and ended most rounds early. It has been rebuilt to read the station properly, pace rounds toward about 90 minutes, and actually send help when your department is getting fucked. There are two new director modes, The Tempest and The Watcher. [bold]Every other gamemode is temporarily disabled[/bold] so I can collect clean metrics on the director and keep improving it. Let me know how your rounds feel![/italic]
+  [italic]Resumen: La Guía era una auténtica mierda: lanzaba meteoritos y varas sin parar, nunca llegaba a ejecutar sus ataques y acababa la mayoría de las rondas antes de tiempo. Se ha rehecho para que lea bien la estación, lleve las rondas hacia unos 90 minutos y mande ayuda de verdad cuando tu departamento lo está pasando fatal. Hay dos modos de director nuevos, La Tempestad y El Vigilante. [bold]El resto de modos de juego están desactivados temporalmente[/bold] para poder recoger métricas limpias del director y seguir mejorándolo. ¡Contadme qué tal van vuestras rondas![/italic]
 
-  ## What's changing for you
+  ## Qué cambia para ti
 
-  - [bold]Four director modes are in rotation:[/bold] The Guide (standard), The Ghost (calm, no roundstart antags), The Tempest (new, harder, builds to big attacks, 40+ players), and The Watcher (new, one roundstart antag and smaller events, 15+ players).
-  - [bold]Every other gamemode is off for now.[/bold] This is temporary, but may stick around permenantly if we can get game director into a good state. We want rounds run entirely by the director so we can see what it actually does and tune it. The other modes are coming back if it doesn't work out.
-  - [bold]Rounds should run longer and make more sense now.[/bold] Calmer starts followed by harder events in the middle, and time to recover after.
-  - [bold]Recovery periods that dont suck ass[/bold] If your department is struggling, drop pod supplies may be sent straight to you. If power gets fucked, CentComm may restore power remotely. If a department gets wiped, a crew shuttle may show up with replacements.
+  - [bold]Hay cuatro modos de director en rotación:[/bold] La Guía (estándar), El Fantasma (tranquilo, sin antagonistas al inicio de ronda), La Tempestad (nuevo, más duro, va creciendo hasta grandes ataques, 40 jugadores o más) y El Vigilante (nuevo, un antagonista al inicio de ronda y eventos más pequeños, 15 jugadores o más).
+  - [bold]El resto de modos de juego están apagados por ahora.[/bold] Es temporal, pero puede quedarse así si conseguimos dejar el director de juego en buen estado. Queremos rondas dirigidas por completo por el director para ver qué hace de verdad y ajustarlo. Los demás modos volverán si no sale bien.
+  - [bold]Las rondas deberían durar más y tener más sentido.[/bold] Inicios más tranquilos, eventos más duros a mitad de ronda y tiempo para recuperarse después.
+  - [bold]Periodos de recuperación que no dan asco.[/bold] Si tu departamento está sufriendo, pueden mandarte cápsulas de suministros directamente. Si la energía se va al carajo, el Comando Central puede restaurarla a distancia. Si un departamento queda arrasado, puede aparecer una lanzadera de tripulación con reemplazos.
 
-  ## Why the old director sucked
+  ## Por qué el director antiguo era tan malo
 
-  I went through the server metrics from 58 rounds of The Guide. Most of the issues were caused by pure shitcode:
+  Revisé las métricas del servidor de 58 rondas de La Guía. La mayoría de los problemas venían de código basura:
 
-  - It didn't use its own event list. After the first few seconds of a round it started picking from every event in the game, including meteor swarms, rods, etc that were never meant to be on it. Almost half of everything it ran wasn't on the list. That came out to be roughly 3.5 meteor swarms and 1.7 rods per round, so much fun!!!!!!1!
-  - It couldn't tell when it had already wrecked your shit. It measured station damage through firelocks, which barely react. A large meteor swarm registered as about 1/30th of the damage it expected, so it kept deciding to spam more meteors and rods to try and reach its goal.
-  - It had no memory. Once it fired an event it forgot about it, and could fire the same thing again a couple of minutes later before the first one even played out.
-  - Attacks didn't attack. The attack stage aims for a fixed number of antags, and roundstart antags already covered it, so instead of spawning midrounds it tried to hand security free gear to deal with said non-existant midrounds.
-  - Stories never finished. The calm opening always ran a full 20 minutes, and the big combat climax happened in 5 out of 20 rounds. Most rounds ended around 52 minutes, in the middle of the meteor stage.
-  - Literally NONE of its metrics worked right. It counted puddles anywhere in the game, not just on the station. It counted morgued bodies as fresh deaths forever. It didn't count xenos and space spiders as antags, but somehow also counted every mouse as crew (gem). It also counted ghosts as alive, so it never knew if anyone could take a ghost role.
-  - Its only help was cargo gifts. It randomly picked a cargo gift from a pool, even if it had nothing to fuckin due with what was going on on the station, and also had the issue of cargo having to do their jobs and deliver them.
+  - No usaba su propia lista de eventos. Pasados los primeros segundos de la ronda empezaba a elegir entre todos los eventos del juego, incluidos enjambres de meteoritos, varas y demás que nunca debieron estar ahí. Casi la mitad de lo que lanzaba no estaba en la lista. Eso salía a unos 3,5 enjambres de meteoritos y 1,7 varas por ronda. ¡¡¡Qué divertido!!!
+  - No sabía cuándo ya te había destrozado. Medía el daño de la estación con las compuertas cortafuegos, que apenas reaccionan. Un enjambre grande de meteoritos contaba como 1/30 del daño que esperaba, así que seguía mandando más meteoritos y varas para llegar a su objetivo.
+  - No tenía memoria. En cuanto lanzaba un evento se olvidaba de él, y podía lanzar lo mismo un par de minutos después, antes de que el primero hubiera terminado.
+  - Los ataques no atacaban. La fase de ataque busca un número fijo de antagonistas, y los del inicio de ronda ya lo cubrían, así que en vez de generar antagonistas a mitad de ronda intentaba regalar equipo a seguridad para enfrentarse a esos antagonistas que no existían.
+  - Las historias nunca terminaban. El inicio tranquilo duraba siempre 20 minutos enteros, y el gran clímax de combate ocurrió en 5 de 20 rondas. La mayoría de las rondas acababan hacia el minuto 52, en plena fase de meteoritos.
+  - Literalmente NINGUNA de sus métricas funcionaba bien. Contaba charcos de cualquier parte del juego, no solo de la estación. Contaba los cuerpos de la morgue como muertes recientes para siempre. No contaba a los xenos ni a las arañas espaciales como antagonistas, pero sí contaba a cada ratón como tripulante. También contaba a los fantasmas como vivos, así que nunca sabía si alguien podía coger un rol de fantasma.
+  - Su única ayuda eran los regalos de cargamento. Elegía uno al azar de un grupo, aunque no tuviera nada que ver con lo que pasaba en la estación, y además dependía de que cargamento hiciera su trabajo y lo entregara.
 
-  ## How it's better now
+  ## Cómo es mejor ahora
 
-  - It actually uses its own event list now. Destructive events are rated by how much they fuck up the station, and the director has a destruction budget that refills slowly. Rods can happen at most about once every 30 minutes, and only during engineering focused story beats. With this setup, meteors should only happen 1-2 times a shift, and rods once every few shifts.
-  - It actually fuckin measures station metrics in a sane way. Atmos is measured from the actual air (spaced rooms, fires, toxic gas), power from APCs, plus pest infestations, whether security can handle the current threat, and artifacts. Bodies count for less as time passes, and only shit happening on the station counts.
-  - It remembers what it sent, so it doesn't stack events while they're still playing out.
-  - Attacks escalate from what the state of the station is, scaled to how many people are playing.
-  - Stories are paced for about 90 minutes and react to how the round is going. If an attack (antag spawn, etc) fucks up the station more than expected, it switches to a recovery stage instead of piling on. Once evac is called it stops sending threats and only sends help. It won't stack its big combat stories on top of nukies, revs, zombies, blob, cult, or wizard.
-  - Events are based on departmental staff. No engineering disasters with no engineers, no attacks with no security, no anomalies with no science. Ghost roles only spawn if there are ghosts to take them, and crew shuttles come in if everyone in a department is dead.
-  - Recovery/Help phases should actually do shit now. Drop pods get sent to the department that needs them (med gets medical supplies, sec gets riot gear, engineering gets breach kits, and so on), and emergency grid restores fix power temporarily by refilling APCs and SMES.
-  - No more fucking clowns shuttles. I'm so fucking sick of playing sec and 8 clowns show up and start constantly fucking shit up. They are now a negative event that can spawn in the calmer modes.
+  - Ahora sí usa su propia lista de eventos. Los eventos destructivos se valoran según cuánto destrozan la estación, y el director tiene un presupuesto de destrucción que se rellena despacio. Las varas pueden salir como mucho una vez cada 30 minutos, y solo en los tramos de la historia centrados en ingeniería. Con esto, los meteoritos deberían ocurrir 1 o 2 veces por turno, y las varas una vez cada varios turnos.
+  - Por fin mide la estación de forma sensata. La atmósfera se mide con el aire real (salas despresurizadas, incendios, gas tóxico), la energía con los APC, además de las plagas, de si seguridad puede con la amenaza actual y de los artefactos. Los cuerpos cuentan menos con el paso del tiempo, y solo cuenta lo que pasa en la estación.
+  - Recuerda lo que ha mandado, así que no apila eventos mientras siguen en marcha.
+  - Los ataques escalan según el estado de la estación y la cantidad de gente que está jugando.
+  - Las historias están pensadas para unos 90 minutos y reaccionan a cómo va la ronda. Si un ataque (aparición de antagonistas, etc.) destroza la estación más de lo esperado, pasa a una fase de recuperación en vez de seguir apretando. Cuando se llama a la evacuación deja de mandar amenazas y solo manda ayuda. No apila sus grandes historias de combate sobre nucleares, revolucionarios, zombis, blob, culto o mago.
+  - Los eventos dependen del personal de cada departamento. Nada de desastres de ingeniería sin ingenieros, ataques sin seguridad ni anomalías sin ciencia. Los roles de fantasma solo aparecen si hay fantasmas para cogerlos, y las lanzaderas de tripulación llegan si todo un departamento ha muerto.
+  - Las fases de recuperación y ayuda ahora deberían servir para algo. Las cápsulas se mandan al departamento que las necesita (medicina recibe suministros médicos, seguridad equipo antidisturbios, ingeniería kits para brechas, y así), y las restauraciones de emergencia de la red arreglan la energía temporalmente rellenando APC y SMES.
+  - Se acabaron las malditas lanzaderas de payasos. Estoy harto de jugar de seguridad y que aparezcan 8 payasos a liarla sin parar. Ahora son un evento negativo que puede salir en los modos más tranquilos.
 
-  This is the FIRST PASS over this. After a few days of metrics, I will be trying to tune the director to be better. If you notice it doing some stupid shit, let me know.
+  Esta es la PRIMERA PASADA. Tras unos días de métricas, intentaré ajustar el director para que sea mejor. Si lo ves haciendo alguna tontería, avísame.
 
   <InfoLinkButton Link="Discord" Text="news-game-director-feedback"/>
 
