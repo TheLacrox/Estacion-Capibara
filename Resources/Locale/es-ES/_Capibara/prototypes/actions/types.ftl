@@ -81,3 +81,9 @@ ent-ActionToggleRootable = Enraizable
 
 ent-ActionChameleonController = Controlar ropa
     .desc = ¡Cambia tu atuendo completo rápidamente!
+
+ent-ActionShootWater = ¡Rocía agua!
+    .desc = Rocía agua hacia tus enemigos.
+
+ent-ActionIntrinsicStore = Tienda
+    .desc = Abre la tienda

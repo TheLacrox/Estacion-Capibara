@@ -108,5 +108,9 @@ reagent-desc-lipolicide = Una potente toxina que destruirá las células grasas,
 reagent-name-mechanotoxin = mechanotoxin
 reagent-desc-mechanotoxin = Una neurotoxina usada como veneno por algunas especies de araña. Degrada el movimiento cuando se acumula.
 
-reagent-name-toxintrash = trash
-reagent-desc-toxintrash = Un fluido de olor horrible. Mortal para los no-vox.
+reagent-name-toxintrash = material reprocesado
+reagent-desc-toxintrash = Un engrudo de olor horrible refinado eficientemente a partir de materia desechada. Representa una conversión perfecta, sin residuos, de material de salvamento en sustento para los vox, aunque es un veneno violento para los demás.
+
+reagent-name-hemorrhinol = hemorrinol
+
+reagent-desc-hemorrhinol = Una toxina que causa graves daños a los vasos sanguíneos y provoca una hemorragia rápida.

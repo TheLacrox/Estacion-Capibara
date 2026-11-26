@@ -301,7 +301,7 @@ ghost-role-information-syndicate-cyborg-assault-name = Cyborg de asalto del Sind
 ghost-role-information-syndicate-cyborg-saboteur-name = Cyborg saboteador del Sindicato
 ghost-role-information-syndicate-cyborg-description = El Sindicato necesita refuerzos. Tú, una fría máquina de silicio asesina, les ayudarás.
 
-ghost-role-information-derelict-cyborg-name = Cyborg abandonado
+ghost-role-information-derelict-cyborg-name = Cyborg genérico abandonado
 ghost-role-information-derelict-cyborg-description = Eres un cyborg normal que se perdió en el espacio. Tras años de exposición a tormentas de iones te encuentras cerca de una estación espacial.
 
 ghost-role-information-security-name = Seguridad
@@ -385,3 +385,27 @@ ghost-role-information-wizard-desc = ¡ERES UN MAGO! Demuéstrale a la estación
 
 ghost-role-information-emotional-support-scurret-name = Scurret de apoyo emocional
 ghost-role-information-emotional-support-scurret-description = Apoya a la tripulación, sé adorable, di "wa" mucho.
+
+ghost-role-information-cancer-mouse-name = Ratón con cáncer
+
+ghost-role-information-cancer-mouse-description = Un ratón irradiado: propaga tu aflicción y busca comida.
+
+ghost-role-information-derelict-engineering-cyborg-name = Cyborg ingeniero abandonado
+
+ghost-role-information-derelict-engineering-cyborg-description = Eres un cyborg ingeniero que se perdió en el espacio. Tras años de exposición a tormentas de iones, te encuentras cerca de una estación espacial.
+
+ghost-role-information-derelict-janitor-cyborg-name = Cyborg conserje abandonado
+
+ghost-role-information-derelict-janitor-cyborg-description = Eres un cyborg conserje que se perdió en el espacio. Tras años de exposición a tormentas de iones, te encuentras cerca de una estación espacial.
+
+ghost-role-information-derelict-medical-cyborg-name = Cyborg médico abandonado
+
+ghost-role-information-derelict-medical-cyborg-description = Eres un cyborg médico que se perdió en el espacio. Tras años de exposición a tormentas de iones, te encuentras cerca de una estación espacial.
+
+ghost-role-information-derelict-mining-cyborg-name = Cyborg de salvamento abandonado
+
+ghost-role-information-derelict-mining-cyborg-description = Eres un cyborg de salvamento que se perdió en el espacio. Tras años de exposición a tormentas de iones, te encuentras cerca de una estación espacial.
+
+ghost-role-information-derelict-syndicate-assault-cyborg-name = Cyborg de asalto del Sindicato abandonado
+
+ghost-role-information-derelict-syndicate-assault-cyborg-description = Eres un cyborg de asalto del Sindicato de modelo temprano que se perdió en el espacio. Tras años de exposición a tormentas de iones, te encuentras cerca de una estación espacial.

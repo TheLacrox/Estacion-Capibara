@@ -1,18 +1,6 @@
-// SPDX-FileCopyrightText: 2024 username <113782077+whateverusername0@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 whateverusername0 <whateveremail>
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aviu00 <93730715+Aviu00@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aviu00 <aviu00@protonmail.com>
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 Misandry <mary@thughunt.ing>
-// SPDX-FileCopyrightText: 2025 Piras314 <p1r4s@proton.me>
-// SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 gluesniffler <linebarrelerenthusiast@gmail.com>
-// SPDX-FileCopyrightText: 2025 gus <august.eymann@gmail.com>
-// SPDX-FileCopyrightText: 2025 yglop <95057024+yglop@users.noreply.github.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using Content.Shared.Bed.Sleep;
 using Content.Goobstation.Common.Weapons.DelayedKnockdown;
 using Content.Server.Heretic.Components.PathSpecific;
 using Content.Shared._Goobstation.Heretic.Components;
@@ -49,7 +37,7 @@ public sealed partial class HereticAbilitySystem
         RemCompDeferred<StunnedComponent>(ent);
         RemCompDeferred<DelayedKnockdownComponent>(ent);
 
-        _statusEffect.TryRemoveStatusEffect(ent, "ForcedSleep");
+        _statusNew.TryRemoveStatusEffect(ent, SleepingSystem.StatusEffectForcedSleeping);
         _statusEffect.TryRemoveStatusEffect(ent, "Drowsiness");
 
         if (TryComp<StaminaComponent>(ent, out var stam))

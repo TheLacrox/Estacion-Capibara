@@ -117,3 +117,6 @@ ent-CrateTrashCart = carrito de basura
 
 ent-CrateTrashCartJani = carrito de basura del conserje
     .desc = Un gran contenedor para objetos.
+
+ent-CrateSyndicateSecure = caja segura del Sindicato
+    .desc = Una caja de acero oscuro con bandas rojas y una letra S en relieve en el frente.

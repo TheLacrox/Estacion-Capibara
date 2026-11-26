@@ -32,7 +32,7 @@ alerts-low-pressure-name = [color=red]Presión baja[/color]
 alerts-low-pressure-desc = El aire a tu alrededor es [color=red]peligrosamente escaso[/color]. Un [color=green]traje espacial[/color] te protegería.
 
 alerts-high-pressure-name = [color=red]Presión alta[/color]
-alerts-high-pressure-desc = El aire a tu alrededor es [color=red]peligrosamente denso[/color]. Un [color=green]traje presurizado[/color] sería suficiente para protegerte.
+alerts-high-pressure-desc = El aire a tu alrededor es [color=red]peligrosamente denso[/color]. Un [color=green]traje presurizado[/color] bastaría para protegerte.
 
 alerts-on-fire-name = [color=red]En llamas[/color]
 alerts-on-fire-desc = Estás [color=red]ardiendo[/color]. Haz clic en la alerta para detenerte, tirarte al suelo y rodar para apagar el fuego, o desplázate a una zona de vacío.

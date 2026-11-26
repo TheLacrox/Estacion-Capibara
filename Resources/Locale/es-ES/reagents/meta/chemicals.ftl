@@ -45,3 +45,7 @@ reagent-desc-cellulose = Un polímero policristino de polidextrosa; las plantas 
 
 reagent-name-rororium = rororium
 reagent-desc-rororium = Una sustancia extraña que llena los núcleos de los señores de la colmena que deambulan por el asteroide minero. Se cree que es la fuente de sus poderes regenerativos.
+
+reagent-name-lye = sosa cáustica
+
+reagent-desc-lye = Una solución alcalina, translúcida y anaranjada, usada en la producción tradicional de jabón.

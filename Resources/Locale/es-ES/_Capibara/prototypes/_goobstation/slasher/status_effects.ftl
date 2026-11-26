@@ -1,0 +1,1 @@
+ent-StatusEffectFeared = temido

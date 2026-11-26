@@ -3,3 +3,9 @@ ent-FireAlarm = alarma de incendio
 
 ent-FireAlarmAssembly = ensamblaje de alarma de incendio
     .desc = Un ensamblaje de alarma de incendio. Muy suave.
+
+ent-FireAlarmXeno = alarma de incendio
+    .desc = Una alarma de incendio alienígena. ¡Funciona igual!
+
+ent-FireAlarmAssemblyXeno = ensamblaje de alarma de incendio
+    .desc = Un ensamblaje de alarma de incendio alienígena. Suerte con los cables.

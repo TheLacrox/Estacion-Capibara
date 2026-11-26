@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1
 
 # ---------- Build ----------
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 
 # git: submodule fetch. python3: SS14 build-info tooling. unzip: unpack the package.
 RUN apt-get update \
@@ -27,7 +27,7 @@ RUN dotnet restore \
 RUN mkdir -p /app && unzip -o release/SS14.Server_linux-x64.zip -d /app
 
 # ---------- Runtime ----------
-FROM mcr.microsoft.com/dotnet/runtime:9.0 AS runtime
+FROM mcr.microsoft.com/dotnet/runtime:10.0 AS runtime
 
 # Server is framework-dependent (--no-self-contained), so the runtime image is required.
 # ICU ships with the runtime image; add freetype/fontconfig defensively for the engine.

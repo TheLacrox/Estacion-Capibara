@@ -9,7 +9,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-bleach = lejía
-reagent-desc-bleach = Limpiador de alto rendimiento que puede limpiar superficies igual que el Limpiador Espacial y también descontaminar ropa. Extremadamente tóxico al ingerirse.
+reagent-desc-bleach = Limpiador industrial que limpia las baldosas mejor que el limpiador espacial. Extremadamente tóxico si se ingiere.
 
 reagent-name-space-cleaner = limpiador espacial
 reagent-desc-space-cleaner = Es capaz de limpiar casi todas las superficies de casi cualquier cosa que las ensucie. El conserje probablemente agradecerá los recargas.

@@ -46,9 +46,9 @@ traitor-death-match-end-round-description-entry = El PDA de {$originalName}, con
 
 # TraitorRole
 traitor-role-greeting =
-    Eres un agente enviado por {$corporation} en nombre de [color = darkred]El Sindicato.[/color]
-    Tus objetivos y palabras clave están listados en el menú de personaje.
-    Usa tu enlace para comprar las herramientas que necesitarás para esta misión.
+    Eres un agente enviado por [color = darkred]El Sindicato[/color] en nombre de {$corporation}.
+    Tus objetivos y palabras clave aparecen en el menú de personaje.
+    Usa tu uplink para comprar las herramientas que necesitarás para esta misión.
     ¡Muerte a Nanotrasen!
 traitor-role-codewords =
     Las palabras clave son: [color = lightgray]
@@ -56,8 +56,8 @@ traitor-role-codewords =
     Las palabras clave pueden usarse en conversaciones normales para identificarte discretamente ante otros agentes del sindicato.
     Escucha con atención y mantenlas en secreto.
 traitor-role-uplink-code =
-    Establece tu tono de llamada con las notas [color = lightgray]{$code}[/color] para bloquear o desbloquear tu enlace.
-    ¡Recuerda bloquearlo después, o la tripulación de la estación también podrá abrirlo fácilmente!
+    Ajusta tu tono de llamada a las notas [color = lightgray]{$code}[/color] para bloquear o desbloquear tu uplink.
+    Recuerda bloquearlo después, ¡o la tripulación de la estación también podrá abrirlo con facilidad!
 traitor-role-uplink-pen-code =
     Gira el bolígrafo a la combinación [color = lightgray]{$code}[/color] para desbloquear tu enlace.
     Los grados representan ángulos de rotación. El enlace se bloquea automáticamente al cerrarse.
@@ -71,7 +71,7 @@ traitor-role-codewords-short =
     {$codewords}.
 traitor-role-uplink-code-short = Tu código de enlace es {$code}. Configúralo como tono de llamada de tu PDA para acceder al enlace.
 traitor-role-uplink-pen-code-short = El código de tu enlace de bolígrafo es {$code}. Gira el bolígrafo para desbloquearlo. Se bloquea al cerrarse.
-traitor-role-uplink-implant-short = Tu enlace fue implantado. Accede a él desde tu barra de acceso rápido.
+traitor-role-uplink-implant-short = Tu uplink fue implantado. Accede a él desde el menú de acciones.
 
 traitor-role-moreinfo =
     Encuentra más información sobre tu rol en el menú de personaje.

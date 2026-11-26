@@ -39,3 +39,73 @@ emote-fart-inhale-disarm-notice = Desarmas tu superpedo.
 
 chat-emote-name-boop = Boop
 chat-emote-name-whirr = Zumbido
+
+chat-emote-name-blink = Parpadeo
+
+chat-emote-name-scree = Chillido
+
+chat-emote-name-call = Llamada
+
+chat-emote-name-squawk = Graznido
+
+chat-emote-name-quack = Cuac
+
+chat-emote-name-snort = Resoplido
+
+chat-emote-name-squee = Chillido agudo
+
+chat-emote-name-stomp = Pisotón
+
+chat-emote-name-gekker = Gekker
+
+chat-emote-name-yap = Ladrido agudo
+
+chat-emote-name-gurgle = Gorgoteo
+
+chat-emote-name-liss = Liss
+
+chat-emote-name-lurr = Lurr
+
+chat-emote-name-snicker = Risita
+
+chat-emote-name-multichirp = Coro de trinos
+
+chat-emote-name-synth-laugh = Risa sintética
+
+chat-emote-name-hum = Tarareo
+
+chat-emote-name-sniff = Olfateo
+
+chat-emote-msg-blink = parpadea.
+
+chat-emote-msg-scree = ¡chilla!
+
+chat-emote-msg-call = ¡llama!
+
+chat-emote-msg-squawk = ¡grazna!
+
+chat-emote-msg-quack = hace cuac.
+
+chat-emote-msg-snort = resopla.
+
+chat-emote-msg-squee = ¡chilla agudamente!
+
+chat-emote-msg-stomp = patea el suelo con {POSS-ADJ($entity)} pie.
+
+chat-emote-msg-gekker = ¡hace gekker!
+
+chat-emote-msg-yap = ¡ladra agudo!
+
+chat-emote-msg-gurgle = gorgotea.
+
+chat-emote-msg-liss = hace liss.
+
+chat-emote-msg-lurr = hace lurr.
+
+chat-emote-msg-snicker = se ríe por lo bajo.
+
+chat-emote-msg-multichirp = ¡trina en coro!
+
+chat-emote-msg-hum = tararea.
+
+chat-emote-msg-sniff = olfatea.

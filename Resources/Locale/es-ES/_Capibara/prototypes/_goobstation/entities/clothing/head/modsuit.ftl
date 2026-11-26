@@ -25,3 +25,6 @@ ent-ClothingModsuitHelmetResearchDirector = casco minerva de modtraje
 
 ent-ClothingModsuitHelmetCaptain = casco magnate de modtraje
     .desc = La visera está hecha de amatista de 10.000 años de antigüedad.
+
+ent-ClothingModsuitHelmetBrigMed = casco del modtraje de trauma
+    .desc = Casco genial sin lentes oculares. Los ojos no hacen falta para operar.

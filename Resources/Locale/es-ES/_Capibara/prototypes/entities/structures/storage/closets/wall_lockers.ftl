@@ -48,3 +48,6 @@ ent-LockerWallEvacRepair = taquilla de pared de emergencia de la lanzadera de ev
 
 ent-LockerWallBasePrisoner = armario de pared del prisionero
     .desc = Es una taquilla segura para las pertenencias personales de un recluso durante su estancia en prisión.
+
+ent-LockerWallSyndicate = taquilla de pared rojo sangre
+    .desc = Es un armario de pared con diseño rojo sangre.

@@ -13,3 +13,4 @@ access-overrider-window-missing-privileges = No se puede modificar el acceso a e
 access-overrider-cannot-modify-access = ¡No tienes suficientes privilegios para modificar este dispositivo!
 access-overrider-out-of-range = El dispositivo conectado está demasiado lejos
 
+access-overrider-window-missing-privileges-no-id = No se puede modificar el acceso a este dispositivo. Faltan los siguientes privilegios:

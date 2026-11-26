@@ -1,0 +1,35 @@
+- type: emote
+  id: Belch
+  name: chat-emote-name-belch
+  category: Vocal
+  available: true
+  icon: _NF/Interface/Emotes/belch.png
+  whitelist:
+    components:
+    - Vocal
+  blacklist:
+    components:
+    - BorgChassis
+    - Silicon
+  chatMessages: ["chat-emote-msg-belch"]
+  event: !type:JiggleEmoteEvent # Goobstation
+    pulses:
+    - impulse: 0,-22
+    - delay: 0.15
+      impulse: 0,40
+  chatTriggers:
+    - belch
+    - belch.
+    - belch!
+    - burp
+    - burp.
+    - burp!
+    - belchs
+    - belchs.
+    - belchs!
+    - burps
+    - burps.
+    - burps!
+    - belches
+    - belches.
+    - belches!

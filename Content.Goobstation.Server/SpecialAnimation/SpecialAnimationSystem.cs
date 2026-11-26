@@ -1,6 +1,3 @@
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 Roudenn <romabond091@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Goobstation.Shared.SpecialAnimation;
@@ -11,9 +8,9 @@ using Robust.Shared.Utility;
 
 namespace Content.Goobstation.Server.SpecialAnimation;
 
-public sealed class SpecialAnimationSystem : SharedSpecialAnimationSystem
+public sealed partial class SpecialAnimationSystem : SharedSpecialAnimationSystem
 {
-    [Dependency] private readonly IPrototypeManager _protoMan = default!;
+    [Dependency] private IPrototypeManager _protoMan = default!;
 
     /// <summary>
     /// Plays a special attack animation.

@@ -3,17 +3,18 @@ using Content.Goobstation.Shared.Changeling.Systems;
 using Content.Shared.Atmos.Components;
 using Content.Server.Atmos.EntitySystems;
 using Content.Server.Polymorph.Systems;
-using Content.Server.Temperature.Components;
 using Content.Server.Temperature.Systems;
+using Content.Shared.Atmos.Components;
 using Content.Shared.Polymorph;
+using Content.Shared.Temperature.Components;
 
 namespace Content.Goobstation.Server.Changeling;
 
 public sealed partial class ChangelingStasisSystem : SharedChangelingStasisSystem
 {
-    [Dependency] private readonly FlammableSystem _flame = default!;
-    [Dependency] private readonly PolymorphSystem _polymorph = default!;
-    [Dependency] private readonly TemperatureSystem _temperature = default!;
+    [Dependency] private FlammableSystem _flame = default!;
+    [Dependency] private PolymorphSystem _polymorph = default!;
+    [Dependency] private TemperatureSystem _temperature = default!;
 
     private EntityQuery<FlammableComponent> _flameQuery;
     private EntityQuery<ChangelingIdentityComponent> _lingQuery;

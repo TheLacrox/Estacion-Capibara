@@ -21,3 +21,23 @@ stack-ashwood-plank = {$amount ->
 [1] tablón de fresno de ceniza
 *[other] tablones de fresno de ceniza
 }
+
+stack-ashwood-stick = {$amount ->
+    [1] palo de madera de ceniza
+    *[other] palos de madera de ceniza
+}
+
+stack-wood-stick = {$amount ->
+    [1] palo de madera
+    *[other] palos de madera
+}
+
+stack-flowers-ash = {$amount ->
+    [1] flor de ceniza
+    *[other] flores de ceniza
+}
+
+stack-flowers-pale = {$amount ->
+    [1] flor pálida
+    *[other] flores pálidas
+}

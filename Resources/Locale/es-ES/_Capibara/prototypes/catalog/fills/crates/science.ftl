@@ -3,3 +3,6 @@ ent-CrateScienceBiosuit = caja de trajes biológicos de científico
 
 ent-CrateCrewMonitoring = caja de monitorización de tripulación
     .desc = Contiene un paquete plano de servidor de monitorización de tripulación y algunos ordenadores de monitorización de tripulación. Requiere acceso a ciencia para abrirla.
+
+ent-CrateStationAiCore = caja de núcleo de IA de estación
+    .desc = Contiene los componentes para construir un núcleo de IA de estación. Cerebro positrónico no incluido. Requiere acceso de Ciencia para abrirla.

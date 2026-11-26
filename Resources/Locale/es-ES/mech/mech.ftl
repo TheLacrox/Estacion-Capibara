@@ -30,3 +30,5 @@ mech-slot-display = Ranuras libres: {$amount}
 mech-no-enter = No puedes pilotar esto.
 
 mech-eject-pilot-alert = ¡{$user} está sacando al piloto del {$item}!
+
+mech-construction-guide-string = Todas las piezas del mecha deben estar unidas al arnés.

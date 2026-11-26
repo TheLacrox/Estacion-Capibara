@@ -1,25 +1,20 @@
 <!--
-SPDX-FileCopyrightText: 2024 blobadoodle <lucahtaylor@gmail.com>
-SPDX-FileCopyrightText: 2024 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
   # I.P.C.
   <GuideEntityEmbed Entity="MobIPCDummy" Caption="I.P.C."/>
-  Un IPC (abreviatura de Chasis Positrónico Integrado) es un tipo de robot sintiente y se considera un [color=yellow]individuo independiente[/color], lo que significa que [color=red]no se rigen por ninguna ley de la robótica[/color]. Los IPCs no pueden ser hackeados por Emags porque no tienen que seguir ninguna directiva predefinida en su sistema. [color=red]Los IPCs son seres basados en silicio, por lo que suelen ser reparados por Ciencia o Ingeniería en lugar de Medicina.[/color]
-  Reciben un 20% menos de daño Contundente, un 70% más de daño por Calor y un 100% más de daño por Descarga. A diferencia de los ciborgs, reciben daño por Radiación, pero un 60% menos que los humanos.
-  No tienen huesos.
+  Un IPC (abreviatura de Chasis Positrónico Integrado) es un tipo de robot sintiente y se considera un individuo independiente, lo que significa que no se rigen por ninguna ley de la robótica. Los IPCs no pueden ser hackeados por Emags porque no tienen que seguir ninguna directiva predefinida en su sistema. [color=red]Los IPCs son seres basados en silicio, por lo que suelen ser reparados por Ciencia o Ingeniería en lugar de Medicina.[/color]
 
   <Box>
     <GuideEntityEmbed Entity="PositronicBrain" Caption="Cerebro Positrónico"/>
   </Box>
-  Como los borgs, los IPCs tienen un cerebro positrónico como fuente de procesamiento. Sin embargo, a diferencia de ellos, los IPCs no pueden ser ensamblados. "¡Es más barato crear un caparazón que te obedezca que uno que no! *guiño*"
+  Como los borgs, los IPCs tienen un cerebro positrónico como fuente de procesamiento. Sin embargo, a diferencia de ellos, los IPCs no pueden ser ensamblados. "¡Es más barato crear un caparazón que te obedezca que uno que no! [italic]*guiño*[/italic]"
 
-  ## Recargar un IPC
+  ## Habilidades Únicas
+
+  ### Recargar un IPC
    <Box>
     <GuideEntityEmbed Entity="APCBasic" Caption="Terminal APC"/>
     <GuideEntityEmbed Entity="BorgCharger" Caption="Cargador de Borgs"/>
@@ -27,21 +22,21 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   </Box>
   Los IPCs pueden recargarse de tres formas diferentes:
 
-  Terminal APC: Los IPCs pueden usar terminales APC para recargarse. Pulsa [color=yellow]Alt + clic izquierdo[/color] en un terminal tantas veces como sea necesario para recargarse completamente.
+  - Terminal APC: Los IPCs pueden usar terminales APC para recargarse. Pulsa [color=yellow]Alt + clic izquierdo[/color] en un terminal tantas veces como sea necesario para recargarse completamente.
 
-  Cargadores de Borgs: Los IPCs pueden usar cargadores de borgs para recargarse. Siempre prioriza los que están fuera del área de Ciencia para evitar dolores de cabeza.
+  - Cargadores de Borgs: Los IPCs pueden usar cargadores de borgs para recargarse. Siempre prioriza los que están fuera del área de Ciencia para evitar dolores de cabeza.
 
-  Celdas de Energía: Los IPCs pueden beber energía de las celdas de energía para cargar su batería interna. [color=yellow]Haz clic derecho y selecciona Drenar[/color] en una celda de energía o dispositivo alimentado por batería para beber de él.
+  - Celdas de Energía: Los IPCs pueden beber energía de las celdas de energía para cargar su batería interna. [color=yellow]Haz clic derecho y selecciona Drenar[/color] en una celda de energía o dispositivo alimentado por batería para beber de él.
 
-  ## Radio Integrada
+  ### Radio Integrada
   <Box>
     <GuideEntityEmbed Entity="EncryptionKeyScience" Caption="Clave de encriptación"/>
   </Box>
 
-  Los IPCs [bold]no[/bold] usan radios externas porque ya tienen una integrada. Solo necesitan obtener una clave de encriptación de una radio. Haciendo clic en un IPC con un [color=yellow]cortacables[/color], puedes retirar sus claves.
+  - Los IPCs [bold]no[/bold] usan radios externas porque ya tienen una integrada. Solo necesitan obtener una clave de encriptación de una radio. Haciendo clic en un IPC con un [color=yellow]cortacables[/color], puedes retirar sus claves.
   Puedes encontrar nuevas claves por la estación o retirar una de una radio de sector usando un [color=yellow]destornillador[/color].
 
-  ## Reparación
+  ### Reparación
   <Box HorizontalAlignment="Stretch">
     <GuideEntityEmbed Entity="WelderIndustrialAdvanced" Caption="Soldador"/>
     Los soldadores se pueden usar para reparar daño [color=yellow]Contundente[/color].
@@ -55,10 +50,24 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     Las láminas de vidrio se pueden usar para reparar la [color=yellow]Ceguera[/color].
   </Box>
   <Box HorizontalAlignment="Stretch">
-    En caso de que un IPC muera, después de ser reparado completamente, debe ser reiniciado usando el botón [color=yellow]"Reiniciar"[/color] (ubicado haciendo clic derecho).
+    - En caso de que un IPC muera, después de ser reparado completamente, debe ser reiniciado usando el botón [color=yellow]"Reiniciar"[/color] (ubicado haciendo clic derecho).
   </Box>
   <Box HorizontalAlignment="Stretch">
     [color=red]¡NUNCA ELECTROCUTES A UN IPC con un desfibrilador o de cualquier otra forma mientras esté muerto, ya que esto causará que la batería descargue rayos de energía hacia el exterior![/color]
   </Box>
+
+  ## Dieta
+
+  - Como los IPCs son seres basados en silicio, no necesitan comida ni agua para sobrevivir, y no pueden comer.
+
+  ## Ventajas
+
+  - Reciben [color=#1e90ff]un 20% menos de daño Contundente y un 60% menos de daño por Radiación.[/color]
+  - No tienen huesos que romper.
+
+  ## Desventajas
+
+  - Reciben [color=#ffa500]un 70% más de daño por Calor y un 100% más de daño por Descarga.[/color]
+  - No pueden [color=red](ni deben)[/color] ser desfibrilados.
 
 </Document>

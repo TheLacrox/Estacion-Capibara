@@ -303,3 +303,36 @@ ent-FloorTileItemPlasmaMarble = baldosa de plasmarble
 
 ent-FloorTileItemUraniumMarble = baldosa de mármol de uranio
     .desc = Un cuadrado cincelado y pulido del mejor Mármol Espacial. Infusionado con uranio para hacerlo extra radioactivo. ¡Juego de palabras intencionado!
+
+ent-FloorTileItemIronsandConcrete = baldosa de hormigón de arena de hierro
+
+ent-FloorTileItemIronsandConcreteMono = baldosa mono de hormigón de arena de hierro
+
+ent-FloorTileItemIronsandConcreteSmooth = hormigón liso de arena de hierro
+
+ent-FloorTileItemDarkAstroGrass = astrohierba oscura
+    .desc = Hierba falsa que cubre los cables ¡e incluso viene con NanoRecortes realistas!
+
+ent-FloorTileItemLightAstroGrass = astrohierba clara
+    .desc = Hierba falsa que cubre los cables ¡e incluso viene con NanoRecortes realistas!
+
+ent-FloorTileItemAstroIronsand = astroarena de hierro
+    .desc = Arena roja falsa. Importada del falso Marte.
+
+ent-FloorTileItemAstroIronsandBorderless = astroarena de hierro sin bordes
+    .desc = Arena roja falsa. Importada del falso Marte.
+
+ent-FloorTileItemDesertAstroSand = astroarena del desierto
+    .desc = Arena falsa, diseñada para ser fina.
+
+ent-FloorTileItemXeno = suelo xeno
+
+ent-FloorTileItemXenoSteel = suelo de acero xeno
+
+ent-FloorTileItemXenoSteelCorner = suelo de esquina de acero xeno
+
+ent-FloorTileItemXenoMaint = suelo de mantenimiento técnico xeno
+
+ent-FloorTileItemXenoborg = suelo de xenoborg
+
+ent-FloorTileItemDarkSquiggly = baldosa ondulada de acero oscuro

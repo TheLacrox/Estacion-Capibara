@@ -62,3 +62,5 @@ global-tile-movement-message = ¡Empieza a sonar una melodía siniestra!
 # Capibara: translations ported from upstream
 
 spell-rathen-gut-popup = ¡No tienes apéndice, pero algo tenía que ceder!
+
+spell-fail-no-grid = Necesitas suelo firme bajo tus pies para lanzar este hechizo.

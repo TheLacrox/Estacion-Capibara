@@ -202,3 +202,5 @@ chat-speech-verb-wawa-1 = entona
 chat-speech-verb-wawa-2 = declara
 chat-speech-verb-wawa-3 = proclama
 chat-speech-verb-wawa-4 = reflexiona
+
+chat-manager-send-hook-admin-wrap-message = ADMIN: [bold](D){$senderName}:[/bold] {$message}

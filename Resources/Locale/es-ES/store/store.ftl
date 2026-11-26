@@ -29,3 +29,7 @@ store-preset-name-uplink = Enlace
 store-preset-name-uplink-ghost = Enlace Contravend
 store-preset-name-spellbook = Libro de hechizos
 store-preset-name-spellbook-ghost = Tienda de hechizos fantasmal
+
+store-preset-name-nukie-delivery = Entrega bluespace de NukeOps
+
+store-preset-name-changeling = Almacén de ADN

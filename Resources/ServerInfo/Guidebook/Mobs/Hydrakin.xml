@@ -4,26 +4,36 @@
   <Box>
     <GuideEntityEmbed Entity="MobHydrakin" Caption=""/>
   </Box>
-  ## Alimentación
+  Los Hydrakin son una especie definida por sus implantes cibernéticos y la capacidad de su cuerpo de beneficiarse de gases normalmente peligrosos.
 
-  - Los Hydrakin prefieren mayormente la comida cruda. Las cebollas y la comida que contiene teobromina son [color=#FFA500]altamente tóxicas para ellos[/color].
+  ## Habilidades Únicas
 
-  ## Propiedades físicas
+  ### Regulación Térmica
 
-  - Son [color=#4169E1]un 10% más resistentes al daño contundente[/color].
-  - Reciben [color=#FFA500]un 25% más de daño por calor y un 15% más de daño cortante[/color].
-  - Usar gafas [color=#FFA500]no es posible[/color] debido a la anatomía de su cabeza.
-
-  ## Temperatura
-
-  - Los cuerpos de los Hydrakin [color=#FFA500]se calientan constantemente[/color]. Pueden tolerar el calor sin ningún aislamiento, pero llevar trajes presurizados o abrigos empezará inmediatamente a [color=#FFA500]calentarlos hasta los 67 °C[/color].
+  - Los cuerpos de los Hydrakin [color=#FFA500]se calientan constantemente[/color]. Como resultado, puede que tengan que irradiar manualmente el calor de su cuerpo.
+  - Pueden tolerar el calor sin ningún aislamiento, pero llevar trajes presurizados o abrigos empezará inmediatamente a [color=#FFA500]calentarlos hasta los 67 °C[/color].
   - La Leporazina y el Peranol tienen un efecto refrigerante [color=#4169E1]amplificado[/color] sobre su cuerpo.
   - Sin embargo, usar cualquier tipo de químico criogénico hará que los Hydrakin [color=#FFA500]se queden dormidos[/color] si su temperatura corporal es lo bastante baja como para activarlo.
   - Además, la termorregulación de los Hydrakin falla por completo en estado crítico, así como al estar muertos.
 
-  ## Atmosférica
+  ### Adaptación Atmosférica
 
   - Los Hydrakin son capaces de respirar todos los gases, con la excepción del dióxido de carbono y el vapor de agua.
   - Los gases únicos (como Plasma, Tritio, Frezón, Nitrio, Healium, etc.) tienen un efecto mayormente [color=#4169E1]positivo[/color] sobre ellos, descrito en la entrada "Químicos" del manual.
+
+  ## Dieta
+
+  - Los Hydrakin prefieren mayormente la comida cruda.
+  - Serán [color=#FFA500]envenenados[/color] por Teobromina (Chocolate, Té, Café) y Alicina (Cebolla, Ajo).
+
+  ## Ventajas
+  - Son [color=#1e90ff]un 10% más resistentes al daño contundente[/color].
+  - Los gases únicos suelen tener un efecto positivo en la biología de los Hydrakin.
+
+  ## Desventajas
+
+  - Reciben [color=#FFA500]un 25% más de daño por calor y un 15% más de daño cortante[/color].
+  - Usar gafas [color=#FFA500]no es posible[/color] debido a la anatomía de su cabeza.
+
 
 </Document>

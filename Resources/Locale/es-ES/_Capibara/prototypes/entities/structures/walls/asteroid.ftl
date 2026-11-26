@@ -27,3 +27,7 @@ ent-WallRockChromite = cromita
 
 ent-WallRockAndesite = andesita
     .desc = Mantiene el aire adentro y a la marea gris afuera.
+
+ent-IronSandstone = arenisca de hierro
+
+ent-IronSandstoneMining = arenisca de hierro

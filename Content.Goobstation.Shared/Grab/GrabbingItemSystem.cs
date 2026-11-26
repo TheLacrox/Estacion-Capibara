@@ -1,7 +1,3 @@
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Misandry <mary@thughunt.ing>
-// SPDX-FileCopyrightText: 2025 gus <august.eymann@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using System.Numerics;
@@ -21,10 +17,10 @@ using Robust.Shared.Physics.Components;
 
 namespace Content.Goobstation.Shared.Grab;
 
-public sealed class GrabbingItemSystem : EntitySystem
+public sealed partial class GrabbingItemSystem : EntitySystem
 {
-    [Dependency] private readonly PullingSystem _pulling = default!;
-    [Dependency] private readonly GrabIntentSystem _grabbing = default!;
+    [Dependency] private PullingSystem _pulling = default!;
+    [Dependency] private GrabIntentSystem _grabbing = default!;
 
     public override void Initialize()
     {

@@ -48,3 +48,6 @@ ent-AmbuzolPlusMedipen = medipen antibiohazard avanzado
 
 ent-CentCommHypo = hipospray de Centcomm
     .desc = Reservado para los mejores médicos de Nanotrasen. Utiliza tecnología de bluespace experimental.
+
+ent-RomerolMedipen = autoinyector de romerol
+    .desc = Un medipen no recargable que contiene múltiples dosis de "Braaaains".

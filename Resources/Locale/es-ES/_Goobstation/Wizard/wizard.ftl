@@ -26,7 +26,7 @@ wizard-role-greeting =
 wizard-role-briefing = Eres un mago espacial. Sobrevive y causa estragos entre los simples mortales.
 apprentice-role-briefing = Eres un aprendiz de mago espacial. Mantén vivo a quien te haya invocado.
 
-admin-verb-make-wizard = Convertir al objetivo en mago.
+admin-verb-make-wizard = Convierte al objetivo en un Mago.
 admin-verb-text-make-wizard = Hacer Mago
 
 wizard-title = Mago

@@ -1,6 +1,3 @@
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 Roudenn <romabond091@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using System.Linq;
@@ -27,7 +24,6 @@ namespace Content.Client._Mono.FireControl.UI;
 
 public sealed class FireControlNavControl : BaseShuttleControl
 {
-    [Dependency] private readonly IMapManager _mapManager = default!;
     private readonly SharedShuttleSystem _shuttles;
     private readonly SharedTransformSystem _transform;
     private readonly IEntitySystemManager _sysManager = default!;
@@ -238,7 +234,7 @@ public sealed class FireControlNavControl : BaseShuttleControl
 
         _grids.Clear();
         var maxRange = new Vector2(WorldRange, WorldRange);
-        _mapManager.FindGridsIntersecting(xform.MapID, new Box2(mapPos.Position - maxRange, mapPos.Position + maxRange), ref _grids, approx: true, includeMap: false);
+        Maps.FindGridsIntersecting(xform.MapID, new Box2(mapPos.Position - maxRange, mapPos.Position + maxRange), ref _grids, approx: true, includeMap: false);
 
         foreach (var grid in _grids)
         {

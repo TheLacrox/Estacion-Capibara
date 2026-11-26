@@ -49,3 +49,11 @@ reagent-desc-hew = Esencia pura de peluche de lagarto invertido. ¡Te hace decir
 
 reagent-name-corgiessence = corgium
 reagent-desc-corgiessence = Sabe a comida para perros. Claramente un gusto adquirido.
+
+reagent-name-catessence = felinasa
+
+reagent-desc-catessence = Un tipo de enzima carcinógena conocida por descomponer las proteínas presentes en las cuerdas vocales de la mayoría de los animales. NO se recomienda mezclarla.
+
+reagent-name-canidessence = caninasa
+
+reagent-desc-canidessence = Un tipo de enzima carcinógena conocida por descomponer las proteínas presentes en las cuerdas vocales de la mayoría de los animales. NO se recomienda mezclarla.

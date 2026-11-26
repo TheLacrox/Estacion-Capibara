@@ -1,13 +1,3 @@
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-// SPDX-FileCopyrightText: 2025 Aviu00 <aviu00@protonmail.com>
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 Misandry <mary@thughunt.ing>
-// SPDX-FileCopyrightText: 2025 Tim <timfalken@hotmail.com>
-// SPDX-FileCopyrightText: 2025 amogus <113782077+whateverusername0@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 gus <august.eymann@gmail.com>
-// SPDX-FileCopyrightText: 2025 whateverusername0 <whateveremail>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using System.Linq;
@@ -33,16 +23,17 @@ using Robust.Server.GameObjects;
 
 namespace Content.Goobstation.Server.Pirates.Siphon;
 
-public sealed class ResourceSiphonSystem : EntitySystem
+public sealed partial class ResourceSiphonSystem : EntitySystem
 {
-    [Dependency] private readonly ChatSystem _chat = default!;
-    [Dependency] private readonly StationSystem _station = default!;
-    [Dependency] private readonly StationAnchorSystem _anchor = default!;
-    [Dependency] private readonly CargoSystem _cargo = default!;
-    [Dependency] private readonly PricingSystem _pricing = default!;
-    [Dependency] private readonly TransformSystem _xform = default!;
-    [Dependency] private readonly MindSystem _mind = default!;
-    [Dependency] private readonly EntityLookupSystem _lookup = default!;
+    [Dependency] private ChatSystem _chat = default!;
+    [Dependency] private StationSystem _station = default!;
+    [Dependency] private StationAnchorSystem _anchor = default!;
+    [Dependency] private CargoSystem _cargo = default!;
+    [Dependency] private PricingSystem _pricing = default!;
+    [Dependency] private TransformSystem _xform = default!;
+    [Dependency] private MindSystem _mind = default!;
+    [Dependency] private EntityLookupSystem _lookup = default!;
+    [Dependency] private SharedStackSystem _stack = default!;
 
     private float _tickTimer = 1f;
 
@@ -183,8 +174,7 @@ public sealed class ResourceSiphonSystem : EntitySystem
         DeactivateSiphon(ent, "broken");
 
         var speso = Spawn("SpaceCash", Transform(ent).Coordinates);
-        if (TryComp<StackComponent>(speso, out var stack))
-            stack.Count = (int) ent.Comp.Credits;
+        _stack.SetCount(speso, (int) ent.Comp.Credits);
     }
     #endregion
 

@@ -39,7 +39,7 @@ public sealed partial class RelayRandomPart : EntityEffectBase<RelayRandomPart>
     public EntityEffect? FailEffect;
 
     public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
-        => Loc.GetString("entity-effect-guidebook-relay-random-part", ("effect", Effect.GuidebookEffectDescription(prototype, entSys)!));
+        => Loc.GetString("entity-effect-guidebook-relay-random-part", ("effect", Effect.EntityEffectGuidebookText(prototype, entSys)!));
 }
 
 public sealed class RelayRandomPartEffectSystem : EntityEffectSystem<BodyComponent, RelayRandomPart>
@@ -66,17 +66,10 @@ public sealed class RelayRandomPartEffectSystem : EntityEffectSystem<BodyCompone
         if (_parts.Count == 0) // no parts found
         {
             if (effect.FailEffect is {} fail)
-            {
-                var failArgs = new EntityEffectBaseArgs(ent, EntityManager);
-                if (fail.ShouldApply(failArgs))
-                    fail.Effect(failArgs);
-            }
+                _effects.TryApplyEffect(ent, fail, args.Scale, args.User);
             return;
         }
 
-        var picked = _random.Pick(_parts);
-        var applyArgs = new EntityEffectBaseArgs(picked, EntityManager);
-        if (effect.Effect.ShouldApply(applyArgs))
-            effect.Effect.Effect(applyArgs);
+        _effects.TryApplyEffect(_random.Pick(_parts), effect.Effect, args.Scale, args.User);
     }
 }

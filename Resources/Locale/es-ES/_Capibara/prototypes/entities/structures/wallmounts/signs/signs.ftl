@@ -462,3 +462,6 @@ ent-SignSurvival = señal de supervivencia
 
 ent-SignNTMine = señal de mina
     .desc = Una señal. "Mina" está escrito en ella.
+
+ent-SignArrivals = cartel de llegadas
+    .desc = Un cartel que indica dónde atracará el transbordador de Llegadas.

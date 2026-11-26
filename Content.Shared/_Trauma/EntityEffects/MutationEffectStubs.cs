@@ -33,24 +33,6 @@ public sealed partial class DropRandomItem : EntityEffectBase<DropRandomItem>
 }
 
 /// <summary>
-/// Applies fire stacks to the target entity.
-/// </summary>
-public sealed partial class Flammable : EntityEffectBase<Flammable>
-{
-    [DataField]
-    public float Multiplier = 0.05f;
-
-    [DataField]
-    public float? MultiplierOnExisting;
-
-    [DataField]
-    public float FireProtectionPenetration;
-
-    public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
-        => null;
-}
-
-/// <summary>
 /// Gibs the target entity.
 /// </summary>
 public sealed partial class Gib : EntityEffectBase<Gib>
@@ -75,80 +57,10 @@ public sealed partial class Knockdown : EntityEffectBase<Knockdown>
 }
 
 /// <summary>
-/// Base class for status effect entity effects with time/type fields.
-/// </summary>
-public abstract partial class BaseStatusEntityEffect<T> : EntityEffectBase<T> where T : BaseStatusEntityEffect<T>
-{
-    [DataField]
-    public TimeSpan? Time = TimeSpan.FromSeconds(2);
-
-    [DataField]
-    public StatusEffectMetabolismType Type = StatusEffectMetabolismType.Update;
-
-}
-
-/// <summary>
-/// Applies knockdown status effect to the target.
-/// </summary>
-public sealed partial class ModifyKnockdown : BaseStatusEntityEffect<ModifyKnockdown>
-{
-    [DataField]
-    public bool Crawling;
-
-    [DataField]
-    public bool Drop = true;
-
-    public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
-        => null;
-}
-
-/// <summary>
-/// Applies paralysis status effect to the target.
-/// </summary>
-public sealed partial class ModifyParalysis : BaseStatusEntityEffect<ModifyParalysis>
-{
-    public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
-        => null;
-}
-
-/// <summary>
 /// Does nothing. Used as a weighted random option.
 /// </summary>
 public sealed partial class NoEffect : EntityEffectBase<NoEffect>
 {
-    public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
-        => null;
-}
-
-/// <summary>
-/// Plays a sound effect at the target entity.
-/// </summary>
-public sealed partial class PlaySoundEffect : EntityEffectBase<PlaySoundEffect>
-{
-    [DataField(required: true)]
-    public SoundSpecifier Sound = default!;
-
-    [DataField]
-    public bool Positional = true;
-
-    public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
-        => null;
-}
-
-/// <summary>
-/// Spawns an entity at the target's location.
-/// </summary>
-public sealed partial class SpawnEntity : EntityEffectBase<SpawnEntity>
-{
-    [DataField]
-    public int Number = 1;
-
-    [DataField(required: true)]
-    public EntProtoId Entity;
-
-    [DataField]
-    public bool Predicted = true;
-
     public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
         => null;
 }
@@ -280,30 +192,6 @@ public sealed partial class RegenerateOrgan : EntityEffectBase<RegenerateOrgan>
 
     [DataField]
     public bool Recursive = true;
-
-    public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
-        => null;
-}
-
-/// <summary>
-/// Relays effects to nearby entities matching conditions.
-/// </summary>
-public sealed partial class RelayNearby : EntityEffectBase<RelayNearby>
-{
-    [DataField]
-    public EntityEffect Effect = default!;
-
-    [DataField(required: true)]
-    public string CompName = string.Empty;
-
-    [DataField]
-    public float Range = 5f;
-
-    [DataField]
-    public EntityWhitelist? Whitelist;
-
-    [DataField]
-    public EntityWhitelist? Blacklist;
 
     public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
         => null;

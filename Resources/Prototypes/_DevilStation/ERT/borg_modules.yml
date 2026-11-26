@@ -41,14 +41,13 @@
     - state: centcomm
     - state: icon-ert
   - type: ItemBorgModule
-    moduleId: ERT
-    items:
-    - WeaponAdvancedLaser
-    - Flash
-    - StunBatonBorg
-    - JawsOfLife
-    - WelderExperimental
-    - SonicJackhammer
-    - SelfRechargingFireExtinguisher
+    hands:
+    - item: WeaponAdvancedLaser
+    - item: Flash
+    - item: StunBatonBorg
+    - item: JawsOfLife
+    - item: WelderExperimental
+    - item: SonicJackhammer
+    - item: SelfRechargingFireExtinguisher
   - type: BorgModuleIcon
     icon: { sprite: Interface/Actions/actions_borg.rsi, state: ert-module }

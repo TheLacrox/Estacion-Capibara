@@ -57,3 +57,6 @@ ent-ClothingHeadsetFreelance = auricular de freelancer
 
 ent-ClothingHeadsetWizard = auricular de mago
     .desc = Un auricular usado por los temibles magos espaciales.
+
+ent-ClothingHeadsetNinja = auricular verde
+    .desc = ¿Quién podría negarse a llevar este elegante auricular negro y verde?

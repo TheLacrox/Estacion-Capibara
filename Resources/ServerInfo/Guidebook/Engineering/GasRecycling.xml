@@ -1,0 +1,25 @@
+<Document>
+  # Reciclaje de Gas
+  El reciclador de gas es una máquina que convierte gases residuales en gases respirables.
+
+  <Box>
+    <GuideEntityEmbed Entity="GasRecycler"/>
+  </Box>
+  En concreto, puede reciclar Dióxido de Carbono y Óxido Nitroso en Oxígeno y Nitrógeno.
+
+  La máquina tiene dos conexiones a la [textlink="red de tuberías" link="PipeNetworks"], para la entrada y la salida de gas.
+
+  Para que el reciclador funcione, el gas debe estar presurizado a [color=#a4885c]3000 kPa[/color] y calentado a [color=#a4885c]573,15K[/color], y la presión en la entrada debe ser mayor que en la salida.
+  Si no se cumplen estas condiciones, los gases simplemente pasarán sin reciclarse (igual que los gases no reciclables).
+
+  <Box>
+    <GuideEntityEmbed Entity="GasRecyclerMachineCircuitboard" Caption="Placa del reciclador de gas"/>
+  </Box>
+
+  La máquina se puede construir usando una placa de circuito, que se fabrica en una impresora de circuitos.
+  Eso sí, primero debe ser investigada por [textlink="Ciencia" link="Science"].
+
+  El reciclaje de gas puede usarse como alternativa a los extractores de gas o como respaldo para añadir redundancia al sistema atmosférico.
+  [color=#a4885c]¡Solo no olvides enfriar el gas antes de liberarlo en la estación![/color]
+
+</Document>

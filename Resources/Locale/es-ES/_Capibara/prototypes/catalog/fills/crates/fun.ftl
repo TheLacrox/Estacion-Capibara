@@ -63,3 +63,6 @@ ent-CrateFunDartsSet = set de tablero de dardos
 
 ent-CrateFunScurret = scurret hidratado
     .desc = Espera, ¿qué?
+
+ent-CrateFunInstrumentsRandom = colección de instrumentos aleatoria
+    .desc = ¡Una caja con varios instrumentos seleccionados al azar, escogidos a mano por los mejores músicos de Centcomm!

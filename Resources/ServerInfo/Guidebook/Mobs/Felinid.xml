@@ -1,8 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
-SPDX-FileCopyrightText: 2024 BeeRobynn <robynthewarcrime@proton.me>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -14,12 +10,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   </Box>
 
   Los felinidos son una mutación de los humanos, luciendo sus características orejas y cola de tus dibujos animados japoneses favoritos.
-  Tienen un agudo sexto sentido para aterrizar y [color=#1e90ff]reciben un 80% menos de daño por caídas o impactos a alta velocidad.[/color]
-  También serán ralentizados menos cuando estén heridos.
 
-  Arañarán con sus garras en lugar de usar sus puños, infligiendo daño [color=#ec3a3a]Cortante[/color] y [color=#ec3a3a]Perforante[/color].
+  ## Habilidades Únicas
 
-  ## Puaj, Bolas de Pelo
+  ### Puaj, Bolas de Pelo
   <Box>
     <GuideEntityEmbed Entity="Hairball" Caption=""/>
 	<GuideEntityEmbed Entity="MobMouse" Caption=""/>
@@ -27,6 +21,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   También son capaces de comer ratas vivas, lo que les permitirá toser una asquerosa bola de pelo.
   Ten cuidado al tocarlas, ya que pueden [color=#ffa500]provocarte vómitos al sostenerlas.[/color]
-  Los felinidos usarán esto a su favor para asquear a sus adversarios.
+  Los felinidos pueden usar esto a su favor para asquear a sus adversarios.
+
+  ## Ventajas
+
+  - Tienen un agudo sexto sentido para aterrizar y [color=#1e90ff]reciben un 80% menos de daño por caídas o impactos a alta velocidad.[/color]
+  - También serán ralentizados menos cuando estén heridos.
+  - Arañarán con sus garras en lugar de usar sus puños, infligiendo daño [color=#ec3a3a]Cortante[/color] y [color=#ec3a3a]Perforante[/color].
+
+  ## Desventajas
+
+  - ¡Ninguna!
 
 </Document>

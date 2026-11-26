@@ -1,5 +1,3 @@
-# SPDX-FileCopyrightText: 2025 sneb
-#
 # SPDX-License-Identifier: MPL-2.0
 
 - type: marking
@@ -7,6 +5,10 @@
   bodyPart: Head
   markingCategory: Head
   speciesRestriction: [Hydrakin]
+  coloring:
+    default:
+      type:
+        !type:EyeColoring
   sprites:
   - sprite: _Obelisk/Mobs/Customization/hydrakin_parts.rsi
     state: eyes_default

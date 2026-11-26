@@ -16,6 +16,7 @@ using Robust.Shared.Random;
 using Robust.Shared.Serialization;
 using Robust.Shared.Timing;
 using System.Text;
+using Content.Shared.Damage.Systems;
 
 namespace Content.Shared._Trauma.Genetics.Console;
 

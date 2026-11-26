@@ -1,0 +1,22 @@
+<Document>
+  # Consola de Análisis
+
+  La Consola de Análisis es un dispositivo que se usa para interactuar con artefactos. Permite consultar los nodos, sus disparadores y efectos, y extraer puntos.
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="Consola de Análisis"/>
+  </Box>
+
+  La consola muestra información detallada sobre cada nodo de la estructura de árbol del artefacto. Esto incluye:
+  - [bold]ID:[/bold] Identificador único para usar con el Escáner de Nodos.
+  - [bold]Clase:[/bold] El nombre de la capa; los nodos de la misma capa lo comparten.
+  - [bold]Estado:[/bold]
+  - [italic][color=red]Bloqueado[/color][/italic] por defecto.
+  - [italic][color=plum]Activo[/color][/italic] al dispararse por primera vez.
+  - [italic][color=lime]Desbloqueado[/color][/italic] si se alcanza un nodo más profundo (impide las activaciones manuales).
+  - [bold]Durabilidad:[/bold] Número de activaciones manuales disponibles.
+  - [bold]Efecto:[/bold] Lo que ocurre cuando el nodo se activa o se dispara manualmente.
+  - [bold]Disparadores:[/bold] Acciones necesarias para desbloquear el nodo.
+  - [bold]Servidor:[/bold] Elige el servidor de investigación al que se envían los puntos extraídos.
+  - [bold]Extraer puntos:[/bold] Extrae puntos de los nodos desbloqueados desde la última extracción.
+</Document>

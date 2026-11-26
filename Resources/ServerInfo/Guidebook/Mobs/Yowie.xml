@@ -1,12 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Ashley Woodiss-Field <ash@DESKTOP-H64M4AI.localdomain>
-SPDX-FileCopyrightText: 2024 BeeRobynn <166929042+BeeRobynn@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 ColesMagnum <98577947+AW-FulCode@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 SX-7 <92227810+SX-7@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -18,21 +10,32 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   </Box>
 
   Los Yowie son una especie mística de criaturas bípedas peludas que antes se creía un mito urbano y ahora ha sido descubierta.
-  Su cuerpo es más grande que el de la mayoría de las otras especies en estatura, con la desventaja de [color=#AAFF00]no poder usar la mayoría de la ropa exterior o zapatos de Nanotrasen[/color] (apenas pueden meterse en trajes blandos), ni [color=#AAFF00]poder ser cargados por otros[/color].
-  Su pelaje también les permite recibir [color=#baf2ef]menos daño por frío[/color].
+  Por las conversaciones mantenidas entre nuestras especies, parece que históricamente vivían junto a la humanidad durante su existencia en la Tierra en partes de Australia, lo que les llevó a desarrollar un fuerte acento australiano con jerga incluida.
 
-  Su estatura hace que su puñetazo desarmado inflija [color=#ec3a3a]el doble de daño[/color] que el de un humano.
+  ## Habilidades Únicas
 
-  Son más grandes, haciéndolos más fáciles de golpear en combate, pero reciben un 25% menos de daño Contundente, Cortante y Perforante.
-  También pesan más, permitiéndoles arrastrar especies más ligeras con facilidad.
-
-  ## Maldito yonqui, tío
+  ### Maldito yonqui, tío
   <Box>
     <GuideEntityEmbed Entity="Joint" Caption=""/>
   </Box>
+  
+  - Parece que pasaron la mayor parte de su tiempo experimentando con algunas de las drogas más peligrosas y experimentales, y tras revisión, han desarrollado una mayor tolerancia a la mayoría de los químicos. De manera única, su hígado se encarga de la tarea de metabolizar los químicos.
 
-  Por las conversaciones mantenidas entre nuestras especies, parece que históricamente vivían junto a la humanidad durante su existencia en la Tierra en partes de Australia, lo que les llevó a desarrollar un fuerte acento australiano con jerga incluida.
-  Parece que pasaron la mayor parte de su tiempo experimentando con algunas de las drogas más peligrosas y experimentales, y tras revisión, han desarrollado una mayor tolerancia a la mayoría de los químicos. De manera única, su hígado se encarga de la tarea de metabolizar los químicos.
+  ## Dieta
 
+  - Debido a su resistencia a la mayoría de las drogas y toxinas, pueden consumir casi cualquier objeto comestible.
+
+  ## Ventajas
+
+  - Reciben un 25% menos de daño Contundente, Cortante y Perforante.
+  - Su estatura hace que su puñetazo desarmado inflija [color=#ec3a3a]el doble de daño[/color] que el de un humano.
+  - Su pelaje les permite recibir [color=#1e90ff]menos daño por frío[/color].
+  - Pesan más, lo que les permite arrastrar especies más ligeras con facilidad.
+
+  ## Desventajas
+
+  - Su cuerpo es más grande que el de la mayoría de las otras especies en estatura, con la desventaja de [color=#ffa500]no poder usar la mayoría de la ropa exterior o zapatos de Nanotrasen[/color] (apenas pueden meterse en trajes blandos)
+  - No pueden ser cargados por otros.
+  - Son más fáciles de golpear debido a su tamaño.
 
 </Document>

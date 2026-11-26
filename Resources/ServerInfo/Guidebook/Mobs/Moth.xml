@@ -1,8 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Errant <35878406+Errant-4@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -13,13 +9,29 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="MobMoth" Caption=""/>
   </Box>
 
-  Pueden comer algodón, telas y ropa, pero prácticamente ninguno de los alimentos que otros considerarían "comestibles". Prefieren un rango de temperatura algo más bajo que los humanos. Están obsesionadas con el número "65".
+  Las polillas son una especie alada, con antenas y rasgos similares a los de los insectos. Uno de sus principales rasgos distintivos es que están obsesionadas con el número "65".
 
-  Sus alas les dan mejor aceleración si no hay gravedad en la estación, pero aún no pueden moverse sin equipo cuando flotan en el espacio.
-  También pueden impulsarse pequeñas distancias una vez cada 6.5 segundos usando sus alas, pero eso requiere que haya gravedad presente. Sin embargo, se mueven un 6.5% más lento que otras especies debido a sus débiles piernas.
+  ## Habilidades Únicas
 
-  Reciben [color=#1e90ff]un 30% menos de daño por Frío[/color] pero [color=#ffa500]un 30% más de daño por Calor y un 6.5% más de daño Contundente, y prenden fuego más fácilmente[/color].
+  ### Impulso Alado
 
-  También son un 6.5% más ligeras que la mayoría de las especies.
+  - Las polillas pueden [color=#1e90ff]impulsarse pequeñas distancias una vez cada 6.5 segundos[/color] usando sus alas, pero eso requiere que haya gravedad presente.
+
+  ## Dieta
+
+  - Pueden comer algodón, telas y ropa, pero prácticamente ninguno de los alimentos que otros considerarían "comestibles".
+
+  ## Ventajas
+
+  - Reciben [color=#1e90ff]un 30% menos de daño por Frío[/color]
+  - Sus alas les dan mejor aceleración si no hay gravedad en la estación, pero aún no pueden moverse sin equipo cuando flotan en el espacio.
+  - También son [color=#1e90ff]un 6.5% más ligeras que la mayoría de las especies.[/color]
+
+  ## Desventajas
+
+  - Se mueven [color=#ffa500]un 6.5% más lento[/color] que otras especies debido a sus débiles piernas.
+  - Reciben [color=#ffa500]un 30% más de daño por Calor y un 6.5% más de daño Contundente, y prenden fuego más fácilmente[/color].
+  - Prefieren un rango de temperatura algo más bajo que los humanos, lo que las hace más susceptibles a las altas temperaturas.
+
 
 </Document>

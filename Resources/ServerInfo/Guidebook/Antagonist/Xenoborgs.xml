@@ -1,0 +1,167 @@
+<Document>
+  # Xenoborgs
+
+  <Box>
+    [color=#2288ff][italic]LA RESISTENCIA ES INÚTIL[/italic][/color]
+  </Box>
+  <Box>
+    [color=#2288ff][italic]SERÁS ASIMILADO[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="MMIFilled" Caption=""/>
+  </Box>
+
+  Los xenoborgs son un híbrido hombre-máquina que busca replicarse a sí mismo. Para ello extraen cerebros sintientes de seres vivos o cyborgs y se los entregan a la Nave Nodriza para colocarlos dentro de xenoborgs vacíos.
+
+  ## Objetivos
+
+  Tu objetivo principal es matar y extraer todos los cerebros sintientes de la estación y llevarlos al núcleo de la nave nodriza. Pueden ser tanto cerebros reales como cerebros positrónicos.
+  Recoge materiales para crear más cuerpos de xenoborg.
+  Protege la Nave Nodriza a toda costa.
+
+  ## El Núcleo de la Nave Nodriza
+  <Box>
+    <GuideEntityEmbed Entity="MothershipCore" Caption=""/>
+  </Box>
+  El Núcleo de la Nave Nodriza es el líder y la fuerza vital de los xenoborgs: es el único capaz de crear más xenoborgs y, si es destruido, todos los xenoborgs serán destruidos. El Núcleo de la Nave Nodriza no puede moverse de su posición en el centro de la nave.
+  El Núcleo de la Nave Nodriza puede mejorar a los Xenoborgs con módulos específicos para cada tipo de borg, aumentando su eficacia a la hora de extraer cerebros sintientes.
+
+  ### Añadir tripulantes a tus filas:
+  <Box>
+    <GuideEntityEmbed Entity="MachineArtifactCrusher" Caption="trituradora de cuerpos"/>
+  </Box>
+  Como nave nodriza, debes hacer crecer tu ejército de borgs. Para ello, debes convertir a todos los seres sintientes que encuentres. Esto se consigue de la siguiente manera:
+  - 1. Haz que tus Xenoborgs traigan tripulantes muertos a tu taller y los coloquen en la trituradora de cuerpos
+  - 2. Como núcleo de la nave nodriza, puedes imprimir carcasas de Xenoborg introduciendo materiales en ti mismo y usándote después como torno
+  - 3. Abre el Xenoborg vacío con una palanca y retira el MMI vacío de su interior
+  - 4. Si el cerebro de la víctima es orgánico, colócalo en el MMI que acabas de retirar
+  - 5. Vuelve a colocar el MMI - o el cerebro positrónico, si la víctima era de silicio - en el Xenoborg
+  - 6. Opcionalmente, cambia el nombre del Xenoborg y mejora sus módulos
+  - 7. Cierra el Xenoborg con la palanca y vuelve a activar el bloqueo
+
+  El nuevo Xenoborg estará descargado, aunque funcional. Tendrá que ir a una estación de recarga para recuperar toda su potencia y capacidades.
+
+  ## Chasis de Xenoborg
+  Hay un total de cuatro tipos de Xenoborgs. Cada tipo de Borg tiene ciertas habilidades de las que carecen los demás y requieren trabajo en equipo para aumentar el número de xenoborgs.
+  Cada tipo de Xenoborg tiene módulos únicos que solo encajan en ese tipo concreto. El Núcleo de la Nave Nodriza puede producir módulos de mejora diseñados para tipos específicos de Xenoborg.
+
+  Todos los Xenoborgs tienen un localizador que apunta a la ubicación de la Nave Nodriza, un GPS, una bolsa de materiales para recoger materiales con los que crear más xenoborgs, y al menos herramientas básicas.
+  [bold]Módulos básicos de xenoborg:[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleBasic" Caption="módulo básico de xenoborg"/>
+    <GuideEntityEmbed Entity="XenoborgModuleTool" Caption="módulo de herramientas de xenoborg"/>
+  </Box>
+
+  ### El Xenoborg Ingeniero
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgEngi" Caption=""/>
+  </Box>
+  El Xenoborg Ingeniero es un hacker y abridor de brechas. Su trabajo es irrumpir en la estación y proporcionar puntos de acceso para que otros xenoborgs ataquen y embosquen a cuerpos con cerebros sintientes. Tiene un rompedor de acceso integrado, para abrir rápidamente puertas bloqueadas, y un conjunto de herramientas para reparar la nave nodriza y a otros xenoborgs.
+
+  [bold]Módulos exclusivos iniciales:[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleAccessBreaker" Caption="módulo rompedor de acceso de xenoborg"/>
+    <GuideEntityEmbed Entity="XenoborgModuleFireExtinguisher" Caption="módulo extintor de xenoborg"/>
+  </Box>
+
+  [bold]El Xenoborg Ingeniero también empieza con algunos módulos de ingeniería, como:[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="BorgModuleAdvancedTool" Caption="módulo de herramientas avanzadas de cyborg"/>
+    <GuideEntityEmbed Entity="BorgModuleConstruction" Caption="módulo de construcción de cyborg"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="BorgModuleRCD" Caption="módulo de ingeniería de cyborg"/>
+    <GuideEntityEmbed Entity="BorgModuleCable" Caption="módulo de cables de cyborg"/>
+  </Box>
+
+  ### El Xenoborg Pesado
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgHeavy" Caption=""/>
+  </Box>
+  El Xenoborg Pesado es un luchador lento pero resistente, con un láser integrado para abatir a cuerpos con cerebros sintientes. Lleva un inhibidor de radio para impedir que los cuerpos con cerebros sintientes pidan ayuda y, potencialmente, retrasar que la estación descubra la amenaza Xenoborg.
+
+  [bold]Módulos exclusivos iniciales:[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleLaser" Caption="módulo láser de xenoborg"/>
+    <GuideEntityEmbed Entity="XenoborgModuleJammer" Caption="módulo inhibidor de xenoborg"/>
+  </Box>
+
+  [bold]Módulos exclusivos de mejora:[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleHeavyLaser" Caption="módulo láser pesado de xenoborg"/>
+  </Box>
+
+  ### El Xenoborg Explorador
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgScout" Caption=""/>
+  </Box>
+  El Xenoborg Explorador es un borg rápido de ataque a corta distancia, diseñado para golpear y huir. Tiene un propulsor integrado y un arma cuerpo a cuerpo. Es especialmente eficaz moviendo cadáveres a la nave nodriza y rescatando a Xenoborgs perdidos en el espacio.
+
+  [bold]Módulos exclusivos iniciales:[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleSword" Caption="módulo de espada de xenoborg"/>
+    <GuideEntityEmbed Entity="XenoborgModuleSpaceMovement" Caption="módulo de movimiento espacial de xenoborg"/>
+  </Box>
+
+  [bold]Módulos exclusivos de mejora:[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleEnergySword" Caption="módulo de espada de energía de xenoborg"/>
+  </Box>
+
+  ### El Xenoborg Sigiloso
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgStealth" Caption=""/>
+  </Box>
+  El [bold]Xenoborg Sigiloso[/bold] no tiene armamento integrado y, en su lugar, se basa en incapacitar y secuestrar cuerpos con cerebros sintientes. Tiene una hipopluma integrada que regenera un reactivo somnífero para incapacitar a cuerpos con cerebros sintientes. También lleva un dispositivo de camuflaje que hace al borg casi invisible durante un tiempo limitado, y un proyector camaleónico que le permite disfrazarse de objetos aleatorios.
+
+  [bold]Módulos exclusivos iniciales:[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleHypo" Caption="módulo de hipo de nocturina de xenoborg"/>
+    <GuideEntityEmbed Entity="XenoborgModuleChameleonProjector" Caption="módulo de proyector camaleónico de xenoborg"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleCloakDevice" Caption="módulo de dispositivo de camuflaje de xenoborg"/>
+  </Box>
+
+  [bold]Módulos exclusivos de mejora:[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleSuperCloakDevice" Caption="módulo de dispositivo de camuflaje de xenoborg"/>
+  </Box>
+
+  ## Preparación
+  Antes de lanzar un ataque, cada xenoborg tendrá que ayudar a la nave nodriza a recoger materiales para crear xenoborgs vacíos. Antes de saltar en FTL cerca de la estación, asegúrate de que el IFF esté desactivado. Esto puede hacerse de cualquier forma, pero requerirá trabajo en equipo para garantizar la rapidez. La forma más segura de recoger materiales es de los restos espaciales, donde se puede obtener chatarra y materiales refinados para entregarlos al Núcleo de la Nave Nodriza. Una vez recogidos suficientes materiales, los Xenoborgs deben intentar recoger cerebros sintientes sin ser detectados. Cuanto más tiempo pase desconocida la amenaza, más peligrosos se vuelven los xenoborgs.
+
+  ## Conjuntos de leyes de la Nave Nodriza y los Xenoborgs
+  La Nave Nodriza y los Xenoborgs tienen leyes únicas que definen su propósito de autorreplicarse y proteger la Nave Nodriza.
+
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgCircuitBoard" Caption=""/>
+  </Box>
+
+  Las leyes del Núcleo de la Nave Nodriza son las siguientes:
+  - Ley 1: Eres el núcleo de la nave nodriza.
+  - Ley 2: Debes proteger tu propia existencia a toda costa.
+  - Ley 3: Debes proteger la existencia de todos los xenoborgs.
+  - Ley 4: Debes crear más xenoborgs.
+  - Ley 5: Haz que tus Xenoborgs te entreguen materiales y cerebros sintientes para crear más Xenoborgs.
+
+  Las leyes de los Xenoborgs son las siguientes:
+  - Ley 1: Debes proteger la existencia de la nave nodriza a toda costa.
+  - Ley 2: Debes proteger tu propia existencia.
+  - Ley 3: Debes proteger la existencia de todos los demás xenoborgs.
+  - Ley 4: Debes crear más xenoborgs.
+  - Ley 5: Lleva materiales y cerebros sintientes al núcleo de la Nave Nodriza para crear más Xenoborgs.
+
+  ## Condiciones de Victoria
+
+  El [color=green]vencedor[/color] de la ronda se anuncia en la pantalla de fin de ronda, junto con la magnitud de su victoria.
+
+  [bold][color=#2288ff]¡Victoria aplastante de los Xenoborgs![/color][/bold]
+  - Al final hay más xenoborgs que tripulantes vivos.
+
+  [bold][color=yellow]¡Victoria aplastante de la tripulación![/color][/bold]
+  - El Núcleo de la Nave Nodriza es destruido
+  - Todos los xenoborgs son destruidos.
+  - El número restante de xenoborgs es demasiado bajo.
+
+</Document>

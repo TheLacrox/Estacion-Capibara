@@ -1,15 +1,15 @@
 using Content.Goobstation.Common.Barks;
 using Content.Goobstation.Common.CCVar;
 using Content.Goobstation.Common.Speech;
-using Content.Server.Chat.Systems;
+using Content.Shared.Chat;
 using Robust.Shared.Configuration;
 using Robust.Shared.Player;
 
 namespace Content.Goobstation.Server.Barks;
 
-public sealed class BarkSystem : EntitySystem
+public sealed partial class BarkSystem : EntitySystem
 {
-    [Dependency] private readonly IConfigurationManager _cfg = default!;
+    [Dependency] private IConfigurationManager _cfg = default!;
 
     private bool _enabled;
 

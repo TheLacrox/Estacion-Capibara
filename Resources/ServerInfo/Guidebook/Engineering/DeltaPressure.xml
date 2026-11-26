@@ -1,0 +1,69 @@
+<Document>
+  # Presión Delta
+  La Presión Delta, o ΔP, es la diferencia de presión entre dos zonas.
+  Esta diferencia de presión puede ejercer una fuerza sobre los objetos situados entre ambas zonas, infligiendo [bold]daño por presión[/bold] a algunos de los objetos que encuentre a su paso.
+
+  Varios objetos de vidrio, como ventanas, puertas-ventana y persianas, pueden sufrir daño por presión si la ΔP entre ambos lados es lo bastante alta.
+  Este daño puede hacer que estos objetos se rompan, permitiendo que el gas fluya libremente entre las dos zonas.
+
+  Los distintos tipos de objetos tienen diferentes umbrales de ΔP que pueden soportar antes de romperse.
+  Por lo general, cuanto más resistente es el vidrio, más alto es el umbral. Los objetos finos también tienen umbrales más bajos.
+
+  Los objetos como paredes, esclusas y compuertas antifuego no se ven afectados por la ΔP.
+
+  ## Vidrio y Objetos Estándar
+  <Box>
+    <GuideEntityEmbed Entity="Window" Caption=""/>
+    <GuideEntityEmbed Entity="WindowDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="Windoor" Caption=""/>
+    <GuideEntityEmbed Entity="ShuttersWindow" Caption=""/>
+    <GuideEntityEmbed Entity="InflatableWall" Caption=""/>
+  </Box>
+
+  El vidrio estándar de tamaño completo y otros objetos débiles pueden soportar una ΔP de hasta [color=orange][protodata="Window" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de empezar a agrietarse.
+
+  El vidrio de un cuarto de tamaño, como las ventanas direccionales, puede soportar una ΔP de hasta [color=orange][protodata="WindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de empezar a agrietarse.
+
+  ## Vidrio y Objetos Reforzados
+  <Box>
+    <GuideEntityEmbed Entity="ReinforcedWindow" Caption=""/>
+    <GuideEntityEmbed Entity="WindowReinforcedDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="WindoorSecure" Caption=""/>
+    <GuideEntityEmbed Entity="ShuttleWindow" Caption=""/>
+  </Box>
+
+  El vidrio reforzado de tamaño completo puede soportar una ΔP de hasta [color=orange][protodata="ReinforcedWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de empezar a agrietarse.
+
+  El vidrio reforzado de un cuarto de tamaño puede soportar una ΔP de hasta [color=orange][protodata="WindowReinforcedDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de empezar a agrietarse.
+
+  ## Vidrio de Plasma/Uranio
+  <Box>
+    <GuideEntityEmbed Entity="PlasmaWindow" Caption=""/>
+    <GuideEntityEmbed Entity="PlasmaWindowDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="WindoorPlasma" Caption=""/>
+    <GuideEntityEmbed Entity="UraniumWindow" Caption=""/>
+    <GuideEntityEmbed Entity="UraniumWindowDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="WindoorUranium" Caption=""/>
+  </Box>
+
+  El vidrio de plasma y el vidrio de uranio pueden soportar una ΔP de hasta [color=orange][protodata="PlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de empezar a agrietarse.
+
+  El vidrio de plasma y de uranio de un cuarto de tamaño puede soportar una ΔP de hasta [color=orange][protodata="PlasmaWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de empezar a agrietarse.
+
+  ## Vidrio Reforzado de Plasma/Uranio
+
+  <Box>
+    <GuideEntityEmbed Entity="ReinforcedPlasmaWindow" Caption=""/>
+    <GuideEntityEmbed Entity="PlasmaReinforcedWindowDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="WindoorSecurePlasma" Caption=""/>
+    <GuideEntityEmbed Entity="ReinforcedUraniumWindow" Caption=""/>
+    <GuideEntityEmbed Entity="UraniumReinforcedWindowDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="WindoorSecureUranium" Caption=""/>
+
+  </Box>
+
+  El vidrio reforzado de plasma y el vidrio reforzado de uranio pueden soportar una ΔP de hasta [color=orange][protodata="ReinforcedPlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de empezar a agrietarse.
+
+  El vidrio reforzado de plasma y de uranio de un cuarto de tamaño puede soportar una ΔP de hasta [color=orange][protodata="PlasmaReinforcedWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] antes de empezar a agrietarse.
+
+</Document>

@@ -126,3 +126,18 @@ ent-StationAiUploadComputer = consola de carga de IA
 
 ent-ComputerSupermatter = consola de monitoreo de supermateria
     .desc = Usada para monitorear el estado de los cristales de supermateria.
+
+ent-WizardComputerComms = computadora de comunicaciones del mago
+    .desc = Una computadora capaz de proyectar mágicamente tu voz a la estación. Usarla para hacer un anuncio alertará a la estación de tu presencia.
+
+ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = monitor de cámaras de xenoborgs
+    .desc = Un monitor inalámbrico de cámaras de xenoborgs. Los estás vigilando. Quizá.
+
+ent-ComputerXenoborgsControl = consola de control de xenoborgs
+    .desc = Se usa para monitorizar a distancia a todos los xenoborgs.
+
+ent-StationAiFixerComputer = Consola de restauración de IA
+    .desc = Se usa para reparar inteligencias artificiales dañadas.
+
+ent-ComputerNukieDelivery = computadora de entregas del Sindicato
+    .desc = Una computadora que puede enviar mediante bluespace cierto equipo para Operaciones Nucleares. \nLa placa de circuito está integrada en el marco y no se puede recuperar al desmontarla.

@@ -168,3 +168,27 @@ tiles-white-marble = baldosa de mármol blanco
 tiles-dark-marble = baldosa de mármol oscuro
 tiles-plasma-marble = baldosa de plasmarble
 tiles-uranium-marble = baldosa de mármol de uranio
+
+tiles-dark-astro-grass = astrohierba oscura
+
+tiles-light-astro-grass = astrohierba clara
+
+tiles-astro-ironsand = astroarena de hierro
+
+tiles-astro-ironsand-borderless = astroarena de hierro sin bordes
+
+tiles-desert-astro-sand = astroarena del desierto
+
+tiles-ironsand-plating = chapa de arena de hierro
+
+tiles-ironsand-tile = baldosa de arena de hierro
+
+tiles-ironsand-concrete-tile = baldosa de hormigón de arena de hierro
+
+tiles-ironsand-concrete-slab = losa de hormigón de arena de hierro
+
+tiles-ironsand-concrete-smooth = suelo liso de hormigón de arena de hierro
+
+tiles-ironsand-packed = arena de hierro compactada
+
+tiles-ironsand-paved = arena de hierro pavimentada

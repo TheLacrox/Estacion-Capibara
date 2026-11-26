@@ -1,21 +1,21 @@
 using Content.Goobstation.Shared.MisandryBox.Smites;
 using Content.Server._EinsteinEngines.Language;
-using Content.Server.Administration.Components;
 using Content.Server.Popups;
 using Content.Server.Stunnable;
 using Content.Shared.Abilities.Mime;
+using Content.Shared.Administration.Components;
 using Content.Shared.Popups;
 using Content.Shared.Speech;
 using Content.Shared.Speech.Muting;
 
 namespace Content.Goobstation.Server.Mimery;
 
-public sealed class MimeFuckYouSystem : EntitySystem
+public sealed partial class MimeFuckYouSystem : EntitySystem
 {
-    [Dependency] private readonly LanguageSystem _languages = default!;
-    [Dependency] private readonly PopupSystem _popupSystem = default!;
-    [Dependency] private readonly ThunderstrikeSystem _thunderstrikeSystem = default!;
-    [Dependency] private readonly StunSystem _stunSystem = default!;
+    [Dependency] private LanguageSystem _languages = default!;
+    [Dependency] private PopupSystem _popupSystem = default!;
+    [Dependency] private ThunderstrikeSystem _thunderstrikeSystem = default!;
+    [Dependency] private StunSystem _stunSystem = default!;
 
     public override void Initialize()
     {

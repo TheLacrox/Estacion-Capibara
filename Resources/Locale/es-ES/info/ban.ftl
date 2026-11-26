@@ -98,3 +98,5 @@ server-ban-string-never = nunca
 
 # Expulsión por ban
 ban-kick-reason = Has sido baneado
+
+ban-panel-expiry-error = eh

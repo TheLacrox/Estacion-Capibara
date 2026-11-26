@@ -22,3 +22,5 @@ slime-eat-corpse-success = ¡{THE($eater)} está intentando arrancarle algo a {T
 slime-eat-corpse-fail-not-eatable = {THE($target)} no parece comestible.
 
 slime-eat-corpse-fail-not-dead = ¡{THE($target)} debería estar muerto!
+
+slime-eat-corpse-fail = ¡No podemos comer {THE($target)}!

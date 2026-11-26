@@ -149,3 +149,13 @@ construction-graph-tag-spationaut-hardsuit = traje duro de astronauta
 
 # clothing
 construction-graph-tag-backpack = mochila
+
+construction-graph-tag-boxhug = una caja de abrazos
+
+construction-graph-tag-paper = papel de oficina
+
+construction-graph-tag-station-ai-core-electronics = electrónica del núcleo de la IA de la estación
+
+construction-graph-tag-turret-control-electronics = electrónica del panel de control de la torreta centinela
+
+construction-graph-tag-centrifuge-compatible = contenedor centrifugable

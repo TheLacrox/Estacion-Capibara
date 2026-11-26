@@ -1,8 +1,3 @@
-// SPDX-FileCopyrightText: 2024 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 deltanedas <39013340+deltanedas@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 deltanedas <@deltanedas:kde.org>
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Server.GameTicking.Rules.Components;
@@ -19,7 +14,9 @@ public sealed class SubGamemodesSystem : GameRuleSystem<SubGamemodesComponent>
         foreach (var id in picked)
         {
             Log.Info($"Starting gamerule {id} as a subgamemode of {ToPrettyString(uid):rule}");
-            GameTicker.AddGameRule(id);
+            var subRule = GameTicker.AddGameRule(id); // Goob
+            if (TryComp<GameRuleComponent>(subRule, out var subGameRule)) // Goob
+                subGameRule.CancelPresetOnTooFewPlayers = false; // Goob
         }
     }
 }

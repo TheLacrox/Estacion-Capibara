@@ -63,3 +63,7 @@ rcd-component-vents = Ventilaciones
 rcd-component-deconstruct = deconstruir
 rcd-component-floor-steel = baldosa de acero
 rcd-component-plating = placa del casco
+
+rcd-component-cannot-build-identical-entity = ¡Eso ya existe ahí!
+
+rcd-component-pumpsvalves = Bombas y válvulas

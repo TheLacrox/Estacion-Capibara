@@ -81,3 +81,9 @@ ent-ClothingUniformJumpsuitPassengerQuarterzip = cuello alto gris
 
 ent-ClothingUniformJumpsuitOuterCommand = mono del mando exterior
     .desc = Un elegante traje morado con una insignia de Terra-Gov.
+
+ent-ClothingUniformJumpsuitMonk = pantalones de monje
+    .desc = Pantalones sencillos, no mucho mejores que un saco viejo.
+
+ent-ClothingUniformJumpsuitHawaiGreen = camisa hawaiana verde
+    .desc = Verde Comando Central™.

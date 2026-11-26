@@ -9,6 +9,7 @@ using Content.Shared._Capibara.Botany.Genes;
 using Content.Shared.EntityEffects;
 using Content.Shared.EntityEffects.Effects;
 using Robust.Shared.Random;
+using Content.Goobstation.Maths.FixedPoint;
 
 namespace Content.Server._Capibara.Botany;
 
@@ -89,7 +90,7 @@ public sealed partial class PlantGenomeSystem
                 case "GeneSlippery":
                 case "GeneHonking":
                     // Make produce slippery (same as old Slipify mutation)
-                    new Slipify().Effect(new EntityEffectBaseArgs(produce, EntityManager));
+                    _entityEffects.TryApplyEffect(produce, new Slipify());
                     break;
 
                 case "GeneSentient":
@@ -249,7 +250,7 @@ public sealed partial class PlantGenomeSystem
         target.Epigenetics.Clear();
         target.BaseStatSnapshot = new Dictionary<string, float>(sourceGenome.BaseStatSnapshot);
         target.BaseBoolSnapshot = new Dictionary<string, bool>(sourceGenome.BaseBoolSnapshot);
-        target.BaseChemSnapshot = new Dictionary<string, (int, int, int)>(sourceGenome.BaseChemSnapshot);
+        target.BaseChemSnapshot = new Dictionary<string, (FixedPoint2, FixedPoint2, float)>(sourceGenome.BaseChemSnapshot);
         target.BaseHarvestType = sourceGenome.BaseHarvestType;
 
         Dirty(produce, target);

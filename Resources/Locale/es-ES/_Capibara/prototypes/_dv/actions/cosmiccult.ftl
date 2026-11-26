@@ -39,3 +39,18 @@ ent-ActionRogueSlumber = Concha de Sueño
 
 ent-ActionRogueGrandShunt = Pico Mental Maligno
     .desc = Expulsa las mentes de todos los cercanos fuera de sus cuerpos hacia la oscuridad cósmica, dejándolos temporalmente sin mente.
+
+ent-ActionCosmicFragmentation = Fragmentación nula
+    .desc = Transfiere tu potenciación maligna a un sistema digital, como una consola de carga de IA o un cyborg, corrompiéndolo en el proceso. Hacerlo consumirá tu potenciación.
+
+ent-ActionCosmicColossusSunder = Escisión entrópica
+    .desc = Teletranspórtate a la ubicación objetivo y desata una detonación en cascada de energía maligna.
+
+ent-ActionCosmicColossusIngress = Ingreso colosal
+    .desc = Usa tu fuerza colosal para forzar la apertura de una puerta.
+
+ent-ActionCosmicColossusHibernate = Caparazón de letargo
+    .desc = Adormece tu cuerpo durante un tiempo para regenerar integridad. Debe hacerse sobre suelo estable.
+
+ent-ActionCosmicColossusEffigy = Convocar una efigie
+    .desc = Extrae una Efigie de la Entropía al espacio real.

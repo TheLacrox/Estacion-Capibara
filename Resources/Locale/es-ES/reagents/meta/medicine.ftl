@@ -144,7 +144,7 @@ reagent-name-saline = saline
 reagent-desc-saline = Una mezcla de sal y agua. Se usa comúnmente para tratar la deshidratación o la baja presencia de fluidos en la sangre.
 
 reagent-name-lacerinol = lacerinol
-reagent-desc-lacerinol = Un químico bastante no reactivo que estimula la síntesis de colágeno a niveles increíbles, curando el trauma por cortes.
+reagent-desc-lacerinol = Un químico bastante poco reactivo que potencia la síntesis de colágeno a niveles increíbles y cura las heridas cortantes.
 
 reagent-name-puncturase = puncturase
 reagent-desc-puncturase = Un químico efervescente que ayuda a reconstruir el trauma causado por daño penetrante, dejando una pequeña cantidad de daño tisular.
@@ -181,3 +181,17 @@ reagent-desc-potassium-iodide = Reducirá los efectos dañinos de la radiación 
 
 reagent-name-haloperidol = haloperidol
 reagent-desc-haloperidol = Elimina la mayoría de los fármacos estimulantes y alucinógenos. Reduce los efectos de las drogas y el nerviosismo. Causa somnolencia.
+
+reagent-name-dexalin-plus-saline = dexalin plus y solución salina
+
+reagent-name-puncturase-tranexamic = puncturasa y tranexámico
+
+reagent-name-pyrazine-dermaline = pirazina y dermalina
+
+reagent-name-arcryox = arcriox
+
+reagent-desc-arcryox = Un químico criogénico de un azul nauseabundo capaz de curar heridas extremas incluso en los muertos. Sin embargo, le cuesta estabilizar a los pacientes.
+
+reagent-name-warfarin = warfarina
+
+reagent-desc-warfarin = Usado comúnmente como medicamento anticoagulante. Dificulta que la sangre forme coágulos. Puede causar hemorragias internas en caso de sobredosis.

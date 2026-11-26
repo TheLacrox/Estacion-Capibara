@@ -1,8 +1,3 @@
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 Rouden <149893554+Roudenn@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Roudenn <romabond091@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Server._Lavaland.Procedural;
@@ -21,7 +16,6 @@ public sealed class LavalandMapOptimizationSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<BiomeOptimizeComponent, UnLoadChunkEvent>(OnChunkUnLoaded);
         SubscribeLocalEvent<BiomeOptimizeComponent, BeforeLoadChunkEvent>(OnChunkLoad);
         SubscribeLocalEvent<BiomeOptimizeComponent, MapInitEvent>(OnMapInit);
     }
@@ -35,13 +29,6 @@ public sealed class LavalandMapOptimizationSystem : EntitySystem
             var chunkOrigin = chunk * SharedBiomeSystem.ChunkSize;
             ent.Comp.LoadedChunks.Add(chunkOrigin.Value);
         }
-    }
-
-    private void OnChunkUnLoaded(Entity<BiomeOptimizeComponent> ent, ref UnLoadChunkEvent args)
-    {
-        // We don't unload chunks in the preloaded area since it's expensive.
-        if (ent.Comp.LoadedChunks.Contains(args.Chunk))
-            args.Cancelled = true;
     }
 
     private void OnChunkLoad(Entity<BiomeOptimizeComponent> ent, ref BeforeLoadChunkEvent args)

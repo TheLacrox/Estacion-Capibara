@@ -177,3 +177,15 @@ ent-ChameleonPDA = PDA de pasajero
 
 ent-WizardPDA = PDA del mago
     .desc = Escuchas tenues susurros saliendo de él.
+
+ent-SyndiOperativePDA = PDA de operativo del Sindicato
+    .desc = ¡Muerte a NT!
+
+ent-SyndiCorpsmanPDA = PDA de sanitario del Sindicato
+    .desc = Comandante... ¡necesito cocinar!
+
+ent-SyndiCommanderPDA = PDA de comandante del Sindicato
+    .desc = Entonces, ¿qué somos, algún tipo de escuadrón de nukies?
+
+ent-SeniorCourierPDA = PDA de mensajero sénior
+    .desc = Huele a sellos postales y combustible de transbordador.

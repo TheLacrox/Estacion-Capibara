@@ -9,3 +9,6 @@ ent-ClothingBagPet = bolsa para mascotas
 
 ent-ClothingBackpackHarmpack = H.A.R.M.P.A.C.K.
     .desc = Ahora puedes recargar, golpear y comer un tentempié - simultáneamente.
+
+ent-XenoborgMaterialBag = cuadrado de almacenamiento de silicio
+    .desc = Una versión imitación de una bolsa bluespace, puede aspirar ciertos materiales; no apta para humanoides debido a emisiones nocivas.

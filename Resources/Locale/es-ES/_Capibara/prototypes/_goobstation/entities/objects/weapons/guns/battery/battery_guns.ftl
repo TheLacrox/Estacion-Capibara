@@ -24,3 +24,6 @@ ent-WeaponEnergyGunLawbringer = DT-12 Ejecutor de la Ley
 
 ent-WeaponEnergyIonRifle = Rifle Iónico
     .desc = Un rifle que dispara proyectiles iónicos diseñados para degradar objetivos mecánicos. Ideal contra mechs de combate y silicios, aunque inútil contra casi todo lo demás.
+
+ent-WeaponDisablerSEC = inhabilitador
+    .desc = El arma de sumisión estándar para el cyborg S.E.C. Su celda se recarga automáticamente. # Goobstation

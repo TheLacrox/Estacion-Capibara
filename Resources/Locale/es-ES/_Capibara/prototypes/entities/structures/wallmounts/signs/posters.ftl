@@ -390,3 +390,6 @@ ent-PosterMapWaystation = Waystation Map
 
 ent-PosterMapOrigin = mapa de origin
     .desc = Un mapa de Origin Station.
+
+ent-PosterLegitBotanyFear = Miedo a la hidroponía
+    .desc = Piénsalo tres veces antes de abrir la esclusa de hidroponía, puede que se esconda allí una amenaza roja.

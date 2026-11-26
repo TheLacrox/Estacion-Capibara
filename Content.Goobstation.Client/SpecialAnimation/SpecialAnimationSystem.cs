@@ -1,6 +1,3 @@
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 Roudenn <romabond091@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Goobstation.Client.Overlays;
@@ -13,11 +10,11 @@ using Robust.Shared.Player;
 namespace Content.Goobstation.Client.SpecialAnimation;
 
 
-public sealed class SpecialAnimationSystem : SharedSpecialAnimationSystem
+public sealed partial class SpecialAnimationSystem : SharedSpecialAnimationSystem
 {
-    [Dependency] private readonly IOverlayManager _overlayMan = default!;
-    [Dependency] private readonly IPlayerManager _player = default!;
-    [Dependency] private readonly SpriteSystem _sprite = default!;
+    [Dependency] private IOverlayManager _overlayMan = default!;
+    [Dependency] private IPlayerManager _player = default!;
+    [Dependency] private SpriteSystem _sprite = default!;
 
     private SpecialAnimationOverlay _overlay = default!;
 

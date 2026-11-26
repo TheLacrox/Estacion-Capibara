@@ -70,4 +70,6 @@ borg-type-service-name = Servicio
 borg-type-service-desc = Ayuda con una amplia gama de servicios para la tripulación, desde servir aperitivos y bebidas, hasta botánica y entretenimiento.
 borg-type-service-transponder = cyborg de servicio
 
+borg-module-action-name = Activar {$moduleName}
 
+borg-module-action-description = Selecciona {$moduleName}, lo que te permite usar las herramientas que ofrece.

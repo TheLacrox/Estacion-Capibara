@@ -1,11 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Chief-Engineer <119664036+Chief-Engineer@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 John Willis <143434770+CerberusWolfie@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 NeKognitoHazard <168395829+NeKognitoHazard@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 TheNeonViking <julian.sean.ison@gmail.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Rouge2t7 <81053047+Sarahon@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -38,7 +31,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   ## Implantación
   - Cualquier prisionero en custodia puede ser sometido a procedimientos de implantación o extracción de implantes, siempre que sea dentro de lo razonable. El proceso de añadir o extraer un implante no debe prolongar la sentencia del detenido, lo que significa que no puedes retenerlo más tiempo para realizar el procedimiento, a menos que se indique lo contrario. A un ex recluso se le puede solicitar someterse a implantación/extracción en un momento posterior; si cumplen las circunstancias durante su confinamiento, deben cumplir. Los siguientes han sido listados con circunstancias especiales, cualquier cosa no en esta lista aún puede aplicarse, dado el contexto legal apropiado. Un prisionero aún puede recibir procedimientos de implantación/extracción sin cumplir las circunstancias si da su permiso claro.
 
-  - [bold]Escudos Mentales[/bold]: Los escudos pueden ser administrados a cualquier recluso que haya sido claramente controlado mentalmente, haya perdido el control de sí mismo, o un sospechoso acusado de control ilegal. A diferencia de la implantación estándar, puedes retener a un prisionero hasta que termines de emitir Escudos Mentales, siempre que se haga de manera oportuna. Si un sospechoso se niega a cooperar o el implante no funciona, puede ser acusado de Rechazo de Escudo Mental.
+  [color=#a4885c]Implantes de Rastreo:[/color] Los rastreadores pueden aplicarse a cualquier sospechoso que haya sido condenado por un delito violento (los delitos vinculados en rojo).
+
+  [color=#a4885c]Escudos Mentales:[/color] Los Escudos Mentales pueden administrarse a cualquier sospechoso acusado de un delito si existe una sospecha razonable y articulable de que cometió el delito bajo control mental. Si hay pruebas innegables de control mental en curso en la estación, como una desconversión exitosa, se aplican todas las siguientes afirmaciones:
+
+  - Se puede exigir a la tripulación que reciba escudos, y se les puede implantar a la fuerza si se niegan.
+  - Si un sospechoso se niega a cooperar o el implante no funciona, puede ser acusado de Rechazo de Escudo Mental.
+  - A diferencia de la implantación estándar, puedes extender indefinidamente la duración de la sentencia de un prisionero hasta que termines de emitir Escudos Mentales, siempre que se hagan intentos activos de conseguir implantes y completar el procedimiento de implantación.
 
   ## Extracción
   - Un sospechoso puede ser forzado a recibir la extracción de implantes si hay pruebas razonables sólidas de que ha sido implantado, como un oficial viéndolo usarlo o sus huellas estando en un inyector descartado. A diferencia del procedimiento de implantación, un prisionero puede tener su sentencia completamente retrasada o extendida hasta que cumpla con el procedimiento, siempre que seguridad esté activamente haciendo intentos de realizarlo. Similar a la implantación, si un recluso da su permiso claro, la extracción del implante puede proceder sin pruebas.

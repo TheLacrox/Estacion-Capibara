@@ -136,3 +136,15 @@ ent-RoboticsConsoleCircuitboard = placa de consola de control de robótica
 
 ent-StationAiUploadCircuitboard = placa de consola de carga de IA
     .desc = Una placa de circuito impreso para una consola de carga de IA.
+
+ent-XenoborgCameraMonitorCircuitboard = placa de monitor de cámaras de xenoborgs
+    .desc = Una placa de circuito impreso de computadora para un monitor de cámaras de xenoborgs.
+
+ent-WizardCommsComputerCircuitboard = placa de computadora de comunicaciones del mago
+    .desc = Una placa de circuito impreso de computadora para una consola de comunicaciones del mago.
+
+ent-ComputerXenoborgsControlCircuitboard = placa de consola de control de xenoborgs
+    .desc = Una placa de circuito impreso de computadora para una consola de control de xenoborgs.
+
+ent-StationAiFixerCircuitboard = placa de consola de restauración de IA
+    .desc = Una placa de circuito impreso de computadora para una consola de restauración de IA.

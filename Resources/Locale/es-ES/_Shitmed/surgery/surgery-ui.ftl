@@ -18,3 +18,5 @@ surgery-ui-window-steps-error-tools = Faltan herramientas.
 surgery-error-laying = ¡Necesitan estar tumbados!
 surgery-error-self-surgery = ¡No puedes operarte a ti mismo!
 surgery-part-damage-evaded = ¡{$user} lo esquivó por los pelos!
+
+surgery-ui-window-steps-error-missing-tool = ¡Necesitas {$tool} para realizar este paso!

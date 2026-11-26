@@ -101,3 +101,7 @@ ent-SurgeryRemoveArmAugment = Extraer Aumento de Brazo
 ent-SurgeryLobotomize = Lobotomizar
 
 ent-SurgeryMendBrainTissue = Reparar tejido cerebral
+
+ent-SurgeryExtractForeignBody = Extraer cuerpo extraño
+
+ent-SurgeryRepairBrainDamage = Reparar daño cerebral

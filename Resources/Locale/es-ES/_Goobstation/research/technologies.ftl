@@ -48,3 +48,19 @@ research-technology-radio-music-communication = Comunicaciones de música por ra
 research-technology-cloning = Reconstrucción biológica
 research-technology-service-energy-chem = Electrosíntesis orgánica
 research-technology-xeno-compatibility = Compatibilidad xeno
+
+research-technology-modsuit-equipment = Equipo de traje modular
+
+research-technology-modsuit-medical = Trajes modulares médicos
+
+research-technology-modsuit-engineering = Trajes modulares de ingeniería
+
+research-technology-modsuit-advanced-engineering = Trajes modulares de ingeniería avanzados
+
+research-technology-modsuit-security = Trajes modulares de seguridad
+
+research-technology-modsuit-supply = Equipo de traje modular de suministros
+
+research-technology-modsuit-service = Equipo de traje modular de servicio
+
+research-technology-security-cyborg = Tecnología de cyborg de seguridad

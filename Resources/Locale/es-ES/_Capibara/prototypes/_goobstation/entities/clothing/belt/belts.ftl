@@ -34,3 +34,9 @@ ent-ClothingBeltSecurityWebbingContractor = arnés pectoral de contratista
 
 ent-ClothingBeltSecurityWebbingContractorFilled = arnés pectoral de contratista
     .desc = Un arnés pectoral con bolsillos profundos, a menudo usado por contratistas y cazarrecompensas.
+
+ent-ClothingBeltMilitaryWebbingBSO = arnés de pecho de blueshield
+    .desc = Un conjunto de correaje táctico usado por las unidades de apoyo del Comando Central.
+
+ent-ClothingBeltUtilityAtmos = cinturón de atmosféricos
+    .desc = Contiene todas las herramientas que necesita una gatita atmosiana (de mediana edad) en pleno crecimiento.

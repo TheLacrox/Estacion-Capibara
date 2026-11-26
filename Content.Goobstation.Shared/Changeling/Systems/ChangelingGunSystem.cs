@@ -1,8 +1,3 @@
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aviu00 <93730715+Aviu00@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Misandry <mary@thughunt.ing>
-// SPDX-FileCopyrightText: 2025 gus <august.eymann@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Goobstation.Common.Changeling;
@@ -13,10 +8,10 @@ using Content.Shared.Weapons.Ranged.Systems;
 
 namespace Content.Goobstation.Shared.Changeling.Systems;
 
-public sealed class ChangelingGunSystem : EntitySystem
+public sealed partial class ChangelingGunSystem : EntitySystem
 {
-    [Dependency] private readonly SharedGunSystem _guns = default!;
-    [Dependency] private readonly SharedInternalResourcesSystem _resource = default!;
+    [Dependency] private SharedGunSystem _guns = default!;
+    [Dependency] private SharedInternalResourcesSystem _resource = default!;
 
     public override void Initialize()
     {
@@ -62,7 +57,7 @@ public sealed class ChangelingGunSystem : EntitySystem
 
             _resource.TryUpdateResourcesAmount(parent, chemComp.ResourceData, -component.FireCost);
 
-            var shot = Spawn(component.Proto, args.Coordinates);
+            var shot = PredictedSpawnAtPosition(component.Proto, args.Coordinates); // Trauma - gun shooting is predicted
             args.Ammo.Add((shot, _guns.EnsureShootable(shot)));
         }
     }

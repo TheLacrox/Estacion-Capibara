@@ -2,6 +2,7 @@
 
 using Content.Server.Kitchen.Components;
 using Content.Shared._Trauma.Genetics.Console;
+using Content.Shared.Kitchen;
 
 namespace Content.Server._Trauma.Genetics.Console;
 

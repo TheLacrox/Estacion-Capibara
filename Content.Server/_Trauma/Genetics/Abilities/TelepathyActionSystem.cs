@@ -31,15 +31,15 @@ public sealed class TelepathyActionSystem : EntitySystem
 
         _actorQuery = GetEntityQuery<ActorComponent>();
 
-        SubscribeLocalEvent<TelepathyActionComponent, TelepathyActionEvent>(OnTelepathyPrompt);
+        SubscribeLocalEvent<MutationTelepathyActionComponent, TelepathyActionEvent>(OnTelepathyPrompt);
 
-        Subs.BuiEvents<TelepathyActionComponent>(TelepathyUiKey.Key, subs =>
+        Subs.BuiEvents<MutationTelepathyActionComponent>(TelepathyUiKey.Key, subs =>
         {
             subs.Event<TelepathyChosenMessage>(OnTelepathyChosen);
         });
     }
 
-    private void OnTelepathyPrompt(Entity<TelepathyActionComponent> ent, ref TelepathyActionEvent args)
+    private void OnTelepathyPrompt(Entity<MutationTelepathyActionComponent> ent, ref TelepathyActionEvent args)
     {
         if (_net.IsClient)
             return;
@@ -52,7 +52,7 @@ public sealed class TelepathyActionSystem : EntitySystem
             Log.Error($"Failed to open UI for {ToPrettyString(ent)} of {ToPrettyString(user)}");
     }
 
-    private void OnTelepathyChosen(Entity<TelepathyActionComponent> ent, ref TelepathyChosenMessage args)
+    private void OnTelepathyChosen(Entity<MutationTelepathyActionComponent> ent, ref TelepathyChosenMessage args)
     {
         var user = args.Actor;
         if (ent.Comp.Target is not {} target)

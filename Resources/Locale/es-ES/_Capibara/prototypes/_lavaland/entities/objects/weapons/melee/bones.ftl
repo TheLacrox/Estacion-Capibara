@@ -3,3 +3,9 @@ ent-BoneAxe = hacha de hueso
 
 ent-DaggerBone = daga de hueso
     .desc = Un hueso afilado. Lo mínimo indispensable para la supervivencia.
+
+ent-WeaponBoneAxe = hacha de hueso
+    .desc = Un hacha hecha de huesos. La favorita de un cazador primitivo... probablemente.
+
+ent-IncompleteBoneAxe = hacha de hueso incompleta
+    .desc = Unos cuantos huesos atados con trozos de tela.

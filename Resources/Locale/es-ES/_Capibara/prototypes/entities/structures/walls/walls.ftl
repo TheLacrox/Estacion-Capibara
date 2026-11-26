@@ -127,3 +127,14 @@ ent-WallAndesiteCobblebrick = pared de adoquines de andesita
 
 ent-Cardwall = pared de cartón
     .desc = Los recortes presupuestarios están golpeando duro.
+
+ent-WallXenoborg = pared de xenoborg
+
+ent-WallXenoborgDiagonal = pared de xenoborg
+
+ent-WallSolidChitin = quitina sólida
+
+ent-WallReinforcedChitin = quitina reforzada
+
+ent-WallIronsandCobblebrick = pared de ladrillo de arena de hierro
+    .desc = Las formas pálidas y redondeadas que forman esta pared se ven sorprendentemente distintas de las arenas de hierro con las que supuestamente se hicieron.

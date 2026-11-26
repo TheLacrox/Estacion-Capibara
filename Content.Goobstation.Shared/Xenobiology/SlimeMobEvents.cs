@@ -1,7 +1,3 @@
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 SolsticeOfTheWinter <solsticeofthewinter@gmail.com>
-// SPDX-FileCopyrightText: 2025 TheBorzoiMustConsume <197824988+TheBorzoiMustConsume@users.noreply.github.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Shared.Actions;
@@ -27,8 +23,3 @@ public sealed partial class SlimeLatchDoAfterEvent : SimpleDoAfterEvent;
 
 [Serializable, NetSerializable]
 public sealed partial class EatCorpseDoAfterEvent : SimpleDoAfterEvent;
-
-/// <summary>
-/// rised after mitosis completed, but before parent slime deletion, directed to parent slime
-/// </summary>
-public sealed partial class SlimeMitosisEvent : EntityEventArgs;

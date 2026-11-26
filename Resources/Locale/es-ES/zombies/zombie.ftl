@@ -24,3 +24,9 @@ zombification-resistance-coefficient-value = - Probabilidad de [color=violet]Inf
 # Capibara: translations ported from upstream
 zombie-cured-popup = ¡La infección zombi desaparece sin dejar rastro!
 zombie-cure-failed-popup = ¡La cura no logra surtir efecto!
+
+zombie-roleban-ghosted = Has pasado a ser fantasma porque tienes prohibido jugar el rol de Zombi.
+
+zombie-cure-success = ¡La infección zombi desaparece sin dejar rastro!
+
+zombie-cure-failed = ¡La cura no logra hacer efecto!

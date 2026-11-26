@@ -6,3 +6,6 @@ ent-CableMV = cable de energía MV
 
 ent-CableApcExtension = cable de energía BV
     .desc = Un cable usado para conectar máquinas a un APC.
+
+ent-CableDet = cordón explosivo
+    .desc = Espaguetis para quienes odian las paredes.

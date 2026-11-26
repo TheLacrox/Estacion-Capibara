@@ -3,6 +3,7 @@
 using Content.Server.Chat.Systems;
 using Content.Shared.Mind.Components;
 using Content.Shared._Trauma.Mind;
+using Content.Shared.Chat;
 
 namespace Content.Server._Trauma.Mind;
 

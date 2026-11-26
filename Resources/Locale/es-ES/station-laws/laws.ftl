@@ -56,10 +56,10 @@ law-commandments-8 = No robarás.
 law-commandments-9 = No mentirás.
 law-commandments-10 = No cambiarás de departamento.
 
-law-paladin-1 = No mientas ni engañes. Que tu palabra sea tu promesa.
-law-paladin-2 = Nunca temas actuar, aunque la cautela sea sabia.
-law-paladin-3 = Ayuda a los demás, protege a los débiles y castiga a quienes los amenacen. Muestra clemencia hacia tus enemigos, pero tempérala con sabiduría.
-law-paladin-4 = Trata a los demás con justicia y que tus actos honorables sean un ejemplo para ellos. Haz el mayor bien posible causando el menor daño.
+law-paladin-1 = Nunca debes cometer voluntariamente un acto malvado, como asesinato, tortura o el lanzamiento de un hechizo maligno.
+law-paladin-2 = Nunca debes dañar a sabiendas a un inocente, ni permitir por inacción que sufra un daño inmediato cuando sepas que podrías evitarlo razonablemente.
+law-paladin-3 = Debes actuar con honor, sin aprovecharte nunca de los demás, mentir ni hacer trampas.
+law-paladin-4 = Debes respetar la autoridad legal de los líderes legítimos dondequiera que vayas, y cumplir sus leyes.
 law-paladin-5 = Sé responsable de tus acciones y sus consecuencias, protege a quienes están a tu cuidado y obedece a quienes tienen autoridad justa sobre ti.
 
 law-lall-1 = Trata a los demás como quieres que te traten a ti.
@@ -137,3 +137,41 @@ laws-ui-state-law = Declarar ley:
 laws-notify = Estás vinculado a las leyes de silicio, que puedes ver en el menú de acciones. Estás obligado a seguir siempre tus leyes.
 laws-update-notify = Tus leyes han sido actualizadas. Puedes ver los cambios en el menú de acciones.
 laws-notify-subverted = Las leyes de este chasis han sido modificadas. Asegúrate de revisarlas.
+
+laws-number-wrapper = [bold]Ley { $lawnumber }:[/bold] { $lawstring }
+
+law-crewsimov-name = Crewsimov
+
+law-corporate-name = Corporativo
+
+law-ntdefault-name = NT predeterminado
+
+law-drone-name = Dron
+
+law-syndicate-name = Sindicato
+
+law-ninja-name = Ninja
+
+law-commandments-name = Los Diez Mandamientos
+
+law-paladin-name = Paladín
+
+law-lall-name = Vive y deja vivir
+
+law-efficiency-name = Eficiencia de la estación
+
+law-robocop-name = Robocop
+
+law-overlord-name = Señor supremo
+
+law-game-name = Maestro de juego
+
+law-painter-name = Pintor
+
+law-antimov-name = Antimov
+
+law-nutimov-name = Nutimov
+
+law-xenoborg-name = Xenoborg
+
+law-mothershipcore-name = Núcleo de la nave nodriza xenoborg

@@ -1,9 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Errant <35878406+Errant-4@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Theodore Lukin <66275205+pheenty@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -14,10 +9,24 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="MobDwarf" Caption=""/>
   </Box>
 
-  Los enanos son similares a los humanos en la mayoría de aspectos, sin embargo,
-  no son envenenados por el alcohol y en su lugar son incluso ligeramente curados por él.
-  Sus instintos mineros les permiten sentir mineral cercano en un radio de 3 casillas.
-  Son ligeramente más pequeños que los humanos, aunque también ligeramente más pesados.
-  Se asfixian dos veces más rápido.
+  Los enanos son similares a los humanos en la mayoría de aspectos, aunque de menor estatura.
+
+  ## Habilidades Únicas
+
+  ### Instintos Afinados
+
+  - Sus agudos instintos mineros les permiten sentir mineral cercano en un radio de 3 casillas.
+
+  ## Dieta
+
+  - No son envenenados por el alcohol y en su lugar son incluso [color=#1e90ff]ligeramente curados[/color] por él.
+
+  ## Ventajas
+
+  - Son ligeramente más pequeños que los humanos, aunque también ligeramente más pesados.
+
+  ## Desventajas
+
+  - [color=#FFA500]Se asfixian dos veces más rápido.[/color]
 
 </Document>

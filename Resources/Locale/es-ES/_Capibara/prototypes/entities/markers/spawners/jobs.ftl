@@ -93,3 +93,5 @@ ent-SpawnPointReporter = reportero
 ent-SpawnPointPsychologist = psicólogo
 
 ent-SpawnPointZookeeper = cuidador del zoológico
+
+ent-SpawnPointAnyJob = punto de aparición de cualquier trabajo

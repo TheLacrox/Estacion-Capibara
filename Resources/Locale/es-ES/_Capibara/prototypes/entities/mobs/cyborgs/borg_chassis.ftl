@@ -27,3 +27,18 @@ ent-BorgChassisSyndicateSaboteur = cyborg saboteador del Syndicate
 
 ent-BorgChassisDerelict = cyborg abandonado
     .desc = Un híbrido hombre-máquina que asiste en las actividades de la estación. Este se encuentra en un estado de gran deterioro.
+
+ent-EngineeringBorgChassisDerelict = cyborg ingeniero abandonado
+    .desc = Un híbrido de hombre y máquina que asiste al departamento de ingeniería. Este parece tener trozos de cristales extraños que le salpican la superficie.
+
+ent-JanitorBorgChassisDerelict = cyborg conserje abandonado
+    .desc = Un híbrido de hombre y máquina que asiste al departamento de servicio. Es un desastre mayor que cualquier cosa que pueda limpiar.
+
+ent-MedicalBorgChassisDerelict = cyborg médico abandonado
+    .desc = Un híbrido de hombre y máquina que asiste al departamento médico. Las agujas de este no parecen muy higiénicas.
+
+ent-MiningBorgChassisDerelict = cyborg de salvamento abandonado
+    .desc = Un híbrido de hombre y máquina que asiste al departamento de carga. Este ha visto el lado equivocado de un trozo de gibtonita.
+
+ent-SyndicateAssaultBorgChassisDerelict = cyborg de asalto del Sindicato abandonado
+    .desc = Una máquina de matar esbelta y despiadada con acceso a una variedad de módulos letales. Este es más naranja óxido que rojo sangre.

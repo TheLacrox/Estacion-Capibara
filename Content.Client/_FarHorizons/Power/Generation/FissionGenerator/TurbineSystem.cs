@@ -45,7 +45,7 @@ public sealed class TurbineSystem : SharedTurbineSystem
             bui.Update();
         }
     }
-    protected override void OnRepairTurbineFinished(Entity<TurbineComponent> ent, ref RepairFinishedEvent args)
+    protected override void OnRepairTurbineFinished(Entity<TurbineComponent> ent, ref RepairDoAfterEvent args)
     {
         if (args.Cancelled)
             return;

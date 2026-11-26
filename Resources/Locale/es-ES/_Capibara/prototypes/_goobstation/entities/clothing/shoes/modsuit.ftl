@@ -21,3 +21,6 @@ ent-ClothingModsuitBootsResearchDirector = botas minerva de modtraje
 
 ent-ClothingModsuitBootsCaptain = botas magnate de modtraje
     .desc = Estas botas fueron diseñadas por EL Michael Jordan y forjadas con aleaciones antiguas, tío.
+
+ent-ClothingModsuitBootsBrigMed = botas del modtraje de trauma
+    .desc = Botas geniales.

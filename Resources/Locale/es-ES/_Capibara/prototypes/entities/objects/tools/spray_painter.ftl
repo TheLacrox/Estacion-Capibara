@@ -3,3 +3,6 @@ ent-SprayPainter = pistola de pintura
 
 ent-SprayPainterAmmo = pintura comprimida
     .desc = Un cartucho de pintura altamente comprimida, comúnmente utilizado en pistolas de pintura.
+
+ent-SprayPainterBorg = pulverizador de pintura experimental
+    .desc = Un pulverizador de pintura experimental recargable que puede replicar pintura comprimida de forma infinita.

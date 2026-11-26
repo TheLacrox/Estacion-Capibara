@@ -80,22 +80,22 @@ blob-target-already-connected = ya conectado
 # UI
 blob-chem-swap-ui-window-name = Cambiar productos químicos
 blob-chem-reactivespines-info = Espinas Reactivas
-                                Inflige 25 de daño por contusión.
+                                Inflige 8 de daño bruto, 8 cortante, 8 perforante y 150 de daño estructural.
 blob-chem-blazingoil-info = Aceite Ardiente
-                            Inflige 15 de daño por quemadura y prende fuego a los objetivos.
+                            Inflige 15 de daño por quemadura y 150 de daño estructural, prende fuego a los objetivos.
                             Te hace vulnerable al agua.
 blob-chem-regenerativemateria-info = Materia Regenerativa
-                                    Inflige 6 de daño por contusión y 15 de daño tóxico.
-                                    El núcleo del blob regenera salud 10 veces más rápido de lo normal y genera 1 recurso adicional.
+                                    Inflige 150 de daño estructural y 15 de daño por toxinas.
+                                    El núcleo del blob regenera salud 10 veces más rápido de lo normal y los blobs de recursos generan 1 recurso extra.
 blob-chem-explosivelattice-info = Retícula Explosiva
-                                    Inflige 5 de daño por quemadura y hace explotar el objetivo, infligiendo 10 de daño por contusión.
+                                    Inflige 5 de daño por quemadura y 150 de daño estructural, hace explotar al objetivo e inflige 10 de daño bruto.
                                     Las esporas explotan al morir.
                                     Te vuelves inmune a las explosiones.
-                                    Recibes un 50% más de daño por quemaduras y descarga eléctrica.
+                                    Recibes un 50% más de daño por quemaduras y descargas eléctricas.
 blob-chem-electromagneticweb-info = Red Electromagnética
-                                    Inflige 20 de daño por quemadura, 20% de probabilidad de causar un pulso EMP al atacar.
-                                    Las losetas blob causan un pulso EMP al ser destruidas.
-                                    Recibes un 25% más de daño por contusión y calor.
+                                    Inflige 20 de daño por quemadura y 150 de daño estructural, con un 20% de probabilidad de provocar un pulso EMP al atacar.
+                                    Las casillas del blob provocan un pulso EMP al ser destruidas.
+                                    Recibes un 25% más de daño bruto y por calor.
 
 blob-alert-out-off-station = ¡El blob fue eliminado porque se encontraba fuera de la estación!
 
@@ -174,3 +174,25 @@ admin-verb-text-make-blob = Convertir en Portador de Blob
 language-Blob-name = Blob
 chat-language-Blob-name = Blob
 language-Blob-description = ¡Bleeb bob! ¡Blob blob!
+
+blob-chem-comatosefiber-info = Fibra Comatosa
+                                Inflige 22 de daño por asfixia y 150 de daño estructural.
+
+blob-chem-chaincoating-info = Revestimiento en Cadena
+                                Inflige 12 de daño cortante y contundente, y 150 de daño estructural.
+                                El blob se vuelve más resistente a todos los tipos de daño.
+                                La producción de recursos se reduce.
+
+blob-chem-sinewytendons-info = Tendones Fibrosos
+                                Cura 8 de daño contundente, cortante, por veneno, perforante, por asfixia, por frío y por quemaduras con cada golpe.
+                                La frecuencia de pulso aumenta, el número máximo de vainas aumenta de 3 a 5.
+                                Las fábricas y los blobs de recursos son más baratos.
+
+blob-chem-corrosiveslime-info = Baba Corrosiva
+                                Inflige 320 de daño estructural, 2 de daño celular y 13 de daño por ácido.
+                                El precio de los nodos del blob aumenta de 50 a 100.
+
+blob-chem-cryogenicpoison-info = Veneno Criogénico
+                                Inflige 16 de daño por frío, 4 de daño cortante y 100 de daño estructural.
+
+blob-alert-block-shuttle = No se puede enviar el transbordador de emergencia mientras haya un riesgo biológico de nivel 5 en la estación.

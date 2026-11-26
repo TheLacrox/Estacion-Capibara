@@ -1,26 +1,3 @@
-// SPDX-FileCopyrightText: 2022 Flipp Syder <76629141+vulppine@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2022 Jacob Tong <10494922+ShadowCommander@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2022 Jezithyr <Jezithyr.@gmail.com>
-// SPDX-FileCopyrightText: 2022 Jezithyr <Jezithyr@gmail.com>
-// SPDX-FileCopyrightText: 2022 Jezithyr <jmaster9999@gmail.com>
-// SPDX-FileCopyrightText: 2022 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2022 wrexbe <81056464+wrexbe@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2022 wrexbe <wrexbe@protonmail.com>
-// SPDX-FileCopyrightText: 2023 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2023 Visne <39844191+Visne@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 AJCM-git <60196617+AJCM-git@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
-// SPDX-FileCopyrightText: 2024 Plykiya <58439124+Plykiya@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 Tayrtahn <tayrtahn@gmail.com>
-// SPDX-FileCopyrightText: 2024 metalgearsloth <comedian_vs_clown@hotmail.com>
-// SPDX-FileCopyrightText: 2024 themias <89101928+themias@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aidenkrz <aiden@djkraz.com>
-// SPDX-FileCopyrightText: 2025 RatherUncreative <RatherUncreativeName@proton.me>
-// SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Whatstone <whatston3@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Client.Gameplay;
@@ -37,7 +14,7 @@ using Robust.Client.Player;
 using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controllers;
 using Robust.Shared.Input;
-using Robust.Shared.Map;
+using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
 using Robust.Shared.Utility;
 using Content.Shared._NF.Interaction.Components;
@@ -55,8 +32,6 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
     private readonly List<HandsContainer> _handsContainers = new();
     private readonly Dictionary<string, int> _handContainerIndices = new();
     private readonly Dictionary<string, HandButton> _handLookup = new();
-    // Hispania: xenoborg port — dummy entities for empty hand placeholder icons
-    private readonly Dictionary<string, EntityUid> _placeholderEntities = new();
     private HandsComponent? _playerHandsComponent;
     private HandButton? _activeHand;
 
@@ -102,11 +77,8 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
     {
         if (entity.Owner != _player.LocalEntity)
             return;
-        var button = AddHand(name, location);
-
-        // Hispania: xenoborg port — set up placeholder for dynamically added hands
-        if (_handsSystem.TryGetHand(entity.AsNullable(), name, out var hand))
-            SetupPlaceholder(name, hand.Value, button);
+        if (_handsSystem.TryGetHand((entity.Owner, entity.Comp), name, out var hand))
+            AddHand(name, hand.Value);
     }
 
     private void OnRemoveHand(Entity<HandsComponent> entity, string name)
@@ -157,13 +129,6 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
         _handLookup.Clear();
         _playerHandsComponent = null;
 
-        // Hispania: xenoborg port — clean up placeholder dummy entities
-        foreach (var ent in _placeholderEntities.Values)
-        {
-            _entities.QueueDeleteEntity(ent);
-        }
-        _placeholderEntities.Clear();
-
         foreach (var container in _handsContainers)
         {
             container.Clear();
@@ -179,10 +144,7 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
         _playerHandsComponent = handsComp;
         foreach (var (name, hand) in handsComp.Comp.Hands)
         {
-            var handButton = AddHand(name, hand.Location);
-
-            // Hispania: xenoborg port — set placeholder icon for whitelisted empty hands
-            SetupPlaceholder(name, hand, handButton);
+            var handButton = AddHand(name, hand);
 
             if (_handsSystem.TryGetHeldItem(handsComp.AsNullable(), name, out var held) &&
                 _entities.TryGetComponent(held, out VirtualItemComponent? virt))
@@ -190,26 +152,35 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
                 handButton.SetEntity(virt.BlockingEntity);
                 handButton.Blocked = true;
             }
-            // Frontier - borg hand placeholder
-            else if (_entities.TryGetComponent(held, out HandPlaceholderVisualsComponent? placeholder))
-            {
-                handButton.SetEntity(placeholder.Dummy);
-                handButton.Blocked = true;
-            }
-            // End Frontier - borg hand placeholder
-            else
+            else if (held != null)
             {
                 handButton.SetEntity(held);
                 handButton.Blocked = false;
             }
-
-            // Hispania: update placeholder visibility after entity is set
-            handButton.UpdatePlaceholderVisibility();
+            else
+            {
+                if (hand.EmptyRepresentative is { } representative)
+                {
+                    // placeholder, view it
+                    SetRepresentative(handButton, representative);
+                }
+                else
+                {
+                    // otherwise empty
+                    handButton.SetEntity(null);
+                }
+                handButton.Blocked = false;
+            }
         }
 
         if (handsComp.Comp.ActiveHandId == null)
             return;
         SetActiveHand(handsComp.Comp.ActiveHandId);
+    }
+
+    private void SetRepresentative(HandButton handButton, EntProtoId prototype)
+    {
+        handButton.SetPrototype(prototype, true);
     }
 
     private void HandBlocked(string handName)
@@ -250,22 +221,18 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
             hand.SetEntity(virt.BlockingEntity);
             hand.Blocked = true;
         }
-        // Frontier: borg hand placeholders
-        else if (_entities.TryGetComponent(entity, out HandPlaceholderVisualsComponent? placeholder))
-        {
-            hand.SetEntity(placeholder.Dummy);
-            hand.Blocked = true;
-        }
-        // End Frontier: borg hand placeholders
         else
         {
             hand.SetEntity(entity);
             hand.Blocked = false;
         }
 
-        hand.UpdatePlaceholderVisibility(); // Hispania: hide placeholder when item held
-
-        UpdateHandStatus(hand, entity);
+        if (_playerHandsComponent != null &&
+            _player.LocalSession?.AttachedEntity is { } playerEntity &&
+            _handsSystem.TryGetHand((playerEntity, _playerHandsComponent), name, out var handData))
+        {
+            UpdateHandStatus(hand, entity, handData);
+        }
     }
 
     private void OnItemRemoved(string name, EntityUid entity)
@@ -274,20 +241,19 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
         if (hand == null)
             return;
 
+        if (_playerHandsComponent != null &&
+            _player.LocalSession?.AttachedEntity is { } playerEntity &&
+            _handsSystem.TryGetHand((playerEntity, _playerHandsComponent), name, out var handData))
+        {
+            UpdateHandStatus(hand, null, handData);
+            if (handData?.EmptyRepresentative is { } representative)
+            {
+                SetRepresentative(hand, representative);
+                return;
+            }
+        }
+
         hand.SetEntity(null);
-        hand.UpdatePlaceholderVisibility(); // Hispania: show placeholder when hand empty
-        UpdateHandStatus(hand, null);
-    }
-
-    // Hispania: xenoborg port — spawn a dummy entity for the hand placeholder icon
-    private void SetupPlaceholder(string handName, Hand hand, HandButton button)
-    {
-        if (hand.EmptyRepresentative == null)
-            return;
-
-        var dummy = _entities.SpawnEntity(hand.EmptyRepresentative, MapCoordinates.Nullspace);
-        _placeholderEntities[handName] = dummy;
-        button.SetPlaceholder(dummy);
     }
 
     private HandsContainer GetFirstAvailableContainer()
@@ -350,13 +316,13 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
             if (foldedLocation == HandUILocation.Left)
             {
                 _statusHandLeft = handControl;
-                HandsGui.UpdatePanelEntityLeft(heldEnt);
+                HandsGui.UpdatePanelEntityLeft(heldEnt, hand.Value);
             }
             else
             {
                 // Middle or right
                 _statusHandRight = handControl;
-                HandsGui.UpdatePanelEntityRight(heldEnt);
+                HandsGui.UpdatePanelEntityRight(heldEnt, hand.Value);
             }
 
             HandsGui.SetHighlightHand(foldedLocation);
@@ -369,9 +335,9 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
         return handControl;
     }
 
-    private HandButton AddHand(string handName, HandLocation location)
+    private HandButton AddHand(string handName, Hand hand)
     {
-        var button = new HandButton(handName, location);
+        var button = new HandButton(handName, hand.Location);
         button.StoragePressed += StorageActivate;
         button.Pressed += HandPressed;
 
@@ -387,10 +353,16 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
             GetFirstAvailableContainer().AddButton(button);
         }
 
+        if (hand.EmptyRepresentative is { } representative)
+        {
+            SetRepresentative(button, representative);
+        }
+        UpdateHandStatus(button, null, hand);
+
         // If we don't have a status for this hand type yet, set it.
         // This means we have status filled by default in most scenarios,
         // otherwise the user'd need to switch hands to "activate" the hands the first time.
-        if (location.GetUILocation() == HandUILocation.Left)
+        if (hand.Location.GetUILocation() == HandUILocation.Left)
             _statusHandLeft ??= button;
         else
             _statusHandRight ??= button;
@@ -460,13 +432,6 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
             _statusHandLeft = null;
         if (_statusHandRight == handButton)
             _statusHandRight = null;
-
-        // Hispania: xenoborg port — clean up placeholder entity
-        if (_placeholderEntities.TryGetValue(handName, out var placeholderEnt))
-        {
-            _entities.QueueDeleteEntity(placeholderEnt);
-            _placeholderEntities.Remove(handName);
-        }
 
         _handLookup.Remove(handName);
         handButton.Orphan();
@@ -561,12 +526,12 @@ public sealed class HandsUIController : UIController, IOnStateEntered<GameplaySt
         }
     }
 
-    private void UpdateHandStatus(HandButton hand, EntityUid? entity)
+    private void UpdateHandStatus(HandButton hand, EntityUid? entity, Hand? handData)
     {
         if (hand == _statusHandLeft)
-            HandsGui?.UpdatePanelEntityLeft(entity);
+            HandsGui?.UpdatePanelEntityLeft(entity, handData);
 
         if (hand == _statusHandRight)
-            HandsGui?.UpdatePanelEntityRight(entity);
+            HandsGui?.UpdatePanelEntityRight(entity, handData);
     }
 }

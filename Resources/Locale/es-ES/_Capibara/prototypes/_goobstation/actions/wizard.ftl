@@ -99,3 +99,6 @@ ent-ActionSummonStickmen = Invocar Compañeros de Palo
 
 ent-ActionTileToggle = Activar/Desactivar movimiento por casilla
     .desc = Activa o desactiva el movimiento por casilla para el objetivo.
+
+ent-ActionSummonSupermatter = Invocar supermateria
+    .desc = Invoca un cristal de supermatter activo. Te impregna con algo de supermatter, otorgándote resistencia a su desintegración en cenizas e inmunidad a la radiación.

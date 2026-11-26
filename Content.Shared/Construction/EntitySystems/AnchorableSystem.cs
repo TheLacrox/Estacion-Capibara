@@ -1,20 +1,6 @@
-// SPDX-FileCopyrightText: 2023 Ben <50087092+benev0@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2023 BenOwnby <ownbyb@appstate.edu>
-// SPDX-FileCopyrightText: 2023 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2023 metalgearsloth <comedian_vs_clown@hotmail.com>
-// SPDX-FileCopyrightText: 2024 Jezithyr <jezithyr@gmail.com>
-// SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
-// SPDX-FileCopyrightText: 2024 TGRCDev <tgrc@tgrc.dev>
-// SPDX-FileCopyrightText: 2024 Tayrtahn <tayrtahn@gmail.com>
-// SPDX-FileCopyrightText: 2024 Tornado Tech <54727692+Tornado-Technology@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 Verm <32827189+Vermidia@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 TemporalOroboros <TemporalOroboros@gmail.com>
-// SPDX-FileCopyrightText: 2025 gus <august.eymann@gmail.com>
-// SPDX-FileCopyrightText: 2025 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using System.Diagnostics.CodeAnalysis;
 using Content.Shared.Administration.Logs;
 using Content.Shared.Examine;
 using Content.Shared.Construction.Components;
@@ -40,7 +26,7 @@ namespace Content.Shared.Construction.EntitySystems;
 
 public sealed partial class AnchorableSystem : EntitySystem
 {
-    [Dependency] private readonly IMapManager _mapManager = default!;
+    [Dependency] private readonly SharedMapSystem _mapSystem = default!;
     [Dependency] private readonly ISharedAdminLogManager _adminLogger = default!;
     [Dependency] private readonly SharedPopupSystem _popup = default!;
     [Dependency] private readonly PullingSystem _pulling = default!;
@@ -118,6 +104,13 @@ public sealed partial class AnchorableSystem : EntitySystem
     private void OnAnchoredExamine(EntityUid uid, AnchorableComponent component, ExaminedEvent args)
     {
         var isAnchored = Comp<TransformComponent>(uid).Anchored;
+
+        if (isAnchored && (component.Flags & AnchorableFlags.Unanchorable) == 0x0)
+            return;
+
+        if (!isAnchored && (component.Flags & AnchorableFlags.Anchorable) == 0x0)
+            return;
+
         var messageId = isAnchored ? "examinable-anchored" : "examinable-unanchored";
         args.PushMarkup(Loc.GetString(messageId, ("target", uid)));
     }
@@ -127,18 +120,24 @@ public sealed partial class AnchorableSystem : EntitySystem
         if (args.Cancelled || args.Used is not { } used)
             return;
 
+        UnanchorEntity((uid, component), args.User, used); // Goob
+    }
+
+    public void UnanchorEntity(Entity<AnchorableComponent> ent, EntityUid user, EntityUid used) // Goob
+    {
+        var uid = ent.Owner; // Goob
         var xform = Transform(uid);
 
-        RaiseLocalEvent(uid, new BeforeUnanchoredEvent(args.User, used));
+        RaiseLocalEvent(uid, new BeforeUnanchoredEvent(user, used)); // Goob
         _transformSystem.Unanchor(uid, xform);
-        RaiseLocalEvent(uid, new UserUnanchoredEvent(args.User, used));
+        RaiseLocalEvent(uid, new UserUnanchoredEvent(user, used)); // Goob
 
-        _popup.PopupClient(Loc.GetString("anchorable-unanchored"), uid, args.User);
+        _popup.PopupClient(Loc.GetString("anchorable-unanchored"), uid, user); // Goob
 
         _adminLogger.Add(
             LogType.Unanchor,
             LogImpact.Low,
-            $"{ToPrettyString(args.User):user} unanchored {ToPrettyString(uid):anchored} using {ToPrettyString(used):using}"
+            $"{ToPrettyString(user):user} unanchored {ToPrettyString(uid):anchored} using {ToPrettyString(used):using}" // Goob
         );
     }
 
@@ -147,11 +146,17 @@ public sealed partial class AnchorableSystem : EntitySystem
         if (args.Cancelled || args.Used is not { } used)
             return;
 
+        AnchorEntity((uid, component), args.User, used); // Goob
+    }
+
+    public void AnchorEntity(Entity<AnchorableComponent> ent, EntityUid user, EntityUid used) // Goob
+    {
+        var (uid, component) = ent; // Goob
         var xform = Transform(uid);
         if (TryComp<PhysicsComponent>(uid, out var anchorBody) &&
             !TileFree(xform.Coordinates, anchorBody))
         {
-            _popup.PopupClient(Loc.GetString("anchorable-occupied"), uid, args.User);
+            _popup.PopupClient(Loc.GetString("anchorable-occupied"), uid, user); // Goob
             return;
         }
 
@@ -167,30 +172,30 @@ public sealed partial class AnchorableSystem : EntitySystem
         // TODO: Anchoring snaps rn anyway!
         if (component.Snap)
         {
-            var coordinates = xform.Coordinates.SnapToGrid(EntityManager, _mapManager);
+            var coordinates = xform.Coordinates.SnapToGrid(EntityManager);
 
             if (AnyUnstackable(uid, coordinates))
             {
-                _popup.PopupClient(Loc.GetString("construction-step-condition-no-unstackable-in-tile"), uid, args.User);
+                _popup.PopupClient(Loc.GetString("construction-step-condition-no-unstackable-in-tile"), uid, user); // Goob
                 return;
             }
 
             _transformSystem.SetCoordinates(uid, coordinates);
         }
 
-        RaiseLocalEvent(uid, new BeforeAnchoredEvent(args.User, used));
+        RaiseLocalEvent(uid, new BeforeAnchoredEvent(user, used)); // Goob
 
         if (!xform.Anchored)
             _transformSystem.AnchorEntity(uid, xform);
 
-        RaiseLocalEvent(uid, new UserAnchoredEvent(args.User, used));
+        RaiseLocalEvent(uid, new UserAnchoredEvent(user, used)); // Goob
 
-        _popup.PopupClient(Loc.GetString("anchorable-anchored"), uid, args.User);
+        _popup.PopupClient(Loc.GetString("anchorable-anchored"), uid, user); // Goob
 
         _adminLogger.Add(
             LogType.Anchor,
             LogImpact.Low,
-            $"{ToPrettyString(args.User):user} anchored {ToPrettyString(uid):anchored} using {ToPrettyString(used):using}"
+            $"{ToPrettyString(user):user} anchored {ToPrettyString(uid):anchored} using {ToPrettyString(used):using}" // Goob
         );
     }
 
@@ -304,7 +309,7 @@ public sealed partial class AnchorableSystem : EntitySystem
         if (!TryComp<MapGridComponent>(gridUid, out var grid))
             return false;
 
-        var tileIndices = grid.TileIndicesFor(coordinates);
+        var tileIndices = _mapSystem.TileIndicesFor(gridUid.Value, grid, coordinates);
         return TileFree(grid, tileIndices, anchorBody.CollisionLayer, anchorBody.CollisionMask);
     }
 
@@ -314,7 +319,7 @@ public sealed partial class AnchorableSystem : EntitySystem
     /// <param name="grid"></param>
     public bool TileFree(MapGridComponent grid, Vector2i gridIndices, int collisionLayer = 0, int collisionMask = 0)
     {
-        var enumerator = grid.GetAnchoredEntitiesEnumerator(gridIndices);
+        var enumerator = _mapSystem.GetAnchoredEntities(grid.Owner, grid, gridIndices);
 
         while (enumerator.MoveNext(out var ent))
         {
@@ -353,7 +358,7 @@ public sealed partial class AnchorableSystem : EntitySystem
         if (!TryComp<MapGridComponent>(gridUid, out var grid))
             return false;
 
-        var enumerator = grid.GetAnchoredEntitiesEnumerator(grid.LocalToTile(location));
+        var enumerator = _mapSystem.GetAnchoredEntities(gridUid.Value, grid, _mapSystem.LocalToTile(gridUid.Value, grid, location));
 
         while (enumerator.MoveNext(out var entity))
         {

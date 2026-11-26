@@ -1,0 +1,43 @@
+<Document>
+  # El director de juego está arreglado (esperemos)
+
+  [italic]Resumen: La Guía era una auténtica mierda: lanzaba meteoritos y varas sin parar, nunca llegaba a ejecutar sus ataques y acababa la mayoría de las rondas antes de tiempo. Se ha rehecho para que lea bien la estación, lleve las rondas hacia unos 90 minutos y mande ayuda de verdad cuando tu departamento lo está pasando fatal. Hay dos modos de director nuevos, La Tempestad y El Vigilante. [bold]El resto de modos de juego están desactivados temporalmente[/bold] para poder recoger métricas limpias del director y seguir mejorándolo. ¡Contadme qué tal van vuestras rondas![/italic]
+
+  ## Qué cambia para ti
+
+  - [bold]Hay cuatro modos de director en rotación:[/bold] La Guía (estándar), El Fantasma (tranquilo, sin antagonistas al inicio de ronda), La Tempestad (nuevo, más duro, va creciendo hasta grandes ataques, 40 jugadores o más) y El Vigilante (nuevo, un antagonista al inicio de ronda y eventos más pequeños, 15 jugadores o más).
+  - [bold]El resto de modos de juego están apagados por ahora.[/bold] Es temporal, pero puede quedarse así si conseguimos dejar el director de juego en buen estado. Queremos rondas dirigidas por completo por el director para ver qué hace de verdad y ajustarlo. Los demás modos volverán si no sale bien.
+  - [bold]Las rondas deberían durar más y tener más sentido.[/bold] Inicios más tranquilos, eventos más duros a mitad de ronda y tiempo para recuperarse después.
+  - [bold]Periodos de recuperación que no dan asco.[/bold] Si tu departamento está sufriendo, pueden mandarte cápsulas de suministros directamente. Si la energía se va al carajo, el Comando Central puede restaurarla a distancia. Si un departamento queda arrasado, puede aparecer una lanzadera de tripulación con reemplazos.
+
+  ## Por qué el director antiguo era tan malo
+
+  Revisé las métricas del servidor de 58 rondas de La Guía. La mayoría de los problemas venían de código basura:
+
+  - No usaba su propia lista de eventos. Pasados los primeros segundos de la ronda empezaba a elegir entre todos los eventos del juego, incluidos enjambres de meteoritos, varas y demás que nunca debieron estar ahí. Casi la mitad de lo que lanzaba no estaba en la lista. Eso salía a unos 3,5 enjambres de meteoritos y 1,7 varas por ronda. ¡¡¡Qué divertido!!!
+  - No sabía cuándo ya te había destrozado. Medía el daño de la estación con las compuertas cortafuegos, que apenas reaccionan. Un enjambre grande de meteoritos contaba como 1/30 del daño que esperaba, así que seguía mandando más meteoritos y varas para llegar a su objetivo.
+  - No tenía memoria. En cuanto lanzaba un evento se olvidaba de él, y podía lanzar lo mismo un par de minutos después, antes de que el primero hubiera terminado.
+  - Los ataques no atacaban. La fase de ataque busca un número fijo de antagonistas, y los del inicio de ronda ya lo cubrían, así que en vez de generar antagonistas a mitad de ronda intentaba regalar equipo a seguridad para enfrentarse a esos antagonistas que no existían.
+  - Las historias nunca terminaban. El inicio tranquilo duraba siempre 20 minutos enteros, y el gran clímax de combate ocurrió en 5 de 20 rondas. La mayoría de las rondas acababan hacia el minuto 52, en plena fase de meteoritos.
+  - Literalmente NINGUNA de sus métricas funcionaba bien. Contaba charcos de cualquier parte del juego, no solo de la estación. Contaba los cuerpos de la morgue como muertes recientes para siempre. No contaba a los xenos ni a las arañas espaciales como antagonistas, pero sí contaba a cada ratón como tripulante. También contaba a los fantasmas como vivos, así que nunca sabía si alguien podía coger un rol de fantasma.
+  - Su única ayuda eran los regalos de cargamento. Elegía uno al azar de un grupo, aunque no tuviera nada que ver con lo que pasaba en la estación, y además dependía de que cargamento hiciera su trabajo y lo entregara.
+
+  ## Cómo es mejor ahora
+
+  - Ahora sí usa su propia lista de eventos. Los eventos destructivos se valoran según cuánto destrozan la estación, y el director tiene un presupuesto de destrucción que se rellena despacio. Las varas pueden salir como mucho una vez cada 30 minutos, y solo en los tramos de la historia centrados en ingeniería. Con esto, los meteoritos deberían ocurrir 1 o 2 veces por turno, y las varas una vez cada varios turnos.
+  - Por fin mide la estación de forma sensata. La atmósfera se mide con el aire real (salas despresurizadas, incendios, gas tóxico), la energía con los APC, además de las plagas, de si seguridad puede con la amenaza actual y de los artefactos. Los cuerpos cuentan menos con el paso del tiempo, y solo cuenta lo que pasa en la estación.
+  - Recuerda lo que ha mandado, así que no apila eventos mientras siguen en marcha.
+  - Los ataques escalan según el estado de la estación y la cantidad de gente que está jugando.
+  - Las historias están pensadas para unos 90 minutos y reaccionan a cómo va la ronda. Si un ataque (aparición de antagonistas, etc.) destroza la estación más de lo esperado, pasa a una fase de recuperación en vez de seguir apretando. Cuando se llama a la evacuación deja de mandar amenazas y solo manda ayuda. No apila sus grandes historias de combate sobre nucleares, revolucionarios, zombis, blob, culto o mago.
+  - Los eventos dependen del personal de cada departamento. Nada de desastres de ingeniería sin ingenieros, ataques sin seguridad ni anomalías sin ciencia. Los roles de fantasma solo aparecen si hay fantasmas para cogerlos, y las lanzaderas de tripulación llegan si todo un departamento ha muerto.
+  - Las fases de recuperación y ayuda ahora deberían servir para algo. Las cápsulas se mandan al departamento que las necesita (medicina recibe suministros médicos, seguridad equipo antidisturbios, ingeniería kits para brechas, y así), y las restauraciones de emergencia de la red arreglan la energía temporalmente rellenando APC y SMES.
+  - Se acabaron las malditas lanzaderas de payasos. Estoy harto de jugar de seguridad y que aparezcan 8 payasos a liarla sin parar. Ahora son un evento negativo que puede salir en los modos más tranquilos.
+
+  Esta es la PRIMERA PASADA. Tras unos días de métricas, intentaré ajustar el director para que sea mejor. Si lo ves haciendo alguna tontería, avísame.
+
+  <InfoLinkButton Link="Discord" Text="news-game-director-feedback"/>
+
+  <Box HorizontalAlignment="Right">
+    [italic]- Durk[/italic]
+  </Box>
+</Document>

@@ -21,3 +21,6 @@ ent-FoodTacoChickenSupreme = taco de pollo supremo
 
 ent-FoodMealSoftTaco = taco blando
     .desc = ¡Dale un bocado!
+
+ent-FoodTacoDragon = draco
+    .desc = Un taco de dragón, que técnicamente también es un taco de pescado.

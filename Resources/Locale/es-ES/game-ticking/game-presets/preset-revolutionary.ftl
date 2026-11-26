@@ -15,7 +15,7 @@
 ## Rev Head
 
 roles-antag-rev-head-name = Cabecilla Revolucionario
-roles-antag-rev-head-objective = Tu objetivo es tomar el control de la estación convirtiendo a la gente a tu causa y eliminando a todo el personal de Mando en la estación.
+roles-antag-rev-head-objective = Tu objetivo es tomar el control de la estación convirtiendo a la gente a tu causa y eliminando a todos los miembros de Mando.
 
 head-rev-role-greeting =
     Eres un Cabecilla Revolucionario.
@@ -33,14 +33,13 @@ head-rev-break-mindshield = ¡El Escudo Mental neutralizó los poderes hipnótic
 ## Rev
 
 roles-antag-rev-name = Revolucionario
-roles-antag-rev-objective = Tu objetivo es garantizar la seguridad y seguir las órdenes de los Cabecillas Revolucionarios, así como eliminar o convertir a todo el personal de Mando en la estación.
+roles-antag-rev-objective = Tu objetivo es garantizar la seguridad de los jefes revolucionarios y seguir sus órdenes, y ayudarlos a tomar la estación eliminando a todos los miembros de Mando.
 
 rev-break-control = ¡{$name} ha recordado su verdadera lealtad!
 
 rev-role-greeting =
-    Eres un Revolucionario.
-    Tu misión es tomar el control de la estación y proteger a los Cabecillas Revolucionarios.
-    Elimina o convierte al personal de Mando.
+    Eres un revolucionario. Tu tarea es proteger a los revolucionarios jefe y ayudarles a tomar el control de la estación.
+    La revolución debe trabajar unida para matar, reducir o convertir a todos los miembros del Mando.
     ¡Viva la revolución!
 
 rev-briefing = Ayuda a tus cabecillas revolucionarios a convertir o eliminar a cada jefe para tomar el control de la estación.
@@ -48,23 +47,23 @@ rev-briefing = Ayuda a tus cabecillas revolucionarios a convertir o eliminar a c
 ## General
 
 rev-title = Revolucionarios
-rev-description = Hay revolucionarios entre nosotros.
+rev-description = Hay revolucionarios ocultos entre la tripulación que buscan convertir a otros a su causa y derrocar a Mando.
 
-rev-not-enough-ready-players = No hay suficientes jugadores preparados para la partida. Había {$readyPlayersCount} jugadores preparados de los {$minimumPlayers} necesarios. No se puede iniciar una Revolución.
-rev-no-one-ready = ¡Ningún jugador está preparado! No se puede iniciar una Revolución.
-rev-no-heads = No había Cabecillas Revolucionarios para seleccionar. No se puede iniciar una Revolución.
+rev-not-enough-ready-players = No hay suficientes jugadores listos para la partida. Había {$readyPlayersCount} jugadores listos de los {$minimumPlayers} necesarios. No se pueden iniciar los Revolucionarios.
+rev-no-one-ready = ¡Ningún jugador está listo! No se pueden iniciar los Revolucionarios.
+rev-no-heads = No había Jefes Revolucionarios para seleccionar. No se pueden iniciar los Revolucionarios.
 
-rev-won = Los Cabecillas Rev sobrevivieron y tomaron el control de la estación con éxito.
+rev-won = Los jefes revolucionarios sobrevivieron y tomaron con éxito el control de la estación.
 
 rev-lost = El Mando sobrevivió y neutralizó a todos los Cabecillas Rev.
 
-rev-stalemate = Todos los Cabecillas Rev y el Mando murieron. Es un empate.
+rev-stalemate = Tanto Mando como los jefes revolucionarios han muerto. Es un empate.
 
-rev-reverse-stalemate = Tanto el Mando como los Cabecillas Rev sobrevivieron.
+rev-reverse-stalemate = Tanto Mando como los jefes revolucionarios sobrevivieron.
 
 rev-headrev-count = {$initialCount ->
-    [one] Hubo un Cabecilla Revolucionario:
-    *[other] Hubo {$initialCount} Cabecillas Revolucionarios:
+    [one] Había un revolucionario jefe:
+    *[other] Había {$initialCount} revolucionarios jefe:
 }
 
 rev-headrev-name-user = [color=#5e9cff]{$name}[/color] ([color=gray]{$username}[/color]) convirtió a {$count} {$count ->

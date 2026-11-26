@@ -12,3 +12,5 @@ job-supervisors-null = nadie más que tú mismo.
 
 job-supervisor-syndicate = El Sindicato Spinward
 job-supervisors-credits = Los Mejores Postores
+
+job-supervisors-syndicate = el Sindicato

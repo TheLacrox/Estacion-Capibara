@@ -8,6 +8,7 @@ using Content.Shared.Speech;
 using Content.Shared.Weapons.Melee.Events;
 using Content.Shared._Trauma.Movement;
 using Content.Shared._Trauma.Speech;
+using Content.Shared.Damage.Systems;
 
 namespace Content.Shared._Trauma.Genetics.Mutations;
 

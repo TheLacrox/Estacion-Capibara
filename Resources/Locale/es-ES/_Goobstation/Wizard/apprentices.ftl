@@ -13,7 +13,7 @@ ghost-role-information-apprentice-ethereal-name = Aprendiz (Etéreo)
 ghost-role-information-apprentice-ethereal-desc = Eres un aprendiz experto en los hechizos Viaje Etéreo y Teletransporte. Protege al mago que te ha invocado a toda costa.
 
 ghost-role-information-apprentice-summon-name = Aprendiz (Invocador)
-ghost-role-information-apprentice-summon-desc = Eres un aprendiz experto en los hechizos Invocar Abejas Menores y Convocar Simios. Protege al mago que te ha invocado a toda costa.
+ghost-role-information-apprentice-summon-desc = Eres un aprendiz competente en los hechizos Invocar abejas menor, Invocar simios e Invocar supermatter. Protege a toda costa al mago que te ha invocado.
 
 ghost-role-information-apprentice-gun-name = Aprendiz (Pistolero)
 ghost-role-information-apprentice-gun-desc = Eres un aprendiz experto en los hechizos Invocar Armas Menores, Humo y Parpadeo. Protege al mago que te ha invocado a toda costa.

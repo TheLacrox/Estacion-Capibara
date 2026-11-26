@@ -6,7 +6,7 @@ influence-name-lapse = Colapso Aberrante
 influence-description-lapse = Colapsa la forma de un individuo, dejándolo temporalmente incapaz de moverse o actuar. Las unidades colapsadas son obstrucciones de casilla invulnerables.
 
 influence-name-glare = Resplandor Nulo
-influence-description-glare = Emite un pulso horrible de luz cósmica que ralentiza y desorienta a todos los que te rodean.
+influence-description-glare = Emite un horrible pulso de luz cósmica que ralentiza y desorienta a todos a tu alrededor. Sus efectos se amplifican contra entidades basadas en silicio.
 
 influence-name-shunt = Expulsión de Subjetividad
 influence-description-shunt = Expulsa la mente de tu objetivo de su cuerpo hacia la oscuridad cósmica, dejando su cuerpo temporalmente sin mente.

@@ -25,3 +25,7 @@ demonic-whisper-whisper = Le susurras a {$name}: {$message}
 
 # metadata
 name-format-slaughter = {$part1}, el {$part0}
+
+demonic-whisper-flavor = De repente, una extraña voz demoníaca resuena en tu cabeza...
+
+demonic-whisper-self = Le susurras a {$name}: {$message}

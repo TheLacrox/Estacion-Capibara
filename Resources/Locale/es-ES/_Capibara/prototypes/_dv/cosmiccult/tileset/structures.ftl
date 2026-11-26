@@ -23,3 +23,6 @@ ent-AltarCosmic = altar cósmico
 
 ent-CosmicTable = mesa maligna
     .desc = Inconcebiblemente, cósmicamente... Cuadrada.
+
+ent-CosmicRadioJammer = inhibidor multiespectral
+    .desc = Irradia una potente energía cósmica que impide las comunicaciones por radio en un área extensa.

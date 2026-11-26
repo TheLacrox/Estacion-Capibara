@@ -228,3 +228,13 @@ loadout-group-plasma-tank = Tanque de plasma
 # Salvage/Shaft Miner
 loadout-group-salvage-specialist-jumpsuit = Mono del Especialista en Salvamento
 loadout-group-shaft-miner-jumpsuit = Mono del Minero de Pozo
+
+loadout-group-atmospheric-technician-belt = Cinturón de técnico atmosférico
+
+loadout-group-mime-shoes = Zapatos de mimo
+
+loadout-group-captain-shoes = Zapatos de capitán
+
+loadout-group-boxer-helmet = Casco de boxeador
+
+loadout-group-security-gloves = Guantes de seguridad

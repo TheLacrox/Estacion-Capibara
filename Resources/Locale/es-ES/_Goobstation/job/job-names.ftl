@@ -58,3 +58,5 @@ JobMercenaryCaptain = Capitán Mercenario
 JobRoboticist = Robótico
 JobRadioHost = Presentador de Radio
 JobVirologist = Virólogo
+
+job-name-bso = Oficial Escudo Azul

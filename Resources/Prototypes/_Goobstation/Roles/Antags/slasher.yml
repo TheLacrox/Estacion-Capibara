@@ -16,12 +16,9 @@
     description: ghost-role-information-slasher-description
     rules: ghost-role-information-antagonist-rules
     mindRoles:
-    - MindRoleGhostRoleSoloAntagonist
+    - MindRoleGhostRoleSoloAntagonistGoob
     raffle:
       settings: default
-    requirements:
-    - !type:OverallPlaytimeRequirement
-      time: 18000 #5 hours
   - type: Sprite
     sprite: Markers/jobs.rsi
     layers:
@@ -112,6 +109,15 @@
     jumpsuit: ClothingUniformSlasherHockey
     head: ClothingMaskSlasherHockey
     outerClothing: ClothingOuterSlasherHockey
+
+- type: startingGear
+  id: SlasherGearBoogeyman
+  equipment:
+    jumpsuit: ClothingUniformSlasherBoogeyman
+    head: ClothingHeadHatSlasherMaskBoogeyman
+    back: ClothingBackpackSatchel
+    shoes: ClothingShoesSlasher
+    id: AgentIDCard
 
 - type: entity
   categories: [ HideSpawnMenu, Spawner ]

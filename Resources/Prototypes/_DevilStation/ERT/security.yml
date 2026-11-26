@@ -12,5 +12,4 @@
     maxCharge: 750
     startingCharge: 750
   - type: BatterySelfRecharger
-    autoRecharge: true
     autoRechargeRate: 20

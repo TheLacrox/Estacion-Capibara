@@ -12,3 +12,9 @@ ent-WeaponSubMachineGunDrozd = Drozd
 
 ent-WeaponSubMachineGunWt550 = WT550
     .desc = Un arma de fuego verdaderamente única, el WT550 se carga desde un cargador montado en la parte superior patentado paralelo al cañón. Aunque las RPM no son grandes, el tamaño compacto y el retroceso estable permiten usarlo completamente con una mano. Alimentado con cargadores de SMG .35 Auto de montaje superior.
+
+ent-WeaponSubMachineGunC20rROW = C-20r ROW #Creo que ROW significa Recharging Onboard Weapon, así que sigo el ejemplo de la L6C
+    .desc = Un subfusil C-20r de ráfagas para uso de los cyborgs. Crea munición de calibre .35 sobre la marcha en un fabricador de munición interno, que se autorrecarga lentamente.
+
+ent-WeaponSubMachineGunBriefcase = maletín marrón
+    .desc = Útil para llevar objetos en las manos.

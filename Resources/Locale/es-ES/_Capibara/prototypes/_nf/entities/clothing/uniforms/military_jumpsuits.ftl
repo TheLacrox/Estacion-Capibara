@@ -67,3 +67,5 @@ ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryMedic = mono de médic
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryCaptain = mono de capitán mercenario
     .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la selva de planetas repletos de monstruos peligrosos o de objetivos a los que se ha asignado una recompensa.
+
+ent-ClothingUniformJumpsuitMilitaryShaftMiner = mono de minero

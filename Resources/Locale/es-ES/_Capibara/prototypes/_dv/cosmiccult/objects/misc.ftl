@@ -3,3 +3,6 @@ ent-AscendedDendrite = dendrita del ascendido
 
 ent-CosmicCultLawBoard = tablero de leyes maligno
     .desc = Una placa de circuito inquietante, adecuada para insertarse en una consola de carga de leyes de IA. Sus circuitos están entretejidos con filamentos dendríticos fantasmales que se agitan por cuenta propia.
+
+ent-CosmicCultMindSink = sumidero mental astral
+    .desc = Un extraño artefacto. Aunque está compuesto de materiales malignos, no infunde ninguna sensación de malestar.

@@ -8,3 +8,5 @@ terror-grey-tide = Atención tripulación, parece que alguien en vuestra estaci�
 
 # Capibara: translations ported from upstream
 terror-wizard = Atención tripulación, parece que alguien en vuestra estación ha realizado una comunicación inesperada con una persona mentalmente inestable en el espacio cercano.
+
+terror-sleeper-agent = Atención, tripulación: parece que una comunicación inesperada ha tenido efectos adversos en miembros de la tripulación de toda la estación.

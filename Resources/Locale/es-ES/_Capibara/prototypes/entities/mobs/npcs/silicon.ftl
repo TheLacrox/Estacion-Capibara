@@ -18,3 +18,6 @@ ent-MobMimeBot = mimebot
 
 ent-MobSupplyBot = supplybot
     .desc = Entrega carga.
+
+ent-MobHugBot = hugbot
+    .desc = Awww, ¿quién necesita un abrazo?

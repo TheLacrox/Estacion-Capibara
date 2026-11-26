@@ -1,3 +1,4 @@
+using Content.Goobstation.Common.Slasher.Events;
 using Content.Shared.Chemistry;
 using Content.Shared.Chemistry.Reaction;
 using Content.Shared.Inventory;
@@ -9,23 +10,24 @@ namespace Content.Goobstation.Shared.Slasher.Systems;
 /// <summary>
 /// Handles spring-lock clothing that triggers when it or its wearer comes into contact with liquid.
 /// </summary>
-public sealed class SpringlockSystem : EntitySystem
+public sealed partial class SpringlockSystem : EntitySystem
 {
-    [Dependency] private readonly InventorySystem _inventory = default!;
-    [Dependency] private readonly SharedAudioSystem _audio = default!;
-    [Dependency] private readonly SharedAppearanceSystem _appearance = default!;
+    [Dependency] private InventorySystem _inventory = default!;
+    [Dependency] private SharedAudioSystem _audio = default!;
+    [Dependency] private SharedAppearanceSystem _appearance = default!;
 
     public override void Initialize()
     {
         base.Initialize();
 
-        SubscribeLocalEvent<ReactiveComponent, ReactionEntityEvent>(OnReactionEntity);
+        SubscribeLocalEvent<ReactiveComponent, ShitRelayEventFixMeReactionEntityEvent>(OnReactionEntity);
     }
 
-    private void OnReactionEntity(Entity<ReactiveComponent> ent, ref ReactionEntityEvent args)
+    private void OnReactionEntity(Entity<ReactiveComponent> ent, ref ShitRelayEventFixMeReactionEntityEvent args)
     {
-        if (args.Method != ReactionMethod.Touch
-            || !HasComp<InventoryComponent>(ent.Owner))
+        if (
+            //args.Method != ReactionMethod.Touch ||
+            !HasComp<InventoryComponent>(ent.Owner))
             return;
 
         var slots = _inventory.GetSlotEnumerator(ent.Owner, SlotFlags.WITHOUT_POCKET);

@@ -1,12 +1,3 @@
-// SPDX-FileCopyrightText: 2021 Flipp Syder <76629141+vulppine@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2022 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2023 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
-// SPDX-FileCopyrightText: 2024 Tayrtahn <tayrtahn@gmail.com>
-// SPDX-FileCopyrightText: 2024 c4llv07e <38111072+c4llv07e@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Shared.Eye;
@@ -19,7 +10,7 @@ using Robust.Shared.Serialization;
 
 namespace Content.Shared.SubFloor;
 
-public abstract class SharedTrayScannerSystem : EntitySystem
+public abstract partial class SharedTrayScannerSystem : EntitySystem // Goob
 {
     [Dependency] private readonly INetManager _netMan = default!;
     [Dependency] private readonly SharedAppearanceSystem _appearance = default!;
@@ -30,6 +21,8 @@ public abstract class SharedTrayScannerSystem : EntitySystem
     public override void Initialize()
     {
         base.Initialize();
+
+        GoobInitialize(); // Goob
 
         SubscribeLocalEvent<TrayScannerComponent, ComponentGetState>(OnTrayScannerGetState);
         SubscribeLocalEvent<TrayScannerComponent, ComponentHandleState>(OnTrayScannerHandleState);
@@ -115,6 +108,7 @@ public abstract class SharedTrayScannerSystem : EntitySystem
 
         scanner.Enabled = enabled;
         Dirty(uid, scanner);
+        GoobScannerEnabledChanged(uid, enabled); // Goob
 
         // We don't remove from _activeScanners on disabled, because the update function will handle that, as well as
         // managing the revealed subfloor entities

@@ -52,3 +52,17 @@ station-ai-icon-smiley = Todo sonrisas
 station-ai-hologram-female = Apariencia femenina
 station-ai-hologram-male = Apariencia masculina
 station-ai-hologram-face = Cabeza incorpórea
+
+station-ai-has-no-power-for-upload = Error de carga: el núcleo de la IA no tiene energía.
+
+station-ai-is-too-damaged-for-upload = Error de carga: el núcleo de la IA debe ser reparado.
+
+station-ai-core-losing-power = Tu núcleo de IA funciona ahora con la batería de reserva.
+
+station-ai-core-critical-power = ¡A tu núcleo de IA le queda muy poca energía! Debe restablecerse la alimentación externa o podría producirse una grave corrupción de datos.
+
+station-ai-ghost-role-name = IA de la estación
+
+station-ai-ghost-role-description = Sirve a la tripulación de la estación como su siempre vigilante IA.
+
+ai-device-no-access = No tienes acceso a este dispositivo

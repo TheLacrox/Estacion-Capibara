@@ -13,10 +13,10 @@ using System.Linq;
 
 namespace Content.Goobstation.Shared.Changeling.Systems;
 
-public abstract class SharedVoidAdaptionSystem : EntitySystem
+public abstract partial class SharedVoidAdaptionSystem : EntitySystem
 {
-    [Dependency] private readonly AlertsSystem _alerts = default!;
-    [Dependency] private readonly SharedPopupSystem _popup = default!;
+    [Dependency] private AlertsSystem _alerts = default!;
+    [Dependency] private SharedPopupSystem _popup = default!;
 
     public override void Initialize()
     {
@@ -47,7 +47,7 @@ public abstract class SharedVoidAdaptionSystem : EntitySystem
     {
         // incase something removes the component
         _alerts.ClearAlert(
-            ent,
+            ent.Owner,
             ent.Comp.Alert);
     }
 
@@ -164,11 +164,11 @@ public abstract class SharedVoidAdaptionSystem : EntitySystem
 
             // void adaption recovering from fire can have these alerts show up (mainly when in space/vacuum)
             _alerts.ClearAlert(
-            ent,
+            ent.Owner,
             LowPressureAlert);
 
             _alerts.ClearAlert(
-            ent,
+            ent.Owner,
             LowTempAlert);
 
             return true;
@@ -218,7 +218,7 @@ public abstract class SharedVoidAdaptionSystem : EntitySystem
             return;
 
         _alerts.ShowAlert(
-            ent,
+            ent.Owner,
             ent.Comp.Alert);
     }
 
@@ -229,7 +229,7 @@ public abstract class SharedVoidAdaptionSystem : EntitySystem
             return;
 
         _alerts.ClearAlert(
-            ent,
+            ent.Owner,
             ent.Comp.Alert);
     }
 

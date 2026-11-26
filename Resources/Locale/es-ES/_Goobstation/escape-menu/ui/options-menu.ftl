@@ -16,3 +16,5 @@ ui-options-admin-notifications-volume = Volumen de notificaciones de administrad
 
 # Capibara: translations ported from upstream
 ui-options-lock-action-bar-drag = Permitir arrastrar acciones en la barra rápida solo mientras el menú de acciones esté abierto
+
+ui-options-inhand-interaction-particle-scale = Tamaño del icono de interacción superior

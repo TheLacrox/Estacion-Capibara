@@ -110,3 +110,7 @@ reagent-desc-posca = La bebida de los guerreros pobres de una era olvidada.
 
 reagent-name-mopwata = mopwata
 reagent-desc-mopwata = Agua sucia y estancada del mocho.
+
+reagent-name-orange-lime-soda = bikeshed cítrico
+
+reagent-desc-orange-lime-soda = ¡El refresco debería ser de naranja! ¡No, debería ser de lima-limón!

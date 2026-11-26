@@ -1,5 +1,3 @@
-// SPDX-FileCopyrightText: 2026 Raze500
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Goobstation.Shared.SeeOverLayer;
@@ -17,10 +15,10 @@ namespace Content.Goobstation.Client.SeeOverLayer;
 /// This system is intentionally generic: it does not know about kudzu, Diona,
 /// or any other specific content. Species and objects opt in via YAML.
 /// </summary>
-public sealed class SeeOverLayerSystem : EntitySystem
+public sealed partial class SeeOverLayerSystem : EntitySystem
 {
-    [Dependency] private readonly IPlayerManager _player = default!;
-    [Dependency] private readonly SpriteSystem _sprite = default!;
+    [Dependency] private IPlayerManager _player = default!;
+    [Dependency] private SpriteSystem _sprite = default!;
 
     public override void Initialize()
     {

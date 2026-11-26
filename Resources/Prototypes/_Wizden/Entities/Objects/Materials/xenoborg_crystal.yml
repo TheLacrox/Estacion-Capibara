@@ -44,3 +44,6 @@
   components:
   - type: Stack
     count: 1
+
+- type: Tag
+  id: XenoborgCrystal

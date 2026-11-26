@@ -30,3 +30,5 @@ ent-SurveillanceCameraWirelessRouterBase = enrutador de cámaras inalámbrico
 
 ent-SurveillanceCameraWirelessRouterEntertainment = enrutador de cámaras de entretenimiento
     .desc = Un enrutador de cámaras de vigilancia inalámbrico. Enruta. Quizás.
+
+ent-SurveillanceCameraWirelessRouterXenoborg = enrutador inalámbrico de cámaras de xenoborgs

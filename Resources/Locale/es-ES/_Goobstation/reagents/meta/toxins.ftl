@@ -28,3 +28,11 @@ reagent-desc-nevcottapowder = Un polvo altamente tóxico creado moliendo la cort
 
 reagent-name-microplastics = microplastics
 reagent-desc-microplastics = Un contaminante ligeramente tóxico que se encuentra en muchos objetos cotidianos. Sus efectos tóxicos no parecen afectar a los Vox.
+
+reagent-name-caffeine = cafeína
+
+reagent-desc-caffeine = Aumenta la velocidad de movimiento en dosis bajas, pero causa temblores, dolor en el pecho y movimiento lento si hay demasiada en el torrente sanguíneo.
+
+reagent-name-junk-food = comida basura
+
+reagent-desc-junk-food = Te vuelve lento si comes demasiada.

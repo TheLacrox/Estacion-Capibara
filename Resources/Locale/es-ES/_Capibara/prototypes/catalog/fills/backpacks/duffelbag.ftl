@@ -60,3 +60,9 @@ ent-ClothingBackpackDuffelSyndicateDecoyKitFilled = paquete señuelo
 
 ent-ClothingBackpackDuffelAcolyteBundle = paquete de armadura de acólito
     .desc = Contiene la Armadura de Acólito, imprescindible para cualquier líder de culto.
+
+ent-ClothingBackpackDuffelSyndicateFilledMedicine = bolsa de viaje de medicinas del Sindicato
+    .desc = Una bolsa de viaje grande con reactivos medicinales esenciales.
+
+ent-ClothingBackpackDuffelSyndicateFilledStarterKit = paquete básico de operativo
+    .desc = Contiene un arma, suministros médicos, herramientas de irrupción, munición de repuesto y algunas utilidades sencillas.

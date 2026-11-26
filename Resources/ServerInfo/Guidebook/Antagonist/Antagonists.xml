@@ -1,8 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2023 dribblydrone <119393097+dribblydrone@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 UBlueberry <161545003+UBlueberry@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -22,6 +18,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - [textlink="Zombis" link="Zombies"] que ansian la carne de cada miembro de la tripulacion y criatura a bordo.
   - [textlink="Ninjas Espaciales" link="SpaceNinja"], maestros del espionaje y el sabotaje con equipo especial.
   - [textlink="Ladrones" link="Thieves"] impulsados por la cleptomania, decididos a satisfacer su vicio usando sus guantes especiales.
-  - [textlink="El Culto Cosmico" link="CosmicCult"], que buscan traer el fin de todas las cosas.
+  - [textlink="El Culto Cosmico" link="CosmicCult"], que buscan traer el fin de todas las cosas. <!-- DeltaV -->
+  - [textlink="Colosos Entrópicos" link="CosmicColossus"], imponentes monstruosidades de blindaje maligno. <!-- DeltaV -->
   - [textlink="Varias criaturas no humanoides" link="MinorAntagonists"] que generalmente atacan todo lo que se mueve.
 </Document>

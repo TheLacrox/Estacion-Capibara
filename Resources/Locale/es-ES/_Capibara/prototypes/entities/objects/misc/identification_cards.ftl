@@ -183,3 +183,11 @@ ent-SeniorOfficerIDCard = tarjeta de ID de oficial senior
 
 ent-UniversalIDCard = tarjeta de ID universal
     .desc = Una tarjeta de ID que te da acceso más allá de tus sueños más locos.
+
+ent-SyndiOperativeIDCard = tarjeta de ID de operativo del Sindicato
+
+ent-SyndiCorpsmanIDCard = tarjeta de ID de sanitario del Sindicato
+
+ent-SyndiCommanderIDCard = tarjeta de ID de comandante del Sindicato
+
+ent-XenoborgIDCard = tarjeta de ID de xenoborg

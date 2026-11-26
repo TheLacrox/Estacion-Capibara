@@ -6,3 +6,11 @@ ent-StatueVenusBlue = estatua de una doncella pura
 
 ent-StatueBananiumClown = estatua del salvador de bananium
     .desc = Una estatua de bananium. Retrata el regreso del salvador que se levantará y guiará a los payasos hacia el gran honk.
+
+ent-StatueIronsandSmall = estatua pequeña de arena de hierro
+
+ent-StatueIronsandSmall2 = estatua pequeña de arena de hierro
+
+ent-StatueIronsandTall = estatua alta de arena de hierro
+
+ent-StatueIronsandTall2 = estatua alta de arena de hierro

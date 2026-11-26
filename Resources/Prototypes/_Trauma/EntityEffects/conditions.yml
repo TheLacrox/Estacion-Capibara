@@ -7,3 +7,9 @@
       components:
       - HumanoidAppearance
     guidebookText: entity-condition-guidebook-is-humanoid
+
+# Capibara - referenced by genetics mutations; was silently ignored by the old NestedCondition stub.
+- type: entityCondition
+  id: IsAwake
+  condition: !type:MobStateCondition
+    mobstate: Alive

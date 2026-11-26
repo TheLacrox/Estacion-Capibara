@@ -43,3 +43,4 @@ store-caregory-spellbook-utility = Hechizos de utilidad
 store-caregory-spellbook-equipment = Equipamiento de mago
 store-caregory-spellbook-events = Hechizos de evento
 
+store-category-nukie-delivery = Ofertas

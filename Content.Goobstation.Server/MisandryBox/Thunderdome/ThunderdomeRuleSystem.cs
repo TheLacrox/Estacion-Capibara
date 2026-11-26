@@ -1,3 +1,4 @@
+using System.Linq;
 using Content.Goobstation.Common.Mind;
 using Content.Goobstation.Common.Mobs;
 using Content.Goobstation.Server.MisandryBox.Mind;
@@ -28,6 +29,7 @@ using Content.Shared.Mobs;
 using Content.Shared.Mobs.Components;
 using Content.Shared.Mind.Components;
 using Content.Shared.Popups;
+using Content.Shared.Power;
 using Content.Shared.Preferences;
 using Content.Shared.Weapons.Ranged.Components;
 using Robust.Server.Audio;
@@ -41,28 +43,30 @@ using Robust.Shared.Random;
 using Robust.Shared.Containers;
 using Robust.Shared.Spawners;
 using Robust.Shared.Timing;
+using Content.Shared.Damage.Systems;
+using Content.Shared.Damage.Components;
 
 namespace Content.Goobstation.Server.MisandryBox.Thunderdome;
 
-public sealed class ThunderdomeRuleSystem : EntitySystem
+public sealed partial class ThunderdomeRuleSystem : EntitySystem
 {
-    [Dependency] private readonly IConfigurationManager _cfg = default!;
-    [Dependency] private readonly IPlayerManager _playerManager = default!;
-    [Dependency] private readonly IRobustRandom _random = default!;
-    [Dependency] private readonly IGameTiming _timing = default!;
-    [Dependency] private readonly IServerPreferencesManager _prefs = default!;
-    [Dependency] private readonly EuiManager _euiManager = default!;
-    [Dependency] private readonly GameTicker _ticker = default!;
-    [Dependency] private readonly MindSystem _mind = default!;
-    [Dependency] private readonly SharedTransformSystem _transform = default!;
-    [Dependency] private readonly SharedContainerSystem _container = default!;
-    [Dependency] private readonly EntityLookupSystem _lookup = default!;
-    [Dependency] private readonly StationSpawningSystem _stationSpawning = default!;
-    [Dependency] private readonly PopupSystem _popup = default!;
-    [Dependency] private readonly AudioSystem _audio = default!;
-    [Dependency] private readonly TemporaryMindSystem _tempMind = default!;
-    [Dependency] private readonly ILocalizationManager _loc = default!;
-    [Dependency] private readonly GunSystem _gun = default!;
+    [Dependency] private IConfigurationManager _cfg = default!;
+    [Dependency] private IPlayerManager _playerManager = default!;
+    [Dependency] private IRobustRandom _random = default!;
+    [Dependency] private IGameTiming _timing = default!;
+    [Dependency] private IServerPreferencesManager _prefs = default!;
+    [Dependency] private EuiManager _euiManager = default!;
+    [Dependency] private GameTicker _ticker = default!;
+    [Dependency] private MindSystem _mind = default!;
+    [Dependency] private SharedTransformSystem _transform = default!;
+    [Dependency] private SharedContainerSystem _container = default!;
+    [Dependency] private EntityLookupSystem _lookup = default!;
+    [Dependency] private StationSpawningSystem _stationSpawning = default!;
+    [Dependency] private PopupSystem _popup = default!;
+    [Dependency] private AudioSystem _audio = default!;
+    [Dependency] private TemporaryMindSystem _tempMind = default!;
+    [Dependency] private ILocalizationManager _loc = default!;
+    [Dependency] private GunSystem _gun = default!;
 
     private const string RulePrototype = "ThunderdomeRule";
     private EntityUid? _ruleEntity;
@@ -620,15 +624,14 @@ public sealed class ThunderdomeRuleSystem : EntitySystem
             {
                 var inGun = container.ID is "gun_magazine" or "gun_chamber" or "revolver-ammo";
 
-                foreach (var contained in container.ContainedEntities)
+                foreach (var contained in container.ContainedEntities.ToArray())
                 {
                     toCheck.Enqueue(contained);
 
                     if (!inGun && TryComp<BallisticAmmoProviderComponent>(contained, out var ballistic))
                         RefillBallistic((contained, ballistic));
 
-                    if (!inGun && (HasComp<HitscanBatteryAmmoProviderComponent>(contained)
-                        || HasComp<ProjectileBatteryAmmoProviderComponent>(contained)))
+                    if (!inGun && (HasComp<BatteryAmmoProviderComponent>(contained)))
                         RefillBattery(contained);
 
                     if (!inGun && TryComp<RevolverAmmoProviderComponent>(contained, out var revolver))

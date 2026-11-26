@@ -1,10 +1,4 @@
 <!--
-SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
-SPDX-FileCopyrightText: 2024 BeeRobynn <robynthewarcrime@proton.me>
-SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
@@ -15,10 +9,19 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="MobGingerbread" Caption=""/>
   </Box>
 
-  Las galletas de jengibre son una especie de confitería sintiente. Tienen azúcar por sangre, y pueden ser despiezadas para obtener galletas. Al estar hechas de masa, pesan la mitad que las especies hechas de carne.
+  Las galletas de jengibre son una especie de confitería sintiente. Tienen azúcar por sangre, y pueden ser despiezadas para obtener galletas.
 
-  ## Estadísticas de daño
+  ## Ventajas
 
-  Las galletas de jengibre reciben 3 veces menos daño por fuego que los Humanos, no reciben daño por Asfixia (aunque siguen respirando y se sienten incómodas sin oxígeno), Pérdida de Sangre (aunque igualmente se sienten incómodas sin azúcar) ni daño por Frío (aunque son ralentizadas por el frío), pero reciben 1.5 veces más daño Contundente y reciben mucho daño por Calor al ser expuestas al agua externamente.
+  - Al estar hechas de masa, pesan la mitad que las especies hechas de carne.
+  - Las galletas de jengibre reciben [color=#1e90ff]3 veces menos daño por fuego[/color] que los Humanos.
+  - [color=#1e90ff]No reciben daño por Asfixia[/color] (aunque siguen respirando y se sienten incómodas sin oxígeno).
+  - [color=#1e90ff]No reciben daño por Pérdida de Sangre[/color] (aunque igualmente se sienten incómodas sin azúcar).
+  - [color=#1e90ff]No reciben daño por Frío[/color] (aunque son ralentizadas por el frío).
+
+  ## Desventajas
+
+  - Reciben [color=#FFA500]1.5 veces más daño Contundente.[/color]
+  - Reciben mucho [color=#FFA500]daño por Calor[/color] al ser expuestas al agua externamente.
 
 </Document>

@@ -60,3 +60,35 @@ alert-level-octarine-instructions = Se recomienda a los tripulantes que escuchen
 alert-level-honk = Honk
 alert-level-honk-announcement = ¡Un payaso malvado está suelto y causará daños catastróficos si no es ejecutado! Todos los tripulantes deben colaborar para ejecutar al payaso si es posible, o evacuar.
 alert-level-honk-instructions = Se recomienda a los tripulantes que ejecuten al payaso.
+
+alert-level-amber = Ámbar
+
+alert-level-amber-announcement = Existe una amenaza inmediata capaz de destruir la estación. Toda la tripulación debe armarse por cualquier medio y todo el personal no esencial debe ayudar a Seguridad y a los jefes de departamento en la defensa de la estación.
+
+alert-level-amber-instructions = La tripulación debe armarse para combatir una amenaza capaz de destruir la estación.
+
+alert-level-amber-locked = La alerta ámbar está bloqueada. Debe desbloquearse con autorización de mando o ante una amenaza que ponga fin a la estación antes de poder activarse.
+
+alert-level-amber-unlocked = Alerta ámbar desbloqueada. Ya puede activarse desde cualquier consola de comunicaciones.
+
+alert-level-amber-no-id = No se detecta ninguna tarjeta de ID. Sostén o lleva puesta una ID para deslizarla.
+
+alert-level-amber-needs-command = El desbloqueo de la alerta ámbar debe iniciarse con la ID de un Capitán o de un Jefe de Seguridad.
+
+alert-level-amber-first-swipe = Primera ID aceptada. Desliza una segunda ID de mando distinta para desbloquear la alerta ámbar.
+
+alert-level-amber-same-id = Esa ID ya se deslizó. Se necesita una segunda ID de mando distinta.
+
+alert-level-amber-needs-second-command = La segunda ID debe tener acceso de mando.
+
+alert-level-amber-verb-text = Desbloquear alerta ámbar
+
+alert-level-amber-verb-message = Desliza tu ID para desbloquear la alerta ámbar y poder activarla. Requiere la ID de un Capitán o de un Jefe de Seguridad más una segunda ID de mando distinta.
+
+alert-level-amber-authorized-initiated-announcement = Desbloqueo de la alerta ámbar iniciado por {$name}.
+
+alert-level-amber-authorized-announcement = La alerta ámbar ha sido desbloqueada por {$name}.
+
+alert-level-amber-unknown-name = Desconocido
+
+alert-level-amber-unlocked-announcement = La alerta ámbar ha sido desbloqueada y ya puede activarse desde cualquier consola de comunicaciones.

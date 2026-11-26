@@ -34,3 +34,5 @@ marking-VoxHairMadScientist = Científico loco Vox
 marking-VoxHairHedgehog = Erizo Vox
 marking-VoxHairBushy = Púas tupidas Vox
 marking-VoxHairSlick = Púas alisadas Vox
+
+marking-VoxHairCatfish = Bagre vox

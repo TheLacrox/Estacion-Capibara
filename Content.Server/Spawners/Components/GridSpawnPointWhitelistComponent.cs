@@ -1,25 +1,21 @@
-// SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
-// SPDX-License-Identifier: AGPL-3.0-or-later
-
 using Content.Shared.Whitelist;
 
 namespace Content.Server.Spawners.Components;
 
 /// <summary>
-/// Whitelist component for grid spawn points.
-/// When placed on a spawn point entity, limits which entities can use this spawn point.
+/// Defines whitelist and blacklist for entities that can spawn at a spawnpoint when they are spawned via the <see cref="RuleGridsSystem"/>
 /// </summary>
 [RegisterComponent]
 public sealed partial class GridSpawnPointWhitelistComponent : Component
 {
     /// <summary>
-    /// Whitelist for entities that can spawn at this point.
+    /// Whitelist of entities that can be spawned at this SpawnPoint
     /// </summary>
     [DataField]
     public EntityWhitelist? Whitelist;
 
     /// <summary>
-    /// Blacklist for entities that cannot spawn at this point.
+    /// Whitelist of entities that can't be spawned at this SpawnPoint
     /// </summary>
     [DataField]
     public EntityWhitelist? Blacklist;

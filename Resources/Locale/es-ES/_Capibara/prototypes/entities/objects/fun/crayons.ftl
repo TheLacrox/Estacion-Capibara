@@ -33,3 +33,8 @@ ent-CrayonPurple = crayón morado
 
 ent-CrayonBox = caja de crayones
     .desc = Es una caja de crayones.
+
+ent-CrayonInfinite = crayón infinito
+
+ent-CrayonBorg = crayón eléctrico
+    .desc = Supuestamente el tipo de crayón más delicioso de todos los universos; por desgracia, no puedes comerlo.

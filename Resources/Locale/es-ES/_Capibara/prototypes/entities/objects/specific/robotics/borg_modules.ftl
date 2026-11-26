@@ -148,3 +148,20 @@ ent-XenoborgModuleCloakDevice = módulo de dispositivo de camuflaje de xenoborg
 
 ent-XenoborgModuleSuperCloakDevice = módulo de dispositivo de camuflaje de xenoborg
     .desc = Módulo con un dispositivo que permite a los xenoborgs volverse verdaderamente invisibles durante menos tiempo.
+
+ent-BorgModuleArtistry = módulo de cyborg de arte
+    .desc = ¡Un módulo de manualidades mientras la estación arde!
+
+ent-BorgModuleInflatable = módulo de cyborg inflable
+
+ent-BorgModuleAdvancedTopical = módulo de cyborg de primeros auxilios avanzado
+    .desc = Módulo médico avanzado que contiene la adaptación para cyborg del codiciado hipospray. ¡Ahora tus cyborgs pueden inyectar hidrato de cloral aún más rápido a quienes dañan a la tripulación!
+
+ent-BorgModuleDoubleEsword = módulo de cyborg de espada de energía doble
+    .desc = Un módulo de armas que incluye una espada de energía doble.
+
+ent-BorgModuleC20r = módulo de cyborg C-20r ROW
+    .desc = Un módulo de armas que incluye una C-20r de ráfagas.
+
+ent-XenoborgModuleDoorControl = módulo de xenoborg de control de puertas
+    .desc = Módulo que permite a los xenoborgs controlar las esclusas.

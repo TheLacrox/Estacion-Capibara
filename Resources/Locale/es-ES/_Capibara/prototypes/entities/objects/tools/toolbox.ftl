@@ -18,3 +18,6 @@ ent-ToolboxSyndicate = caja de herramientas sospechosa
 
 ent-ToolboxGolden = caja de herramientas dorada
     .desc = Una caja de herramientas de oro macizo. Un rapero mataría por esto.
+
+ent-Foolbox = caja de tontos
+    .desc = Una caja de herramientas para tontos, repleta de equipo de payaso.

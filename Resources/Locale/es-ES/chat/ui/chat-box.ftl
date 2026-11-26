@@ -59,6 +59,6 @@ hud-chatbox-highlights-button = Enviar
 hud-chatbox-highlights-tooltip = Las palabras deben estar separadas por un salto de línea,
                                  si están entre " se resaltarán
                                  solo si están separadas por espacios o puntuación.
-hud-chatbox-highlights-placeholder = McHands
-                                     "Judge"
-                                     Medical
+hud-chatbox-highlights-placeholder = @McHands
+                                     "Juez"
+                                     Médico

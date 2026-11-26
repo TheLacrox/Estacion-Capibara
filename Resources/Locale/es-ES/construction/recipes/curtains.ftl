@@ -8,3 +8,5 @@ construction-recipe-curtains-pink = cortinas (rosa)
 construction-recipe-curtains-purple = cortinas (morado)
 construction-recipe-curtains-red = cortinas (rojo)
 construction-recipe-curtains-white = cortinas (blanco)
+
+construction-recipe-curtains-sky-blue = cortinas (azul cielo)

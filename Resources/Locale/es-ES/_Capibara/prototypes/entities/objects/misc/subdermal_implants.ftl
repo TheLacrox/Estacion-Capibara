@@ -60,3 +60,6 @@ ent-RadioImplantCentcomm = implante de radio
 
 ent-DeathRattleImplantCentcomm = implante de estertor de muerte de CentComm
     .desc = Este implante informará al canal de radio de CentComm si el usuario entra en estado crítico o muere.
+
+ent-VoiceMaskImplant = implante de máscara de voz
+    .desc = Este implante te permite cambiar tu voz a voluntad.

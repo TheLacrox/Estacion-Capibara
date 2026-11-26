@@ -228,3 +228,13 @@ loadout-group-psychologist-jumpsuit = Psicólogo mono
 
 loadout-group-boxer-jumpsuit = Boxeador mono
 loadout-group-boxer-gloves = Boxeador guantes
+
+loadout-group-jobtrinkets = Baratijas de trabajo
+
+loadout-group-survival-military = Mira la línea 14, nadie verá esto nunca, así que :3
+
+loadout-group-bartender-shaker = Coctelera de barman
+
+loadout-group-chaplain-bible = Libro sagrado
+
+loadout-group-cargo-technician-id = ID de técnico de carga

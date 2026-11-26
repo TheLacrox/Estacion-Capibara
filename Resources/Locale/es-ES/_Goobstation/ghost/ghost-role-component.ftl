@@ -24,7 +24,7 @@ ghost-role-information-skibidi-toilet-description = Mata gente con tu rizz skibi
 ghost-role-information-skibidi-toilet-rules = Eres un [color=red][bold]Antagonista[/bold][/color] con el objetivo de matar a tantos ohioanos como puedas.
 
 ghost-role-information-Hecu-name = Operativo HECU
-ghost-role-information-Hecu-description = El Comando Central necesita que algo se haga.
+ghost-role-information-Hecu-description = Sigue todas y cada una de las órdenes que te dé el [color=yellow][bold]Comando Central[/bold][/color]. Por lo demás, coopera con Seguridad para resolver los problemas de la estación.
 ghost-role-information-Hecu-rules = Estás obligado a obedecer las órdenes de tu superior, eres efectivamente su [color=#6495ed][bold]Familiar[/bold][/color].
 
 ghost-role-information-lootbug-name = Bicho del Botín

@@ -26,7 +26,7 @@ public sealed partial class WeightedRandomEffect : EntityEffectBase<WeightedRand
             builder.Append("- ");
             builder.Append((int) percent);
             builder.Append("%: ");
-            if (child.Effect.GuidebookEffectDescription(prototype, entSys) is not {} text)
+            if (child.Effect.EntityEffectGuidebookText(prototype, entSys) is not {} text)
             {
                 builder.Append("???,");
                 continue;

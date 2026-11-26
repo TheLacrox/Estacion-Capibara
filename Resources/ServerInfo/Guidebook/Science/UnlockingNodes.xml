@@ -1,0 +1,48 @@
+<Document>
+  # Desbloquear Nodos
+  <Box>
+    <GuideEntityEmbed Entity="ComplexXenoArtifact" Caption=""/>
+    <GuideEntityEmbed Entity="ComplexXenoArtifactItem" Caption=""/>
+  </Box>
+
+  Para activar y desbloquear nodos de un artefacto, debes:
+  - Consultar un nodo en la [bold]Consola de Análisis[/bold] para ver sus disparadores y efectos.
+  - Realizar los [bold]disparadores[/bold] indicados en la consola. Algunos requieren interactuar directamente con el artefacto, mientras que otros solo necesitan el entorno adecuado o una acción concreta realizada cerca.
+  - Una vez realizado con éxito un disparador, el artefacto responderá con el mensaje: [italic]"Empieza a moverse de formas extrañas..."[/italic]. El [bold]Escáner de Nodos[/bold] indicará entonces qué nodos concretos se están disparando.
+
+  Los artefactos entran en estado de desbloqueo tras cumplirse el primer disparador. Durante este estado, deben completarse todos los disparadores restantes. La ventana de desbloqueo dura al principio unos segundos y se reinicia cada vez que se activa un nuevo disparador. Esta ventana se alarga con cada nodo adicional desbloqueado, lo que da más tiempo para completar más disparadores.
+
+  Una vez completados con éxito todos los disparadores necesarios, el artefacto activará su efecto y aparecerá un mensaje que dice: [italic]"Se ralentiza, visiblemente cambiado."[/italic], y el nodo aparecerá como [bold][color=plum]Activo[/color][/bold] en la Consola.
+
+  Si un artefacto no logra activarse, dejará de resonar y mostrará el mensaje: [italic]"Se ralentiza antes de detenerse sin más."[/italic] Después entra en un periodo de enfriamiento antes de poder activarse de nuevo.
+
+  El orden de activación de los disparadores [bold]no importa[/bold] para cada nodo individual. [italic]Sin embargo[/italic], algunos disparadores afectan a varios nodos. Como regla general, empieza con un disparador que sea exclusivo del nodo que quieres desbloquear. Activar un disparador de otro nodo durante esta fase impide que el nodo objetivo se desbloquee hasta que termine el enfriamiento del artefacto.
+
+  <GuideReagentEmbed Reagent="Artifexium"/>
+
+  ## Nodos Activos
+  Una vez desbloqueado, un nodo se considera activo. Solo se pueden activar los nodos desbloqueados más altos de cada capa de un árbol; los nodos inferiores del mismo árbol ya no pueden dispararse una vez activado un nodo superior.
+
+  Los artefactos suelen tener varios árboles. La prioridad de las capas se aplica dentro de cada árbol, pero los distintos árboles funcionan de forma independiente. Esto significa que los nodos de árboles diferentes pueden activarse a la vez siempre que sean los nodos desbloqueados más altos de sus respectivos árboles.
+
+  [bold]La activación manual dispara todos los nodos desbloqueados a la vez y consume durabilidad.[/bold]
+
+  <GuideReagentEmbed Reagent="ArtifactGlue"/>
+
+  ## Disparadores
+  Algunos ejemplos:
+  - Examinar el artefacto
+  - Tocar un instrumento
+  - Dañarlo o lanzarlo
+  - Exponerlo a gases (plasma, tritio, etc.)
+  - Cambiar la presión o la temperatura
+  - Usar herramientas (destornillador, multiherramienta, palanca, llave inglesa)
+  - Salpicarlo con reactivos (sangre, agua, amoníaco, etc.)
+  - Matar algo cerca
+
+  ## Efectos
+  Los efectos pueden ser:
+  - [color=green]Inofensivos:[/color] producen plantas, animales o chatarra
+  - [color=#00ccff]Útiles:[/color] cargan baterías, crean instrumentos o dinero
+  - [color=red]Peligrosos:[/color] anomalías, radiación, explosiones, fauna hostil
+</Document>

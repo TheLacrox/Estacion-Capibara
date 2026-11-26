@@ -28,3 +28,5 @@ changelog-tab-title-Maps = Mapas
 
 cmd-changelog-desc = Abre el registro de cambios.
 cmd-changelog-help = Uso: changelog
+
+changelog-tab-title-Rules = Reglas

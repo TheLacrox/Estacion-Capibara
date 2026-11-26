@@ -46,3 +46,5 @@ comms-console-announcement-title-station = Consola de comunicaciones
 comms-console-announcement-title-centcom = Mando Central
 comms-console-announcement-title-nukie = Operativo Nuclear Sindicalista
 comms-console-announcement-title-station-ai = IA de la estación
+
+comms-console-announcement-title-wizard = Mago

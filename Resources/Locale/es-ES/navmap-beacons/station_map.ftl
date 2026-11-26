@@ -26,3 +26,5 @@ nav-beacon-pos-no-beacons = en medio de la nada
 nav-beacon-pos-format = [color={$color}]cerca de {$marker}[/color]
 nav-beacon-pos-format-direction = [color={$color}]{$modifier}{$direction} de {$marker}[/color]
 nav-beacon-pos-format-direction-mod-far = lejos {""}
+
+station-map-unknown-station = Estación desconocida

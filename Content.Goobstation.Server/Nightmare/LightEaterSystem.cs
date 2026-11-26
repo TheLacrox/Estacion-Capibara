@@ -1,18 +1,14 @@
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 Lumminal <81829924+Lumminal@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Roudenn <romabond091@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using System.Linq;
 using Content.Goobstation.Shared.Nightmare;
 using Content.Goobstation.Shared.Nightmare.Components;
 using Content.Server.Light.Components;
-using Content.Server.PowerCell;
 using Content.Shared.Actions;
 using Content.Shared.Hands.EntitySystems;
 using Content.Shared.Inventory;
 using Content.Shared.Light.Components;
+using Content.Shared.PowerCell;
 using Content.Shared.Silicons.Borgs.Components;
 using Content.Shared.Weapons.Melee.Events;
 
@@ -22,11 +18,11 @@ namespace Content.Goobstation.Server.Nightmare;
 /// This handles the Light Eater system.
 /// Light Eater is an armblade that ashes any light that it attacks.
 /// </summary>
-public sealed class LightEaterSystem : EntitySystem
+public sealed partial class LightEaterSystem : EntitySystem
 {
-    [Dependency] private readonly PowerCellSystem _powerCellSystem = default!;
-    [Dependency] private readonly SharedHandsSystem _handsSystem = default!;
-    [Dependency] private readonly SharedActionsSystem _actions = default!;
+    [Dependency] private PowerCellSystem _powerCellSystem = default!;
+    [Dependency] private SharedHandsSystem _handsSystem = default!;
+    [Dependency] private SharedActionsSystem _actions = default!;
 
     public override void Initialize()
     {

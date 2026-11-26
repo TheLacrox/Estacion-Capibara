@@ -87,3 +87,17 @@ spellbook-upgrade-fireball-description = ¡Mejora Bola de fuego hasta un máximo
 
 spellbook-upgrade-jaunt-name = Mejora de excursión etérea
 spellbook-upgrade-jaunt-description = ¡Mejora Excursión etérea hasta un máximo de nivel 3!
+
+spellbook-voidapplause-name = Aplauso del vacío
+
+spellbook-voidapplause-desc = Intercambia tu lugar con el objetivo, ¿no te dan ganas de bailar el boogie?
+
+spellbook-polymorph-spider-name = Polimorfia de araña
+
+spellbook-slip-name = Pendiente resbaladiza
+
+spellbook-slip-desc = Aprende las antiguas artes del Conserje y maldice a tu objetivo para que sea resbaladizo.
+
+spellbook-item-recall-name = Recuperación de objeto
+
+spellbook-item-recall-description = ¡Marca un objeto que sostengas y haz que vuelva a ti en cualquier momento con solo chasquear los dedos!

@@ -206,7 +206,7 @@ public sealed partial class CapibaraBankSystem
 
         // Spawn cash stack at ATM location
         var coordinates = _transform.GetMoverCoordinates(uid);
-        var cashEntity = _stackSystem.Spawn(args.Amount, new ProtoId<StackPrototype>("Credit"), coordinates);
+        var cashEntity = _stackSystem.SpawnAtPosition(args.Amount, new ProtoId<StackPrototype>("Credit"), coordinates);
 
         // Try to put it in the player's hands
         _hands.TryPickupAnyHand(player, cashEntity);

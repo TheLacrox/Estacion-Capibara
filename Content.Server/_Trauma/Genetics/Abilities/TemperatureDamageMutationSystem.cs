@@ -3,18 +3,19 @@
 using Content.Server.Temperature.Components;
 using Content.Shared._Trauma.Genetics.Abilities;
 using Content.Shared._Trauma.Genetics.Mutations;
+using Content.Shared.Temperature.Components;
 
 namespace Content.Server._Trauma.Genetics.Abilities;
 
 public sealed class TemperatureDamageMutationSystem : EntitySystem
 {
-    private EntityQuery<TemperatureComponent> _query;
+    private EntityQuery<TemperatureDamageComponent> _query;
 
     public override void Initialize()
     {
         base.Initialize();
 
-        _query = GetEntityQuery<TemperatureComponent>();
+        _query = GetEntityQuery<TemperatureDamageComponent>();
 
         SubscribeLocalEvent<TemperatureDamageMutationComponent, MutationAddedEvent>(OnAdded);
         SubscribeLocalEvent<TemperatureDamageMutationComponent, MutationRemovedEvent>(OnRemoved);

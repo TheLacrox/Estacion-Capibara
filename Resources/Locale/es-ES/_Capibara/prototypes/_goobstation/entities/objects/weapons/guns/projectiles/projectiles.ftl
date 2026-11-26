@@ -45,3 +45,6 @@ ent-ProjectileMonkeyDart = dardo lanzado por mono
 
 ent-BulletMime = bala (silenciosa)
     .desc = ¡Si puedes ver esto, probablemente estés muerto!
+
+ent-BulletSuperPlasmaCutter = proyectil del súper cortador
+    .desc = No está mal, pero aun así no querrás que te alcance.

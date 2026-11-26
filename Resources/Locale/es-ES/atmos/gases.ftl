@@ -13,3 +13,11 @@ gas-plasma-abbreviation = P
 gas-tritium-abbreviation = T
 gas-water-vapor-abbreviation = H₂O
 gas-unknown-abbreviation = X
+
+gas-bz-abbreviation = BZ
+
+gas-healium-abbreviation = HE+
+
+gas-nitrium-abbreviation = NTR
+
+gas-pluoxium-abbreviation = PLX

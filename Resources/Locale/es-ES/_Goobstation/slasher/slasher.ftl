@@ -91,3 +91,21 @@ slasher-relentless-grab-activate = ¡Te preparas para agarrar a tu próxima víc
 
 alerts-slasher-seen-name = Estado de Observación
 alerts-slasher-seen-desc = Muestra si actualmente alguien te está observando. No puedes entrar ni salir de la forma incorpórea mientras te observan.
+
+slasher-kit-guide-button = Esta variante se juega distinto: abre su página de la guía.
+
+slasher-kit-boogeyman = Boogeyman
+
+slasher-kit-boogeyman-desc = "Me pregunto si quizás... El Boogeyman puede moverse realmente a través de las sombras.."
+
+alerts-slasher-fear-name = Miedo
+
+alerts-slasher-fear-desc = El pavor que has esparcido. Cuanto más sube, más fuerte te vuelves y más fuerte suena tu presencia. Haz clic para activar o desactivar tu música de tema.
+
+slasher-fear-music-muted = Silencias tu tema. Tus víctimas aún lo oyen.
+
+slasher-fear-music-unmuted = Tu tema suena de nuevo.
+
+alerts-slasher-fear-victim-name = Miedo
+
+alerts-slasher-fear-victim-desc = El terror que te araña la mente mientras el asesino te caza. Cuanto más sube, más te ralentiza y te hiere. Rompe su línea de visión para que se desvanezca.

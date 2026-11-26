@@ -19,7 +19,7 @@ public sealed class TelepathyBUI : BoundUserInterface
     {
         base.Open();
 
-        var maxLength = EntMan.GetComponentOrNull<TelepathyActionComponent>(Owner)?.MaxLength ?? 30;
+        var maxLength = EntMan.GetComponentOrNull<MutationTelepathyActionComponent>(Owner)?.MaxLength ?? 30;
 
         var field = "msg";
         var prompt = Loc.GetString("MutationTelepathy-window-message");

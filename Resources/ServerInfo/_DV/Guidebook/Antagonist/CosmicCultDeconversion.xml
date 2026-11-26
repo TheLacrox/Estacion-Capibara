@@ -2,24 +2,25 @@
   # Desconversion
   <Box>
     <GuideEntityEmbed Entity="Bible" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicCenser" Caption=""/>
   </Box>
 
   Al intentar frustrar al [color=#4cabb3]Culto Cosmico[/color], hay varios metodos que la tripulacion puede emplear para garantizar su supervivencia y seguridad. Uno de estos metodos es la [color=Yellow]Desconversion[/color].
 
-  Para [color=Yellow]Desconvertir[/color] a un cultista cosmico, se pueden emplear dos metodos. El primero consiste en hacer que un cultista beba un vaso de [color=#91C3F7]Agua Bendita[/color] — por la fuerza, si es necesario. El Agua Bendita puede obtenerse de:
-  - Envios de suministros religiosos, disponibles en Carga. Estos contienen dos jarras de Agua Bendita, ademas de una Biblia.
-  - El uso de una Biblia por parte de un Capellan sobre la mayoria de los contenedores de agua bendecira el agua, convirtiendola en Agua Bendita.
+  Para [color=Yellow]Desconvertir[/color] a un cultista cósmico, debe usarse un [bold]Incensario Ardiente[/bold]. Los incensarios se alimentan con Agua Bendita, que puede obtenerse de:
+  - El uso de una Biblia por parte de un Capellán o un Mistagogo sobre la mayoría de los contenedores de agua bendecirá el agua, convirtiéndola en Agua Bendita.
 
   ## Metodos de Supresion
   <Box>
     <GuideEntityEmbed Entity="Bible" Caption=""/>
     <GuideEntityEmbed Entity="MindShieldImplanter" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicCenser" Caption=""/>
   </Box>
 
   La desconversion es solo uno de los metodos para hacer frente a un culto que avanza. Los miembros de la tripulacion a bordo de la estacion pueden, alternativamente, considerar invertir en implantadores de [color=Green]Escudo Mental[/color].
 
   Estos dispositivos de ultima generacion pueden evitar que influencias externas manipulen mentalmente a los miembros de la tripulacion, proporcionando una poderosa utilidad contra la influencia del culto.
 
-  La devocion del [color=Yellow]Capellan[/color] los hace inmunes a casi todos los poderes del culto cosmico.
+  La sintonización noosférica del [color=Yellow]Capellán[/color] y del [color=Yellow]Mistagogo[/color] los hace inmunes a casi todos los poderes del culto cósmico.
 
 </Document>

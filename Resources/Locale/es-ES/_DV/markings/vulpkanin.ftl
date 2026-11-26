@@ -176,13 +176,13 @@ marking-VulpTailFox3-fox3 = Cola de zorro (base)
 marking-VulpTailFox3-fox3-tip = Cola de zorro (punta)
 marking-VulpTailFox3 = Vulpkanin Zorro 3
 
-marking-VulpTailFennec-fennec = Cola de fennec
+marking-VulpTailFennec-fennec = Cola de fénec (base)
 marking-VulpTailFennec = Vulpkanin Fennec
 
 marking-VulpTailOtie-otie = Cola de Otie
 marking-VulpTailOtie = Vulpkanin Otie
 
-marking-VulpTailFluffy-fluffy = Cola esponjosa
+marking-VulpTailFluffy-fluffy = Cola esponjosa (base)
 marking-VulpTailFluffy = Vulpkanin esponjosa
 
 marking-VulpTailDalmatianWag-dalmatian_wag = Cola de dálmata
@@ -261,3 +261,47 @@ marking-VulpFacialHairRuff = Pelaje cuello
 marking-VulpFacialHairElder = Anciano
 marking-VulpFacialHairElderChin = Barbilla anciana
 marking-VulpFacialHairKita = Kita
+
+marking-VulpTailLongWag-long-wagging = Cola larga (base)
+
+marking-VulpTailLongWag-long-wagging-tip = Cola larga (punta)
+
+marking-VulpTailLongWag = Vulpkanin larga (meneo)
+
+marking-VulpTailCorgi-corgi = Cola de corgi
+
+marking-VulpTailCorgi = Vulpkanin corgi
+
+marking-VulpTailHusky-husky = Cola de husky (base)
+
+marking-VulpTailHuskyWag-husky-wagging = Cola de husky (base)
+
+marking-VulpTailHuskyWag-husky-wagging-inner = Cola de husky (interior)
+
+marking-VulpTailHuskyWag-husky-wagging-outer = Cola de husky (exterior)
+
+marking-VulpTailHuskyWag = Vulpkanin husky (meneo)
+
+marking-VulpTailHuskyAltWag-husky-wagging = Cola de husky
+
+marking-VulpTailHuskyAltWag = Vulpkanin husky (alt.) (meneo)
+
+marking-VulpTailFennec-fennec-tip = Cola de fénec (punta)
+
+marking-VulpTailFennecWag-fennec-wagging = Cola de fénec (base)
+
+marking-VulpTailFennecWag-fennec-wagging-tip = Cola de fénec (punta)
+
+marking-VulpTailFennecWag = Vulpkanin fénec (meneo)
+
+marking-VulpTailFluffy-fluffy-tip = Cola esponjosa (punta)
+
+marking-VulpTailFluffyWag-fluffy-wagging = Cola esponjosa (base)
+
+marking-VulpTailFluffyWag-fluffy-wagging-tip = Cola esponjosa (punta)
+
+marking-VulpTailFluffyWag = Vulpkanin esponjosa (meneo)
+
+marking-VulpTailDalmatian-dalmatian = Cola de dálmata
+
+marking-VulpTailDalmatian = Vulpkanin dálmata

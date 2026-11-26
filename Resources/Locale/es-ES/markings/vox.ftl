@@ -4,11 +4,11 @@ marking-TattooVoxHeartLeftArm = Tatuaje de brazo izquierdo Vox (Corazón)
 marking-TattooVoxHeartRightArm-heart_r_arm = Tatuaje de brazo derecho Vox (Corazón)
 marking-TattooVoxHeartRightArm = Tatuaje de brazo derecho Vox (Corazón)
 
-marking-TattooVoxHiveChest-hive_s = Tatuaje de pecho Vox (Colmena)
-marking-TattooVoxHiveChest = Tatuaje de pecho Vox (Colmena)
+marking-TattooVoxHiveChest-hive_s = Tatuaje de pecho de vox (colmena)
+marking-TattooVoxHiveChest = Tatuaje de pecho de vox (colmena)
 
-marking-TattooVoxNightlingChest-nightling_s = Tatuaje de pecho Vox (Nocturno)
-marking-TattooVoxNightlingChest = Tatuaje de pecho Vox (Nocturno)
+marking-TattooVoxNightlingChest-nightling_s = Tatuaje de pecho de vox (Nightling)
+marking-TattooVoxNightlingChest = Tatuaje de pecho de vox (Nightling)
 
 marking-VoxScarEyeRight-vox_scar_eye_right = Cicatriz en el ojo derecho
 marking-VoxScarEyeRight = Cicatriz ocular (Derecha)
@@ -60,3 +60,67 @@ marking-VoxTailSpikes = Cola Vox (Espinosa)
 
 marking-VoxTailDocked-vox_tail_docked = Cola Vox (Vestigial)
 marking-VoxTailDocked = Cola Vox (Vestigial)
+
+marking-TattooVoxNightlingHead-tattoo_nightling_head = Tatuaje de cabeza vox (Nightling)
+
+marking-TattooVoxNightlingHead = Tatuaje de cabeza vox (Nightling)
+
+marking-TattooVoxArrowHead-tattoo_arrow_head = Tatuaje de cabeza vox (flecha)
+
+marking-TattooVoxArrowHead = Tatuaje de cabeza vox (flecha)
+
+marking-VoxTattooEyeliner-eyeliner = Delineador de ojos
+
+marking-VoxTattooEyeliner = Delineador de ojos
+
+marking-VoxVisage-visage = Rostro (completo)
+
+marking-VoxVisage = Rostro (completo)
+
+marking-VoxVisageL-visage_l = Rostro (izquierdo)
+
+marking-VoxVisageL = Rostro (izquierdo)
+
+marking-VoxVisageR-visage_r = Rostro (derecho)
+
+marking-VoxVisageR = Rostro (derecho)
+
+marking-VoxCheek-cheekblush = Mejillas
+
+marking-VoxCheek = Mejillas
+
+marking-VoxBeak-beak = Pico (puntiagudo)
+
+marking-VoxBeakSquareCere-beak_squarecere = Pico (cera cuadrada)
+
+marking-VoxBeakSquareCere = Pico (cera cuadrada)
+
+marking-VoxBeakHooked-beak_hooked = Pico (ganchudo)
+
+marking-VoxBeakHooked = Pico (ganchudo)
+
+marking-VoxBeakShaved-beak_shaved = Pico (rasurado)
+
+marking-VoxBeakShaved = Pico (rasurado)
+
+marking-VoxBeakCoverTip-beakcover_tip = Punta del pico
+
+marking-VoxBeakCoverTip = Punta del pico
+
+marking-VoxBeakCoverStripe-beakcover_stripe = Franja del pico
+
+marking-VoxBeakCoverStripe = Franja del pico
+
+marking-TattooVoxNightbelt-nightbelt = Tatuaje de estómago vox (Nightling)
+
+marking-TattooVoxNightbelt = Tatuaje de estómago vox (Nightling)
+
+marking-TattooVoxChestV-night_v = Tatuaje de pecho vox (forma de V)
+
+marking-TattooVoxChestV = Tatuaje de pecho vox (forma de V)
+
+marking-TattooVoxUnderbelly-underbelly = Vientre
+
+marking-TattooVoxUnderbelly = Vientre
+
+marking-VoxTailSplit-vox_tail_split = Cola vox (dividida)

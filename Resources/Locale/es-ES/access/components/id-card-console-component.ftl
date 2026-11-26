@@ -16,9 +16,13 @@ id-card-console-window-save-button = Guardar
 id-card-console-window-job-title-label = Título de trabajo:
 id-card-console-window-eject-button = Expulsar
 id-card-console-window-insert-button = Insertar
-id-card-console-window-job-selection-label = Preajustes de trabajo (establece departamento e ícono de trabajo):
+id-card-console-window-job-selection-label = Preajuste de trabajo (define el departamento y el icono de trabajo):
 
 access-id-card-console-component-no-hands-error = No tienes manos.
 id-card-console-privileged-id = ID con privilegios
 id-card-console-target-id = ID objetivo
 id-card-console-damaged = Integridad estructural comprometida, expulsando contenidos.
+
+id-card-console-window-select-all-button = Conceder todo
+
+id-card-console-window-deselect-all-button = Revocar todo

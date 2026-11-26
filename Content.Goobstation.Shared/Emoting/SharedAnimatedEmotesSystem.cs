@@ -1,12 +1,10 @@
-// SPDX-FileCopyrightText: 2024 username <113782077+whateverusername0@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 whateverusername0 <whateveremail>
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Misandry <mary@thughunt.ing>
-// SPDX-FileCopyrightText: 2025 gus <august.eymann@gmail.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Goobstation.Shared.Projectiles;
+using Content.Shared.Chat;
+using Content.Shared.Chat.Prototypes;
+using Content.Shared.Damage.Components;
+using Content.Shared.Damage.Systems;
 using Content.Shared.Emoting;
 using Content.Shared.Mobs;
 using Content.Shared.Mobs.Components;
@@ -14,13 +12,14 @@ using Content.Shared.Silicons.Borgs.Components;
 using Content.Shared.Standing;
 using Content.Shared.Stunnable;
 using Robust.Shared.GameStates;
+using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
 
 namespace Content.Goobstation.Shared.Emoting;
 
-public abstract class SharedAnimatedEmotesSystem : EntitySystem
+public abstract partial class SharedAnimatedEmotesSystem : EntitySystem
 {
-    [Dependency] private readonly IGameTiming _timing = default!;
+    [Dependency] private IGameTiming _timing = default!;
 
     private const float DodgeStaminaCost = 20f;
     private const float BorgDodgeBatteryCost = 20f;
@@ -38,7 +37,17 @@ public abstract class SharedAnimatedEmotesSystem : EntitySystem
 
     private void OnGetState(Entity<AnimatedEmotesComponent> ent, ref ComponentGetState args)
     {
-        args.State = new AnimatedEmotesComponentState(ent.Comp.Emote);
+        args.State = new AnimatedEmotesComponentState(ent.Comp.Emote, ent.Comp.EmoteTime);
+    }
+
+    public void SetEmote(Entity<AnimatedEmotesComponent?> ent, ProtoId<EmotePrototype>? emote)
+    {
+        if (!Resolve(ent, ref ent.Comp, false))
+            return;
+
+        ent.Comp.Emote = emote;
+        ent.Comp.EmoteTime = _timing.CurTime;
+        Dirty(ent);
     }
 
     public override void Update(float frameTime)

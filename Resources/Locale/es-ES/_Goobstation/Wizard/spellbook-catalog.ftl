@@ -193,3 +193,11 @@ spellbook-rathen-desc =
     Invoca una poderosa onda expansiva a tu alrededor que derriba a todos, obligándolos a defecar su apéndice.
     Si tu víctima ya ha perdido su apéndice, en su lugar recibe 10 de daño contundente con una alta probabilidad de arrancarle otras extremidades externas.
     Requiere túnica y sombrero de mago para lanzarse.
+
+spellbook-summon-supermatter-name = Invocar supermateria
+
+spellbook-summon-supermatter-desc =
+    Invoca un cristal de supermateria activo. Te imbuye de algo de supermateria, otorgándote resistencia a su desintegración en cenizas e inmunidad a la radiación.
+    Mejorar este hechizo reduce un minuto su tiempo de reutilización por nivel.
+    No se puede reembolsar.
+    Requiere túnica y sombrero de mago para lanzarlo.

@@ -334,7 +334,7 @@ uplink-capoeira-name = Manual de Capoeira
 uplink-capoeira-desc = Un manual que enseña a un usuario Capoeira antes de autodestruirse. La Capoeira se centra en ataques veloces que se encadenan en combos fluidos, con cada movimiento más rápido y duro que el anterior, impulsado por un impulso implacable.
 
 uplink-sleeping-carp-name = Pergamino del Camino de la Carpa Durmiente
-uplink-sleeping-carp-desc = Este pergamino de un solo uso contiene los secretos de una antigua técnica de artes marciales. Dominarás el combate sin armas, desviarás disparos de armas a distancia, y las carpas espaciales se volverán amigables contigo. Aprender este arte significa que también rechazarás usar deshonrosas armas a distancia. No puede ser comprendido por cambiaformas.
+uplink-sleeping-carp-desc = Este pergamino de un solo uso contiene los secretos de una antigua técnica de artes marciales. Dominarás el combate sin armas, esquivarás sin esfuerzo el fuego de armas a distancia y las carpas espaciales se volverán amistosas contigo. Aprender este arte también significa que te negarás a usar armas a distancia deshonrosas. Los changelings no pueden entenderlo.
 
 
 # Misc

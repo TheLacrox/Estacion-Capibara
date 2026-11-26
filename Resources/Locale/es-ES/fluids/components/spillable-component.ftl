@@ -18,4 +18,4 @@ spill-melee-hit-others = ¡{CAPITALIZE(THE($attacker))} derrama algo de {THE($sp
 spill-land-spilled-on-other = ¡{CAPITALIZE(THE($spillable))} derrama parte de su solución sobre {THE($target)}!
 
 spill-examine-is-spillable = Este contenedor parece derramable.
-spill-examine-spillable-weapon = Podrías salpicar esto sobre alguien con un ataque cuerpo a cuerpo.
+spill-examine-spillable-weapon = Podrías salpicarlo sobre alguien con un ataque.

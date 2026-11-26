@@ -240,3 +240,24 @@ stack-white-marble-floor = suelo de mármol blanco
 stack-dark-marble-floor = suelo de mármol oscuro
 stack-plasma-marble-floor = suelo de plasmarble
 stack-uranium-marble-floor = suelo de mármol de uranio
+
+stack-explosive-cord = {$amount ->
+    [1] cordón explosivo
+    *[other] cordones explosivos
+}
+
+stack-ironsand-concrete-tile = baldosa de hormigón de arena de hierro
+
+stack-ironsand-concrete-mono-tile = baldosa mono de hormigón de arena de hierro
+
+stack-ironsand-concrete-smooth = hormigón liso de arena de hierro
+
+stack-dark-astro-grass-floor = suelo de astrohierba oscura
+
+stack-light-astro-grass-floor = suelo de astrohierba clara
+
+stack-desert-astro-sand-floor = suelo de astroarena del desierto
+
+stack-astro-ironsand-floor = suelo de astroarena de hierro
+
+stack-astro-ironsand-floor-borderless = suelo de astroarena de hierro sin bordes

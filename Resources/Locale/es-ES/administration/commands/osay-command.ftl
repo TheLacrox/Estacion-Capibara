@@ -13,3 +13,7 @@ osay-command-arg-message = mensaje
 
 osay-command-error-args = Número de argumentos no válido
 osay-command-error-euid = {$arg} no es un uid de entidad válido.
+
+cmd-osay-desc = Obliga a otra entidad a intentar enviar un mensaje
+
+cmd-osay-help = Uso: {$command} <uid> <tipo> <mensaje>

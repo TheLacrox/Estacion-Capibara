@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-This is **Capibara Station**, a fork of Goob Station, which is itself a fork of Space Station 14 (SS14). It's a multiplayer game built on the **RobustToolbox** engine (git submodule). The codebase is C# 12 on .NET 9.0, using an Entity Component System (ECS) architecture. The station is bilingual (English and Spanish).
+This is **Capibara Station**, a fork of Goob Station, which is itself a fork of Space Station 14 (SS14). It's a multiplayer game built on the **RobustToolbox** engine (git submodule). The codebase is C# 14 on .NET 10.0, using an Entity Component System (ECS) architecture. The station is bilingual (English and Spanish).
 
 ## Build & Run Commands
 
@@ -127,14 +127,13 @@ Sometimes you need to hook into existing upstream systems. These edits create me
 | `Content.Server/Chat/Systems/ChatSystem.cs` | Raise `SpeechFontOverrideEvent` for Trauma genetics | Low (small addition) |
 | `Content.Server/Radio/EntitySystems/RadioSystem.cs` | Raise `SpeechFontOverrideEvent` for Trauma genetics | Low (small addition) |
 | `Content.Server/Medical/MedicalScannerSystem.cs` | Raise scanner events for Trauma genetics | Low (small addition) |
-| `Content.Shared/Chemistry/Reaction/ReactiveComponent.cs` | Add `ScaleOverride` field for Trauma genetics | Low (append field) |
-| `Content.Shared/EntityEffects/Effects/StatusEffects/GenericStatusEffect.cs` | Add `Update` to `StatusEffectMetabolismType` enum for Trauma genetics | Low (prepend value) |
-| `Content.Shared/Trigger/Systems/DnaScrambleOnTriggerSystem.cs` | Extract public `Scramble()` method for `ScrambleDna` entity effect | Low (refactor) |
 | `Resources/Prototypes/Roles/Jobs/departments.yml` | Added Geneticist to Science department roles | Low (append to list) |
 | `Resources/Prototypes/Guidebook/science.yml` | Added Genetics to Science guidebook children | Low (append to list) |
-| `Content.Shared/Body/Systems/SharedBloodstreamSystem.cs` | Raise `BleedModifierEvent` in bleed tick for Trauma genetics bleeding mutation | Low (small addition) |
 | `Resources/Prototypes/Entities/Mobs/Species/base.yml` | Add `MutatableComponent` to `BaseMobSpeciesOrganic` for genetics system | Low (append component) |
-| `Content.Packaging/ServerPackaging.cs` | Add `StackExchange.Redis` + `Pipelines.Sockets.Unofficial` to `ServerExtraAssemblies` so TTS deps ship in the packaged server (else `TTSClient` crashes on load in Docker/published builds) | Low (append to list) |
+| `Content.Shared.Database/LogType.cs` | `SiliconLaws = 10006` kept for existing admin-log rows, so Goob's `Paint` is `10007` | Low (enum value) |
+| `Content.Server/VendingMachines/VendingMachineSystem.cs` | Raise `VendingMachineMapInitEvent` so pricing is added after map init | Low (small addition) |
+| `Content.IntegrationTests/Tests/GameRules/RuleMaxTimeRestartTest.cs` | Expect 3 rules: `StationObjectivesRule` is in every preset | Low (2 lines) |
+| `Content.IntegrationTests/Tests/_Shitmed/Body/BodySetupTest.cs` | Ignore `MobSpaceJesus` in `AllMobsCanDie` | Low (append to set) |
 
 **Rules for upstream edits:**
 
@@ -237,7 +236,7 @@ The server deploys as a **3-service Docker Compose stack that Dokploy builds fro
 
 | File | Purpose |
 |---|---|
-| `Dockerfile` | Multi-stage build: SDK stage packages `Content.Packaging server --platform linux-x64 --hybrid-acz`; runtime stage on `dotnet/runtime:9.0` (server is framework-dependent, `--no-self-contained`) |
+| `Dockerfile` | Multi-stage build: SDK stage packages `Content.Packaging server --platform linux-x64 --hybrid-acz`; runtime stage on `dotnet/runtime:10.0` (server is framework-dependent, `--no-self-contained`) |
 | `Dockerfile.tts` | TTS worker (apt `ffmpeg` for OGG conversion + `pip install redis edge-tts`, runs `Tools/tts_worker.py`) |
 | `docker-compose.yml` | The prod stack + `ss14-data` volume (replaces the old redis-only dev file) |
 | `entrypoint.sh` | Maps `SS14_*` env vars → `--cvar` flags; launches `Robust.Server --config-file ... --data-dir /data` |
@@ -262,7 +261,7 @@ docker compose up                  # connect a client to localhost:1212
 
 ### Packaging gotcha (important)
 
-`Content.Packaging/ServerPackaging.cs` **whitelists** assemblies (`ServerExtraAssemblies`) and strips unknown third-party DLLs. Any new server dependency that isn't a `Content.*` assembly must be added there or the **packaged/published/Docker server crashes on boot** (it works locally from `bin/` regardless). TTS's `StackExchange.Redis` + `Pipelines.Sockets.Unofficial` were added for this reason. When adding a new third-party server dependency, add it to `ServerExtraAssemblies` too.
+`Content.Packaging/ServerPackaging.cs` bundles every dependency in `Content.Goobstation.Server.deps.json` except those in `ServerNotExtraAssemblies` (and anything the engine already ships). A new `PackageReference` on a server project ships automatically; no whitelist edit is needed anymore.
 
 ## Code Style
 

@@ -1,15 +1,7 @@
-// SPDX-FileCopyrightText: 2022 AJCM-git <60196617+AJCM-git@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2022 Andreas Kämper <andreas@kaemper.tech>
-// SPDX-FileCopyrightText: 2022 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2022 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2022 Mervill <mervills.email@gmail.com>
-// SPDX-FileCopyrightText: 2022 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2024 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-//
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using System.Linq;
+using Content.Client._Funkystation.VendingMachines; // Goob
 using Content.Shared.VendingMachines;
 using Robust.Client.Animations;
 using Robust.Client.GameObjects;
@@ -44,6 +36,7 @@ public sealed class VendingMachineSystem : SharedVendingMachineSystem
         component.EjectEnd = state.EjectEnd;
         component.DenyEnd = state.DenyEnd;
         component.DispenseOnHitEnd = state.DispenseOnHitEnd;
+        component.Broken = state.Broken;
 
         // If all we did was update amounts then we can leave BUI buttons in place.
         var fullUiUpdate = !component.Inventory.Keys.SequenceEqual(state.Inventory.Keys) ||
@@ -69,7 +62,7 @@ public sealed class VendingMachineSystem : SharedVendingMachineSystem
             component.ContrabandInventory.Add(entry.Key, new(entry.Value));
         }
 
-        if (UISystem.TryGetOpenUi<VendingMachineBoundUserInterface>(uid, VendingMachineUiKey.Key, out var bui))
+        if (UISystem.TryGetOpenUi<BoundUserInterface>(uid, VendingMachineUiKey.Key, out var baseBui) && baseBui is IVendingMachineBoundUi bui) // Goob
         {
             if (fullUiUpdate)
             {
@@ -87,9 +80,9 @@ public sealed class VendingMachineSystem : SharedVendingMachineSystem
         if (!Resolve(entity, ref entity.Comp))
             return;
 
-        if (UISystem.TryGetOpenUi<VendingMachineBoundUserInterface>(entity.Owner,
+        if (UISystem.TryGetOpenUi<BoundUserInterface>(entity.Owner,
                 VendingMachineUiKey.Key,
-                out var bui))
+                out var baseBui) && baseBui is IVendingMachineBoundUi bui) // Goob
         {
             bui.UpdateAmounts();
         }

@@ -1,0 +1,38 @@
+<Document>
+  # Sintéticos
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceSynth" Caption=""/>
+  </Box>
+
+  [color=#ffa500]¡Advertencia! ¡Esta especie no se recomienda para nuevos jugadores debido a importantes cambios en la jugabilidad![/color]
+
+  Los Sintéticos son una especie de humanoides artificiales que recuerdan vagamente a lagartos bípedos, y que se mantienen mediante una combinación de maquinaria compleja conocida y métodos de tratamiento de carne orgánica.
+
+  ## Rasgos Raciales
+
+  - Pueden hablar y entender el Básico de Tau-Ceti y el Lenguaje Robótico.
+  - Dependen de una celda de energía interna, que puede [color=yellow]reemplazarse mediante cirugía[/color] y recargarse en cualquier cargador de celdas. Su movimiento quedará [color=yellow]afectado[/color] si llega al 0% de carga.
+  - Además de la celda de energía interna, cuentan con un biorreactor en miniatura, que procesa masa orgánica para generar energía y facilita la reparación corporal autónoma. Comer recarga la celda de energía.
+  - Sus nanitos internos les permiten recuperarse pasivamente de daño Contundente, por Quemadura y Celular a costa de saciedad. Las reparaciones autónomas son [color=yellow]lentas[/color] y acabarán [color=red]dejando sin alimento[/color] al biorreactor si no se mantiene.
+  - Contienen fullereno, una solución similar a la sangre basada en carbono, que ayuda a sus nanitos internos a realizar reparaciones. Las reparaciones autónomas se [color=yellow]ralentizarán[/color] a medida que se agoten las reservas de fullereno.
+  - Debido a su complejidad, es imposible inyectar reactivos directamente en el torrente sanguíneo de un Sintético, por lo que la administración oral es [color=yellow]necesaria para la metabolización[/color]. ¡Las agujas y los hyposprays [color=red]no funcionarán[/color]!
+  - No necesitan respirar, y pueden comer materiales en bruto como mineral, láminas y varillas.
+  - El Carbono metabolizado ayuda a restaurar el fullereno agotado. En caso de emergencia, se pueden fabricar [color=yellow]paquetes de fullereno de repuesto[/color] en un fabricador tecnológico médico, lo que requiere diamantes.
+  - Reciben [color=#8147ff]un 40% más de daño por Descarga[/color], [color=#B9BF93]un 25% menos de daño Contundente[/color], [color=#B9BF93]un 10% menos de daño Cortante[/color], [color=#ffa500]un 5% más de daño Perforante[/color], [color=#B9BF93]un 15% menos de daño por Calor[/color], [color=#1e90ff]un 40% menos de daño por Frío[/color] y [color=#B9BF93]un 20% menos de daño por Radiación[/color].
+  - El daño por Descarga [color=yellow]recarga su celda de energía[/color], pero [color=red]también inflige daño Celular[/color].
+  - Los PEM son [color=red]peligrosos[/color] pero no letales, capaces de [color=yellow]agotar por completo su celda de energía interna[/color] e infligir daño por Descarga y por Calor.
+
+  <Box>
+    <GuideEntityEmbed Entity="OrganSynthBrain" Scale="5" Caption=""/>
+  </Box>
+
+  ## Unidad Central de Computación
+
+  - Las UCC de los Sintéticos funcionan de forma similar a los cerebros positrónicos y pueden [color=yellow]insertarse directamente en un chasis de cyborg[/color].
+
+  ## Nanitos
+
+  - Los nanitos son el medio más eficaz de tratamiento para las heridas de los Sintéticos, a pesar de una [color=red]peligrosa sobredosis a partir de >10.5 unidades[/color], y pueden [color=yellow]crearse mediante química[/color] usando una máquina de [color=yellow]electrólisis[/color]. [color=red]¡Advertencia! ¡Los nanitos son increíblemente letales para las especies orgánicas y deben manejarse con extrema precaución![/color]
+
+</Document>
