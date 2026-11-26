@@ -25,6 +25,8 @@ This repo ships a 3-service Docker Compose stack that Dokploy builds from source
    - **UDP 1212** must be open on the host and published (gameplay). Traefik cannot proxy UDP.
    - **TCP 1212** is the status/launcher endpoint. Front it with Dokploy's domain + HTTPS
      (Traefik) so the launcher uses `ss14s://<domain>`, or expose it directly.
+   - **Voice chat** needs a second Dokploy domain on `game-server`: same host, path
+     `/voice/ws`, container port **1213**, HTTPS on. See "Voice chat" below.
 7. **Resources:** the from-source build is heavy (~10-15 min, several GB). Give the
    Dokploy host enough CPU/RAM/disk.
 
@@ -47,6 +49,22 @@ Caveats:
   zero inbound exposure regardless of isolation. Redis is never reachable from the host or
   internet.
 
+## Voice chat
+Goob's proximity voice chat is on in `Docker/server_config.prod.toml` (`[voice]`). Nothing
+extra is hosted: the game server serves the page and runs the mic WebSocket itself.
+
+- **Page:** `https://<domain>/voice/`, served by the status host (TCP 1212). The link players
+  get is derived from `hub.server_url`, so `SS14_DOMAIN` must be set. Browsers only give
+  microphone access over HTTPS, so the plain `http://<ip>:1212/voice/` page cannot be used.
+- **WebSocket:** the page connects to `wss://<domain>/voice/ws`. The server listens on
+  `0.0.0.0:1213` inside the container (`voice.ws_bind`). Add a second Dokploy domain on
+  `game-server` with the same host, path `/voice/ws`, container port `1213`, HTTPS on.
+  Traefik picks the longer rule, so everything else keeps going to 1212.
+- **Do NOT publish 1213** in `ports:`. It must only be reachable through Traefik (TLS).
+- **Audio to players** travels over the normal UDP 1212 game connection. No extra port.
+- **Recording** is off (`voice.log_enabled = false`). Turning it on stores player voice in
+  `/data/voice_logs`; tell players in the rules first.
+
 ## Persistence
 A named volume `ss14-data` is mounted at `/data` (sqlite `preferences.db` + logs). It
 survives redeploys. Config travels in the image (edit `Docker/server_config.prod.toml` + redeploy).
@@ -64,6 +82,8 @@ survives redeploys. Config travels in the image (edit `Docker/server_config.prod
    → round loads (AtlasUpgraded).
 4. In-game speech produces TTS audio.
 5. Redeploy → `preferences.db` persists.
+6. Voice chat: `https://<domain>/voice/` loads, and after entering the in-game code the page
+   shows as connected (if it keeps retrying, the `/voice/ws` → 1213 route is missing).
 
 ## Local smoke test
 ```bash

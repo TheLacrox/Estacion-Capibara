@@ -65,5 +65,13 @@ sqlite_dbpath = "preferences.db"   # relative to --data-dir (/data) -> /data/pre
 enabled = true
 connection_string = "redis:6379"
 
+[voice]
+# Goob proximity voice chat. The page is served by the status host at /voice/ and needs HTTPS.
+# The mic WebSocket listens on 1213 inside the container: NOT published, reached only through
+# a Traefik route for path /voice/ws -> container port 1213 (see docs/deploy-dokploy.md).
+enabled = true
+ws_bind = "0.0.0.0:1213"
+log_enabled = false   # do not record player voice to /data/voice_logs
+
 [build]
 fork_id = "capibara"   # launcher manages client ZIPs per fork
